@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://dims.apnews.com/dims4/default/bd8e8cf/2147483647/strip/true/crop/1280x720+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe9%2Ff6%2F13267cc1371029e342d096b77184%2Fus-ny-ai-text-to-video-20240304cr-1920x1080.jpg"

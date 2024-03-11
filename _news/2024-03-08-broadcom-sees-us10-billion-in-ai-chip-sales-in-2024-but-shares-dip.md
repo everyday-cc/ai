@@ -7,7 +7,7 @@ originalUrl: "https://www.scmp.com/tech/big-tech/article/3254609/broadcom-sees-u
 webUrl: "https://www.scmp.com/tech/big-tech/article/3254609/broadcom-sees-us10-billion-ai-chip-sales-2024-shares-dip"
 type: article
 quality: 101
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -102,6 +102,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Broadcom: AI Saves The Day"
+    excerpt: "Broadcom reported strong Q1'24 with 34% YoY revenue growth, driven by data center and hyperscaler demand for AI infrastructure. Learn more on AVGO stock here."
+    publishedDateTime: 2024-03-11T21:21:00Z
+    webUrl: "https://seekingalpha.com/article/4677435-broadcom-ai-saves-the-day"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
 
 secured: "VosD8HoZ3NKc7OJGTn8NTqYgLeLdWolwTYqacbYNWdaGLsaz8WZs8/mSu+9UkuXh5ks3BWxOJ82QBVF7JzzwI1M7pRw5/RbxaBSKP8UtzYllkXO5dW+0poVAX14Ypf+BWds+zk+cJ0XDgTFH+TczXxyGqOyG9QiP+q0fLf3WE2ZsYmlGQ5Tqb61jM/xGoEGqRJpDmXEovVjzsXiCPeLKUnZ7JbaAKSl0cRBgFU7KX/KeiWNbCWepicAEOMLXug34DuyBPlyxbEkUMGF+Fv/3tkUp3rdKMXoxZU6WjihAMYg3PXhYNXtE47fvNkT23yIGaBL1kOZ6HZCf69e7PYgRRPTUc/oGd/bOexDRlYvRFjcDhK1HIaI38+IovHv8AX9036XJ0qfWiVMAwzrqQkV1iIoxko93yg6qEH89KC4M4rzONoQMkik7r49lRLhuvG9oO6zBVyDrny+58OsNUXidr1k9hI3AdCDRNjBuCxsUPskWU0ppEjODTbTknt6KrPHuHxGIG8Km1oEnyUYn1aNzcg==;umniebI8bsNFjAG1iJF4uQ=="
 ---

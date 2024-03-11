@@ -2,6 +2,197 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2024-01-04-meet-the-humanoid-robot-that-learns-from-natural-language-mimics-human-emotions.md",
+      "title": "Meet the humanoid robot that learns from natural language, mimics human emotions",
+      "excerpt": "Alter3 is an example of how natural language processing and robotics can work together to create pretty incredible interactions. By using GPT-4, the robot can perform a variety of tasks and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/meet-humanoid-robot-learns-from-natural-language-mimics-human-emotions",
+      "originalUrl": "https://www.foxnews.com/tech/meet-humanoid-robot-learns-from-natural-language-mimics-human-emotions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2024/01/1-Meet-Alter3-the-humanoid-robot-that-learns-from-natural-language-and-mimics-human-emotions-giving-instructions.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-04T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2024-01-04-crawford-technologies-launches-ai-driven-language-translation-solution.md",
+      "title": "Crawford Technologies launches AI-driven Language Translation Solution",
+      "excerpt": "Crawford Technologies, a leading provider of innovative document solutions that streamline, improve and manage customer communications, announced the",
+      "sourceUrl": null,
+      "webUrl": "https://www.cuinsight.com/press-release/crawford-technologies-launches-ai-driven-language-translation-solution/",
+      "originalUrl": "https://www.cuinsight.com/press-release/crawford-technologies-launches-ai-driven-language-translation-solution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-03T19:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CUInsight",
+        "domain": "cuinsight.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-29-you-wont-need-a-samsung-phone-to-benefit-from-galaxy-s24s-ai-call-translation.md",
+      "title": "You won't need a Samsung phone to benefit from Galaxy S24's AI call translation",
+      "excerpt": "A new report has shed more light on Samsung's innovative AI Live Translate Call feature, from languages to device support.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/samsung-galaxy-s24-ai-live-translate-call-details-3398446/",
+      "originalUrl": "https://www.androidauthority.com/samsung-galaxy-s24-ai-live-translate-call-details-3398446/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2020/04/Samsung-logo-Galaxy-S20-4.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-29T07:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-28-using-sentiment-analysis-to-elevate-the-quality-of-patient-care.md",
+      "title": "Using Sentiment Analysis To Elevate The Quality Of Patient Care",
+      "excerpt": "Technologies that unsettle even the most informed experts and business leaders due to their potential require regulation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/28/using-sentiment-analysis-to-elevate-the-quality-of-patient-care/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/28/using-sentiment-analysis-to-elevate-the-quality-of-patient-care/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/658c44dd6593d3aae253c47b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1311,
+          "height": 874,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/28/using-sentiment-analysis-to-elevate-the-quality-of-patient-care/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/28/using-sentiment-analysis-to-elevate-the-quality-of-patient-care/amp/",
+      "publishedDateTime": "2023-12-28T11:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-28-11-data-predictions-for-ai-centric-enterprise-growth-in-2024.md",
       "title": "11 data predictions for AI-centric enterprise growth in 2024",
       "excerpt": "Key data predictions from industry experts and vendors to help enterprises tap the AI opportunity for growth in 2024.",
@@ -1253,178 +1444,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-ray-ban-meta-smart-glasses-the-ai-stuff-meta-promised-is-finally-here-apparently.md",
-      "title": "Ray-Ban Meta Smart Glasses: The AI stuff Meta promised is finally here, apparently",
-      "excerpt": "Up to this point, Meta's smart glasses venture has felt mostly like a dud because the glasses were primarily used for taking social media photos and videos. The newer ones did come packaged with a Meta AI voice assistance, but prior to this update, it was mostly just a Siri clone.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/meta-ray-ban-glasses-ai-features",
-      "originalUrl": "https://mashable.com/article/meta-ray-ban-glasses-ai-features",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mashable.com/images/group-black-logo-purple.png",
-          "width": 2420,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-13T16:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-ai-generated-news-anchors-show-off-superhuman-abilities.md",
-      "title": "AI-generated news anchors show off superhuman abilities",
-      "excerpt": "There's a new global news network launching in 2024 which completely ditches humans for AI-generated newsreaders – and they're showing off some superhuman capabilities that make it very clear: the days of the human news presenter are numbered.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/home-entertainment/ai-generated-news-anchors/",
-      "originalUrl": "https://newatlas.com/home-entertainment/ai-generated-news-anchors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/e4d9007/2147483647/strip/true/crop/1060x707+0+17/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F1f%2F54%2F3377995f4ac19af24de6a4f90e95%2Fscreenshot-2023-12-13-at-1.33.59%20pm.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/home-entertainment/ai-generated-news-anchors/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/home-entertainment/ai-generated-news-anchors/?amp=true",
-      "publishedDateTime": "2023-12-13T02:47:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-this-mind-reading-cap-can-translate-thoughts-to-text-thanks-to-ai.md",
-      "title": "This Mind-Reading Cap Can Translate Thoughts to Text Thanks to AI",
-      "excerpt": "The system could give voice to people who can no longer communicate or be used to direct machines, like walking robots or robotic arms, with thoughts alone.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2023/12/12/this-mind-reading-cap-can-translate-thoughts-to-text-thanks-to-ai/",
-      "originalUrl": "https://singularityhub.com/2023/12/12/this-mind-reading-cap-can-translate-thoughts-to-text-thanks-to-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2023/12/dewave-ai-eeg-thought-reading-device.jpeg",
-          "width": 1408,
-          "height": 792,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2023/12/12/this-mind-reading-cap-can-translate-thoughts-to-text-thanks-to-ai/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/12/12/this-mind-reading-cap-can-translate-thoughts-to-text-thanks-to-ai/?amp=1",
-      "publishedDateTime": "2023-12-13T00:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-mind-reading-ai-can-translate-brainwaves-into-written-text.md",
-      "title": "Mind-reading AI can translate brainwaves into written text",
-      "excerpt": "Once DeWave understood the brain signals well, the team connected it to an open-source large language model (LLM), akin to the AI that powers ChatGPT. “This LLM is like a brainy writer that can ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2408019-mind-reading-ai-can-translate-brainwaves-into-written-text/",
-      "originalUrl": "https://www.newscientist.com/article/2408019-mind-reading-ai-can-translate-brainwaves-into-written-text/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-12T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

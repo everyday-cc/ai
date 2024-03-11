@@ -2,6 +2,505 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2024-02-29-tsmc-founder-foresees-the-need-for-up-to-10-new-fabs-for-ai-chip-manufacturing.md",
+      "title": "TSMC founder foresees the need for up to 10 new fabs for AI chip manufacturing",
+      "excerpt": "Read our ethics statement. A hot potato ... Chang recently stated that the current demand for AI hardware accelerators is so high that his company will soon have to multiply its production capacity at staggering rates. Chang spoke during the inauguration ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/102074-tsmc-founder-foresees-need-up-ten-new-fabs.html",
+      "originalUrl": "https://www.techspot.com/news/102074-tsmc-founder-foresees-need-up-ten-new-fabs.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-user-clip-floor-speech-we-wrote.md",
+      "title": "User Clip: Floor Speech we wrote!",
+      "excerpt": "User-Created Clip February 29, 2024 2024-02-29T10:00:46-05:00https://images.c-span.org/Files/d6a/001/1709221722_001.jpgFloor Speech we wrote! Floor Speech we wrote ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.c-span.org/video/?c5108064/user-clip-floor-speech-wrote",
+      "originalUrl": "https://www.c-span.org/video/?c5108064/user-clip-floor-speech-wrote",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "c-span",
+        "domain": "c-span.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-shifting-perspectives-how-automation-and-ai-are-shaping-our-worldview.md",
+      "title": "Shifting Perspectives: How Automation And AI Are Shaping Our Worldview",
+      "excerpt": "Perry’s new book, “Perspective Agents”, suggests that a new world media order is indeed upon us, and that the notion of perspective is the paramount skill of our time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/traceyfollows/2024/02/28/shifting-perspectives-how-automation-and-ai-are-shaping-our-worldview/",
+      "originalUrl": "https://www.forbes.com/sites/traceyfollows/2024/02/28/shifting-perspectives-how-automation-and-ai-are-shaping-our-worldview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65dfa9f7bcb82967938c4517/0x0.jpg?format=jpg&crop=5200,2924,x0,y93,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/traceyfollows/2024/02/28/shifting-perspectives-how-automation-and-ai-are-shaping-our-worldview/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traceyfollows/2024/02/28/shifting-perspectives-how-automation-and-ai-are-shaping-our-worldview/amp/",
+      "publishedDateTime": "2024-02-28T23:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-innovationrx-exploring-the-future-of-healthcare-ai.md",
+      "title": "InnovationRx: Exploring The Future Of Healthcare AI",
+      "excerpt": "Lightspeed Venture Partners and Redpoint Ventures have co-led a $150 million Series C investment in Pittsburgh-based startup Abridge, which uses AI to transcribe patient conversations with doctors and automatically transform them into medical notes. The company’s post-money valuation is $850 million, according to a person familiar with the deal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/katiejennings/2024/02/28/innovationrx-exploring-the-future-of-healthcare-ai/",
+      "originalUrl": "https://www.forbes.com/sites/katiejennings/2024/02/28/innovationrx-exploring-the-future-of-healthcare-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65dfaf39f3e15d8eac74e26c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T22:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-c3ai-shares-pop-after-company-beats-estimates-narrows-annual-revenue-forecast.md",
+      "title": "C3.ai shares pop after company beats estimates, narrows annual revenue forecast",
+      "excerpt": "Software firm C3.ai on Wednesday posted better-than-expected quarterly results and narrowed its full-year revenue forecast range which was still ahead of Wall Street estimates, sending its shares up more than 14% in extended trading. The company also named Hitesh Lath as its chief financial officer, effective March 1, replacing Juho Parkkinen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/02/28/c3ai-shares-pop-after-company-beats-estimates-narrows-annual-revenue-forecast-.html",
+      "originalUrl": "https://www.cnbc.com/2024/02/28/c3ai-shares-pop-after-company-beats-estimates-narrows-annual-revenue-forecast-.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107241946-1684255273555-sei.jpg?v=1694098121",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/02/28/c3ai-shares-pop-after-company-beats-estimates-narrows-annual-revenue-forecast-.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/28/c3ai-shares-pop-after-company-beats-estimates-narrows-annual-revenue-forecast-.html",
+      "publishedDateTime": "2024-02-28T21:24:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-the-us-department-of-defense-is-using-ml-algorithms-to-find-airstrike-targets.md",
+      "title": "The US Department of Defense is using ML algorithms to find airstrike targets",
+      "excerpt": "Since early February, the US Department of Defense has employed ML algorithms to identify targets for over 85 air strikes in Iraq and Syria. According to",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/102066-us-department-defense-using-ml-algorithms-find-airstrike.html",
+      "originalUrl": "https://www.techspot.com/news/102066-us-department-defense-using-ml-algorithms-find-airstrike.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-28-image-23.jpg",
+          "width": 2000,
+          "height": 1261,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T21:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-google-ceo-pichai-says-geminis-ai-image-results-offended-our-users.md",
+      "title": "Google CEO Pichai says Gemini's AI image results 'offended our users'",
+      "excerpt": "Google CEO Sundar Pichai told employees in an internal memo that the AI tool’s problematic images were unacceptable. He vowed to re-release a better version of the service in the coming weeks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mprnews.org/story/2024/02/28/google-ceo-pichai-says-geminis-ai-image-results-offended-our-users",
+      "originalUrl": "https://www.mprnews.org/story/2024/02/28/google-ceo-pichai-says-geminis-ai-image-results-offended-our-users",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T19:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MPR News",
+        "domain": "mprnews.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-what-is-managed-dns-anyway.md",
+      "title": "What is managed DNS, anyway?",
+      "excerpt": "Perhaps the easiest way to explain it is by looking at the opposite scenario: what if you don’t have a managed DNS service in place?\nThe post What is managed DNS, anyway? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/what-is-managed-dns-anyway/",
+      "originalUrl": "https://www.ibm.com/blog/what-is-managed-dns-anyway/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T17:59:39Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-building-trust-in-the-government-with-responsible-generative-ai-implementation.md",
+      "title": "Building trust in the government with responsible generative AI implementation",
+      "excerpt": "As the public sector embraces automation to solve problems, it's key to maintain trust and transparency in AI solutions.\nThe post Building trust in the government with responsible generative AI implementation appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/building-trust-in-the-government-with-responsible-generative-ai-implementation/",
+      "originalUrl": "https://www.ibm.com/blog/building-trust-in-the-government-with-responsible-generative-ai-implementation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T17:47:29Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-intel-wants-its-chips-inside-100-million-ai-pcs-by-2025.md",
+      "title": "Intel wants its chips inside 100 million 'AI PCs' by 2025",
+      "excerpt": "This is a big deal for anyone who is thinking about purchasing a Windows 11 PC in the next few years, because Microsoft and basically every major PC maker appears to have hopped aboard the AI PC bandwagon. And while there may be some real, radical, game-changing benefits to come out of this shift, the underlying motivation is pretty basic: money.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tomsguide.com/computing/laptops/intel-wants-its-chips-inside-100-million-ai-pcs-by-2025",
+      "originalUrl": "https://www.tomsguide.com/computing/laptops/intel-wants-its-chips-inside-100-million-ai-pcs-by-2025",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/sg8oYbwZnoppMSnNnDWhNj-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T17:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tom's Guide",
+        "domain": "tomsguide.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-apples-scrapped-car-project-means-ai-and-headset-bets-are-more-urgent.md",
+      "title": "Apple’s Scrapped Car Project Means AI and Headset Bets Are More Urgent",
+      "excerpt": "In abandoning plans for a self-driving car, Apple Inc. is giving up on billions in potential revenue and the dream of selling what one executive called “the ultimate mobile device.”",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6835987/apple-self-driving-car-ai-vision-pro/",
+      "originalUrl": "https://time.com/6835987/apple-self-driving-car-ai-vision-pro/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2024/02/GettyImages-2025760015.jpg?quality=85",
+          "width": 5000,
+          "height": 3333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T17:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-29-self-driving-sensor-maker-luminar-falls-as-production-delay-at-volvo-hits-earnings.md",
       "title": "Self-driving sensor maker Luminar falls as production delay at Volvo hits earnings",
       "excerpt": "Feb 28 (Reuters) - Luminar Technologies (LAZR.O), opens new tab shares tumbled about 10% on Wednesday after the self-driving sensor maker's fourth-quarter results missed estimates on delayed ...",
@@ -577,6 +1076,49 @@
       ]
     },
     {
+      "path": "_news/2024-02-28-baidu-posts-record-revenue-amid-search-for-new-growth-engines.md",
+      "title": "Baidu Posts Record Revenue Amid Search for New Growth Engines",
+      "excerpt": "Chinese search-engine giant Baidu posted record quarterly revenue and higher adjusted profit, helped by higher ad spending and the rising profile of its ChatGPT-rival chatbot. The Beijing-based ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/business/earnings/baidus-fourth-quarter-net-profit-fell-despite-higher-revenue-273dde19",
+      "originalUrl": "https://www.wsj.com/business/earnings/baidus-fourth-quarter-net-profit-fell-despite-higher-revenue-273dde19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T11:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-28-how-ai-will-spur-the-democratization-of-technology-in-2024.md",
       "title": "How AI Will Spur The Democratization Of Technology In 2024",
       "excerpt": "A future-proof approach, with consideration for how AI will continue to change and mature, is what will unlock transformational business outcomes in the years ahead.",
@@ -624,569 +1166,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-rip-apple-car-this-is-why-it-died.md",
-      "title": "RIP Apple Car. This Is Why It Died",
-      "excerpt": "Any tech company moving into the auto space needs a manufacturing partner. But Apple’s EV died as it lived: alone.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/rip-apple-car-this-is-why-it-died/",
-      "originalUrl": "https://www.wired.com/story/rip-apple-car-this-is-why-it-died/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/65de3f5c8f177b35ceaa4d78/191:100/w_1280,c_limit/Death-Of-The-Apple-Car-Gear-AP19148216961071.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T10:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-ai-takes-over-davos-the-promise-the-risk-and-the-way-forward.md",
-      "title": "AI Takes Over Davos: The Promise, The Risk And The Way Forward",
-      "excerpt": "As the AI conversation shifts focus from its potential to perceived risks, what does the way forward look like, and will regulation stifle innovation or stimulate it?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/ai-takes-over-davos-the-promise-the-risk-and-the-way-forward/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/ai-takes-over-davos-the-promise-the-risk-and-the-way-forward/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65de07c5838ea55f72854821/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/ai-takes-over-davos-the-promise-the-risk-and-the-way-forward/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/28/ai-takes-over-davos-the-promise-the-risk-and-the-way-forward/amp/",
-      "publishedDateTime": "2024-02-28T10:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-the-most-popular-neural-network-styles-and-how-they-work.md",
-      "title": "The most popular neural network styles and how they work",
-      "excerpt": "Understanding the basics of neural networks also helps us address deeper questions about the nature of consciousness and what artificial intelligence (in its current incarnation) means for it. Fortunately, the fundamental ideas of neural networks are not ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3713023/the-most-popular-neural-network-styles-and-how-they-work.html",
-      "originalUrl": "https://www.infoworld.com/article/3713023/the-most-popular-neural-network-styles-and-how-they-work.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/11/11/10/brain_mind_neural_network_connections_artificial_intelligence_machine_learning_by_metamorworks_gettyimages-916414870_1200x800-100767999-large-100934453-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3713023/the-most-popular-neural-network-styles-and-how-they-work.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3713023/the-most-popular-neural-network-styles-and-how-they-work.amp.html",
-      "publishedDateTime": "2024-02-28T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-10-best-graphics-cards-of-2024-finding-the-best-gpu-for-gaming.md",
-      "title": "10 best graphics cards of 2024: finding the best GPU for gaming",
-      "excerpt": "The previous GPU champion, the RTX 3090 Ti ... On top of that, the card also supports Intel's XeSS upscaling feature, which uses AI to upscale your games and improve performance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/best-graphics-cards/",
-      "originalUrl": "https://www.digitaltrends.com/computing/best-graphics-cards/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/01/12gb-rtx-3080-review-07.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/best-graphics-cards/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/best-graphics-cards/?amp",
-      "publishedDateTime": "2024-02-28T09:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-deepsig-announces-commercial-release-of-industrys-first-neural-receiver-software-for-open-ran-5g-networks.md",
-      "title": "DeepSig Announces Commercial Release of Industry's First Neural Receiver Software for Open RAN 5G Networks",
-      "excerpt": "This press release features multimedia. View the full release here:  The OmniPHY 5G software transforms 5G Physical Uplink Shared Channel (PUSCH) processing in an Open Distributed Unit (O-DU), replacing conventional algorithms with a Deep Neural Network (DNN),",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2024/02/28/9969438.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2024/02/28/9969438.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T07:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots.md",
-      "title": "Amazon to spend $1 billion on startups that combine AI with robots",
-      "excerpt": "Separate from its innovation fund, Amazon has committed up to $4 billion to generative AI start-up Anthropic. Amazon has innovated in robotics before: in 2022, the company said it had invested more than 400 million euros in technologies that include ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/?ref=astrofeather.com",
-      "originalUrl": "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/?ref=astrofeather.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T06:48:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-nvidia-is-still-hot-but-these-2-artificial-intelligence-ai-stocks-could-fizzle-out.md",
-      "title": "Nvidia Is Still Hot, but These 2 Artificial Intelligence (AI) Stocks Could Fizzle Out",
-      "excerpt": "C3.ai has a catchy ticker symbol, but its business model has serious flaws. Mobileye is a top play on driverless cars, but it faces a tough cyclical slowdown. That first-mover's advantage lit a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2024/02/28/nvidia-still-hot-artificial-intelligence-ai-stock/",
-      "originalUrl": "https://www.fool.com/investing/2024/02/28/nvidia-still-hot-artificial-intelligence-ai-stock/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/766711/android-head-shattering.jpg",
-          "width": 2000,
-          "height": 1500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T05:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-mc-explains-all-about-microsoft-mistral-ai-deal-and-why-it-has-got-eu-worried.md",
-      "title": "MC Explains: All about Microsoft-Mistral AI deal and why it has got EU worried",
-      "excerpt": "Launched in May 2023 byformer Google DeepMind and Meta researchers Arthur Mensch, Timothee Lacroix, and Guillaume Lample, the company garnered major attention even before its first product. One of the most enduring pieces of financial advice is to never ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/technology/mc-explains-all-about-microsoft-mistral-ai-deal-and-why-it-has-got-eu-worried-12366191.html",
-      "originalUrl": "https://www.moneycontrol.com/news/technology/mc-explains-all-about-microsoft-mistral-ai-deal-and-why-it-has-got-eu-worried-12366191.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/06/Mistral-AI.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/technology/mc-explains-all-about-microsoft-mistral-ai-deal-and-why-it-has-got-eu-worried-12366191.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/mc-explains-all-about-microsoft-mistral-ai-deal-and-why-it-has-got-eu-worried-12366191.html/amp",
-      "publishedDateTime": "2024-02-28T04:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-enkrypt-ai-raises-235m-to-build-a-visibility-and-security-layer-for-gen-ai.md",
-      "title": "Enkrypt AI raises $2.35M to build a visibility and security layer for Gen AI",
-      "excerpt": "Enkrypt AI stands apart by merging threat detection, privacy, and compliance into a comprehensive toolkit ensuring business adoption of LLMs",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/enkrypt-ai-raises-2-35m-to-build-a-visibility-and-security-layer-for-gen-ai-1033109926",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/enkrypt-ai-raises-2-35m-to-build-a-visibility-and-security-layer-for-gen-ai-1033109926",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/mmstudio-images/gallery/3LEgO35pEgYEzg4yWmgnLwd9nal2/1709032727885-0.png",
-          "width": 800,
-          "height": 569,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T03:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-streamline-pytorch-machine-learning-workflows-with-cloudian-and-aws-hybrid-edge.md",
-      "title": "Streamline PyTorch Machine Learning Workflows With Cloudian And AWS Hybrid Edge",
-      "excerpt": "Cloudian contributed enhancements to AWS Labs’ open-source S3-Connector-for-PyTorch. The enhancements enable PyTorch ML algorithms to access data in Cloudian’s HyperStore object storage system via the AWS S3 API. The enhanced S3 connector is available from the GitHub repositories of AWS Labs and Cloudian.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scoop.co.nz/stories/BU202402/S00289.htm",
-      "originalUrl": "https://www.scoop.co.nz/stories/BU202402/S00289.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.scoop.co.nz/stories/BU2402/S00289/streamline-pytorch-machine-learning-workflows-with-cloudian-and-aws-hybrid-edge.htm",
-      "cdnAmpWebUrl": "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2402/S00289/streamline-pytorch-machine-learning-workflows-with-cloudian-and-aws-hybrid-edge.htm",
-      "publishedDateTime": "2024-02-28T02:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scoop",
-        "domain": "scoop.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI",
-        "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-ai-wont-replace-humans-in-the-workplace-heres-why.md",
-      "title": "AI won’t replace humans in the workplace - here’s why",
-      "excerpt": "Innovations such as automated machine learning (AutoML) hold the promise of accelerating progress even beyond the dizzying pace of AI innovation we are experiencing now, but humans will remain central to the safe use and efficient operation of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/pro/ai-wont-replace-humans-in-the-workplace-heres-why",
-      "originalUrl": "https://www.techradar.com/pro/ai-wont-replace-humans-in-the-workplace-heres-why",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/Wcc69A4Ts8bhSbGgJeGkoZ-1200-80.jpg",
-          "width": 970,
-          "height": 646,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-apple-investors-reject-call-for-ethics-transparency-on-companys-ai-use.md",
-      "title": "Apple investors reject call for ethics transparency on company’s AI use",
-      "excerpt": "Discovery Inc. Apple Inc. shareholders rejected a labor-backed request for an artificial intelligence transparency report, which would have delved into whether the company is using the technology ethically. The proposal, submitted by AFL-CIO Equity Index ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pressherald.com/2024/02/28/apple-investors-reject-call-for-ethics-transparency-on-companys-ai-use/",
-      "originalUrl": "https://www.pressherald.com/2024/02/28/apple-investors-reject-call-for-ethics-transparency-on-companys-ai-use/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pressherald.com/wp-content/uploads/sites/4/2017/01/pph-icon-red-linkforFB.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Portland Press Herald",
-        "domain": "pressherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

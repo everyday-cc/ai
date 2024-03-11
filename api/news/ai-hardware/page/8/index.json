@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-12-15-intel-unveils-new-ai-chips-to-rival-nvidias-dominance-in-ai-industry-intc-stock-up-1.md",
+      "title": "Intel Unveils New AI Chips to Rival Nvidia’s Dominance in AI Industry, INTC Stock Up 1%",
+      "excerpt": "Dubbed Gaudi3, Intel intends to attract generative AI companies like OpenAI away from Nvidia and bolster its stock market performance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.coinspeaker.com/intel-ai-chips-intc-stock/",
+      "originalUrl": "https://www.coinspeaker.com/intel-ai-chips-intc-stock/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.coinspeaker.com/wp-content/uploads/2023/12/intel-ai-chips-intc-stock.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.coinspeaker.com/intel-ai-chips-intc-stock/amp/",
+      "cdnAmpWebUrl": "https://www-coinspeaker-com.cdn.ampproject.org/c/s/www.coinspeaker.com/intel-ai-chips-intc-stock/amp/",
+      "publishedDateTime": "2023-12-15T11:11:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "coinspeaker",
+        "domain": "coinspeaker.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-15-driven-by-ai-micron-sees-robust-chip-demand.md",
       "title": "Driven by AI, Micron sees robust chip demand",
       "excerpt": "US-based chipmaker Micron Technology is expecting demand for semiconductors to rise significantly in the next few years, globally and in India, as memory consumption is going up, largely driven by the widespread adoption of technologies like artificial intelligence (AI).",
@@ -1348,49 +1391,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-08-windows-12-and-the-coming-ai-chip-war.md",
-      "title": "Windows 12 and the coming AI chip war",
-      "excerpt": "A Windows release planned for next year may be the catalyst for a new wave of desktop chips with AI processing capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3711262/windows-12-and-the-coming-ai-chip-war.html",
-      "originalUrl": "https://www.computerworld.com/article/3711262/windows-12-and-the-coming-ai-chip-war.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/06/shutterstock_571888840-100941708-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3711262/windows-12-and-the-coming-ai-chip-war.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3711262/windows-12-and-the-coming-ai-chip-war.amp.html",
-      "publishedDateTime": "2023-12-08T07:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

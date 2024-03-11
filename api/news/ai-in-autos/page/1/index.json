@@ -324,6 +324,40 @@
       ]
     },
     {
+      "path": "_news/2024-03-05-baidu-a-cheap-ai-play-ignored-by-the-market.md",
+      "title": "Baidu: A Cheap AI Play Ignored By The Market",
+      "excerpt": "Baidu's shares are trading near 1-year lows despite better-than-expected earnings for Q4. The company's AI chatbot, Ernie, is seeing momentum and is being integrated into Baidu's digital marketing ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4675900-baidu-a-cheap-ai-play-ignored-by-the-market",
+      "originalUrl": "https://seekingalpha.com/article/4675900-baidu-a-cheap-ai-play-ignored-by-the-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-05T11:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-05-ai-pervades-everyday-life-with-almost-no-oversight-states-scramble-to-catch-up.md",
       "title": "AI pervades everyday life with almost no oversight. States scramble to catch up",
       "excerpt": "While artificial intelligence made headlines with ChatGPT, behind the scenes, the technology has quietly pervaded everyday life — screening job resumes, rental apartment",
@@ -1181,6 +1215,49 @@
       ]
     },
     {
+      "path": "_news/2024-02-28-baidu-posts-record-revenue-amid-search-for-new-growth-engines.md",
+      "title": "Baidu Posts Record Revenue Amid Search for New Growth Engines",
+      "excerpt": "Chinese search-engine giant Baidu posted record quarterly revenue and higher adjusted profit, helped by higher ad spending and the rising profile of its ChatGPT-rival chatbot. The Beijing-based ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/business/earnings/baidus-fourth-quarter-net-profit-fell-despite-higher-revenue-273dde19",
+      "originalUrl": "https://www.wsj.com/business/earnings/baidus-fourth-quarter-net-profit-fell-despite-higher-revenue-273dde19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T11:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-28-rip-apple-car-this-is-why-it-died.md",
       "title": "RIP Apple Car. This Is Why It Died",
       "excerpt": "Any tech company moving into the auto space needs a manufacturing partner. But Apple’s EV died as it lived: alone.",
@@ -1272,92 +1349,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-apple-unplugs-self-driving-electric-car-project-reports-say.md",
-      "title": "Apple unplugs self-driving electric car project, reports say",
-      "excerpt": "Many employees from the project will be moved to the iPhone maker's artificial intelligence (AI) division, according to Bloomberg News. Apple did not immediately respond to a BBC request for a comment. The Apple car team was reportedly known as the Special ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/news/apple-unplugs-self-driving-electric-010959244.html",
-      "originalUrl": "https://www.aol.com/news/apple-unplugs-self-driving-electric-010959244.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.zenfs.com/en/aol_bbc_articles_618/b365fd882050850b2c18e7d53c14b2d2",
-          "width": 976,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-apples-self-driving-electric-car-project-is-officially-dead.md",
-      "title": "Apple’s Self-Driving Electric Car Project Is Officially Dead",
-      "excerpt": "As shocked as the team may have been, the news won’t be nearly as surprising to anyone who’s paid attention to Apple’s efforts to build a self-driving car. Although next to no concrete ...",
-      "sourceUrl": null,
-      "webUrl": "https://robbreport.com/motors/cars/apple-cancels-self-driving-ev-project-1235527053/#!",
-      "originalUrl": "https://robbreport.com/motors/cars/apple-cancels-self-driving-ev-project-1235527053/#!",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://robbreport.com/wp-content/uploads/2024/01/evcharger.jpg?w=681&h=383&crop=1",
-          "width": 681,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://robbreport.com/motors/cars/apple-cancels-self-driving-ev-project-1235527053/amp/",
-      "cdnAmpWebUrl": "https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/apple-cancels-self-driving-ev-project-1235527053/amp/",
-      "publishedDateTime": "2024-02-28T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Robb Report",
-        "domain": "robbreport.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

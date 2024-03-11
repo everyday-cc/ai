@@ -2,488 +2,88 @@
   "page": 133,
   "value": [
     {
-      "path": "_news/2023-08-11-foundations-seek-to-advance-ai-for-good-and-also-protect-the-world-from-its-threats.md",
-      "title": "Foundations seek to advance AI for good — and also protect the world from its threats",
-      "excerpt": "Gebru launched the Distributed Artificial Intelligence Research Institute in 2021 to ... Open Philanthropy, a foundation started by Facebook co-founder Dustin Moskovitz and his wife, Cari Tuna ...",
+      "path": "_news/2023-11-20-lost-time-for-no-reason-how-driverless-taxis-are-stressing-cities.md",
+      "title": "‘Lost Time for No Reason’: How Driverless Taxis Are Stressing Cities",
+      "excerpt": "In San Francisco and Austin, Texas, where passengers can hail self-driving vehicles, the cars have added to the workloads of city employees. By Yiwen Lu Reporting from San Francisco Around 2 a.m ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wral.com/story/foundations-seek-to-advance-ai-for-good-and-also-protect-the-world-from-its-threats/20995889/",
-      "originalUrl": "https://www.wral.com/story/foundations-seek-to-advance-ai-for-good-and-also-protect-the-world-from-its-threats/20995889/",
+      "webUrl": "https://www.nytimes.com/2023/11/20/technology/driverless-taxis-cars-cities.html",
+      "originalUrl": "https://www.nytimes.com/2023/11/20/technology/driverless-taxis-cars-cities.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
-      "content": "\r\n",
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2023/11/02/multimedia/DRIVERLESS-CITY-kjgm/DRIVERLESS-CITY-kjgm-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-11T09:46:00-07:00",
+      "publishedDateTime": "2023-11-20T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "WRAL",
-        "domain": "wral.com",
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-20-thanks-to-ai-robots-are-aware-of-their-surroundings.md",
+      "title": "Thanks to AI, Robots Are Aware of Their Surroundings",
+      "excerpt": "Now we’re looking at machine learning and AI algorithms that teach the robot new tasks ... Not a lot the companies are doing that yet, but a lot of start-ups are developing it.” Robots have taken over manufacturing and warehouses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/robotics/thanks-ai-robots-are-aware-their-surroundings",
+      "originalUrl": "https://www.mddionline.com/robotics/thanks-ai-robots-are-aware-their-surroundings",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/Feature_106.jpg",
+          "width": 1540,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-20T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-sorry-chief-microsoft-cortana-is-finally-dead.md",
-      "title": "Sorry, Chief, Microsoft Cortana Is Finally Dead",
-      "excerpt": "You can now visit the gravestone of Microsoft’s virtual assistant app ... of Bing and its bevy of other digital products and services. We knew this was coming for a few months now, but it ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/sorry-chief-microsoft-cortanas-finally-dead-1850728819",
-      "originalUrl": "https://gizmodo.com/sorry-chief-microsoft-cortanas-finally-dead-1850728819",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/f68459b0a6e3199ff73aa9823b663b84.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-11T09:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-the-godfather-of-ai-has-a-hopeful-plan-for-keeping-future-ai-friendly.md",
-      "title": "The ‘Godfather of AI’ Has a Hopeful Plan for Keeping Future AI Friendly",
-      "excerpt": "Geoffrey Hinton left Google so he could speak more freely about AI’s dangers. He argues that building analog computers instead of digital ones might keep the technology more loyal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/plaintext-geoffrey-hinton-godfather-of-ai-future-ai/",
-      "originalUrl": "https://www.wired.com/story/plaintext-geoffrey-hinton-godfather-of-ai-future-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/64d52f58d78d78815e4d0414/191:100/w_1280,c_limit/GeoffHinton_plaintext_biz_GettyImages-1260047116.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-11T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-im-an-ai-prompt-engineer-here-are-3-ways-to-use-chatgpt-to-get-the-best-results.md",
-      "title": "I'm an AI-prompt engineer. Here are 3 ways to use ChatGPT to get the best results.",
-      "excerpt": "I used to be a freelance writer. Now I'm a prompt engineer helping optimize generative-AI tech. Here's what I've learned.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/how-to-write-better-ai-chatgpt-prompts-according-prompt-engineer-2023-3",
-      "originalUrl": "https://www.businessinsider.com/how-to-write-better-ai-chatgpt-prompts-according-prompt-engineer-2023-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64147b500308e00018553689?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/how-to-write-better-ai-chatgpt-prompts-according-prompt-engineer-2023-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-to-write-better-ai-chatgpt-prompts-according-prompt-engineer-2023-3?amp",
-      "publishedDateTime": "2023-08-11T08:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-meetkai-creates-a-digital-twin-of-sprawling-2b-silicon-box-chip-packaging-factory.md",
-      "title": "Meetkai creates a digital twin of sprawling $2B Silicon Box chip packaging factory",
-      "excerpt": "We're thrilled to announce the return of GamesBeat Summit Next, hosted in San Francisco this October, where we will explore the theme of \"Playing the Edge.\" Apply to speak here and learn more about sponsorship opportunities here.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/meetkai-creates-a-digital-twin-of-sprawling-2b-silicon-box-chip-packaging-factory/",
-      "originalUrl": "https://venturebeat.com/ai/meetkai-creates-a-digital-twin-of-sprawling-2b-silicon-box-chip-packaging-factory/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/07/MeetKai-Silicon-Box-2.png?w=1200&strip=all",
-          "width": 1199,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-11T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-a-roadmap-to-help-ai-technologies-speak-african-languages.md",
-      "title": "A roadmap to help AI technologies speak African languages",
-      "excerpt": "From text-generating ChatGPT to voice-activated Siri, artificial intelligence-powered tools are designed to aid our everyday life—as long as you speak a language they support. These technologies are out of reach for billions of people who don't use English,",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2023-08-roadmap-ai-technologies-african-languages.html",
-      "originalUrl": "https://phys.org/news/2023-08-roadmap-ai-technologies-african-languages.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2023/african-language.jpg",
-          "width": 1920,
-          "height": 1238,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2023-08-roadmap-ai-technologies-african-languages.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2023-08-roadmap-ai-technologies-african-languages.amp",
-      "publishedDateTime": "2023-08-11T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-amazon-translate-enhances-its-custom-terminology-to-improve-translation-accuracy-and-fluency.md",
-      "title": "Amazon Translate enhances its custom terminology to improve translation accuracy and fluency",
-      "excerpt": "Amazon Translate is a neural machine translation service that delivers fast, high-quality, affordable, and customizable language translation. When you translate from one language to another, you want your machine translation to be accurate, fluent, and most importantly contextual. Domain-specific and",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-translate-enhances-its-custom-terminology-to-improve-translation-accuracy-and-fluency/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-translate-enhances-its-custom-terminology-to-improve-translation-accuracy-and-fluency/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/08/11/amazon-translate-enhances-fluency.jpg",
-          "width": 908,
-          "height": 456,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-11T07:59:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-zero-shot-text-classification-with-amazon-sagemaker-jumpstart.md",
-      "title": "Zero-shot text classification with Amazon SageMaker JumpStart",
-      "excerpt": "Natural language processing (NLP) is the field in machine learning (ML) concerned with giving computers the ability to understand text and spoken words in the same way as human beings can. Recently, state-of-the-art architectures like the transformer architecture are used to achieve near-human performance",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/zero-shot-text-classification-with-amazon-sagemaker-jumpstart/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/zero-shot-text-classification-with-amazon-sagemaker-jumpstart/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/07/31/ML-13226-Picture6-1219x630.png",
-          "width": 1219,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-11T07:56:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-chatgpt-the-latest-news-controversies-and-tips-you-need-to-know.md",
-      "title": "ChatGPT: the latest news, controversies, and tips you need to know",
-      "excerpt": "ChatGPT has continued to dazzle the internet with AI-generated content, morphing from a novel chatbot into a piece of technology that is driving the next era of innovation. No tech product in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/how-to-use-openai-chatgpt-text-generation-chatbot/",
-      "originalUrl": "https://www.digitaltrends.com/computing/how-to-use-openai-chatgpt-text-generation-chatbot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/05/chatgpt-iphone-app-hands-on.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/how-to-use-openai-chatgpt-text-generation-chatbot/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-use-openai-chatgpt-text-generation-chatbot/?amp",
-      "publishedDateTime": "2023-08-11T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-how-robot-use-in-manufacturing-can-impact-environmental-sustainability.md",
-      "title": "How Robot Use In Manufacturing Can Impact Environmental Sustainability",
-      "excerpt": "As robots play an increasingly vital role in manufacturing, it is essential to consider their environmental impact.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/how-robot-use-in-manufacturing-can-impact-environmental-sustainability/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/how-robot-use-in-manufacturing-can-impact-environmental-sustainability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64d4ee5ae67956682c0eda01/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/how-robot-use-in-manufacturing-can-impact-environmental-sustainability/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/11/how-robot-use-in-manufacturing-can-impact-environmental-sustainability/amp/",
-      "publishedDateTime": "2023-08-11T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -497,45 +97,36 @@
       ]
     },
     {
-      "path": "_news/2023-08-11-the-importance-of-it-cost-management-in-modern-organizations.md",
-      "title": "The importance of IT cost management in modern organizations",
-      "excerpt": "IT cost management has grown in importance because cost control is top of mind for every organization across all industries.\nThe post The importance of IT cost management in modern organizations appeared first on IBM Blog.\n",
+      "path": "_news/2023-11-20-the-minds-eye-of-a-neural-network-system.md",
+      "title": "The mind’s eye of a neural network system",
+      "excerpt": "In the background of image recognition software that can ID our friends on social media and wildflowers in our yard are neural networks, a type of artificial intelligence inspired by how own our brains process data. While neural networks sprint through ...",
       "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/it-cost-management/",
-      "originalUrl": "https://www.ibm.com/blog/it-cost-management/",
+      "webUrl": "https://www.purdue.edu/research/features/stories/the-minds-eye-of-a-neural-network-system/",
+      "originalUrl": "https://www.purdue.edu/research/features/stories/the-minds-eye-of-a-neural-network-system/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/08/052022_CaitOppermann_InsideIBM_London_3087_03.blog-lead-space-2x1-1.jpg",
+          "url": "https://www.purdue.edu/research/features/wp-content/uploads/2023/11/gleich-neuralnetworkLO.jpg",
           "width": 800,
-          "height": 400,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-11T07:10:46-07:00",
+      "publishedDateTime": "2023-11-20T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Purdue University",
+        "domain": "purdue.edu",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -544,35 +135,36 @@
         "news"
       ],
       "topics": [
-        "IBM AI"
+        "Machine Learning",
+        "AI"
       ]
     },
     {
-      "path": "_news/2023-08-11-generative-ai-friend-or-foe-for-the-translation-industry.md",
-      "title": "Generative AI: Friend Or Foe For The Translation Industry?",
-      "excerpt": "Understanding the specific dynamics of how GenAI will affect different industries and functions is a complex and nuanced undertaking.",
+      "path": "_news/2023-11-20-how-ai-can-be-leveraged-for-diversity-and-inclusion.md",
+      "title": "How AI Can Be Leveraged For Diversity And Inclusion",
+      "excerpt": "In the modern workplace, diversity and inclusion have become more than just buzzwords—they are crucial to fostering innovation, creativity, and a welcoming environment.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/generative-ai-friend-or-foe-for-the-translation-industry/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/generative-ai-friend-or-foe-for-the-translation-industry/",
+      "webUrl": "https://www.forbes.com/sites/jiawertz/2023/11/19/how-ai-can-be-leveraged-for-diversity-and-inclusion/",
+      "originalUrl": "https://www.forbes.com/sites/jiawertz/2023/11/19/how-ai-can-be-leveraged-for-diversity-and-inclusion/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 107,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5fd8bff049e58c7220248800/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/655a7b77d4a3a31792aee594/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/generative-ai-friend-or-foe-for-the-translation-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/11/generative-ai-friend-or-foe-for-the-translation-industry/amp/",
-      "publishedDateTime": "2023-08-11T07:00:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/jiawertz/2023/11/19/how-ai-can-be-leveraged-for-diversity-and-inclusion/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jiawertz/2023/11/19/how-ai-can-be-leveraged-for-diversity-and-inclusion/amp/",
+      "publishedDateTime": "2023-11-19T20:29:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -595,40 +187,39 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-08-11-aws-launches-programme-to-help-early-stage-start-up-founders.md",
-      "title": "AWS Launches Programme To Help Early-Stage Start-Up Founders",
-      "excerpt": "Amazon Web Services has launched AWS Build, a new global programme designed to support entrepreneurs early in their cloud journey to build, refine and launch their innovative applications.",
+      "path": "_news/2023-11-20-escaped-llama-safely-corralled-by-opp-after-wandering-onto-gta-highway.md",
+      "title": "Escaped llama safely corralled by OPP after wandering onto GTA highway",
+      "excerpt": "OPP and MTO were able to safely corral and remove a llama that had wandered into live lanes of traffic on Highway 400.",
       "sourceUrl": null,
-      "webUrl": "https://startup.outlookindia.com/sector/ed-tech/aws-launches-programme-to-help-early-stage-start-up-founders-news-9109",
-      "originalUrl": "https://startup.outlookindia.com/sector/ed-tech/aws-launches-programme-to-help-early-stage-start-up-founders-news-9109",
+      "webUrl": "https://toronto.citynews.ca/2023/11/19/llama-alpaca-highway-400-gta-king-road-opp/",
+      "originalUrl": "https://toronto.citynews.ca/2023/11/19/llama-alpaca-highway-400-gta-king-road-opp/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1678183910.jpg?utm_source=fb",
-          "width": 1200,
-          "height": 675,
+          "url": "https://toronto.citynews.ca/wp-content/blogs.dir/sites/10/2023/11/19/Untitled-design-8.png",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-11T06:47:00-07:00",
+      "publishedDateTime": "2023-11-19T20:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "startup.outlookindia",
-        "domain": "outlookindia.com",
+        "name": "City News",
+        "domain": "citynews.ca",
         "images": null,
         "publishers": null,
         "authors": null
@@ -638,317 +229,27 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
+        "Meta AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2023-08-11-12-considerations-when-choosing-mes-software.md",
-      "title": "12 considerations when choosing MES software",
-      "excerpt": "Selecting manufacturing execution system (MES) software is a critical decision for any manufacturing organization.\nThe post 12 considerations when choosing MES software appeared first on IBM Blog.\n",
+      "path": "_news/2023-11-20-microsofts-ai-transformation-from-software-giant-to-ai-powerhouse.md",
+      "title": "Microsoft's AI Transformation: From Software Giant To AI Powerhouse",
+      "excerpt": "Microsoft wants to be a major force in the AI ecosystem, and Microsoft CEO and Chairman Satya Nadella made this clear in his keynote address. From developing its own AI accelerator chips to launching a marketplace for copilots, Microsoft has a long-term strategy in place.",
       "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/mes-software/",
-      "originalUrl": "https://www.ibm.com/blog/mes-software/",
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2023/11/19/microsofts-ai-transformation-from-software-giant-to-ai-powerhouse/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2023/11/19/microsofts-ai-transformation-from-software-giant-to-ai-powerhouse/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 86,
       "tags": null,
       "images": null,
-      "content": "\r\n",
+      "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-11T06:45:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-global-speech-recognition-software-market-research-report-for-upcoming-years-2023-2030.md",
-      "title": "Global Speech Recognition Software Market Research Report for Upcoming Years [2023-2030]",
-      "excerpt": "Global Speech Recognition Software Market Outlook [2023] -Global Speech Recognition Software Market (2023-2030) research report features an extensive Analysis of the current market landscape and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/08/33722241/global-speech-recognition-software-market-research-report-for-upcoming-years-2023-2030",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/08/33722241/global-speech-recognition-software-market-research-report-for-upcoming-years-2023-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33722241",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33722241",
-      "publishedDateTime": "2023-08-11T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-how-can-enterprises-fortify-digital-identity-amidst-rising-ai-threats.md",
-      "title": "How Can Enterprises Fortify Digital Identity Amidst Rising AI Threats?",
-      "excerpt": "Employers and users are the last line of defense as their actions and security hygiene affect overall security posture. They should be continually trained about various traditional and emerging threats, such as AI-based spear phishing and social engineering, especially as AI-written spear phishing emails are harder to spot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/how-can-enterprises-fortify-digital-identity-amidst-rising-ai-threats/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/how-can-enterprises-fortify-digital-identity-amidst-rising-ai-threats/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/642445004586b4330e81b689/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/08/11/how-can-enterprises-fortify-digital-identity-amidst-rising-ai-threats/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/08/11/how-can-enterprises-fortify-digital-identity-amidst-rising-ai-threats/amp/",
-      "publishedDateTime": "2023-08-11T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-ibm-set-to-deliver-mainframe-ai-services-support-x.md",
-      "title": "IBM set to deliver mainframe AI services, support x",
-      "excerpt": "Developer support for IBM Wazi, the cloud-native development environment. A Wazi Sandbox lets developers build and test z/OS application components in a virtualized, containerized, self-service, personal sandbox running on Red Hat OpenShift that runs on x86 hardware.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/3704491/ibm-set-to-deliver-mainframe-ai-services-support-x.html",
-      "originalUrl": "https://www.networkworld.com/article/3704491/ibm-set-to-deliver-mainframe-ai-services-support-x.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/24/09/thinkstockphotos-520137237-100610459-large-100922664-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 1031,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3704491/ibm-set-to-deliver-mainframe-ai-services-support-x.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3704491/ibm-set-to-deliver-mainframe-ai-services-support-x.amp.html",
-      "publishedDateTime": "2023-08-11T04:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-california-firefighters-use-ai-to-spot-wildfires.md",
-      "title": "California firefighters use AI to spot wildfires",
-      "excerpt": "California firefighters are using artificial intelligence to help spot wildfires, feeding video from more than 1,000 cameras strategically placed across the state into a machine that alerts first responders when to mobilize. Alex Cohen has more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/video/watch/idsA$n?now=true",
-      "originalUrl": "https://www.reuters.com/video/watch/idsA$n?now=true",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ajo.prod.reuters.tv/api/v2/img/64d611b0e4b068bf74a564d1-1691750835338?location=LANDSCAPE",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-11T04:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-generative-ai-is-not-a-tool-its-an-employee.md",
-      "title": "Generative AI Is Not A Tool; It's An Employee",
-      "excerpt": "By taking the time to properly onboard and manage generative AI, you enable it to become a seamless member of your marketing team.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/11/generative-ai-is-not-a-tool-its-an-employee/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/11/generative-ai-is-not-a-tool-its-an-employee/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64d541f1b585aa1bcfb1ea3f/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/08/11/generative-ai-is-not-a-tool-its-an-employee/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/08/11/generative-ai-is-not-a-tool-its-an-employee/amp/",
-      "publishedDateTime": "2023-08-11T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-can-ai-bring-sales-out-of-the-paleolithic-age-of-e-commerce.md",
-      "title": "Can AI Bring Sales Out Of “The Paleolithic Age Of E-Commerce”?",
-      "excerpt": "Businesses want customers to increasingly use digital channels, but customers often crave personalized guidance. Can these two competing imperatives be reconciled?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stephenwunker/2023/08/11/can-ai-bring-sales-out-of-the-paleolithic-age-of-e-commerce/",
-      "originalUrl": "https://www.forbes.com/sites/stephenwunker/2023/08/11/can-ai-bring-sales-out-of-the-paleolithic-age-of-e-commerce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://amp.spot.im/loader.png",
-          "width": 375,
-          "height": 815,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stephenwunker/2023/08/11/can-ai-bring-sales-out-of-the-paleolithic-age-of-e-commerce/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenwunker/2023/08/11/can-ai-bring-sales-out-of-the-paleolithic-age-of-e-commerce/amp/",
-      "publishedDateTime": "2023-08-11T02:14:00-07:00",
+      "publishedDateTime": "2023-11-19T18:28:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -972,241 +273,10 @@
       ],
       "topics": [
         "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-worldcoin-scans-eyeballs-and-offers-crypto-what-to-know-about-the-project-from-openais-ceo.md",
-      "title": "Worldcoin scans eyeballs and offers crypto. What to know about the project from OpenAI's CEO",
-      "excerpt": "Weeks after its international launch, Worldcoin is drawing the attention of privacy regulators around the world",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Technology/wireStory/worldcoin-scans-eyeballs-offers-crypto-project-openais-ceo-102189217",
-      "originalUrl": "https://abcnews.go.com/Technology/wireStory/worldcoin-scans-eyeballs-offers-crypto-project-openais-ceo-102189217",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/wirestory_9dc6a68590435b2f10fedaa0db58331b_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Technology/wireStory/worldcoin-scans-eyeballs-offers-crypto-project-openais-ceo-102189217",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/worldcoin-scans-eyeballs-offers-crypto-project-openais-ceo-102189217",
-      "publishedDateTime": "2023-08-10T23:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-the-wall-street-journal-google-your-news-update.md",
-      "title": "The Wall Street Journal Google Your News Update",
-      "excerpt": "Plus driverless cars get a big boost in the Bay Area. And our look at Xi Jinping's goal of making China a global leader in AI and chips. Karen Hao: The US sanctions really leave China between a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/podcasts/google-news-update/chinas-quest-for-ai-chip-supremacy/ee0d3af0-5cca-427c-9c6e-5e36b5e04fe8",
-      "originalUrl": "https://www.wsj.com/podcasts/google-news-update/chinas-quest-for-ai-chip-supremacy/ee0d3af0-5cca-427c-9c6e-5e36b5e04fe8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-08-10T23:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-the-threatening-potential-of-ai-and-child-abuse.md",
-      "title": "The threatening potential of AI and child abuse",
-      "excerpt": "The U.K.'s National Crime Agency warned that the proliferation of AI-generated explicit images of children is \"normalizing\" pedophilia and disturbing behavior against kids.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/opinion/threatening-potential-ai-child-abuse",
-      "originalUrl": "https://www.foxnews.com/opinion/threatening-potential-ai-child-abuse",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/eb0de59a-4578-48df-a0f2-52d127244c2e/438c3371-1ec1-405e-9325-a09ec771d10d/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/opinion/threatening-potential-ai-child-abuse.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/threatening-potential-ai-child-abuse.amp",
-      "publishedDateTime": "2023-08-10T22:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-ubc-students-bring-mario-kart-to-life-with-robotics-competition.md",
-      "title": "UBC students bring Mario Kart to life with robotics competition",
-      "excerpt": "Students in UBC's engineering physics program brought Mario Kart to life Thursday, creating autonomous robots to race around a track.",
-      "sourceUrl": null,
-      "webUrl": "https://bc.ctvnews.ca/ubc-students-bring-mario-kart-to-life-with-robotics-competition-1.6514630",
-      "originalUrl": "https://bc.ctvnews.ca/ubc-students-bring-mario-kart-to-life-with-robotics-competition-1.6514630",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/videos/axis/2023/8/10/2743539/_jcr_content/renditions/videothumbnail.1691719068604.jpg",
-          "width": 1020,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beta.ctvnews.ca/local/british-columbia/2023/8/10/1_6514630.amp.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/british-columbia/2023/8/10/1_6514630.amp.html",
-      "publishedDateTime": "2023-08-10T20:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-08-11-why-humans-cant-use-natural-language-processing-to-speak-with-the-animals.md",
-      "title": "Why humans can't use natural language processing to speak with the animals",
-      "excerpt": "We’ve already got machine-learning systems and natural language processors that can translate human speech into any number of existing languages, and adapting that process to convert animal ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/why-humans-cant-use-natural-language-processing-to-speak-with-the-animals-143050169.html",
-      "originalUrl": "https://www.engadget.com/why-humans-cant-use-natural-language-processing-to-speak-with-the-animals-143050169.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/GnGxXoosyOXq2paJpthi2g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-07/310806a0-3541-11ee-baf7-fd5a418556a5",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/why-humans-cant-use-natural-language-processing-to-speak-with-the-animals-143050169.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/why-humans-cant-use-natural-language-processing-to-speak-with-the-animals-143050169.html",
-      "publishedDateTime": "2023-08-10T20:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
+        "Microsoft AI",
+        "AI Hardware"
       ]
     }
   ],
-  "nextPage": 134
+  "nextPage": null
 }

@@ -48,6 +48,98 @@
       ]
     },
     {
+      "path": "_news/2024-03-11-how-to-choose-an-ai-as-a-service-provider.md",
+      "title": "How to choose an AI-as-a-service provider",
+      "excerpt": "AIaaS can help you jumpstart your AI projects, but there are some details you need to know. Here’s what to look for and five leading options to consider.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.html",
+      "originalUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2024/02/dinging-service-bell-in-robot-hand-by-andrey-popov-via-shutterstock-100961475-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html",
+      "publishedDateTime": "2024-03-11T03:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AWS AI",
+        "Natural Language Processing",
+        "Microsoft AI",
+        "Machine Learning",
+        "IBM AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2024-03-09-why-is-this-model-of-artificial-intelligence-being-called-the-most-intelligent.md",
+      "title": "Why is this model of Artificial Intelligence being called the most intelligent?",
+      "excerpt": "In the realm of artificial intelligence (AI), where breakthroughs and advancements seem almost routine, one model stands out from the crowd:..|News Track",
+      "sourceUrl": null,
+      "webUrl": "https://english.newstracklive.com/news/why-is-this-model-of-artificial-intelligence-being-called-the-most-intelligent-sc71-nu371-ta371-1312623-1.html",
+      "originalUrl": "https://english.newstracklive.com/news/why-is-this-model-of-artificial-intelligence-being-called-the-most-intelligent-sc71-nu371-ta371-1312623-1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.newstrack.in/uploads/technology-news/technology-news/Mar/09/big_thumb/bhgbh_65ec115243a87.jpg",
+          "width": 804,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://english.newstracklive.com/ampnews/why-is-this-model-of-artificial-intelligence-being-called-the-most-intelligent-sc71-nu371-ta371-1312623-1.html",
+      "cdnAmpWebUrl": "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/why-is-this-model-of-artificial-intelligence-being-called-the-most-intelligent-sc71-nu371-ta371-1312623-1.html",
+      "publishedDateTime": "2024-03-09T08:12:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Track",
+        "domain": "newstracklive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-08-the-ai-takeover-in-cinema-how-movie-studios-use-artificial-intelligence.md",
       "title": "The AI Takeover In Cinema: How Movie Studios Use Artificial Intelligence",
       "excerpt": "The film industry, always at the forefront of technological innovation, is increasingly embracing artificial intelligence (AI) to revolutionize movie production, distribution, and marketing. From script analysis to post-production,",
@@ -152,7 +244,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization-1033142131",
       "featuredContent": null,
       "highlight": null,
-      "heat": 234,
+      "heat": 224,
       "tags": null,
       "images": null,
       "content": "",
@@ -197,7 +289,7 @@
       "originalUrl": "https://phys.org/news/2024-03-scientists-machine-method-chemical-reactions.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -299,6 +391,40 @@
         "Machine Learning",
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-painting-a-molecular-portrait-of-the-brain-with-mass-spectrometry-and-deep-learning.md",
+      "title": "Painting a molecular portrait of the brain with mass spectrometry and deep learning",
+      "excerpt": "More information: Yuxuan Richard Xie et al, Multiscale biochemical mapping of the brain through deep-learning-enhanced high-throughput mass spectrometry, Nature Methods (2024). DOI: 10.1038/s41592 ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2024-03-molecular-portrait-brain-mass-spectrometry.html",
+      "originalUrl": "https://medicalxpress.com/news/2024-03-molecular-portrait-brain-mass-spectrometry.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-05T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1215,146 +1341,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-cognitiv-increases-client-base-75x-proving-deep-learning-is-the-future-of-advertising.md",
-      "title": "Cognitiv Increases Client Base 7.5X, Proving Deep Learning Is the Future of Advertising",
-      "excerpt": "Deep Learning DSP - Cognitiv's Deep Learning DSP is built to access its most advanced AI models. Deep learning allows the DSP to deliver real-time optimization of advanced, custom, business-driven KPIs such as incremental lift and lifetime value (LTV).",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2024/02/21/9965416.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2024/02/21/9965416.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.tmcnet.com/tmc/world.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T13:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-3-machine-learning-stocks-to-turn-1000-into-1-million-february-2024.md",
-      "title": "3 Machine Learning Stocks to Turn $1000 Into $1 Million: February 2024",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Our society is always looking towards tomorrow and then the question arises,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/3-machine-learning-stocks-to-turn-1000-into-1-million-february-2024-1033084248",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/3-machine-learning-stocks-to-turn-1000-into-1-million-february-2024-1033084248",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-20T16:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-02-19-run-ml-inference-on-unplanned-and-spiky-traffic-using-amazon-sagemaker-multi-model-endpoints.md",
-      "title": "Run ML inference on unplanned and spiky traffic using Amazon SageMaker multi-model endpoints",
-      "excerpt": "Amazon SageMaker multi-model endpoints (MMEs) are a fully managed capability of SageMaker inference that allows you to deploy thousands of models on a single endpoint. Previously, MMEs pre-determinedly allocated CPU computing power to models statically regardless the model traffic load, using Multi Model",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/run-ml-inference-on-unplanned-and-spiky-traffic-using-amazon-sagemaker-multi-model-endpoints/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-ml-inference-on-unplanned-and-spiky-traffic-using-amazon-sagemaker-multi-model-endpoints/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/01/30/ML-15023-image001-1260x460.png",
-          "width": 1260,
-          "height": 460,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-19T18:13:45Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

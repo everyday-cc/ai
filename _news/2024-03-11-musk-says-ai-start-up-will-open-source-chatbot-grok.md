@@ -26,21 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI showdown: I put 3 chatbots to the test"
-    excerpt: "research the trail, tell someone where we were going, avoid the hottest part of the day and (of course) bring water and first aid. Bonus: It reminded me not to litter in nature. Final score: ChatGPT 2, Gemini 1, Perplexity 0 Listen, if AI can help us ..."
-    publishedDateTime: 2024-03-11T00:01:00Z
-    webUrl: "https://www.komando.com/kims-column/ai-chatbot-showdown-2/901917/"
-    ampWebUrl: "https://www.komando.com/kims-column/ai-chatbot-showdown-2/901917/?amp"
-    cdnAmpWebUrl: "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/kims-column/ai-chatbot-showdown-2/901917/?amp"
+  - title: "Inflection AI launches new model for Pi chatbot, nearly matches GPT-4"
+    excerpt: "Inflection AI's latest model, Inflection-2.5, achieved 94% of GPT-4's performance but took only 40% of compute for training."
+    publishedDateTime: 2024-03-07T17:48:00Z
+    webUrl: "https://venturebeat.com/ai/inflection-ai-launches-new-model-for-pi-chatbot-nearly-matches-gpt-4/"
     type: article
     provider:
-      name: Kim Komando
-      domain: komando.com
-    quality: 59
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 67
     images:
-      - url: "https://www.komando.com/wp-content/uploads/2024/03/kk-article-20240308-comparison-ai-chatbots-1200x675-1.jpg"
-        width: 1200
-        height: 675
+      - url: "https://venturebeat.com/wp-content/uploads/2023/12/DALL·E-2023-12-08-13.35.19-A-person-of-Middle-Eastern-descent-wearing-casual-attire-stands-holding-a-smartphone.-The-smartphone-screen-prominently-displays-the-Greek-symbol-fo.png?w=1200&strip=all"
+        width: 1199
+        height: 685
         isCached: true
   - title: "AMD promotes third-party app for running AI chatbots on local hardware"
     excerpt: "The most popular AI services available today run almost exclusively on powerful Nvidia hardware, and they force customers to use an internet connection. AMD is trying"
@@ -51,6 +49,29 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 49
+  - title: "Justpaid, Ai-powered Finance Startup, Announces New Financial Chatbot Capabilities"
+    excerpt: "JustPaid, the AI-powered FinTech company, has just announced new capabilities for its conversational AI financial chatbot. The chatbot is being enhanced to provide more tailored and dynamic insights for users based on their specific financial needs and feedback."
+    publishedDateTime: 2024-03-07T12:44:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/justpaid-ai-powered-finance-startup-announces-new-financial-chatbot"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 48
+    images:
+      - url: "https://financialit.net/sites/default/files/justpaid.png"
+        width: 1366
+        height: 768
+        isCached: true
+  - title: "One simple ChatGPT hack makes AI responses sound like a human instead of a robot"
+    excerpt: "I talk to ChatGPT for research, I do it when I have to “google” something, and sometimes I do it for the lols. Since I’m on ChatGPT Plus, I also get to experience OpenAI’s best generative AI features as soon as they’re available in Europe ..."
+    publishedDateTime: 2024-03-08T17:10:00Z
+    webUrl: "https://bgr.com/tech/one-simple-chatgpt-hack-makes-ai-responses-sound-like-a-human-instead-of-a-robot/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 48
   - title: "AMD's AI chatbot released"
     excerpt: "Uses third party app AMD has just launched its own local and GPT-based LLM-powered AI chatbot, that works on Ryzen AI processors and Radeon RX 7000 series GPUs. AMD's new LLM-based GPT chatbot can work on many different Ryzen AI platforms,"
     publishedDateTime: 2024-03-08T11:05:00Z
@@ -78,6 +99,20 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/64084/content/chatbot.jpg"
         width: 708
         height: 365
+        isCached: true
+  - title: "Best AI Chatbots for 2024"
+    excerpt: "Spread the loveAs artificial intelligence continues to revolutionize the way we interact with technology, AI chatbots have become an integral part of this transformation. In 2024, a variety of sophisticated chatbots are leading the way in customer service,"
+    publishedDateTime: 2024-03-10T06:42:00Z
+    webUrl: "https://www.thetechedvocate.org/best-ai-chatbots-for-2024/"
+    type: article
+    provider:
+      name: thetechedvocate.org
+      domain: thetechedvocate.org
+    quality: 39
+    images:
+      - url: "https://www.thetechedvocate.org/wp-content/uploads/2024/03/101-5.jpg"
+        width: 1548
+        height: 776
         isCached: true
 
 secured: "csRor4XdjVE+UWKDjM3r0UIKslNsJMswp86fz3WYYD5q+YPho+UBBrNtDl4TeIdAZNZfiC/aAlZM0CeuEpRowsf+197yr/8/trwa+y6U1xEjwUoXV8+W6uTC/UHVgcUPf1ZNeceYdaKyIT4LyM0qZiAGsb1cHpbhzYuhEm7idfANjrmVqJcm0bsisGpyrQb9ORXTADhyIdbqPOauit/hNZ49GbArBfnl3zNDGHACaK/wrsa6LnGhb04f4Z1GT+0nreWk+fTRSLjv6GIduJj4XyTtqHy9FVpdjLPAWnijJjcZSjWBLHWZo+iXF8sgsv9sZ7Z2ZXdMLfiAeRy76nBoq5Sd6avnwEqRk6X25QyJR8Q=;dsKO7cuaFvQS0xI0dXRkjw=="

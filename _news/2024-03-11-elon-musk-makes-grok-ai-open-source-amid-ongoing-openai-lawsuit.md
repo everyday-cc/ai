@@ -34,15 +34,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "OpenAI says Musk agreed the ChatGPT maker should become a for-profit company"
-    excerpt: "OpenAI has attacked a lawsuit from Elon Musk, saying he supported making the ChatGPT maker a for-profit company"
-    publishedDateTime: 2024-03-06T18:22:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/openai-elon-musk-agreed-chatgpt-maker-become-profit-107838652"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 31
   - title: "The OpenAI-Elon Musk battle intensifies and AI trust sinks, but investors aren’t slowing down"
     excerpt: "The escalation of the fight between OpenAI and Elon Musk over what kind of artificial intelligence company the phenom should be is creating even more uncertainty over who’s going to lead the generative AI era."
     publishedDateTime: 2024-03-08T19:56:00Z

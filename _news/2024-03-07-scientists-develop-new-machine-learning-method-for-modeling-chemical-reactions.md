@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2024-03-scientists-machine-method-chemical-rea
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2024-03-scientists-machine-method-chemical-reactions.amp"
 type: article
 quality: 55
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -36,6 +36,22 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 43
+  - title: "Chinese Researchers on the Brink of Developing 'Real AI Scientists' Capable of Conducting Experiments, Solving Scientific Problems"
+    excerpt: "Chinese researchers are on the brink of pioneering a groundbreaking approach to developing 'AI scientists capable of conducting experiments and solving scientific problems. Recent advances in deep learning models have revolutionized scientific research ..."
+    publishedDateTime: 2024-03-10T09:03:00Z
+    webUrl: "https://www.techtimes.com/articles/302436/20240310/chinese-researchers-brink-developing-real-ai-scientists-capable-conducting-experiments.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/302436/20240310/chinese-researchers-brink-developing-real-ai-scientists-capable-conducting-experiments.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/302436/20240310/chinese-researchers-brink-developing-real-ai-scientists-capable-conducting-experiments.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 29
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/444543/2022-world-robot-conference.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Carnegie Mellon researchers develop new machine learning method for modeling of chemical reactions"
     excerpt: "Researchers from Carnegie Mellon University and Los Alamos National Laboratory have used machine learning to create a model that simulates reactive processes in organic materials and conditions."
     publishedDateTime: 2024-03-07T00:00:00Z

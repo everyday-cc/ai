@@ -43,20 +43,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "Profile Software Introduces AI.Adaptive to Enhance Digital Services"
-    excerpt: "Profile Software launches its new “AI.Adaptive” solution, which simplifies user interaction into natural language with databases and applications."
-    publishedDateTime: 2024-03-10T01:29:00Z
-    webUrl: "https://www.crowdfundinsider.com/2024/03/222437-profile-software-introduces-ai-adaptive-to-enhance-digital-services/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 41
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/01/Zoom-Warp-Speed-Blast-Artificial-Intelligence.jpeg"
-        width: 1280
-        height: 1139
-        isCached: true
 
 secured: "unyNSfvFfloTGeM36TsuUcSSFOkvcsaDnaA70Oh/aicFxVc2XyuT8ZUJpt/lo05bJ4AU4iFd5I4Oku2GFU4nfuxpADMRckY7lD3YIRR5bmGI8s+0Kke9HmLt/vbNX5cQYo4NfrDJAI/GHQ1+H8+WpczwWQ/pSbLSpFxoG56b8zTWPueGVKHS/E1kF1dHzTpdkgbvOl6yijsNcOsuYRDPFPn2KJRHuL13GvPKvC/q41Hi+zOzSwi530Jv9ZiqZ4n1WtV2070RCXuRCwXkYi+gNFYJdVaWXLcvvnLSgaaSxV46s8xmnc+Dfn99I4P7KsZS1TlbLUX6eM515dBVV8Wj8EJswA3djQ9zgZgj7CF5SuR9GvNpjTSFfOzgerWziKnVCq2RLCtdAcCFEVZPjsG4bNcXPPuEskpcktvqSHwaDu8iX34WEP79YOomP6I+ZcnEEV2pbOgaapALvJoGLtDTXVm0yvvu0qR7FilROvCJVMyfhYnOTxHHN8V/amHvM8zK454uRL475EdJZAvLhBvk/w==;tvnpGv0qm3u8linnNC+kLQ=="
 ---

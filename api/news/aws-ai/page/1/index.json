@@ -54,6 +54,55 @@
       ]
     },
     {
+      "path": "_news/2024-03-11-how-to-choose-an-ai-as-a-service-provider.md",
+      "title": "How to choose an AI-as-a-service provider",
+      "excerpt": "AIaaS can help you jumpstart your AI projects, but there are some details you need to know. Here’s what to look for and five leading options to consider.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.html",
+      "originalUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2024/02/dinging-service-bell-in-robot-hand-by-andrey-popov-via-shutterstock-100961475-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html",
+      "publishedDateTime": "2024-03-11T03:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AWS AI",
+        "Natural Language Processing",
+        "Microsoft AI",
+        "Machine Learning",
+        "IBM AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2024-03-07-automate-the-process-to-change-image-backgrounds-using-amazon-bedrock-and-aws-step-functions.md",
       "title": "Automate the process to change image backgrounds using Amazon Bedrock and AWS Step Functions",
       "excerpt": "Many customers, including those in creative advertising, media and entertainment, ecommerce, and fashion, often need to change the background in a large number of images. Typically, this involves manually editing each image with photo software. This can take a lot of effort, especially for large batches",
@@ -106,6 +155,49 @@
       ]
     },
     {
+      "path": "_news/2024-03-07-aws-unveils-generative-ai-competency-for-customers.md",
+      "title": "AWS Unveils Generative AI Competency for Customers",
+      "excerpt": "The program is designed to facilitate customer innovation with enterprise-grade security, privacy, foundation models, and high-performance, low-cost infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/aws-unveils-generative-ai-competency-for-customers/",
+      "originalUrl": "https://analyticsindiamag.com/aws-unveils-generative-ai-competency-for-customers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2023/11/1-How-Amazons-Silicon-Innovation-Is-Instrumental-in-AWS-Success-.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-07T12:11:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-07-rackspace-technology-achieves-the-aws-generative-ai-competency.md",
       "title": "Rackspace Technology Achieves the AWS Generative AI Competency",
       "excerpt": "Achieving the AWS Generative AI Competency in the categories of Consulting Services, Generative AI Applications, and Infrastructure and Data differentiates Rackspace Technology as an AWS Partner that has demonstrated technical proficiency and proven customer success supporting key use cases for knowledge management,",
@@ -136,6 +228,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-weights-biases-achieves-the-aws-generative-ai-competency.md",
+      "title": "Weights & Biases Achieves the AWS Generative AI Competency",
+      "excerpt": "Achieving the AWS Generative AI Competency in the Foundational Models and App Development category differentiates Weights & Biases as an AWS Partner that has demonstrated technical proficiency and proven customer success supporting the development and governance for generative AI models and applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2024/03/06/9974204.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2024/03/06/9974204.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/tmc/world.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T18:11:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -257,8 +392,8 @@
       "title": "Compass UOL Achieves the AWS Generative AI Competency",
       "excerpt": "Achieving the AWS Generative AI Competency differentiates Compass UOL as an AWS Partner that has demonstrated technical proficiency and proven customer success in solving optimization and efficiency challenges in business processes and driving automation and intelligence across the entire customer operational journey.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-compass-uol-achieves-aws-generative-ai-competency-/2024/03/06/9974035.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-compass-uol-achieves-aws-generative-ai-competency-/2024/03/06/9974035.htm",
+      "webUrl": "https://www.tmcnet.com/usubmit/2024/03/06/9974035.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2024/03/06/9974035.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1279,117 +1414,6 @@
       ],
       "topics": [
         "Meta AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-vonage-and-aws-leverage-communications-and-network-apis-to-deliver-solutions.md",
-      "title": "Vonage and AWS leverage communications and network APIs to deliver solutions",
-      "excerpt": "and its Verify and Number Insights APIs paired with Amazon Rekognition. With this new update, Vonage will further build additional solutions like this that will accelerate bringing the power of network APIs to the market. Among its features, the SIM Swap ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cloudcomputing-news.net/news/2024/feb/22/vonage-and-aws-leverage-communications-and-network-apis-to-deliver-solutions/",
-      "originalUrl": "https://www.cloudcomputing-news.net/news/2024/feb/22/vonage-and-aws-leverage-communications-and-network-apis-to-deliver-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-22T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cloud Computing",
-        "domain": "cloudcomputing-news.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-our-favorite-furniture-deals-at-amazons-big-home-sale-today.md",
-      "title": "Our favorite furniture deals at Amazon's big home sale today",
-      "excerpt": "It's Amazon. Specifically, Amazon's furniture deals -- the online giant has a large selection of top-rated items for your home, much of it at prices far lower than you'd find at your local ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/amazon-furniture-sale/",
-      "originalUrl": "https://www.cbsnews.com/essentials/amazon-furniture-sale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T15:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-streamline-diarization-using-ai-as-an-assistive-technology-zoo-digitals-story.md",
-      "title": "Streamline diarization using AI as an assistive technology: ZOO Digital’s story",
-      "excerpt": "ZOO Digital provides end-to-end localization and media services to adapt original TV and movie content to different languages, regions, and cultures. It makes globalization easier for the world’s best content creators. Trusted by the biggest names in entertainment, ZOO Digital delivers high-quality localization",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/streamline-diarization-using-ai-as-an-assistive-technology-zoo-digitals-story/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/streamline-diarization-using-ai-as-an-assistive-technology-zoo-digitals-story/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-20T18:18:25Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "AWS AI"
       ]

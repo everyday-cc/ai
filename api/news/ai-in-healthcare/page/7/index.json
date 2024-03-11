@@ -2,49 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2023-12-04-how-can-medical-schools-educate-students-on-artificial-intelligence.md",
-      "title": "How Can Medical Schools Educate Students on Artificial Intelligence?",
-      "excerpt": "The University of Texas has developed the first dual degree program in the United States to prepare medical students to work with artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://healthitanalytics.com/features/how-can-medical-schools-educate-students-on-artificial-intelligence",
-      "originalUrl": "https://healthitanalytics.com/features/how-can-medical-schools-educate-students-on-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthitanalytics.com/images/site/features/_normal/ThinkstockPhotos-801680832.jpg",
-          "width": 690,
-          "height": 398,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T14:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics",
-        "domain": "healthitanalytics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-12-04-mira-pharmaceuticals-releases-breakthrough-data-from-artificial-intelligence-simulations.md",
       "title": "MIRA Pharmaceuticals Releases Breakthrough Data from Artificial Intelligence Simulations",
       "excerpt": "AI Simulation on MIRA1a Showcases Significant Potential Advantages Over Plant-Based Medical Marijuana Related to Anxiety, Appetite and Cognition",

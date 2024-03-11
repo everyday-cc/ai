@@ -60,6 +60,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "CQG Unveils New First-of-its-Kind AI / Machine Learning Trading Toolkit for Predicting Futures Market Moves"
+    excerpt: "Based on the firm's deep experience in analytics, mathematics and market intelligence, the new ML initiative aims to offer retail traders and buy-side firms, including proprietary trading firms and hedge funds,"
+    publishedDateTime: 2024-03-11T11:36:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/11/9975734.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 16
   - title: "Australian universities can rid themselves of partisan rhetoric over divisive issues like the Voice by creating new 'institutional neutrality' rules"
     excerpt: "During the Voice campaign universities offered safe spaces and special consideration for disappointed pro-Voice students, without recognition or accommodation for those with a different point of view. In places where free speech and debate should flourish ..."
     publishedDateTime: 2024-03-08T00:00:00Z

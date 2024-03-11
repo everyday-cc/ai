@@ -2,6 +2,92 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-12-05-china-issues-safety-guidelines-for-autonomous-public-transport-vehicles.md",
+      "title": "China issues safety guidelines for autonomous public transport vehicles",
+      "excerpt": "The guidelines apply to autonomous vehicles for passengers including taxis as well as for freight transportation, the ministry of transport said in a statement.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/china-issues-safety-guidelines-for-autonomous-public-transport-vehicles/articleshow/105742844.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/china-issues-safety-guidelines-for-autonomous-public-transport-vehicles/articleshow/105742844.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-195222,msid-105743410/baidus-apollo-car-with-an-autonomous-driving-system.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/technology/china-issues-safety-guidelines-for-autonomous-public-transport-vehicles/amp_articleshow/105742844.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/china-issues-safety-guidelines-for-autonomous-public-transport-vehicles/amp_articleshow/105742844.cms",
+      "publishedDateTime": "2023-12-05T04:36:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-05-artificial-intelligence-makes-gripping-more-intuitive.md",
+      "title": "Artificial intelligence makes gripping more intuitive",
+      "excerpt": "This requires a network of 128 sensors and artificial intelligence based techniques. Different types of grasps and bionic design: technological developments in recent decades have already led to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2023/12/231205144408.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2023/12/231205144408.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-05-cybertrucks-full-self-driving-is-flawed-says-dawn-project.md",
       "title": "Cybertruck’s Full Self-Driving is Flawed Says Dawn Project",
       "excerpt": "Commenting on the Cybertruck’s launch, Founder of The Dawn Project Dan O’Dowd said: “ A Full Self-Driving Cybertruck is a three-ton AI-driven robot powered by software which has already resulted in at least 27 deaths.",
@@ -1173,110 +1259,6 @@
         "name": "Milwaukee Journal Sentinel",
         "domain": "jsonline.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-27-where-will-baidu-stock-be-in-1-year.md",
-      "title": "Where Will Baidu Stock Be in 1 Year?",
-      "excerpt": "Baidu's Q3 earnings exceeded analysts' expectations. But its revenue growth decelerated from the previous quarter. Its margins are stable and its stock looks cheap, but it could trade at a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/11/27/where-will-baidu-stock-be-in-1-year/",
-      "originalUrl": "https://www.fool.com/investing/2023/11/27/where-will-baidu-stock-be-in-1-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/755915/stock-market-investor-person-looking-at-smartphone-and-laptop.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-27T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-26-ag-autonomy-kicks-up-dust-as-acquisition-deals-accelerate.md",
-      "title": "Ag Autonomy Kicks Up Dust As Acquisition Deals Accelerate",
-      "excerpt": "Modern farming faces an intense labor shortage. AgTech providers are rolling out impressive autonomous tech. What are the intersections with on-road autonomy?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/richardbishop1/2023/11/25/ag-autonomy-kicks-up-dust-as-acquisition-deals-accelerate/",
-      "originalUrl": "https://www.forbes.com/sites/richardbishop1/2023/11/25/ag-autonomy-kicks-up-dust-as-acquisition-deals-accelerate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6562312e45d060b1e7ce8a13/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/richardbishop1/2023/11/25/ag-autonomy-kicks-up-dust-as-acquisition-deals-accelerate/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardbishop1/2023/11/25/ag-autonomy-kicks-up-dust-as-acquisition-deals-accelerate/amp/",
-      "publishedDateTime": "2023-11-25T17:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

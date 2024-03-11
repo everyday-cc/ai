@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/tech-policy/2024/03/novelists-sue-nvidia-t
 webUrl: "https://arstechnica.com/tech-policy/2024/03/novelists-sue-nvidia-to-stop-spread-of-ai-models-trained-on-copyrighted-books/"
 type: article
 quality: 66
-heat: 156
+heat: 136
 published: true
 
 provider:
@@ -68,15 +68,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
-  - title: "How NVIDIA leads the world by making AI user-friendly"
-    excerpt: "Nvidia has been at the forefront of enriching your life with AI for years. We take a look at its plans to demystify the world of AI."
-    publishedDateTime: 2024-03-06T19:14:00Z
-    webUrl: "https://www.digitaltrends.com/computing/how-nvidia-leads-the-world-with-making-ai-user-friendly/"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 49
   - title: "Inflows Into Bullish Nvidia ETF Hit Record on AI Frenzy"
     excerpt: "(Reuters) - Investors have piled into Nvidia-focused exchange-traded funds (ETFs) this year on the frenzy around AI, with inflows into a bullish fund that tracks the shares of the chip designer hitting an all-time high on Wednesday. Net daily inflows into ..."
     publishedDateTime: 2024-03-07T10:51:00Z
@@ -85,15 +76,6 @@ related:
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 49
-  - title: "Will Nvidia GTC Mark The Peak Of AI?"
-    excerpt: "In these explosive times and stock market surges, how to find the nuggets in the most important AI show in the world."
-    publishedDateTime: 2024-03-06T18:11:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2024/03/06/will-nvidia-gtc-mark-the-peak-of-ai/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
     quality: 49
   - title: "This AI token is being called the Nvidia of crypto"
     excerpt: "With the reinvigorated interest in AI, decentralized platforms that offer related services are facing increased demand, including Render."

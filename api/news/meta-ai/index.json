@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2024-03-11-ai-showdown-i-put-3-chatbots-to-the-test.md",
-      "title": "AI showdown: I put 3 chatbots to the test",
-      "excerpt": "research the trail, tell someone where we were going, avoid the hottest part of the day and (of course) bring water and first aid. Bonus: It reminded me not to litter in nature. Final score: ChatGPT 2, Gemini 1, Perplexity 0 Listen, if AI can help us ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.komando.com/kims-column/ai-chatbot-showdown-2/901917/",
-      "originalUrl": "https://www.komando.com/kims-column/ai-chatbot-showdown-2/901917/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.komando.com/wp-content/uploads/2024/03/kk-article-20240308-comparison-ai-chatbots-1200x675-1.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.komando.com/kims-column/ai-chatbot-showdown-2/901917/?amp",
-      "cdnAmpWebUrl": "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/kims-column/ai-chatbot-showdown-2/901917/?amp",
-      "publishedDateTime": "2024-03-11T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kim Komando",
-        "domain": "komando.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-03-11-5-ai-predictions-for-the-year-2030.md",
       "title": "5 AI Predictions For The Year 2030",
       "excerpt": "Agents are AI systems that can complete loosely defined tasks: say, planning and booking your upcoming trip. AGI refers to an artificial intelligence system that meets or exceeds human capabilities on every dimension. When people envision the state of AI in 2030, agents and/or AGI are often front and center.",
@@ -53,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/robtoews/2024/03/10/10-ai-predictions-for-the-year-2030/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 198,
+      "heat": 218,
       "tags": null,
       "images": [
         {
@@ -95,6 +52,58 @@
         "AI in Robotics",
         "AI",
         "Natural Language Processing",
+        "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-09-welcome-to-the-valley-of-the-creepy-ai-dolls.md",
+      "title": "Welcome to the Valley of the Creepy AI Dolls",
+      "excerpt": "Wendy Moyle is a professor at the School of Nursing & Midwifery Griffith University in Australia who works with patients experiencing dementia. She says her work with social robots has angered people, who sometimes see giving robot dolls to older adults as infantilizing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-dolls-for-older-adults/",
+      "originalUrl": "https://www.wired.com/story/ai-dolls-for-older-adults/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/65eb4f1df0b575321bdc1cf1/191:100/w_1280,c_limit/AI-Dolls-Featured-Gear.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-09T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
         "Meta AI"
       ]
     },

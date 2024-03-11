@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Sahm Capital Showcases Latest Fintech And AI Solutions At LEAP 2024"
-excerpt: "data-text=\"Sahm Capital Showcases latest Fintech and AI Solutions at LEAP 2024\" data-link=\" Capital Showcases latest Fintech and AI Solutions at LEAP 2024\" class ..."
-publishedDateTime: 2024-03-07T09:02:00Z
-originalUrl: "https://menafn.com/1107948386/Sahm-Capital-Showcases-Latest-Fintech-And-AI-Solutions-At-LEAP-2024"
-webUrl: "https://menafn.com/1107948386/Sahm-Capital-Showcases-Latest-Fintech-And-AI-Solutions-At-LEAP-2024"
+title: "Sahm Capital Showcases latest Fintech and AI Solutions at LEAP 2024"
+excerpt: "March 2024 - Sahm Capital Financial Company, a leading brokerage firm licensed by the Saudi Capital Market Authority (No: 22251-25), showcased its all-in-one comprehensive trading solutions at booth H1A."
+publishedDateTime: 2024-03-07T07:00:00Z
+originalUrl: "https://www.asiaone.com/business/sahm-capital-showcases-latest-fintech-and-ai-solutions-leap-2024"
+webUrl: "https://www.asiaone.com/business/sahm-capital-showcases-latest-fintech-and-ai-solutions-leap-2024"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?544192"
-    width: 549
-    height: 250
-    isCached: true
 
 related:
   - title: "Sahm Capital showcases latest fintech, AI solutions at LEAP"
@@ -111,6 +105,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "CvYXRqWiEA8oCj2TXXHqtlonQ526gCu1fUSkyXyRZM/t5PS8OSnz9RhtU1pDMizgoEjq9ziJb2q3kWIo/MnmGbworNkySlkMqowq1R4kxToC8yZ3juZU+iezWr8jGg1pVY1WZm/jsz7c0Pl/B0TQf/v+kHFbUoe/2OTWwT5tZvla6MBLVtOkKhk8fOneKkEN6IKkN5G1dyOlvWcOUfplRCc3ZlOH5Fc54o4J9mTSEwchp3vsqc/3lr4VEbFF6OanXRaC29Y6QgJimpjWbh9ntIZQE4bith7HKT/DCue02XC8JAk7Do7HJl8aIOZjRjdpEGoqr5+b3m28P1epBO2kTZXoNoH/U252udegBeaWFWQ=;q4p7UBY4jUn6FntDti72hw=="
+secured: "kTtCofCe4o7xXHmoVEpB0MPRSyjc1s9LwmiKy47fWWHKAexvKAcehQJiHR+wFEnYTtesyCqwDb8yOyJuVhYOrBNQYix/UyCMNg8lEvS92YkJDZBh3OiWLQtDy6yvHU56F01dQHQpDFzvtMeCSVQv34g6BlYUQyRP1yM+j4To0qzho4to7v/EHYlrvvIDPgiHFIn7YtDho5lrdE8EYWZYgYiUr1kIh8sQ3P3lDMfeR/9e6vGti7gYgw1ycU5oz0cWNsbGwAJENYq5LkL8t59/AV7ljTYnZXE9zOPHHIkhqaF2eIdWKgwZEOuvfa8SnBe79vY5VoMx6tyWcndcAdzALszS88+aFRcQroqAN1tBesk=;Xlmgc/Ax+uv6W7yuMu6N1w=="
 ---
 

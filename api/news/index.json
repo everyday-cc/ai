@@ -2,6 +2,205 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-12-how-to-use-google-gemini-the-main-challenger-to-chatgpt.md",
+      "title": "How to use Google Gemini, the main challenger to ChatGPT",
+      "excerpt": "Gemini Advanced is Google’s paid chatbot version that costs $20 per month and comes with a host of perks under the Google One AI Premium subscription tier. Gemini Advanced runs the Gemini Ultra 1.0 language model, which excels at understanding longer prompts and the context of previous prompts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/how-to-use-google-gemini/",
+      "originalUrl": "https://www.digitaltrends.com/computing/how-to-use-google-gemini/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 246,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/12/google-gemini-logo.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/how-to-use-google-gemini/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-use-google-gemini/?amp",
+      "publishedDateTime": "2024-03-11T21:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-the-future-of-supply-chain-technology-a-shift-toward-intelligent-systems.md",
+      "title": "The Future Of Supply Chain Technology: A Shift Toward Intelligent Systems",
+      "excerpt": "Today's new supply chain business intelligence capability provides an actionable data-driven experience, such as interactive reports and dashboards, for procurement, operations, and reliability teams, from senior management to front-line workers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/paulnoble/2024/03/11/the-future-of-supply-chain-technology-a-shift-toward-intelligent-systems/",
+      "originalUrl": "https://www.forbes.com/sites/paulnoble/2024/03/11/the-future-of-supply-chain-technology-a-shift-toward-intelligent-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ef6d5376c194337d9ecfe3/0x0.jpg?format=jpg&crop=2293,1288,x12,y0,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/paulnoble/2024/03/11/the-future-of-supply-chain-technology-a-shift-toward-intelligent-systems/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulnoble/2024/03/11/the-future-of-supply-chain-technology-a-shift-toward-intelligent-systems/amp/",
+      "publishedDateTime": "2024-03-11T20:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-ai-gpus-and-focus-7-takeaways-from-the-amd-ceo-lisu-sus-sxsw-keynote.md",
+      "title": "AI, GPUs, and focus: 7 takeaways from the AMD CEO Lisu Su’s SXSW keynote",
+      "excerpt": "In a conversation at SXSW, AMD CEO Dr. Lisa Su talks about using AI in business and in her personal life, lessons she learned, and even how she stays in shape.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/2262634/amds-lisa-su-gets-candid-in-ai-go-slow-is-not-the-answer.html",
+      "originalUrl": "https://www.pcworld.com/article/2262634/amds-lisa-su-gets-candid-in-ai-go-slow-is-not-the-answer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcworld.com/wp-content/uploads/2024/03/lisa-su-3d-ryzen-5700x3d.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-11T20:26:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-apple-may-use-artificial-intelligence-in-apple-search-ads.md",
+      "title": "Apple may use artificial intelligence in Apple Search Ads",
+      "excerpt": "Apple plans to use the power of artificial intelligence to buy and place ads in its App Store, similar to how Google’s Performance Max and Meta’s Advantage+ platforms work, according to Business Insider (as noted by AppleInsider).",
+      "sourceUrl": null,
+      "webUrl": "https://www.mactech.com/2024/03/11/apple-may-use-artificial-intelligence-in-apple-search-ads/",
+      "originalUrl": "https://www.mactech.com/2024/03/11/apple-may-use-artificial-intelligence-in-apple-search-ads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mactech.com/wp-content/uploads/2024/03/Apple-Search-Ads-1024x499.jpg",
+          "width": 1024,
+          "height": 499,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.mactech.com/2024/03/11/apple-may-use-artificial-intelligence-in-apple-search-ads/amp/",
+      "cdnAmpWebUrl": "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2024/03/11/apple-may-use-artificial-intelligence-in-apple-search-ads/amp/",
+      "publishedDateTime": "2024-03-11T20:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MacTech",
+        "domain": "mactech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-12-us-carefully-monitors-chip-exports-to-china-deepens-investments-in-philippines.md",
       "title": "US carefully monitors chip exports to China, deepens investments in Philippines",
       "excerpt": "U.S. Commerce Secretary Gina Raimondo led a U.S. Presidential Trade and Investment Mission to boost US contributions to the Philippines and strengthen bilateral economic ties.",
@@ -114,7 +313,7 @@
       "originalUrl": "https://arstechnica.com/tech-policy/2024/03/novelists-sue-nvidia-to-stop-spread-of-ai-models-trained-on-copyrighted-books/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -321,7 +520,7 @@
       "originalUrl": "https://www.businessinsider.com/emergency-response-call-centers-using-ai-cloud-technology-2024-3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -362,58 +561,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2024-03-11-how-financial-services-firms-can-unleash-the-power-of-generative-ai.md",
-      "title": "How Financial Services Firms Can Unleash The Power Of Generative AI",
-      "excerpt": "To unlock the full value of gen AI, banks, and insurers first need to establish essential building blocks around their data, culture and responsible AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidparker/2024/03/11/how-financial-services-firms-can-unleash-the-power-of-generative-ai/",
-      "originalUrl": "https://www.forbes.com/sites/davidparker/2024/03/11/how-financial-services-firms-can-unleash-the-power-of-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e9b33440c6fe9eb6e8cf6d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1513,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidparker/2024/03/11/how-financial-services-firms-can-unleash-the-power-of-generative-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidparker/2024/03/11/how-financial-services-firms-can-unleash-the-power-of-generative-ai/amp/",
-      "publishedDateTime": "2024-03-11T13:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     },
     {
@@ -600,49 +747,6 @@
       ]
     },
     {
-      "path": "_news/2024-03-11-pioneering-technology-ai-in-computer-vision-market-surges-to-457-billion-by-2028.md",
-      "title": "Pioneering Technology: AI in Computer Vision Market Surges to $45.7 Billion by 2028",
-      "excerpt": "The Artificial Intelligence in Computer Vision Market is expected to develop at a compound annual growth rate of 21.5%, reaching a value of USD 17.2 billion in 2023 and USD 45.7 billion by 2028.",
-      "sourceUrl": null,
-      "webUrl": "https://www.informazione.it/c/46953790-6E0F-4AE3-8A93-FEAA8E88EF29/Pioneering-Technology-AI-in-Computer-Vision-Market-Surges-to-45-7-Billion-by-2028",
-      "originalUrl": "https://www.informazione.it/c/46953790-6E0F-4AE3-8A93-FEAA8E88EF29/Pioneering-Technology-AI-in-Computer-Vision-Market-Surges-to-45-7-Billion-by-2028",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://q3.informazione.it/imgr/aHR0cHM6Ly93d3cubWFya2V0c2FuZG1hcmtldHMuY29tL0ltYWdlcy9haS1pbi1jb21wdXRlci12aXNpb24tbWFya2V0MTUuanBn.ZUGs9IrsSBI.jpg?w=1200&h=800&scale=both&mode=crop&anchor=topcenter",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.informazione.it/c/46953790-6E0F-4AE3-8A93-FEAA8E88EF29/amp/Pioneering-Technology-AI-in-Computer-Vision-Market-Surges-to-45-7-Billion-by-2028",
-      "cdnAmpWebUrl": "https://www-informazione-it.cdn.ampproject.org/c/s/www.informazione.it/c/46953790-6E0F-4AE3-8A93-FEAA8E88EF29/amp/Pioneering-Technology-AI-in-Computer-Vision-Market-Surges-to-45-7-Billion-by-2028",
-      "publishedDateTime": "2024-03-11T07:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "informazione",
-        "domain": "informazione.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-03-11-gautam-adani-qualcomm-ceo-discuss-indias-potential-in-chips-ai.md",
       "title": "Gautam Adani, Qualcomm CEO Discuss India's Potential In Chips, AI",
       "excerpt": "Billionaire Gautam Adani met Cristiano Amon, the Chief Executive Officer (CEO) of Qualcomm Ltd and had a detailed discussion around semiconductors and Artificial Intelligence (AI).",
@@ -677,21 +781,21 @@
       ]
     },
     {
-      "path": "_news/2024-03-11-ai-showdown-i-put-3-chatbots-to-the-test.md",
-      "title": "AI showdown: I put 3 chatbots to the test",
-      "excerpt": "research the trail, tell someone where we were going, avoid the hottest part of the day and (of course) bring water and first aid. Bonus: It reminded me not to litter in nature. Final score: ChatGPT 2, Gemini 1, Perplexity 0 Listen, if AI can help us ...",
+      "path": "_news/2024-03-11-how-to-choose-an-ai-as-a-service-provider.md",
+      "title": "How to choose an AI-as-a-service provider",
+      "excerpt": "AIaaS can help you jumpstart your AI projects, but there are some details you need to know. Here’s what to look for and five leading options to consider.",
       "sourceUrl": null,
-      "webUrl": "https://www.komando.com/kims-column/ai-chatbot-showdown-2/901917/",
-      "originalUrl": "https://www.komando.com/kims-column/ai-chatbot-showdown-2/901917/",
+      "webUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.html",
+      "originalUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 111,
       "tags": null,
       "images": [
         {
-          "url": "https://www.komando.com/wp-content/uploads/2024/03/kk-article-20240308-comparison-ai-chatbots-1200x675-1.jpg",
+          "url": "https://images.idgesg.net/images/article/2024/02/dinging-service-bell-in-robot-hand-by-andrey-popov-via-shutterstock-100961475-large.jpg?auto=webp&quality=85,70",
           "width": 1200,
-          "height": 675,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -699,13 +803,13 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.komando.com/kims-column/ai-chatbot-showdown-2/901917/?amp",
-      "cdnAmpWebUrl": "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/kims-column/ai-chatbot-showdown-2/901917/?amp",
-      "publishedDateTime": "2024-03-11T00:01:00Z",
+      "ampWebUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html",
+      "publishedDateTime": "2024-03-11T03:10:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Kim Komando",
-        "domain": "komando.com",
+        "name": "Computerworld",
+        "domain": "computerworld.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -715,8 +819,14 @@
         "news"
       ],
       "topics": [
-        "Meta AI",
-        "AI"
+        "Computer Vision",
+        "AI",
+        "AWS AI",
+        "Natural Language Processing",
+        "Microsoft AI",
+        "Machine Learning",
+        "IBM AI",
+        "AI in Finance"
       ]
     },
     {
@@ -728,7 +838,7 @@
       "originalUrl": "https://www.forbes.com/sites/robtoews/2024/03/10/10-ai-predictions-for-the-year-2030/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 198,
+      "heat": 218,
       "tags": null,
       "images": [
         {
@@ -980,6 +1090,50 @@
       ]
     },
     {
+      "path": "_news/2024-03-10-chatgpt-vs-claude-3-test-can-anthropic-beat-openais-superstar.md",
+      "title": "ChatGPT vs Claude 3 Test: Can Anthropic Beat OpenAI’s Superstar?",
+      "excerpt": "Claude 3 is one of ChatGPT's most capable competitors. But how do they compare when asked the same questions? Find out here.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.co/news/chatgpt-vs-claude-3",
+      "originalUrl": "https://tech.co/news/chatgpt-vs-claude-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.tech.co/wp-content/uploads/2024/03/08060744/AdobeStock_606145791_Editorial_Use_Only-1-min-1.jpeg",
+          "width": 1920,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-10T11:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tech.co",
+        "domain": "tech.co",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-10-5-blue-chip-digital-age-collectible-bargains-the-world-missed.md",
       "title": "5 blue-chip \"digital age\" collectible bargains the world missed",
       "excerpt": "Everyone acknowledges the massive impact of the digital revolution upon every aspect of society, but auction prices for landmark digital memorabilia suggest we haven't got it all in perspective just yet.",
@@ -1041,7 +1195,7 @@
       "originalUrl": "https://www.mid-day.com/brand-media/article/best-ai-tools-to-enhance-your-social-media-account-23339125",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -1073,145 +1227,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-09-women-in-ai-sandra-watcher-professor-of-data-ethics-at-oxford.md",
-      "title": "Women in AI: Sandra Watcher, professor of data ethics at Oxford",
-      "excerpt": "We’ll publish several pieces throughout the year as the AI boom continues, highlighting key work that often goes unrecognized. Read more profiles here. Sandra Wachter is a professor and senior researcher in data ethics, AI, robotics, algorithms and ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/03/09/women-in-ai-sandra-watcher-professor-of-data-ethics-at-oxford/",
-      "originalUrl": "https://techcrunch.com/2024/03/09/women-in-ai-sandra-watcher-professor-of-data-ethics-at-oxford/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/03/women-in-ai-wachter.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/03/09/women-in-ai-sandra-watcher-professor-of-data-ethics-at-oxford/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/09/women-in-ai-sandra-watcher-professor-of-data-ethics-at-oxford/amp/",
-      "publishedDateTime": "2024-03-09T13:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-09-ai-driven-evolution-of-low-code-software-development-in-india.md",
-      "title": "AI-driven evolution of low-code software development in India",
-      "excerpt": "As low-code platforms evolve with out-of-the-box AI capabilities, organizations must conscientiously explore ways to harness its full potential. The ability to empower developers",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/",
-      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2024/03/Untitled-design-2024-03-08T174706.154.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/lite/",
-      "publishedDateTime": "2024-03-09T10:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-09-india-moves-forward-in-blockchain-ai-research-as-npci-and-iisc-join-forces.md",
-      "title": "India Moves Forward in Blockchain, AI Research as NPCI and IISc Join Forces",
-      "excerpt": "Both these parties together, will work on developing scalable blockchain platforms. A multi-modal analytics platform to oversee fintech data will also be developed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gadgets360.com/cryptocurrency/news/india-blockchain-ai-research-npci-iisc-mou-5205973",
-      "originalUrl": "https://www.gadgets360.com/cryptocurrency/news/india-blockchain-ai-research-npci-iisc-mou-5205973",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.gadgets360cdn.com/large/blockchain_technology_maharashtra_revenue_dept_unsplash_1664785921608.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.gadgets360.com/cryptocurrency/news/india-blockchain-ai-research-npci-iisc-mou-5205973/amp",
-      "cdnAmpWebUrl": "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/cryptocurrency/news/india-blockchain-ai-research-npci-iisc-mou-5205973/amp",
-      "publishedDateTime": "2024-03-09T09:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gadgets360",
-        "domain": "gadgets360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Meta AI"
       ]
     }
   ],

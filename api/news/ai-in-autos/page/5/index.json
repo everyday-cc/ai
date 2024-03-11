@@ -2,6 +2,110 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-02-01-aptiv-pulls-support-from-motional-robotaxi-joint-venture.md",
+      "title": "Aptiv Pulls Support From Motional Robotaxi Joint Venture",
+      "excerpt": "As such, support in the auto industry has waned, and the projects inside most companies were downgraded to focus on driver assist tools, or at the very most a freeway-only driving system ... California (including Apple, Baidu Apollo, Auurora, AutoX ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bradtempleton/2024/01/31/aptiv-pulls-support-from-motional-robotaxi-joint-venture/",
+      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2024/01/31/aptiv-pulls-support-from-motional-robotaxi-joint-venture/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65bae550a3e7964d63dd7466/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2024/01/31/aptiv-pulls-support-from-motional-robotaxi-joint-venture/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2024/01/31/aptiv-pulls-support-from-motional-robotaxi-joint-venture/amp/",
+      "publishedDateTime": "2024-01-31T20:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-31-highlights-of-tesla-ceo-elon-musks-court-ruling-mars-frankenstein-a-self-driving-car-pun.md",
+      "title": "Highlights of Tesla CEO Elon Musk's court ruling: Mars, Frankenstein, a self-driving car pun",
+      "excerpt": "A Delaware judge voided the $56 billion pay package Tesla gave Elon Musk, CEO of the electric automaker, after finding the company failed to show it was fair.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/01/31/elon-musk-tesla-pay-package-court-ruling-highights.html",
+      "originalUrl": "https://www.cnbc.com/2024/01/31/elon-musk-tesla-pay-package-court-ruling-highights.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107335105-1700154424109-gettyimages-1760546933-UK_MUSK.jpeg?v=1706667973",
+          "width": 594,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/31/elon-musk-tesla-pay-package-court-ruling-highights.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/31/elon-musk-tesla-pay-package-court-ruling-highights.html",
+      "publishedDateTime": "2024-01-31T15:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-31-china-challenges-the-west-for-driverless-car-supremacy.md",
       "title": "China challenges the west for driverless car supremacy",
       "excerpt": "In Wuhan, 500 robotaxis, mostly run by Baidu, China’s rival to Google ... according to Waymo, the self-driving car developer of Google’s parent company Alphabet. Waymo told the Financial ...",
@@ -1206,74 +1310,6 @@
       "provider": {
         "name": "The Globe and Mail",
         "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-gasgoo-daily-venucia-launches-commercial-demonstration-operation-of-hydrogen-powered-v-online-in-guangzhou.md",
-      "title": "Gasgoo Daily: Venucia launches commercial demonstration operation of hydrogen-powered V-Online in Guangzhou",
-      "excerpt": "Venucia launches commercial demonstration operation of hydrogen-powered V-Online in Guangzhou",
-      "sourceUrl": null,
-      "webUrl": "https://news.metal.com/newscontent/102588542/Gasgoo-Daily:-Venucia-launches-commercial-demonstration-operation-of-hydrogen-powered-V-Online-in-Guangzhou/",
-      "originalUrl": "https://news.metal.com/newscontent/102588542/Gasgoo-Daily:-Venucia-launches-commercial-demonstration-operation-of-hydrogen-powered-V-Online-in-Guangzhou/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T12:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metal",
-        "domain": "metal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-baidu-idg-geely-co-introduce-ai-conversational-assistant-in-galaxy-l6-model.md",
-      "title": "Baidu IDG, Geely co-introduce AI conversational assistant in Galaxy L6 Model",
-      "excerpt": "Beijing (Gasgoo)- Recently, the collaborative efforts of Baidu's Intelligent Driving Group (IDG) and Geely Auto have come to fruition with the successful mass production of an AI conversational product embedded in the automaker’s Galaxy L6 model.",
-      "sourceUrl": null,
-      "webUrl": "https://news.metal.com/newscontent/102588543/Baidu-IDG,-Geely-co-introduce-AI-conversational-assistant-in-Galaxy-L6-Model/",
-      "originalUrl": "https://news.metal.com/newscontent/102588543/Baidu-IDG,-Geely-co-introduce-AI-conversational-assistant-in-Galaxy-L6-Model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T12:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metal",
-        "domain": "metal.com",
         "images": null,
         "publishers": null,
         "authors": null

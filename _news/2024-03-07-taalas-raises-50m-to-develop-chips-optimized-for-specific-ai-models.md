@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2024/03/06/taalas-raises-50m-develop-chip
 webUrl: "https://siliconangle.com/2024/03/06/taalas-raises-50m-develop-chips-optimized-specific-ai-models/"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,36 +23,6 @@ images:
     width: 718
     height: 400
     isCached: true
-
-related:
-  - title: "Tenstorrent Founder and Engineers Say Taalas AI Chip Outperforms a Small GPU Data Center"
-    excerpt: "AI chip startup Taalas Inc., has announced it has exited stealth mode and raised $50 million over two rounds of funding led by Pierre Lamond and Quiet Capital. Taalas was founded by Tenstorrent founder Ljubisa Bajic,"
-    publishedDateTime: 2024-03-06T21:07:00Z
-    webUrl: "https://insidehpc.com/2024/03/tenstorrent-founder-and-engineers-say-their-taalas-ai-chip-outperforms-a-small-gpu-data-center/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 60
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2024/03/Taalas-logo-2-1-0324.png"
-        width: 646
-        height: 334
-        isCached: true
-  - title: "Tenstorrent Founder and Engineers Say Their Taalas AI Chip Outperforms a Small GPU Data Center"
-    excerpt: "AI chip startup Taalas Inc., has announced it has exited stealth mode and raised $50 million over two rounds of funding led by Pierre Lamond and Quiet Capital. Taalas was founded by Tenstorrent founder Ljubisa Bajic,"
-    publishedDateTime: 2024-03-06T21:05:00Z
-    webUrl: "https://insidehpc.com/tag/taalas/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 57
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2023/10/Lenovo-racks-image-2-1-1023-1024x512.png"
-        width: 1024
-        height: 512
-        isCached: true
 
 secured: "ERManeMt565JrOUeJAJoJ4dk8pORmfRsakG+nAxuw+cjbp+JxwnMb0BnVwnVOgMgfnicDJxw8u0rc73TTNWCRhMYdxQ2pykvuvXzQchmKMdap+e3+ryf4row2vRHoHPK1h9npgGK/soO6nt+5W6tBYPmLsTjIkZyyQj729V0Q3iUNRuGEGxPOnOFmcptcUpb6NGk8itHauRrCSG5oknbPw+Lt27nIXqAL5Qi8W4+klgPiU1qMJpmtWWQTQG3kI9TNzA2VHnLjgNYAb6MxHdXmZ1Po9jwjSyLEuNjB/k6BHB+7n1KF+Z4r/nUcHajojPbz27zTo//09PvY/6ccJF71ONGofgQd+dFLhkDDUyTE0s=;67mCULhpi+UpxkNMP83TIw=="
 ---

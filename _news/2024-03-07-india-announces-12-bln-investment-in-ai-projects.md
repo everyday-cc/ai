@@ -47,15 +47,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 61
-  - title: "India’s AI Regulators Need Scalpels, Not Hammers"
-    excerpt: "A vague decree has revived fears that government overreach will stifle innovation in the country’s booming tech sector."
-    publishedDateTime: 2024-03-06T22:00:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2024-03-06/india-s-clumsy-ai-decree-could-stifle-innovation"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 49
   - title: "India Spending Billions on AI"
     excerpt: "for India’s AI ecosystem over the next five years. The IndiaAI Mission includes standing up a 10,000-GPU AI supercomputer (no system details were released) to support such initiatives as: The IndiaAI Innovation Centre (IAIC), an academic institution ..."
     publishedDateTime: 2024-03-08T00:00:00Z

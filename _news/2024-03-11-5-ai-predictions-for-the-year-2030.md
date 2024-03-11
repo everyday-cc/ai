@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2024/03/10/10-ai-predictions-f
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2024/03/10/10-ai-predictions-for-the-year-2030/amp/"
 type: article
 quality: 93
-heat: 198
+heat: 218
 published: true
 
 provider:
@@ -65,6 +65,29 @@ related:
         width: 625
         height: 416
         isCached: true
+  - title: "Three Ways We Know That 2024 Is The Year Of AI Adoption"
+    excerpt: "Three Ways We Know That 2024 is the Year of AI Adoption New research is making things a lot clearer, and giving us real visions of what’s possible."
+    publishedDateTime: 2024-03-11T20:33:00Z
+    webUrl: "https://www.forbes.com/sites/johnwerner/2024/03/11/three-ways-we-know-that-2024-is-the-year-of-ai-adoption/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 71
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65ef6aa2e7b5a9d47e95a30c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 893
+        isCached: true
+  - title: "AI’s Backbone: 3 Key Stock Plays for the Artificial Intelligence Revolution"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Only a few AI stocks have rallied tremendously due to the AI revolution. The"
+    publishedDateTime: 2024-03-11T20:18:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ais-backbone-3-key-stock-plays-for-the-artificial-intelligence-revolution-1033152517"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
   - title: "ChatGPT Stock Predictions: 3 Space Companies the AI Bot Thinks Have 10X Potential"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With the machines taking over, it seems only appropriate to ask ChatGPT what"
     publishedDateTime: 2024-03-06T22:14:00Z

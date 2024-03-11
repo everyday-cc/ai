@@ -50,6 +50,22 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 43
+  - title: "Chinese Researchers on the Brink of Developing 'Real AI Scientists' Capable of Conducting Experiments, Solving Scientific Problems"
+    excerpt: "Chinese researchers are on the brink of pioneering a groundbreaking approach to developing 'AI scientists capable of conducting experiments and solving scientific problems. Recent advances in deep learning models have revolutionized scientific research ..."
+    publishedDateTime: 2024-03-10T09:03:00Z
+    webUrl: "https://www.techtimes.com/articles/302436/20240310/chinese-researchers-brink-developing-real-ai-scientists-capable-conducting-experiments.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/302436/20240310/chinese-researchers-brink-developing-real-ai-scientists-capable-conducting-experiments.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/302436/20240310/chinese-researchers-brink-developing-real-ai-scientists-capable-conducting-experiments.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 29
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/444543/2022-world-robot-conference.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "ZzF2tCF8JANb0kOaSoFaIGx1acvLmMoC5HEzkfwaRHK0gcc5zY5D0Az6Jv68RhsfSrJ6LbIXLTVypm150JCeUG0HUCTmNs3H1AmpPYLOAMtZj7ivX4klTkOCMcEtfUP6s/ARt2kj1QjkhNuR5WUdJMhDb4iN0cgzWsmiIAvaXcunXrdzFADc9Wmo7w3krooLcZlN57RiYwZ7du4uwhurn935teP7ZuX4yalOUfxHRbcOWikMgTeO/43CEyhmDvpmav0nFr6N06A5djOT/skQcfnqShBsLhic2n9iiqM9yElRKpYZMvBkPs2g+wzwCI5rUfUDdNcq16L6+JGIoTCpBfgpeTsJrllkaSCDWHSeb0+k6WgB2OUTqUyLMpCTaxCW6zGibeK2nGXGILm9K63CjXSVpaNk84aum8xb8sv0nqPhkec5piGccinu1IxejQT7M8aeRv6Z8uQuE9L44OhH0at3FiKLXMpQXGPc7IKoCgij9d6l86uiN2L8SBFCp61+8F2d9QnDsgNL0TJKl6KOCQ==;kpubpn7ujI9aYCR9YGo9TQ=="
 ---

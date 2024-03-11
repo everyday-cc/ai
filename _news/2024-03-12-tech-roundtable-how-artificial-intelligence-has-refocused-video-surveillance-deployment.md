@@ -6,8 +6,8 @@ publishedDateTime: 2024-03-11T17:50:00Z
 originalUrl: "https://www.securityinfowatch.com/video-surveillance/article/53097419/hanwha-vision-tech-roundtable-how-artificial-intelligence-has-refocused-video-surveillance-deployment"
 webUrl: "https://www.securityinfowatch.com/video-surveillance/article/53097419/hanwha-vision-tech-roundtable-how-artificial-intelligence-has-refocused-video-surveillance-deployment"
 type: article
-quality: 28
-heat: 28
+quality: 32
+heat: 32
 published: false
 
 provider:
@@ -16,6 +16,8 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
+  - Computer Vision
 
 images:
   - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2024/02/65d8cd1b9adaa0001ee132e6-gettyimages1301188723.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"

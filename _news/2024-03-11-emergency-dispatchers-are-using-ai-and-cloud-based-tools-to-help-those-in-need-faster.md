@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/emergency-response-call-centers-usin
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/emergency-response-call-centers-using-ai-cloud-technology-2024-3?amp"
 type: article
 quality: 82
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Dating apps use AI to help users find their dream partner"
-    excerpt: "Dating apps are using artificial intelligence to help users find their perfect match. NBC News' Valerie Castro spoke to some people who found love while using the AI-driven dating apps."
-    publishedDateTime: 2024-03-07T20:39:00Z
-    webUrl: "https://www.nbcnews.com/now/video/dating-apps-use-a-i-to-help-users-find-their-dream-partner-205672005516"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 47
 
 secured: "3aPpOhXxFS01fM63GI8NlzZevowU/F5aAhCbQA7RcXzKlm1dcMrmdks8eUDsT07jwOrpEcDkru8yrR2ywAkrUQqgt9clyfr/wmh47/SGQcfiSMVv9OhWKF+DZ2wi1y491vpNM1vCN6EmuhHusYDmKiAexmNb52eIZz88KOwHxPONt30lIyB8+Y0HvguW/kinYOMz5ANIINmahHmc0bRlyIoJrGsjMgUHCqPdgOQmf3fu1YWhvgpOOAHlVwYYxdFjVnZdBbDrUkjyHaMj7i2YB6bKAV5zrx8yUVpH7pvLuinXAM0GnvnvMCaowmLp3jdVZBh3yj4vW7Hd5lrRs+bwHPS8IpLY0i8J5EHmT9wlfzckCIsEQ37kNFGG071hYJRk7LmOIA5GvHeu4fLgn61bw33cbwhtR4eJZ36M9KrHzttbetEzx5NirLbwAUyJ9I2ficv+57e8Cv9ORgC4v12OGK5DkD94q9aJAzHjpjsLPTxhsRHisinJVXZw4YmDYisUtsMxJO3IbpsfcvF6RNzOfA==;8l+gp0mJlLPI8ir4sarz9w=="
 ---

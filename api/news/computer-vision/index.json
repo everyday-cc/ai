@@ -2,19 +2,19 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2024-03-11-pioneering-technology-ai-in-computer-vision-market-surges-to-457-billion-by-2028.md",
-      "title": "Pioneering Technology: AI in Computer Vision Market Surges to $45.7 Billion by 2028",
-      "excerpt": "The Artificial Intelligence in Computer Vision Market is expected to develop at a compound annual growth rate of 21.5%, reaching a value of USD 17.2 billion in 2023 and USD 45.7 billion by 2028.",
+      "path": "_news/2024-03-11-how-to-choose-an-ai-as-a-service-provider.md",
+      "title": "How to choose an AI-as-a-service provider",
+      "excerpt": "AIaaS can help you jumpstart your AI projects, but there are some details you need to know. Here’s what to look for and five leading options to consider.",
       "sourceUrl": null,
-      "webUrl": "https://www.informazione.it/c/46953790-6E0F-4AE3-8A93-FEAA8E88EF29/Pioneering-Technology-AI-in-Computer-Vision-Market-Surges-to-45-7-Billion-by-2028",
-      "originalUrl": "https://www.informazione.it/c/46953790-6E0F-4AE3-8A93-FEAA8E88EF29/Pioneering-Technology-AI-in-Computer-Vision-Market-Surges-to-45-7-Billion-by-2028",
+      "webUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.html",
+      "originalUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 111,
       "tags": null,
       "images": [
         {
-          "url": "https://q3.informazione.it/imgr/aHR0cHM6Ly93d3cubWFya2V0c2FuZG1hcmtldHMuY29tL0ltYWdlcy9haS1pbi1jb21wdXRlci12aXNpb24tbWFya2V0MTUuanBn.ZUGs9IrsSBI.jpg?w=1200&h=800&scale=both&mode=crop&anchor=topcenter",
+          "url": "https://images.idgesg.net/images/article/2024/02/dinging-service-bell-in-robot-hand-by-andrey-popov-via-shutterstock-100961475-large.jpg?auto=webp&quality=85,70",
           "width": 1200,
           "height": 800,
           "title": null,
@@ -24,13 +24,13 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.informazione.it/c/46953790-6E0F-4AE3-8A93-FEAA8E88EF29/amp/Pioneering-Technology-AI-in-Computer-Vision-Market-Surges-to-45-7-Billion-by-2028",
-      "cdnAmpWebUrl": "https://www-informazione-it.cdn.ampproject.org/c/s/www.informazione.it/c/46953790-6E0F-4AE3-8A93-FEAA8E88EF29/amp/Pioneering-Technology-AI-in-Computer-Vision-Market-Surges-to-45-7-Billion-by-2028",
-      "publishedDateTime": "2024-03-11T07:33:00Z",
+      "ampWebUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html",
+      "publishedDateTime": "2024-03-11T03:10:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "informazione",
-        "domain": "informazione.it",
+        "name": "Computerworld",
+        "domain": "computerworld.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -41,7 +41,13 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
+        "AI",
+        "AWS AI",
+        "Natural Language Processing",
+        "Microsoft AI",
+        "Machine Learning",
+        "IBM AI",
+        "AI in Finance"
       ]
     },
     {

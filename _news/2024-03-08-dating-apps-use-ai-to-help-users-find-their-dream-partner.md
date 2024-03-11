@@ -18,21 +18,53 @@ topics:
   - AI
 
 related:
-  - title: "Emergency dispatchers are using AI and cloud-based tools to help those in need faster"
-    excerpt: "Emergency-response call takers are using AI and cloud-based systems to help understaffed call centers and improve services like automatic translation."
-    publishedDateTime: 2024-03-11T14:15:00Z
-    webUrl: "https://www.businessinsider.com/emergency-response-call-centers-using-ai-cloud-technology-2024-3"
-    ampWebUrl: "https://www.businessinsider.com/emergency-response-call-centers-using-ai-cloud-technology-2024-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/emergency-response-call-centers-using-ai-cloud-technology-2024-3?amp"
+  - title: "How Stitch Fix Is Using Generative AI To Help Us Dress Better"
+    excerpt: "What makes Stitch Fix really special is its ability to strike that perfect balance between human knowledge and machine capabilities."
+    publishedDateTime: 2024-03-08T05:00:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/03/08/how-stitch-fix-is-using-generative-ai-to-help-us-dress-better/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/03/08/how-stitch-fix-is-using-generative-ai-to-help-us-dress-better/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/03/08/how-stitch-fix-is-using-generative-ai-to-help-us-dress-better/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 82
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://i.insider.com/65eb4c116080194819fe185f?width=1200&format=jpeg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65e4a9bf6aa5b8be3b7e9175/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1599
+        height: 900
+        isCached: true
+  - title: "How generative AI will change low-code development"
+    excerpt: "AI copilots and code generators offer similar benefits to low-code platforms, but they're not the same. Here's what industry leaders are saying about the future of low-code development."
+    publishedDateTime: 2024-03-11T09:00:00Z
+    webUrl: "https://www.infoworld.com/article/3713500/how-generative-ai-impacts-low-code-development.html"
+    ampWebUrl: "https://www.infoworld.com/article/3713500/how-generative-ai-impacts-low-code-development.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3713500/how-generative-ai-impacts-low-code-development.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/10/shutterstock_2248315255-100947624-large.jpg?auto=webp&quality=85,70"
         width: 1200
-        height: 600
+        height: 691
+        isCached: true
+  - title: "Using Generative AI To Help Cope With That Exploding Trend Of People Doing Abundant Ranting And Trauma Dumping On Others"
+    excerpt: "There is a rise in so-called trauma dumping. This involves people dumping out their expressed trauma. Generative AI can aid in coping with this in these sensible ways."
+    publishedDateTime: 2024-03-08T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/08/using-generative-ai-to-help-cope-with-that-exploding-trend-of-people-doing-abundant-ranting-and-trauma-dumping-on-others/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/08/using-generative-ai-to-help-cope-with-that-exploding-trend-of-people-doing-abundant-ranting-and-trauma-dumping-on-others/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/03/08/using-generative-ai-to-help-cope-with-that-exploding-trend-of-people-doing-abundant-ranting-and-trauma-dumping-on-others/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65ea5df29887bd7e668e400d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "CnfJkngi6fpZ8998Oj7qBRdVavj70+qWiqm8+25r9SG5OKqmcAgutvZTLzaiW3kqAFKQ+UGAGDqXPH4VHh5N1ioIrHf0tKwv9zcXtsrU6CU73nFTg4cnG8eUb7F+pJ3Zg3KzLihRS/PUTTpkaFbU5rapr4AxkneG+xL2PuinT+Qs0F0E3Pn+uLUrGLNYJE/7/cCRbMqUjpkR1buXa0YhlDkWAQzhppb3Zp7ED595FsD7mXP/lL+ORJ8cxHTdhld8PDfR/w3AiX4dsqU4NhfRobzgI0FgyrNCX1DdLS9opb+eRFyRgYNt2RX94m9/xSBamJAoPVd4zcaVpH0VP3p0h9mtVr1Co7ykTHrmzGBx3aVhFWrvvTeE9KUeYFC4IhTeULkqMJ+jAw9DZ6qD6SmCQmekjpiCzy/5e4+74xbo/HFqopgEDeP+SMHNV7RLqPZvsEj+/o88TGC+38UbunYKVGnWVAQZHTMaBs+f+XQdBONY6PkKRaWR2zO24np4oNObTl6jpZob9PH3nYK3fk2RYA==;IPI3tdzFcsQJFOgp9o5sLA=="

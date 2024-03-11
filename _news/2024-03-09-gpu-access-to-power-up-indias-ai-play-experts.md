@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/tech/technology/gpu-access-to-power-up-i
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/amp_articleshow/108335973.cms"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -36,15 +36,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 61
-  - title: "India’s AI Regulators Need Scalpels, Not Hammers"
-    excerpt: "A vague decree has revived fears that government overreach will stifle innovation in the country’s booming tech sector."
-    publishedDateTime: 2024-03-06T22:00:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2024-03-06/india-s-clumsy-ai-decree-could-stifle-innovation"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 49
   - title: "India announces $1.2 bln investment in AI projects"
     excerpt: "India on Thursday approved a 103 billion rupee ($1.25 billion) investment in artificial intelligence projects, including to develop computing infrastructure and for the development of large language models,"
     publishedDateTime: 2024-03-07T13:50:00Z
@@ -89,6 +80,6 @@ related:
       domain: ndtv.com
     quality: 34
 
-secured: "VOmRwfKxVtGiOGvLk/qWZW8SMJ9aehm760REQn1g/nPPNm2rWUXWNABIsKdchJTq8WysyyeS3hQ0IfQqss0gL01tCUyk6vDXaLx6paGJjRLRiDIfa7/3XDHZ7w6WSydK62xtwiARWmoks+el3DEQUTldovf5CmDCjQVLew6OzRdu7k5AshwDcta3Hqu80dYwdPly2lUWOt1XGZ62Fl85YBd+nMwvN2pOgl5Hj9oeLmByi+rSmDgIPqSfk/p4/YdwvT1OGSiC+UV3KvQuI8Vq5U0SRKyGq5r1RrFj8mFTituGoBDC7pbPnDsx7X7e8k8WWiFHSMm4rtV9xECCR1UjZzia0ZVNzFZOIKiVL6ZDCKk=;rEl/eJMzGPD7bDVF3Gj6YQ=="
+secured: "GP21Rd/ymVdFfXqtSQfKuQgEAFqagEmu0NiePvlDmxsQb8BsqKKXL5Q/QjaQMRumfnsFfbnrZHsL/rExWU641TdlraLGGKlPDiOeULL87lR1W8ibwgCjEXoAUqzMi/Bm76JfvlCrF6jc/3PGwuIcGY3XrWKlCfux/VOT3l0lo+GxTfV9jooX00EE+TZz6NKhcWzQkoXzuvbsuGesPGQhfLLtT5CLvAidrnBvwzTUdbzhXos2sh9NhPWZOwA6bDVf9lC4NINby3cJENJ8uTY/uR8hsaQxi4lah2CGRQqY5YE/aGu4PA04wlq63MoJE+xr24OSjibmKcGljLReJ3MybA+UPesFplQq6P2vEmaxsecsW2jD2T8RGB2DRYpVDIwv9VEYP1BKuWpZa+Mpho4FEp7bh0KFmpcuSfRLHuAJ/1136Mae8BRVluaRYpC0qoV2cTKUIuIcS+z5qr8CUkoTa+hzUxKPD4SP0zojhlaZrtCeAxF3OGstbKWiRUEkWPpTeUUB8cXAZdXsDSaStvQxKg==;Tz9Q4m51G5HIr3hVk1bwEA=="
 ---
 

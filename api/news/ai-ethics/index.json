@@ -238,6 +238,58 @@
       ]
     },
     {
+      "path": "_news/2024-03-07-ea-says-generative-ai-will-make-gamers-spend-more-speed-up-development-time.md",
+      "title": "EA says generative AI will make gamers spend more, speed up development time",
+      "excerpt": "Speaking at the Morgan Stanley Technology, Media & Telecom Conference on Wednesday (via Techraptor), Wilson called generative AI an \"incredibly exciting\" technology that EA is embracing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/102169-ea-generative-ai-increase-efficiency-speed-up-development.html",
+      "originalUrl": "https://www.techspot.com/news/102169-ea-generative-ai-increase-efficiency-speed-up-development.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2024/03/2024-03-07-image-9.jpg",
+          "width": 3840,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-07T14:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-07-ai-watermarks-arent-just-easy-to-defeatthey-could-make-disinformation-worse.md",
       "title": "AI watermarks aren’t just easy to defeat—they could make disinformation worse",
       "excerpt": "Whose AI outrage matters? The recent controversy around Google Gemini ... I spoke with Gebru and Margaret Mitchell, her former Google counterpart who now works as a researcher and chief ethics scientist at Hugging Face, about this exact topic and their ...",
@@ -1384,59 +1436,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2024-02-24-why-ai-can-and-should-lead-to-a-renaissance-in-the-humanities.md",
-      "title": "Why AI can (and should) lead to a renaissance in the humanities",
-      "excerpt": "We need more than ever to understand one another, which means not relying on AI to translate until we have bothered to learn each other’s languages and cultures. Let’s not approach everything through a narrow lens For example, the temptation for some ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/why-ai-can-and-should-lead-to-a-renaissance-in-the-humanities/",
-      "originalUrl": "https://venturebeat.com/ai/why-ai-can-and-should-lead-to-a-renaissance-in-the-humanities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/a_robot_playing_the_violin_surrounded_by_represe-transformed.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-24T11:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI",
         "AI Ethics"
       ]

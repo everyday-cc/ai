@@ -2,6 +2,148 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-11-29-vision-transformers-market-worth-12-billion-by-2028-growing-at-a-cagr-of-342-report-by-marketsandmarkets.md",
+      "title": "Vision Transformers Market Worth $1.2 billion by 2028, Growing At a CAGR of 34.2% Report by MarketsandMarkets™",
+      "excerpt": "The global Vision Transformers Market size is projected to grow from USD 0.2 billion in 2023 to USD 1.2 billion by 2028 at a growth rate of 34.2% during the forecast period,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/11/g36000465/vision-transformers-market-worth-1-2-billion-by-2028-growing-at-a-cagr-of-34-2-report-by-marketsan",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/11/g36000465/vision-transformers-market-worth-1-2-billion-by-2028-growing-at-a-cagr-of-34-2-report-by-marketsan",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/36000465",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36000465",
+      "publishedDateTime": "2023-11-29T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-11-29-microsoft-mlnet-30-expands-deep-learning-capabilities.md",
+      "title": "Microsoft ML.NET 3.0 expands deep learning capabilities",
+      "excerpt": "Update to the machine learning framework for .NET developers brings new capabilities in object detection, named entity recognition, and question answering.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3711383/microsoft-ml-net-3-0-expands-deep-learning.html",
+      "originalUrl": "https://www.infoworld.com/article/3711383/microsoft-ml-net-3-0-expands-deep-learning.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 243,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/10/04/10/artificial-intelligence_brain_machine-learning_digital-transformation_world-networking-100777429-large-100946747-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3711383/microsoft-ml-net-3-0-expands-deep-learning.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711383/microsoft-ml-net-3-0-expands-deep-learning.amp.html",
+      "publishedDateTime": "2023-11-29T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-29-is-machine-learning-the-ultimate-weapon-against-financial-fraud.md",
+      "title": "Is Machine Learning the Ultimate Weapon Against Financial Fraud?",
+      "excerpt": "To address these threats, financial institutions are turning to machine learning (ML) as a powerful tool for proactive fraud prevention. Let’s explore how ML is effectively combating fraud and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/blogposting/25284/is-machine-learning-the-ultimate-weapon-against-financial-fraud",
+      "originalUrl": "https://www.finextra.com/blogposting/25284/is-machine-learning-the-ultimate-weapon-against-financial-fraud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://softjourn.com/media/expertise/ML-in-finance/LM_illustration_1.png",
+          "width": 1200,
+          "height": 816,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-11-29-how-ai-sees-the-world-what-happened-when-we-trained-a-deep-learning-model-to-identify-poverty.md",
       "title": "How AI 'sees' the world: What happened when we trained a deep learning model to identify poverty",
       "excerpt": "To most effectively deliver aid to alleviate poverty, you have to know where the people most in need are. In many countries, this is often done with household surveys. But these are usually infrequent and cover limited locations.",

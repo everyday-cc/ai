@@ -7,7 +7,7 @@ originalUrl: "https://www.fwbusiness.com/fwbusiness/article_7d7edaaa-a2b7-5191-b
 webUrl: "https://www.fwbusiness.com/fwbusiness/article_7d7edaaa-a2b7-5191-b739-2789f583f632.html"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 800
     height: 420
     isCached: true
-
-related:
-  - title: "Purdue prof on how AI could help make legal documents understandable"
-    excerpt: "If you've ever read legislation and didn't think it made sense, a Purdue University professor says there is a method based in artificial intelligence that could help. It's called natural language processing (NLP)."
-    publishedDateTime: 2024-03-06T20:45:00Z
-    webUrl: "https://www.953mnc.com/2024/03/06/purdue-university-professor-says-natural-language-processing-could-help-some-understand-legal-documents/"
-    type: article
-    provider:
-      name: 95.3 MNC
-      domain: 953mnc.com
-    quality: 19
 
 secured: "d6B18w4vcdzKWvzl5C8NKXHfjAgn6VAm5VPb+Zm3AFzXt0lIE5Xx6m3cWggb244rRbgcgCvms9+A2MXif3eT+O4HZcHTBkiTCAeuM8912s0sBfzG0M+vcjDv8FGKGpyXomHcJo/ewfm+gqVfnmTgNQAIhdrVUdHWmfDFkw1Jr3Du3xh6PYjdMmDUMl51pFrM3osXh8U66HNjqrYfEjnhkBanoFAUB+Shv3sNK6QWpCmpk+T91BV5t4UnII0c9A0vlycRoonUmS++ydTzQ53td2K6ttM8FN8aB49Y57DXGNnDTBy2jMO9QVmImzYB0U4YGM/asn70igeD8dsoacWlagxSAAIf+rydVTeq9/x2aHJT4HKQgNg4hA3GoSvX1Awbh4iG62KwpU2Rsi64cpoClltIb3NtMqDUDOitaAHQ5rlHtZxdMy3iWHA2cAL73eaKutcakT4ef4X46Zwwif6cYV5N2eX2xVltT24oFlqGPxYpqmh7IQIE8iL/MZsxhEDui/8cpVQWmDc5lj5feWljIg==;01BB93W1HIbtwV05ZK6qrQ=="
 ---

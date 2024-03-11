@@ -2,6 +2,144 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-01-08-siemens-delivers-innovations-in-immersive-engineering-and-artificial-intelligence-to-enable-the-industrial-metaverse.md",
+      "title": "Siemens delivers innovations in immersive engineering and artificial intelligence to enable the industrial metaverse",
+      "excerpt": "Together with customers and partners including Sony, Red Bull Racing, Unlimited Tomorrow, and Blendhub, Siemens highlights how technology is transforming the everyday; Siemens par",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2024/01/08/9942490.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2024/01/08/9942490.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2312969/Siemens_CES_2024_Sony_01.jpg",
+          "width": 400,
+          "height": 234,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-08T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-05-virtusa-announces-strategic-collaboration-with-aws-to-accelerate-cloud-data-migration-and-it-modernization.md",
+      "title": "Virtusa Announces Strategic Collaboration with AWS to Accelerate Cloud Data Migration and IT Modernization",
+      "excerpt": "Virtusa Corporation, a global provider of digital strategy, digital engineering, and information technology (IT)",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/this-just-in/virtusa-announces-strategic-collaboration-with-aws-to-accelerate-cloud-data-migration-and-it-modernization/",
+      "originalUrl": "https://www.datanami.com/this-just-in/virtusa-announces-strategic-collaboration-with-aws-to-accelerate-cloud-data-migration-and-it-modernization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.datanami.com/wp-content/uploads/2024/01/Virtusa-298x300.jpg",
+          "width": 298,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-04T16:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-03-3-big-money-ai-jobs-in-the-us-tech-industry-to-banish-your-january-blues.md",
+      "title": "3 big-money AI jobs in the U.S. tech industry to banish your January blues",
+      "excerpt": "AI-related jobs offer 77.53% higher salaries than other occupations, and the pay gap has widened by 36% due to artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/programming-development/3-big-money-ai-jobs-in-the-u-s-tech-industry-to-banish-your-january-blues/",
+      "originalUrl": "https://venturebeat.com/programming-development/3-big-money-ai-jobs-in-the-u-s-tech-industry-to-banish-your-january-blues/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/01/nuneybits_vector_art_of_a_developer_sitting_in_front_of_a_scree_22e9f6b5-f27c-4ab6-a089-29b913248fae-transformed.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 796,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-02T22:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-28-pinecones-ceo-is-on-a-quest-to-give-ai-something-like-knowledge.md",
       "title": "Pinecone's CEO is on a quest to give AI something like knowledge",
       "excerpt": "Companies have been trying to perform searches across the vectors at the heart of AI for a long time. Is this the focused technology the field has been looking for?",
@@ -1333,155 +1471,6 @@
         "AI Hardware",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-frugality-meets-accuracy-cost-efficient-training-of-gpt-neox-and-pythia-models-with-aws-trainium.md",
-      "title": "Frugality meets Accuracy: Cost-efficient training of GPT NeoX and Pythia models with AWS Trainium",
-      "excerpt": "Large language models (or LLMs) have become a topic of daily conversations. Their quick adoption is evident by the amount of time required to reach a 100 million users, which has gone from “4.5yrs by facebook” to an all-time low of mere “2 months by ChatGPT.” A generative pre-trained transformer (GPT)",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/frugality-meets-accuracy-cost-efficient-training-of-gpt-neox-and-pythia-models-with-aws-trainium/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/frugality-meets-accuracy-cost-efficient-training-of-gpt-neox-and-pythia-models-with-aws-trainium/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/12/frugality-meets-accuracy.jpg",
-          "width": 1005,
-          "height": 502,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-12T18:28:35Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-vodafone-advances-its-machine-learning-skills-with-aws-deepracer-and-accenture.md",
-      "title": "Vodafone advances its machine learning skills with AWS DeepRacer and Accenture",
-      "excerpt": "Vodafone is transitioning from a telecommunications company (telco) to a technology company (TechCo) by 2025, with objectives of innovating faster, reducing costs, improving security, and simplifying operations. Thousands of engineers are being onboarded to contribute to this transition. By 2025, Vodafone",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/vodafone-advances-its-machine-learning-skills-with-aws-deepracer-and-accenture/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/vodafone-advances-its-machine-learning-skills-with-aws-deepracer-and-accenture/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/11/01/ML-13855-image005-857x630.png",
-          "width": 857,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-12T17:51:17Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-best-last-minute-christmas-gift-deals-on-amazon-you-can-still-get-delivered-in-time.md",
-      "title": "Best last-minute Christmas gift deals on Amazon you can still get delivered in time",
-      "excerpt": "Save on toys, kitchen gadgets and more ahead of Christmas 2023 with these Amazon holiday deals. Here are our top deal picks. Note that delivery before Christmas depends on your geographical location.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/best-deals-you-can-get-at-amazon-before-christmas/",
-      "originalUrl": "https://www.cbsnews.com/essentials/best-deals-you-can-get-at-amazon-before-christmas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/12/18/2f8df486-8a2f-42b1-b248-c4898a0319cd/thumbnail/1200x630/bfdad298c0af0669522da567c91e507a/amazon-gifts.png?v=5382e209c94ee904b3a96a69f8ca0ce0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-12T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

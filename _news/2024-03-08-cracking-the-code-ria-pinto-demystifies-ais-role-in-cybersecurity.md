@@ -7,7 +7,7 @@ originalUrl: "https://www.itnewsafrica.com/2024/03/cracking-the-code-ria-pinto-d
 webUrl: "https://www.itnewsafrica.com/2024/03/cracking-the-code-ria-pinto-demystifies-ais-role-in-cybersecurity/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - IBM AI
   - AI
-
-related:
-  - title: "Healthcare Leaders Remain Focused on Cybersecurity and Efficiency"
-    excerpt: "Healthcare CIOs are taking stock of their security ecosystems as they prepare to innovate with emerging technologies."
-    publishedDateTime: 2024-03-06T20:01:00Z
-    webUrl: "https://healthtechmagazine.net/article/2024/03/healthcare-leaders-remain-focused-cybersecurity-and-efficiency"
-    type: article
-    provider:
-      name: HealthTech
-      domain: healthtechmagazine.net
-    quality: 34
 
 secured: "UkxnvWJvylMKqzMKXdme8QbmRDpk71UV3urmmgK9AF9fXOVwYasfNDxa5mPcV/FziOGo7LxhisJdX+0e7scIh0mYFcZ9+HGiFVqGZgStEe2iO1U815E1zw1LwkEZNyuGCVixUjXr9LQLjDZr29SSbuBfegvUHFj3twxefc/H4MAvDh+uPfePKXMqHeMpnnc7TE8EZzE5JCfH4YtQFaadx1HCBpW/4K8xQ2/M7WFyENdAGyqNtAh1jUj5GkWRuW6RuPLlc0aEXnS46KIOfAReBdTcJw+e3sxt1cJlT2KLgYaCsiche7KsQXbDFrE1J0d7pyRJnmdG82xrdhKTFnrN52jCeckLcCEaBspW+6PF7D0=;+/pHi9jnwEpMGbKzwpkUHg=="
 ---

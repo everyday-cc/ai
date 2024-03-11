@@ -2,6 +2,495 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2024-03-04-jim-cramer-says-these-4-stocks-are-better-ai-plays-than-red-hot-super-micro-computer.md",
+      "title": "Jim Cramer says these 4 stocks are better AI plays than red-hot Super Micro Computer",
+      "excerpt": "Jim Cramer's daily rapid fire looks at stocks in the news outside the CNBC Investing Club portfolio. Super Micro Computer : Shares surged nearly 25% on Monday after the artificial intelligence server maker was selected late Friday to join the S & P 500 later in March.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/03/04/jim-cramer-these-4-stocks-are-better-ai-plays-than-super-micro-computer.html",
+      "originalUrl": "https://www.cnbc.com/2024/03/04/jim-cramer-these-4-stocks-are-better-ai-plays-than-super-micro-computer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107364684-17062129482023-02-17t102124z_2115759463_rc2xcz9bgstp_rtrmadp_0_amd-results.jpeg?v=1706213119&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-04T14:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-04-customers-expect-more-todayhow-ai-can-help-brands-deliver.md",
+      "title": "Customers Expect More Today—How AI Can Help Brands Deliver",
+      "excerpt": "Meeting today’s customer expectations has been an ongoing challenge for contact center leaders, and they are well aware of the constraints of their legacy technologies for providing digital experiences. The first step toward modernization is cloud adoption, which usually entails deploying some form of CCaaS (contact-center-as-a-service).",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/04/customers-expect-more-today-how-ai-can-help-brands-deliver/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/04/customers-expect-more-today-how-ai-can-help-brands-deliver/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e201d04ec7953e14743576/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1504,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/04/customers-expect-more-today-how-ai-can-help-brands-deliver/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/04/customers-expect-more-today-how-ai-can-help-brands-deliver/amp/",
+      "publishedDateTime": "2024-03-04T14:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-04-ai-powered-decision-making-its-impact-on-the-enterprise-value-chain.md",
+      "title": "AI-Powered Decision Making: Its Impact On The Enterprise Value Chain",
+      "excerpt": "Companies that are willing to test and learn are overcoming decision-making challenges, improving operations and making workers' lives easier.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/04/ai-powered-decision-making-its-impact-on-the-enterprise-value-chain/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/04/ai-powered-decision-making-its-impact-on-the-enterprise-value-chain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62337b27ece1d59239e707ee/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/04/ai-powered-decision-making-its-impact-on-the-enterprise-value-chain/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/04/ai-powered-decision-making-its-impact-on-the-enterprise-value-chain/amp/",
+      "publishedDateTime": "2024-03-04T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-04-does-ai-have-a-place-on-ethics-committees-how-to-use-it-the-right-way.md",
+      "title": "Does AI have a place on ethics committees? How to use it the right way",
+      "excerpt": "So it makes sense to ask the question of whether AI can be used to help make better ethics decisions. As AI is a class of computer algorithm, it relies on data. Ethics committees also rely on data ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/does-ai-have-a-place-on-ethics-committees-how-to-use-it-the-right-way%3Futm_source=facebook",
+      "originalUrl": "https://thenextweb.com/news/does-ai-have-a-place-on-ethics-committees-how-to-use-it-the-right-way%3Futm_source=facebook",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F03%2FUntitled-design-1.jpg&signature=b84d53bed3640764cf4568c175a30c5d",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-04T11:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-04-this-startup-wants-to-power-the-next-big-wave-of-ai-actually-making-it-useful.md",
+      "title": "This Startup Wants To Power The Next Big Wave Of AI: Actually Making It Useful",
+      "excerpt": "Baseten raised $40 million to make it easier for companies to actually deploy AI applications in a practical way after growing its revenue to several million dollars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/kenrickcai/2024/03/04/baseten-series-b-making-ai-useful-inference/",
+      "originalUrl": "https://www.forbes.com/sites/kenrickcai/2024/03/04/baseten-series-b-making-ai-useful-inference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e58631550181da145a6ce0/0x0.jpg?format=jpg&crop=3151,2101,x1,y0,safe&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-04T11:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-04-i-asked-gemini-and-gpt-4-to-explain-deep-learning-ai-and-gemini-won-hands-down.md",
+      "title": "I asked Gemini and GPT-4 to explain deep learning AI, and Gemini won hands down",
+      "excerpt": "Accelerate your tech game Paid Content How the New Space Race Will Drive Innovation How the metaverse will change the future of work and society Managing the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/i-asked-gemini-and-gpt-4-to-explain-deep-learning-ai-and-gemini-won-hands-down/",
+      "originalUrl": "https://www.zdnet.com/article/i-asked-gemini-and-gpt-4-to-explain-deep-learning-ai-and-gemini-won-hands-down/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 220,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/eb501fa7b639781afa61e6952318ef6629691191/2024/03/01/d9070712-3fd3-42bb-8871-19d5474295c4/gemini-versus-chatgpt-crop-for-twitter-new.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/i-asked-gemini-and-gpt-4-to-explain-deep-learning-ai-and-gemini-won-hands-down/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-asked-gemini-and-gpt-4-to-explain-deep-learning-ai-and-gemini-won-hands-down/",
+      "publishedDateTime": "2024-03-04T10:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-04-nvidia-becomes-teslas-successor-as-market-flips-from-electric-vehicles-to-artificial-intelligence.md",
+      "title": "Nvidia becomes Tesla’s successor as market flips from electric vehicles to artificial intelligence",
+      "excerpt": "Nvidia Corp.’s rise is captivating the stock market and driving the S&P 500 Index to new highs. But it also raises cautionary reminders of another investor darling that soared on dreams of a technological transformation, only to tumble back to earth when ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eastbaytimes.com/2024/03/04/nvidia-becomes-teslas-successor-as-market-flips-from-ev-to-ai/",
+      "originalUrl": "https://www.eastbaytimes.com/2024/03/04/nvidia-becomes-teslas-successor-as-market-flips-from-ev-to-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eastbaytimes.com/wp-content/uploads/2024/03/OCR-Z-NVIDIA-TRILLION.jpg?w=1024&h=682",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.eastbaytimes.com/2024/03/04/nvidia-becomes-teslas-successor-as-market-flips-from-ev-to-ai/amp/",
+      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2024/03/04/nvidia-becomes-teslas-successor-as-market-flips-from-ev-to-ai/amp/",
+      "publishedDateTime": "2024-03-04T10:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "East Bay Times",
+        "domain": "eastbaytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2024-03-04-anthropics-claude-3-chatbot-claims-to-outperform-chatgpt-gemini.md",
+      "title": "Anthropic's Claude 3 chatbot claims to outperform ChatGPT, Gemini",
+      "excerpt": "The latest version of Claude AI promises quicker results, greater accuracy, and improved ease of use, and will now analyze uploaded images, documents, and other files.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/anthropics-claude-3-chatbot-claims-to-outperform-chatgpt-gemini/",
+      "originalUrl": "https://www.zdnet.com/article/anthropics-claude-3-chatbot-claims-to-outperform-chatgpt-gemini/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 314,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/ee5190160d7515bc2e0b36e0d5ec07ee2d847af7/2024/03/04/aede71d1-80de-4922-a0d7-10e27b1d223f/anthropics-next-generation-claude-3-ai-claims-to-outperform-chatgpt.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/anthropics-claude-3-chatbot-claims-to-outperform-chatgpt-gemini/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/anthropics-claude-3-chatbot-claims-to-outperform-chatgpt-gemini/",
+      "publishedDateTime": "2024-03-04T08:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-04-it-services-deal-win-momentum-sees-minor-uptick-in-feb-report.md",
+      "title": "IT services deal win momentum sees minor uptick in Feb: Report",
+      "excerpt": "Deal-win announcements by IT services companies saw a minor uptick month-on-month ... Persistent Systems launched a GenAI platform in collaboration with Microsoft. Wipro launched an enterprise AI ready platform leveraging IBM’s watsonx.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/incoming/it-services-deal-win-momentum-sees-minor-uptick-in-feb-report/article67913143.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/incoming/it-services-deal-win-momentum-sees-minor-uptick-in-feb-report/article67913143.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-04T06:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-04-south-korean-chip-stocks-climb-in-line-with-rally-in-japanese-peers.md",
+      "title": "South Korean Chip Stocks Climb in Line With Rally in Japanese Peers",
+      "excerpt": "SK Hynix and Hanmi Semiconductor have recently drawn keen attention from investors because both have teamed up to package high bandwidth memory chips for clients to power AI applications, KB Securities analyst Juyoung Park said in a research note.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/south-korean-chip-stocks-climb-in-line-with-rally-in-japanese-peers-22cd0ad8",
+      "originalUrl": "https://www.marketwatch.com/story/south-korean-chip-stocks-climb-in-line-with-rally-in-japanese-peers-22cd0ad8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/south-korean-chip-stocks-climb-in-line-with-rally-in-japanese-peers-22cd0ad8",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/south-korean-chip-stocks-climb-in-line-with-rally-in-japanese-peers-22cd0ad8",
+      "publishedDateTime": "2024-03-04T06:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-04-nikkei-stock-average-rises-above-40000-for-first-time-driven-by-ai-optimism-2nd-update.md",
       "title": "Nikkei Stock Average Rises Above 40000 for First Time, Driven by AI Optimism -- 2nd Update",
       "excerpt": "By Kosaku Narioka Japan's benchmark stock index rose above 40000 for the first time ever, driven by stronger corporate earnings and a surge in",
@@ -685,499 +1174,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-03-tensorflow-lite-in-google-play-services-c-api-beta.md",
-      "title": "TensorFlow Lite in Google Play services C API (Beta)",
-      "excerpt": "Beta: TensorFlow Lite in Google Play services C API is currently in Beta. TensorFlow Lite in Google Play services runtime allows you to run machine learning (ML) models without statically bundling TensorFlow Lite libraries into your app. This guide provide ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/lite/android/native",
-      "originalUrl": "https://www.tensorflow.org/lite/android/native",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/static/site-assets/images/project-logos/tensorflow-lite-logo-social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-03T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-03-apple-cancels-its-car-googles-ai-goes-awry-and-bumble-stumbles.md",
-      "title": "Apple cancels its car, Google’s AI goes awry and Bumble stumbles",
-      "excerpt": "Elsewhere, Mistral, the French AI startup, launched a new model to rival OpenAI’s GPT-4 — and its own cheekily named chatbot dubbed Le Chat. The releases were timed with a Microsoft partnership to provide Mistral models to Microsoft’s Azure customers ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/03/02/apple-cancels-its-car-googles-ai-goes-awry-and-bumble-stumbles/",
-      "originalUrl": "https://techcrunch.com/2024/03/02/apple-cancels-its-car-googles-ai-goes-awry-and-bumble-stumbles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/02/apple-ghost-logo.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/03/02/apple-cancels-its-car-googles-ai-goes-awry-and-bumble-stumbles/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/02/apple-cancels-its-car-googles-ai-goes-awry-and-bumble-stumbles/amp/",
-      "publishedDateTime": "2024-03-02T21:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-03-nvidia-ceo-makes-daring-prediction-that-ai-will-reach-general-intelligence-in-5-years.md",
-      "title": "NVIDIA CEO Makes Daring Prediction that AI will Reach “General Intelligence” in 5 Years",
-      "excerpt": "This confidence stems partly from NVIDIA's leading role in developing the powerful AI chips used in systems like OpenAI's ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2024/03/02/nvidia-ceo-ai-general-intelligence-prediction/",
-      "originalUrl": "https://www.gizmochina.com/2024/03/02/nvidia-ceo-ai-general-intelligence-prediction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/09/Nvidia-Partners-Tata.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-02T17:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-02-facial-recognition-tech-is-probably-coming-to-a-lot-more-vending-machines.md",
-      "title": "Facial recognition tech is probably coming to a lot more vending machines",
-      "excerpt": "Chris Russell of the Oxford Internet Institute says facial recognition technology is cheap, easy to install and is going to become increasingly common.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/vending-machines-facial-recognition-risk-hackers-access-live-surveillance-2024-3",
-      "originalUrl": "https://www.businessinsider.com/vending-machines-facial-recognition-risk-hackers-access-live-surveillance-2024-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65e1f0756080194819fb8e82?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/vending-machines-facial-recognition-risk-hackers-access-live-surveillance-2024-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vending-machines-facial-recognition-risk-hackers-access-live-surveillance-2024-3?amp",
-      "publishedDateTime": "2024-03-02T12:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-02-dysolve-using-ai-to-beat-dyslexia-through-generative-games.md",
-      "title": "Dysolve: Using AI To Beat Dyslexia Through Generative Games",
-      "excerpt": "Dysolve is the first AI computer program for dyslexia that does not use preset testing kits but instead uses AI to diagnore and treat using dynamically generated games.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rayravaglia/2024/03/02/dysolve-using-ai-to-beat-dyslexia-through-generative-games/",
-      "originalUrl": "https://www.forbes.com/sites/rayravaglia/2024/03/02/dysolve-using-ai-to-beat-dyslexia-through-generative-games/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e2446ba47afbd0fd1072bc/0x0.jpg?format=jpg&crop=3840,1800,x0,y179,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rayravaglia/2024/03/02/dysolve-using-ai-to-beat-dyslexia-through-generative-games/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rayravaglia/2024/03/02/dysolve-using-ai-to-beat-dyslexia-through-generative-games/amp/",
-      "publishedDateTime": "2024-03-02T12:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-02-will-ai-translation-make-learning-a-new-language-pointless-experts-weight-in-as-google-samsung-chatgpt-spur-giant-strides-in-technology.md",
-      "title": "Will AI translation make learning a new language pointless? Experts weight in as Google, Samsung, ChatGPT spur ‘giant strides’ in technology",
-      "excerpt": "When the protagonist in the British cult sci-fi novel The Hitchhiker’s Guide to the Galaxy sticks a creature called a Babel fish in his ear, it translates all alien speech for him. Can artificial intelligence (AI) give us something similar? Thanks to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/lifestyle/arts-culture/article/3253854/will-ai-translation-make-learning-new-language-pointless-experts-weight-google-samsung-chatgpt-spur",
-      "originalUrl": "https://www.scmp.com/lifestyle/arts-culture/article/3253854/will-ai-translation-make-learning-new-language-pointless-experts-weight-google-samsung-chatgpt-spur",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/03/01/01858272-8262-4613-866c-c0d687f2be01_1a777b83.jpg?itok=a_pmWP6-&v=1709289565",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/lifestyle/arts-culture/article/3253854/will-ai-translation-make-learning-new-language-pointless-experts-weight-google-samsung-chatgpt-spur",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/lifestyle/arts-culture/article/3253854/will-ai-translation-make-learning-new-language-pointless-experts-weight-google-samsung-chatgpt-spur",
-      "publishedDateTime": "2024-03-02T11:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-02-waymo-is-cleared-to-launch-robotaxi-service-in-los-angeles-sparking-new-protests.md",
-      "title": "Waymo is cleared to launch robotaxi service in Los Angeles, sparking new protests",
-      "excerpt": "California regulators have given the green light for Waymo to expand into Los Angeles County, clearing the way for the driverless taxi service to launch into a new massive market in the coming months.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/california/story/2024-03-01/waymo-cleared-to-launch-robotaxi-service-in-los-angeles",
-      "originalUrl": "https://www.latimes.com/california/story/2024-03-01/waymo-cleared-to-launch-robotaxi-service-in-los-angeles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/8ac2384/2147483647/strip/true/crop/5162x2710+0+365/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F16%2F3e%2F9a66faa84501b38eb4c42f98a564%2Fphoenix-airport-waymo-39647.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-02T06:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-02-openais-sam-altman-says-ai-is-a-tool-not-a-creature.md",
-      "title": "OpenAI's Sam Altman says AI is a tool, not a 'creature'",
-      "excerpt": "There are \"risks\" to artificial intelligence, but calling AI a \"creature\" is the stuff of sci-fi movies, Sam Altman told The Advocate.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/openai-sam-altman-ai-is-a-tool-not-a-creature-2024-3",
-      "originalUrl": "https://www.businessinsider.com/openai-sam-altman-ai-is-a-tool-not-a-creature-2024-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65e286bc90413ab8e1d899f6?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/openai-sam-altman-ai-is-a-tool-not-a-creature-2024-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/openai-sam-altman-ai-is-a-tool-not-a-creature-2024-3?amp",
-      "publishedDateTime": "2024-03-02T05:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-02-how-to-unlock-your-device-using-face-recognition-check-out-these-easy-steps.md",
-      "title": "How To Unlock Your Device Using Face Recognition? Check Out These Easy Steps",
-      "excerpt": "Learn how face recognition works, and how to set it up on your smartphone. (Image: Abhijay Singh Rawat/india.com) New Delhi: Facial recognition, or face recognition technology, is a biometric ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.india.com/technology/know-these-easy-steps-how-to-unlock-your-device-using-face-recognition-apple-face-id-android-face-unlock-6758568/",
-      "originalUrl": "https://www.india.com/technology/know-these-easy-steps-how-to-unlock-your-device-using-face-recognition-apple-face-id-android-face-unlock-6758568/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.india.com/wp-content/uploads/2024/03/IDC-Story.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.india.com/technology/know-these-easy-steps-how-to-unlock-your-device-using-face-recognition-apple-face-id-android-face-unlock-6758568/amp/",
-      "cdnAmpWebUrl": "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/know-these-easy-steps-how-to-unlock-your-device-using-face-recognition-apple-face-id-android-face-unlock-6758568/amp/",
-      "publishedDateTime": "2024-03-02T02:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India.com",
-        "domain": "india.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-02-the-hype-is-gone-from-the-electric-vehicle-industry-evs-are-becoming-boring-appliances.md",
-      "title": "The hype is gone from the electric-vehicle industry. EVs are becoming boring appliances",
-      "excerpt": "This week, Apple AAPL-Q rolled its plans to create a self-driving iPhone on wheels into the ditch ... in spite of endless predictions they would be the norm by now (Waymo and Baidu run small fleets of them in a few American and Chinese cities), Tesla ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/business/commentary/article-the-hype-is-gone-from-the-electric-vehicle-industry-evs-are-becoming/",
-      "originalUrl": "https://www.theglobeandmail.com/business/commentary/article-the-hype-is-gone-from-the-electric-vehicle-industry-evs-are-becoming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theglobeandmail.com/resizer/v2/J2XSXX54HFAYLFIFIDL3W5TF2I.jpg?auth=d1515dbf415f9a8059e3dd35b1c61613fd7c328a4e80c0489beea31b51c3bf62&width=1200&height=800&quality=80",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-02T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

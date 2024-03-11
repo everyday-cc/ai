@@ -2,6 +2,111 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-01-31-microsoft-enjoys-first-mover-advantage-as-ai-revenue-doubles-5-analysts-explore-q2-print.md",
+      "title": "Microsoft Enjoys 'First-Mover Advantage' As AI Revenue Doubles, 5 Analysts Explore Q2 Print",
+      "excerpt": "Check out other analyst stock ratings. BMO Capital Markets: Microsoft delivered another “solid” quarter, highlighted by Azure growth of 28% year-on-year in constant currency terms, “including 6 points from AI workload,” Bachman said in a note.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-enjoys-first-mover-advantage-as-ai-revenue-doubles-5-analysts-explore-q2-print-1033016391",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-enjoys-first-mover-advantage-as-ai-revenue-doubles-5-analysts-explore-q2-print-1033016391",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/01/31/msft_microsoft_shutterstock_2325970865.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-31T12:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-31-microsoft-and-openai-are-in-talks-to-inject-500-million-into-humanoid-robotics-startup-figure-ai-report-says.md",
+      "title": "Microsoft and OpenAI are in talks to inject $500 million into humanoid robotics startup Figure AI, report says",
+      "excerpt": "Microsoft and OpenAI are said to be exploring options to invest up to $500 million in a humanoid robotics startup, Bloomberg reported. The tech heavyweights are in talks with Figure AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/microsoft-openai-talks-investment-figure-ai-humanoid-robotics-report-2024-1",
+      "originalUrl": "https://www.businessinsider.com/microsoft-openai-talks-investment-figure-ai-humanoid-robotics-report-2024-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65ba1d7eac2de4f17ee61474?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/microsoft-openai-talks-investment-figure-ai-humanoid-robotics-report-2024-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/microsoft-openai-talks-investment-figure-ai-humanoid-robotics-report-2024-1?amp",
+      "publishedDateTime": "2024-01-31T11:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-31-yes-microsoft-is-a-star-ai-stock-but-this-is-what-really-powered-its-solid-second-quarter-results.md",
       "title": "Yes, Microsoft Is a Star AI Stock, But This Is What Really Powered Its Solid Second-Quarter Results",
       "excerpt": "Inside that grouping, the still-hot Azure and other cloud services saw their collective take rise at a 30% clip, outpacing the analyst expectations of under 28%. Even if AI -- still a relatively ...",
@@ -1347,104 +1452,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-21-on-using-generative-ai-as-a-lie-detector-including-trying-to-bust-the-infamous-two-truths-and-a-lie-gambit-via-chatgpt.md",
-      "title": "On Using Generative AI As A Lie Detector Including Trying To Bust The Infamous Two Truths And A Lie Gambit Via ChatGPT",
-      "excerpt": "Once you start lying, it will never end ... Giulio Sandini and Francesco Rea, Frontiers in Robotics and AI, July 2019. Here are some key points made in the study (excerpted): “Considering all the results from previous studies on the physiological ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2024/01/21/on-using-generative-ai-as-a-lie-detector-including-trying-to-bust-the-infamous-two-truths-and-a-lie-gambit-via-chatgpt/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2024/01/21/on-using-generative-ai-as-a-lie-detector-including-trying-to-bust-the-infamous-two-truths-and-a-lie-gambit-via-chatgpt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/642f8b96c53e1d7173b0e672/0x0.jpg?format=jpg&crop=3209,2141,x224,y1,safe&height=900&width=1600&fit=bounds",
-          "width": 1349,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2024/01/21/on-using-generative-ai-as-a-lie-detector-including-trying-to-bust-the-infamous-two-truths-and-a-lie-gambit-via-chatgpt/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/01/21/on-using-generative-ai-as-a-lie-detector-including-trying-to-bust-the-infamous-two-truths-and-a-lie-gambit-via-chatgpt/amp/",
-      "publishedDateTime": "2024-01-21T11:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2024-01-21-chatgpt-effect-coursera-sees-signups-for-ai-courses-every-minute-in-2023.md",
-      "title": "ChatGPT effect: Coursera sees signups for AI courses every minute in 2023",
-      "excerpt": "US edutech platform Coursera added a new user every minute on average for its artificial intelligence courses in 2023, CEO Jeff Maggioncalda said on Thursday, in a clear sign of people upskilling to tap a potential boom in generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://tribune.com.pk/story/2453945/chatgpt-effect-coursera-sees-signups-for-ai-courses-every-minute-in-2023",
-      "originalUrl": "https://tribune.com.pk/story/2453945/chatgpt-effect-coursera-sees-signups-for-ai-courses-every-minute-in-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.tribune.com.pk/media/images/ChatGPT1682753951-0/ChatGPT1682753951-0.jpg",
-          "width": 960,
-          "height": 637,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://tribune.com.pk/story/2453945/chatgpt-effect-coursera-sees-signups-for-ai-courses-every-minute-in-2023?amp=1",
-      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2453945/chatgpt-effect-coursera-sees-signups-for-ai-courses-every-minute-in-2023?amp=1",
-      "publishedDateTime": "2024-01-21T08:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Express Tribune",
-        "domain": "tribune.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

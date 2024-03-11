@@ -2,6 +2,101 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2024-01-10-microsoft-puts-azure-quantum-elements-to-work.md",
+      "title": "Microsoft puts Azure Quantum Elements to work",
+      "excerpt": "Azure Quantum Elements, which launched last summer, combines AI and traditional high-performance computing (HPC) techniques into what is essentially a workbench for scientific computing ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/01/09/microsoft-puts-azure-quantum-elements-to-work/",
+      "originalUrl": "https://techcrunch.com/2024/01/09/microsoft-puts-azure-quantum-elements-to-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1354846583.jpeg?resize=1200,900",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/01/09/microsoft-puts-azure-quantum-elements-to-work/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/09/microsoft-puts-azure-quantum-elements-to-work/amp/",
+      "publishedDateTime": "2024-01-09T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-09-advanced-analytics-market-surges-projected-to-reach-us-266880-million-by-2034.md",
+      "title": "Advanced Analytics Market Surges, Projected to Reach US$ 26,688.0 Million by 2034",
+      "excerpt": "The global advanced analytics market is anticipated to reach a valuation of US$ 15,149.8 million in 2024, driven by rise in self-service analytics. The trend is expected to create new opportunities for the market,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fmiblog.com/2024/01/09/advanced-analytics-market-surges-projected-to-reach-us-26688-0-million-by-2034/",
+      "originalUrl": "https://www.fmiblog.com/2024/01/09/advanced-analytics-market-surges-projected-to-reach-us-26688-0-million-by-2034/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fmiblog.com/wp-content/uploads/2024/01/Data-Analytics.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-09T13:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Future Market Insights",
+        "domain": "fmiblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-09-cognitive-supply-chain-market-is-expected-to-reach-us-404-billion-by-2034-expanding-at-a-156-cagr-future-market-insights-inc.md",
       "title": "Cognitive Supply Chain Market is Expected to Reach US$ 40.4 Billion by 2034, Expanding at a 15.6% CAGR | Future Market Insights, Inc.",
       "excerpt": "The cognitive supply chain market is estimated to be worth US$ 9.5 billion in 2024 and is projected to be valued at US$ 40.4 billion in 2034. Between 2024 and 2034, the industry is expected to register a CAGR of 15.",
@@ -1358,112 +1453,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-20-ai-is-reshaping-chip-design-but-where-will-it-end.md",
-      "title": "AI Is Reshaping Chip Design. But Where Will It End?",
-      "excerpt": "Using AI reduces design costs, improves yields and performance, and shortens time-to-market for better chips. Synopsys, Cadence Design Systems, and many hyperscal chip designers are now adopting generative AI capabilities to facilitate chip design. Think of this as the second generation of AI for EDA. Where might this lead?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/12/19/ai-is-reshaping-chip-design-but-where-will-it-end/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/12/19/ai-is-reshaping-chip-design-but-where-will-it-end/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65820d6832a7a051bb07c495/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 874,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/12/19/ai-is-reshaping-chip-design-but-where-will-it-end/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/12/19/ai-is-reshaping-chip-design-but-where-will-it-end/amp/",
-      "publishedDateTime": "2023-12-19T22:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-19-gaining-40-this-year-will-revival-in-cloud-demand-and-generative-ai-drive-snowflake-stock-higher.md",
-      "title": "Gaining 40% This Year, Will Revival In Cloud Demand And Generative AI Drive Snowflake Stock Higher?",
-      "excerpt": "Snowflake’s core products help businesses store, organize, and analyze data across multiple cloud providers such as Amazon Web Services and Azure, and this positions the company well in building generative AI into its tools. For instance, the company ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greatspeculations/2023/12/19/gaining-40-this-year-will-revival-in-cloud-demand-and-generative-ai-drive-snowflake-stock-higher/",
-      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2023/12/19/gaining-40-this-year-will-revival-in-cloud-demand-and-generative-ai-drive-snowflake-stock-higher/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/658135f5d6764fbb31ef4a92/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2023/12/19/gaining-40-this-year-will-revival-in-cloud-demand-and-generative-ai-drive-snowflake-stock-higher/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2023/12/19/gaining-40-this-year-will-revival-in-cloud-demand-and-generative-ai-drive-snowflake-stock-higher/amp/",
-      "publishedDateTime": "2023-12-19T10:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -9,8 +9,8 @@ ampWebUrl: "https://english.newstracklive.com/ampnews/why-is-this-model-of-artif
 cdnAmpWebUrl: "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/why-is-this-model-of-artificial-intelligence-being-called-the-most-intelligent-sc71-nu371-ta371-1312623-1.html"
 type: article
 quality: 55
-heat: 55
-published: false
+heat: 75
+published: true
 
 provider:
   name: News Track
@@ -25,6 +25,31 @@ images:
     width: 804
     height: 450
     isCached: true
+
+related:
+  - title: "Why This Former Intel Exec Says Your AI Solution Should Be Open Source"
+    excerpt: "Untether AI CEO Chris Walker says companies that use open-source solutions are best-positioned to adapt when new AI models are released."
+    publishedDateTime: 2024-03-11T20:41:00Z
+    webUrl: "https://www.inc.com/ben-sherry/why-this-former-intel-exec-says-your-ai-solution-should-be-open-source.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1857379304_538281_opyw50.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "The Evolution of AI-Powered Facility Intelligence"
+    excerpt: "This website uses cookies to enhance your browsing experience and serve personalized content. Privacy Policy"
+    publishedDateTime: 2024-03-11T18:05:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/article/53097050/the-evolution-of-ai-powered-facility-intelligence"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 19
 
 secured: "aE1VhWzNkHgaciIv9ARzjOlV/PaozgCGYOZEBrOPs4vLWm9HF7Ad/mJG9q8+WLylybWIj5lrxz4UlGptIjbZaZMOjAIZYGkQXsPb8ngHBiuwU7CTfk0SXEJT4Z2OqXt2t2uMcqrr2FW+nsm+vB0tmea5/yurXYVN1rFnk46evmvZDdQNfi25K+9H7VoJGHRu/c3zEBcsr7zWvwBXRwb7SLcLYXFXkWCSvGn7ulyYZ17kE1PrCt3tdTLq242dYb91fnz/Z9RzUL2slZ9vOidsUqqnUmFAN6Qz6MjDVvY6doD7WYfGWLPE9txMOdX0KOnhPkRcYoSxXMJ0sBbeFqrEMe4ZtCpMV1EPs0aM4XkI8VY=;L6c7Wl/Pvyb7rZNC0gRK9g=="
 ---

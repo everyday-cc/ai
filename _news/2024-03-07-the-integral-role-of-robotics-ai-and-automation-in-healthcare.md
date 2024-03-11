@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024
 webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/03/07/the-integral-role-of-robotics-ai-and-automation-in-healthcare/"
 type: article
 quality: 116
-heat: 216
+heat: 226
 published: true
 
 provider:
@@ -166,6 +166,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 18
+  - title: "Navigating the Intersection of Intellectual Property and Artificial Intelligence"
+    excerpt: "In today's digital landscape, the convergence of intellectual property (IP) and artificial intelligence (AI) presents both unparalleled opportunities and unique challenges for businesses across industries. As AI continues to revolutionize how companies ..."
+    publishedDateTime: 2024-03-11T00:01:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/navigating-the-intersection-of-5064154/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 12
 
 secured: "xZet9sxJj0vL6pG5T/kZjXboWwec4xcop346K3uoZH9eaIK9k02MEKBToxbpkvjxRzz95r5ZK7OrYOEFmlizylSjNEIllanghZ8Gh2RB9/ZIP1dvSrczBVMN5LdW8A7hnpP5bW8vWIJ3wYm2JwS0+ik/Mr/Aj1+GBMnIqIPfigl3TouWEGjWaa5KKltSCWpgu/viaec0Ray70Nbew118H38qSuMYATu5M52cQ+jBR9coKguh34DkGp2jwVtCyzLanbI73ik8HJDAaXOeiAkvBo+6FggH6upcAMu/pr7d2gWLW7z69fTdJcWn+k21bqZoUc9wc3dsBQDzpuoZF7hbEgen/iuBjF4GOWKRS12Twjqen9A7ia4PgFM8GFogZMx7QG3uVnqDzQrbqAKEnC20c1K3hamq9H+rsc2dqr7MQGIpxsi0OTc4PXGpgzwYRof2jBJsn5uGysQbShdqTmo0U3E6G7vUqKrliYtgbiCMXs7TnmagzWoPdlZSvRIYHR9Eio1XmvSSBIvScaw6dFqKdw==;lcImVl5ZnU3D2AevB8GcFQ=="
 ---

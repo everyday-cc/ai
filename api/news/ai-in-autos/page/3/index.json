@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-19-driverless-vehicles-could-soon-be-used-to-deliver-aid-in-conflict-zones.md",
+      "title": "Driverless vehicles could soon be used to deliver aid in conflict zones",
+      "excerpt": "Driverless vehicles, also known as robo-cars, could soon be used to deliver aid to the world’s most dangerous conflict zones. Unveiling the car at the Munich Security Conference at the weekend ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraph.co.uk/news/2024/02/18/unmanned-vehicles-deliver-aid-conflict-zones-food/",
+      "originalUrl": "https://www.telegraph.co.uk/news/2024/02/18/unmanned-vehicles-deliver-aid-conflict-zones-food/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telegraph.co.uk/content/dam/news/2024/02/18/TELEMMGLPICT000367056268_17082721397570_trans_NvBQzQNjv4Bqf3p5FP_qh2wbV9o5j03qoTJ3qoPQbaAddECjwhYxymk.jpeg?impolicy=logo-overlay",
+          "width": 1024,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-18T16:11:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "telegraph.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-18-tesla-autopilot-and-full-self-driving-often-bashedbut-try-driving-in-los-angeles.md",
+      "title": "Tesla Autopilot And Full Self-Driving Often Bashed—But Try Driving In Los Angeles",
+      "excerpt": "Tesla's Autopilot and Full-Self Driving often get criticized for being unsafe but try the alternative: driving in Los Angeles among extremely distracted drivers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brookecrothers/2024/02/18/tesla-autopilot-full-self-driving-often-gets-bashed-but-try-driving-in-los-angeles/",
+      "originalUrl": "https://www.forbes.com/sites/brookecrothers/2024/02/18/tesla-autopilot-full-self-driving-often-gets-bashed-but-try-driving-in-los-angeles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d1b374f35c7377c0601772/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 559,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-18T09:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-18-tesla-autopilot-full-self-driving-often-gets-bashed-but-try-driving-in-los-angeles.md",
       "title": "Tesla Autopilot, Full-Self Driving Often Gets Bashed But Try Driving In Los Angeles",
       "excerpt": "And what about Tesla’s FSD? “While most of the systems, such as Ford’s BlueCruise, are ring-fenced, Tesla's Full Self-Driving system allows the consumer to decide when it’s safe to use the technology. And as always, it's important to call out that ...",
@@ -1258,83 +1353,6 @@
       "provider": {
         "name": "The Globe and Mail",
         "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-10-stossel-artificial-intelligence-may-be-coming-for-your-job.md",
-      "title": "STOSSEL: Artificial Intelligence may be coming for your job",
-      "excerpt": "The media warn that “Artificial Intelligence will replace millions of jobs.” They’re complaining about the Waymo driverless taxis already in use in part of San Francisco (and Phoenix). The union is right to worry. Robot cars don’t get tired.",
-      "sourceUrl": null,
-      "webUrl": "https://ottawasun.com/opinion/columnists/stossel-artificial-intelligence-may-be-coming-for-your-job/wcm/e56c1444-a011-49fd-80f7-0bd0a8f2c89d",
-      "originalUrl": "https://ottawasun.com/opinion/columnists/stossel-artificial-intelligence-may-be-coming-for-your-job/wcm/e56c1444-a011-49fd-80f7-0bd0a8f2c89d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://smartcdn.gprod.postmedia.digital/ottawasun/wp-content/uploads/2024/02/1953487965-e1707321516682.jpg",
-          "width": 867,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://ottawasun.com/opinion/columnists/stossel-artificial-intelligence-may-be-coming-for-your-job/wcm/e56c1444-a011-49fd-80f7-0bd0a8f2c89d/amp/",
-      "cdnAmpWebUrl": "https://ottawasun-com.cdn.ampproject.org/c/s/ottawasun.com/opinion/columnists/stossel-artificial-intelligence-may-be-coming-for-your-job/wcm/e56c1444-a011-49fd-80f7-0bd0a8f2c89d/amp/",
-      "publishedDateTime": "2024-02-09T21:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ottawasun",
-        "domain": "ottawasun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-10-self-checkout-walmart-wegmans-target-pull-back-as-ai-promises-upgrades-to-combat-shoplifting.md",
-      "title": "Self-checkout: Walmart, Wegmans, Target pull back, as AI promises upgrades to combat shoplifting",
-      "excerpt": "Shoppers like the speed but dislike the chore, while retailers like the efficiency but worry about a rise in shoplifting.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsday.com/business/self-checkout-shoplifting-stew-leonards-holiday-farms-wus4aed2",
-      "originalUrl": "https://www.newsday.com/business/self-checkout-shoplifting-stew-leonards-holiday-farms-wus4aed2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.newsday.com/amp/business/self-checkout-shoplifting-stew-leonards-holiday-farms-wus4aed2",
-      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/business/self-checkout-shoplifting-stew-leonards-holiday-farms-wus4aed2",
-      "publishedDateTime": "2024-02-09T19:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsday",
-        "domain": "newsday.com",
         "images": null,
         "publishers": null,
         "authors": null

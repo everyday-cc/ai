@@ -91,22 +91,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Ex-Google engineer arrested for alleged theft of AI secrets for Chinese firms"
-    excerpt: "Linwei Ding, facing four counts of theft of trade secrets, accused of transferring confidential information to his personal account"
-    publishedDateTime: 2024-03-06T21:40:00Z
-    webUrl: "https://www.theguardian.com/technology/2024/mar/06/chinese-google-engineer-arrested-stealing-ai-trade-secrets"
-    ampWebUrl: "https://amp.theguardian.com/technology/2024/mar/06/chinese-google-engineer-arrested-stealing-ai-trade-secrets"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/mar/06/chinese-google-engineer-arrested-stealing-ai-trade-secrets"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 54
-    images:
-      - url: "https://i.guim.co.uk/img/media/73542196b66918bc54328a744fa04107495ecbb9/0_288_8640_5184/master/8640.jpg?width=620&quality=85&auto=format&fit=max&s=f3ee6931ab7c6f2b72574068e252d693"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Chinese researchers hope to create ‘real AI scientists’ through ‘informed machine learning’"
     excerpt: "The scientists wrote in a recent paper that they had found ways to train machines with ‘prior knowledge’ such as the laws of physics or mathematical logic."
     publishedDateTime: 2024-03-09T22:00:00Z
@@ -116,15 +100,6 @@ related:
       name: scmp.com
       domain: scmp.com
     quality: 54
-  - title: "Ex-Google Engineer Charged With AI Tech Theft for Chinese Firms"
-    excerpt: "A Chinese software engineer working for Alphabet Inc.’s Google was charged by the US Justice Department with stealing trade secrets for developing artificial intelligence from the company’s supercomputing data centers."
-    publishedDateTime: 2024-03-06T20:54:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2024-03-06/justice-department-charges-ex-google-engineer-with-ai-tech-theft"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
   - title: "Ex-Google engineer charged with stealing AI trade secrets while working with Chinese companies"
     excerpt: "The Justice Department says a former software engineer at Google has been charged with stealing artificial intelligence technology from the company while secretly working with two companies based in C"
     publishedDateTime: 2024-03-06T22:22:00Z
@@ -192,22 +167,6 @@ related:
       name: techwireasia.com
       domain: techwireasia.com
     quality: 34
-  - title: "Ex-Google engineer charged with stealing artificial intelligence technology while working with China-based companies"
-    excerpt: "Ex-Google engineer charged with stealing artificial intelligence technology while working with China-based companies"
-    publishedDateTime: 2024-03-06T21:09:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/google-engineer-charged-stealing-artificial-intelligence-technology-working-107860754"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/google-engineer-charged-stealing-artificial-intelligence-technology-working-107860754"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/google-engineer-charged-stealing-artificial-intelligence-technology-working-107860754"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 34
-    images:
-      - url: "https://s.abcnews.com/images/US/super_tuesday_vote_kf_240306_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Ex-Google Engineer Charged With Stealing AI trade Secrets for Chinese Companies"
     excerpt: "A former software engineer at Google has been charged with stealing artificial intelligence trade secrets from the company while secretly working with two companies based in China, the Justice Department said Wednesday."
     publishedDateTime: 2024-03-07T17:32:00Z

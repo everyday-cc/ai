@@ -9,8 +9,8 @@ ampWebUrl: "https://www.informazione.it/c/46953790-6E0F-4AE3-8A93-FEAA8E88EF29/a
 cdnAmpWebUrl: "https://www-informazione-it.cdn.ampproject.org/c/s/www.informazione.it/c/46953790-6E0F-4AE3-8A93-FEAA8E88EF29/amp/Pioneering-Technology-AI-in-Computer-Vision-Market-Surges-to-45-7-Billion-by-2028"
 type: article
 quality: 68
-heat: 88
-published: true
+heat: -1
+published: false
 
 provider:
   name: informazione
@@ -27,29 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "How AI’s Peripheral Vision Could Improve Technology and Safety"
-    excerpt: "Peripheral vision, an often-overlooked aspect of human sight, plays a pivotal role in how we interact with and comprehend our surroundings. It enables us to detect and recognize shapes, movements, and important cues that are not in our direct line of sight,"
-    publishedDateTime: 2024-03-08T16:35:00Z
-    webUrl: "https://www.unite.ai/how-ais-peripheral-vision-could-improve-technology-and-safety/"
+  - title: "The Future Of Supply Chain Technology: A Shift Toward Intelligent Systems"
+    excerpt: "Today's new supply chain business intelligence capability provides an actionable data-driven experience, such as interactive reports and dashboards, for procurement, operations, and reliability teams, from senior management to front-line workers."
+    publishedDateTime: 2024-03-11T20:52:00Z
+    webUrl: "https://www.forbes.com/sites/paulnoble/2024/03/11/the-future-of-supply-chain-technology-a-shift-toward-intelligent-systems/"
+    ampWebUrl: "https://www.forbes.com/sites/paulnoble/2024/03/11/the-future-of-supply-chain-technology-a-shift-toward-intelligent-systems/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulnoble/2024/03/11/the-future-of-supply-chain-technology-a-shift-toward-intelligent-systems/amp/"
     type: article
     provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 88
     images:
-      - url: "https://www.unite.ai/wp-content/uploads/2024/02/featured-400x240.png"
-        width: 400
-        height: 240
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65ef6d5376c194337d9ecfe3/0x0.jpg?format=jpg&crop=2293,1288,x12,y0,safe&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 899
         isCached: true
-  - title: "Revolutionizing Computing: Inside Princeton’s Trailblazing AI Chip Technology"
-    excerpt: "Princeton's advanced AI chip project, backed by DARPA and EnCharge AI, promises significant improvements in energy efficiency and computing power, aiming to revolutionize AI's accessibility and application."
-    publishedDateTime: 2024-03-08T18:37:00Z
-    webUrl: "https://scitechdaily.com/revolutionizing-computing-inside-princetons-trailblazing-ai-chip-technology/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 31
 
 secured: "WH42jOHVjgXhkZVOer89I42BuDe/WY2rSq4aX8UtepqKdTjn/hjhlzqJM0SkZYrGexY2Q3n6S0qBv1MA5jzOJbPcEoR/x1NZIew0rkMdFFNstr45VR/+XvxsdHzmZN+YmqT0+bN/ZIWBfLnbmjHI8w7sKWRmZJvLs3fRs/v/Wb7Gkivr5fbb8vD80hhZFfujnBRBMx0T7vHTKYX/XNFrE+jEgk7I6m3/dz9g7x8TE/XCpBhlnYfhLxAq/MPEK2GPbLzdFSDTiIwmmR65GXsGkMb4PKfEEgpgAPEr8ruKCTDVsF3pBqlBPUskIlmCAYhKMPoVIcHtG6I4Lh1S6E7cpUmQY9QgXP/B1oxO49QaZhcyCeOM0FH3SQ9tL662Tpe+dXUfWjjssjfYHI9dLjA47+I3E6OZxmDBp+9JorAqtqkshb8VN+mHRzzqQs3BEugXbKQF8zeeQbOi9yugspf394cE/Y3odImiDqK7KBI3gFIYOx3miAV/Bx6zJkfOWjjE44bGfwcLwuQWHVpi668lpg==;2k/oEKfeONpZbrvonTaHXw=="
 ---

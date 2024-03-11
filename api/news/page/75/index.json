@@ -2,6 +2,541 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2024-01-15-novel-neuromorphic-artificial-neural-network-circuit-architecture.md",
+      "title": "Novel Neuromorphic Artificial Neural Network Circuit Architecture",
+      "excerpt": "However, current artificial neural network circuit architectures do not fully embrace small-world neural network models. Here, we present the neuromorphic Mosaic: a non-von Neumann systolic architecture employing distributed memristors for in-memory ...",
+      "sourceUrl": null,
+      "webUrl": "https://semiengineering.com/novel-neuromorphic-artificial-neural-network-circuit-architecture/",
+      "originalUrl": "https://semiengineering.com/novel-neuromorphic-artificial-neural-network-circuit-architecture/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-15T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Semiconductor Engineering",
+        "domain": "semiengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-15-fintech-broadridge-financial-solutions-introduces-opsgpt-a-capability-for-transforming-operations-across-post-trade-lifecycle.md",
+      "title": "Fintech Broadridge Financial Solutions Introduces OpsGPT, a Capability for Transforming Operations Across Post-Trade Lifecycle",
+      "excerpt": "Global Fintech Broadridge Financial Solutions, Inc. (NYSE:BR) announced the launch of OpsGPT, a new capability for operations users, analysts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2024/01/220287-fintech-broadridge-financial-solutions-introduces-opsgpt-a-capability-for-transforming-operations-across-post-trade-lifecycle/",
+      "originalUrl": "https://www.crowdfundinsider.com/2024/01/220287-fintech-broadridge-financial-solutions-introduces-opsgpt-a-capability-for-transforming-operations-across-post-trade-lifecycle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/New-York-Stock-Exchange-1939-trade.jpg",
+          "width": 800,
+          "height": 848,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-14T21:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-15-fintech-professional-shares-feedback-after-testing-digital-bank-bunqs-ai-features-which-need-a-lot-of-improvement.md",
+      "title": "Fintech Professional Shares Feedback After Testing Digital Bank bunq’s AI Features, which Need A Lot of Improvement",
+      "excerpt": "European Fintech platform bunq, a Dutch digital banking platform, has started describing itself as \"the first AI-powered bank in Europe.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2024/01/220277-fintech-professional-shares-feedback-after-testing-digital-bank-bunqs-ai-features-which-need-a-lot-of-improvement/",
+      "originalUrl": "https://www.crowdfundinsider.com/2024/01/220277-fintech-professional-shares-feedback-after-testing-digital-bank-bunqs-ai-features-which-need-a-lot-of-improvement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/10/Art-Deco-Statue-AI-Artificial-Intelligence.jpeg",
+          "width": 1280,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2024/01/220277-fintech-professional-shares-feedback-after-testing-digital-bank-bunqs-ai-features-which-need-a-lot-of-improvement/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2024/01/220277-fintech-professional-shares-feedback-after-testing-digital-bank-bunqs-ai-features-which-need-a-lot-of-improvement/amp/",
+      "publishedDateTime": "2024-01-14T21:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-15-state-of-the-art-ai-supported-telemedicine-mobile-clinic-launched-for-remote-hilly-areas-in-udhampur.md",
+      "title": "State-of-the-art AI-supported Telemedicine Mobile Clinic launched for remote hilly areas in Udhampur",
+      "excerpt": "Science and Technology Jitendra Singh on Sunday launched state-of-the-art, Artificial Intelligence (AI) supported T",
+      "sourceUrl": null,
+      "webUrl": "https://www.malaysiasun.com/news/274094994/state-of-the-art-ai-supported-telemedicine-mobile-clinic-launched-for-remote-hilly-areas-in-udhampur",
+      "originalUrl": "https://www.malaysiasun.com/news/274094994/state-of-the-art-ai-supported-telemedicine-mobile-clinic-launched-for-remote-hilly-areas-in-udhampur",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.bignewsnetwork.com/ani1705252485.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-14T16:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Malaysia Sun",
+        "domain": "malaysiasun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-15-why-on-demand-video-learning-is-limited-and-what-to-pursue-instead.md",
+      "title": "Why On-Demand Video Learning Is Limited And What To Pursue Instead",
+      "excerpt": "Asynchronous learning is flexible, yet it comes with challenges. Learners need access to experts and ways to apply learning. Blended learning is the key.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/williamarruda/2024/01/14/why-on-demand-video-learning-is-limited-and-what-to-pursue-instead/",
+      "originalUrl": "https://www.forbes.com/sites/williamarruda/2024/01/14/why-on-demand-video-learning-is-limited-and-what-to-pursue-instead/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/659d4b234ce76555695ca156/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/williamarruda/2024/01/14/why-on-demand-video-learning-is-limited-and-what-to-pursue-instead/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/williamarruda/2024/01/14/why-on-demand-video-learning-is-limited-and-what-to-pursue-instead/amp/",
+      "publishedDateTime": "2024-01-14T16:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-14-my-top-10-revolutionary-discoveries-at-ces-2024-ai-robotics-web3.md",
+      "title": "My Top 10 Revolutionary Discoveries At CES 2024: AI, Robotics, Web3",
+      "excerpt": "This year's CES, a melting pot of over 130,000 technology enthusiasts and innovators, showcased over 3,500 exhibits that spanned the spectrum of human ingenuity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/digital-assets/2024/01/14/my-top-10-revolutionary-discoveries-at-ces-2024-ai-robotics-web3/",
+      "originalUrl": "https://www.forbes.com/sites/digital-assets/2024/01/14/my-top-10-revolutionary-discoveries-at-ces-2024-ai-robotics-web3/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65a2251d942c9448505f31f4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 992,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/digital-assets/2024/01/14/my-top-10-revolutionary-discoveries-at-ces-2024-ai-robotics-web3/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2024/01/14/my-top-10-revolutionary-discoveries-at-ces-2024-ai-robotics-web3/amp/",
+      "publishedDateTime": "2024-01-14T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-14-self-driving-labs-how-ai-could-accelerate-scientific-discovery.md",
+      "title": "Self-driving labs: How AI could accelerate scientific discovery",
+      "excerpt": "Using self-driving autonomous labs, the Acceleration Consortium is making larger strides toward integrating the subdisciplines of materials science, AI, robotics, and computer modelling to test new materials in a time-efficient, cost-friendly way.",
+      "sourceUrl": null,
+      "webUrl": "https://thevarsity.ca/2024/01/13/self-driving-labs-how-ai-could-accelerate-scientific-discovery/",
+      "originalUrl": "https://thevarsity.ca/2024/01/13/self-driving-labs-how-ai-could-accelerate-scientific-discovery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn-s3.thevarsity.ca/2024/01/SCIENCE-Autonomous-_Labs-BRENNAN-KARUNARATNETHEVARSITY-lab_devices-web.jpg",
+          "width": 1080,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-14T03:26:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Varsity",
+        "domain": "thevarsity.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-14-how-fintech-has-gone-mainstream.md",
+      "title": "How fintech has gone mainstream",
+      "excerpt": "Last year, financial technology (fintech) finally went mainstream. Here are some examples that underline my case.",
+      "sourceUrl": null,
+      "webUrl": "https://moneyweek.com/investments/tech-stocks/how-fintech-has-gone-mainstream",
+      "originalUrl": "https://moneyweek.com/investments/tech-stocks/how-fintech-has-gone-mainstream",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Ux3UMRW2YPerefgGhzJhwT-1200-80.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-14T00:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MoneyWeek",
+        "domain": "moneyweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-14-ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity.md",
+      "title": "AI Will Transform the Global Economy. Let’s Make Sure It Benefits Humanity.",
+      "excerpt": "the IMF has developed an AI Preparedness Index that measures readiness in areas such as digital infrastructure, human-capital and labor-market policies, innovation and economic integration, and regulation and ethics. The human-capital and labor-market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.imf.org/en/Blogs/Articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity",
+      "originalUrl": "https://www.imf.org/en/Blogs/Articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-14T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Monetary Fund",
+        "domain": "imf.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-14-best-robot-vacuum-deals-save-on-roomba-shark-and-others.md",
+      "title": "Best robot vacuum deals: save on Roomba, Shark, and others",
+      "excerpt": "It also has AI-controlled AIVI 3D 2.0 obstacle ... the Roomba is made with the smart home in mind. The iRobot Roomba 694 is one of the most popular Roomba robot vacuums. It features a minimal ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/home/best-robot-vacuum-deals/",
+      "originalUrl": "https://www.digitaltrends.com/home/best-robot-vacuum-deals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/11/iRobot-Roomba-694-Wi-Fi-Connected-Robot-Vacuum.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/home/best-robot-vacuum-deals/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/best-robot-vacuum-deals/?amp",
+      "publishedDateTime": "2024-01-14T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-14-if-you-want-to-run-ai-training-and-inference-on-almost-any-gpu-then-this-startup-may-be-the-answer.md",
+      "title": "If you want to run AI training and inference on almost any GPU, then this startup may be the answer",
+      "excerpt": "In September 2023, the firm launched its Superlcoud for AI platform – which lets businesses tap into a GPU network remotely to run AI workloads, while others can also contribute GPUs from their ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/pro/if-you-want-to-run-ai-training-and-inference-on-almost-any-gpu-then-this-startup-may-be-the-answer",
+      "originalUrl": "https://www.techradar.com/pro/if-you-want-to-run-ai-training-and-inference-on-almost-any-gpu-then-this-startup-may-be-the-answer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/rNZmVCrdHzszaDCyTrBWmj-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-14T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-14-is-this-the-chatgpt-moment-for-robots-and-will-they-soon-be-walking-among-us.md",
+      "title": "Is this the ‘ChatGPT moment’ for robots – and will they soon be walking among us?",
+      "excerpt": "On 5 January, a robot placed a capsule into a coffee ... referring to the viral AI chatbot that brought generative artificial intelligence into the mainstream.",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/tech/robots-ai-figure-chatgpt-video-b2477227.html",
+      "originalUrl": "https://www.independent.co.uk/tech/robots-ai-figure-chatgpt-video-b2477227.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/2024/01/11/18/robot%20chatgpt%20figure%20ai.png?quality=75&width=1200&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-14T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-14-improving-3d-object-detection-in-self-driving-cars.md",
       "title": "Improving 3D Object Detection in Self-Driving Cars",
       "excerpt": "A team of researchers at Ritsumeikan University have designed a new network system that could help pave the way for more efficiency and accuracy among self | Technology",
@@ -522,515 +1057,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-13-smart-construction-future-hd-hyundai-collaborates-with-aws-to-pioneer-unmanned-autonomous-sites.md",
-      "title": "Smart Construction Future: HD Hyundai Collaborates with AWS to Pioneer Unmanned Autonomous Sites",
-      "excerpt": "LAS VEGAS, Jan. 12, 2024 /PRNewswire/ -- HD Hyundai, a global leader in heavy industries, is teaming up with Amazon Web Services (AWS) to lead the innovation of future unmanned and autonomous construction sites. This collaboration was announced at Consumer Electronics Show (CES) 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2024/01/12/9945803.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2024/01/12/9945803.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2317101/image_123650291.jpg",
-          "width": 400,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-12T22:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-13-facial-recognition-could-play-key-role-in-workplace-safety-for-football-players.md",
-      "title": "Facial recognition could play key role in workplace safety for football players",
-      "excerpt": "A survey of football player unions found that fan violence is a growing concern, and tech interventions like facial recognition could help keep players safe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.biometricupdate.com/202401/facial-recognition-could-play-key-role-in-workplace-safety-for-football-players",
-      "originalUrl": "https://www.biometricupdate.com/202401/facial-recognition-could-play-key-role-in-workplace-safety-for-football-players",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-12T21:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Biometric Companies",
-        "domain": "biometricupdate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-13-how-data-extraction-artificial-intelligence-is-helping-to-alleviate-health-care-worker-burnout-staffing-shortages.md",
-      "title": "How Data Extraction Artificial Intelligence Is Helping to Alleviate Health Care Worker Burnout, Staffing Shortages",
-      "excerpt": "Bevey Miner, executive vice president of health care strategy and policy, Consensus Cloud Solutions, shares how extraction artificial intelligence is helping train machine learning models to recognize and extract information from documents,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ajmc.com/view/how-data-extraction-artificial-intelligence-is-helping-to-alleviate-health-care-worker-burnout-staffing-shortages",
-      "originalUrl": "https://www.ajmc.com/view/how-data-extraction-artificial-intelligence-is-helping-to-alleviate-health-care-worker-burnout-staffing-shortages",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.sanity.io/images/0vv8moc6/ajmc/80f499f29719b6efae44ea2ef1e50fcc3f71e0c2-2880x1526.png?fit=crop&auto=format",
-          "width": 2880,
-          "height": 1526,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-12T21:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The American Journal of Managed Care",
-        "domain": "ajmc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-13-ces-2024-everything-revealed-so-far-from-nvidia-and-sony-to-the-weirdest-reveals-and-helpful-ai.md",
-      "title": "CES 2024: Everything revealed so far, from Nvidia and Sony to the weirdest reveals and helpful AI",
-      "excerpt": "CES 2024 has begun in Las Vegas, and we're keeping track of the biggest reveals from press day as a wave of AI and hardware news is revealed.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/01/12/ces-2024-everything-you-need-to-know/",
-      "originalUrl": "https://techcrunch.com/2024/01/12/ces-2024-everything-you-need-to-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/01/GettyImages-1246002029.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/01/12/ces-2024-everything-you-need-to-know/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/12/ces-2024-everything-you-need-to-know/amp/",
-      "publishedDateTime": "2024-01-12T20:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-01-13-robot-baristas-and-ai-chefs-caused-a-stir-at-ces-2024-as-casino-union-workers-fear-for-their-jobs.md",
-      "title": "Robot baristas and AI chefs caused a stir at CES 2024 as casino union workers fear for their jobs",
-      "excerpt": "Latte art is a skill that can take months if not years of practice to master — but not for this barista powered by artificial intelligence ... founder of food tech startup Artly Coffee, one ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wkrg.com/news/business/ap-robot-baristas-and-ai-chefs-caused-a-stir-at-ces-2024-as-casino-union-workers-fear-for-their-jobs/",
-      "originalUrl": "https://www.wkrg.com/news/business/ap-robot-baristas-and-ai-chefs-caused-a-stir-at-ces-2024-as-casino-union-workers-fear-for-their-jobs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wkrg.com/wp-content/uploads/sites/49/2024/01/65a1e1f62a0759.01554617.jpeg?w=1280",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.wkrg.com/news/business/ap-robot-baristas-and-ai-chefs-caused-a-stir-at-ces-2024-as-casino-union-workers-fear-for-their-jobs/amp/",
-      "cdnAmpWebUrl": "https://www-wkrg-com.cdn.ampproject.org/c/s/www.wkrg.com/news/business/ap-robot-baristas-and-ai-chefs-caused-a-stir-at-ces-2024-as-casino-union-workers-fear-for-their-jobs/amp/",
-      "publishedDateTime": "2024-01-12T20:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WKRG",
-        "domain": "wkrg.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-13-nec-achieves-tx-ramp-level-2-certification-for-suite-of-biometric-and-face-recognition-solutions.md",
-      "title": "NEC Achieves TX-RAMP Level 2 Certification for Suite of Biometric and Face Recognition Solutions",
-      "excerpt": "NEC Corporation of America (NEC), a leading provider and integrator of advanced IT, biometrics, communications, and networking solutions today announc",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20240112069729/en/NEC-Achieves-TX-RAMP-Level-2-Certification-for-Suite-of-Biometric-and-Face-Recognition-Solutions/",
-      "originalUrl": "https://www.businesswire.com/news/home/20240112069729/en/NEC-Achieves-TX-RAMP-Level-2-Certification-for-Suite-of-Biometric-and-Face-Recognition-Solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-12T19:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-13-the-state-of-microsoft-data-part-2.md",
-      "title": "The State of Microsoft Data Part 2",
-      "excerpt": "While Microsoft's latest offering, Fabric, is a viable option for many, it's not the only player out there.",
-      "sourceUrl": null,
-      "webUrl": "https://redmondmag.com/Articles/2024/01/12/The-State-of-Microsoft-Data-Part-2.aspx",
-      "originalUrl": "https://redmondmag.com/Articles/2024/01/12/The-State-of-Microsoft-Data-Part-2.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImages2024/analyticdataabstract.jpg",
-          "width": 647,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-12T19:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Redmond Magazine",
-        "domain": "redmondmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-13-timekettles-x1-makes-language-translation-effortless-with-ai-driven-interpretation.md",
-      "title": "Timekettle's X1 Makes Language Translation Effortless With AI-Driven Interpretation",
-      "excerpt": "The AI powering the X1 will mimic the voice ... lets up to 20 people have a conversation in five different languages with real-time translation. Notably, it works for both in-person and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/1490692/timekettle-x1-voice-language-translator-ai/",
-      "originalUrl": "https://www.slashgear.com/1490692/timekettle-x1-voice-language-translator-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.slashgear.com/img/gallery/timekettles-x1-makes-language-translation-effortless-with-ai-driven-interpretation/l-intro-1704989646.jpg",
-          "width": 1600,
-          "height": 896,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-12T18:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-13-global-collaboration-is-key-to-smart-ai-artificial-intelligence-stewardship.md",
-      "title": "Global Collaboration is Key to Smart AI (Artificial Intelligence) Stewardship",
-      "excerpt": "Artificial intelligence (AI) is transforming our societies and economies in almost unimaginable ways, according to experts at the Special Competitive Studies Project (SCSP), a bipartisan nonprofit organization.",
-      "sourceUrl": null,
-      "webUrl": "https://www.republic-online.com/online_features/tech_talk_and_innovation/global-collaboration-is-key-to-smart-ai-artificial-intelligence-stewardship/article_91538c37-4441-5db5-b764-db893897c54f.html",
-      "originalUrl": "https://www.republic-online.com/online_features/tech_talk_and_innovation/global-collaboration-is-key-to-smart-ai-artificial-intelligence-stewardship/article_91538c37-4441-5db5-b764-db893897c54f.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/republic-online.com/content/tncms/assets/v3/editorial/2/69/26994866-02ca-5fa5-b0df-e47730d34ef6/65a24a7597ea5.image.jpg?crop=1766%2C927%2C0%2C122&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-12T17:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Miami County Republic",
-        "domain": "republic-online.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-13-laboratory-automation-leverages-artificial-intelligence.md",
-      "title": "Laboratory Automation Leverages Artificial Intelligence",
-      "excerpt": "From liquid handling to image analysis, laboratory tasks are being performed more easily and accurately with the help of artificial intelligence–driven platforms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.genengnews.com/topics/artificial-intelligence/laboratory-automation-leverages-artificial-intelligence/",
-      "originalUrl": "https://www.genengnews.com/topics/artificial-intelligence/laboratory-automation-leverages-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-12T16:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GEN",
-        "domain": "genengnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-01-12-abb-acquires-sevensense-expanding-leadership-in-next-generation-ai-enabled-mobile-robotics.md",
-      "title": "ABB Acquires Sevensense, Expanding Leadership in Next-generation AI-enabled Mobile Robotics",
-      "excerpt": "The acquisition underlines ABB’s strategic investment focus on innovative AI solutions transforming industries, such as logistics and manufacturing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/articles/january-2024/abb-acquires-sevensense-leadership-ai-robotics? Control News & Articles",
-      "originalUrl": "https://www.automation.com/en-us/articles/january-2024/abb-acquires-sevensense-leadership-ai-robotics? Control News & Articles",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.automation.com/getmedia/fbc920be-6374-44d4-bd7d-a10ae4823436/ABB-news-Jan-12-2024-web.png?width=500&height=313&ext=.png",
-          "width": 500,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-12T15:47:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-12-abb-expands-stake-in-next-gen-ai-powered-robotics-with-acquisition-of-sevensense.md",
-      "title": "ABB Expands Stake in Next-Gen AI-Powered Robotics with Acquisition of Sevensense",
-      "excerpt": "Swiss start-up Sevensense's 3D vision navigation technology to boost ABB's AMR portfolio and drive smarter factories and warehouses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.packworld.com/machinery/robotics/news/22883815/abb-abb-acquires-sevensense-to-expand-stake-in-nextgen-aipowered-robotics",
-      "originalUrl": "https://www.packworld.com/machinery/robotics/news/22883815/abb-abb-acquires-sevensense-to-expand-stake-in-nextgen-aipowered-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.packworld.com/files/base/pmmi/all/image/2024/01/ABB_Sevensense.65a0777131390.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
-          "width": 1200,
-          "height": 862,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-12T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Packaging World",
-        "domain": "packworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

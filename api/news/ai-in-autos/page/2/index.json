@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-28-apple-unplugs-self-driving-electric-car-project-reports-say.md",
+      "title": "Apple unplugs self-driving electric car project, reports say",
+      "excerpt": "Many employees from the project will be moved to the iPhone maker's artificial intelligence (AI) division, according to Bloomberg News. Apple did not immediately respond to a BBC request for a comment. The Apple car team was reportedly known as the Special ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/apple-unplugs-self-driving-electric-010959244.html",
+      "originalUrl": "https://www.aol.com/news/apple-unplugs-self-driving-electric-010959244.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_bbc_articles_618/b365fd882050850b2c18e7d53c14b2d2",
+          "width": 976,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-apples-self-driving-electric-car-project-is-officially-dead.md",
+      "title": "Apple’s Self-Driving Electric Car Project Is Officially Dead",
+      "excerpt": "As shocked as the team may have been, the news won’t be nearly as surprising to anyone who’s paid attention to Apple’s efforts to build a self-driving car. Although next to no concrete ...",
+      "sourceUrl": null,
+      "webUrl": "https://robbreport.com/motors/cars/apple-cancels-self-driving-ev-project-1235527053/#!",
+      "originalUrl": "https://robbreport.com/motors/cars/apple-cancels-self-driving-ev-project-1235527053/#!",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://robbreport.com/wp-content/uploads/2024/01/evcharger.jpg?w=681&h=383&crop=1",
+          "width": 681,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://robbreport.com/motors/cars/apple-cancels-self-driving-ev-project-1235527053/amp/",
+      "cdnAmpWebUrl": "https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/apple-cancels-self-driving-ev-project-1235527053/amp/",
+      "publishedDateTime": "2024-02-28T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Robb Report",
+        "domain": "robbreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-28-openai-seeks-to-dismiss-parts-of-the-new-york-timess-lawsuit.md",
       "title": "OpenAI Seeks to Dismiss Parts of The New York Times’s Lawsuit",
       "excerpt": "The artificial intelligence start-up argued that its online chatbot, ChatGPT, is not a substitute for a New York Times subscription.",
@@ -1254,101 +1340,6 @@
         "name": "The Star",
         "domain": "thestar.com.my",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-19-driverless-vehicles-could-soon-be-used-to-deliver-aid-in-conflict-zones.md",
-      "title": "Driverless vehicles could soon be used to deliver aid in conflict zones",
-      "excerpt": "Driverless vehicles, also known as robo-cars, could soon be used to deliver aid to the world’s most dangerous conflict zones. Unveiling the car at the Munich Security Conference at the weekend ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraph.co.uk/news/2024/02/18/unmanned-vehicles-deliver-aid-conflict-zones-food/",
-      "originalUrl": "https://www.telegraph.co.uk/news/2024/02/18/unmanned-vehicles-deliver-aid-conflict-zones-food/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.telegraph.co.uk/content/dam/news/2024/02/18/TELEMMGLPICT000367056268_17082721397570_trans_NvBQzQNjv4Bqf3p5FP_qh2wbV9o5j03qoTJ3qoPQbaAddECjwhYxymk.jpeg?impolicy=logo-overlay",
-          "width": 1024,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-18T16:11:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "telegraph.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-18-tesla-autopilot-and-full-self-driving-often-bashedbut-try-driving-in-los-angeles.md",
-      "title": "Tesla Autopilot And Full Self-Driving Often Bashed—But Try Driving In Los Angeles",
-      "excerpt": "Tesla's Autopilot and Full-Self Driving often get criticized for being unsafe but try the alternative: driving in Los Angeles among extremely distracted drivers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brookecrothers/2024/02/18/tesla-autopilot-full-self-driving-often-gets-bashed-but-try-driving-in-los-angeles/",
-      "originalUrl": "https://www.forbes.com/sites/brookecrothers/2024/02/18/tesla-autopilot-full-self-driving-often-gets-bashed-but-try-driving-in-los-angeles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d1b374f35c7377c0601772/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 559,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-18T09:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

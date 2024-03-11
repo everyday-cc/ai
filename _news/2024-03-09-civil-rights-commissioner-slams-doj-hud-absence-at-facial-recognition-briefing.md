@@ -7,7 +7,7 @@ originalUrl: "https://fedscoop.com/commissioner-slams-doj-hud-facial-recognition
 webUrl: "https://fedscoop.com/commissioner-slams-doj-hud-facial-recognition-briefing-absence/"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,50 @@ images:
     width: 506
     height: 337
     isCached: true
+
+related:
+  - title: "Civil Rights commission digs into government use of facial recognition"
+    excerpt: "The tech poses “serious threats to our fundamental rights,” the chair of the commission said during a Friday briefing."
+    publishedDateTime: 2024-03-11T20:30:00Z
+    webUrl: "https://www.nextgov.com/artificial-intelligence/2024/03/civil-rights-commission-digs-government-use-facial-recognition/394845/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 41
+    images:
+      - url: "https://cdn.nextgov.com/media/img/cd/2024/03/11/031124_getty_ng_mondaire_jones/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "UK’s £230 million plan to implement police facial recognition and drones"
+    excerpt: "The UK government is setting aside £230 million to give police advanced technology, including facial recognition, to make their operations more efficient."
+    publishedDateTime: 2024-03-07T21:46:00Z
+    webUrl: "https://www.biometricupdate.com/202403/uks-230-million-plan-to-implement-police-facial-recognition-and-drones"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 38
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/01/15132608/london-met-police-1-scaled.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
+  - title: "Everyone in facial recognition wants to impress US civil rights commission"
+    excerpt: "More than a dozen people met this week with the U.S. Civil Rights Commission to talk about how facial recognition can impact the core lives of Americans."
+    publishedDateTime: 2024-03-08T22:38:00Z
+    webUrl: "https://www.biometricupdate.com/202403/everyone-in-facial-recognition-wants-to-impress-us-civil-rights-commission"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/14134710/facial-recogntiion-street-crowd-scaled.jpg"
+        width: 2048
+        height: 1152
+        isCached: true
 
 secured: "1mqbw8+8G79uT7ZOJ9D6BGfZJSxGizOa1EINGvEz9LkF0RBepJJNnYO812t0hNNPdlVzGYV9EJg+bQDhMrWgeXqNseTpAK+HAhkOgagXLzrvs9ypeeASKQ0mLVRqvytnAmtTC46qnvyYUbOLYUO/MnqwNT5sQ70IkImlYiqmpaFILzlh+HMVXz5Z3etZRttq94ESTZipfzkOrlVlqlZEJ/fCYiJERheQbSNEZ0Gk92baDc3a+idKg18+eYXLn0ZofXzMrFLrt6i4FjPnRT2UxS31Fm5mnNlkCJqpfG5ur8z37Lp6MTd96zEi136O05RKo7rsYimQtF5ZRjT1OyBBQl/+6l8lGCcZ/00QOECoAc9AhvOw5UmDNBgJwAJt6fXQX5kbfEiOs3kgE+8GRDjNI0azJYjge8PVBs464jWY1kO33kr/wa1eN7rRYqWCWBWBD5eC+S3tpVjzjqBzVUwvpzJX+MnTLgIRgwSxa4vKOYXLMPm2V1Z9ljnpdebR8uxHGC3k1Hx9yJxCSXrE8WehBw==;gEu0r3nTOYiLSVxvrHdBGw=="
 ---

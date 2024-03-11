@@ -2,6 +2,136 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-07-bell-mila-to-embark-on-joint-deep-learning-ai-initiative.md",
+      "title": "Bell, Mila to embark on joint deep learning AI initiative",
+      "excerpt": "Artificial intelligence research institute Mila and Bell Canada have announced an 18-month collaborative project that, the two said, will apply deep learning neural network algorithms to Bell's systems and data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/article/bell-mila-to-embark-on-joint-deep-learning-ai-initiative/558224",
+      "originalUrl": "https://www.itworldcanada.com/article/bell-mila-to-embark-on-joint-deep-learning-ai-initiative/558224",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2024/02/GettyImages-1160013652.jpg",
+          "width": 788,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/article/bell-mila-to-embark-on-joint-deep-learning-ai-initiative/558224?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/bell-mila-to-embark-on-joint-deep-learning-ai-initiative/558224?amp=1",
+      "publishedDateTime": "2024-02-07T00:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-07-deep-learning-forecasts-antarctic-sea-ice-trends-for-2024-projected-to-remain-close-to-historical-lows.md",
+      "title": "Deep learning forecasts Antarctic sea ice trends for 2024 – projected to remain close to historical lows",
+      "excerpt": "What lies ahead for Antarctic sea ice in 2024? The deep learning model's predictions from December 2023 to June 2024 indicate that Antarctic sea ice will remain near historical lows. However ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/1033560",
+      "originalUrl": "https://www.eurekalert.org/news-releases/1033560",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/6d338702-b7f8-41ae-86b1-b6d07a395567/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T17:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-artificial-intelligence-for-the-financial-market-machine-learning-enhances-stock-return-prediction.md",
+      "title": "Artificial Intelligence for the Financial Market: Machine Learning Enhances Stock Return Prediction",
+      "excerpt": "In the complex world of financial markets ... especially in global stock investments. However, Machine Learning (ML) methods, a branch of Artificial Intelligence (AI), offer a promising solution.",
+      "sourceUrl": null,
+      "webUrl": "https://idw-online.de/de/news828219",
+      "originalUrl": "https://idw-online.de/de/news828219",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.idw-online.de/de/institutionlogo31018",
+          "width": 1431,
+          "height": 663,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T09:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "idw",
+        "domain": "idw-online.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2024-02-06-pdi-launches-ai-platform-for-retail-transforming-data-into-actionable-insights-boosting-revenue-margin-and-agility.md",
       "title": "PDI LAUNCHES AI PLATFORM FOR RETAIL, TRANSFORMING DATA INTO ACTIONABLE INSIGHTS, BOOSTING REVENUE, MARGIN AND AGILITY.",
       "excerpt": "Innovating Retail with AI for Competitive Advantage From Data to Decisions: AI's Transformative Power in Retail Stra",
@@ -1156,127 +1286,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-29-skusat-k-to-have-centre-for-ai-machine-learning.md",
-      "title": "SKUSAT-K to have centre for AI, machine learning",
-      "excerpt": "The Council gave in-principle approvals to various agenda points presented during the meeting including the setting up of Centre of Artificial Intelligence and Machine Learning in Agriculture (CAIML); SKUAST-K Innovation, Incubation and Entrepreneurship ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tribuneindia.com/news/j-k/skusat-k-to-have-centre-for-ai-machine-learning-585307",
-      "originalUrl": "https://www.tribuneindia.com/news/j-k/skusat-k-to-have-centre-for-ai-machine-learning-585307",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.tribuneindia.com/Content/images/Homepage_Assets/whatsapp.png",
-          "width": 360,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.tribuneindia.com/news/j-k/skusat-k-to-have-centre-for-ai-machine-learning-585307",
-      "cdnAmpWebUrl": "https://m-tribuneindia-com.cdn.ampproject.org/c/s/m.tribuneindia.com/news/j-k/skusat-k-to-have-centre-for-ai-machine-learning-585307",
-      "publishedDateTime": "2024-01-29T02:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tribune",
-        "domain": "tribuneindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-29-comparison-of-pathologist-and-deep-learningbased-prostate-cancer-grading-for-prediction-of-metastatic-outcomes-in-primary-prostate-cancer.md",
-      "title": "Comparison of pathologist and deep learning–based prostate cancer grading for prediction of metastatic outcomes in primary prostate cancer.",
-      "excerpt": "Comparison of whole slide image–based deep learning algorithms and genomic classifiers for assessing the risk of prostate cancer metastasis in surgically treated patients. Long-term results of dose escalation (80 vs 70 Gy) combined with long-term ...",
-      "sourceUrl": null,
-      "webUrl": "https://ascopubs.org/doi/10.1200/JCO.2024.42.4_suppl.345",
-      "originalUrl": "https://ascopubs.org/doi/10.1200/JCO.2024.42.4_suppl.345",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-29T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ascopubs.org",
-        "domain": "ascopubs.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-29-utilizing-active-microparticles-for-artificial-intelligence.md",
-      "title": "Utilizing active microparticles for artificial intelligence",
-      "excerpt": "Artificial intelligence using neural networks performs calculations digitally with the help of microelectronic chips. Physicists have now created a type of neural network that works not with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2024/01/240129122349.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2024/01/240129122349.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-29T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

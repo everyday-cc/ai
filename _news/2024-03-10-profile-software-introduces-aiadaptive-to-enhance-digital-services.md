@@ -26,40 +26,61 @@ images:
     isCached: true
 
 related:
-  - title: "Best AI Tools To Enhance Your Social Media Account"
-    excerpt: "These artificial intelligence (AI) solutions enable organizations to prosper in the digital sphere by using technology such as computer vision, machine learning algorithms, natural language processing (NLP), and natural language creation. It is thus ..."
-    publishedDateTime: 2024-03-09T15:55:00Z
-    webUrl: "https://www.mid-day.com/brand-media/article/best-ai-tools-to-enhance-your-social-media-account-23339125"
-    ampWebUrl: "https://www.mid-day.com/amp/brand-media/article/best-ai-tools-to-enhance-your-social-media-account-23339125"
-    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/brand-media/article/best-ai-tools-to-enhance-your-social-media-account-23339125"
+  - title: "How to choose an AI-as-a-service provider"
+    excerpt: "AIaaS can help you jumpstart your AI projects, but there are some details you need to know. Here’s what to look for and five leading options to consider."
+    publishedDateTime: 2024-03-11T03:10:00Z
+    webUrl: "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.html"
+    ampWebUrl: "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html"
     type: article
     provider:
-      name: Mid Day
-      domain: mid-day.com
-    quality: 59
+      name: Computerworld
+      domain: computerworld.com
+    quality: 71
     images:
-      - url: "https://images.mid-day.com/images/images/2024/mar/CopySpace0903_d.jpg"
-        width: 1280
-        height: 720
+      - url: "https://images.idgesg.net/images/article/2024/02/dinging-service-bell-in-robot-hand-by-andrey-popov-via-shutterstock-100961475-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "8 Best AI Tools For Work In 2024, According To Research"
-    excerpt: "Navigating a galaxy of AI apps and knowing which software to use for work can be an endless, time-consuming search. Here are eight of the best AI tools to use in 2024."
-    publishedDateTime: 2024-03-07T20:28:00Z
-    webUrl: "https://www.forbes.com/sites/rachelwells/2024/03/07/8-best-ai-tools-for-work-in-2024-according-to-research/"
+  - title: "Intelligence service: how schools are managing AI"
+    excerpt: "Artificial intelligence is everywhere. Since ChatGPT launched in November 2022, it seems a day hasn't gone by without a shouty headline about robots taking over our jobs and schools. While much of the press has been predictably negative with lurid stories ..."
+    publishedDateTime: 2024-03-08T00:00:00Z
+    webUrl: "https://theweek.com/education/ai-in-schools-machine-learning"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "NRG Media Has Embraced AI-Based Tools"
-    excerpt: "Headquartered in the Midwest, NRG provides content and digital marketing services through 36 radio stations to listeners and advertisers in Nebraska, Iowa, Illinois and Wisconsin. One way NRG uses AI is to create videos for clients using Waymark technology."
-    publishedDateTime: 2024-03-11T17:45:00Z
-    webUrl: "https://www.radioworld.com/news-and-business/headlines/nrg-media-has-embraced-ai-based-tools"
+      name: THE WEEK
+      domain: theweek.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/jKrZd6NChLayZULiivHRj4-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Enterprise hits and misses - are privacy regulations and distrust slowing innovation, and is gen AI set to disrupt IT services?"
+    excerpt: "This week - data privacy comes into focus as the data breaches roll on (this time, it's United Healthcare). Will gen AI disrupt IT services? Or is the coding impact overrated? As always, your weekly whiffs."
+    publishedDateTime: 2024-03-11T08:42:00Z
+    webUrl: "https://diginomica.com/enterprise-hits-and-misses-are-privacy-regulations-and-distrust-slowing-innovation-and-gen-ai-set"
+    ampWebUrl: "https://diginomica.com/enterprise-hits-and-misses-are-privacy-regulations-and-distrust-slowing-innovation-and-gen-ai-set?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/enterprise-hits-and-misses-are-privacy-regulations-and-distrust-slowing-innovation-and-gen-ai-set?amp"
     type: article
     provider:
-      name: Radio World
-      domain: radioworld.com
-    quality: 17
+      name: Diginomica
+      domain: diginomica.com
+    quality: 33
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2013-06/forkinroad.jpg"
+        width: 424
+        height: 283
+        isCached: true
+  - title: "Which Role Prepares You Best to Lead a Language Service Provider?"
+    excerpt: "March marches on, and with it, the end of the first quarter of 2024 gets closer. As the Language Service Provider Index (LSPI) reveals, there are indications of stability … for some companies. The Super Agencies managed to grow a bit."
+    publishedDateTime: 2024-03-07T15:00:00Z
+    webUrl: "https://slator.com/which-role-prepares-you-best-to-lead-a-language-service-provider/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 4
 
 secured: "XLIYygT3cJ9cGnPbKq09fGKYkOYTSjrfXG1sarOXFzUNNbAhVBbfQIlNuBTGOmpGnyybHoK7aoyL3ezKuRToBRd6WIixgGUT7VGInQJavP9/SAqOAkIz65D8Kugv3vqQ0X9ujBmbTZlfUxUF451NI4T0IR+3IxqOsSBCIkKmlTf26j3jy5fjP3Vpny0qrZsiovCBDWJg7VSf2kNHIf6KL1/yYKCWe8ldR6b1v2c766mRYLeF6H7q6DB7C4pQr/ujKZP39B5U9aHRPfjFf15cY75+m6/TXa6bp3JvJpqZzUhvuCvCKaC7B3ejYtC3IOiMV7RZNBr/D/j2pKrQlzRdNq2j5kEKOiPgTirnFZnu8lsiDROX5mqvqIf/BaEWoisj3Icd0B7eGt/UhWDCkjhw3DDeLnE/9V83wGkgfYTvnxYrbzO9uE/RHnsA9HayQHpjMtdNeNztwc+zwEVQO7pYON5XvBHVlJs+2U6QJDAdY3z+D+NJR37ENd4l7Y+/zDOfwgIKwTL1xUUcy1RyuoTY3w==;fz603ssftVFhwgK7ubMxPA=="
 ---

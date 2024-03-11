@@ -2,59 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2023-12-16-safe-ai-for-healthcare-providers-pursue-once-in-a-generation-benefits-of-large-scale-models.md",
-      "title": "Safe AI for healthcare: Providers pursue ‘once-in-a-generation’ benefits of large-scale models",
-      "excerpt": "Leading healthcare entities sign the Biden-⁠Harris Admin's voluntary commitments for the safe, secure use of AI for healthcare.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/safe-ai-for-healthcare-providers-pursue-once-in-a-generation-benefits-of-large-scale-models/",
-      "originalUrl": "https://venturebeat.com/ai/safe-ai-for-healthcare-providers-pursue-once-in-a-generation-benefits-of-large-scale-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1251551899-e1702664137230.jpg?fit=750%2C422&#038;strip=all",
-          "width": 750,
-          "height": 375,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-15T19:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Meta AI"
-      ]
-    },
-    {
       "path": "_news/2023-12-16-healthcare-startup-guaranteeing-prices-based-on-ai-raises-23-million.md",
       "title": "Healthcare Startup Guaranteeing Prices Based On AI Raises $2.3 Million",
       "excerpt": "Certainly Health, a startup that uses AI to predict consumers' out-of-pocket healthcare costs, announced it has raised its first round of funding to expand its reach.",
@@ -1381,6 +1328,49 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-12-04-how-can-medical-schools-educate-students-on-artificial-intelligence.md",
+      "title": "How Can Medical Schools Educate Students on Artificial Intelligence?",
+      "excerpt": "The University of Texas has developed the first dual degree program in the United States to prepare medical students to work with artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitanalytics.com/features/how-can-medical-schools-educate-students-on-artificial-intelligence",
+      "originalUrl": "https://healthitanalytics.com/features/how-can-medical-schools-educate-students-on-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitanalytics.com/images/site/features/_normal/ThinkstockPhotos-801680832.jpg",
+          "width": 690,
+          "height": 398,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T14:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     }
   ],

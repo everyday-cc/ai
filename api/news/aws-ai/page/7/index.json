@@ -2,6 +2,108 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-12-03-amazons-290-very-best-cyber-monday-2023-deals-you-cannot-miss.md",
+      "title": "Amazon’s 290+ Very Best Cyber Monday 2023 Deals You Cannot Miss",
+      "excerpt": "Laneige lip masks, Apple AirTags, and more holiday gifts are up to 80 percent off We independently evaluate all recommended products and services. If you click on links we provide, we may receive ...",
+      "sourceUrl": null,
+      "webUrl": "https://people.com/best-amazon-cyber-monday-deals-2023-live-8391275",
+      "originalUrl": "https://people.com/best-amazon-cyber-monday-deals-2023-live-8391275",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-02T17:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "People",
+        "domain": "people.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-03-not-all-generative-ai-highlights-from-aws-reinvent.md",
+      "title": "Not all generative AI: Highlights from AWS re:Invent",
+      "excerpt": "While gen AI certainly stole the spotlight, my vote for the most intriguing news from AWS was its progress extending serverless functionality to various data services, including the Aurora relational database service, the Redshift cloud data warehouse, and the ElastiCache caching service.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/12/02/not-generative-ai-highlights-aws-reinvent/",
+      "originalUrl": "https://siliconangle.com/2023/12/02/not-generative-ai-highlights-aws-reinvent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-02T16:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-02-unpacking-fresh-signals-from-aws-on-storage-processing-and-llm-strategy.md",
+      "title": "Unpacking fresh signals from AWS on storage, processing and LLM strategy",
+      "excerpt": "The key unveiling on storage is the new Amazon S3 Express One Zone storage class. It’s been designed to deliver up to 10x better performance than the standard class, all while handling requests in the hundreds of thousands per second and maintaining single-digit millisecond latency, according to Thurai.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/12/01/unpacking-fresh-signals-aws-storage-processing-llm-strategy-supercloud5/",
+      "originalUrl": "https://siliconangle.com/2023/12/01/unpacking-fresh-signals-aws-storage-processing-llm-strategy-supercloud5/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T22:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-02-heres-what-aws-revealed-about-its-generative-ai-strategy-at-reinvent-2023.md",
       "title": "Here's what AWS revealed about its generative AI strategy at re:Invent 2023",
       "excerpt": "AWS CEO Adam Selipsky and other top executives at the company’s annual re:Invent conference revealed updates and new products aimed at challenging offerings from Microsoft, Oracle, Google, and IBM.",
@@ -1158,135 +1260,6 @@
         "AI in Finance",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-amazon-q-is-an-ai-chatbot-for-businesses-and-aussies-can-test-it-now.md",
-      "title": "Amazon Q is an AI chatbot for businesses, and Aussies can test it now",
-      "excerpt": "AWS’s business intelligence platform. Amazon Q is also integrated with Amazon Connect, aiming to bolster customer service capabilities. It can be customised through proprietary data and tailored ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.smartcompany.com.au/technology/artificial-intelligence/aws-amazon-q-announcement-chatbot-business-australia/",
-      "originalUrl": "https://www.smartcompany.com.au/technology/artificial-intelligence/aws-amazon-q-announcement-chatbot-business-australia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SmartCompany",
-        "domain": "smartcompany.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-aws-and-nvidia-to-partner-on-new-ai-supercomputing-infrastructure.md",
-      "title": "AWS and Nvidia to partner on new AI supercomputing infrastructure",
-      "excerpt": "WHAT IS ARTIFICIAL INTELLIGENCE (AI)? Nvidia will also integrate its NeMo Retriever microservice into AWS to help users boost their development of generative AI tools like chatbots and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/technology/aws-nvidia-partner-new-ai-supercomputing-infrastructure",
-      "originalUrl": "https://www.foxbusiness.com/technology/aws-nvidia-partner-new-ai-supercomputing-infrastructure",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/d85da770-f5a3-4d04-8436-6dab6b0f035f/fba7a5cd-3828-4a38-ba39-7935e027c9df/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxbusiness.com/technology/aws-nvidia-partner-new-ai-supercomputing-infrastructure.amp",
-      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/aws-nvidia-partner-new-ai-supercomputing-infrastructure.amp",
-      "publishedDateTime": "2023-11-28T23:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-aws-widens-data-pipelines-creates-amazon-q-gen-ai-assistant.md",
-      "title": "AWS Widens Data Pipelines + Creates Amazon Q Gen-AI Assistant",
-      "excerpt": "vice president of data and Artificial Intelligence at AWS. “In addition to having the right tool for the job, customers need to be able to integrate the data that is spread across their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/11/28/aws-widens-data-pipelines--creates-gen-ai-assistant/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/11/28/aws-widens-data-pipelines--creates-gen-ai-assistant/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65667326d20fbb7c71172c59/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 640,
-          "height": 358,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/11/28/aws-widens-data-pipelines--creates-gen-ai-assistant/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/11/28/aws-widens-data-pipelines--creates-gen-ai-assistant/amp/",
-      "publishedDateTime": "2023-11-28T23:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

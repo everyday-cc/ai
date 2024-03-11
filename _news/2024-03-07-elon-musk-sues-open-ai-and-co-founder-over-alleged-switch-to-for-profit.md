@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo205623365638"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo205623365638"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "OpenAI says Musk agreed the ChatGPT maker should become a for-profit company"
-    excerpt: "OpenAI has attacked a lawsuit from Elon Musk, saying he supported making the ChatGPT maker a for-profit company"
-    publishedDateTime: 2024-03-06T18:22:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/openai-elon-musk-agreed-chatgpt-maker-become-profit-107838652"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 31
   - title: "Elon Musk makes Grok AI open source amid ongoing OpenAI lawsuit"
     excerpt: "In a move likely fueled by his lawsuit against OpenAI, Elon Musk is open-sourcing his own AI chatbot, Grok, which rivals ChatGPT. Grok boasts real-time information access and tackles tough topics, unlike many AI systems."
     publishedDateTime: 2024-03-11T11:09:00Z

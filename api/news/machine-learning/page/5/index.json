@@ -2,6 +2,145 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-01-15-after-ais-summer-whats-next-for-artificial-intelligence.md",
+      "title": "After AI’s summer: What’s next for artificial intelligence?",
+      "excerpt": "The most optimistic promises of AI will likely not be realized in 2024. Hopefully, any disappointments will not result in another AI winter.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/after-ais-summer-whats-next-for-artificial-intelligence/",
+      "originalUrl": "https://venturebeat.com/ai/after-ais-summer-whats-next-for-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/01/artificial_intelligence_bot_surrounded_by_flower-transformed.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-15T03:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2024-01-15-novel-neuromorphic-artificial-neural-network-circuit-architecture.md",
+      "title": "Novel Neuromorphic Artificial Neural Network Circuit Architecture",
+      "excerpt": "However, current artificial neural network circuit architectures do not fully embrace small-world neural network models. Here, we present the neuromorphic Mosaic: a non-von Neumann systolic architecture employing distributed memristors for in-memory ...",
+      "sourceUrl": null,
+      "webUrl": "https://semiengineering.com/novel-neuromorphic-artificial-neural-network-circuit-architecture/",
+      "originalUrl": "https://semiengineering.com/novel-neuromorphic-artificial-neural-network-circuit-architecture/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-15T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Semiconductor Engineering",
+        "domain": "semiengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-15-why-on-demand-video-learning-is-limited-and-what-to-pursue-instead.md",
+      "title": "Why On-Demand Video Learning Is Limited And What To Pursue Instead",
+      "excerpt": "Asynchronous learning is flexible, yet it comes with challenges. Learners need access to experts and ways to apply learning. Blended learning is the key.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/williamarruda/2024/01/14/why-on-demand-video-learning-is-limited-and-what-to-pursue-instead/",
+      "originalUrl": "https://www.forbes.com/sites/williamarruda/2024/01/14/why-on-demand-video-learning-is-limited-and-what-to-pursue-instead/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/659d4b234ce76555695ca156/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/williamarruda/2024/01/14/why-on-demand-video-learning-is-limited-and-what-to-pursue-instead/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/williamarruda/2024/01/14/why-on-demand-video-learning-is-limited-and-what-to-pursue-instead/amp/",
+      "publishedDateTime": "2024-01-14T16:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-13-laboratory-automation-leverages-artificial-intelligence.md",
       "title": "Laboratory Automation Leverages Artificial Intelligence",
       "excerpt": "From liquid handling to image analysis, laboratory tasks are being performed more easily and accurately with the help of artificial intelligence–driven platforms.",
@@ -1141,118 +1280,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-31-news-tagged-with-deep-learning-algorithms.md",
-      "title": "News tagged with deep learning algorithms",
-      "excerpt": "Northwestern Medicine scientists have developed a deep learning algorithm capable of identifying the location where a genetic process called polyadenylation occurs on the genome, according to ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/tags/deep+learning+algorithms/",
-      "originalUrl": "https://medicalxpress.com/tags/deep+learning+algorithms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-31T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-29-asa-deep-learning-model-can-improve-pain-assessment.md",
-      "title": "ASA: Deep learning model can improve pain assessment",
-      "excerpt": "An automated pain recognition system is promising for detecting pain before, during, and after surgery, according to a study presented at ANESTHESIOLOGY 2023, the annual meeting of the American Society of Anesthesiologists,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-12-asa-deep-pain.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-12-asa-deep-pain.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/asa-deep-learning-mode.jpg",
-          "width": 1280,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-12-asa-deep-pain.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-12-asa-deep-pain.amp",
-      "publishedDateTime": "2023-12-29T10:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-27-artificial-intelligence-machine-learning-in-finance-carry-potential-risks.md",
-      "title": "Artificial Intelligence, Machine Learning in finance carry potential risks",
-      "excerpt": "While rapid deployment of Artificial Intelligence and Machine Learning (AI/ML) in finance is promoting efficiency gains, redefining client interfaces, augmenting forecasting accuracy, and improving risk management and compliance,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/money-and-banking/artificial-intelligence-machine-learning-in-finance-carry-potential-risks/article67680691.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/money-and-banking/artificial-intelligence-machine-learning-in-finance-carry-potential-risks/article67680691.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/money-and-banking/artificial-intelligence-machine-learning-in-finance-carry-potential-risks/article67680691.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/money-and-banking/artificial-intelligence-machine-learning-in-finance-carry-potential-risks/article67680691.ece/amp/",
-      "publishedDateTime": "2023-12-27T15:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

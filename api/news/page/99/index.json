@@ -2,6 +2,586 @@
   "page": 99,
   "value": [
     {
+      "path": "_news/2023-12-15-hr-block-introduces-ai-chatbot-that-will-answer-your-complex-tax-questions.md",
+      "title": "H&R Block introduces AI chatbot that will answer your complex tax questions",
+      "excerpt": "H&R Block said its goal with this new AI-enabled feature is to to help customers understand how their taxes work, rather than just being told where to put a certain number. The company hopes the advice from AI Tax Assist helps keep customers on the H&R Block site, instead of turning to Google search.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/h-r-block-introduces-ai-chatbot-that-will-answer-your-complex-tax-questions/",
+      "originalUrl": "https://www.zdnet.com/article/h-r-block-introduces-ai-chatbot-that-will-answer-your-complex-tax-questions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/22572debc72d09be85c3ee9a64b6ba99f9125edc/2023/12/15/137a600d-209f-431c-b4e9-a5d90cf20a11/gettyimages-88160312.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/h-r-block-introduces-ai-chatbot-that-will-answer-your-complex-tax-questions/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/h-r-block-introduces-ai-chatbot-that-will-answer-your-complex-tax-questions/",
+      "publishedDateTime": "2023-12-15T03:11:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-15-do-ai-improvements-call-for-something-better-than-the-turing-test.md",
+      "title": "Do AI improvements call for something better than the Turing test?",
+      "excerpt": "In addition to this, the Turing Test fails to analyze an AI program’s ability to think. In a recent Turing Test experiment, GPT-4 was able to convince evaluators that they were texting with humans over 40 percent of the time. However, this score fails to answer the basic question: Can the AI program think?",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/ai/2023/12/do-ai-improvements-call-for-something-better-than-the-turing-test/",
+      "originalUrl": "https://arstechnica.com/ai/2023/12/do-ai-improvements-call-for-something-better-than-the-turing-test/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-147461191-800x600.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-15T00:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-15-google-deepmind-announces-the-funsearch-training-method.md",
+      "title": "Google DeepMind announces the “FunSearch” training method",
+      "excerpt": "Google DeepMind has introduced a new method called FunSearch. This method uses Large Language Models (LLMs) to search for new solutions in mathematics and computer science. The method is described ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizchina.com/2023/12/15/google-deepmind-funsearch-method-mathematics-computer-science/",
+      "originalUrl": "https://www.gizchina.com/2023/12/15/google-deepmind-funsearch-method-mathematics-computer-science/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizchina.com/wp-content/uploads/images/2023/12/Google-DeepMind.jpg",
+          "width": 1200,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.gizchina.com/2023/12/15/google-deepmind-funsearch-method-mathematics-computer-science/amp/",
+      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2023/12/15/google-deepmind-funsearch-method-mathematics-computer-science/amp/",
+      "publishedDateTime": "2023-12-15T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GizChina",
+        "domain": "gizchina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-15-how-machine-learning-is-boosting-businesses.md",
+      "title": "How Machine Learning is Boosting Businesses",
+      "excerpt": "\"Think of (ML) as a financial advisor ... the user and they have been building this system since 2008. Machine learning has directly impacted customer experiences or personalized services/products for Legalpay, a litigation financier.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/en-in/technology/how-machine-learning-is-boosting-businesses/467034",
+      "originalUrl": "https://www.entrepreneur.com/en-in/technology/how-machine-learning-is-boosting-businesses/467034",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1702641228-Hithere.png?format=pjeg&auto=webp",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-15T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-12-15-intel-kicks-off-the-ai-pc-era-with-core-ultra-chips.md",
+      "title": "Intel kicks off the ‘AI PC’ era with Core Ultra chips",
+      "excerpt": "Intel Core Ultra 7 165H: 16 cores/22 threads (6P/8E/2LPE) at 5.0GHz P-core Turbo; Arc GPU (8 Xe, 2.3GHz); 2X Gen3 AI Boost Intel Core Ultra 7 155H: 16 cores/22 threads (6P/8E/2LPE) at 4.8GHz P ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/2169875/intel-core-ultra-meteor-lake-ai-pc-era.html",
+      "originalUrl": "https://www.pcworld.com/article/2169875/intel-core-ultra-meteor-lake-ai-pc-era.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcworld.com/wp-content/uploads/2023/12/Intel-Core-Ultra-4-5.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 876,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-14T21:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-14-boost-productivity-on-amazon-sagemaker-studio-introducing-jupyterlab-spaces-and-generative-ai-tools.md",
+      "title": "Boost productivity on Amazon SageMaker Studio: Introducing JupyterLab Spaces and generative AI tools",
+      "excerpt": "Amazon SageMaker Studio offers a broad set of fully managed integrated development environments (IDEs) for machine learning (ML) development, including JupyterLab, Code Editor based on Code-OSS (Visual Studio Code Open Source), and RStudio. It provides access to the most comprehensive set of tools for",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/boost-productivity-on-amazon-sagemaker-studio-introducing-jupyterlab-spaces-and-generative-ai-tools/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/boost-productivity-on-amazon-sagemaker-studio-introducing-jupyterlab-spaces-and-generative-ai-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/14/ML-16046-image001-879x630.jpg",
+          "width": 879,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-14T21:48:11Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-15-machine-learning-deep-learning-and-the-credit-market.md",
+      "title": "Machine Learning, Deep Learning, And The Credit Market",
+      "excerpt": "What are the applications of machine learning and deep learning models in the credit market? originally appeared on Quora: the place to gain and share knowledge, empowering people to learn from ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/quora/2023/12/14/machine-learning-deep-learning-and-the-credit-market/",
+      "originalUrl": "https://www.forbes.com/sites/quora/2023/12/14/machine-learning-deep-learning-and-the-credit-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/657a40948a8f77ae0ea63ced/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 900,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/quora/2023/12/14/machine-learning-deep-learning-and-the-credit-market/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2023/12/14/machine-learning-deep-learning-and-the-credit-market/amp/",
+      "publishedDateTime": "2023-12-14T21:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-15-xtalpi-and-abb-robotics-to-automate-laboratory-workstations-with-gofa-cobots.md",
+      "title": "XtalPi and ABB Robotics to automate laboratory workstations with GoFa cobots",
+      "excerpt": "XtalPi has used more than 100 ABB collaborative robots to build automated workstations for accelerating chemical and life sciences R&D.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/xtalpi-and-abb-robotics-to-automate-laboratory-workstations-with-gofa-cobots/",
+      "originalUrl": "https://www.therobotreport.com/xtalpi-and-abb-robotics-to-automate-laboratory-workstations-with-gofa-cobots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/12/XtalPi_ABB_GoFa_AMRs.jpg",
+          "width": 770,
+          "height": 491,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-14T20:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-15-a-ball-of-brain-cells-on-a-chip-can-learn-simple-speech-recognition-and-math.md",
+      "title": "A Ball of Brain Cells on a Chip Can Learn Simple Speech Recognition and Math",
+      "excerpt": "Just a first step, Brainoware paves the way for increasingly sophisticated hybrid biocomputers that could lower energy costs and speed up computation.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2023/12/14/a-ball-of-brain-cells-on-a-chip-can-learn-simple-speech-recognition-and-math/",
+      "originalUrl": "https://singularityhub.com/2023/12/14/a-ball-of-brain-cells-on-a-chip-can-learn-simple-speech-recognition-and-math/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-14T20:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-15-2024-healthcare-insiders-predict-the-future.md",
+      "title": "2024: Healthcare Insiders Predict The Future",
+      "excerpt": "I hope you find their predictions and insights as intriguing as I do. AI to Bridge the Gaps to Human-Centered Health Care Artificial intelligence (AI) and machine learning (ML) have the promise of bridging gaps in medical education and creating ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sachinjain/2023/12/14/2024-healthcare-insiders-predict-the-future/",
+      "originalUrl": "https://www.forbes.com/sites/sachinjain/2023/12/14/2024-healthcare-insiders-predict-the-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/657b8269d0998e5ffed4e4c7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1257,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sachinjain/2023/12/14/2024-healthcare-insiders-predict-the-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sachinjain/2023/12/14/2024-healthcare-insiders-predict-the-future/amp/",
+      "publishedDateTime": "2023-12-14T19:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-15-gm-self-driving-arm-cruise-is-laying-off-24-of-its-workforce.md",
+      "title": "GM self-driving arm Cruise is laying off 24% of its workforce",
+      "excerpt": "A Cruise self-driving car, which is owned by General Motors Corp, is seen outside the company's headquarters in San Francisco where it does most of its testing, in California, U.S., September 26 ...",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/2023/12/14/tech/gm-cruise-layoffs/index.html",
+      "originalUrl": "https://edition.cnn.com/2023/12/14/tech/gm-cruise-layoffs/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/2023-11-20t222000z-618296731-rc29h4acjneq-rtrmadp-3-gm-cruise-cofounder.JPG?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/12/14/tech/gm-cruise-layoffs/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/12/14/tech/gm-cruise-layoffs/index.html",
+      "publishedDateTime": "2023-12-14T19:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-15-ai-machine-learning-to-lead-the-way-to-achieve-net-zero-experts.md",
+      "title": "AI, machine learning to lead the way to achieve Net Zero: Experts",
+      "excerpt": "At the event, Rupesh Umtol, co-founder and Director, Electro-Mech Consultants showcased a digital twin model creation concept called Btrlyf -- a culmination of AI/ML that analyses older buildings with respect to energy efficiency.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/cities/ahmedabad/ai-machine-learning-to-lead-the-way-to-achieve-net-zero-experts-9068876/",
+      "originalUrl": "https://indianexpress.com/article/cities/ahmedabad/ai-machine-learning-to-lead-the-way-to-achieve-net-zero-experts-9068876/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2023/12/ai_1200_gettyimages.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/cities/ahmedabad/ai-machine-learning-to-lead-the-way-to-achieve-net-zero-experts-9068876/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/ahmedabad/ai-machine-learning-to-lead-the-way-to-achieve-net-zero-experts-9068876/lite/",
+      "publishedDateTime": "2023-12-14T18:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-14-tying-environmental-outcomes-to-real-business-value-may-be-simpler-than-you-think.md",
       "title": "Tying environmental outcomes to real business value may be simpler than you think",
       "excerpt": "There has been a lot of recent discussion around the business value of environmental, social and governance (ESG) reporting and financials.\nThe post Tying environmental outcomes to real business value may be simpler than you think appeared first on IBM Blog.\n",
@@ -656,574 +1236,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-michael-cohen-lawyers-citing-of-fictional-case-raises-chatgpt-suspicions.md",
-      "title": "Michael Cohen Lawyer's Citing of Fictional Case Raises ChatGPT Suspicions",
-      "excerpt": "David M. Schwartz, who is representing Donald Trump's former fixer, is accused of using AI for research in legal filings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/michael-cohen-lawyer-chatgpt-court-cases-ai-1852530",
-      "originalUrl": "https://www.newsweek.com/michael-cohen-lawyer-chatgpt-court-cases-ai-1852530",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2323587/michael-cohen-new-york.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-14T15:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-ai-scientists-make-exciting-discovery-using-chatbots-to-solve-maths-problems.md",
-      "title": "AI scientists make ‘exciting’ discovery using chatbots to solve maths problems",
-      "excerpt": "Breakthrough suggests technology behind ChatGPT and Bard can generate information that goes beyond human knowledge",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/science/2023/dec/14/ai-scientists-make-exciting-discovery-using-chatbots-to-solve-maths-problems",
-      "originalUrl": "https://www.theguardian.com/science/2023/dec/14/ai-scientists-make-exciting-discovery-using-chatbots-to-solve-maths-problems",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/5e67e2b4e8098dfaafa375a6fbe2425d738a4965/0_43_3000_1800/master/3000.jpg?width=620&quality=85&auto=format&fit=max&s=435ab186909670a8b9470a0626575d88",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/science/2023/dec/14/ai-scientists-make-exciting-discovery-using-chatbots-to-solve-maths-problems",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/science/2023/dec/14/ai-scientists-make-exciting-discovery-using-chatbots-to-solve-maths-problems",
-      "publishedDateTime": "2023-12-14T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Math for AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-new-lenovo-thinkpad-x1-carbon-hints-at-new-2024-trend-ai-laptops.md",
-      "title": "New Lenovo ThinkPad X1 Carbon hints at new 2024 trend: AI laptops",
-      "excerpt": "The new ThinkPad X1 Carbon Gen 12 is refreshed with Intel's next-generation AI-capable chips called Intel Core Ultra processors, which feature an NPU (in addition the CPU and GPU), that's capable of \"inferencing,\" a fancy way of saying that it helps AI make predictions.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/lenovo-thinkpad-x1-carbon-gen-12",
-      "originalUrl": "https://mashable.com/article/lenovo-thinkpad-x1-carbon-gen-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/00ryv5CkHSP1TqO9KdCRhgd/hero-image.fill.size_1200x675.v1702525212.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-14T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-ai-can-help-do-your-taxes-how-hr-block-utilizes-microsofts-azure-openai-for-customers.md",
-      "title": "AI Can Help Do Your Taxes: How H&R Block Utilizes Microsoft's Azure OpenAI For Customers",
-      "excerpt": "The company is using AI technology from Microsoft Corporation's MSFT Azure OpenAI to help streamline the tax preparation process. H&R Block said it is the only company in the tax industry to be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/23/12/36245483/ai-can-help-do-your-taxes-how-h-r-block-utilizes-microsofts-azure-openai-for-customers",
-      "originalUrl": "https://www.benzinga.com/news/23/12/36245483/ai-can-help-do-your-taxes-how-h-r-block-utilizes-microsofts-azure-openai-for-customers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/Taxes_6.jpeg?width=1200&height=800&fit=crop",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/36245483",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36245483",
-      "publishedDateTime": "2023-12-14T14:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-ibm-cloud-solution-tutorials-2023-in-review.md",
-      "title": "IBM Cloud solution tutorials: 2023 in review",
-      "excerpt": "Our team looks back and shares personal highlights from the year, including generative AI, LLMs, watsonx and more.\nThe post IBM Cloud solution tutorials: 2023 in review appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ibm-cloud-solution-tutorials-2023-in-review/",
-      "originalUrl": "https://www.ibm.com/blog/ibm-cloud-solution-tutorials-2023-in-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-14T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-intel-core-ultra-meteor-lake-mobile-cpus-launch-with-gaming-grade-igpu-and-ai-brawn.md",
-      "title": "Intel Core Ultra Meteor Lake Mobile CPUs Launch With Gaming Grade iGPU And AI Brawn",
-      "excerpt": "If you're reading this website right now, we probably don't have to explain to you that Intel's new Core Ultra processors launching today were codenamed Meteor Lake, and that they represent not only Intel's first \"disaggregated\" CPUs built from disparate tiles,",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/intel-core-ultra-mtl-launch",
-      "originalUrl": "https://hothardware.com/news/intel-core-ultra-mtl-launch",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 228,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/63353/content/hero-intel-core-ultra.jpg",
-          "width": 708,
-          "height": 398,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/intel-core-ultra-mtl-launch",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/intel-core-ultra-mtl-launch",
-      "publishedDateTime": "2023-12-14T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it.md",
-      "title": "2023: The year we played with artificial intelligence — and weren’t sure what to do about it",
-      "excerpt": "Artificial intelligence went mainstream in ... of photos to recognize objects and individual faces and help guide self-driving cars. Speech recognition advances made voice assistants like Siri ...",
-      "sourceUrl": null,
-      "webUrl": "https://wtop.com/national/2023/12/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/",
-      "originalUrl": "https://wtop.com/national/2023/12/2023-the-year-we-played-with-artificial-intelligence-and-werent-sure-what-to-do-about-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wtop.com/wp-content/uploads/2023/12/YE_Artificial_Intelligence_19894-scaled.jpg",
-          "width": 2560,
-          "height": 1706,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-14T13:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTOP News",
-        "domain": "wtop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-openais-ilya-sutskever-has-a-plan-for-keeping-super-intelligent-ai-in-check.md",
-      "title": "OpenAI’s Ilya Sutskever Has a Plan for Keeping Super-Intelligent AI in Check",
-      "excerpt": "A research paper released by OpenAI today touts results from experiments designed to test a way to let an inferior AI model guide the behavior of a much smarter one without making it less smart.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/openai-ilya-sutskever-ai-safety/",
-      "originalUrl": "https://www.wired.com/story/openai-ilya-sutskever-ai-safety/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/657a4dc7d50c518000e43e90/191:100/w_1280,c_limit/OpenAI-Superalignment-Business-1554148483.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-14T13:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-the-ethics-of-ai-balancing-innovation-and-responsibility.md",
-      "title": "The Ethics Of AI: Balancing Innovation And Responsibility",
-      "excerpt": "AI has the potential to transform various industries completely. On the other hand, concerns around its ethical implications are valid, too.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/14/the-ethics-of-ai-balancing-innovation-and-responsibility/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2023/12/14/the-ethics-of-ai-balancing-innovation-and-responsibility/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-14T13:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-samsungs-next-galaxy-buds-might-offer-real-time-translation-using-ai-wunderbar.md",
-      "title": "Samsung’s next Galaxy Buds might offer real-time translation using AI – wunderbar!",
-      "excerpt": "Somewhat surprisingly, Samsung didn’t unveil an update to its flagship Galaxy Buds this year (or for that matter the hotly anticipated Samsung Galaxy Buds 3 ), with a November 16 leak claiming we'll get the Samsung Galaxy Buds 3 Pro in 2024 instead.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/audio/earbuds-airpods/samsungs-next-galaxy-buds-might-offer-real-time-translation-using-ai-wunderbar",
-      "originalUrl": "https://www.techradar.com/audio/earbuds-airpods/samsungs-next-galaxy-buds-might-offer-real-time-translation-using-ai-wunderbar",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/EQZ5xegDyphTu6QZFVm9yP-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-14T12:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-the-time-to-formalize-an-approach-to-ai-adoption-is-now.md",
-      "title": "The Time To Formalize An Approach To AI Adoption Is Now",
-      "excerpt": "Ignoring the potential of AI and clinging to conventional methods can result in missed opportunities and a loss of competitiveness in today's market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/12/14/the-time-to-formalize-an-approach-to-ai-adoption-is-now/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/12/14/the-time-to-formalize-an-approach-to-ai-adoption-is-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/60aebd253bb898555bf94d92/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/12/14/the-time-to-formalize-an-approach-to-ai-adoption-is-now/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/12/14/the-time-to-formalize-an-approach-to-ai-adoption-is-now/amp/",
-      "publishedDateTime": "2023-12-14T12:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-wanna-see-something-cool-try-this-awesome-ai-feature-built-right-into-the-iphone.md",
-      "title": "Wanna see something cool? Try this awesome AI feature built right into the iPhone",
-      "excerpt": "The object detection mode in Magnifier is an impressive demonstration of your iPhone's on-device AI capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.macworld.com/article/2168452/iphone-magnifier-on-device-ai.html",
-      "originalUrl": "https://www.macworld.com/article/2168452/iphone-magnifier-on-device-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.macworld.com/wp-content/uploads/2023/12/ios-object-detection-hero2.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-14T12:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Macworld",
-        "domain": "macworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/macworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

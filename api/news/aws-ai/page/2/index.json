@@ -2,6 +2,117 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-22-vonage-and-aws-leverage-communications-and-network-apis-to-deliver-solutions.md",
+      "title": "Vonage and AWS leverage communications and network APIs to deliver solutions",
+      "excerpt": "and its Verify and Number Insights APIs paired with Amazon Rekognition. With this new update, Vonage will further build additional solutions like this that will accelerate bringing the power of network APIs to the market. Among its features, the SIM Swap ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cloudcomputing-news.net/news/2024/feb/22/vonage-and-aws-leverage-communications-and-network-apis-to-deliver-solutions/",
+      "originalUrl": "https://www.cloudcomputing-news.net/news/2024/feb/22/vonage-and-aws-leverage-communications-and-network-apis-to-deliver-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-22T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cloud Computing",
+        "domain": "cloudcomputing-news.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-our-favorite-furniture-deals-at-amazons-big-home-sale-today.md",
+      "title": "Our favorite furniture deals at Amazon's big home sale today",
+      "excerpt": "It's Amazon. Specifically, Amazon's furniture deals -- the online giant has a large selection of top-rated items for your home, much of it at prices far lower than you'd find at your local ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/essentials/amazon-furniture-sale/",
+      "originalUrl": "https://www.cbsnews.com/essentials/amazon-furniture-sale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T15:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-streamline-diarization-using-ai-as-an-assistive-technology-zoo-digitals-story.md",
+      "title": "Streamline diarization using AI as an assistive technology: ZOO Digital’s story",
+      "excerpt": "ZOO Digital provides end-to-end localization and media services to adapt original TV and movie content to different languages, regions, and cultures. It makes globalization easier for the world’s best content creators. Trusted by the biggest names in entertainment, ZOO Digital delivers high-quality localization",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/streamline-diarization-using-ai-as-an-assistive-technology-zoo-digitals-story/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/streamline-diarization-using-ai-as-an-assistive-technology-zoo-digitals-story/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-20T18:18:25Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-20-koch-industries-continues-to-accelerate-its-artificial-intelligence-initiative.md",
       "title": "Koch Industries continues to accelerate its artificial intelligence initiative",
       "excerpt": "Although Wichita-based Koch Industries' dozens of companies have used artificial intelligence for machine learning and predictive analytics for years, generative AI is a newer frontier for them, company officials say.",
@@ -1175,144 +1286,6 @@
         "name": "Computer Weekly",
         "domain": "computerweekly.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-baker-tillys-expertise-in-forensic-investigation-using-data-science-helps-pharmacy-chain-uncover-pricing-error.md",
-      "title": "Baker Tilly's Expertise in Forensic Investigation Using Data Science Helps Pharmacy Chain Uncover Pricing Error",
-      "excerpt": "NORTHAMPTON, MA / ACCESSWIRE / February 8, 2024 / Baker TillyClient backgroundThe client is a regional pharmacy chain with 25 locations throughout three states.The business challengeAfter multiple mon",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2024-02/61361667-baker-tilly-s-expertise-in-forensic-investigation-using-data-science-helps-pharmacy-chain-uncover-pricing-error-200.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2024-02/61361667-baker-tilly-s-expertise-in-forensic-investigation-using-data-science-helps-pharmacy-chain-uncover-pricing-error-200.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T19:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-automate-the-insurance-claim-lifecycle-using-agents-and-knowledge-bases-for-amazon-bedrock.md",
-      "title": "Automate the insurance claim lifecycle using Agents and Knowledge Bases for Amazon Bedrock",
-      "excerpt": "Generative AI agents are a versatile and powerful tool for large enterprises. They can enhance operational efficiency, customer service, and decision-making while reducing costs and enabling innovation. These agents excel at automating a wide range of routine and repetitive tasks, such as data entry,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-the-insurance-claim-lifecycle-using-agents-and-knowledge-bases-for-amazon-bedrock/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-the-insurance-claim-lifecycle-using-agents-and-knowledge-bases-for-amazon-bedrock/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/05/ML-15921-kb-embeddings-960x630.png",
-          "width": 960,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T17:37:14Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-amazons-cloud-boss-likens-generative-ai-hype-to-the-dotcom-bubble.md",
-      "title": "Amazon’s Cloud Boss Likens Generative AI Hype to the Dotcom Bubble",
-      "excerpt": "As CEO of Amazon's dominant cloud computing platform AWS, Adam Selipsky is one of ... the industry is racing to adopt generative artificial intelligence. Although a fan of the technology, he ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/amazons-cloud-boss-selipsky-generative-ai-hype/",
-      "originalUrl": "https://www.wired.com/story/amazons-cloud-boss-selipsky-generative-ai-hype/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/65c2ca0dbafb5fecca35880c/191:100/w_1280,c_limit/Adam-Selipsky-AWS-CEO-Business-1245214128.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-07T17:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

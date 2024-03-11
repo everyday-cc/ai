@@ -30,24 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "9 ways developer productivity is boosted by generative AI"
-    excerpt: "Generative AI is just one tool in the toolbelt that helps improve developer productivity with methodologies, frameworks and best practices.\nThe post 9 ways developer productivity is boosted by generative AI appeared first on IBM Blog.\n"
-    publishedDateTime: 2024-03-06T20:10:24Z
-    webUrl: "https://www.ibm.com/blog/developer-productivity/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
-  - title: "No silver bullet: Closing the gender gap in the era of generative AI"
-    excerpt: "Closing the gender gap won't happen overnight. It’s a puzzle, and we need all the pieces to come together. Generative AI can help.\nThe post No silver bullet: Closing the gender gap in the era of generative AI appeared first on IBM Blog.\n"
-    publishedDateTime: 2024-03-08T11:00:00Z
-    webUrl: "https://www.ibm.com/blog/no-silver-bullet-closing-the-gender-gap-in-the-era-of-generative-ai/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
   - title: "How Stitch Fix Is Using Generative AI To Help Us Dress Better"
     excerpt: "What makes Stitch Fix really special is its ability to strike that perfect balance between human knowledge and machine capabilities."
     publishedDateTime: 2024-03-08T05:00:00Z
@@ -64,43 +46,31 @@ related:
         width: 1599
         height: 900
         isCached: true
-  - title: "EA says generative AI will make gamers spend more, speed up development time"
-    excerpt: "Speaking at the Morgan Stanley Technology, Media & Telecom Conference on Wednesday (via Techraptor), Wilson called generative AI an \"incredibly exciting\" technology that EA is embracing."
-    publishedDateTime: 2024-03-07T14:50:00Z
-    webUrl: "https://www.techspot.com/news/102169-ea-generative-ai-increase-efficiency-speed-up-development.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 66
-    images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2024/03/2024-03-07-image-9.jpg"
-        width: 3840
-        height: 2160
-        isCached: true
-  - title: "Generative AI Is A Game Changer For Talent Transformation"
-    excerpt: "One of generative AI's most significant implications is giving talent management professionals the ability to communicate information to executives and their board of directors. It helps leadership look around corners, rather than just in the rearview mirror, when shaping strategy or making decisions."
-    publishedDateTime: 2024-03-11T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/03/11/generative-ai-is-a-game-changer-for-talent-transformation/"
+  - title: "Using Generative AI To Help Cope With That Exploding Trend Of People Doing Abundant Ranting And Trauma Dumping On Others"
+    excerpt: "There is a rise in so-called trauma dumping. This involves people dumping out their expressed trauma. Generative AI can aid in coping with this in these sensible ways."
+    publishedDateTime: 2024-03-08T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/08/using-generative-ai-to-help-cope-with-that-exploding-trend-of-people-doing-abundant-ranting-and-trauma-dumping-on-others/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/08/using-generative-ai-to-help-cope-with-that-exploding-trend-of-people-doing-abundant-ranting-and-trauma-dumping-on-others/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/03/08/using-generative-ai-to-help-cope-with-that-exploding-trend-of-people-doing-abundant-ranting-and-trauma-dumping-on-others/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 47
-  - title: "This Bengaluru-based AI Startup is Helping Enterprise Productionize Generative AI Apps Reliably"
-    excerpt: "Portkey.ai, a bengaluru based startup boosts enterprise AI app deployments, simplifying integration in the LLMOps landscape."
-    publishedDateTime: 2024-03-08T05:04:00Z
-    webUrl: "https://analyticsindiamag.com/this-bengaluru-based-ai-startup-is-helping-enterprise-productionize-generative-ai-apps-reliably/"
+    quality: 64
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65ea5df29887bd7e668e400d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Dating apps use AI to help users find their dream partner"
+    excerpt: "Dating apps are using artificial intelligence to help users find their perfect match. NBC News' Valerie Castro spoke to some people who found love while using the AI-driven dating apps."
+    publishedDateTime: 2024-03-07T20:39:00Z
+    webUrl: "https://www.nbcnews.com/now/video/dating-apps-use-a-i-to-help-users-find-their-dream-partner-205672005516"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 25
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2024/03/portkey-ai-founders.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
+      name: NBC News
+      domain: nbcnews.com
+    quality: 47
 
 secured: "il6O8AtC0O3VZGbXjpyvibouvOfAF63EMoyx2V8xK+TvzU2Hbs6bSPBIYOWD5mILz3fePhrGpcUgOXTUP9Nj7uDjeNxRPmKcuByAiZJ7ZdpR77pgF79R+6S693zqJuIAW+4EHcN2Sr6T26qP3Z+zml+gmw7MYZ6sic+6dfZvd/NdFdp2UcwpgzVuQdl14cszTFFv5zwVzmLmUgUmxfo+cU/MnHc9NueSFZSlQIost8nU9BQaM0KgAD7xtNNFlIPJDQAWd7afBjSpj2HTkx67Cbn25iJqp6eBkbe7w7QPr6Zq+QuHhR9Aus10n7+3a+5/1A22q/9YqXI0OroJa8ycIRSLMIdIchFXsbVcmdLt78aOkwF/3/bhColDz9pWNuOao9fgQKCnOp0Xl7UMTbW4Hc8etPrF3hMhY7CexUQ38wi0trQ8ATLG2p6d1oHm4Ei6Q70QP8l2gn0Ks6zMxwLKKe0tGcxJuAzKbCXKcUR78DOhsEKPp5qaHmLzz/epmxKZaERlDjSL11F2lz20m1qkBA==;7OzqFCSPUjV/rZhamcVwBQ=="
 ---

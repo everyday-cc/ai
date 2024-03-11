@@ -161,6 +161,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 18
+  - title: "Navigating the Intersection of Intellectual Property and Artificial Intelligence"
+    excerpt: "In today's digital landscape, the convergence of intellectual property (IP) and artificial intelligence (AI) presents both unparalleled opportunities and unique challenges for businesses across industries. As AI continues to revolutionize how companies ..."
+    publishedDateTime: 2024-03-11T00:01:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/navigating-the-intersection-of-5064154/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 12
 
 secured: "B3t0yUedqD5P00euc4/eu60EiV3F5NBgWsmG/iQiwtF2RurAdMzuW2Y9XkQ9z4go7AgbWiw625BJVAFfvEPU7wOxN6D/dHnGnjoGTDMk2qky4TQCFhS1MaAQ8S+6Duu1XuIdOgVMzvEX0Xc6ZDEMYWQPVPUKVmToon2cLuk8hgzkfFxfoyeFTTTaWwTVVjjTmSdZxObis9x55DmgBBQjyC3/Fj4/MLiK2iscbHshEp0Z6eDgJXL1omc4U7nbhZhcrfCRa+pQ45IKzoq3VWVs7HY5rB9WpUtSPeeaoSdJ8dPX2j5DsmSVwIepYcCOSUNn1jfUGngttQjMY/ALJkNcuIeX4k2k2AF60bwsxlyjFwM=;pkEDcrRSvjID2Sdd59TgVg=="
 ---

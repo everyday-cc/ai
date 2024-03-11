@@ -39,15 +39,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "India’s AI Regulators Need Scalpels, Not Hammers"
-    excerpt: "A vague decree has revived fears that government overreach will stifle innovation in the country’s booming tech sector."
-    publishedDateTime: 2024-03-06T22:00:00Z
-    webUrl: "https://www.bloomberg.com/opinion/articles/2024-03-06/india-s-clumsy-ai-decree-could-stifle-innovation"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 49
   - title: "India announces $1.2 bln investment in AI projects"
     excerpt: "India on Thursday approved a 103 billion rupee ($1.25 billion) investment in artificial intelligence projects, including to develop computing infrastructure and for the development of large language models,"
     publishedDateTime: 2024-03-07T13:50:00Z

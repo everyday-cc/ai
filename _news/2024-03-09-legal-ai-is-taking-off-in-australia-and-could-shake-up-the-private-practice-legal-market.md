@@ -52,6 +52,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "CQG Unveils New First-of-its-Kind AI / Machine Learning Trading Toolkit for Predicting Futures Market Moves"
+    excerpt: "Based on the firm's deep experience in analytics, mathematics and market intelligence, the new ML initiative aims to offer retail traders and buy-side firms, including proprietary trading firms and hedge funds,"
+    publishedDateTime: 2024-03-11T11:36:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/11/9975734.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 16
   - title: "Australian news media could seek payment from Meta for content used to train AI"
     excerpt: "News media bargaining code could apply to tech companies using massive amounts of online information for generative AI, researchers say"
     publishedDateTime: 2024-03-07T13:00:00Z

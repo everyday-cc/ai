@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/inflection-ai-launches-new-model-for-pi
 webUrl: "https://venturebeat.com/ai/inflection-ai-launches-new-model-for-pi-chatbot-nearly-matches-gpt-4/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 137
+published: true
 
 provider:
   name: VentureBeat
@@ -28,116 +28,44 @@ images:
     isCached: true
 
 related:
-  - title: "28 of the best AI and ChatGPT courses you can take online for free"
-    excerpt: "TL;DR: A wide range of online AI and ChatGPT courses are available to take for free on Udemy."
-    publishedDateTime: 2024-03-07T05:00:00Z
-    webUrl: "https://mashable.com/article/free-ai-chatgpt-courses-march"
+  - title: "Musk says AI start up will open-source chatbot Grok"
+    excerpt: "Proactive Investors - Elon Musk’s xAI, his artificial intelligence firm, is set to open-source ‘Grok’, a chatbot aimed at rivalling OpenAI’s ChatGPT. Grok was released by xAI last year, boasting ‘real-time’ information and holding views which argued against the ‘politically correct’ approach."
+    publishedDateTime: 2024-03-11T10:33:00Z
+    webUrl: "https://ca.investing.com/news/stock-market-news/musk-says-ai-start-up-will-opensource-chatbot-grok-3297555"
+    ampWebUrl: "https://m.ca.investing.com/news/stock-market-news/musk-says-ai-start-up-will-opensource-chatbot-grok-3297555?ampMode=1"
+    cdnAmpWebUrl: "https://m-ca-investing-com.cdn.ampproject.org/c/s/m.ca.investing.com/news/stock-market-news/musk-says-ai-start-up-will-opensource-chatbot-grok-3297555?ampMode=1"
     type: article
     provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 84
+      name: Investing
+      domain: investing.com
+    quality: 57
     images:
-      - url: "https://helios-i.mashable.com/imagery/articles/00utc2FpFx7bHiQyoOQjXux/hero-image.fill.size_1200x675.v1709736229.jpg"
-        width: 1200
-        height: 675
+      - url: "https://i-invdn-com.investing.com/news/LYNXNPEB660A4_L.jpg"
+        width: 800
+        height: 534
         isCached: true
-  - title: "Groq: The new blazing-fast AI platform that beat ChatGPT and Gemini"
-    excerpt: "Groq is the ‘fast and furious’ of the LLM world offering a staggering 500 tokens per second for smaller models with an output speed of 2.5 seconds"
-    publishedDateTime: 2024-03-11T08:34:00Z
-    webUrl: "https://www.moneycontrol.com/news/opinion/groq-the-new-blazing-fast-ai-platform-that-beat-chatgpt-and-gemini-12437821.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/opinion/groq-the-new-blazing-fast-ai-platform-that-beat-chatgpt-and-gemini-12437821.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/groq-the-new-blazing-fast-ai-platform-that-beat-chatgpt-and-gemini-12437821.html/amp"
+  - title: "AMD promotes third-party app for running AI chatbots on local hardware"
+    excerpt: "The most popular AI services available today run almost exclusively on powerful Nvidia hardware, and they force customers to use an internet connection. AMD is trying"
+    publishedDateTime: 2024-03-08T13:55:00Z
+    webUrl: "https://www.techspot.com/news/102187-amd-promotes-third-party-app-solution-running-ai.html"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 76
+      name: TechSpot
+      domain: techspot.com
+    quality: 49
+  - title: "Justpaid, Ai-powered Finance Startup, Announces New Financial Chatbot Capabilities"
+    excerpt: "JustPaid, the AI-powered FinTech company, has just announced new capabilities for its conversational AI financial chatbot. The chatbot is being enhanced to provide more tailored and dynamic insights for users based on their specific financial needs and feedback."
+    publishedDateTime: 2024-03-07T12:44:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/justpaid-ai-powered-finance-startup-announces-new-financial-chatbot"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 48
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2024/03/groq-AI.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "These 6 prompt engineering courses can you optimize your use of ChatGPT and other generative AI tools"
-    excerpt: "Google Cloud’s free introductory training on generative AI seeks to guide users through the fundamentals of the technology—from large language models to responsible ... just analyze data but understand it, translate it, and incorporate it into strategy ..."
-    publishedDateTime: 2024-03-08T14:58:00Z
-    webUrl: "https://fortune.com/education/articles/prompt-engineering-courses/"
-    type: article
-    provider:
-      name: Fortune
-      domain: fortune.com
-    quality: 71
-    images:
-      - url: "https://content.fortune.com/wp-content/uploads/2024/03/Prompt-engineering-courses-GettyImages-1498577422-e1709762465348.jpg?resize=1200,600"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "How the A.I. That Drives ChatGPT Will Move Into the Physical World"
-    excerpt: "In a move aimed at addressing fears that A.I. could be used to create bioweapons, over 90 biologists and other scientists have signed an agreement that seeks to ensure that their research will move forward without exposing the world to serious harm."
-    publishedDateTime: 2024-03-11T16:00:00Z
-    webUrl: "https://www.nytimes.com/2024/03/11/technology/ai-robots-technology.html"
-    type: article
-    provider:
-      name: The New York Times
-      domain: nytimes.com
-    quality: 71
-    images:
-      - url: "https://static01.nyt.com/images/2024/03/11/multimedia/11ai-robotics-01-bzgl/11ai-robotics-01-bzgl-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Elon Musk says his AI startup xAI will open-source Grok chatbot, ChatGPT's rival"
-    excerpt: "Elon Musk said on Monday his artificial intelligence firm xAI will open-source \"Grok\", a chatbot rivaling OpenAI's ChatGPT, this week. The billionaire's startup launched the AI model to a small group of users last November. In a podcast episode with Lex Fridman, Musk suggested that he liked the concept of open-source AI."
-    publishedDateTime: 2024-03-11T09:03:00Z
-    webUrl: "https://www.hindustantimes.com/business/elon-musk-says-his-ai-startup-xai-will-open-source-grok-chatbot-chatgpts-rival-101710147504394.html"
-    ampWebUrl: "https://www.hindustantimes.com/business/elon-musk-says-his-ai-startup-xai-will-open-source-grok-chatbot-chatgpts-rival-101710147504394-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/business/elon-musk-says-his-ai-startup-xai-will-open-source-grok-chatbot-chatgpts-rival-101710147504394-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 69
-    images:
-      - url: "https://www.hindustantimes.com/ht-img/img/2024/03/11/1600x900/elon_musk_1706669401721_1710147708569.JPG"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "You can now add extra security to your ChatGPT - here's how and why you should"
-    excerpt: "You can now add extra security to your ChatGPT and API accounts by turning on multi-factor authentication. Set it up in account > settings. pic.twitter.com/amXkJXK0HZ"
-    publishedDateTime: 2024-03-08T09:12:00Z
-    webUrl: "https://www.zdnet.com/article/you-can-now-add-extra-security-to-your-chatgpt-heres-how-and-why-you-should/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 62
-  - title: "Pros & Cons of Claude 3 AI compared to ChatGPT"
-    excerpt: "In the competitive landscape of artificial intelligence, the emergence of new large language models (LLMs) continuously reshapes the boundaries of"
-    publishedDateTime: 2024-03-10T11:03:00Z
-    webUrl: "https://www.geeky-gadgets.com/claude-3-vs-chatgpt/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 56
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/03/chatgpt-vs-claude-3-Pros-and-Cons-compared.jpg"
-        width: 1280
-        height: 710
-        isCached: true
-  - title: "This AI malware worm is capable of turning ChatGPT against you"
-    excerpt: "Forget about AI taking over the world - a new study shows how AI can be used against us to steal our data and spread propaganda."
-    publishedDateTime: 2024-03-08T22:34:00Z
-    webUrl: "https://bgr.com/tech/this-ai-malware-worm-is-capable-of-turning-chatgpt-against-you/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 54
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2024/03/AI-Malware.jpg?quality=82&strip=all"
-        width: 2000
-        height: 1119
+      - url: "https://financialit.net/sites/default/files/justpaid.png"
+        width: 1366
+        height: 768
         isCached: true
   - title: "One simple ChatGPT hack makes AI responses sound like a human instead of a robot"
     excerpt: "I talk to ChatGPT for research, I do it when I have to “google” something, and sometimes I do it for the lols. Since I’m on ChatGPT Plus, I also get to experience OpenAI’s best generative AI features as soon as they’re available in Europe ..."
@@ -148,28 +76,33 @@ related:
       name: BGR
       domain: bgr.com
     quality: 48
-  - title: "ChatGPT Plugins are being replaced by GPTs. Here's why - and what it means for you"
-    excerpt: "Integration with external services: ChatGPT Plugins allow the ChatGPT model to interact with external services and APIs. This means that the AI can fetch real-time data, perform actions like booking reservations, or retrieve information from the web directly within the conversation."
-    publishedDateTime: 2024-03-07T06:21:00Z
-    webUrl: "https://www.zdnet.com/article/on-march-19-chatgpt-plugins-get-replaced-by-gpts-heres-why-and-what-it-means-to-you/"
+  - title: "AMD's AI chatbot released"
+    excerpt: "Uses third party app AMD has just launched its own local and GPT-based LLM-powered AI chatbot, that works on Ryzen AI processors and Radeon RX 7000 series GPUs. AMD's new LLM-based GPT chatbot can work on many different Ryzen AI platforms,"
+    publishedDateTime: 2024-03-08T11:05:00Z
+    webUrl: "https://www.fudzilla.com/news/pc-hardware/58602-amd-s-ai-chatbot-released"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 43
-  - title: "Siri creator says it’s about to become a ‘real force’ in the AI race against ChatGPT, Copilot and Gemini"
-    excerpt: "Dag Kittlause is the co-founder of the AI startup acquired by Apple in 2010 that led to the voice assistant we know today. He says big things are coming for Apple's assistant and that it is a “dark horse” in the large language model space."
-    publishedDateTime: 2024-03-08T15:51:00Z
-    webUrl: "https://www.tomsguide.com/ai/siri-creator-says-its-about-to-become-a-real-force-in-the-ai-race-against-chatgpt-copilot-and-gemini"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
+      name: Fudzilla
+      domain: fudzilla.com
     quality: 39
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/MYUB7fRQmfB3AZN2r6asJW-1200-80.jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.fudzilla.com/media/k2/items/cache/9d13e7b7c52f66d31db2f880938f4426_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
+  - title: "AMD Says It's Super Easy To Set Up Your Own AI Chatbot, Here's How"
+    excerpt: "Don't forget to enable GPU Offload if your system has a fast GPU. AMD also talks about using LM Studio on a \"Ryzen AI PC\". It's true; you can run LM Studio on a system with a Phoenix or Hawk Point processor. However, on those machines it will run on either ..."
+    publishedDateTime: 2024-03-08T20:00:00Z
+    webUrl: "https://hothardware.com/news/amd-guide-lm-studio"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 39
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/64084/content/chatbot.jpg"
+        width: 708
+        height: 365
         isCached: true
   - title: "Best AI Chatbots for 2024"
     excerpt: "Spread the loveAs artificial intelligence continues to revolutionize the way we interact with technology, AI chatbots have become an integral part of this transformation. In 2024, a variety of sophisticated chatbots are leading the way in customer service,"
@@ -185,15 +118,6 @@ related:
         width: 1548
         height: 776
         isCached: true
-  - title: "New Jailbreak bypasses AI filtering on ChatGPT-4, Claude, Gemini and LLaMA"
-    excerpt: "A new AI jailbreak has been discovered using ASCII art to bypass content filters on advanced AI models : ChatGPT-4, Claude, Gemini and LLaMA"
-    publishedDateTime: 2024-03-11T13:16:00Z
-    webUrl: "https://www.geeky-gadgets.com/ai-jailbreak-ascii-art-bypass-content-filters/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 34
 
 secured: "FtwOoyLcamMpJqGnSpVc0vMsO1kHddHTAlNb/XQFzAe6lD6Bb7mLjoQGRWPS8XY1sCUSPCq3JSNazmPibH3GRLnAF81ju+76vzALDhIbck5ZhAsCgQ/hNRn+6CIrGFXQsKKEqar9J+o2cP5AlA2w2APBavBmmZb5HIxKf9cfZaCV9TJ0BsTE0bgYcrGOPC6YKNfZ0OmXp69PbZ/S6R7xw/W404BG/bp9e/SWS5GwlRM8pupVXGckq75RV6/WCsFUy0jLbRqNJTtrHZwqOJ6Mo8ljfEOnRQavCXhZQTwxRWhtes7tt+4LGDYSKu6KJ4bC3T9f+obZb8C2Q48tm0raoMN2LIxHMzC4piqHEcWg9PI=;ZUQHB6Cv+AbDLGQK4ICaLw=="
 ---

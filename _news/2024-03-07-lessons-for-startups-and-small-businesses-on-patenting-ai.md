@@ -22,35 +22,19 @@ topics:
   - AI
 
 related:
-  - title: "Producing more but understanding less: The risks of AI for scientific research"
-    excerpt: "Enlarge / Current concerns about AI tend to focus on its obvious errors. But psychologist Molly Crockett and anthropologist Lisa Messeri argue that AI also poses potential long-term epistemic risks to the practice of science."
-    publishedDateTime: 2024-03-06T18:08:00Z
-    webUrl: "https://arstechnica.com/science/2024/03/producing-more-but-understanding-less-the-risks-of-ai-for-scientific-research/"
+  - title: "AI Is Affecting Small Business Marketing. How Can You Use It Right Now?"
+    excerpt: "Yes, AI does not write with emotion that well - yet. It doesn't sell very well - yet. It doesn't write in a consistent or overly creative voice - yet. Right now it's pretty boilerplate. But it will get better at everything, too."
+    publishedDateTime: 2024-03-09T16:36:00Z
+    webUrl: "https://www.inc.com/dan-furman/ai-is-affecting-small-business-marketing-how-can-you-use-it-right-now.html"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 63
+      name: Inc
+      domain: inc.com
+    quality: 54
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/10/ai-brain-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
-  - title: "Chinese Researchers on the Brink of Developing 'Real AI Scientists' Capable of Conducting Experiments, Solving Scientific Problems"
-    excerpt: "Chinese researchers are on the brink of pioneering a groundbreaking approach to developing 'AI scientists capable of conducting experiments and solving scientific problems. Recent advances in deep learning models have revolutionized scientific research ..."
-    publishedDateTime: 2024-03-10T09:03:00Z
-    webUrl: "https://www.techtimes.com/articles/302436/20240310/chinese-researchers-brink-developing-real-ai-scientists-capable-conducting-experiments.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/302436/20240310/chinese-researchers-brink-developing-real-ai-scientists-capable-conducting-experiments.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/302436/20240310/chinese-researchers-brink-developing-real-ai-scientists-capable-conducting-experiments.htm"
-    type: article
-    provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 29
-    images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/444543/2022-world-robot-conference.jpg"
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1491750099_538130_pu42qm.jpg"
         width: 1024
-        height: 683
+        height: 576
         isCached: true
 
 secured: "w8dsduZG+Cml2HCDtUgWzZ9bEJmveP6CIqBcvIDXtp0J4RY6IoXSBXIq4isag5OBTgOc/zY0JUQvd3r4G1kPc86kZam9/ohtFrb+pAOhNBPqtxn8MMDJd5OFerx4y079ovk76tnVqilR0wUNVlHF/DlYXRn2pkYZOvXMBl4iVEPz0gCPp8QPQV4PWRgH6YUPuT88aGGK8ykCh0o74Ka1x/ti3aVSnWpMQ2KSRFy6VzazsiXo2cW26lAWGYOmFrkPmYbZJcQ/Big94juU3SpP84pr8A9qigtdxuGxdLbE4gExshjAh6k8eTbL0iBX73kHwXttXht69sBW9Tls++c7b9bFlWFSPIkIyanwIFpRp+l7pXbo/ul2S+1DOsOXdNSDPxlh7CeS8sGbcFxuBIdRWtKNeg+aVj/f3FFFVCayefFpzTpi5T85XFfc9kwOc+uSRPM5k6gxdZnwjdVWKT69T66LX9bYUvxsx9OyJH+i3RzzSUMQhXgYQXCb+DaX5OrCxGyawPFBUdByNZJhDM8PIA==;dNcKkiSEPEJ5X20G0j5vUg=="

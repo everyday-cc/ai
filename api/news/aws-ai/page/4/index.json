@@ -2,6 +2,145 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-01-24-nvidia-teams-up-with-equinix-to-bring-generative-ai-training-to-data-centers.md",
+      "title": "NVIDIA Teams Up With Equinix to Bring Generative AI Training to Data Centers",
+      "excerpt": "NVIDIA Teams Up With Equinix to Bring Generative AI Training to Data Centers Your email has been sent Equinix Private AI can now run on NVIDIA DGX, a supercomputing platform for enterprise AI. Customers are asking for secure AI that can use current data ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/nvidia-equinix-generative-ai-stack-data-centers/",
+      "originalUrl": "https://www.techrepublic.com/article/nvidia-equinix-generative-ai-stack-data-centers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.techrepublic.com/uploads/2024/01/tr_20240125-nvidia-equinix-generative-ai-stack-data-centers.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-24T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-aws-rival-wasabi-acquires-curio-ai-to-add-intelligence-to-its-unlimited-cloud-storage-offering.md",
+      "title": "AWS rival Wasabi acquires Curio AI to add intelligence to its unlimited cloud storage offering",
+      "excerpt": "Boston-based Wasabi Technologies, a data storage startup taking on the likes of AWS, GCP and other cloud vendors, today announced it has acquired machine learning platform Curio AI from GrayMeta ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/data-infrastructure/aws-rival-wasabi-acquires-curio-ai-to-add-intelligence-to-its-unlimited-cloud-storage-offering/",
+      "originalUrl": "https://venturebeat.com/data-infrastructure/aws-rival-wasabi-acquires-curio-ai-to-add-intelligence-to-its-unlimited-cloud-storage-offering/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-23T07:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-dentsu-mines-amazon-ai-hits-bedrock-sagemaker-too.md",
+      "title": "Dentsu Mines Amazon AI, Hits Bedrock (SageMaker, Too)",
+      "excerpt": "Bedrock and SageMaker (see explainer videos above and below, respectively) -- for the next generation of AI across Dentsu. While the holding company is continuing its own bespoke AI development efforts, it said it is embracing third-party and open-source ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mediapost.com/publications/article/392874/dentsu-mines-amazon-ai-hits-bedrock-sagemaker-t.html",
+      "originalUrl": "https://www.mediapost.com/publications/article/392874/dentsu-mines-amazon-ai-hits-bedrock-sagemaker-t.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/media.mediapost.com/dam/cropped/2024/01/23/screenshot-2024-01-23-at-102728-am_o0nq7eE.png",
+          "width": 600,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MediaPost",
+        "domain": "mediapost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-22-build-a-vaccination-verification-solution-using-the-queries-feature-in-amazon-textract.md",
       "title": "Build a vaccination verification solution using the Queries feature in Amazon Textract",
       "excerpt": "Amazon Textract is a machine learning (ML) service that enables automatic extraction of text, handwriting, and data from scanned documents, surpassing traditional optical character recognition (OCR). It can identify, understand, and extract data from tables and forms with remarkable accuracy. Presently,",
@@ -1176,144 +1315,6 @@
         "name": "TMCnet",
         "domain": "tmcnet.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-siemens-delivers-innovations-in-immersive-engineering-and-artificial-intelligence-to-enable-the-industrial-metaverse.md",
-      "title": "Siemens delivers innovations in immersive engineering and artificial intelligence to enable the industrial metaverse",
-      "excerpt": "Together with customers and partners including Sony, Red Bull Racing, Unlimited Tomorrow, and Blendhub, Siemens highlights how technology is transforming the everyday; Siemens par",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2024/01/08/9942490.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2024/01/08/9942490.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2312969/Siemens_CES_2024_Sony_01.jpg",
-          "width": 400,
-          "height": 234,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-05-virtusa-announces-strategic-collaboration-with-aws-to-accelerate-cloud-data-migration-and-it-modernization.md",
-      "title": "Virtusa Announces Strategic Collaboration with AWS to Accelerate Cloud Data Migration and IT Modernization",
-      "excerpt": "Virtusa Corporation, a global provider of digital strategy, digital engineering, and information technology (IT)",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/this-just-in/virtusa-announces-strategic-collaboration-with-aws-to-accelerate-cloud-data-migration-and-it-modernization/",
-      "originalUrl": "https://www.datanami.com/this-just-in/virtusa-announces-strategic-collaboration-with-aws-to-accelerate-cloud-data-migration-and-it-modernization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.datanami.com/wp-content/uploads/2024/01/Virtusa-298x300.jpg",
-          "width": 298,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-04T16:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-03-3-big-money-ai-jobs-in-the-us-tech-industry-to-banish-your-january-blues.md",
-      "title": "3 big-money AI jobs in the U.S. tech industry to banish your January blues",
-      "excerpt": "AI-related jobs offer 77.53% higher salaries than other occupations, and the pay gap has widened by 36% due to artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/programming-development/3-big-money-ai-jobs-in-the-u-s-tech-industry-to-banish-your-january-blues/",
-      "originalUrl": "https://venturebeat.com/programming-development/3-big-money-ai-jobs-in-the-u-s-tech-industry-to-banish-your-january-blues/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/01/nuneybits_vector_art_of_a_developer_sitting_in_front_of_a_scree_22e9f6b5-f27c-4ab6-a089-29b913248fae-transformed.png?w=1200&strip=all",
-          "width": 1199,
-          "height": 796,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-02T22:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

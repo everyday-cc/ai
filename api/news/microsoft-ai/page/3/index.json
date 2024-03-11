@@ -2,6 +2,94 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-16-google-microsoft-openai-make-ai-pledges-ahead-of-munich-security-conference.md",
+      "title": "Google, Microsoft, OpenAI make AI pledges ahead of Munich Security Conference",
+      "excerpt": "Google today launched an 'AI Cyber Defense Initiative and made several AI-related commitments, following a charge by Microsoft and OpenAI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/google-microsoft-openai-make-ai-security-pledges-ahead-of-munich-security-conference/",
+      "originalUrl": "https://venturebeat.com/security/google-microsoft-openai-make-ai-security-pledges-ahead-of-munich-security-conference/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 200,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/google_logo_with_a_giant_lock_and_data_vibrant-transformed.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-16T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security",
+        "Microsoft AI",
+        "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-16-piaget-stages-of-development.md",
+      "title": "Piaget Stages of Development",
+      "excerpt": "But he insisted that: Cognitive development always follows this sequence. Stages cannot be skipped. Each stage is marked by new intellectual abilities and a more complex understanding of the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.webmd.com/children/piaget-stages-of-development",
+      "originalUrl": "https://www.webmd.com/children/piaget-stages-of-development",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-16T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WebMD",
+        "domain": "webmd.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-16-googles-new-ai-hub-in-paris-proves-that-google-feels-insecure-about-ai.md",
       "title": "Google’s new AI hub in Paris proves that Google feels insecure about AI",
       "excerpt": "Some of Azure’s products are focused on AI, but it’s a much larger cloud provider with clients that have nothing to do with the AI industry. So it’s not just a Google thing.",
@@ -1297,75 +1385,6 @@
         "Google AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-assosia-and-simpson-associates-team-up-to-unlock-product-matching-potential-with-machine-learning.md",
-      "title": "Assosia And Simpson Associates Team Up To Unlock Product Matching Potential With Machine Learning",
-      "excerpt": "The Assosia-Simpson Associates POC explores the potential of ML to revolutionise product matching. By creating, training, and fine-tuning multiple models based on specific datasets, this project aims to unlock hidden connections and deliver tangible benefits, such as:",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1107827068/Assosia-And-Simpson-Associates-Team-Up-To-Unlock-Product-Matching-Potential-With-Machine-Learning",
-      "originalUrl": "https://menafn.com/1107827068/Assosia-And-Simpson-Associates-Team-Up-To-Unlock-Product-Matching-Potential-With-Machine-Learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T12:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-simpson-associates-become-the-key-delivery-partner-for-newly-launched-toex-capabilities-environment.md",
-      "title": "Simpson Associates become the key delivery partner for newly launched TOEX Capabilities Environment",
-      "excerpt": "Simpson Associates, leading data transformation consultancy and managed service provider, are thrilled that the Tackling Organised Exploitation (TOEX)",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2024-02/61355944-simpson-associates-become-the-key-delivery-partner-for-newly-launched-toex-capabilities-environment-399.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2024-02/61355944-simpson-associates-become-the-key-delivery-partner-for-newly-launched-toex-capabilities-environment-399.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T11:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

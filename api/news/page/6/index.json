@@ -2,6 +2,396 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2024-03-06-how-does-ai-support-creativity-a-marketing-perspective.md",
+      "title": "How does AI support creativity? A marketing perspective",
+      "excerpt": "Some might argue that creativity and AI only go together because leveraging AI for routine work paves the way to being more creative. But it's not as simple as that. AI can play a strategic role in creativity, and James Manderson, SVP of Customer Success at Braze, helps explain how.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/how-does-ai-support-creativity-marketing-perspective",
+      "originalUrl": "https://diginomica.com/how-does-ai-support-creativity-marketing-perspective",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2024-01/Untitled%20design-3.png",
+          "width": 740,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/how-does-ai-support-creativity-marketing-perspective?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-does-ai-support-creativity-marketing-perspective?amp",
+      "publishedDateTime": "2024-03-05T16:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-tackle-large-volumes-of-data-with-new-solution-from-slb-for-azure-data-manager-for-energy.md",
+      "title": "Tackle large volumes of data with new solution from SLB for Azure Data Manager for Energy",
+      "excerpt": "The Microsoft partner ecosystem is a key component in how Microsoft delivers technology, services, and cloud-to-edge solutions for our customers. SLB—one of Microsoft’s strategic partners in the energy sector—designed the Enterprise Data Solution to work seamlessly with Azure Data Manager for Energy,",
+      "sourceUrl": null,
+      "webUrl": "https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2024/03/05/tackle-large-volumes-of-data-with-new-solution-from-slb-for-azure-data-manager-for-energy/",
+      "originalUrl": "https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2024/03/05/tackle-large-volumes-of-data-with-new-solution-from-slb-for-azure-data-manager-for-energy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.microsoft.com/en-us/industry/blog/wp-content/uploads/2024/03/Getty_1260_Energy.jpg",
+          "width": 1260,
+          "height": 709,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-05T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-06-5-ways-leaders-can-win-hearts-and-minds-and-drive-resultswith-ai.md",
+      "title": "5 Ways Leaders Can Win Hearts And Minds, And Drive Results—With AI",
+      "excerpt": "Imagine a technology tool that helps you understand your team better and personalize interactions for maximum impact. Welcome to the world of AI-powered people leadership",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidhenkin/2024/03/05/5-ways-leaders-can-win-hearts-and-minds-and-drive-results-with-ai/",
+      "originalUrl": "https://www.forbes.com/sites/davidhenkin/2024/03/05/5-ways-leaders-can-win-hearts-and-minds-and-drive-results-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d3af767f50d19ebe29fa28/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 880,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidhenkin/2024/03/05/5-ways-leaders-can-win-hearts-and-minds-and-drive-results-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhenkin/2024/03/05/5-ways-leaders-can-win-hearts-and-minds-and-drive-results-with-ai/amp/",
+      "publishedDateTime": "2024-03-05T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-a-practical-guide-for-using-generative-ai-in-account-based-marketing.md",
+      "title": "A Practical Guide For Using Generative AI In Account-Based Marketing",
+      "excerpt": "• Account prioritization. With generative AI's prowess in analyzing datasets and recognizing patterns, you can optimize account scoring models, pinpointing the most promising accounts and streamlining the pipeline for more impactful results.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/05/a-practical-guide-for-using-generative-ai-in-account-based-marketing/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/05/a-practical-guide-for-using-generative-ai-in-account-based-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e5db42c2c694a887568254/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-05T15:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-ai-focused-blockchain-startup-io-research-raises-30-mln-in-series-a-funding-round.md",
+      "title": "AI-focused blockchain startup IO Research raises $30 mln in Series A funding round",
+      "excerpt": "March 5 (Reuters) - IO Research, an artificial intelligence (AI)-focused blockchain startup, said on Tuesday it raised $30 million in a Series A funding round from investors including Hack VC, Solana Labs, and cryptocurrency exchange OKX. IO Research's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/ai-focused-blockchain-startup-io-research-raises-30-mln-series-funding-round-2024-03-05/",
+      "originalUrl": "https://www.reuters.com/technology/ai-focused-blockchain-startup-io-research-raises-30-mln-series-funding-round-2024-03-05/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/BQTPEDP6BNLJHG7V5ZLSKDZ5BQ.jpg",
+          "width": 6285,
+          "height": 4190,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-05T15:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-autonomous-auto-racing-promises-safer-driverless-cars-on-the-road.md",
+      "title": "Autonomous auto racing promises safer driverless cars on the road",
+      "excerpt": "Race car driving provides a venue for improving AI-based autonomous driving tech. But can it still be thrilling for drivers and spectators?",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/autonomous-auto-racing-safer-driverless-cars-road",
+      "originalUrl": "https://thenextweb.com/news/autonomous-auto-racing-safer-driverless-cars-road",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F03%2FUntitled-design-5.jpg&signature=80383c64728c7c8b54efff34effb35e9",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-05T14:36:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-competition-in-ai-video-generation-heats-up-as-deepmind-alums-unveil-haiper.md",
+      "title": "Competition in AI video generation heats up as DeepMind alums unveil Haiper",
+      "excerpt": "Two DeepMind alums, Yishu Miao and Ziyu Wang, have publicly released their video-generation tool Haiper with its own AI model underneath. Miao, who was previously working at TikTok in the Global ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/03/05/competition-in-ai-video-generation-heats-up-as-deepmind-alums-unveil-haiper/",
+      "originalUrl": "https://techcrunch.com/2024/03/05/competition-in-ai-video-generation-heats-up-as-deepmind-alums-unveil-haiper/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/03/Haiper-Image.jpeg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/03/05/competition-in-ai-video-generation-heats-up-as-deepmind-alums-unveil-haiper/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/05/competition-in-ai-video-generation-heats-up-as-deepmind-alums-unveil-haiper/amp/",
+      "publishedDateTime": "2024-03-05T13:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-ecs-awarded-190m-aiml-contract-from-devcom-army-research-lab.md",
+      "title": "ECS Awarded $190M AI/ML Contract from DEVCOM Army Research Lab",
+      "excerpt": "ECS, a leader in advanced technology, science, and engineering solutions and an ASGN (NYSE: ASGN) brand, received a three-year, $190 million contract from the United States Army Combat Capabilities Development Command (DEVCOM) Army Research Lab (ARL).",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-ecs-awarded-190m-aiml-contract-from-devcom-army-/2024/03/05/9972612.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-ecs-awarded-190m-aiml-contract-from-devcom-army-/2024/03/05/9972612.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-05T13:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2024-03-05-orlando-health-embraces-cutting-edge-robotics-technology.md",
       "title": "Orlando Health Embraces Cutting-Edge Robotics Technology",
       "excerpt": "Robotic arms of a robotic surgical system demonstrate how doctors at Orlando Health Cancer Institute use the system during procedures for treatment of lung cancer. Orlando Health recognizes the pivotal role of technology in providing high-quality healthcare.",
@@ -344,6 +734,40 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-baidu-a-cheap-ai-play-ignored-by-the-market.md",
+      "title": "Baidu: A Cheap AI Play Ignored By The Market",
+      "excerpt": "Baidu's shares are trading near 1-year lows despite better-than-expected earnings for Q4. The company's AI chatbot, Ernie, is seeing momentum and is being integrated into Baidu's digital marketing ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4675900-baidu-a-cheap-ai-play-ignored-by-the-market",
+      "originalUrl": "https://seekingalpha.com/article/4675900-baidu-a-cheap-ai-play-ignored-by-the-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-05T11:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -762,410 +1186,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-concern-as-the-gambling-industry-embraces-ai.md",
-      "title": "Concern as the gambling industry embraces AI",
-      "excerpt": "But as well as offering the gambler more of what they want, the AI is also being developed to recognise \"key behavioural shifts\" that might indicate the customer has a problem. That might be repeated losses or loss chasing, impulsive behaviour and overall spending.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/business-68304137",
-      "originalUrl": "https://www.bbc.co.uk/news/business-68304137",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/2D80/production/_132684611_danny.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/business-68304137.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-68304137.amp",
-      "publishedDateTime": "2024-03-05T00:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-amds-big-moment-to-challenge-nvidia-dlss-could-come-this-year-as-exec-hints-at-fsr-getting-ai.md",
-      "title": "AMD’s big moment to challenge Nvidia DLSS could come this year, as exec hints at FSR getting AI",
-      "excerpt": "That’s where hardware acceleration comes into play, and so if FSR does get an infusion of AI, it’ll need something to drive that – whether that’s an NPU or dedicated GPU cores (like Nvidia ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/computing/gpu/amds-big-moment-to-challenge-nvidia-dlss-could-come-this-year-as-exec-hints-at-fsr-getting-ai",
-      "originalUrl": "https://www.techradar.com/computing/gpu/amds-big-moment-to-challenge-nvidia-dlss-could-come-this-year-as-exec-hints-at-fsr-getting-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/A39nzTUo5bsA7DnfJ4seGm-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-aws-to-launch-saudi-arabia-data-centers-as-part-of-5bn-investment.md",
-      "title": "AWS to launch Saudi Arabia data centers as part of $5bn investment",
-      "excerpt": "Amazon Web Services (AWS) has continued its recent global spending spree by announcing plans to launch a new infrastructure region in Saudi Arabia by 2026 as part of a major investment in the area. The investment, worth a total of around $5.3 billion, aims ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/pro/aws-to-launch-saudi-arabia-data-centers-as-part-of-dollar5bn-investment",
-      "originalUrl": "https://www.techradar.com/pro/aws-to-launch-saudi-arabia-data-centers-as-part-of-dollar5bn-investment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/nbiGh8Hmf4qRxBs6jhftok-1200-80.jpg",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-hack-your-brain-free-online-science-escape-room-for-kids.md",
-      "title": "Hack Your Brain: Free Online Science Escape Room For Kids",
-      "excerpt": "Join groundbreaking projects like Neureka, where you can play games and share your feelings to understand mental health evolution, and the Online Memory Training Study, where you’ll engage in memory-boosting exercises and cognitive tests from home.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencefriday.com/articles/hack-your-brain/",
-      "originalUrl": "https://www.sciencefriday.com/articles/hack-your-brain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sciencefriday.com/wp-content/uploads/2024/03/Hack-Your-Brain-temp.png",
-          "width": 1600,
-          "height": 1056,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Friday",
-        "domain": "sciencefriday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-house-session-part-1.md",
-      "title": "House Session, Part 1",
-      "excerpt": "2024-03-05T13:59:54-05:00https://ximage.c-spanvideo.org ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.c-span.org/video/?533998-2/house-session-part-1#!",
-      "originalUrl": "https://www.c-span.org/video/?533998-2/house-session-part-1#!",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "c-span",
-        "domain": "c-span.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-how-artificial-intelligence-could-trigger-a-natural-gas-boom-in-europe.md",
-      "title": "How Artificial Intelligence Could Trigger a Natural Gas Boom in Europe",
-      "excerpt": "Cutting-edge AI technology and Machine Learning is transforming gas exploration in Europe, enabling companies to uncover hidden reserves and reduce drilling risks.",
-      "sourceUrl": null,
-      "webUrl": "https://oilprice.com/Energy/Natural-Gas/How-Artificial-Intelligence-Could-Trigger-a-Natural-Gas-Boom-in-Europe.html",
-      "originalUrl": "https://oilprice.com/Energy/Natural-Gas/How-Artificial-Intelligence-Could-Trigger-a-Natural-Gas-Boom-in-Europe.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2024-03-04_zv5ykbnbvc.jpg",
-          "width": 718,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://oilprice.com/Energy/Natural-Gas/How-Artificial-Intelligence-Could-Trigger-a-Natural-Gas-Boom-in-Europe.amp.html",
-      "cdnAmpWebUrl": "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Energy/Natural-Gas/How-Artificial-Intelligence-Could-Trigger-a-Natural-Gas-Boom-in-Europe.amp.html",
-      "publishedDateTime": "2024-03-05T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crude Oil Prices",
-        "domain": "oilprice.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-medeloop-partners-with-mila-to-leverage-artificial-intelligence-in-health-technology.md",
-      "title": "Medeloop Partners with Mila to Leverage Artificial Intelligence in Health Technology",
-      "excerpt": "Beyond its pivotal role in advancing research, Medeloop specializes in supporting clinical care and outpatient therapy. By providing a seamless platform for remote patient monitoring, Medeloop empowers healthcare professionals to extend their care beyond ...",
-      "sourceUrl": null,
-      "webUrl": "https://winnipegsun.com/globe-newswire/medeloop-partners-with-mila-to-leverage-artificial-intelligence-in-health-technology",
-      "originalUrl": "https://winnipegsun.com/globe-newswire/medeloop-partners-with-mila-to-leverage-artificial-intelligence-in-health-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dcs-static.gprod.postmedia.digital/15.6.0/websites/images/canada/fallback.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://winnipegsun.com/globe-newswire/medeloop-partners-with-mila-to-leverage-artificial-intelligence-in-health-technology/wcm/ac611357-4705-4d11-9bfe-cad60d65e440/amp/",
-      "cdnAmpWebUrl": "https://winnipegsun-com.cdn.ampproject.org/c/s/winnipegsun.com/globe-newswire/medeloop-partners-with-mila-to-leverage-artificial-intelligence-in-health-technology/wcm/ac611357-4705-4d11-9bfe-cad60d65e440/amp/",
-      "publishedDateTime": "2024-03-05T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "winnipegsun",
-        "domain": "winnipegsun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-ai-boom-in-data-centers-has-top-tech-companies-spending-more-than-major-oil-companies-on-capex.md",
-      "title": "AI boom in data centers has top tech companies spending more than major oil companies on capex",
-      "excerpt": "However, Larry Pfeffer, an equity-sector analyst in the industrials at the Wells Fargo Investment Institute, expects spending by the top four hyperscale tech companies to reach almost $200 billion annually by 2025, a boom that will have “ripple effects.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/ai-boom-in-data-centers-has-top-tech-companies-spending-more-than-major-oil-companies-on-capex-7639ad2a",
-      "originalUrl": "https://www.marketwatch.com/story/ai-boom-in-data-centers-has-top-tech-companies-spending-more-than-major-oil-companies-on-capex-7639ad2a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-93575517/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/ai-boom-in-data-centers-has-top-tech-companies-spending-more-than-major-oil-companies-on-capex-7639ad2a",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ai-boom-in-data-centers-has-top-tech-companies-spending-more-than-major-oil-companies-on-capex-7639ad2a",
-      "publishedDateTime": "2024-03-04T23:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-nvidia-becomes-teslas-successor-as-market-flips-from-electric-vehicles-to-artificial-intelligence.md",
-      "title": "Nvidia becomes Tesla’s successor as market flips from electric vehicles to artificial intelligence",
-      "excerpt": "There are plenty of differences between Nvidia and Tesla, from the products they make to the personalities of the men that run the companies. But the parallels are striking.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ocregister.com/2024/03/04/nvidia-becomes-teslas-successor-as-market-flips-from-ev-to-ai/",
-      "originalUrl": "https://www.ocregister.com/2024/03/04/nvidia-becomes-teslas-successor-as-market-flips-from-ev-to-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ocregister.com/wp-content/uploads/2024/03/OCR-Z-NVIDIA-TRILLION.jpg?w=1024&h=682",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.ocregister.com/2024/03/04/nvidia-becomes-teslas-successor-as-market-flips-from-ev-to-ai/amp/",
-      "cdnAmpWebUrl": "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2024/03/04/nvidia-becomes-teslas-successor-as-market-flips-from-ev-to-ai/amp/",
-      "publishedDateTime": "2024-03-04T22:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Orange County Register",
-        "domain": "ocregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

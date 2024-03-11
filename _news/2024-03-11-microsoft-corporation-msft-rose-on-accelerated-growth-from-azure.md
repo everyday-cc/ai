@@ -34,22 +34,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 94
-  - title: "Microsoft engineer warns company's AI tool creates violent, sexual images, ignores copyrights"
-    excerpt: "Shane Jones, who's worked at Microsoft for six years, has found a plethora of disturbing images that are being created by the company's Copilot Designer tool."
-    publishedDateTime: 2024-03-06T20:18:00Z
-    webUrl: "https://www.cnbc.com/2024/03/06/microsoft-ai-engineer-says-copilot-designer-creates-disturbing-images.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2024/03/06/microsoft-ai-engineer-says-copilot-designer-creates-disturbing-images.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/03/06/microsoft-ai-engineer-says-copilot-designer-creates-disturbing-images.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 93
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107380575-1709232114037-gettyimages-1755654626-porzycki-internet231030_npqRj.jpeg?v=1709685511"
-        width: 3603
-        height: 2402
-        isCached: true
   - title: "Sonata Software integrates its AI solution with Microsoft Azure AI"
     excerpt: "Sonata Software has announced the integration of its Harmoni.AI with Microsoft Azure AI service. Sonata’s AI offering provides industry solutions, service delivery platforms, and accelerators. Using Microsoft Azure AI services, Sonata Harmoni.AI will ..."
     publishedDateTime: 2024-03-08T06:14:00Z
@@ -115,17 +99,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 57
-  - title: "Microsoft ignored safety problems with AI image generator, engineer complains"
-    excerpt: "Shane Jones said he warned management about the lack of safeguards several times, but it didn’t result in any action"
-    publishedDateTime: 2024-03-06T20:58:00Z
-    webUrl: "https://www.theguardian.com/technology/2024/mar/06/microsoft-ai-explicit-image-safety?ref=mc.news"
-    ampWebUrl: "https://amp.theguardian.com/technology/2024/mar/06/microsoft-ai-explicit-image-safety"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/mar/06/microsoft-ai-explicit-image-safety"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 51
   - title: "Better Artificial Intelligence (AI) Stock: Nvidia vs. Microsoft"
     excerpt: "Nvidia and Microsoft are both promising plays on the AI market, but Nvidia's simpler business model, higher growth rates, and more reasonable valuations make it the better buy. Nvidia's investors should keep an eye on the competitive and regulatory headwinds, but it could be years before any of those challenges limit its growth."
     publishedDateTime: 2024-03-10T13:59:00Z
@@ -135,20 +108,6 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 49
-  - title: "Sonata Software Supercharges Harmoni.AI with Microsoft Azure AI to Drive Responsible-First AI Adoption Across Enterprises"
-    excerpt: "Sonata Harmoni.AI, integrating Microsoft Azure AI services, will help customer reimagine business with Generative AI, differentiating themselves in the marketplace . BANGALORE, In"
-    publishedDateTime: 2024-03-07T12:34:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/03/07/9974547.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 44
-    images:
-      - url: "https://mma.prnewswire.com/media/689012/4257625/Sonata_Software_Logo.jpg"
-        width: 400
-        height: 279
-        isCached: true
   - title: "Sonata Software Supercharges Harmoni.AI with Microsoft Azure AI to Drive Responsible-First AI Adoption Across Enterprises"
     excerpt: "The leading Modernization Engineering company, Sonata Software (NSE: SONATSOFTW), (BSE: 532221) in a significant step to accelerate the adoption of responsible-first AI across enterprises has announced the integration of Sonata Harmoni."
     publishedDateTime: 2024-03-07T18:35:00Z
@@ -160,6 +119,15 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 44
+  - title: "HIMSS24: Microsoft launches AI group with 16 health systems"
+    excerpt: "Microsoft said the group would create a process where providers can register for the usage of AI in clinical settings and offer tools to enable measurement of outcomes associated with the technology."
+    publishedDateTime: 2024-03-11T14:28:00Z
+    webUrl: "https://www.modernhealthcare.com/digital-health/mass-general-brigham-medstar-health-microsoft-ai-advocate-johns-hopkins"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 34
   - title: "Veeam To Jointly Develop AI Solutions With Microsoft For Industry's #1 Data Protection And Ransomware Recovery Platform"
     excerpt: "Veeam to co-sell newly announced Veeam Data Cloud for Microsoft Azure and for Microsoft 365 with Microsoft which builds on the world's #1 data protec"
     publishedDateTime: 2024-03-07T21:03:00Z
@@ -183,6 +151,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 25
+  - title: "Sonata Software Supercharges Harmoni.AI with Microsoft Azure AI to Drive Responsible-First AI Adoption Across Enterprises"
+    excerpt: "Sonata Harmoni.AI, integrating Microsoft Azure AI services, will help customer reimagine business with Generative AI, differentiating themselves in the marketplace BANGALORE, India, March 7, 2024 /PRNewswire/ -- The leading Modernization Engineering ..."
+    publishedDateTime: 2024-03-07T00:00:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2024/03/07/sonata-software-supercharges-harmoni-ai-with-microsoft-azure-ai-to-drive"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 24
 
 secured: "TsOAxqNIqyIRbufnbsedrSa7eN4FIhgt45jiYWaKEm4zXgOIseg3Zx+6d1CPgx9+I8jmOLQVWHfBA9aH3SfP8cWOiU+ieYQ9VdeBDz75TKddNC6fjfQKRS1nnlkxeu2gEWd9dTNN4RpgvWZ7XBQVHZqtQQnY0E4mdaQN1IHYjvVCYav2Xt9GW39usAXtdDV90fnY0daWKE5QB1Y0IjIhAgKGNkQpQ+WM5y22IDa6vkebSp6dHLmrp98PRnTyYSOEU8E/COVcBhkdzaHTm8nD4dO5S6OBV2B8K9qpSZ/AH3BtGYOBlQlTWlScKUiOx60uo4N9CH3BHH6sUHMIs4rwGcISc0nuwzR+gFv+7LyimDxIJfEGzXMXR/yp+PrA2vRXH7ntlFpdvC3OuNbhHNlV8ptVgWpgsjQsPnNX/NVKwJXCCb03zujCA6aP/rkj9mUUKcq2MX2fSf1wwAYGxAVjfTvVNhvWL6Pj4AETbpToB55XxdPPay2Svr9NIhkw2AtZyYfi3vcuTpHgwsm2FDpNBA==;NTCNMyPPb8MEBm3dLAfY/A=="
 ---
