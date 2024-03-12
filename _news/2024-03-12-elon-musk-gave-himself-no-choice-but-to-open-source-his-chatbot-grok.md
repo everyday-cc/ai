@@ -7,8 +7,8 @@ originalUrl: "https://www.wired.com/story/elon-musk-no-choice-open-chatbot-grok/
 webUrl: "https://www.wired.com/story/elon-musk-no-choice-open-chatbot-grok/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Wired
@@ -38,6 +38,15 @@ related:
       name: Inc
       domain: inc.com
     quality: 19
+  - title: "Elon Musk makes Grok AI open source amid ongoing OpenAI lawsuit"
+    excerpt: "In a move likely fueled by his lawsuit against OpenAI, Elon Musk is open-sourcing his own AI chatbot, Grok, which rivals ChatGPT. Grok boasts real-time information access and tackles tough topics, unlike many AI systems."
+    publishedDateTime: 2024-03-11T11:09:00Z
+    webUrl: "https://cointelegraph.com/news/elon-musk-open-source-grok-ai"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 17
 
 secured: "wILT7Rw2XoxhnLvtUJbsi56z5S/PfaQYsxwubU/mKp8767bwp66WtgXEO/rOqoPYlniHqnPuTPvH13YvF7hOZnj2IEZ+acCvAYj7SppFwoBYaGo1EJfMoTlmSTiED0i/9HRoO+7cT+en5ogKm3CgNkJjkpPOOi5WWXEAxZqfPE6iyKD3lQLykOCSjytLPDp4ccp7s2DVi04N8P6stYZBFbPIO6CN/6kprMiDz22LgKMYnaxKVAV+XMPteZe6dAQJAvUcosnKzTNS86Ign/zkdaS1cGbvrsNpRc5BlcTAXokiYbouLVBa6OsSyCLB2mY2PPJC+gy7ICzSfNIwWyi6rrOvzhTeD8Ycth1KId35SGI=;xFCulY+CveNhYgOdQB3zwg=="
 ---

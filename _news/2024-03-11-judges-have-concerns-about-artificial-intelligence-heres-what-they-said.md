@@ -2,9 +2,9 @@
 category: news
 title: "Judges Have Concerns About Artificial Intelligence: Here's What They Said"
 excerpt: "I am concerned that AI can be used to alter or even manufacture evidence, said Cobb Judicial Circuit Chief Judge A. Gregory Poole. I am not sure how we will deal with this or even, in some cases, recognize a problem."
-publishedDateTime: 2024-03-11T14:25:00Z
-originalUrl: "https://www.law.com/legaltechnews/2024/03/11/judges-have-concerns-about-artificial-intelligence-heres-what-they-said/"
-webUrl: "https://www.law.com/legaltechnews/2024/03/11/judges-have-concerns-about-artificial-intelligence-heres-what-they-said/"
+publishedDateTime: 2024-03-11T14:27:00Z
+originalUrl: "https://www.law.com/dailyreportonline/2024/03/11/judges-have-concerns-about-artificial-intelligence-heres-what-they-said/"
+webUrl: "https://www.law.com/dailyreportonline/2024/03/11/judges-have-concerns-about-artificial-intelligence-heres-what-they-said/"
 type: article
 quality: 51
 heat: 51
@@ -23,6 +23,6 @@ images:
     height: 633
     isCached: true
 
-secured: "yuy+AwZAf+0xGdbYJOmXT5StuNJZf/do9lznGWQuGBuH1vs/qKfFs+63KsQjwv2tyOCHk5hHeIeTCXfQm3WtN7YHXWzAQXW0WQ4A+PV/gMv9/5F6UHwNiodJXIRMshO4UPYG7IQgdfp6/xvST7M0zxb1S5vF7qdYLBHmS/2Pnuo44IzZzgf8k3mKvBpZotqNTiNCWUWG/f2EhhI/214/6HPPSkQfh5xCMZSnOz4nA4x8rx1sftR6F5oXFGKbqoaoV6GjIZ+6InkSMI9mm+70SHevWcUHxRZWnwmqO2i1UN/Op3fJWlbBZaQPJywR66/g5uICvrPICg003h2GowN7LbVtq4deFwVL24f1NhhPR8uN5HfzsFgWjhMZJpFCgZR/bI94rsIQiWxxVr1DcNPEPQ9DtrETjEuG8+//UyUw5fiht0y+BxmsaMImuQUmKLQJqNCDApn0i7qyFoeSGkKJk5NnLpugx4WiGhtlsURg8cdGBLJ/YR88bHG+rlI8M/eYEM2BqKmUGGUFBzSoxXmanA==;AHGerFlFIKHvJddlI/I61Q=="
+secured: "2AbDKaWanbG9TswxZPwOaFPRVQAH3DFt0evHEoduO+0AaBipcRr+Tnw04CQiRWH55TPC/WRMG3G2B6ObbDble4wfqXgbHnG+fUhFD9Bet9VOgoe/rru2E7QjOAqURK7BEpm48PdtcmC0zswxVh5gHzovoQlZvDpKIwHDypZOBuqaIQvohpYYembU6cM5asCVZ/MOLr0L25uqGOyrptT5gE9Yq6FCqN3sypShbLLDdYizd3SMVLIjV2s3TcB/MXLQWsknB3bq7NnvOa8A1JsUHYorMD6LIEyrjzVJIALz/c0O0IFHnZI2CZh00dlfEv4MEmhuAnnF4c8OUdHkKd5ulOl7AsW61LWri5eyWfQfj8Q=;iWW945YzmvrNaWpG45fqAw=="
 ---
 

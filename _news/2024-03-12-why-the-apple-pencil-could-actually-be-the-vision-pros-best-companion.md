@@ -48,6 +48,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Apple Vision Pro isn’t as innovative as you think"
+    excerpt: "While workers of physical cubicles could return home with the peace of mind that their cubicle would stay behind, the Vision Pro ensures that your cubicle is now digitally manifested in $3,500 goggles attached to your head."
+    publishedDateTime: 2024-03-11T23:52:00Z
+    webUrl: "https://www.michigandaily.com/opinion/the-apple-vision-pro-isnt-as-innovative-as-you-think/"
+    type: article
+    provider:
+      name: The Michigan Daily
+      domain: michigandaily.com
+    quality: 24
+    images:
+      - url: "https://www.michigandaily.com/wp-content/uploads/2024/03/unnamed-19.png"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "Healthcare pros show interest in Apple's Vision Pro — survey"
     excerpt: "Up to 75% of US healthcare professionals are open to exploring the use of Vision Pro devices at work, survey claims."
     publishedDateTime: 2024-03-11T13:45:00Z
@@ -67,6 +81,6 @@ related:
       domain: beckershospitalreview.com
     quality: 21
 
-secured: "OfKOdX6M9NXkf875fD+Az+GCod8I6YjFE5gIp1jY/2FDSUBwOW5cGDDdTB89pPBPo6ERYMPLMbgFYiSxYG5UMuneJgF+IvVN3/zX1Buh3oz3UuDSPiIDUzWyULcz14jTS5Bvr0lseA6KkpVmpLorzJU/4DBMfv1vuoRYjWfdRKZ5t+sgRH6zjrkQiJ4I+FKXjA41niRk8l+03n4dTDPA0F49kZZ0kvtWYisMK2IHFFCbzOhksWyN2BAeFtHM8+J3mZbWbjSJQQmQVv5O9vS98qKNW9ldImisKfS2EZV+kL6v3aoeTFZHqI35PfInQ6m/0Alng+stJdyqzSm22o15+zFw7oHZaJt771lkrwpUSio=;MIpekOl/3xrLWm5oWDj7ZA=="
+secured: "OkNYmHL39qYYa6BoW9bcYZG5n+skJ5MBqIXaRhRc+B+xFx6sQ4ppm2vUxQ7ZjNtLBOyltAhb75X2SOwqPIGUYaKehtAkIDy9VThmj8ivEr7u3ohO1v7mdwoS3AuPvPd8ntslJnlhOSz7RNJmMdCb0QuorYPNbEWdSvZngHzBiRRjn1kaBOTI+GXAWxAVNdXzr5hFzrRjWet1uQJfkqfnTwUwxj0vvkHZX+j1cxWeECwTlXMIcwvaFn1npldxvx+7odSAtwvaV84rewmvLZtx3MMRg4abmwByC8Q271H3NCJk5JAyafx397R6b5J5EdBjdfg5OFNvslK0wFwd3ct3qteDi9c2iMn+2A37FckJqA+9LEEdgfsqcKMt8pzjrKqzAe5IHzQGxeYq60tIdQTExyoVWI8Ay7kbJvNSHAiia4VNT13jwJzJZ48xqcc/q0s0zJVG5U0O06LjdoPeLsJVB5Ahj3V/z5LhO+kRPpTm57iW1LJ/eMprQPzPYUALOyTEsCf9F/W2cLTc7x/iVyWoJw==;v4I6YMOZq6Rw9qn7ihh48w=="
 ---
 

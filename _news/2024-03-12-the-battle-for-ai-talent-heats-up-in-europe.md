@@ -33,7 +33,7 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 47
+    quality: 49
   - title: "What the fierce AI talent war in Europe means for IT professionals as well as IT companies like Google and others"
     excerpt: "A surge of artificial intelligence (AI) startups is intensifying competition for skilled workers in Europe, forcing established players like Google De."
     publishedDateTime: 2024-03-11T10:48:00Z
@@ -60,6 +60,6 @@ related:
       domain: aol.com
     quality: 17
 
-secured: "QXKXJBRSSDB6Rq4bIJnAj0av7ARRlRq0VFOTUfGl4/fL53t8qUap4EWJSM22KrBuPRxzsPFbBYo8SELfSIMjgL/uFZYld01onbp5ooYpJCPkFTbAwUhxc+P7xppaYb/rIrr6y0UOBgqrFw4NTC9KkXads1RueI9tJXVJuwvEaF7w6mu60gbPtwN+0NkVtgZzJg7Iq12uF6VGWY0sGuCZBysRYRu9uyYObJ7fPF0rGdAEnfkSTozywAOdAWlfvEEci9z5xvmbMgwBm/1dyzpDVR80e91dTDx65eXk0NV15sNJyEPiCL7TjtwZfYaRIyhzShR3NAFBHm7fMtlVBj/pCZwlxPc1wVIMLPpvcXgu3pM=;DhYXB9BMfgGxowN+wpqfbA=="
+secured: "L7kevVzXmP1kttjD8q1wJfCC1hWJE+ci/pUZw3mEHMNGLg14zha1IQe64WPHPhEvqry3zzzOXGv9k7/71YToaEDrFSM6QdD04ra3qHTi07yVWhzTmCSvaqxuBVG2ys8pufQvHdsrLklEM+YXLz+KFaUJJEgOGcf6Mn60Y9VEP3Wl4IigerkTLpijYzjvXyKNGHgbj/hh9hVfusfw3VbD2vzo/uWxc+0izFDB8chpn9dEveHHFqxxIQKusH1zr06ypP5USM/iKsCb2PNa7cfsaMv0OBqVv9szJ9XZoVunHXgujJaq61gSpKRSApmfGIS+Hb+gXhQcHoaXDVJao10Q+zny0Is57dxhZDfySOo9+ZYAnpoV7uZ2WzUthNPv5UJx8MnGpvGd9csVKRS+kFmstmrg6xpG82I8KEj4lMk9V1Ae1LGOImQ5jUFIp22L0JvGCH5GJ4xo6ksNYNfIl0ryoQNZOUdAbzChx9AqtU94GvFWXdbuTHGvC8sIdQ5bJh2QHVA/umRf7i293zOeqRU1mw==;0juMkPZiTC/HXJk7nkIZrw=="
 ---
 

@@ -83,15 +83,6 @@ related:
       name: The Sun News
       domain: myrtlebeachonline.com
     quality: 34
-  - title: "Airports using biometric facial recognition in Washington"
-    excerpt: "The next time you're in a security line at the airport, you may find that instead of a Transportation Security Administration officer checking your ID, a camera and screen will use biometric facial recognition to confirm your face and photo ID match and ..."
-    publishedDateTime: 2024-03-07T02:17:00Z
-    webUrl: "https://www.bellinghamherald.com/news/local/article286376695.html"
-    type: article
-    provider:
-      name: The Bellingham Herald
-      domain: bellinghamherald.com
-    quality: 34
 
 secured: "w6+1AykijKavBUHnHTuiRsbUy6URAOZwbFGS6UZ95Wjz/tsfYQsD0utfft01cJ7g0lci5bxoUU5pCmz5p6QMneAkhVkNMvV0MoR63y8IAETTwDrIscbSHP6HS7TJJTI0Nl1isHQY5bjXGykNgahsR+OPi75bHxqYqPaAQApvAIJb9AgvYoEm+8SCLFHF6ohIWEAXGt2K/PK7mnPlzWEOpj2s+fFzxjXPDfK8yekihOGLNU6ON4OXudA/Ai0614mImaU+1lb9UIDVEULk5NNSy3loDw7pGv53fQZSluTDC184DE2Z3kRoY8wXRu1uj4jgOgr60Dp0N7S3t0Md1jkOV/11EOwDYfyeg5LZQHVyDP+XaLu0MyypiRdLnd0PZshj37bGDxZDy9DEZnT2CATZZ0IoWMd0UZpW7F83NP0px8P1e/T03fpvg7nrTCwyYTmCHW+dbkPoMg2n5eenP/fKIPqAP9COhoFJjHAFk1b2JHJ1qqe0M6QvZQS/vxYiM9zLLJIhieqmGo832WbDUZZ5hQ==;wlLgwGslNXFvXKq5B1t8dQ=="
 ---

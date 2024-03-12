@@ -19,31 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "Elon Musk sues Open AI and co-founder over alleged switch to for-profit"
-    excerpt: "Elon Musk has sued the non-profit Open AI and it's co-founder Sam Altman over the company allegedly moving to a for-profit company. Open AI responded to the claims by releasing e-mails between the company and Musk."
-    publishedDateTime: 2024-03-07T03:28:00Z
-    webUrl: "https://www.nbcnews.com/now/video/elon-musk-sues-open-ai-and-co-founder-over-alleged-switch-to-for-profit-205623365638"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo205623365638"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo205623365638"
+  - title: "Musk’s Lawsuit Against OpenAI Sparks Heated Debate Over AI Transparency"
+    excerpt: "The controversy began when Musk, the CEO of Tesla and SpaceX, filed a lawsuit against OpenAI, alleging that the company had misused his contributions and violated"
+    publishedDateTime: 2024-03-07T19:38:00Z
+    webUrl: "https://www.forbes.com/sites/jemmagreen/2024/03/07/musks-lawsuit-against-openai-sparks-heated-debate-over-ai-transparency/"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 87
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "A World Divided Over Artificial Intelligence"
+    excerpt: "In November 2023, a number of countries issued a joint communique promising strong international cooperation in reckoning with the challenges of artificial intelligence. Startlingly for states often at odds on regulatory matters,"
+    publishedDateTime: 2024-03-11T04:21:00Z
+    webUrl: "https://www.foreignaffairs.com/united-states/world-divided-over-artificial-intelligence"
+    type: article
+    provider:
+      name: Foreign Affairs
+      domain: foreignaffairs.com
+    quality: 37
     images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2024_03/1709782067597_now_topstory_musk_open_ai_240306_1920x1080-na2ess.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2024/03/07/RTSWGMSK.JPG?itok=wW0VNQi8"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Elon Musk makes Grok AI open source amid ongoing OpenAI lawsuit"
-    excerpt: "In a move likely fueled by his lawsuit against OpenAI, Elon Musk is open-sourcing his own AI chatbot, Grok, which rivals ChatGPT. Grok boasts real-time information access and tackles tough topics, unlike many AI systems."
-    publishedDateTime: 2024-03-11T11:09:00Z
-    webUrl: "https://cointelegraph.com/news/elon-musk-open-source-grok-ai"
-    type: article
-    provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
-    quality: 17
 
 secured: "/lfTEkB+h1Uqvbl1X2HYM6RvQ622fXFwH9IJR68zvgTM/Dd9Eq/BOYVqfoQGSyt5j/Z/0GS50LbJHVmRO18gatKHu3pQwSLxRxjepOVGFA9E+6+EMsCeStcXrkem0QapJ7xjCEgILCuodprU3xFtmXZclvQ9mdPG/aXyQqYZgA3/1MrbvgTmASOfO8I2oEvB5EicjcvreHcEW5zWT0kKxQ790Qs1qpqXXn6Zs3bfE2i1qeOZWgwNqe8LPOTlXbjHTkhXarUxFxvtVIUfzyssQNsZ3hq2RIRLcZDIr9/1JUtMbJXhioXBH1k9Ae/BKyPz4f+KbLNPHb4BDCeElhXj1JVNPVwBLQhZzB2bC/RNN1s=;ozOnVRgIlaYE537q97Fjng=="
 ---

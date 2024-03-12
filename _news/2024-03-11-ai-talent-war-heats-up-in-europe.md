@@ -6,8 +6,8 @@ publishedDateTime: 2024-03-11T05:03:00Z
 originalUrl: "https://www.reuters.com/technology/ai-talent-war-heats-up-europe-2024-03-11/"
 webUrl: "https://www.reuters.com/technology/ai-talent-war-heats-up-europe-2024-03-11/"
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
 related:
   - title: "The Battle for AI Talent Heats Up in Europe"

@@ -35,7 +35,7 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 47
+    quality: 49
   - title: "The Battle for AI Talent Heats Up in Europe"
     excerpt: "The European scene is witnessing a heated battle for AI talent as an influx of startups intensifies the competition among tech giants."
     publishedDateTime: 2024-03-12T00:30:00Z

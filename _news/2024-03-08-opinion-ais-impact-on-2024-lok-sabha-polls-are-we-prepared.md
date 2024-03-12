@@ -35,7 +35,7 @@ related:
     provider:
       name: San Diego Union-Tribune
       domain: sandiegouniontribune.com
-    quality: 32
+    quality: 36
     images:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/cbecb88/2147483647/strip/true/crop/8032x4217+0+500/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9c%2F0e%2F7a799fa84faf93582ffb9c10a2af%2Fistock-1477458849-on.jpg"
         width: 1200
