@@ -28,28 +28,85 @@ images:
     isCached: true
 
 related:
-  - title: "The Importance of Ethical AI: Mitigating Bias in Machine Learning Algorithms"
-    excerpt: "In a world increasingly reliant on artificial intelligence, ensuring ethics and fairness in AI systems is more vital than ever. Join us as we delve into the crucial topic of mitigating bias in machine learning algorithms and explore the importance of ethical AI in shaping a more equitable future for all."
-    publishedDateTime: 2024-03-11T12:51:00Z
-    webUrl: "https://techbullion.com/the-importance-of-ethical-ai-mitigating-bias-in-machine-learning-algorithms/"
+  - title: "Glacier is training AI-powered recycling robots"
+    excerpt: "The future of recycling is here, and of course, it involves robots and artificial intelligence. Rebecca Hu, the co-founder of the robotics company Glacier, creates robots that help recycling plants separate and, well, recycle material. Before, sorting ..."
+    publishedDateTime: 2024-03-12T00:00:00Z
+    webUrl: "https://techcrunch.com/2024/03/12/glacier-is-training-ai-powered-recycling-robots/"
+    ampWebUrl: "https://techcrunch.com/2024/03/12/glacier-is-training-ai-powered-recycling-robots/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/glacier-is-training-ai-powered-recycling-robots/amp/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 72
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/03/Artificial-Intelligence.jpg"
-        width: 1000
-        height: 500
+      - url: "https://techcrunch.com/wp-content/uploads/2022/05/found-2022-featured.jpg?resize=1200,675"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "The Alarming Trend of Undress AI: A Deep Dive into Privacy and Ethics"
-    excerpt: "In an era where artificial intelligence (AI) is revolutionizing industries and daily life, a disturbing trend has emerged on the digital frontier. Websites and applications utilizing AI to digitally undress individuals in photos have attracted millions of users worldwide."
-    publishedDateTime: 2024-03-08T13:37:00Z
-    webUrl: "https://techbullion.com/the-alarming-trend-of-undress-ai-a-deep-dive-into-privacy-and-ethics/"
+  - title: "Using Generative AI To Help Cope With That Exploding Trend Of People Doing Abundant Ranting And Trauma Dumping On Others"
+    excerpt: "There is a rise in so-called trauma dumping. This involves people dumping out their expressed trauma. Generative AI can aid in coping with this in these sensible ways."
+    publishedDateTime: 2024-03-08T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/08/using-generative-ai-to-help-cope-with-that-exploding-trend-of-people-doing-abundant-ranting-and-trauma-dumping-on-others/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/08/using-generative-ai-to-help-cope-with-that-exploding-trend-of-people-doing-abundant-ranting-and-trauma-dumping-on-others/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/03/08/using-generative-ai-to-help-cope-with-that-exploding-trend-of-people-doing-abundant-ranting-and-trauma-dumping-on-others/amp/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65ea5df29887bd7e668e400d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Akamai, Neural Magic Partner To Deploy High-powered Deep Learning AI Software"
+    excerpt: "Cloud company Akamai Technologies Inc. (AKAM) announced Tuesday a strategic partnership with Neural Magic, a developer of software"
+    publishedDateTime: 2024-03-12T11:44:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/akamai-neural-magic-partner-to-deploy-high-powered-deep-learning-ai-software-1033154430"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
+  - title: "Apple is Reportedly Experimenting With an AI-Powered Ad Performance Tool"
+    excerpt: "Apple is reportedly experimenting with a new artificial intelligence (AI)-powered tool that will help advertisers promote their apps on its App Store. The new AI ad performance to"
+    publishedDateTime: 2024-03-12T07:27:00Z
+    webUrl: "https://www.gadgets360.com/ai/news/apple-ai-ad-performance-tool-experimenting-report-5223398"
+    ampWebUrl: "https://www.gadgets360.com/ai/news/apple-ai-ad-performance-tool-experimenting-report-5223398/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/ai/news/apple-ai-ad-performance-tool-experimenting-report-5223398/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 58
+    images:
+      - url: "https://i.gadgets360cdn.com/large/app_store_pexels_1710228296554.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Covariant develops video-generating AI model for powering warehouse robots"
+    excerpt: "The artificial intelligence model also lends itself to other tasks. According to Covariant, RFM-1 can generate short videos that depict industrial robots performing tasks such as moving merchandise between boxes. Those videos, the startup claims, can be used to equip industrial robots with the ability to plan their actions."
+    publishedDateTime: 2024-03-11T19:48:00Z
+    webUrl: "https://siliconangle.com/2024/03/11/covariant-develops-video-generating-llm-powering-warehouse-robots/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 52
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/03/covariant.png"
+        width: 718
+        height: 400
+        isCached: true
+  - title: "Fighting AI-Driven Cybercrime Requires AI-Powered Data Security"
+    excerpt: "For chief information security officers, the greatest cyber threat is ransomware, which criminals can now weaponize with AI to find weak points faster and wreak havoc in real time. In the face of ever-evolving cybersecurity challenges,"
+    publishedDateTime: 2024-03-12T18:50:00Z
+    webUrl: "https://hbr.org/sponsored/2024/03/fighting-ai-driven-cybercrime-requires-ai-powered-data-security-2"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
     quality: 34
 
 secured: "ksTKO+gdwsi7iXmEBBOzeFOS56lr2ydDyh4+XEUG0xX2fh9VeyhgS/ID7sZWJhlFRJvTMmg/lVTXwsverV30IzEYw1X7tyuSF/1qpjl+ND4niAUN2+gD8jgwRHMLhj+kPnct5RiYijhKri9qvhWQ4ElWrpN92juTJjhbQXSPeRRI7qCobWQUxRPNmA3zJJJ+jnchYhn9fcSHemRqubXx8jD3jS7QI2R1UOB/8sLCZ2p6XNmKv5TxBuwyjU0hQyVcT65MARIc/RIHpSThcZ64hdS/BKyGij6Z/aGNzSIIQzcrrjRE1nE7Gu5H/5S048bjQVGxLqMh+kmYGFoK859YGru4xOwcg0lCxxzdcDIHEqq6657G8L5q7KKdJK56bwQdrzCYktgUGzInQWuwsH03Chask7P1NwwBJSg3y8ZsQgJEaN/86XwAM34nMR3A81J7zBjlG/D37ZnZYqHDDzvXoBB1bLYak/PbIrt7vJGu3N6As5/khxPc/apu9Utha2xIaOCvdx2B+lkO6MBM8RmjyA==;eeHYGz4ywJf7ZC5Pdu0bHA=="

@@ -50,6 +50,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "High conviction stocks with exposure to AI in European data centers - MS"
+    excerpt: "Artificial intelligence data center energy use is expected to rise from 1% to 4% of total power consumption by 2035, according to Morgan Stanley’s Utility team."
+    publishedDateTime: 2024-03-12T18:39:00Z
+    webUrl: "https://seekingalpha.com/news/4078549-high-conviction-stocks-with-exposure-to-ai-in-european-data-centers-ms?feed_item_type=news"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 18
   - title: "Analysis-AI talent war heats up in Europe"
     excerpt: "An influx of artificial intelligence (AI) startups is heating up the battle for technical talent in Europe, leaving companies like Google DeepMind to choose between paying big or losing out on the region's best minds."
     publishedDateTime: 2024-03-11T13:03:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.fudzilla.com/news/graphics/58609-nvidia-blackwell-gpu-
 webUrl: "https://www.fudzilla.com/news/graphics/58609-nvidia-blackwell-gpu-rumours"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia, HP give data science a GPU boost"
-    excerpt: "The two tech companies will infuse enterprise AI workstations with GPU-powered data processing and model building software."
-    publishedDateTime: 2024-03-08T21:08:00Z
-    webUrl: "https://www.ciodive.com/news/nvidia-hp-ai-pc-workstations-data-science-gpu/709798/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 39
-    images:
-      - url: "https://www.ciodive.com/static/img/article-signup.png?320916100822"
-        width: 822
-        height: 822
-        isCached: true
   - title: "NVIDIA's Next-Gen GeForce 50 Series Blackwell GPU VRAM Specs Allegedly Break Cover"
     excerpt: "NVIDIA's Blackwell GPUs are slowly starting to show some signs of existence, with VRAM info being a potential indicator of its potential."
     publishedDateTime: 2024-03-12T14:33:00Z

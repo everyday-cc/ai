@@ -9,7 +9,7 @@ ampWebUrl: "https://www.firstpost.com/opinion/how-women-are-navigating-challenge
 cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/opinion/how-women-are-navigating-challenges-and-taking-centre-stage-in-the-ai-powered-technology-landscape-13746795.html/amp"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Mia Shah-Dand’s Race To Bridge The AI Gender Gap For A Human-Centred World"
+    excerpt: "Mia Shah-Dand is building a counter narrative to give voice and due credit to incredible women that shape technology– despite the stagnation in STEM, the gender pay gap, and the disproportionate funding gap."
+    publishedDateTime: 2024-03-12T21:32:00Z
+    webUrl: "https://www.forbes.com/sites/hessiejones/2024/03/12/mia-shah-dands-race-to-bridge-the-ai-gender-gap-for-a-human-centred-world/"
+    ampWebUrl: "https://www.forbes.com/sites/hessiejones/2024/03/12/mia-shah-dands-race-to-bridge-the-ai-gender-gap-for-a-human-centred-world/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2024/03/12/mia-shah-dands-race-to-bridge-the-ai-gender-gap-for-a-human-centred-world/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65f0c99fff7e5dec5192af17/0x0.jpg?format=jpg&crop=1306,735,x0,y325,safe&height=900&width=1600&fit=bounds"
+        width: 1599
+        height: 900
+        isCached: true
 
 secured: "1n+LidSr5Vr5pXXOBKRywYKp1WCLj3uytXSJpVEZBJOxq1tMlGYhvwgsf16Y605TZ5fhuRD9r08J/pxHE3aLbY2a2KAU5FHRQiBNNGb3+GS4s6Gckh1YNwMCSDtZK5avI/FZUUistl/HuK864hYjiNCANjIC31pMIjhAJs+3l068HXBUJT8RYvsikuDpuryJ8eG4Qx+qyMI/4MKfjuH8HjjkF5TONZVHh+8N/G0wWmAmPQZVScFUFCYG5z4RC3f0fC8Juj/oJI16K3nu39Ze8Mb89lK4Zk4KVCLjKgx/13Uq0d9ovYFBrpeH8v2lC5bqhN+umlM6/S6pMWdyZNaDZmpvgNhKnmeh6J7uBk4MPo4=;gUlq35pMFIf49DJqlITD4w=="
 ---

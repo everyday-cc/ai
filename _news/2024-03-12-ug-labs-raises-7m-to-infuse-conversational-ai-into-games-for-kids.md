@@ -6,9 +6,9 @@ publishedDateTime: 2024-03-11T20:30:00Z
 originalUrl: "https://venturebeat.com/games/ug-labs-raises-7m-to-infuse-conversational-ai-into-games-for-kids/"
 webUrl: "https://venturebeat.com/games/ug-labs-raises-7m-to-infuse-conversational-ai-into-games-for-kids/"
 type: article
-quality: 49
-heat: -1
-published: false
+quality: 69
+heat: 79
+published: true
 
 provider:
   name: VentureBeat
@@ -21,6 +21,12 @@ provider:
 topics:
   - Meta AI
   - AI
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2024/03/ug-labs-2.jpg?w=1200&strip=all"
+    width: 1200
+    height: 665
+    isCached: true
 
 related:
   - title: "Kaedim raises $15M to fund AI-based 3D asset creation solutions"
@@ -38,6 +44,6 @@ related:
         height: 676
         isCached: true
 
-secured: "t2QV5idfDW29+B0JwcoKfTE79K1Jy0t2ahTG+6FUV57xdhou8T9kcwKXRZlmj5ghGA1eg2bn3bFYtXBDNPM3/IrZNxaWwrOjKVKivxnPXBHZPPb3/Zh05BMHx4fH//j7hrE6+NW0ORa7VkNQTkxTYas/2hq//OPVEN/6YhKUkonOTFM+GVT3eGLK5N1PNn+U+8HS9fGkSTEXZerZf3xMNY7b2aKL+Y+MVqTOoW+poHAE+Qy/RnQpi2SROcCLcOjab75/skEBe7jj1uuVt2tXzjXE1JbjkY031f56ARH6kFLMv6Fou86s1kfKbP4sNaDi7OwKkaq5CqtKuOdygq17GyKTNOxhq9Jbbci4kxqxa9s=;beURkXB3MTfsur6+OFLPIw=="
+secured: "ecy/wY22WKanayuPjUP8/+EfeHQ7949aewOWXzjf1k+dlKRRqKj9/3o6FWxAp7KFI1HYmJ6kgN9E9Fx5vK2YH1YWIP3HkVf7wTnYSV1D3KwZHEinaeYBxSevgiPN8inM3fxCfguLNbW5G4q4iXC+wcOFlrjyYKUlu5WUu+PtzvVlNpV2PhtZt7jMAhqD7JigLVL/lO+2kYrl+hHmSxs7Svbt64hXYK0Ugg8M72ZVaG76yuaAPUwpbfOnZDvtzk4LvMMs9F01xwQskwEARLniCLV0gOADHwBzRHTfdDvGxudPYu6iUEUcKLeJhIlUM/U28WszmTzfuXfABTV+U2N1c8URUHv94nBt3/JcRDGoBWg=;DmMDH4ihdZcT9NKTuDWeaQ=="
 ---
 

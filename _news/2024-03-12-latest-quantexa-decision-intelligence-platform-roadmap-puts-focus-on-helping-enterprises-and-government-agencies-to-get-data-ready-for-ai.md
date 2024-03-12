@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Latest Quantexa Decision Intelligence Platform Roadmap Puts Focus on Helping Enterprises and Government Agencies to Get Data Ready For AI"
-excerpt: "Quantexa, a global leader in decision intelligence solutions for the public and private sectors, used the backdrop of QuanCon24, its annual customer and partner conference, to reveal its Decision Intelligence Platform roadmap,"
-publishedDateTime: 2024-03-12T16:08:00Z
-originalUrl: "https://www.aap.com.au/aapreleases/globenewswire1000928747/"
-webUrl: "https://www.aap.com.au/aapreleases/globenewswire1000928747/"
+excerpt: "Quantexa supporting rising wave of organizations using data, analytics, and AI to break down silos. Partnership with Microsoft makes Quantexa’s Decision Intelligence Platform im"
+publishedDateTime: 2024-03-12T16:38:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2024/03/12/9977076.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2024/03/12/9977076.htm"
 type: article
-quality: 6
-heat: 6
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: Australian Associated Press
-  domain: aap.com.au
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://www.aap.com.au/wp-content/themes/aap-news_theme/dist/assets/images/photos300x250.3ecdeb91.gif"
-    width: 300
-    height: 250
-    isCached: true
-
-secured: "TxrmGyX+XwZhfyb3r0+3OPVoUC17lNSRwuX1kRqlkxAXZJ7W+uDsoghDMjk0EPAnI+7CyhrY0B4A672TKeQzqnlDtNcatCw67Vy5KOV9kzZBSDlbQO+dx6L1ZItj8FzZRaoX12zT1YfMDdKqjIWTn/VF2Hf96k18OGSCHx/RW0b4Rd2URkqnMAiPFUR4Qm65x5K5+1wR7xH4taKjezlKqp9cY68pXT8WElbIot3dInOZd5RtL7SuH3MG4mkaL5H3YAykwMglEtps0q/Tx6oAIBtKbd86CL253u+CbMareMvYAvJt5Kqa5gnBkxhNqEbI8TGyxluLpJTXWL4V0JlZn49ecgcIp0SgZ90pgpvjUng=;nkMoaOs2m0XW5PODPWQ4Ww=="
+secured: "oA+jjPfGh7KY+ckdsjL6l1QxbO9Fwv3SpMT3CY7pS1zrlYLfhN+Xi1ffW+8PrPJpzEl+U56M3gJ1mYRZW+516fSPDkNCfCj2sGRhWOPvU/FvVhNJ4+4CbIvyR/pNiQ5iSlOpzUSsX47yChK0ANQFPLTnBtGfYzUDiWujgbdVYE3MhSTRDzzWIA9d7Jr1mJ3oQYMrME8POGBlyUNFT+/Tt3cfsjYciuGenbbp4vy4HJeQ3aMLK+fwmy65wqOU8fO+PeCscg5Vb9Br8+3b+GnZMoyohv4a7V534lma7YZ5dn8fRAo+OBYvujxqHUJRdijvkQwom3/FeAkD0tM12GpuuVMGYzsxdi4oh0X/DR17pCo=;7kLvx7SbWyFAbs+6rapr8Q=="
 ---
 

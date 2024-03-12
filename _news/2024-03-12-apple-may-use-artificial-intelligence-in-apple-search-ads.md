@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Apple has begun testing an AI-powered ad product similar to Google's Performance Max as it looks to supercharge its $7 billion ad business"
+    excerpt: "Expansion of this tool could lead to new ad placements across Apple's properties, experts said."
+    publishedDateTime: 2024-03-11T17:39:00Z
+    webUrl: "https://www.businessinsider.com/apple-tests-ai-app-store-ads-performance-max-2024-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 13
 
 secured: "hMkEQB9r21y6YIVDayOhxXMrbrcRduzbjJlHNQp3sqpuDnR4dW+jsGv78VJBI+67Kc1uH33mYWSnecpGfBdwlYW1x8quwSMc6cDIjRv4+Xd7eOFJv0jw6RLnuQbPZxpsOQFmaDNyCnSbYjAlgV6yc6fz8jat4he/Lo9jeaAfZ3xiXw2GkZh8bJtxFP0BmC2gWYGQJn9ujfIsrrJ++VhwRqc4cZ4M4sp3yCnVmjn4SnvzDMn+bKvBf9CNmCOzZCvfIXmkOD1PLMsX+7WnqNRRRVZszws654HptVNzTa6uIIj2D4FQjEYkGLTeTA4HQ48RfYC+RFZtbJZ/8om2gnkposEVnZHpWzQmVjCyFtG5tFo=;tu5m1i6GAqvH00At9RoOwA=="
 ---

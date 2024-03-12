@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google Engineer Allegedly Stole AI Secrets Then Became CEO Of A Chinese Startup: Here’s How"
-    excerpt: "In October 2022, he allegedly traveled to China where he was soon named chief technology officer for an AI startup in the country. By May 2023, Ding even conducted an investor meeting to try to raise capital for the new company he founded and named himself ..."
-    publishedDateTime: 2024-03-07T18:22:00Z
-    webUrl: "https://www.crn.com/news/cloud/2024/google-engineer-allegedly-stole-ai-secrets-then-became-ceo-of-a-chinese-startup-here-s-how"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 7
 
 secured: "7bFNXLKY82hH+yZTdPmMn+IQRIqrKGTaUQNUAQoeYdOL2eHdZQPRpG9YD0YJI0QBtoLi94yc6RwF2dSqBG8sviTSJ7MKLSkrvmelv0akusajlrCnfumNpO7vzyh+n47h9AiNyJ1H1cTnywkFLNDhjrjISlqh7zibY1S0ntfx6xkBxdMsrUqllM7TdlT9KugxF60jEhVlBssQwm9xUFIfMhOKQqTMga1f2FkX0ruwS6TSMy6A3y9Pwnxas4wLzzQh88pBcOVj8ybqM9mbgEYiB2nHhRGbC5HhsiaBWZmDPJXylBCIx2TVO6pdlP7Alz6fkXKZFtrMqXSsXgg/ltBcG5lZzYXGwkormk7oaTEVXGc=;LVjRWdOzIQURJ6Dp2Lw/+w=="
 ---

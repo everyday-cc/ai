@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Meta reveals details of two new 24k GPU AI clusters"
-excerpt: "Developed to support AI research and development in areas such as natural language processing, speech recognition, and image generation, the newly announced clusters both contain 24,576 Nvidia Tensor Core H100 GPUs. This is a significant increase over the original clusters, which contained 16,000 Nvidia A100 GPUs."
-publishedDateTime: 2024-03-12T15:12:00Z
-originalUrl: "https://www.datacenterdynamics.com/en/news/meta-reveals-details-of-two-new-24k-gpu-ai-clusters/"
-webUrl: "https://www.datacenterdynamics.com/en/news/meta-reveals-details-of-two-new-24k-gpu-ai-clusters/"
+excerpt: "Meta has shared the details of the hardware, network, storage, design, performance, and software that make up its two new 24,000-GPU data center scale clusters that the company is using to train its Llama 3 large language AI model. The new training cluster ..."
+publishedDateTime: 2024-03-12T00:00:00Z
+originalUrl: "https://www.datacenterdynamics.com/en/news/meta-reveals-details-of-two-new-24k-gpu-ai-clusters/?ref=upstract.com"
+webUrl: "https://www.datacenterdynamics.com/en/news/meta-reveals-details-of-two-new-24k-gpu-ai-clusters/?ref=upstract.com"
 type: article
-quality: 54
-heat: 54
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -18,12 +18,6 @@ topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://media.datacenterdynamics.com/media/images/115765602_299370047824506_6626355.2e16d0ba.fill-1200x630.jpg"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "HJVsaQZXHYhkCGq+53AkBjuDnJL5pw2WPR6VVZ3C48rQl/8UJTRdDjpDig6fyVMo3xw12YIzI3RYhn5593LDq01+1ccocynq/jYJNlC9ooZ4h0hE4U7dWmKNgllnwGlK+Rlbsnx0BkcQIAuoupGG9AW3L0Ve5mZHPKkB5EZImmQkye2vBH7+T5OS5gh1aje1Thc5Haq1GLc6A0xWeHN8DuOdOD2bzEf4sTuaS9Pbu80goIzlLJou/jvyFd+hKJ+LYnLP2l/BJS4J8eF6gVwmgzyMXsUd5uxHwV9wjDcbKbG0bQnGvob88dzPbVFcEbODjYoSARZhP7mr4Q2NzqiyGZUppMsgzsbY4hiMFgC4JOaZyxso36f3Fww8asad5DLdlkasyrv1tk7dri4Mi2Tc5cUOD8TnvArOE8lkBsJV+lzM/hxEpgaFQWxnQiz+6/GknctodMWd6mK8MWvRNlYhacwn8flK8q+voKFfa3ifyBgZ4aLUCwT5UBDfjUJkoZYZgVMEvrJJoc4ZDkdD56j20w==;YlcMc3cleFqR7a4+VbWzvg=="
+secured: "VX60o+Vcx98vuYWvrfs/wJ2KTGhH0Fa8UU04dqW3wn9q7I+2ww+ZBfo4yxQTE/+Xp5UOpv4Ki3XK0hLb+0G29Jd6UL7J/SPvdl0gE7Am71LR3gqb8UYhRTRXdDCIag9aSUlvwoCrZlZGiGqHJnBxZJgfqtjSGsiEUzDVVCqB0Ya2244k49aV9u0wDELQjk/+crtYMQ04lrhfiRz8BHFpLmSYKCc0sIq/Gt4oPyH25MDYkuvHX7EVm3zvs6iAyED8gm0rIB2jocMvuuWeN5flu4rmP6Ja+JT758mLUz/b0JyAPffFugc43kzDfvpBAZUx5kXN6lzB/imiv2XscR1RDCi8X6aQdd+rWzVbzMsX0LSsDoIWKI8jSiqcj8gJWBGsR2q9p1ssHGkdYRepJQOtVLk/YrEOnFA5bNuPUR5IpbRQ0xRIeKJkK73DXCWbIVxjU2jN8Eu0A0/FaecF67mQQxfe7GIvlhREF5jK0evdtQh/g4YwrHklvHwx2WSyffxh3vD9C0CBOmQ9gFMJU9VkPA==;uLB3wo4HB9gowqzSJyAN/A=="
 ---
 

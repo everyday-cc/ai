@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lesliekatz/2024/03/11/altered-kate-midd
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lesliekatz/2024/03/11/altered-kate-middleton-photo-sparks-royal-frenzy-of-jokes-and-memes/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1600
     height: 900
     isCached: true
+
+related:
+  - title: "Kate Middleton's Photo Scandal And The Rise Of AI Doctoring"
+    excerpt: "The Duchess of Cambridge, Kate Middleton, recently found herself in hot water when a manipulated family image went viral, sparking intense debates about the ethics of photo manipulation ... in the age of digital and AI manipulation. The image posted ..."
+    publishedDateTime: 2024-03-12T16:16:00Z
+    webUrl: "https://www.forbes.com/sites/elijahclark/2024/03/12/kate-middletons-photo-scandal-and-the-rise-of-ai-doctoring/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
 
 secured: "U+5BNacQ9nERK5096bTbNy1U1Y6hrFdRd6ily4vdgMzmbyFmpDh6RWo42MxRnYWJzGXDmZTXiiixaJfygPamOUGNYDS/ErF+zR5QyLMs4XsM4FMasGfehDRSA+6UmCnAzlrUdUC30cIqYod2k2j+mO+mVeJayZAmTtGmu1lLXTOyJrwBJbttFMZZfXzLIpiVXDyCwiHEowPhAgLESaGHp8bLZDy8kBbHvKhe5MVrds2TmNGRHzYnnq1u29OscDnCcc/fKQkNKwaeIjy2AZlKtVTZkpJeRymtg0Wwu62yFxKp9gfmLngxJxiWKJ6oOmII/TEV9aJc9YVH6tG/hAIx/vI5fNIn/UsWHv2R8bOFVRo=;uCbTys3LDKo+Ohdn1/OxPg=="
 ---

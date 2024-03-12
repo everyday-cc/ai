@@ -24,6 +24,24 @@ images:
     height: 1667
     isCached: true
 
+related:
+  - title: "First recognition of self in the mirror is spurred by touch, researchers discover"
+    excerpt: "Most babies begin recognizing themselves in mirrors when they are about a year and half old. This kind of self-recognition is an important developmental milestone, and now scientists at The University of Texas at Austin have discovered a key driver for it: experiences of touch."
+    publishedDateTime: 2024-03-12T21:15:00Z
+    webUrl: "https://medicalxpress.com/news/2024-03-recognition-mirror-spurred.html"
+    ampWebUrl: "https://medicalxpress.com/news/2024-03-recognition-mirror-spurred.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2024-03-recognition-mirror-spurred.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 39
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2024/baby-mirror.jpg"
+        width: 1280
+        height: 1920
+        isCached: true
+
 secured: "Lpl2INX/Ffwp26o8a5Et2KhEzUQZ8E9vU2lsrEsQsP5465Q1P88aCEKblvgFM3KEflnzdEciYKrciEeUQ33VyFd9hHPHVg2JcKeSyA0flkpQWnYo/bOz1izPuTAw9JEjIOy416Wv8+bkv6uEmrdrR0fRX85d684j+DlNW/+nETtQlL1t8ayEwDfMy+Z7YY3Sz2Ke91rvS3pNK0U4Llp2WKMfdGMFTfSehKo+2ArGdT5EQbhvavU3Nw865jJfRtfXoJ8IVjxFnO4kaKTtL7sUnf9v6uW1Uh6TjbMcTiiuzMGjC+8vbbbidU3SkM1PY+3HPDg4Q0E8/HoWGvNRgfi0AIu/msBfcNLjGIZtzfkARyjh0jIIpGxUykRB9A48WNQLy2s1ZcU0Ic5rlQPy6JkWxdrdZ/A/PoKzBbJ4NUn3nFFM11hiL3U+SQlcUdR6Cc0JfskZ8b7p5BgSMSgvAXnoDAB4zTNhqyXwO3dhy/WoW0XPEOYJNXrc1WDSYQ0IpmNCm9jp4xRrhQclM9I20ekCgQ==;cuK7RhBmOhiOXs998lwr7Q=="
 ---
 

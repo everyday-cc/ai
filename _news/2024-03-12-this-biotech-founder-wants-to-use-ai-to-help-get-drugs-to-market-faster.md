@@ -72,22 +72,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Using Generative AI To Help Cope With That Exploding Trend Of People Doing Abundant Ranting And Trauma Dumping On Others"
-    excerpt: "There is a rise in so-called trauma dumping. This involves people dumping out their expressed trauma. Generative AI can aid in coping with this in these sensible ways."
-    publishedDateTime: 2024-03-08T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/08/using-generative-ai-to-help-cope-with-that-exploding-trend-of-people-doing-abundant-ranting-and-trauma-dumping-on-others/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/08/using-generative-ai-to-help-cope-with-that-exploding-trend-of-people-doing-abundant-ranting-and-trauma-dumping-on-others/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/03/08/using-generative-ai-to-help-cope-with-that-exploding-trend-of-people-doing-abundant-ranting-and-trauma-dumping-on-others/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65ea5df29887bd7e668e400d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Google aims to relaunch Gemini AI image generation tool after addressing accuracy concerns"
     excerpt: "This move comes as Google DeepMind CEO Demis Hassabis announced plans to reintroduce the Gemini AI image generation tool after addressing the inaccuracies that led to its temporary suspension"
     publishedDateTime: 2024-03-12T10:43:00Z
@@ -104,16 +88,7 @@ related:
         width: 600
         height: 314
         isCached: true
-  - title: "Dating apps use AI to help users find their dream partner"
-    excerpt: "Dating apps are using artificial intelligence to help users find their perfect match. NBC News' Valerie Castro spoke to some people who found love while using the AI-driven dating apps."
-    publishedDateTime: 2024-03-07T20:39:00Z
-    webUrl: "https://www.nbcnews.com/now/video/dating-apps-use-a-i-to-help-users-find-their-dream-partner-205672005516"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 47
 
-secured: "ryN3rnA1dhG9W9XIHUXIukb6JvGebGBp33jOX2OICRkYYYCKNbYdTRkSHd8nFq2iZavlO46XaU8A2wzrp26usrEhuXL9jWWS9l8j+zEyJjBntjXRWBv8uGBCdqYQ7PxSMRcv/WUhSX0FzQIuNXqWBTOZQLh9J0o0dYVwD3xdX5uYLZLIKGOxN9IN/bCWopRosuRvSpc2tyvS35JJYBiGX1OZyWnZHMLm9tKPtHxgc4sV3QPbP1ACP3h2LUl5jFiNz4LLHT94Mr+Agf7cWP/5ezZt/0BT+K6b1kANkRyySDgINcx/07S+fWb0CVOugZRZzyYpWwOD9eB0eMTgAVrjSv+K2faFcIYIju0/cogpeoo=;ernU9wwNF/7RnzCU84HA7g=="
+secured: "aHLP03gT27phXt53rNyRsmUgu7+u5RkUGLirlcTdTTG6I6kkNRhGtd6gdFdHOqCPSbcfPtXPqarlt54iF+2/YROr6r9EOds+Lh9y1e+q5pXfEfHkd1dG6s/AvxRjd+zFeUwusmEt9xJ5EiL+1wZsZOuDRnMjtEPKV06HlxsmsptGvGe1xrg04CzlgJTXUnlIa/sr4YMNG4SX2ZBHdfOqjFh0TsksM6zxBx10XMz3RYH+fXME1Ti7JmZwf8R82Nl7HCe7GgufNXka+0FaUzFLrgN28x1gAGqeGmQflXhVGZpmgxYFa2NyihUSJU2HF7IUXvwRQryPLoHEY9J4hWvnCYEeexC8MRVAgy9g/xh0HKJnZJ5kjDu9Q4ylttb+Bs6q5TT6usUz1suY80BtoAPC/Rgq0zwTs8+RTIe8tOSQKpjTQzjgNopjz0cCkGk6ataibFNWklJPsMPlpupN2JdT6hFCE5TJUYWPgGtWjVQye5HEW+O5c8Hwa8l3Dg4nRWiGtql9AkeoafWXFQ6e0cflAQ==;wH2rSluh6n9oK5EDBxqXsA=="
 ---
 

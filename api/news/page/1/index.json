@@ -2,6 +2,266 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-13-mia-shah-dands-race-to-bridge-the-ai-gender-gap-for-a-human-centred-world.md",
+      "title": "Mia Shah-Dand’s Race To Bridge The AI Gender Gap For A Human-Centred World",
+      "excerpt": "Mia Shah-Dand is building a counter narrative to give voice and due credit to incredible women that shape technology– despite the stagnation in STEM, the gender pay gap, and the disproportionate funding gap.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/hessiejones/2024/03/12/mia-shah-dands-race-to-bridge-the-ai-gender-gap-for-a-human-centred-world/",
+      "originalUrl": "https://www.forbes.com/sites/hessiejones/2024/03/12/mia-shah-dands-race-to-bridge-the-ai-gender-gap-for-a-human-centred-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65f0c99fff7e5dec5192af17/0x0.jpg?format=jpg&crop=1306,735,x0,y325,safe&height=900&width=1600&fit=bounds",
+          "width": 1599,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/hessiejones/2024/03/12/mia-shah-dands-race-to-bridge-the-ai-gender-gap-for-a-human-centred-world/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2024/03/12/mia-shah-dands-race-to-bridge-the-ai-gender-gap-for-a-human-centred-world/amp/",
+      "publishedDateTime": "2024-03-12T21:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2024-03-13-ibm-begins-layoffs-amid-push-toward-ai.md",
+      "title": "IBM begins layoffs amid push toward AI",
+      "excerpt": "IBM Corp. on Tuesday notified employees in its marketing and communications division that it’s making cuts, the latest large tech company to trim its payroll.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/ibm-begins-layoffs-amid-push-toward-ai-4b2864c6",
+      "originalUrl": "https://www.marketwatch.com/story/ibm-begins-layoffs-amid-push-toward-ai-4b2864c6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-375235/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/ibm-begins-layoffs-amid-push-toward-ai-4b2864c6",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ibm-begins-layoffs-amid-push-toward-ai-4b2864c6",
+      "publishedDateTime": "2024-03-12T20:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-13-creatio-unveils-llm-powered-copilot-for-its-crm.md",
+      "title": "Creatio unveils LLM-powered Copilot for its CRM",
+      "excerpt": "Creatio Copilot Studio allows users to connect to leading models such as OpenAI's GPT-3.5 as well as open source rivals.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/business/creatio-unveils-llm-powered-copilot-for-its-crm/",
+      "originalUrl": "https://venturebeat.com/business/creatio-unveils-llm-powered-copilot-for-its-crm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/03/In_a_clean_corporate_Memphis_design_style_create_converted.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-12T20:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2024-03-13-ai-showdown-i-put-3-chatbots-to-the-test.md",
+      "title": "AI showdown: I put 3 chatbots to the test",
+      "excerpt": "Kim Komando puts three AI chatbots head-to-head to decide which is the best assistant for modern problems. Compare Google Gemini, ChatGPT, and Perplexity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/ai-showdown-put-chatbots-test",
+      "originalUrl": "https://www.foxnews.com/tech/ai-showdown-put-chatbots-test",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dc2163a0-ce94-4441-ad69-bc9419de0b16/19657160-1669-42a5-a1c6-e010b0d10689/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/ai-showdown-put-chatbots-test.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-showdown-put-chatbots-test.amp",
+      "publishedDateTime": "2024-03-12T19:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-13-vast-datas-nvidia-dpu-based-ai-cloud-architecture.md",
+      "title": "VAST Data’s NVIDIA DPU-BASED AI Cloud Architecture",
+      "excerpt": "Here's how it works: using the Nvidia BlueField-3 DPU, VAST creates a parallel system architecture where storage and database processing services are embedded directly into AI servers. This setup provides a dedicated, stateless container for each GPU ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2024/03/12/vast-datas-nvidia-dpu-based-ai-cloud-architecture/",
+      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2024/03/12/vast-datas-nvidia-dpu-based-ai-cloud-architecture/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 349,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65f0c54c13205bd9ccd1cee6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 959,
+          "height": 424,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2024/03/12/vast-datas-nvidia-dpu-based-ai-cloud-architecture/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2024/03/12/vast-datas-nvidia-dpu-based-ai-cloud-architecture/amp/",
+      "publishedDateTime": "2024-03-12T19:24:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-13-locus-robotics-success-is-a-tale-of-focusing-on-what-works.md",
       "title": "Locus Robotics’ success is a tale of focusing on what works",
       "excerpt": "The new software offering uses AI to process the massive troves of data collected ... Former executives from the robotics startup launched their own Locus competitor, 6 River Systems. That company has struggled in recent years, however, following its ...",
@@ -95,6 +355,58 @@
         "AI Hardware",
         "AI",
         "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2024-03-13-a-safety-group-graded-14-driver-assistance-systems-teslas-self-driving-option-was-the-worst.md",
+      "title": "A safety group graded 14 driver-assistance systems. Tesla's self-driving option was the worst.",
+      "excerpt": "Tesla ranked the worst in a safety study of autonomous driving systems, but few automakers did particularly well.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/tesla-autopilot-safety-assisted-self-driving-systems-2024-3",
+      "originalUrl": "https://www.businessinsider.com/tesla-autopilot-safety-assisted-self-driving-systems-2024-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65f05c66ce7f1785b2e8c927?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/tesla-autopilot-safety-assisted-self-driving-systems-2024-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-autopilot-safety-assisted-self-driving-systems-2024-3?amp",
+      "publishedDateTime": "2024-03-12T17:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -357,7 +669,7 @@
       "originalUrl": "https://techcrunch.com/2024/03/12/deepgrams-aura-gives-ai-agents-a-voice/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -652,49 +964,6 @@
       ]
     },
     {
-      "path": "_news/2024-03-12-akamai-neural-magic-partner-to-deploy-high-powered-deep-learning-ai-software.md",
-      "title": "Akamai, Neural Magic Partner To Deploy High-powered Deep Learning AI Software",
-      "excerpt": "Cloud company Akamai Technologies Inc. (AKAM) announced Tuesday a strategic partnership with Neural Magic, a developer of software",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/akamai-neural-magic-partner-to-deploy-high-powered-deep-learning-ai-software-1033154430",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/akamai-neural-magic-partner-to-deploy-high-powered-deep-learning-ai-software-1033154430",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-12T11:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-03-12-prompt-engineering-technique-known-as-the-step-around-is-gaining-steam-as-generative-ai-becomes-less-forthright.md",
       "title": "Prompt Engineering Technique Known As The Step-Around Is Gaining Steam As Generative AI Becomes Less Forthright",
       "excerpt": "A prompt engineering technique known as the step-around is gaining attention due to generative AI increasingly being less forthright. Here's what you need to know.",
@@ -756,7 +1025,7 @@
       "originalUrl": "https://news.crunchbase.com/ai/new-unicorn-board-companies-february-2024-moonshot-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -800,7 +1069,7 @@
       "originalUrl": "https://www.forbes.com/sites/cindygordon/2024/03/12/chatgpt-and-generative-ai-innovations-are-creating-sustainability-havoc/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -887,49 +1156,6 @@
       ]
     },
     {
-      "path": "_news/2024-03-12-covariant-claims-its-ai-model-will-let-robots-learn-like-humans.md",
-      "title": "Covariant claims its AI model will let robots learn like humans",
-      "excerpt": "AI start-up Covariant claims its RFM-1 AI model will give robots a better understanding of language and the physical world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.siliconrepublic.com/machines/covariant-ai-robotics-reason-foundaton-model",
-      "originalUrl": "https://www.siliconrepublic.com/machines/covariant-ai-robotics-reason-foundaton-model",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.siliconrepublic.com/wp-content/uploads/2024/03/AdobeStock_280204756.jpeg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-12T10:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconRepublic",
-        "domain": "siliconrepublic.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-03-12-metas-ceo-disses-apples-vision-pro.md",
       "title": "Meta’s CEO Disses Apple's Vision Pro",
       "excerpt": "Despite acknowledging the Vision Pro's entertainment capabilities ... Alternatively, one could buy a multi-use computer, including the early Macintosh, and do word processing. By the 1980s, the word processor had become a much more affordable option.",
@@ -990,7 +1216,7 @@
       "originalUrl": "https://techcrunch.com/2024/03/12/bear-robotics-a-robot-waiter-startup-just-picked-up-60m-from-lg/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -1031,195 +1257,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot.md",
-      "title": "Elon Musk says his AI startup xAI will open-source its Grok chatbot",
-      "excerpt": "Musk sued ChatGPT-maker OpenAI and its CEO Sam Altman, saying they had abandoned the startup's original mission to develop artificial intelligence for the benefit of humanity and not for profit.",
-      "sourceUrl": null,
-      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot/108430382",
-      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot/108430382",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-108430382,imgsize-527560,width-1200,height=765,overlay-etbrandequity/digital/elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot.jpg",
-          "width": 1200,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/digital/elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot/108430382",
-      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot/108430382",
-      "publishedDateTime": "2024-03-12T09:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "brandequity.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-empowering-the-genai-revolution-gaurav-arora-aws.md",
-      "title": "Empowering the GenAI revolution: Gaurav Arora, AWS",
-      "excerpt": "Gaurav Arora spoke to Dataquest about how AWS is guiding Indian startups towards a future defined by innovation, collaboration, and transformative growth within the GenAI revolution",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/dqdeeptech/empowering-the-genai-revolution-gaurav-arora-aws-4327505",
-      "originalUrl": "https://www.dqindia.com/dqdeeptech/empowering-the-genai-revolution-gaurav-arora-aws-4327505",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.thepublive.com/fit-in/1200x675/dq/media/media_files/uuwNTexWvK99uOYOygO4.jpg",
-          "width": 1200,
-          "height": 565,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/dqdeeptech/empowering-the-genai-revolution-gaurav-arora-aws-4327505",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/dqdeeptech/empowering-the-genai-revolution-gaurav-arora-aws-4327505",
-      "publishedDateTime": "2024-03-12T09:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-how-ai-has-already-changed-coding-forever.md",
-      "title": "How AI has already changed coding forever",
-      "excerpt": "AI coding tools such as Amazon CodeWhisperer and GitHub Copilot boost the productivity of pro and novice developers alike. They’re only the beginning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3714361/how-ai-has-already-changed-coding-forever.html",
-      "originalUrl": "https://www.infoworld.com/article/3714361/how-ai-has-already-changed-coding-forever.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2014/03/166160844-100249187-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3714361/how-ai-has-already-changed-coding-forever.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3714361/how-ai-has-already-changed-coding-forever.amp.html",
-      "publishedDateTime": "2024-03-12T09:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-this-startup-says-it-can-beat-deepminds-gamechanging-protein-ai.md",
-      "title": "This Startup Says It Can Beat Deepmind’s Gamechanging Protein AI",
-      "excerpt": "Basecamp Research says its software platform can better predict the way proteins behave — not with better algorithms, but with higher-quality data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alexknapp/2024/03/11/basecamp-research-protein-folding-ai-deepmind-alphafold/",
-      "originalUrl": "https://www.forbes.com/sites/alexknapp/2024/03/11/basecamp-research-protein-folding-ai-deepmind-alphafold/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e7a8c4b178f1843c134af7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1285,
-          "height": 857,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-12T07:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

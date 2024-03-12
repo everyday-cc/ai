@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/cindygordon/2024/03/12/chatgpt-and-ge
 webUrl: "https://www.forbes.com/sites/cindygordon/2024/03/12/chatgpt-and-generative-ai-innovations-are-creating-sustainability-havoc/"
 type: article
 quality: 84
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -89,15 +89,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "NVIDIA and HP Supercharge Data Science and Generative AI on Workstations"
-    excerpt: "NVIDIA and HP Inc. today announced that NVIDIA CUDA-X data processing libraries will be integrated with HP AI workstation"
-    publishedDateTime: 2024-03-08T00:02:00Z
-    webUrl: "https://www.datanami.com/this-just-in/nvidia-and-hp-supercharge-data-science-and-generative-ai-on-workstations/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 18
 
 secured: "558ZFOhQgi6+cT81A+p9k7RADHSrGPmIcGnhyX7BALgqBfxeKSHu9LuHDJPC6kbg9H2BWPlVEdcafXWQyLQupMmqOszpF5kPpzZxQ4aW5zFwpIdOpq+dt//GOXaebdnOiCwat7totmZaxscuLNDgmxUruMY3VT76fSjTMiu1LLudo0q4RV5ZMEEpO4hUXNOOHWHJ7MtFO3KFSPOVDfkjXXHZ4Mms3lwUdTnhd7hE2rO5Px2YdERZa0CHOKwbLmT9gw0Q+roY6jx8bFcVFuwY/s3P7CihkNGgL4XpESeTKKi3FqbXoFTqysP8yVDI9WSFjdMxZU34NQlzs5oWf3Ycjw5UmP8f6JhXXr7C8VBRcxM=;u81DZ+vsbjmnfycFuSo2iA=="
 ---

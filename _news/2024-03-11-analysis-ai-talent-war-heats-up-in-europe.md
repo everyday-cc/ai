@@ -57,6 +57,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "High conviction stocks with exposure to AI in European data centers - MS"
+    excerpt: "Artificial intelligence data center energy use is expected to rise from 1% to 4% of total power consumption by 2035, according to Morgan Stanley’s Utility team."
+    publishedDateTime: 2024-03-12T18:39:00Z
+    webUrl: "https://seekingalpha.com/news/4078549-high-conviction-stocks-with-exposure-to-ai-in-european-data-centers-ms?feed_item_type=news"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 18
 
 secured: "GE/JZVaFSS8D2gljLd/3AowmIqP5UC1Xyl7LUqiWr2VZJhQeZa/T6w6jxGMMyD6wvyr8gpuZuIpK2ol8N4Ctw2W0+ciYm8Z6l0KCYMeTt+uKs8DiHoaug484fJ6NXrtZK40Uy4AqLyhQgRzE9kzqK3TRf8RlzDW28wGCHCje6d3e2Pu95tNt2TJ4gzHXQIaEbL437iQx5ro6/Vc3uyUzpDNY/SwgsJzKpg++5cZn/TYnx/5GczW7G5/VYbQyOFsmpFUkaHSlvhUkzprrN/W5UdiN9Jh4hNXKunli3O1X744N3izijl6lWeeV6aqlDR8TdG83/32CjE6HfWTmkC0pUdTwJGb+Oh2sKrqUAebYCA3i2iGkWX/NTs+U43aVuVtCtJU9RMpLPVa34GGQBZyPBH11V3/VZcwGJI19dVMhsinBa/LkLcZw2uDqz4mCn+Zqq0fUyQJVSy6IesVviQq1uLzgr50gYu7o0fkE0S9dSr4rhFpVePXHm7AdCWQL32ITJasMx8VdTJO2NAOkrvpacA==;Ye6pinBuJ60fYo/GfmTUtA=="
 ---

@@ -26,6 +26,22 @@ images:
 
 related:
   - title: "AI showdown: I put 3 chatbots to the test"
+    excerpt: "Kim Komando puts three AI chatbots head-to-head to decide which is the best assistant for modern problems. Compare Google Gemini, ChatGPT, and Perplexity."
+    publishedDateTime: 2024-03-12T19:30:00Z
+    webUrl: "https://www.foxnews.com/tech/ai-showdown-put-chatbots-test"
+    ampWebUrl: "https://www.foxnews.com/tech/ai-showdown-put-chatbots-test.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-showdown-put-chatbots-test.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 87
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dc2163a0-ce94-4441-ad69-bc9419de0b16/19657160-1669-42a5-a1c6-e010b0d10689/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "AI showdown: I put 3 chatbots to the test"
     excerpt: "research the trail, tell someone where we were going, avoid the hottest part of the day and (of course) bring water and first aid. Bonus: It reminded me not to litter in nature. Final score: ChatGPT 2, Gemini 1, Perplexity 0 Listen, if AI can help us ..."
     publishedDateTime: 2024-03-11T00:01:00Z
     webUrl: "https://www.komando.com/kims-column/ai-chatbot-showdown-2/901917/"

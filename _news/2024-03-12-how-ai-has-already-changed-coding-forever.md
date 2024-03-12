@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3714361/how-ai-has-already-changed
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3714361/how-ai-has-already-changed-coding-forever.amp.html"
 type: article
 quality: 87
-heat: 99
+heat: 101
 published: true
 
 provider:

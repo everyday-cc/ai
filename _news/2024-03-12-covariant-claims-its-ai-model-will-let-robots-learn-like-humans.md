@@ -7,8 +7,8 @@ originalUrl: "https://www.siliconrepublic.com/machines/covariant-ai-robotics-rea
 webUrl: "https://www.siliconrepublic.com/machines/covariant-ai-robotics-reason-foundaton-model"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: SiliconRepublic
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Covariant develops video-generating AI model for powering warehouse robots"
-    excerpt: "The artificial intelligence model also lends itself to other tasks. According to Covariant, RFM-1 can generate short videos that depict industrial robots performing tasks such as moving merchandise between boxes. Those videos, the startup claims, can be used to equip industrial robots with the ability to plan their actions."
-    publishedDateTime: 2024-03-11T19:48:00Z
-    webUrl: "https://siliconangle.com/2024/03/11/covariant-develops-video-generating-llm-powering-warehouse-robots/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 52
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/03/covariant.png"
-        width: 718
-        height: 400
-        isCached: true
   - title: "Covariant Develops Language Model That Can Make Robots Think Like Humans"
     excerpt: "Covariant has unveiled RFM-1, a large language model for robot language that provides robots with a \"human-like ability to reason,\" bridging the gap between traditional programming and intuitive human-robot interaction."
     publishedDateTime: 2024-03-12T03:14:00Z

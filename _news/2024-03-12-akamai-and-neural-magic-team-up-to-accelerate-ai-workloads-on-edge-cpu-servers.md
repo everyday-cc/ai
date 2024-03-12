@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2024/03/12/akamai-neural-magic-team-accel
 webUrl: "https://siliconangle.com/2024/03/12/akamai-neural-magic-team-accelerate-powerful-ai-workloads-cpu-servers-edge/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Akamai, Neural Magic Partner To Deploy High-powered Deep Learning AI Software"
-    excerpt: "Cloud company Akamai Technologies Inc. (AKAM) announced Tuesday a strategic partnership with Neural Magic, a developer of software"
-    publishedDateTime: 2024-03-12T11:44:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/akamai-neural-magic-partner-to-deploy-high-powered-deep-learning-ai-software-1033154430"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 61
   - title: "Akamai and Neural Magic Partner to Accelerate Deep Learning AI"
     excerpt: "Akamai Technologies (NASDAQ: AKAM), the cloud company that powers and protects life online, and Neural Magic, a developer of software that accelerates artificial intelligence (AI) workloads, today announced a strategic partnership intended to supercharge deep learning capabilities on Akamai's distributed computing infrastructure."
     publishedDateTime: 2024-03-12T11:51:00Z
@@ -44,6 +35,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 36
+  - title: "Cloud Computing Leader Vultr Expands Executive Team to Address Growing AI Infrastructure and Enterprise Cloud Demand"
+    excerpt: "Vultr, the world's largest privately-held cloud computing platform, announced the appointment of two new senior executives to its leadership team to meet the growing demand for its enterprise cloud compute and cloud GPU capabilities."
+    publishedDateTime: 2024-03-12T14:13:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/12/9976850.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 16
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "S5qIrX//zi+nL5DCgra0eYySCKywWiMtxypcty+YcvDus69SAn4SfoiM4iZkW/q+nzVaAqjowVQj9CiLY9oiaKxFRYDmtOLrWFCSwHo5FR8yvuaxjTQmJ7SUXIEj/deRcfoqqWH7xQmoZZqTizWwIc9UN/Cn3igIgNC5TfulSzBbiZ0g9/Kp3othg3J4RHJyOw3ux0r8GnG/ha/fPW6yQLu3VVen5/zmjHYg/bt4vyKJpN9CGln7R19/huxHzJ3dcA0HwV2Q6Q6M5tAiGsuwg8b5l5zQ1CmwNvAOrxKpUZ/dYjbiVjhfRLMGr52nHHtsBsha279NW98ln37AMufV2AyYCG48ljX8NjZvXFHPNKfp+bu4IJ3obkDIugK0ZffEPQ7A8q/coHtZ+FVxKsSiDYKVSv+9ODuxiodFiP+3EQ1/5+CIaAX+lFBkE4yAltp9u9ATelgCO+EN3giXWPy9Rbz/uQMS2Rty5J2KOGawJZuqlcAGs/zrKxrRtRu5/O2DHjEkQQfLcobdYmiiKQ6yTA==;NJMcjahMEMe0Bh+yMjBz3A=="
 ---

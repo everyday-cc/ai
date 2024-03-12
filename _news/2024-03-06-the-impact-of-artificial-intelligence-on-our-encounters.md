@@ -16,6 +16,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-03/andy-kelly-0E_vhMVqL9g-unsplash.jpeg.jpg?itok=zgUvJxp6"
@@ -23,6 +24,6 @@ images:
     height: 800
     isCached: true
 
-secured: "OZ3/VWKgq8uwmOlBnW38Yo2n+u+Vok3lmXQkQAgHzYiEBUY1nNy9rLols38klVqdqQFhbvgEsnaANL0xpvqIkV+Hs9c+jB8Awx7XlGKUxIjyeu4TPgE/OG7Cl6yW8L7svHK8BxbZ9zoxPIU9YWPrgG+a3p3rnix8tl71sMeC1b4PkW6EN3yj0q/Nsj9MqE3SxVE3WxvUY79xdilj2cE9H/80Rw194i7n7AyJxWxkB6UW72vXCCr/WYXPXn2luihF2i77lkN64S8KIRQf76/rhGLZNjNd/nOoZH6KJ1MP/q9UT0zneHqUr4cpI/sIYPDh5TLXNlyqnWyEuvy0WfACwpIhJG9ifJaUj1qNL0+kSYc=;9Y5n4Qjt3DmUpf9Ih41khA=="
+secured: "vXx1HTYbrhZDFTjIQKMOE/55OwTSwxvAWNgE5//Dnb+J7xZ1/YUkvSfVCVXl5HJJvv+U9fmtzTv09hDK4+ZgOdFj0D6w+4Rd5bI3sSftRH05c6YaK5UunJ5Po/ieQ/os5VEKmIXXqtRsXW2finEmPYRUFS64mD/6pjMxP2tfCNxIKF+UAY3Z0hxzmXF5u6V9qur7Lk0gqAmzX0KbCFAjqWQ1QKfkzOXAqKNepmLXNvNUWVZGAK/hUMHURzcMqJ9YwXJpb1ZykRer0FhXxMp5pmrUg8m+P9t+8hhdzRjjy5iXbjz8IdOd4tgIrseMB9oufP7J7JD+V8Yf0+CxicuCScxqXozrOUtmeGT3G8BZBJAW+Mu4F4f0xpVtRdbg5fG7hXRAHL21J0T5F6UufE3D7kLFMb+cNqUGqJeSN1uMYRs3Gtbpyhh5TsF4HiuDUnH6QzY+KLLUzKBnJJ00wg9Y3komRsQM0oRREjPR69a0sNSa5YAEslJOZtFE/BXffc8dGI9grCCbO1aIfR2bZV3FSg==;KbQDfPQA3i3JZOTW86f2kQ=="
 ---
 

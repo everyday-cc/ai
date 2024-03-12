@@ -39,20 +39,6 @@ related:
         width: 1260
         height: 708
         isCached: true
-  - title: "How healthcare organizations should prepare for generative AI"
-    excerpt: "Michael McCallen, managing director in Deloitte’s Health Care Strategy practice, explains why a governance structure is key to successful adoption of artificial intelligence."
-    publishedDateTime: 2024-03-07T18:25:00Z
-    webUrl: "https://www.healthcaredive.com/news/healthcare-generative-ai-adoption-deloitte/709397/"
-    type: article
-    provider:
-      name: Healthcare Dive
-      domain: healthcaredive.com
-    quality: 54
-    images:
-      - url: "https://www.healthcaredive.com/static/img/article-signup.png?320916100822"
-        width: 822
-        height: 822
-        isCached: true
   - title: "Oracle expands healthcare platform"
     excerpt: "The Oracle Health Data Intelligence platform aims to bring together the ecosystem of providers, payers, public health organizations, government agencies and researchers with customized analytics and AI capabilities. The platform has pre-built regulatory and risk management services as well as unified population patient data."
     publishedDateTime: 2024-03-12T13:51:00Z

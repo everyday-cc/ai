@@ -9,8 +9,8 @@ ampWebUrl: "https://www.komando.com/kims-column/ai-chatbot-showdown-2/901917/?am
 cdnAmpWebUrl: "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/kims-column/ai-chatbot-showdown-2/901917/?amp"
 type: article
 quality: 59
-heat: 129
-published: true
+heat: -1
+published: false
 
 provider:
   name: Kim Komando
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI showdown: I put 3 chatbots to the test"
+    excerpt: "Kim Komando puts three AI chatbots head-to-head to decide which is the best assistant for modern problems. Compare Google Gemini, ChatGPT, and Perplexity."
+    publishedDateTime: 2024-03-12T19:30:00Z
+    webUrl: "https://www.foxnews.com/tech/ai-showdown-put-chatbots-test"
+    ampWebUrl: "https://www.foxnews.com/tech/ai-showdown-put-chatbots-test.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-showdown-put-chatbots-test.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 87
+    images:
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dc2163a0-ce94-4441-ad69-bc9419de0b16/19657160-1669-42a5-a1c6-e010b0d10689/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Musk says AI start up will open-source chatbot Grok"
     excerpt: "Proactive Investors - Elon Musk’s xAI, his artificial intelligence firm, is set to open-source ‘Grok’, a chatbot aimed at rivalling OpenAI’s ChatGPT. Grok was released by xAI last year, boasting ‘real-time’ information and holding views which argued against the ‘politically correct’ approach."
     publishedDateTime: 2024-03-11T10:33:00Z

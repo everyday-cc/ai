@@ -7,7 +7,7 @@ originalUrl: "https://news.crunchbase.com/ai/new-unicorn-board-companies-februar
 webUrl: "https://news.crunchbase.com/ai/new-unicorn-board-companies-february-2024-moonshot-ai/"
 type: article
 quality: 62
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -66,6 +66,15 @@ related:
     provider:
       name: fintechmagazine
       domain: fintechmagazine.com
+    quality: 4
+  - title: "Is This Fintech Stock a Buy Now?"
+    excerpt: "Real-time index price for TSX Income Trust Index (RTCM), along with buy or sell indicators, analysis, charts, historical performance, news and more"
+    publishedDateTime: 2024-03-12T19:41:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/indices/RTCM/pressreleases/24735863/is-this-fintech-stock-a-buy-now/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
     quality: 4
 
 secured: "UF0UCScWlo/VRhAIWrATh4+sH50kWmGezdZslEUbsZoijt+xvUWMu0dk+VuuNPoNlgUmR7sy1KQXq0yxbQ2LQNIAkNBKIGLUokW4lzh8Z+yv63/dWJwW9t5iSOWUvLSX99BHFS6Uq9rzCaphDVetyrOgbyPY/f1dOiohTdNGYQNKDYrz2f/TjD9z/QpD/D7aO5JKZ+qZgakRxkZMr/6mDdAy/tFfMXIX+fam2YZnfxKWCrVt+4LAeuDkwhzDz28gDphBxALon3XYWnFw3kqGHVbvdr+0jrWJPfyozT8ZIxp0/bgowf8hK6PhIMb7rnglAdQS0B8MiIfOuxp7e17FQd3ZvXBxPwwyKymwW7Vewwzf4A53Mdb8Z0DtZX97tKB1WMpfReQgrSMsgIxgsKTbVl6DHWE6Jjdt5dwrPicmWFQQzgqn8CeLbjcGsPFdTisl7r+KGB/0pe40O7zEGA/f4cFCSv8QzonS1jYZb+KN2f9RzcygrWAnb26SOYDPRceT40HVNgTqD4NSzogUFL3iSw==;29jKCuYXv34ISuQjI295jw=="

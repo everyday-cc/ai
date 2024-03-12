@@ -39,19 +39,19 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "UK’s £230 million plan to implement police facial recognition and drones"
-    excerpt: "The UK government is setting aside £230 million to give police advanced technology, including facial recognition, to make their operations more efficient."
-    publishedDateTime: 2024-03-07T21:46:00Z
-    webUrl: "https://www.biometricupdate.com/202403/uks-230-million-plan-to-implement-police-facial-recognition-and-drones"
+  - title: "Civil Rights commission digs into government use of facial recognition"
+    excerpt: "The tech poses “serious threats to our fundamental rights,” the chair of the commission said during a Friday briefing."
+    publishedDateTime: 2024-03-12T20:14:00Z
+    webUrl: "https://www.govexec.com/management/2024/03/civil-rights-commission-digs-government-use-facial-recognition/394880/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 38
+      name: Government Executive
+      domain: govexec.com
+    quality: 39
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/01/15132608/london-met-police-1-scaled.jpg"
-        width: 2048
-        height: 1365
+      - url: "https://cdn.govexec.com/media/img/cd/2024/03/12/031124_getty_ng_mondaire_jones/open-graph.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "Everyone in facial recognition wants to impress US civil rights commission"
     excerpt: "More than a dozen people met this week with the U.S. Civil Rights Commission to talk about how facial recognition can impact the core lives of Americans."
@@ -81,7 +81,16 @@ related:
         width: 506
         height: 337
         isCached: true
+  - title: "US government assailed for its facial recognition policies"
+    excerpt: "The critics say the departments of Justice and Homeland Security are hiding use cases behind overly broad disclosure requirements."
+    publishedDateTime: 2024-03-12T19:17:00Z
+    webUrl: "https://www.biometricupdate.com/202403/us-government-assailed-for-its-facial-recognition-policies"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 34
 
-secured: "X8UICE0AzPIgwNC/z1a61WaSkMrI+2gdF96KN3B5afpXE2EExl5FM650KuB5PtLFmbzlUKoR6Tce3kcRWEE8ZMTiwz5YFaFGZnXUhdsS+Q1PpnZe+VQDDpmRqUaWppEGvdXt1I81W+7mUFEzekcLhH3mKW8dd0e1g+1+nr2Zc2rlJ3d7bZvl7d9SjfoykadZEuSiqKxGWBSbCgPXhGu4xZRZQYI8xeIeT7MeZMs0WasJhgMIQTeKWOFs9mJdU2evbezpb2wwWyOqzkJvzK7cYgJwVvA629vAuAZw/UcTlzCjTio5bwe/0J4YTt6Oa+/rg5sJdiAhwpv5kikS/pC0eApR3oVtlM3y9MneR4YWnFM=;sGyHQ8GVXOsQ70niTGFuEg=="
+secured: "8JqZmKjqOyKT8Y+2OmKQi+l3tXUNNFtlsyKnNxtBEPlAAtPKmuBg6WzA13aGX5jVdmQUT2Oh8WZ0m99oY50plbwLyxYEx8z0heiSVR9cjLVkE5ekQpRU0V+KfJUfGQUaxgbRroia83jeYXT2lKK6O3BzZFdjDE+hX5yWK5QLllr2ntWQUUkJ95EXGKR5FeukaPO+QSE53R9Y3OS8XTVDZ+zksG8EolSgk2qgRXD0Gu1kdXaGytgqz9/kRPMdAlJLPX1qxekzn+7RknWJzX5nyvTVPtbnJNQK5t45a/EpJx21dh36vIy+x7MWNjybd4qBrZwtNubqTSW00/R9W5bJVxnVyuksm6LVk91gB24pDYh5O5ua3khhXhO4afFjeqFO4H2+dWNiiGRf9iN3bCtpnrH04m+O9hNSkACsXbCF53mK0nRZxqxgoz0dXGDZ5jSXNYFVDFvdRtH7Bir0W5UiieION6ozTOWIeKTVLr5FrCbXVagUlZr7EOJmyKUnpsdr4zA8/o9Ynjg8dLvimlkC7g==;4GNAl6THYoskqqCGXsIzHQ=="
 ---
 

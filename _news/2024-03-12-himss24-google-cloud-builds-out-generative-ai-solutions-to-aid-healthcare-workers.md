@@ -7,7 +7,7 @@ originalUrl: "https://www.fiercehealthcare.com/ai-and-machine-learning/himss24-g
 webUrl: "https://www.fiercehealthcare.com/ai-and-machine-learning/himss24-google-cloud-builds-out-generative-ai-solutions-aid-healthcare"
 type: article
 quality: 28
-heat: 28
+heat: -1
 published: false
 
 provider:
@@ -19,15 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "HIMSS24: AWS, symplr collaborate on AI assistants to automate complex workflows, mundane tasks"
-    excerpt: "ORLANDO— HIMSS24 just kicked off today and there's already a stream of AI innovation news. | Symplr is working with Amazon Web Services to develop AI assistants to help automate complex workflows and mundane tasks for healthcare workers and also power chatbots to help patients find and schedule the right care."
-    publishedDateTime: 2024-03-11T13:01:00Z
-    webUrl: "https://www.fiercehealthcare.com/ai-and-machine-learning/aws-symplr-collaborate-ai-assistants-automate-complex-workflows-mundane"
+  - title: "HIMSS24: How AI Will Help Healthcare Take ‘Another Quantum Leap Forward’"
+    excerpt: "This year’s conference theme is “Creating Tomorrow’s Health.” A keynote session sets the stage on how artificial intelligence will play a key role."
+    publishedDateTime: 2024-03-12T19:04:00Z
+    webUrl: "https://healthtechmagazine.net/article/2024/03/himss24-how-ai-will-help-healthcare-take-another-quantum-leap-forward"
     type: article
     provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 22
+      name: HealthTech
+      domain: healthtechmagazine.net
+    quality: 33
 
 secured: "5VtVszaYuQkZoEiuSOEN7A8NWR9k8ffZ+gl/Oc0bfCxTCGPDGfFi/LId70+l0A68p/BQhLyhJqXJR8u5ImljwyBc6E0RGagYxzrnbyZvhlE/PnJD53EChjXkuJhBYbNsNd/hQBBgBqcBZFCGANJpYG7Q8WIfiHgJ92tZSb9VYqv/iGTwja498pMg0sY3mAnEvqM+10Z/Ndwu+CZINhLpSryfO9ccn955sHsiRn0J0hsFkqCT6UmULLeXBscCGU/8jeEF/HAePMqcovIoiIuf8WV2/nmi0ZYf0hUGhdqWBURK1Km8mFPjFibRt2eKrKv0MmzcZZWy2th3tyXouzXFKSlvx2ET5KLrkROO/5yNSamwaSpvOWdpDxTGX+++dvsxYIr61I9avUaXV7H2xHpJg9LGHc1JhFpceTmojXhmLk0ZDrFYnVuz1WzvDMZp4KH4roNXT1OoCSALDyDgl0fK15HI4J7CeyvHiChNs/+svDV7cfx7Wo/eN0Iv0hueryibOV/b/W5r/iOal/sjSVxWlg==;eMMz3l72wsn3VwQq30hX7Q=="
 ---

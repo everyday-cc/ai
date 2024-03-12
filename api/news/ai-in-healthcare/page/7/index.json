@@ -2,6 +2,40 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2023-12-05-alto-hits-a-high-note-with-ai-driven-depression-therapy.md",
+      "title": "Alto hits a high note with AI-driven depression therapy",
+      "excerpt": "Alto has previously reported encouraging results with its biomarker-based ‘precision psychiatry’ approach with ALTO-100, a drug targeting brain-derived neurotrophic factor (BDNF), in two trials involving patients with post-traumatic stress disorder as well as MDD.",
+      "sourceUrl": null,
+      "webUrl": "https://pharmaphorum.com/news/alto-hits-high-note-ai-driven-depression-therapy",
+      "originalUrl": "https://pharmaphorum.com/news/alto-hits-high-note-ai-driven-depression-therapy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T09:48:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pharmaphorum",
+        "domain": "pharmaphorum.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-05-ai-in-health-care-the-perils-of-bidens-executive-order.md",
       "title": "AI in health care: The perils of Biden's executive order",
       "excerpt": "For those committed to health care access and affordability, the regulatory scope of this AI-focused executive order is alarming. Artificial intelligence stands on the cusp of revolutionizing ...",
@@ -1280,50 +1314,7 @@
         "AI in Healthcare",
         "AI"
       ]
-    },
-    {
-      "path": "_news/2023-11-20-integrating-healthcare-apps-and-data-with-fhir-hl7.md",
-      "title": "Integrating healthcare apps and data with FHIR + HL7",
-      "excerpt": "HL7 has provided a standard set of patient attributes and clinical events to improve interoperability in healthcare.\nThe post Integrating healthcare apps and data with FHIR + HL7 appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/integrating-healthcare-apps-and-data-with-fhir-hl7/",
-      "originalUrl": "https://www.ibm.com/blog/integrating-healthcare-apps-and-data-with-fhir-hl7/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-20T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI in Healthcare"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 8
 }

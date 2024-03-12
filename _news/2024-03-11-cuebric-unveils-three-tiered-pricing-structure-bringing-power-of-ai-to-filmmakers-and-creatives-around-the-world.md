@@ -39,15 +39,6 @@ related:
         width: 655
         height: 464
         isCached: true
-  - title: "HP: New Business Laptops, Workstations Part Of ‘Industry’s Largest’ AI PC Portfolio"
-    excerpt: "The laptops are powered by Intel Core Ultra or next-generation AMD Ryzen Pro processors, both of which feature a CPU, GPU and, for the first time in an HP business laptop, a neural processing unit (NPU) to power a diverse range of AI workloads. The ZBooks ..."
-    publishedDateTime: 2024-03-07T22:00:00Z
-    webUrl: "https://www.crn.com/news/computing/2024/hp-new-business-laptops-workstations-part-of-industry-s-largest-ai-pc-portfolio"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 13
 
 secured: "W27erGyxX6HhZgv9y6vHeuLB4rr7hU5+YaIaZjxIz1HbNWIc0hv26uyraYjawyDuPul2PgC2Ibp5x+ZHgnM3NIeJCu78pkChFwY9fn0Twmga7dDzG2l05Ysdk+9Bx7I7FkvKzLs70W0NE0+oV+R5cjFGG9BYSOE3vBD3+VnqpOL+RnwkugXBQgEu/1HTENKT2NEhpGPRlI/TlrI+bQpcZiKvIZrUfcG2lz0lHd9NIwubQYraUhbyQHni/MOBuC3fIC2cLeBzle/vZpmtCnn30aFp6ii28yRM1sKt+BclByUsK1cM4oE7PrTQRW8yQX5i8RRpSVPD2mpp3w9IW11/hhhDtnfK5NNVtFqyg/WQelw=;llnTICXZntFjDTawWoPWxA=="
 ---

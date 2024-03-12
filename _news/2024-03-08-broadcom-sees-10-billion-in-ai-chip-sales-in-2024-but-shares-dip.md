@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Broadcom 1Q Revenue Surges on Artificial Intelligence Demand"
-    excerpt: "Broadcom's revenue rose more than expected in the fiscal first quarter as artificial intelligence continued to boost demand. The Palo Alto, Calif.-based semiconductor company reported a profit of $1.33 billion, or $2.84 a share, in the quarter ended Feb. 4 ..."
-    publishedDateTime: 2024-03-07T21:25:00Z
-    webUrl: "https://www.marketwatch.com/story/broadcom-1q-revenue-surges-on-artificial-intelligence-demand-572f3f53"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/broadcom-1q-revenue-surges-on-artificial-intelligence-demand-572f3f53"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/broadcom-1q-revenue-surges-on-artificial-intelligence-demand-572f3f53"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 87
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Broadcom sees US$10 billion in AI chip sales in 2024"
     excerpt: "About US$7 billion of the firm’s AI chip revenue in 2024 would come from helping just two major clients design custom AI chips Read more at straitstimes.com."
     publishedDateTime: 2024-03-08T02:10:00Z

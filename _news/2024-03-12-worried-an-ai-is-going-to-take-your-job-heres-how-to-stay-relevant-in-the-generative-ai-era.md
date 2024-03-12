@@ -62,22 +62,6 @@ related:
         width: 1200
         height: 691
         isCached: true
-  - title: "Using Generative AI To Help Cope With That Exploding Trend Of People Doing Abundant Ranting And Trauma Dumping On Others"
-    excerpt: "There is a rise in so-called trauma dumping. This involves people dumping out their expressed trauma. Generative AI can aid in coping with this in these sensible ways."
-    publishedDateTime: 2024-03-08T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/08/using-generative-ai-to-help-cope-with-that-exploding-trend-of-people-doing-abundant-ranting-and-trauma-dumping-on-others/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/08/using-generative-ai-to-help-cope-with-that-exploding-trend-of-people-doing-abundant-ranting-and-trauma-dumping-on-others/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/03/08/using-generative-ai-to-help-cope-with-that-exploding-trend-of-people-doing-abundant-ranting-and-trauma-dumping-on-others/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65ea5df29887bd7e668e400d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Google aims to relaunch Gemini AI image generation tool after addressing accuracy concerns"
     excerpt: "This move comes as Google DeepMind CEO Demis Hassabis announced plans to reintroduce the Gemini AI image generation tool after addressing the inaccuracies that led to its temporary suspension"
     publishedDateTime: 2024-03-12T10:43:00Z
@@ -94,15 +78,6 @@ related:
         width: 600
         height: 314
         isCached: true
-  - title: "Dating apps use AI to help users find their dream partner"
-    excerpt: "Dating apps are using artificial intelligence to help users find their perfect match. NBC News' Valerie Castro spoke to some people who found love while using the AI-driven dating apps."
-    publishedDateTime: 2024-03-07T20:39:00Z
-    webUrl: "https://www.nbcnews.com/now/video/dating-apps-use-a-i-to-help-users-find-their-dream-partner-205672005516"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 47
   - title: "This Biotech Founder Wants to Use AI to Help Get Drugs to Market Faster"
     excerpt: "Boosted by an early investment from Sam Altman, 1910 Genetics recently struck a major partnership with Microsoft. Now, the founder has her sights on disrupting the global pharmaceutical industry."
     publishedDateTime: 2024-03-12T14:31:00Z

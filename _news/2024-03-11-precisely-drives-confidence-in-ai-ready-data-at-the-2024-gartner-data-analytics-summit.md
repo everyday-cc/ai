@@ -24,17 +24,6 @@ images:
     height: 627
     isCached: true
 
-related:
-  - title: "Sports analytics may be outnumbered when it comes to AI"
-    excerpt: "The gathering at the MIT conference had a decidedly AI focus, with panels and working papers on the potential for generative AI to transform sports."
-    publishedDateTime: 2024-03-07T20:23:00Z
-    webUrl: "https://www.seattletimes.com/business/sports-analytics-may-be-outnumbered-when-it-comes-to-ai/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 17
-
 secured: "aVzhZ1MsP+uQ8JSsof09pzV+MBv9N/NxO8cUTEf/rFUrIa/xhQOPUMsOPZ1kg+4baXQd9Qj4s6XO8OavB6GEmnq+nGlFNot8IhHfBx5TcRg8htFlN7iGc+3afyuhlJkbfqPUB5smiDo9OlVxkDUukkdLkJXMLfz4OKIR709oNeiXEcM6aqZM8n3A8GYnF+tNIU7xwztpbWm7x069pVivV1JZR/vzGC3ApwAdZPhmf8MLhrr36ENQDXRsZrYO3nHspx8BhPw/5jEqdso5De/AzRUXzcSEkZIy3Ppcew+RO+cFMNLHQHSzKDRn0EfjqRvU/f++bC9/z6xUQikVBVRttdSfX8UdJ0tc+2h74wlLRT0=;uOLhXDmAG5ZyQjjeUp0l1A=="
 ---
 

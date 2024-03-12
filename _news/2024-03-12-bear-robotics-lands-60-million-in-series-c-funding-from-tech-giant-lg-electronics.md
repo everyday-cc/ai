@@ -104,6 +104,29 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "LG-backed Bay Area robot waiter startup nabs meaty plate of funding"
+    excerpt: "This Redwood City robot waiter startup just raised a sizable Series C round that was led by LG Electronics. It's one of many robotics startups in the Bay Area scooping up capital."
+    publishedDateTime: 2024-03-12T19:37:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2024/03/12/bear-robotics-raises-funding-lg-electronics.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 54
+    images:
+      - url: "https://media.bizj.us/view/img/12219449/servihw553*1200xx2048-1152-0-107.png"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "LG-backed Bay Area robot waiter startup nabs meaty funding"
+    excerpt: "Last month, Sunnyvale-based humanoid robot developer Figure AI announced a $675 million round that included investors such as the OpenAI Startup Fund, Nvidia, Microsoft and Jeff Bezos. In Pescadero, Hippo Harvest is developing automated produce-harvesting ..."
+    publishedDateTime: 2024-03-12T19:37:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2024/03/12/bear-robotics-raises-funding-lg-electronics.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
 
 secured: "NtmVXqNat/9xiPw1rajiP2ZHRfzdjx2nIj6qgc61BEM/ZacAAN/IxbKT+ScXtrnGnD6sOLNR3MNCM8zyF9AjTn3Uf6HhPlbJ3cKbFbPizsvyuR2jheRmWMecBsBXU7Nugs3u9XLpdEQwj1ZnlNWQXr5TUafShCtIorulixFkGyggggDuqX0ktvIjmGDN4f2mg4MH0amIacHZLcZ+/eHXPpLD00cRG/F0Ftco0XN12zaHYmCnpWGjXEdCVQ5vHCjQCa1cDYtMNNgGOSkFf/hhpMWMnT3TzGSrFCOew44K4wG5DEqKiesFMZOld32gROr2xK+l7v3RS7BufHoEyaoHq8bMwSQU+4nYZ9wVEKQFfpA=;0YucgktAjJJiib+iQ30kUg=="
 ---

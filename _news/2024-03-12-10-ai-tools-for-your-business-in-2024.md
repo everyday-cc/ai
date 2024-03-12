@@ -39,24 +39,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "8 Best AI Tools For Work In 2024, According To Research"
-    excerpt: "Navigating a galaxy of AI apps and knowing which software to use for work can be an endless, time-consuming search. Here are eight of the best AI tools to use in 2024."
-    publishedDateTime: 2024-03-07T20:28:00Z
-    webUrl: "https://www.forbes.com/sites/rachelwells/2024/03/07/8-best-ai-tools-for-work-in-2024-according-to-research/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "NRG Media Has Embraced AI-Based Tools"
-    excerpt: "Headquartered in the Midwest, NRG provides content and digital marketing services through 36 radio stations to listeners and advertisers in Nebraska, Iowa, Illinois and Wisconsin. One way NRG uses AI is to create videos for clients using Waymark technology."
-    publishedDateTime: 2024-03-11T17:45:00Z
-    webUrl: "https://www.radioworld.com/news-and-business/headlines/nrg-media-has-embraced-ai-based-tools"
-    type: article
-    provider:
-      name: Radio World
-      domain: radioworld.com
-    quality: 17
 
 secured: "jOw9NjQNK7+4+mpA1NjoO+H/BAbkyZtpDGbHdpcQfju8jeffM7z/lk/F+nJoOXvtXfhx7SQ557311DvfGkxP08JP7t4lzToEsKCxxGXs6Kia84ml6fiJ36oDk6M/JPcrnYV4XPYc0silvmdUNILTS8Fcvhup1+5oBEBUacNkqk5vdMScom7vXrdcUlKdl6w8Boy2N39J6Gx1tjETxKKfOEJyqpZ8aE8n4YTJBJjz5g5jut01ZPZ7FU6vyRapl/9aOsYjxr9awYeQZJ9ksnNaBZGD8O7KrbiSGGONMzyJt4glqQHzLditqGYstuRJzRF3MGJeCX3cflAkjTEpvig0AtQMVfFqUBwT3Ix8X0as2sE3jsxqRfXrUNoE7lNchbs3Nn9dn6I6BdEYri+ykBYOERfHDuJwBVeX4sYCQDsoeW169dkTyyAazaI/1oFskuDMWuyqu6SSKesBGZwqr6trnWaVUeaA0AjiA/+hWpSHl31voVF1RACMwRENZ6rI3VpQmuqr9hIfjtekBxgkTj3E8g==;gcwijBSCQqYjqiJAGXkp2Q=="
 ---

@@ -126,6 +126,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 62
+  - title: "ChatGPT maker OpenAI lawyers up with familiar faces to once again challenge Elon Musk's claims"
+    excerpt: "OpenAI, the developer and owner of the artificial intelligence system ChatGPT, and its CEO Sam Altman, have chosen lawyers to represent the company and its officers in their fight with Elon Musk over the structure of the company."
+    publishedDateTime: 2024-03-12T16:54:00Z
+    webUrl: "https://www.cbsnews.com/sanfrancisco/news/chatgpt-maker-openai-lawyers-up-with-familiar-faces-to-once-again-challenge-elon-musks-claims/"
+    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/chatgpt-maker-openai-lawyers-up-with-familiar-faces-to-once-again-challenge-elon-musks-claims/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/chatgpt-maker-openai-lawyers-up-with-familiar-faces-to-once-again-challenge-elon-musks-claims/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 62
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2024/01/11/6ba7d85f-c25f-4203-8ab8-a5c07ef4f806/thumbnail/1200x630/437be254cb73b816e32d05321aed221f/cbsn-fusion-openai-breaking-down-copyright-lawsuits-thumbnail.jpg?v=20ef31957aa1eda7a0d36f36b8c0b1fc"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Explained: How the AI that drives ChatGPT will move into physical world"
     excerpt: "Like chatbots and image generators, this robotics technology learns its skills by analysing enormous amounts of digital data"
     publishedDateTime: 2024-03-12T16:54:00Z
@@ -164,6 +180,22 @@ related:
       - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/402e001b5deacefd3190ea5ef0cadb0a.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Google restricts AI chatbot Gemini from answering questions on 2024 elections"
+    excerpt: "Change, made out of ‘abundance of caution’, now applies to US and India and will roll out in nations where elections are held this year"
+    publishedDateTime: 2024-03-12T18:43:00Z
+    webUrl: "https://www.theguardian.com/us-news/2024/mar/12/google-ai-gemini-2024-election"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2024/mar/12/google-ai-gemini-2024-election"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2024/mar/12/google-ai-gemini-2024-election"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 54
+    images:
+      - url: "https://i.guim.co.uk/img/media/5264082df57f2dc47681c794aad6378cab916d4c/0_220_5997_3598/master/5997.jpg?width=620&quality=85&auto=format&fit=max&s=358c14d7d72b247e7eb462a7b8a22e23"
+        width: 620
+        height: 372
         isCached: true
   - title: "Alphabet Stock 2030 Forecast: Can Google Gemini Take on ChatGPT?"
     excerpt: "Google has been the undisputed search leader, but the company’s dominance in the digital ad market has been under pressure. In 2022, the combined market share of Meta Platforms and Alphabet in the U.S. digital advertisement market was 48.4%, marking the first time since 2014 that their combined market share fell below 50%."
@@ -245,6 +277,6 @@ related:
         height: 427
         isCached: true
 
-secured: "X/CFo3sf1jrdKTaHr4prmITzZ9BplfbUYCMWryFKzy15VI/MG4ca/DWGy06Qkf9c8kub+cxZEo/VHdqhUP8tU8qDBOLYo3FyE9miWIGbqXRA9vKs0p3RDsH09w+Eg5uN5ArYjgK9KPe28dJSEFWYBDfDY0Tlbbu7Z8lRCG7NDbmnIQAKQL4jTNV7nF8V+jhasSF7NWyeHci/piqr2sHmQaKwQ+2tREp8Aou/VJRJMIoZ1c2cOLGcUfxEuGvCvOy5lX/wALg0iycwjHmy6JOU441JIPhQVgQyRUqQD0AJ7waR/aMEnrOLYn15Q8K2MBoTs9QZ+PbDNHrasBEsdWjbsuXsrhEY/DQ+glv8+hOW5CA=;1vmzOtX3EJFV/s/GbU851A=="
+secured: "UxjX6AR423HGvEm3GcNe0E31/nTmC/co8TiMOklWSj31UFgecdul5PuNPyNyzC9miyc0Fw87PScMpWbsf+ITR9oIyb4eF1rlPA+9lWDruywW81ghuiFw3ZJ7L14+tPqZRj7Pw0TzFdSk6OYPL5z0MVpsrnEI5ivE4GzGApyl9xeDhzwqmrtGCFbnuZ1mtxy4bX2hgqj+T2xne9GicX6alhuaizTTNcpAB9SMpDBTKpzm1tfmWblB6h+5woh4Ingh2FBwt0Jf7dElG80ftF4kc/uw8vn5Ksrphzew5z99jW8FylrFKVJI8AvZBvP3jZmOEIeqCbSM+lC2DVZ0bMk35xcQPINER79ErX3ke0h6x5f0BIyC6HauoyCRfhooeFuPpZjUmbm/aQkGhnJrCJQZXxmfuebLycoxSilLJuUJxwhU5EKFwvhKdW6tuKFKwM6cVXXV9JUDj9rbiwuts/l6Z0IGLy6jQWzjJJKtZDfyLDwww13fuEQGx1TqvBpRskZsqLGjDMut6fhTT2Y2KvG88g==;WvgpfzI5PJrgglqTUpyTJg=="
 ---
 

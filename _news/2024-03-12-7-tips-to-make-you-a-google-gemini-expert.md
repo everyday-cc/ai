@@ -128,6 +128,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 62
+  - title: "ChatGPT maker OpenAI lawyers up with familiar faces to once again challenge Elon Musk's claims"
+    excerpt: "OpenAI, the developer and owner of the artificial intelligence system ChatGPT, and its CEO Sam Altman, have chosen lawyers to represent the company and its officers in their fight with Elon Musk over the structure of the company."
+    publishedDateTime: 2024-03-12T16:54:00Z
+    webUrl: "https://www.cbsnews.com/sanfrancisco/news/chatgpt-maker-openai-lawyers-up-with-familiar-faces-to-once-again-challenge-elon-musks-claims/"
+    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/chatgpt-maker-openai-lawyers-up-with-familiar-faces-to-once-again-challenge-elon-musks-claims/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/chatgpt-maker-openai-lawyers-up-with-familiar-faces-to-once-again-challenge-elon-musks-claims/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 62
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2024/01/11/6ba7d85f-c25f-4203-8ab8-a5c07ef4f806/thumbnail/1200x630/437be254cb73b816e32d05321aed221f/cbsn-fusion-openai-breaking-down-copyright-lawsuits-thumbnail.jpg?v=20ef31957aa1eda7a0d36f36b8c0b1fc"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Explained: How the AI that drives ChatGPT will move into physical world"
     excerpt: "Like chatbots and image generators, this robotics technology learns its skills by analysing enormous amounts of digital data"
     publishedDateTime: 2024-03-12T16:54:00Z
@@ -152,6 +168,22 @@ related:
       - url: "https://bgr.com/wp-content/uploads/2024/03/AI-Malware.jpg?quality=82&strip=all"
         width: 2000
         height: 1119
+        isCached: true
+  - title: "Google restricts AI chatbot Gemini from answering questions on 2024 elections"
+    excerpt: "Change, made out of ‘abundance of caution’, now applies to US and India and will roll out in nations where elections are held this year"
+    publishedDateTime: 2024-03-12T18:43:00Z
+    webUrl: "https://www.theguardian.com/us-news/2024/mar/12/google-ai-gemini-2024-election"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2024/mar/12/google-ai-gemini-2024-election"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2024/mar/12/google-ai-gemini-2024-election"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 54
+    images:
+      - url: "https://i.guim.co.uk/img/media/5264082df57f2dc47681c794aad6378cab916d4c/0_220_5997_3598/master/5997.jpg?width=620&quality=85&auto=format&fit=max&s=358c14d7d72b247e7eb462a7b8a22e23"
+        width: 620
+        height: 372
         isCached: true
   - title: "Google restricts election-related queries for its Gemini chatbot"
     excerpt: "Google on Tuesday announced it will begin restricting the types of election-related questions that users can ask its Gemini chatbot."
@@ -249,6 +281,6 @@ related:
         height: 427
         isCached: true
 
-secured: "WwQoSKCZSstIOBX9Xacrx5L6Jg76O93sY47G1bnD//q+sBbqem/TouUXBVagEGK087QuD+x8VV2X/cWUSJXnp9MVcSnP/NxW9jknX8cu0mhaGFTp+yeSuNkw4FbkR54j/itKQGYdGfLK0/2dUBLMQxM/1Zd4hay1w56kNF1mM7gN3HRqXGsiDiDo8yLONiizP9A3s7wccVPx3GT9j618IC5SSSQwN7tMVhUp5ebNFQWVZwYBrOov3Q/gifZMKP0hZba6Dz6xp18JZEnE2BJHnZSRIUIfEXxkCSHKAQf1wRg9KC3iBad2RiWNKH77zwOxcrO4uRPVHPGN1J0mIUsu9on6MUu04P71T8ptYZlYniM=;P94V0V+UzSXuXX8JCWFrJA=="
+secured: "RgzCDtkfE/GTmIEbO015bsnRJ57BymfTEAj7w0iLyxjFqMnc+a3O+3Bqe7TTuEno5JWEPfOrnHdD15bnJBoG/e3cJQS6xHSEcopTCsQl/cZHuBZ0k3wYjwbuscX+Pt7JP9Al1ICKIUNdOSqMmHxPWG4rVKEnYdtYWkjffksPpC2u9LekLwzmm3kk6184DAFAPhDG+NvdIjfq+AW6OfpQP/jhtG9U2IxfmwBl5b1notwsbrdpe5jrsxDjacInXAgtkW+3PoilxtjehLTnwNw2vDCxiad95SrplkltJ0WtJy9gSEkinuXbR6OSf45QREJzrTjMh5md2sTEZ3gqK5ko5lbDfccwPDedFRaBQN4wc89QqCy5uE5x0x6Nvr1gh49njA7pswgcaQcHRwyauytOE90CpCQzx3OutJfLPbbOMXnrAwwOXEL7h6j2w5BvUwGlwvG5ob6Nq0SqdeS08c1ptkpnLY1Rkaudj+RsRbielTyal2fsPB8i9nYrTEwhhW/jWLzUPIwYXkpAs3VvdYfQKg==;OcopIoKGql2u6SY8Nfyyig=="
 ---
 

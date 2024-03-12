@@ -62,7 +62,7 @@
       "originalUrl": "https://news.crunchbase.com/ai/new-unicorn-board-companies-february-2024-moonshot-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -98,49 +98,6 @@
       ]
     },
     {
-      "path": "_news/2024-03-12-covariant-claims-its-ai-model-will-let-robots-learn-like-humans.md",
-      "title": "Covariant claims its AI model will let robots learn like humans",
-      "excerpt": "AI start-up Covariant claims its RFM-1 AI model will give robots a better understanding of language and the physical world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.siliconrepublic.com/machines/covariant-ai-robotics-reason-foundaton-model",
-      "originalUrl": "https://www.siliconrepublic.com/machines/covariant-ai-robotics-reason-foundaton-model",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.siliconrepublic.com/wp-content/uploads/2024/03/AdobeStock_280204756.jpeg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-12T10:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconRepublic",
-        "domain": "siliconrepublic.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-03-12-bear-robotics-a-robot-waiter-startup-just-picked-up-60m-from-lg.md",
       "title": "Bear Robotics, a robot waiter startup, just picked up $60M from LG",
       "excerpt": "LG Electronics may no longer be a household name in smartphones, but it still sees a big future in gadgets like robots. Today, the company confirmed a $60",
@@ -149,7 +106,7 @@
       "originalUrl": "https://techcrunch.com/2024/03/12/bear-robotics-a-robot-waiter-startup-just-picked-up-60m-from-lg/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 199,
       "tags": null,
       "images": [
         {
@@ -223,6 +180,58 @@
         "name": "brandequity.economictimes.indiatimes",
         "domain": "indiatimes.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-glacier-is-training-ai-powered-recycling-robots.md",
+      "title": "Glacier is training AI-powered recycling robots",
+      "excerpt": "The future of recycling is here, and of course, it involves robots and artificial intelligence. Rebecca Hu, the co-founder of the robotics company Glacier, creates robots that help recycling plants separate and, well, recycle material. Before, sorting ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/03/12/glacier-is-training-ai-powered-recycling-robots/",
+      "originalUrl": "https://techcrunch.com/2024/03/12/glacier-is-training-ai-powered-recycling-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/found-2022-featured.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/03/12/glacier-is-training-ai-powered-recycling-robots/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/glacier-is-training-ai-powered-recycling-robots/amp/",
+      "publishedDateTime": "2024-03-12T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -922,7 +931,8 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {

@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-01-24-facial-recognition-app-for-dogs-developed-to-help-in-fight-against-rabies.md",
+      "title": "Facial recognition app for dogs developed to help in fight against rabies",
+      "excerpt": "We developed this app to see if facial recognition might work, and it's showing great promise in helping us to achieve that goal.\" Rabies kills an estimated 60,000 people annually.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2024-01-facial-recognition-app-dogs-rabies.html",
+      "originalUrl": "https://phys.org/news/2024-01-facial-recognition-app-dogs-rabies.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-24T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-24-texas-man-sues-macys-and-sunglass-hut-parent-over-wrongful-arrest-linked-to-facial-recognition.md",
       "title": "Texas man sues Macy’s and Sunglass Hut parent over wrongful arrest linked to facial recognition",
       "excerpt": "A Texas man is suing Macy’s and the parent company of Sunglass Hut after the two companies allegedly relied on error-prone facial recognition technology to falsely accuse him of armed robbery.",
@@ -1250,41 +1284,6 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-01-05-ces-2024-eys3ds-new-edge-ai-chips-transforming-computer-vision-for-robotics.md",
-      "title": "CES 2024: eYs3D's New Edge AI Chips Transforming Computer Vision for Robotics",
-      "excerpt": "and TAIPEI, Jan. 5, 2024 /PRNewswire/ -- Known as a leader in 3D sensing and computer vision semiconductors under Etron Technology, eYs3D Microelectronics Corp. is announcing ahead of CES 2024 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20240105hk02517/ces-2024-eys3ds-new-edge-ai-chips-transforming-computer-vision-for-robotics",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20240105hk02517/ces-2024-eys3ds-new-edge-ai-chips-transforming-computer-vision-for-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-05T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar",
-        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null

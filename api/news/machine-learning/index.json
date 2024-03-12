@@ -55,49 +55,6 @@
       ]
     },
     {
-      "path": "_news/2024-03-12-akamai-neural-magic-partner-to-deploy-high-powered-deep-learning-ai-software.md",
-      "title": "Akamai, Neural Magic Partner To Deploy High-powered Deep Learning AI Software",
-      "excerpt": "Cloud company Akamai Technologies Inc. (AKAM) announced Tuesday a strategic partnership with Neural Magic, a developer of software",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/akamai-neural-magic-partner-to-deploy-high-powered-deep-learning-ai-software-1033154430",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/akamai-neural-magic-partner-to-deploy-high-powered-deep-learning-ai-software-1033154430",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-12T11:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-03-12-team-working-on-the-ai-brain-for-the-apple-car-move-to-apples-artificial-intelligencemachine-learning-group.md",
       "title": "Team working on the AI ‘brain’ for the Apple Car move to Apple’s artificial intelligence/machine learning group",
       "excerpt": "In a Q&A session focused on the Apple Car, Bloomberg‘s Mark Gurman explained what has happened with the Apple Car team once the project was canceled. Here’s what he says: The Apple car team was broken up.",
@@ -456,10 +413,9 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
+        "Microsoft AI",
         "AI",
-        "Machine Learning",
-        "Microsoft AI"
+        "Machine Learning"
       ]
     },
     {
@@ -1358,6 +1314,50 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-meta-is-seeking-chip-engineers-to-develop-new-ai-and-ml-specialized-accelerators.md",
+      "title": "Meta is seeking chip engineers to develop new AI and ML specialized accelerators",
+      "excerpt": "According to recent job listings posted online, Meta wants to hire highly skilled hardware engineers to develop a new generation of application-specific integrated circuit (ASIC) designs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/102023-meta-seeking-chip-engineers-develop-new-ai-ml.html",
+      "originalUrl": "https://www.techspot.com/news/102023-meta-seeking-chip-engineers-develop-new-ai-ml.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-26T13:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

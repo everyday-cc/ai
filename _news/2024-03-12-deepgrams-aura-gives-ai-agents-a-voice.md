@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/03/12/deepgrams-aura-gives-ai-agents-a-v
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/deepgrams-aura-gives-ai-agents-a-voice/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -40,6 +40,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 9
+  - title: "Deepgram Launches Aura, a Text-to-Speech API for Real-Time, Conversational Voice AI Agents"
+    excerpt: "With Aura, developers can now build production-grade, secure, and human-like voice AI applications that run faster and more efficiently than any other"
+    publishedDateTime: 2024-03-12T18:38:00Z
+    webUrl: "https://www.01net.it/deepgram-launches-aura-a-text-to-speech-api-for-real-time-conversational-voice-ai-agents/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
     quality: 9
 
 secured: "g7nZLLqlO0ZG3UNM/qy8WGk/o8h9+AoecJOU2hVmbRK5CbElclaEyOeA/ST7zmM7Nu7ZoPbhWgG6eEF9Q3WvJ1SyZD3tKCgjrD6dD8ISkL1KmtZByGWqooaTQYJkzyxTuyUDzzBRUDtxut+Wg4DGLNEbjW0IfrT8OCAP3+ON/QUA3vdym0mzVL8xWjwsiHdMvAKxrqZk7Zi9dCrPJ03HdKC3mYDHZfZIbme5CIthShLt9c0bFSUN0V5MotbAMB4jkVmBMGIOh+pNDuhnPo6L+XdHPDigHWJTNkjPKgFGeG2yKG8Fk0NoYT/Uq7vWYaAo6hFiJhj4YUTPHsfjGkEcPAYJ+4Wj/wokozINVu430q4=;kEqI7R2rl3TPbkp8z9JAyA=="

@@ -35,6 +35,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Deepgram Launches Aura, a Text-to-Speech API for Real-Time, Conversational Voice AI Agents"
+    excerpt: "With Aura, developers can now build production-grade, secure, and human-like voice AI applications that run faster and more efficiently than any other"
+    publishedDateTime: 2024-03-12T18:38:00Z
+    webUrl: "https://www.01net.it/deepgram-launches-aura-a-text-to-speech-api-for-real-time-conversational-voice-ai-agents/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
+    quality: 9
 
 secured: "Nd8/aY2lCrN93dao1t9P4fGx4o1x8tJITd8MD7lLRsO8ijxk7dvyXiW72NSKThrSMnH13W7/78z9fjFNIeaFd9QrlN5JgGeHKMkbsVMbOU3OcQcz7/X2t+0DjY9BCmEDMQ31ShyhfHLCx6Qo4utbwbuiINda3PAIcmebQ/QtuqpdwHP6nm4FuLKwVZJhbVNIYiRZPT1BbFw7rvXKF8ldm/9w3nvr93PPB8CUe/3j+rY4aWTMMZIzprK+k+H6n7tHJHc1j/klS9KjTmNTGKSC+L0uz0iCclPK76lC86yl47ecYE9VPPuWsSz6oUzdzYlGDBfkwxLJprnrxTFLcYL5M/uHi0Fo7sYKr/k61GOZ72qSCHWbmoWEv4/c71yyVfk2KEu1c3SsGDr1S85mgHNiTtWQmQNhxE9MfEoOEO+1dBDui3odRfS5B7YrBqcGKVsunGKVhrOpziabw80ZGa1wlyO0tDylpni4bpe3Wk3/DzvNNIuTmOnXq4KYKs78Y+1E1PDiqi56w0N0te152MYgDg==;UeQQWVjKaiJnsdD4/TjAgQ=="
 ---

@@ -25,22 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "As artificial intelligence grows and consumers gain access, Rice joins a federal consortium on AI safety"
-    excerpt: "Amid this environment, a number of institutions are joining a new federal consortium on AI safety, which aims to consider how the technology gets used within different industries, and what problems might come up."
-    publishedDateTime: 2024-03-07T18:28:00Z
-    webUrl: "https://www.houstonpublicmedia.org/articles/shows/houston-matters/2024/03/07/480005/as-artificial-intelligence-grows-and-consumers-gain-access-rice-joins-a-federal-consortium-on-ai-safety/"
-    ampWebUrl: "https://www.houstonpublicmedia.org/articles/shows/houston-matters/2024/03/07/480005/as-artificial-intelligence-grows-and-consumers-gain-access-rice-joins-a-federal-consortium-on-ai-safety/?amp=1"
-    cdnAmpWebUrl: "https://www-houstonpublicmedia-org.cdn.ampproject.org/c/s/www.houstonpublicmedia.org/articles/shows/houston-matters/2024/03/07/480005/as-artificial-intelligence-grows-and-consumers-gain-access-rice-joins-a-federal-consortium-on-ai-safety/?amp=1"
+  - title: "Artificial Intelligence Is Monopolizing the Attention of Regulators and Lawmakers"
+    excerpt: "The new era of AI technology has ushered in competition concerns alongside consumer-protection fears. Accordingly, regulators and lawmakers are taking note of the AI craze and are keen on ensuring that companies involved in AI are respecting both antitrust and consumer protection laws."
+    publishedDateTime: 2024-03-11T14:02:00Z
+    webUrl: "https://www.law.com/newyorklawjournal/2024/03/11/artificial-intelligence-is-monopolizing-the-attention-of-regulators-and-lawmakers/"
     type: article
     provider:
-      name: Houston Public Media
-      domain: houstonpublicmedia.org
-    quality: 55
+      name: Law
+      domain: law.com
+    quality: 32
     images:
-      - url: "https://cdn.houstonpublicmedia.org/wp-content/uploads/2015/08/06202931/HM-CC_Banner-mobile-450x300.png"
-        width: 450
-        height: 300
+      - url: "https://images.law.com/contrib/content/uploads/sites/389/2023/08/Hoffman-and-Schwartz.jpg"
+        width: 767
+        height: 633
         isCached: true
+  - title: "U.S. Consumers Strongly Support Government Regulation on AI Content: HarrisX Survey"
+    excerpt: "Software-generated video, audio and photos are a key concern for respondents, as is protection from tech displacing jobs."
+    publishedDateTime: 2024-03-08T13:00:00Z
+    webUrl: "https://variety.com/vip/ai-regulation-survey-content-government-harrisx-1235933648/"
+    type: article
+    provider:
+      name: Variety
+      domain: variety.com
+    quality: 11
 
 secured: "tyUId//GMQ4Iwyia8fHJWUl4l3ETfXMVwLrW/tkrLMEQY/I6lWJEHxnnRNVFXIpD9n8LXJjbGwZOVDwM80zOHMRHS4vDYvcDMONF4kif65k/Vd/3moQglTp1RMrfEdr1FUaP3r/tRn1eGx7DwVIDMujLE9a6VyJfo3JluLDiD0zx6RvuGwtlf9e2JrRnqvqlgLPUUAdO7Lmzxt6aRYBxGKB9rYcLBb/T/3DB8D9MxK5nuLnvAT8OJ4CEWUXUkD6Ow7++5cIPnErInd+/ADGKFu1ZTanIq3H8PO3Awxk8a1LCXsbS5KQeYUiR6jJn02UeT2Yw1kB86hcdTydmr9XjB+vhOz622iyOSCbQipfB1eU=;EOfvz4aufcrzlDf3qzsm+Q=="
 ---

@@ -25,6 +25,36 @@ images:
     isCached: true
 
 related:
+  - title: "A safety group graded 14 driver-assistance systems. Tesla's self-driving option was the worst."
+    excerpt: "Tesla ranked the worst in a safety study of autonomous driving systems, but few automakers did particularly well."
+    publishedDateTime: 2024-03-12T17:30:00Z
+    webUrl: "https://www.businessinsider.com/tesla-autopilot-safety-assisted-self-driving-systems-2024-3"
+    ampWebUrl: "https://www.businessinsider.com/tesla-autopilot-safety-assisted-self-driving-systems-2024-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-autopilot-safety-assisted-self-driving-systems-2024-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 77
+    images:
+      - url: "https://i.insider.com/65f05c66ce7f1785b2e8c927?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Tesla Autopilot, similar automated driving systems rated 'poor' by safety group"
+    excerpt: "The vast majority of automated driving systems tested by the Insurance Institute for Highway Safety's new ratings system were deemed \"poor\" based on their safeguards."
+    publishedDateTime: 2024-03-12T21:00:00Z
+    webUrl: "https://www.aol.com/finance/tesla-autopilot-similar-automated-driving-175924886.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 35
+    images:
+      - url: "https://media.zenfs.com/en/aol_fox_business_239/4556201f0f28a4499df18b73d281102d"
+        width: 705
+        height: 720
+        isCached: true
   - title: "Tesla Autopilot and similar automated driving systems get ‘poor’ rating from prominent safety group"
     excerpt: "The Insurance Institute for Highway Safety, which rates cars and SUVs for safety, examined so-called advanced driver assistance systems such as Tesla Autopilot and found them wanting."
     publishedDateTime: 2024-03-12T15:01:00Z
@@ -39,7 +69,16 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla Autopilot, 9 other assisted-driving systems receive “poor” rating from IIHS"
+    excerpt: "The IIHS declared that there is no evidence that Autopilot or other assisted-driving systems improve real-world safety based on crash data."
+    publishedDateTime: 2024-03-12T18:27:00Z
+    webUrl: "https://www.cbtnews.com/tesla-autopilot-9-other-assisted-driving-systems-receive-poor-rating-from-iihs/"
+    type: article
+    provider:
+      name: cbtnews
+      domain: cbtnews.com
+    quality: 14
 
-secured: "tHwVDassF4CnWns3By2J4drY6tNz+7yOwcMNbGo20Uoey4YepEFvo2BbPD6QKXwCBDANoriQ1dgwKkQCVEQPrbMvxqtkJOo7h8B8AjVmx5nz0bNis/aQUZxIKe61nxDkG5e2VjWjKKHtjm0uXoH4rA4VpOxMEe/AVnDA9QkIOlRhkECg7XynGJ8HB6xz1oU+ewFiutqYuatZauQofGpQgxXus9tvf/hHcscphQu0NKTDgzJPccWPZFYB6LWiiYxZe/O5GKEoYCwZdvEk/tW04+RZCzWK6iUNoQ61C0ezHjyADBqHT/D5BbDiE3k5yEOfPB+4HiK2NztEqEZKxSFLlBasElU2H+fTgneHh5HLaMw=;mfR7YaIRLOuAii42DMRWnQ=="
+secured: "HO4dw76KsL7XkH9+hGm1y+0V9oMtQCTHWFMtxHyGBmPYyZauEl6o6Q6k0Z/cTaIAc/E3szeSItsYV1O66+/ACMAELznFJmyYTVWILtdAvjJPmnjYGUsIdVpyEy3fZNGC1q58vz2n1kncJf+tsSjs5qddxGUQF9u6p5W/rGOtnPO9tI4chFJa/iv/hexx3XWqescmPMzlFNridUxMjh7MTLsfXVlIedqqfK1hs/yTejzOxwxlPddmYoXKBv1Y8XSroI3+YQDC1F+UMW1OObmNsfrFr/GDZo1ntstyGhapp7/+DmP+s4S3sSMXiP1W4/DX/iIbKTEZqnGmGurApvg93V8jSdTs7uEZrnobXeTStIBZ95+n4kvF/2dpIe3gky/9G4K1jv/79rvz3lyZwf/yxqmS6C2UkZtPsHfnbS4NfMkrmGq1tAHWGh6QI3aQ0l8sopOOfMsXOldVb41JoKpVgm3PrqKCN5i+NPSAELl7cw0IonEBOiG8hxqesvSvqsV15myjagHNHN9u/7S17wSvqA==;AJS5/HODiJy7mdUrBbxN6Q=="
 ---
 

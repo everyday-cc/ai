@@ -9,8 +9,8 @@ ampWebUrl: "https://appleinsider.com/articles/24/03/11/apple-is-planning-to-use-
 cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/24/03/11/apple-is-planning-to-use-artificial-intelligence-to-optimize-app-store-ads/amp/"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: AppleInsider
@@ -43,6 +43,15 @@ related:
         width: 1024
         height: 499
         isCached: true
+  - title: "Apple has begun testing an AI-powered ad product similar to Google's Performance Max as it looks to supercharge its $7 billion ad business"
+    excerpt: "Expansion of this tool could lead to new ad placements across Apple's properties, experts said."
+    publishedDateTime: 2024-03-11T17:39:00Z
+    webUrl: "https://www.businessinsider.com/apple-tests-ai-app-store-ads-performance-max-2024-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 13
 
 secured: "FBXuzEYwHnYSa4t9FEdLj5tsm5MdYUeqqVM8jeQUsZW6wx/k251v8P6kdJmIS2w6PkBhbxHYMGGb4ZJxK2MPhGh+jeLz2p+OGzop3oNlHWfjiBTV/qIx5O+9VsJqhcwLWKfTIUythUxgXyXvqKju39BhxYdr7Mlgfb3VicRk1oDTJNJWZakqMvAR5mwS1rz7U41YKFMZkEUcJpX1AKe03CUWRngUm4fIsEju+osShrYIiN1c71ksoibNl32akL1/4NXuNXu58wg8FN2mSWw8uvc6Q2fHwteMm0raMZyyRGjd2RcQRNCNnYCg1xvXSJIETKE5ND7FV+fFq5Y9V7uwasQTi/pJhgVbwk+oNFjf9bVoBR+XYz55RJG9pwcIbUXgciwteYQzndgRLy/vZuqAXEffuqCFDj7cRJu8cIitntRg5Y8HnXW0dwa1q+2p3nUK3Bl9vJ74vKWfZ7ImKr9RFn+RtLNRvP+RL5vbMglKvpNo+FX/F43PeVU3gLjkUHQ2LM3yw/QI1cdiSqhasXreqA==;WxnYGzmcUmF/x7my2g2Phg=="
 ---

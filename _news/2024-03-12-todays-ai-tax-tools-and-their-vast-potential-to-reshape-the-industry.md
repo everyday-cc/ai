@@ -3,26 +3,20 @@ category: news
 title: "Today's AI tax tools — and their vast potential to reshape the industry"
 excerpt: "With two fields increasingly working together, wealth management and accounting firms are rolling out tools. Are financial advisors ready to work with the robots?"
 publishedDateTime: 2024-03-11T23:16:00Z
-originalUrl: "https://www.accountingtoday.com/current-ai-tools-at-the-intersection-of-wealth-and-tax"
-webUrl: "https://www.accountingtoday.com/current-ai-tools-at-the-intersection-of-wealth-and-tax"
+originalUrl: "https://www.financial-planning.com/news/current-ai-tools-at-the-intersection-of-wealth-and-tax"
+webUrl: "https://www.financial-planning.com/news/current-ai-tools-at-the-intersection-of-wealth-and-tax"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Accounting Today
-  domain: accountingtoday.com
+  name: Financial Planning
+  domain: financial-planning.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://arizent.brightspotcdn.com/dims4/default/c2ef8d2/2147483647/strip/true/crop/7000x3675+0+317/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2Fec%2F87%2F746a6d6743548f4867438c4fa9fd%2Fadobestock-299562309.jpeg"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "Welcome to the Valley of the Creepy AI Dolls"
@@ -40,6 +34,6 @@ related:
         height: 670
         isCached: true
 
-secured: "YdGdj2g77u1jiwXe48FR1ebmnQ2OCStgCBw74KB639+7MqIFdGYMr28b6TRGjL9dkggN/7d8AutQJpn5EkICOQCbnv0aKiL9JFfdAGBbP9SeeAV95LTLZpattDuGNBrlpxNfThraZTsT104eC8JkzMxM8rRNn7m4bs+JSzhdfNLy9si8gSYidXKBpdmzoH47P8Wup5x+Kmr2lShPBpZUx3JcC11xJQ5cBf0y+d1xP9Z8yZCQvlsMg7sQR+riC4AzLMiL2lvU2SQku4F+rhKE7wtUvgvV1EluKuz/MzLmZc9Z1vTQn2JwCHZ0QXEa27QgF9HBzGfDWBqYMW+dbvzQgicc2fmrQnBL3/S7iXD1bb/ibkpT6MbZA0LlN2CofNBMv70m6BDURKzbb6TLyZyQU4dKBbsd0dm/4/gAZRfMRPgCE8sYCzjczIO7Vopx8LZlEZ3TtOE0A7j6ROQ4zb7nSTNmzNzboOmI2dSJJ2sTNFCf23Bl/MQpU9Gr0U50tMvT9X8WjWG91dABut+k7ELE5g==;8S4pJL4dw8Ph5epnrknepA=="
+secured: "qHsI73yCPXz2wUJZE2rLowtmFywNbeGspFcInGz297pwx+9WhExRwQpdaL0b9P5D29CpJfViDgKVq4gG3S44et/rg6kTCidlmM2dwOZlgVYEdZSv4uEA5Lz5/sZr2HVq8bR68Gu+pLInrhK5ZdncTLy5g4tIZKkvk3vvYTR3xjf+NOyCqwO+E6YbzK6imrOM340N+SJNKNu76HhvVPv+Ryt+oo6UKE0+2fDka3YzQyKF9mORhWW7aVUYNFK0iuAez+t0vMMD0rff8MJqUt3KwRHSgFCgv7mAynxAcHnzqu5sAZfRRxGqrRlt8b0LQjkH9tIp+hS9Shx8lpoNogjdqiiR4vEnLR6F7zW2d3rxbRRtNyYhBw6r4QjtlGHxN4rDbc8iwfT6OX22oW2IMRDpHkHsVB9PLkdyZiMVi/5AG5e5//8hupLweuALKwy8h6gAyKqlSjanTgwf7oxneRHopcx2G+veVchKAxUHJfzbpIob5nrJ39BptxQe24kVgxLJsvG58IzwXHfT3VEXlArm2A==;nebe37iIoyKq6ctovU8bmw=="
 ---
 

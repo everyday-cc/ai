@@ -18,6 +18,17 @@ topics:
   - IBM AI
   - AI
 
+related:
+  - title: "Addressing Cybersecurity Expectations in Healthcare"
+    excerpt: "New policy initiatives to scrutinize healthcare-related anticompetitive practices Enhanced oversight of private equity (PE) firms’ ownership structures New regulations addressing the use of artificial intelligence in healthcare In short, 2024 promises to ..."
+    publishedDateTime: 2024-03-12T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/addressing-cybersecurity-expectations-9687991/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 19
+
 secured: "UkxnvWJvylMKqzMKXdme8QbmRDpk71UV3urmmgK9AF9fXOVwYasfNDxa5mPcV/FziOGo7LxhisJdX+0e7scIh0mYFcZ9+HGiFVqGZgStEe2iO1U815E1zw1LwkEZNyuGCVixUjXr9LQLjDZr29SSbuBfegvUHFj3twxefc/H4MAvDh+uPfePKXMqHeMpnnc7TE8EZzE5JCfH4YtQFaadx1HCBpW/4K8xQ2/M7WFyENdAGyqNtAh1jUj5GkWRuW6RuPLlc0aEXnS46KIOfAReBdTcJw+e3sxt1cJlT2KLgYaCsiche7KsQXbDFrE1J0d7pyRJnmdG82xrdhKTFnrN52jCeckLcCEaBspW+6PF7D0=;+/pHi9jnwEpMGbKzwpkUHg=="
 ---
 

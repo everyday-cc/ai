@@ -31,93 +31,84 @@ images:
     isCached: true
 
 related:
-  - title: "How Stitch Fix Is Using Generative AI To Help Us Dress Better"
-    excerpt: "What makes Stitch Fix really special is its ability to strike that perfect balance between human knowledge and machine capabilities."
-    publishedDateTime: 2024-03-08T05:00:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/03/08/how-stitch-fix-is-using-generative-ai-to-help-us-dress-better/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/03/08/how-stitch-fix-is-using-generative-ai-to-help-us-dress-better/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/03/08/how-stitch-fix-is-using-generative-ai-to-help-us-dress-better/amp/"
+  - title: "Glacier is training AI-powered recycling robots"
+    excerpt: "The future of recycling is here, and of course, it involves robots and artificial intelligence. Rebecca Hu, the co-founder of the robotics company Glacier, creates robots that help recycling plants separate and, well, recycle material. Before, sorting ..."
+    publishedDateTime: 2024-03-12T00:00:00Z
+    webUrl: "https://techcrunch.com/2024/03/12/glacier-is-training-ai-powered-recycling-robots/"
+    ampWebUrl: "https://techcrunch.com/2024/03/12/glacier-is-training-ai-powered-recycling-robots/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/glacier-is-training-ai-powered-recycling-robots/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65e4a9bf6aa5b8be3b7e9175/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1599
-        height: 900
-        isCached: true
-  - title: "How generative AI will change low-code development"
-    excerpt: "AI copilots and code generators offer similar benefits to low-code platforms, but they're not the same. Here's what industry leaders are saying about the future of low-code development."
-    publishedDateTime: 2024-03-11T09:00:00Z
-    webUrl: "https://www.infoworld.com/article/3713500/how-generative-ai-impacts-low-code-development.html"
-    ampWebUrl: "https://www.infoworld.com/article/3713500/how-generative-ai-impacts-low-code-development.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3713500/how-generative-ai-impacts-low-code-development.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 87
-    images:
-      - url: "https://images.idgesg.net/images/article/2023/10/shutterstock_2248315255-100947624-large.jpg?auto=webp&quality=85,70"
+      - url: "https://techcrunch.com/wp-content/uploads/2022/05/found-2022-featured.jpg?resize=1200,675"
         width: 1200
-        height: 691
+        height: 675
         isCached: true
-  - title: "Worried An AI Is Going To Take Your Job? Here’s How To Stay Relevant In The Generative AI Era"
-    excerpt: "To stay relevant in the generative AI era, it's crucial to educate yourself about AI capabilities and assess how AI might impact your job."
-    publishedDateTime: 2024-03-12T07:06:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/03/12/worried-an-ai-is-going-to-take-your-job-heres-how-to-stay-relevant-in-the-generative-ai-era/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/03/12/worried-an-ai-is-going-to-take-your-job-heres-how-to-stay-relevant-in-the-generative-ai-era/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/03/12/worried-an-ai-is-going-to-take-your-job-heres-how-to-stay-relevant-in-the-generative-ai-era/amp/"
+  - title: "The Future Of Learning: Reskilling And Rethinking In The AI Age"
+    excerpt: "The rise of AI presents a paradigm shift for the business world, demanding a complete reimagining of both education and the future of work."
+    publishedDateTime: 2024-03-12T03:30:00Z
+    webUrl: "https://www.forbes.com/sites/timothypapandreou/2024/03/11/the-future-of-learning-reskilling-and-rethinking-in-the-ai-age/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 76
+    quality: 67
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65effec6d0230d764246a74b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65efca1945b0f1fb09e168dc/0x0.jpg?format=jpg&crop=1797,1011,x0,y92,safe&height=900&width=1600&fit=bounds"
         width: 1600
         height: 900
         isCached: true
-  - title: "Google aims to relaunch Gemini AI image generation tool after addressing accuracy concerns"
-    excerpt: "This move comes as Google DeepMind CEO Demis Hassabis announced plans to reintroduce the Gemini AI image generation tool after addressing the inaccuracies that led to its temporary suspension"
-    publishedDateTime: 2024-03-12T10:43:00Z
-    webUrl: "https://www.tbsnews.net/tech/google-aims-relaunch-gemini-ai-image-generation-tool-after-addressing-accuracy-concerns-807942"
-    ampWebUrl: "https://www.tbsnews.net/tech/google-aims-relaunch-gemini-ai-image-generation-tool-after-addressing-accuracy-concerns-807942?amp"
-    cdnAmpWebUrl: "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/tech/google-aims-relaunch-gemini-ai-image-generation-tool-after-addressing-accuracy-concerns-807942?amp"
+  - title: "Akamai, Neural Magic Partner To Deploy High-powered Deep Learning AI Software"
+    excerpt: "Cloud company Akamai Technologies Inc. (AKAM) announced Tuesday a strategic partnership with Neural Magic, a developer of software"
+    publishedDateTime: 2024-03-12T11:44:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/akamai-neural-magic-partner-to-deploy-high-powered-deep-learning-ai-software-1033154430"
     type: article
     provider:
-      name: tbsnews
-      domain: tbsnews.net
-    quality: 49
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
+  - title: "Apple is Reportedly Experimenting With an AI-Powered Ad Performance Tool"
+    excerpt: "Apple is reportedly experimenting with a new artificial intelligence (AI)-powered tool that will help advertisers promote their apps on its App Store. The new AI ad performance to"
+    publishedDateTime: 2024-03-12T07:27:00Z
+    webUrl: "https://www.gadgets360.com/ai/news/apple-ai-ad-performance-tool-experimenting-report-5223398"
+    ampWebUrl: "https://www.gadgets360.com/ai/news/apple-ai-ad-performance-tool-experimenting-report-5223398/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/ai/news/apple-ai-ad-performance-tool-experimenting-report-5223398/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 58
     images:
-      - url: "https://www.tbsnews.net/sites/default/files/styles/social_watermark_bkash/public/images/2024/03/12/unnamed_1701932823549_1710219051782-ezgif.com-avif-to-jpg-converter.jpg"
-        width: 600
-        height: 314
+      - url: "https://i.gadgets360cdn.com/large/app_store_pexels_1710228296554.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Dating apps use AI to help users find their dream partner"
-    excerpt: "Dating apps are using artificial intelligence to help users find their perfect match. NBC News' Valerie Castro spoke to some people who found love while using the AI-driven dating apps."
-    publishedDateTime: 2024-03-07T20:39:00Z
-    webUrl: "https://www.nbcnews.com/now/video/dating-apps-use-a-i-to-help-users-find-their-dream-partner-205672005516"
+  - title: "Covariant develops video-generating AI model for powering warehouse robots"
+    excerpt: "The artificial intelligence model also lends itself to other tasks. According to Covariant, RFM-1 can generate short videos that depict industrial robots performing tasks such as moving merchandise between boxes. Those videos, the startup claims, can be used to equip industrial robots with the ability to plan their actions."
+    publishedDateTime: 2024-03-11T19:48:00Z
+    webUrl: "https://siliconangle.com/2024/03/11/covariant-develops-video-generating-llm-powering-warehouse-robots/"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 47
-  - title: "This Biotech Founder Wants to Use AI to Help Get Drugs to Market Faster"
-    excerpt: "Boosted by an early investment from Sam Altman, 1910 Genetics recently struck a major partnership with Microsoft. Now, the founder has her sights on disrupting the global pharmaceutical industry."
-    publishedDateTime: 2024-03-12T14:31:00Z
-    webUrl: "https://www.inc.com/farrell-evans/biotech-founder-use-ai-get-drugs-market-faster.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 52
     images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/jen-nwankwo-inc_538360_ugsxhk.jpg"
-        width: 1024
-        height: 576
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/03/covariant.png"
+        width: 718
+        height: 400
         isCached: true
+  - title: "Fighting AI-Driven Cybercrime Requires AI-Powered Data Security"
+    excerpt: "For chief information security officers, the greatest cyber threat is ransomware, which criminals can now weaponize with AI to find weak points faster and wreak havoc in real time. In the face of ever-evolving cybersecurity challenges,"
+    publishedDateTime: 2024-03-12T18:50:00Z
+    webUrl: "https://hbr.org/sponsored/2024/03/fighting-ai-driven-cybercrime-requires-ai-powered-data-security-2"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 34
 
 secured: "gdPIitLMOV6WByyeqAgSGa5Jb1jcaq5R3PzZOmKHuZCxctg0XeG9qRANpuCQeXnY0t/pvE3N1bcEX/P62L9tj2QmFqPBXKdJG3SyzQQxlJL4E9lc/GjXNWLPBzUYXKX+EImG4MJpCHklMkJTwbKQbW/HiS7+ye1egsOa2RMi3hTIrhhf5GWS+m9jRgsinpN+niAfTWo93kp0gQfgMvqFMA91gE9s4r32aQwVb/bmVd81fciMnCJ1HMHwyO8ktDAWX5VFF0Sfuoph6C0Aoux4xlhKOJAoFSezvwU0LADIuuWQ06pyr1xMEG7JCC0A3F4D0TujhXEeNhix7ER0QnamvoOgRCxTXp5Pt0Op4Xi8+iV1YZ+fw9iOLEsaeMHYYhZnUFM7sWOOwkTx5NVJwUSJ1Uq13Wnx7DmRWQYIwK5rr/abovMBW56dewRWEWivJvZRQaWlj2idTfmdBqRR0QrmglUZjVZ1ObEdJdsl2RKt6PN/IiBqAwvZFhl8Tr9wbzO6j/3iGBwvBtY7MpRFLDo5Nw==;Wlto04eJCWJyy8XeWE10vQ=="
 ---

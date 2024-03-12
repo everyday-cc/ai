@@ -69,6 +69,15 @@ related:
       name: fintechmagazine
       domain: fintechmagazine.com
     quality: 4
+  - title: "Is This Fintech Stock a Buy Now?"
+    excerpt: "Real-time index price for TSX Income Trust Index (RTCM), along with buy or sell indicators, analysis, charts, historical performance, news and more"
+    publishedDateTime: 2024-03-12T19:41:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/indices/RTCM/pressreleases/24735863/is-this-fintech-stock-a-buy-now/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 4
 
 secured: "T6iVndhlb+TObCrZpSQGCp3r4Eg1Sf7B+QHTx6kER/7JwEUe8CRUjIT2DEz0NbQdMKms5t+hG4JpT2Ou9wvR2ENOYe1G8oXi55PDdbmJT0jrmMxQlajI9OGeu72FXy4R9KK1yltxBoshDqMl+NgkiGP9j/9u6ItXFkCJWFtYJtQaogli4iy+Z9dH+Kx4ZtcQNM7d5WVZVs6UBPMavk06ibv+Dq5L8U1onvgBzPwh4Ocvtq6RSbkS9F32pNzJ7c1y8cNEt9UPlCa775q8wGQKosni0YGDwhYEeLeqRD1orpTEAAmddfepFCcFq9qRbJHOETvnTGxZLWKS17yrkiui0FeVCx6tJwNVw+8CBYWOoTqbhFNhplnEAmwEOtFzVbMOloYTF1vFzLd+jN5aHfk5eb6NQ+gxJj8xEyHOLN9GzdcUhiekiB3nwHyWyh6QK7jXlvWT2aZOSW+44PHLxXyhoRi5OHK4cv9aRhvUCA7HQXAgTrAIY8vUCq536FFCKJitXIMRil7DTrctb0Vs467/Ig==;ZWQSpgVGnG76ed+XAxD/YQ=="
 ---

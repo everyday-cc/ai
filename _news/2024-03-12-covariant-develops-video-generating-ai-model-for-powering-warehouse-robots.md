@@ -25,29 +25,86 @@ images:
     isCached: true
 
 related:
-  - title: "Covariant claims its AI model will let robots learn like humans"
-    excerpt: "AI start-up Covariant claims its RFM-1 AI model will give robots a better understanding of language and the physical world."
-    publishedDateTime: 2024-03-12T10:24:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/covariant-ai-robotics-reason-foundaton-model"
+  - title: "Glacier is training AI-powered recycling robots"
+    excerpt: "The future of recycling is here, and of course, it involves robots and artificial intelligence. Rebecca Hu, the co-founder of the robotics company Glacier, creates robots that help recycling plants separate and, well, recycle material. Before, sorting ..."
+    publishedDateTime: 2024-03-12T00:00:00Z
+    webUrl: "https://techcrunch.com/2024/03/12/glacier-is-training-ai-powered-recycling-robots/"
+    ampWebUrl: "https://techcrunch.com/2024/03/12/glacier-is-training-ai-powered-recycling-robots/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/glacier-is-training-ai-powered-recycling-robots/amp/"
     type: article
     provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 54
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
     images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2024/03/AdobeStock_280204756.jpeg"
-        width: 800
-        height: 600
+      - url: "https://techcrunch.com/wp-content/uploads/2022/05/found-2022-featured.jpg?resize=1200,675"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Covariant Develops Language Model That Can Make Robots Think Like Humans"
-    excerpt: "Covariant has unveiled RFM-1, a large language model for robot language that provides robots with a \"human-like ability to reason,\" bridging the gap between traditional programming and intuitive human-robot interaction."
-    publishedDateTime: 2024-03-12T03:14:00Z
-    webUrl: "https://www.techtimes.com/articles/302475/20240311/covariant-develops-language-model-make-robots-think-humans.htm"
+  - title: "The Future Of Learning: Reskilling And Rethinking In The AI Age"
+    excerpt: "The rise of AI presents a paradigm shift for the business world, demanding a complete reimagining of both education and the future of work."
+    publishedDateTime: 2024-03-12T03:30:00Z
+    webUrl: "https://www.forbes.com/sites/timothypapandreou/2024/03/11/the-future-of-learning-reskilling-and-rethinking-in-the-ai-age/"
     type: article
     provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 18
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65efca1945b0f1fb09e168dc/0x0.jpg?format=jpg&crop=1797,1011,x0,y92,safe&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Using Generative AI To Help Cope With That Exploding Trend Of People Doing Abundant Ranting And Trauma Dumping On Others"
+    excerpt: "There is a rise in so-called trauma dumping. This involves people dumping out their expressed trauma. Generative AI can aid in coping with this in these sensible ways."
+    publishedDateTime: 2024-03-08T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/08/using-generative-ai-to-help-cope-with-that-exploding-trend-of-people-doing-abundant-ranting-and-trauma-dumping-on-others/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/08/using-generative-ai-to-help-cope-with-that-exploding-trend-of-people-doing-abundant-ranting-and-trauma-dumping-on-others/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/03/08/using-generative-ai-to-help-cope-with-that-exploding-trend-of-people-doing-abundant-ranting-and-trauma-dumping-on-others/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65ea5df29887bd7e668e400d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Akamai, Neural Magic Partner To Deploy High-powered Deep Learning AI Software"
+    excerpt: "Cloud company Akamai Technologies Inc. (AKAM) announced Tuesday a strategic partnership with Neural Magic, a developer of software"
+    publishedDateTime: 2024-03-12T11:44:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/akamai-neural-magic-partner-to-deploy-high-powered-deep-learning-ai-software-1033154430"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
+  - title: "Apple is Reportedly Experimenting With an AI-Powered Ad Performance Tool"
+    excerpt: "Apple is reportedly experimenting with a new artificial intelligence (AI)-powered tool that will help advertisers promote their apps on its App Store. The new AI ad performance to"
+    publishedDateTime: 2024-03-12T07:27:00Z
+    webUrl: "https://www.gadgets360.com/ai/news/apple-ai-ad-performance-tool-experimenting-report-5223398"
+    ampWebUrl: "https://www.gadgets360.com/ai/news/apple-ai-ad-performance-tool-experimenting-report-5223398/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/ai/news/apple-ai-ad-performance-tool-experimenting-report-5223398/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 58
+    images:
+      - url: "https://i.gadgets360cdn.com/large/app_store_pexels_1710228296554.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Fighting AI-Driven Cybercrime Requires AI-Powered Data Security"
+    excerpt: "For chief information security officers, the greatest cyber threat is ransomware, which criminals can now weaponize with AI to find weak points faster and wreak havoc in real time. In the face of ever-evolving cybersecurity challenges,"
+    publishedDateTime: 2024-03-12T18:50:00Z
+    webUrl: "https://hbr.org/sponsored/2024/03/fighting-ai-driven-cybercrime-requires-ai-powered-data-security-2"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 34
 
 secured: "qyVOhlEA+pPCRphDDfX+y9bhSFLQk7YNwUUR8NXHB6kw2fSXceJcFyBpLvcr4ncXanPgKVl+Qjwni0+EAyylvFjhTYHA8SHAxF3U48TNKsBcaRiYt/P7ygrZ2FkX02b2L/EeF7ietuq6xfVfHsXbzECqdhSe+VYqYanYasLxaYnV2r9oHwIg7LSGMtx7+9szVm7IdJ9zbu3QtaWIiUE0IePQr8SatbseCprcLFwIHnNc5tP9ZbSwV4OBPHfZtwnVBXODl1EspzzZMfiilAepoUIXuHJ9qnQC3wjVUD4RlTqeDex3ZFvZcea/egy9JHp/QgyJd6Cuxk4zopmR0XYaujV/v0bC0LYvjLWwVVOKffUKph+RD9xlZWMB6Urtx75pRxTfLlbHg7qbkGNi5f+EARchYHAAoWjgwRUG94W9kZxyL8CXocbPrgeh8XKG/EjPvSMoSsHSeXLZOjArD5ZbH/cxGUIorVvsFyc23zaH5fJQlmE5qXm5/RgNdA3OKBns66dugfI52jGBLo6LKIhpsg==;f+PzUVBcM8FWeqa5DONJSA=="
 ---

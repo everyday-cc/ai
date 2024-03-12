@@ -33,20 +33,6 @@ related:
         width: 1260
         height: 708
         isCached: true
-  - title: "How healthcare organizations should prepare for generative AI"
-    excerpt: "Michael McCallen, managing director in Deloitte’s Health Care Strategy practice, explains why a governance structure is key to successful adoption of artificial intelligence."
-    publishedDateTime: 2024-03-07T18:25:00Z
-    webUrl: "https://www.healthcaredive.com/news/healthcare-generative-ai-adoption-deloitte/709397/"
-    type: article
-    provider:
-      name: Healthcare Dive
-      domain: healthcaredive.com
-    quality: 54
-    images:
-      - url: "https://www.healthcaredive.com/static/img/article-signup.png?320916100822"
-        width: 822
-        height: 822
-        isCached: true
   - title: "Google Cloud digs deeper into generative AI for healthcare"
     excerpt: "The tech giant introduced Vertex AI Search for Healthcare March 12 at the HIMSS 2024 annual meeting to support developers build technology for clinicians and healthcare workers. Healthcare organizations can use the tool to build data analytics and AI solutions supporting more precise patient care."
     publishedDateTime: 2024-03-12T13:27:00Z

@@ -34,22 +34,6 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 69
-  - title: "Microsoft's Annual Ability Summit Launches With Accessible AI Tech, Features for the Disabled"
-    excerpt: "Microsoft's 14th Ability Summit takes AI to the center stage in curbing the disability divide with promises of accessible features for Windows Copilot, Azure AI, and other Microsoft applications. The annual summit is Microsoft's one-day celebration ..."
-    publishedDateTime: 2024-03-07T21:03:00Z
-    webUrl: "https://www.techtimes.com/articles/302404/20240307/microsofts-annual-ability-summit-launches-accessible-ai-tech-features-disabled.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/302404/20240307/microsofts-annual-ability-summit-launches-accessible-ai-tech-features-disabled.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/302404/20240307/microsofts-annual-ability-summit-launches-accessible-ai-tech-features-disabled.htm"
-    type: article
-    provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 63
-    images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/444157/spain-wireless-telecoms-internet-mobile.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Microsoft Corporation (MSFT) Rose on Accelerated Growth from Azure"
     excerpt: "Carillon Tower Advisers, an investment management company, released its “Carillon Eagle Growth & Income Fund” fourth quarter 2023 investor letter. A copy of the same can be downloaded here."
     publishedDateTime: 2024-03-11T06:23:00Z
@@ -84,17 +68,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 46
-  - title: "Sonata Software Supercharges Harmoni.AI with Microsoft Azure AI to Drive Responsible-First AI Adoption Across Enterprises"
-    excerpt: "The leading Modernization Engineering company, Sonata Software (NSE: SONATSOFTW), (BSE: 532221) in a significant step to accelerate the adoption of responsible-first AI across enterprises has announced the integration of Sonata Harmoni."
-    publishedDateTime: 2024-03-07T18:35:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/sonata-software-supercharges-harmoni-ai-with-microsoft-azure-ai-to-drive-responsible-first-ai-adoption-across-enterprises-124030800004_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/content/press-releases-ani/sonata-software-supercharges-harmoni-ai-with-microsoft-azure-ai-to-drive-responsible-first-ai-adoption-across-enterprises-124030800004_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/content/press-releases-ani/sonata-software-supercharges-harmoni-ai-with-microsoft-azure-ai-to-drive-responsible-first-ai-adoption-across-enterprises-124030800004_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 44
   - title: "Microsoft scientist gets AI to play DOOM but then issued a warning"
     excerpt: "A Microsoft researcher managed to get OpenAI's GPT-4V large language model to 'successfully' play 1993's DOOM, but then issued a warning."
     publishedDateTime: 2024-03-12T12:45:00Z
@@ -113,20 +86,6 @@ related:
       name: Modern Healthcare
       domain: modernhealthcare.com
     quality: 34
-  - title: "Veeam To Jointly Develop AI Solutions With Microsoft For Industry's #1 Data Protection And Ransomware Recovery Platform"
-    excerpt: "Veeam to co-sell newly announced Veeam Data Cloud for Microsoft Azure and for Microsoft 365 with Microsoft which builds on the world's #1 data protec"
-    publishedDateTime: 2024-03-07T21:03:00Z
-    webUrl: "https://menafn.com/1107950423/Veeam-To-Jointly-Develop-AI-Solutions-With-Microsoft-For-Industrys-1-Data-Protection-And-Ransomware-Recovery-Platform"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 30
-    images:
-      - url: "https://menafn.com/updates/pr/2024-03/07/M_c9955image_story.jpg"
-        width: 1328
-        height: 927
-        isCached: true
   - title: "Hexaware Technologies Ltd.: Hexaware unveils tensai GPT, a secure AI web app using Microsoft Azure Open AI Service to advance internal innovation"
     excerpt: "Hexaware, a global IT services and digital solutions leader, announced the launch of tensai GPT, an AI web app, in collaboration with Microsoft. Using"
     publishedDateTime: 2024-03-12T09:44:00Z

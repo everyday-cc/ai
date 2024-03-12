@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2024/03/12/executive-leaders-can-manage-i
 webUrl: "https://siliconangle.com/2024/03/12/executive-leaders-can-manage-impacts-us-executive-order-ai/"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     height: 717
     isCached: true
 
-related:
-  - title: "The Necessity Of Building Strong Data & AI Executive Leadership For An AI Future"
-    excerpt: "Much has been written recently about the impact that AI will have on global organizations — companies, governments, non-profits – and how organizations must prepare"
-    publishedDateTime: 2024-03-07T21:10:00Z
-    webUrl: "https://www.forbes.com/sites/randybean/2024/03/07/the-necessity-of-building-strong-data--ai-executive-leadership-for-an-ai-future/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 62
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65ea2cfdacdb5dd5eb110ac0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-
-secured: "L+lEyD9MWHdg+bZgNQ5MPVwlC/wlQ+FSZrFLB/gMvMMoIG8GWbGtKqZ1z+LqC85VSRmezDrJqN09nslhA3zlYfk/TcqV0r5Hl4o+2Eq3LTxezGigWj1W/7CE0k3Wibx48g0cVRRXz4IGgjrybnlPkai/F/CGjzUNmfiF9kRIywmOtPSHFLgKToVpnCE42gnItFnEHmh6qJuw5cm9Ifc8vm/dgxaStXzFkvB2vYFdD+pvOELXqi1PQzVVoab9WDzsREK02b9K3IdbSROB1DT7PRqFZxjgg6OrMzd41dyz3E9HBccvAe7gZY3t2r17fuZsT+4l90SxS2bkcP/MpEnKnUnECGzcGmSBjNVKukAJyT8=;nFgXOAN4mdhX2og8OhMhvQ=="
+secured: "BL71RsUZJA4ULUzy4pqRsqT/7Vkd0BV1mdGc9rioautvuS/dSop8PH5mqz11aEUp3EHbd51akzC01vAHf7RJA30mG9nJdjGf0y2EZppnDT40Gabe0He0yUA8WYNOSJ8YGS8ugSe9E+OfMIqewmuQ47Uak8J3IVATkxRmKnwqZPTYCiA05lvG4i/2CZJP+KlBuJL8v99Sj4pXNLpzlmYRDqv1OKzt7Svlg1/yrRccLAOs+5T/JyHo1nU3AybZjGamBeMM4DFuRte5HwYQpvFOa5JKvgYjXb/1Mq+K6z5A1L6mbMYH2Y/SFWH4DDGtAY1Np75u4D9R4FI6WATyt22TGlGh4GRrmM+aFYLbDAoBcKuWV5eD3gAK/iBk1NFCOK7vOG8AQ/drsTXNT6nrMifOhiPm0tWUBUqY2OlOXh3gLUYg8vjHpQj7l4jG+8Hw5GdnJTQG27n1z2xXQKdpEiO+80K4hcj23W+xzTFT7ZaQWzjao73NhFXoT1EKKz7HeKpB3Ep0BQUA0hn6MaiVf3x8Pw==;m21NBw+7ff5IgESpYn0uzQ=="
 ---
 

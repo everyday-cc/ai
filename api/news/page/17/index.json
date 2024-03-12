@@ -2,21 +2,21 @@
   "page": 17,
   "value": [
     {
-      "path": "_news/2024-02-28-nebraska-company-gets-fda-approval-for-commercial-use-of-robotic-surgery-system.md",
-      "title": "Nebraska company gets FDA approval for commercial use of robotic surgery system",
-      "excerpt": "The Lincoln company that makes a surgical robot moved into a new office in April ... Farritor said the company will roll out commercial use of the device in a controlled way. That means the first surgeries are still months away and will be done by selected ...",
+      "path": "_news/2024-02-28-samsungs-try-galaxy-app-now-lets-any-android-and-ios-user-experience-galaxy-ai.md",
+      "title": "Samsung’s Try Galaxy App now lets any Android and iOS user experience Galaxy AI",
+      "excerpt": "Samsung's Try Galaxy app now lets Android & iOS users preview Galaxy S24 AI features virtually, aiming to showcase its innovative One UI 6.1.",
       "sourceUrl": null,
-      "webUrl": "https://columbustelegram.com/news/state-regional/business/nebraska-company-gets-fda-approval-for-commercial-use-of-robotic-surgery-system/article_8867c1e8-e804-5e13-af52-c76d225bb504.html",
-      "originalUrl": "https://columbustelegram.com/news/state-regional/business/nebraska-company-gets-fda-approval-for-commercial-use-of-robotic-surgery-system/article_8867c1e8-e804-5e13-af52-c76d225bb504.html",
+      "webUrl": "https://www.gizmochina.com/2024/02/27/samsung-try-galaxy-android-ios-users-galaxy-ai-features/",
+      "originalUrl": "https://www.gizmochina.com/2024/02/27/samsung-try-galaxy-android-ios-users-galaxy-ai-features/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 85,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/columbustelegram.com/content/tncms/assets/v3/editorial/8/86/8867c1e8-e804-5e13-af52-c76d225bb504/65de01d573f17.preview.jpg?crop=960%2C504%2C0%2C17&resize=960%2C504&order=crop%2Cresize",
-          "width": 960,
-          "height": 504,
+          "url": "https://www.gizmochina.com/wp-content/uploads/2024/02/Samsung-Galaxy-AI.jpg",
+          "width": 720,
+          "height": 540,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,12 +26,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-27T21:17:00Z",
+      "publishedDateTime": "2024-02-27T22:45:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Columbus Telegram",
-        "domain": "columbustelegram.com",
-        "images": null,
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -40,7 +49,58 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-wendys-plans-ai-powered-menu-to-change-food-prices-based-on-demand-weather.md",
+      "title": "Wendy’s plans AI-powered menu to change food prices based on demand, weather",
+      "excerpt": "American fast food chain Wendy's is planning to test dynamic pricing and AI menu features in 2025, reports Nation's Restaurant News and Food & Wine. This means that prices for food items will automatically change throughout the day depending on demand,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2024/02/wendys-plans-ai-powered-menu-to-change-food-prices-based-on-demand-weather/",
+      "originalUrl": "https://arstechnica.com/information-technology/2024/02/wendys-plans-ai-powered-menu-to-change-food-prices-based-on-demand-weather/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/wendys_restaurant-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-27T21:37:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -144,6 +204,40 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-nebraska-company-gets-fda-approval-for-commercial-use-of-robotic-surgery-system.md",
+      "title": "Nebraska company gets FDA approval for commercial use of robotic surgery system",
+      "excerpt": "Virtual Incision announced it has received marketing authorization from the Food and Drug Administration for its MIRA Surgical System, a robot-assisted surgical device used in colon resection surgeries.",
+      "sourceUrl": null,
+      "webUrl": "https://nptelegraph.com/news/state-regional/business/nebraska-company-gets-fda-approval-for-commercial-use-of-robotic-surgery-system/article_2a1ab753-474f-5225-bb96-b543e0747ceb.html",
+      "originalUrl": "https://nptelegraph.com/news/state-regional/business/nebraska-company-gets-fda-approval-for-commercial-use-of-robotic-surgery-system/article_2a1ab753-474f-5225-bb96-b543e0747ceb.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-27T20:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "nptelegraph",
+        "domain": "nptelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -1121,109 +1215,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-27-learn-to-ride-the-ai-and-blockchain-tech-tsunami.md",
-      "title": "Learn To Ride The AI And Blockchain Tech Tsunami",
-      "excerpt": "Initiatives to prioritize skills and competencies over academic credentials have gained momentum. Girls in Tech, ETHDenver, and UETH have alternatives ways for education.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/digital-assets/2024/02/27/learn-to-ride-the-ai-and-blockchain-tech-tsunami/",
-      "originalUrl": "https://www.forbes.com/sites/digital-assets/2024/02/27/learn-to-ride-the-ai-and-blockchain-tech-tsunami/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65dbccde02f7ed6305cd9c3b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/digital-assets/2024/02/27/learn-to-ride-the-ai-and-blockchain-tech-tsunami/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2024/02/27/learn-to-ride-the-ai-and-blockchain-tech-tsunami/amp/",
-      "publishedDateTime": "2024-02-27T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-27-alibaba-staffer-offers-a-glimpse-into-building-llms-in-china.md",
-      "title": "Alibaba staffer offers a glimpse into building LLMs in China",
-      "excerpt": "Binyuan Hui, a natural language processing researcher at Alibaba’s large language model team Qwen, shared his daily schedule on X, mirroring a post by OpenAI researcher Jason Wei that went viral recently. The parallel glimpse into their typical day ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/27/alibaba-staff-offers-glimpse-into-life-of-llm-researcher-in-china/",
-      "originalUrl": "https://techcrunch.com/2024/02/27/alibaba-staff-offers-glimpse-into-life-of-llm-researcher-in-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1356364303.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/27/alibaba-staff-offers-glimpse-into-life-of-llm-researcher-in-china/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/27/alibaba-staff-offers-glimpse-into-life-of-llm-researcher-in-china/amp/",
-      "publishedDateTime": "2024-02-27T10:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }
