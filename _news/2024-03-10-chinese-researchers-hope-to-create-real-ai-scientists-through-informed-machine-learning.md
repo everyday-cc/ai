@@ -69,19 +69,21 @@ related:
         width: 1600
         height: 897
         isCached: true
-  - title: "Former Google engineer indicted for stealing AI secrets while secretly running a startup in China"
-    excerpt: "Read our ethics statement. WTF?! There's been another case of a tech ... has been indicted by a federal grand jury for pilfering confidential AI tech while secretly working for Chinese AI firms. He even launched a startup in his home country without ..."
-    publishedDateTime: 2024-03-07T06:58:00Z
-    webUrl: "https://www.techspot.com/news/102164-former-google-engineer-indicted-stealing-ai-secrets-while.html"
+  - title: "Meta sues former executive over alleged AI theft"
+    excerpt: "Meta has alleged that a former vice president stole “highly confidential” data about the company’s top performers and supply chain partners."
+    publishedDateTime: 2024-03-12T04:32:00Z
+    webUrl: "https://www.computerworld.com/article/3714344/meta-sues-former-executive-over-alleged-ai-theft.html"
+    ampWebUrl: "https://www.computerworld.com/article/3714344/meta-sues-former-executive-over-alleged-ai-theft.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3714344/meta-sues-former-executive-over-alleged-ai-theft.amp.html"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 56
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
     images:
-      - url: "https://www.techspot.com/images2/news/bigimage/2024/01/2024-01-18-image-3.jpg"
-        width: 2500
-        height: 1250
+      - url: "https://images.idgesg.net/images/article/2019/03/screen-shot-2019-03-19-at-4.31.06-pm-100791434-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Google Engineer Steals AI Trade Secrets for Chinese Companies"
     excerpt: "a China-based company focused on developing a CMS that promised to accelerate ML workloads and speed up AI model training. Shortly thereafter, Ding, acting as CEO of his startup, applied for and got acceptance to a China-based incubation program for high ..."
@@ -138,20 +140,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/03/IMG_3819-800x533-1.jpg"
         width: 800
         height: 533
-        isCached: true
-  - title: "Former Google Engineer Charged With Trade Secret Theft"
-    excerpt: "A former Google software engineer was charged with four counts of federal trade secret theft for an alleged plan to steal artificial intelligence technol"
-    publishedDateTime: 2024-03-07T06:53:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/274148894/former-google-engineer-charged-with-trade-secret-theft"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 24
-    images:
-      - url: "https://cdn.bignewsnetwork.com/voa1709791599.jpg"
-        width: 630
-        height: 420
         isCached: true
   - title: "Former Google engineer charged with stealing AI trade secrets"
     excerpt: "which are designed to support machine learning workloads used to train and host large AI models.\" The stolen proprietary information included chip architecture as well as the software design specifications for “tensor processing units\" and \"graphics ..."

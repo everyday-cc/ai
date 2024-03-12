@@ -6,9 +6,9 @@ publishedDateTime: 2024-03-08T14:15:00Z
 originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/08/the-rise-of-open-artificial-intelligence-open-source-best-practices/"
 webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/08/the-rise-of-open-artificial-intelligence-open-source-best-practices/"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 71
+heat: 81
+published: true
 
 provider:
   name: Forbes
@@ -21,7 +21,25 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AI in Healthcare
 
-secured: "zSpeJTspP6SM1JFpld2FtA6O2vZIuoq2RhoG7fTRr90KwrMvM1aX/6DJwZm5fL8jIpxCYRd7BEFMbBVeYxwl+xlWeuEhlosHzEmFQMYbTMMykEW3rGKZr8AhLXgaSUzR79PlxFHvScVXq4QBvZ6SIdkiSuhIfgVALwt/UTp8uSnmPvd7ujaQrFIEBmBcC5Dus18YaUiqNb+iNrcmhDxPOZrqgd6szACVkkzI8ZpAUhqPqLi+17Hd8J7urXytHQDP0iJCvraNVkB3ApRrl+zvqg/O2OSqirALl+MFrmZBDe4BgQzZgTIliU81IYNPBh2Je51ELj9SolJimO0tffje3rh5Q3MKAksbKQF1ACYV/HDU9wCqzGO8eWQsNlPP8HNgoDS3ihqDHo2se/TOrJ6aC5F4mcTDg7pNDN69RysRrp6SD+L7DlCz012dzneJXeS1fQWSNFB9m9VX4H9iQN6lOXOgaUocHYYTfFgCNV5/7hTJIg0u6albUs9liWryLyzvWWEO0GOK5QWtgyqQ+PEJ3w==;bKo9PWHwnMlXYOzfkoPkXw=="
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/640f2ed93c29eefc407aa26b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    width: 852
+    height: 568
+    isCached: true
+
+related:
+  - title: "Elon Musk makes Grok AI open source amid ongoing OpenAI lawsuit"
+    excerpt: "In a move likely fueled by his lawsuit against OpenAI, Elon Musk is open-sourcing his own AI chatbot, Grok, which rivals ChatGPT. Grok boasts real-time information access and tackles tough topics, unlike many AI systems."
+    publishedDateTime: 2024-03-11T11:09:00Z
+    webUrl: "https://cointelegraph.com/news/elon-musk-open-source-grok-ai"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 17
+
+secured: "nPLPGw627SFcfEgYaf71zlRLRAXhlIcvhAOP+qmI+eJ0lxYCPERZsVy8Unb/ae0js2CtIcJ5GcAG8SbWBewUEyfCY+yFeB9eVz49BlO5HLDAoTFpHPGXJ/fFy0Lhsegu8tODXO70jkDRG3hXui0/cWKXnNj3d7by9N7VzZ1szKeBRMDML4u/G7wIgjSfk/Vcf9tYWmUK+kQgLOIv3nqaT9vxwt3GWicPfw8vaPHBtDKvkSU83DTZka0j65K5wYjSBmtIhMZdnAnGTqlcVkvuh8G0Mify0ra7R2Kuk0j0+rnExZK4Vucoadzk/wQSQAyNQEXY/2+YYGiMfxJPXuEP8UXefwT4ndrT5LJk0yd0eJk=;7945ScFERdhyrtziG21rLA=="
 ---
 

@@ -78,6 +78,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI, Telehealth and Communications - IDTechEx Explores Digital Healthcare"
+    excerpt: "Software reading scans and online management of mental health are examples of digital healthcare that keep up with the modernization of"
+    publishedDateTime: 2024-03-12T07:31:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/ai-telehealth-and-communications--idtechex-explores-digital-healthcare-302086147.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 33
   - title: "Wipro's health care deals get an artificial intelligence booster shot"
     excerpt: "Information technology (IT) giant Wipro has a strong pipeline of large artificial intelligence (AI)-led deals in the health care vertical, according to a senior company executive. Health care stands as the third-largest vertical for Wipro,"
     publishedDateTime: 2024-03-08T16:16:00Z

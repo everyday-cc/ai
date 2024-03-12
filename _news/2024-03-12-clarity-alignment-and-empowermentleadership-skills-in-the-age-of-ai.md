@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/melissadaimler/2024/03/11/clarity-ali
 webUrl: "https://www.forbes.com/sites/melissadaimler/2024/03/11/clarity-alignment-and-empowermentleadership-skills-in-the-age-of-ai/"
 type: article
 quality: 67
-heat: 77
+heat: 78
 published: true
 
 provider:

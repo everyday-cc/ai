@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "After leaks, Microsoft confirms Surface, Windows AI event for March"
-    excerpt: "Consumers may have their eyes out for new laptops and tablets, but it seems like Microsoft only has eyes for AI."
-    publishedDateTime: 2024-03-07T14:43:00Z
-    webUrl: "https://www.pcworld.com/article/2259163/microsoft-sets-march-event-date-for-new-surface-devices.html"
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 66
 
 secured: "kRDZXTA/6wkZR4idkq9Yprg3slVycFgIfjPvQlanUyPH0Z5y3hjXsK4rL2lC9qO3CalgfNTSFxEnE+C9475Hj7Rb6CfpQ3p3kZyXEhdq5GAxr7ZNoU+1/hsHAU3/euHuBSL6ditJ7bMYkUyTtfo5qsqsdE8rCgggsmsEMj707rJvwc/o/nOpUHrXipNWHKvBIu8c20l6HZpwb6UKq67TB4avFSdIdY6LvsiHLoEV7NRjbwEDHp52u0fHTLNsHAn28JN7FzN2ST83tSmgn7jot9np3Np3qO1vn6tQoklKnp06kdrwvADBxYJwH4t/UwUVyHb8B+naGK4gvs8tymIHo6tCbmK6P4R7W1quKrzUu8w=;BqRhK/tb20WGtoEn3Vc4PQ=="
 ---

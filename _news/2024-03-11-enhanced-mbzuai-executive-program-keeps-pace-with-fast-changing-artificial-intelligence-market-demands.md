@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "Enhanced MBZUAI Executive Program keeps pace with fast-changing artificial intelligence market demands"
+    excerpt: "Abu Dhabi, United Arab Emirates, March 11, 2024: Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) has announced the enhanced MBZUAI Executive Program (MEP) as it welcomes its fifth cohort consisting of 44 senior leaders coming from the federal government (17%),"
+    publishedDateTime: 2024-03-12T07:12:00Z
+    webUrl: "https://menafn.com/1107964779/Enhanced-MBZUAI-Executive-Program-keeps-pace-with-fast-changing-artificial-intelligence-market-demands"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 38
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?203674"
+        width: 444
+        height: 250
+        isCached: true
   - title: "UAE: Enhanced MBZUAI Executive Programme keeps pace with fast-changing AI market demands"
     excerpt: "Mohamed bin Zayed University of Artificial Intelligence MBZUAI has announced the enhanced MBZUAI Executive Programme MEP as it welcomes its fifth cohort of"
     publishedDateTime: 2024-03-11T09:44:00Z

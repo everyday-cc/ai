@@ -97,6 +97,22 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 54
+  - title: "Nvidia Sued By Three Authors Over AI Use of Copyrighted Books Without Permission"
+    excerpt: "The authors claim that their copyrighted works were used by Nvidia to train NeMo's so-called large language models."
+    publishedDateTime: 2024-03-12T07:05:00Z
+    webUrl: "https://www.gadgets360.com/ai/news/nvidia-sued-authors-ai-use-copyrighted-works-5223226"
+    ampWebUrl: "https://www.gadgets360.com/ai/news/nvidia-sued-authors-ai-use-copyrighted-works-5223226/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/ai/news/nvidia-sued-authors-ai-use-copyrighted-works-5223226/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 54
+    images:
+      - url: "https://i.gadgets360cdn.com/large/nvidia_logo_reuters_1710226061737.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Nvidia Says NeMo AI Platform Complies With Copyright After Authors’ Complaint"
     excerpt: "Nvidia said its NeMo artificial intelligence platform was created in full compliance with copyright law, after a group of authors filed a class-action complaint saying some of their books were used without permission."
     publishedDateTime: 2024-03-11T14:54:00Z

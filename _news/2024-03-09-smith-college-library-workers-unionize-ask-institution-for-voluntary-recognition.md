@@ -26,6 +26,22 @@ images:
     height: 4288
     isCached: true
 
+related:
+  - title: "CP Foods Earns Recognition for Rights Protection and Gender Equality on International Women's Day"
+    excerpt: "Charoen Pokphand Foods Public Company Limited (CP Foods) has received two awards in recognition as the private organization's dedication to rights protection and the promotion of gender equality throughout the organization on International Women's Day 2024."
+    publishedDateTime: 2024-03-11T08:42:00Z
+    webUrl: "https://www.newswit.com/en/iff7wztqnmtj26ygh9l2azbw24z6l1tk"
+    type: article
+    provider:
+      name: academy
+      domain: newswit.com
+    quality: 11
+    images:
+      - url: "https://www.newswit.com/storage/images/iqqa/0pr/77yqcv34oxudtcmgzcf1engkd/0-CP.jpg.webp"
+        width: 1200
+        height: 800
+        isCached: true
+
 secured: "TxqKq2G360c0Nzx4LphEf4QJlzKoV+Kc+B8emVPqzd6T9sY7Xl3yUMDKuPgy9MamhgfETHZCiah56/g+T7YF7nqNpeYv/UZDbtXmdVBj/q6J9+dYfEqlHLXWOV9ff7C3VNASIgiFB5AyltA6+WlJa0asAxdiei03RAsCArc9raFiS3Osmgk0wnHrdNylIlPzUyfMGSXpgXyAu+zy1G+w/0bAyvNRnvsouppn+OoOEQCbF/jov7IYijIEGZNcFKVVKxAMbIsxW6XNDkXe0V4M4mU9aZmKLWz0ypkV0OQOM3uvNeMA2OWPKPVEYCS5BvS12AuewyV2bYHrFdQlDbJnHKmQptyktSESD21U8hpFJF4=;q738MrtnprjqK0JoqBVFUA=="
 ---
 

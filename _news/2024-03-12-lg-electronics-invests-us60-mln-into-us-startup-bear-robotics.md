@@ -50,6 +50,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 64
+  - title: "LG invests $60m in Silicon Valley robot startup"
+    excerpt: "The tech giant said it has executed a stock purchase agreement to acquire a stake in Bear Robotics, a prominent Silicon Valley-based startup specializing in artificial intelligence-driven autonomous service robots, through an investment of $60 million."
+    publishedDateTime: 2024-03-12T07:14:00Z
+    webUrl: "https://www.koreaherald.com/view.php?ud=20240312050635"
+    ampWebUrl: "https://m.koreaherald.com/amp/view.php?ud=20240312050635"
+    cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20240312050635"
+    type: article
+    provider:
+      name: The Korea Herald
+      domain: koreaherald.com
+    quality: 59
+    images:
+      - url: "https://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2024%2F03%2F12%2F20240312050618_0.jpg"
+        width: 630
+        height: 449
+        isCached: true
 
 secured: "KDQW1ndgl55eTORj616u4/8F96zc0mEd19dxzRAS2TT19f9xFyabhaC3tvmT1r8hEEI6gy8w1V8i1a4ODVtIWyPAVvRPa6qyK/2BUWGNSlevKMFo0B4i+clDbJOGEEsrduJUIY0XVUiRWrwkfNdAEugslWl1CWS4bHfgA+HdNZZXKbG101SrNHjSFvF4geG5Uy8QmaGQLvDNTJhqZr30aI/qFlsUKm7me2jmRnbXSjPsPJueCot+B4a15f9xGIakALP+DL49ZuykcydYvMW/83jrGiE0kRmEGNsUyZdOS5K0U0PdGEW6exBZjIUzgvv1nIZxiwMMTVqe4P3uaovp0SyzxEx65Bml/bd7vc+lG0s=;X1/10CnSI2aPQidy8n+5Cw=="
 ---

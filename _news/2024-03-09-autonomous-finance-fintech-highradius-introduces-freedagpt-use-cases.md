@@ -24,6 +24,22 @@ images:
     height: 1072
     isCached: true
 
+related:
+  - title: "How fintech is reshaping the landscape of business finance"
+    excerpt: "Simon Moorcroft, above, director and chief technology officer at Capalona, sheds light on the changing fintech landscape and how it continues transforming"
+    publishedDateTime: 2024-03-11T12:09:00Z
+    webUrl: "https://www.smeweb.com/how-fintech-is-reshaping-the-landscape-of-business-finance/"
+    type: article
+    provider:
+      name: SMEweb
+      domain: smeweb.com
+    quality: 39
+    images:
+      - url: "https://www.smeweb.com/wp-content/uploads/2024/03/Picture1.jpg"
+        width: 409
+        height: 269
+        isCached: true
+
 secured: "wUvKrN/JVbZpEA2dREe7gL6Y+HKfxe3mjH5cW1OxhJLX5CklExrwwWSI1tPXQZXQA6Ro4qkKmS8CHIb0HXwCk9ds8uuaVit0lkcOEqfirhyxNIRTSpE8rwYod/5cq9+x61GbuijckgQZA1uCEaEXwT9KX8oCTHGi9d/HlEj2/tz5Zjxo7qBrU0ImFTts84HL9kCXzSj8l4AcXEMLmBTx7MISQOy7KzwRp0QXUiQ0WJFL2GKKTVTu4nB0lOF7B66dvzlWi+zuAZXeaDxNIv3ITIZEGsa0J1Rq1NQ8pxI///APIG3CdRKD6RNQzOQlTqrbg7Y0twM+I5UyO7bnzUg3BdxWhLKWo+q1e27jUDovStFnPJAFbufbDmCFEVRyLW38sOgysjhLpo5G1woY+x6SDfaMEozV2ewuWqkQOF8/bbBp2YQGCexWJFAYPcl3YorTwn6jCLXYgIiTxDF+eDdGo+7PELNvEZhS87r1KhyVG+jLM6k64uf6PH7QYPzLJByQSduDi9KZKj5QJ9HZa+8+Zw==;HctsdDq8curuJWIGL09YrA=="
 ---
 

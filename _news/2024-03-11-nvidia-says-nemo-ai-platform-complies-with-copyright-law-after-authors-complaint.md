@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/nvidia-says-nemo-ai-platform-c
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-says-nemo-ai-platform-complies-with-copyright-law-after-authors-complaint-4b8d4a92"
 type: article
 quality: 84
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -90,6 +90,22 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 54
+  - title: "Nvidia Sued By Three Authors Over AI Use of Copyrighted Books Without Permission"
+    excerpt: "The authors claim that their copyrighted works were used by Nvidia to train NeMo's so-called large language models."
+    publishedDateTime: 2024-03-12T07:05:00Z
+    webUrl: "https://www.gadgets360.com/ai/news/nvidia-sued-authors-ai-use-copyrighted-works-5223226"
+    ampWebUrl: "https://www.gadgets360.com/ai/news/nvidia-sued-authors-ai-use-copyrighted-works-5223226/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/ai/news/nvidia-sued-authors-ai-use-copyrighted-works-5223226/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 54
+    images:
+      - url: "https://i.gadgets360cdn.com/large/nvidia_logo_reuters_1710226061737.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "3 AI Stocks That Nvidia Should Buy Next"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Nvidia (NASDAQ:NVDA) started the current artificial intelligence boom."
     publishedDateTime: 2024-03-08T20:37:00Z

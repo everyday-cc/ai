@@ -6,7 +6,7 @@ publishedDateTime: 2024-03-11T19:24:00Z
 originalUrl: "https://seekingalpha.com/article/4677414-nvidia-we-were-right-about-data-center-and-ai"
 webUrl: "https://seekingalpha.com/article/4677414-nvidia-we-were-right-about-data-center-and-ai"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1494623399/image_1494623399.jpg?io=getty-c-w1536"
@@ -86,6 +87,6 @@ related:
       domain: benzinga.com
     quality: 32
 
-secured: "oCatifDgMTy5hKvMDDud4V1Md4hdWtdmZxS0hz1whdLDJ7SQ9Kiqo4wovm/HRM3R39vXQFQd+akicRi1BG7nFN2ttvwKnlA5MNOKjhHO1qqRq2/G2lrTDPz23ysNj9wAbVhA2AJuBF70wqoTSwWoo688/akgRA2RvinBW4INyRWGi1vBy80yHIrrdd8vXB3/EsbWwJfhvr6odCPb0tLC6Mbh3Dz4UFbXARvOmJVp5l/XECF9mg0IYwLU/aj8B+mFDjOc+GzN+bTjGDNVZDDfMQZ+gdlPoLnc98PEOyM/kpGrsKhK9XIF2LfF4GnWpfd25A0bcMfwfjerRDk/gAGj2sektIDRcCmoE+9k5qlg3Ek=;+FfmwIs6BXAjz5iv3GWBVw=="
+secured: "YSXmNyWc7ebBbXTpZM6qIpMuLxmc/vR05fH6HDIS6AxwmS+t3X1bEBe3YqWMEqZRLeG+MqGPfjzHVeV1mlrbI/AGsZdnYr46iuEEJO8gyd20QWIknX2KWKmJaFftqw8+T3JvAbIocksoitGsZisdhxhinamBCvu9O2Adws1bNiM/hh9xG9ZiWWmwo+gjkCxyFqplHBFGTVOOwcQgHV+rP+uf3tyqUA6uhf8AF+FJEDk0/uGW/KHfocbFWhyCGrn9BXOMqqWGPgBAMAg8rwSx+y1IDMU7BYLRnison38CpITrYsKYpBcj1BPv8rB48MGa04YefuftGKWyYsTFRPMBuGBoCh6eeb107SZGUADPLjcmgklgyeQZtDknFZk9VI4r+3obXk5nnjDgY3l4+OsWMobMxMs7V8zUTojgh8jbr7exkamSRoZ2FioFGOokA0u/mgb/VJL1/IkF7rr15bVv3enxAGmVLB6sCaXkbw9rLJHeyOYINJ4hPpawHOv8B46ZGVFoeVr8fiEknL//io9c6Q==;0GXm1OTAihqc32pPqq7I1w=="
 ---
 

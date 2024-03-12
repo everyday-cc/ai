@@ -9,8 +9,8 @@ ampWebUrl: "https://www.gadgets360.com/cryptocurrency/news/india-blockchain-ai-r
 cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/cryptocurrency/news/india-blockchain-ai-research-npci-iisc-mou-5205973/amp"
 type: article
 quality: 59
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: gadgets360
@@ -26,17 +26,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "French Cryptography Startup Zama Raises $73M for Blockchain, AI Privacy Apps"
-    excerpt: "French cryptography startup Zama has raised $73 million in a Series A funding round led by Multicoin Capital and Protocol Labs."
-    publishedDateTime: 2024-03-07T06:25:00Z
-    webUrl: "https://cryptonews.com/news/french-cryptography-startup-zama-raises-73m.htm"
-    type: article
-    provider:
-      name: cryptonews
-      domain: cryptonews.com
-    quality: 14
 
 secured: "SgD8HOFQW5U6fw/ar6Xnt5Ntxlhq9TMk9ytb+5/EzBkQq/NIFzLbOwspoOEmTqfafxZcg+XTGyHn8QbbLM8ZRE3agDXnMQ+mWHdpFkORBXJ+tlR524pjJnKt8IChhxq28OWndgf5/yIbQKwRZrIWR6RTjCLgx+P11c8AhuLTfvmJEUu4wLWs9mmQvz+4dq4FSgAXmfh5HvKq6umpZx6ddHU/eCTHBlCLhbhyOgjCtmcjX+zHB6HIS3TmXkPvaRhyqkae4iEaaqhQUb/JMYVS/vGMUPx3FcSnzY3pxq8lNz3779mfceVzIY3g0YzZ2vlJO/IP28mENuTzeYoZevy1gD4MJ/ILa5r5IamOF3PygrfE39btYdtGCYIpn91jt85Y+qNjVGozAPOYtGPOdOIK/6O4OnxX0wmondGMtX9XY1hRp4ZII4Z7bDMrwHOh2EFqnpz68voENQZhHSfh1y2M/klzyr3BwLB3c+tkScZQZ9S8gw9v7hvnphyV2q3KM+zfFZMCyaZFeu2iFYPDaMLnYQ==;b2TIAXAbY5/u5l78kyGRog=="
 ---

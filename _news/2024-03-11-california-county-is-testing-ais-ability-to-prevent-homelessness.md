@@ -39,20 +39,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "California gets its first artificial intelligence associate's degree at MiraCosta College"
-    excerpt: "The A.S. degree in artificial intelligence launches this fall and will be the first of its kind in the state. OCEANSIDE, Calif. — Companies are actively recruiting artificial intelligence professionals and colleges are responding with AI curriculum. MiraCosta College in Oceanside will be offering an associate's degree in artificial intelligence."
-    publishedDateTime: 2024-03-07T06:27:00Z
-    webUrl: "https://www.cbs8.com/article/news/education/miracosta-college-first-istate-offer-ai-associates-degree/509-f06516a7-5688-4e47-8112-534d45ced25b"
-    type: article
-    provider:
-      name: CBS News 8
-      domain: cbs8.com
-    quality: 28
-    images:
-      - url: "https://media.cbs8.com/assets/KFMB/images/7643585f-8819-4b51-9607-3be77100eab8/7643585f-8819-4b51-9607-3be77100eab8_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Los Angeles County Uses AI to Prevent Homelessness and Offers Assistance"
     excerpt: "It’s an experiment still in progress: machine learning predicts who will end up on the street — and then social workers step in to offer help. So far, nearly 90% of participants kept their housing."
     publishedDateTime: 2024-03-07T15:30:00Z

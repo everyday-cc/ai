@@ -61,6 +61,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Airports using biometric facial recognition in Kansas"
+    excerpt: "Spokeo looked at which airports are using facial recognition software in Kansas for security screenings, according to Customs and Border Protection."
+    publishedDateTime: 2024-03-07T13:40:00Z
+    webUrl: "https://www.kansas.com/news/local/article286376630.html"
+    type: article
+    provider:
+      name: Wichita Eagle
+      domain: kansas.com
+    quality: 34
   - title: "Airports using biometric facial recognition in Missouri"
     excerpt: "Spokeo looked at which airports are using facial recognition software in Missouri for security screenings, according to Customs and Border Protection."
     publishedDateTime: 2024-03-07T13:46:00Z

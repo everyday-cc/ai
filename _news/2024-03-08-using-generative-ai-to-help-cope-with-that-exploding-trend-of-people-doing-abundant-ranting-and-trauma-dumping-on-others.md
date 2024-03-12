@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 691
         isCached: true
+  - title: "Worried An AI Is Going To Take Your Job? Here’s How To Stay Relevant In The Generative AI Era"
+    excerpt: "To stay relevant in the generative AI era, it's crucial to educate yourself about AI capabilities and assess how AI might impact your job."
+    publishedDateTime: 2024-03-12T07:06:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/03/12/worried-an-ai-is-going-to-take-your-job-heres-how-to-stay-relevant-in-the-generative-ai-era/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/03/12/worried-an-ai-is-going-to-take-your-job-heres-how-to-stay-relevant-in-the-generative-ai-era/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/03/12/worried-an-ai-is-going-to-take-your-job-heres-how-to-stay-relevant-in-the-generative-ai-era/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 76
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65effec6d0230d764246a74b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Dating apps use AI to help users find their dream partner"
     excerpt: "Dating apps are using artificial intelligence to help users find their perfect match. NBC News' Valerie Castro spoke to some people who found love while using the AI-driven dating apps."
     publishedDateTime: 2024-03-07T20:39:00Z

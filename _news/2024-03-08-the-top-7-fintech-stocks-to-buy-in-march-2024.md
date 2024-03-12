@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/the-top-7-fintech-
 webUrl: "https://markets.businessinsider.com/news/stocks/the-top-7-fintech-stocks-to-buy-in-march-2024-1033145869"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -23,34 +23,15 @@ topics:
   - AI
 
 related:
-  - title: "Fintech Benchmarks 2024 report – the promise and threat of AI"
-    excerpt: "Financial technology continues to advance at pace. In the age of artificial intelligence, central banks are adopters as well as overseers of the new landscape. In the Fintech Benchmarks 2024, more than half (56.8%), say they use machine learning (ML) and artificial intelligence (AI) tools, up slightly from 51.4% last year."
-    publishedDateTime: 2024-03-07T07:30:00Z
-    webUrl: "https://www.centralbanking.com/benchmarking/fintech/7960927/fintech-benchmarks-2024-report-the-promise-and-threat-of-ai"
+  - title: "V, MA, NU: Which “Strong Buy” Fintech Stock Is Best?"
+    excerpt: "Fintech and other technological trends have taken a backseat to generative artificial intelligence (AI) over the past year or so. With various"
+    publishedDateTime: 2024-03-07T16:12:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/v-ma-nu-which-strong-buy-fintech-stock-is-best-1033143744"
     type: article
     provider:
-      name: Central Banking
-      domain: centralbanking.com
-    quality: 39
-    images:
-      - url: "https://www.centralbanking.com/sites/default/files/styles/metatag_image_large/public/2024-03/Fintech%20Benchmarks%202024%20title%20image_0.jpg?h=eefaf0af&itok=HFbMPhql"
-        width: 1200
-        height: 743
-        isCached: true
-  - title: "How fintech is reshaping the landscape of business finance"
-    excerpt: "Simon Moorcroft, above, director and chief technology officer at Capalona, sheds light on the changing fintech landscape and how it continues transforming"
-    publishedDateTime: 2024-03-11T12:09:00Z
-    webUrl: "https://www.smeweb.com/how-fintech-is-reshaping-the-landscape-of-business-finance/"
-    type: article
-    provider:
-      name: SMEweb
-      domain: smeweb.com
-    quality: 39
-    images:
-      - url: "https://www.smeweb.com/wp-content/uploads/2024/03/Picture1.jpg"
-        width: 409
-        height: 269
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
   - title: "hedgehog lab promotes fintech vet to chief client officer"
     excerpt: "North East-based global tech consultancy hedgehog lab has appointed Clare Weightman as its new chief client officer."
     publishedDateTime: 2024-03-11T14:24:00Z
@@ -65,15 +46,47 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Sahm Capital Showcases latest Fintech and AI Solutions at LEAP 2024"
-    excerpt: "March 2024 - Sahm Capital Financial Company, a leading brokerage firm licensed by the Saudi Capital Market Authority (No: 22251-25), showcased its all-in-one comprehensive trading solutions at booth H1A."
-    publishedDateTime: 2024-03-07T07:00:00Z
-    webUrl: "https://www.asiaone.com/business/sahm-capital-showcases-latest-fintech-and-ai-solutions-leap-2024"
+  - title: "Embrace AI in Fintech: Interview with Zak Westphal, CEO at StocksToTrade"
+    excerpt: "Interview with Zak Westphal, CEO at StocksToTrade Hi Zak, can you start by introducing yourself and telling us about your journey in the fintech industry and your role at StocksToTrade? I’m Zak Westphal,"
+    publishedDateTime: 2024-03-11T15:22:00Z
+    webUrl: "https://www.globalbankingandfinance.com/embrace-ai-in-fintech-interview-with-zak-westphal-ceo-at-stockstotrade/"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 19
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 18
+  - title: "Law Firm Innovation: How BakerHostetler Launched FinClar, a Lawyer-Built FinTech Tool"
+    excerpt: "Legaltech News sat down with Jonathan Forster, Northeast practice leader of BakerHostetler’s Private Wealth Group and the one behind FinClar, to discuss how and why he created the firm's new FinTech tool,"
+    publishedDateTime: 2024-03-11T19:23:00Z
+    webUrl: "https://www.law.com/legaltechnews/2024/03/11/law-firm-innovation-how-bakerhostetler-launched-finclar-a-lawyer-built-fintech-tool/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 17
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2024/03/Jonathan-Forster-767x633-1.jpg"
+        width: 767
+        height: 633
+        isCached: true
+  - title: "The Investment Associations signs fintech agreement with Canada"
+    excerpt: "FinTech hub and accelerator, IA Engine, has today announced the latest firms to join its Innovator Programme, as well as a new global FinTech partnerships between Engine and the Canada."
+    publishedDateTime: 2024-03-07T14:15:00Z
+    webUrl: "https://www.finextra.com/pressarticle/99940/the-investment-associations-signs-fintech-agreement-with-canada"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
+  - title: "Anne Boden on supporting female fintech founders"
+    excerpt: "Yet Boden has been busy recently. Last week she launched her third book, ‘Female Founders’ Playbook: Insights from the superwomen who made It’ and released a report from the Women-Led High-Growth Enterprise Taskforce which she led. I spoke with her about where we’re going wrong for female fintech entrepreneurs and how we can improve the situation."
+    publishedDateTime: 2024-03-08T09:33:00Z
+    webUrl: "https://www.finextra.com/the-long-read/971/anne-boden-on-supporting-female-fintech-founders"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
   - title: "1 Week to Go! Top 100 Women in FinTech 2024"
     excerpt: "In honour of International Women’s Month, FinTech Magazine - in association with Amberdata, JP Morgan Payments, and AWS - will be releasing its Top 100 Women in FinTech for 2024."
     publishedDateTime: 2024-03-11T12:45:00Z

@@ -53,6 +53,22 @@ related:
         width: 800
         height: 534
         isCached: true
+  - title: "Elon Musk announces that AI startup xAI will open source Grok chatbot"
+    excerpt: "Musk hit ChatGPT-maker OpenAI with a lawsuit filed on February 29, accusing the AI startup and its chief Sam Altman of departing from the “original mission and historical practice of making its technology and knowledge available to the public,” by keeping GPT-4’s internal design largely a secret."
+    publishedDateTime: 2024-03-12T06:55:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/elon-musk-announces-that-ai-startup-xai-will-open-source-grok-chatbot/article67941779.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/elon-musk-announces-that-ai-startup-xai-will-open-source-grok-chatbot/article67941779.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/elon-musk-announces-that-ai-startup-xai-will-open-source-grok-chatbot/article67941779.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 57
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/jlua46/article67941778.ece/alternates/FREE_1200/2024-03-11T170708Z_2138480166_RC2SJ6AQ50EM_RTRMADP_3_MUSK-AI.JPG"
+        width: 1200
+        height: 748
+        isCached: true
   - title: "Justpaid, Ai-powered Finance Startup, Announces New Financial Chatbot Capabilities"
     excerpt: "JustPaid, the AI-powered FinTech company, has just announced new capabilities for its conversational AI financial chatbot. The chatbot is being enhanced to provide more tailored and dynamic insights for users based on their specific financial needs and feedback."
     publishedDateTime: 2024-03-07T12:44:00Z

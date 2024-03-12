@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Sonata Software Supercharges Harmoni.AI with Microsoft Azure AI to Drive Responsible-First AI Adoption Across Enterprises"
-excerpt: "Sonata Harmoni.AI, integrating Microsoft Azure AI services, will help customer reimagine business with Generative AI, differentiating themselves in the marketplace BANGALORE, India, March 7, 2024 /PRNewswire/ -- The leading Modernization Engineering ..."
-publishedDateTime: 2024-03-07T00:00:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2024/03/07/sonata-software-supercharges-harmoni-ai-with-microsoft-azure-ai-to-drive"
-webUrl: "https://stockhouse.com/news/press-releases/2024/03/07/sonata-software-supercharges-harmoni-ai-with-microsoft-azure-ai-to-drive"
+excerpt: "Sonata Harmoni.AI, integrating Microsoft Azure AI services, will help customer reimagine business with Generative AI, differentiating themselves in the marketplace . BANGALORE, In"
+publishedDateTime: 2024-03-07T12:34:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2024/03/07/9974547.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2024/03/07/9974547.htm"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/689012/4257625/Sonata_Software_Logo.jpg"
+    width: 400
+    height: 279
+    isCached: true
 
 related:
   - title: "Quisitive Awarded the AI and Machine Learning in Microsoft Azure Specialization"
@@ -27,7 +33,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 94
+    quality: 92
   - title: "Sonata Software integrates its AI solution with Microsoft Azure AI"
     excerpt: "Sonata Software has announced the integration of its Harmoni.AI with Microsoft Azure AI service. Sonata’s AI offering provides industry solutions, service delivery platforms, and accelerators. Using Microsoft Azure AI services, Sonata Harmoni.AI will ..."
     publishedDateTime: 2024-03-08T06:14:00Z
@@ -160,6 +166,6 @@ related:
       domain: siliconangle.com
     quality: 25
 
-secured: "+sSGd4V8Lem/Fl9A9ToIhJVtDBgEyqrtS6M3bGQQPrqL+oGbZNUt07lcemyT1EoiX8SoAd3v0Vgwg0WV8XacdBNiArHIk+wdP3xOwld93tLEpAckK8c2EKGyvLhgYOmnkZA+LpIXeumro57VAU21We3NOgJpq+F/Vgx2ZAds4pQODp6c3/qV26n8NaANSq1rvc3pvTO/qAtF5zU5tA4PhBhUzDp/LEUQamWM2aiUhz7pUeu5lfMaV/SF+T4chzQsSME6FTKWAu4uL1bG1kwVrYc/U8o0YwzyD0fSP8zT+80Xs6hHNLCJdUOxIVPR3HuoTiAZCQLvOQI8fNIHmeg1orRsPYIdHCZxonWUFobfvAE=;nPRUKRXvnv5ogS7prpK/XQ=="
+secured: "FQ7jOcJfZWZg6ti1T2EnsAm2wfjheLiF1pmV19tuiEZsOuXJoNdOvFhSj9IPO/Ns8e9yZs7p4b2kPcGWRnb7FlygaD+afCLol0n7ATlRCQKjZNKX7/JhPXFkxnaCcyPpNQKKWFCGL1UCixDnaIB9OHuFaBT6GQDLhXCCWTgBCc6m2YIZIRStyobeAiYmNxFdY3LdyT8MXgwgRqXSXxHL7/DWdeavKnY8dLs6qGg4EkkhObxXi/wzua4HVGza4f1qs7w3BPPdsryzaaup0Wp3xSy6W5ieivYLmlBdDwekmdcpRyQHZLbtoghifws8qV1a7ppXEsQRZBMyH84VxPPBFJzNb4SyxVqhLBPGtR9ygbo=;ZpeoSBaKC/mrutWKyJ3V/w=="
 ---
 

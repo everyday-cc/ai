@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/lg-electronics-to-invest-60-mi
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/lg-electronics-to-invest-60-million-in-bear-robotics-0b7041cf"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -40,6 +40,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 64
+  - title: "LG invests $60m in Silicon Valley robot startup"
+    excerpt: "The tech giant said it has executed a stock purchase agreement to acquire a stake in Bear Robotics, a prominent Silicon Valley-based startup specializing in artificial intelligence-driven autonomous service robots, through an investment of $60 million."
+    publishedDateTime: 2024-03-12T07:14:00Z
+    webUrl: "https://www.koreaherald.com/view.php?ud=20240312050635"
+    ampWebUrl: "https://m.koreaherald.com/amp/view.php?ud=20240312050635"
+    cdnAmpWebUrl: "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20240312050635"
+    type: article
+    provider:
+      name: The Korea Herald
+      domain: koreaherald.com
+    quality: 59
+    images:
+      - url: "https://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2024%2F03%2F12%2F20240312050618_0.jpg"
+        width: 630
+        height: 449
+        isCached: true
   - title: "LG Electronics invests US$60 mln into U.S. startup Bear Robotics"
     excerpt: "SEOUL, March 12 (Yonhap) -- LG Electronics Inc. said Tuesday it has made a US$60 million strategic investment in Silicon Valley-based startup Bear Robotics in a move to strengthen its business capabilities in the booming market of artificial intelligence-based service robots."
     publishedDateTime: 2024-03-12T05:46:00Z
