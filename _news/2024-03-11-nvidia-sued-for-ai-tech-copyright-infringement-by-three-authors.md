@@ -118,6 +118,20 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 46
+  - title: "Nvidia, Databricks Hit With Suits From Authors Over AI Training"
+    excerpt: "Chipmaker Nvidia Corp. and software firm Databricks Inc. are facing copyright infringement lawsuits from a group of authors alleging the companies’ respective AI models are trained on their books without permission."
+    publishedDateTime: 2024-03-11T14:11:00Z
+    webUrl: "https://news.bloomberglaw.com/ip-law/nvidia-databricks-hit-with-suits-from-authors-over-ai-training"
+    type: article
+    provider:
+      name: news.bloomberglaw
+      domain: bloomberglaw.com
+    quality: 39
+    images:
+      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/7dab981/2147483647/crop/4000x1542%2B0%2B0/resize/1920x740%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F90%2F81%2Fdbe814d4426cab92bdb53719f27e%2F368660085.jpg"
+        width: 1920
+        height: 740
+        isCached: true
   - title: "Jensen Huang: Even if competitors' AI products were free, Nvidia's hardware would still be better value"
     excerpt: "A hot potato: Nvidia has become the dominant force in the AI hardware industry, and CEO Jensen Huang knows it. The leather jacket-loving boss is so confident in the ability of his products, he says that even if the competitors' chips were free, they would ..."
     publishedDateTime: 2024-03-11T05:19:00Z

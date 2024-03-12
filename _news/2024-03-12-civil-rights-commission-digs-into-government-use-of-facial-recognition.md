@@ -27,18 +27,18 @@ images:
 
 related:
   - title: "Report highlights civil liberties concerns with facial recognition technology"
-    excerpt: "Facial recognition technology (FRT) can allow investigators to scan billions of photos or videos to identify a potential suspect or a victim."
-    publishedDateTime: 2024-03-11T23:46:00Z
-    webUrl: "https://www.whio.com/news/national/report-highlights-civil-liberties-concerns-with-facial-recognition-technology/AHOZDZJFIVHCHG34QGBSQZQRTU/"
-    ampWebUrl: "https://www.whio.com/news/national/report-highlights-civil-liberties-concerns-with-facial-recognition-technology/AHOZDZJFIVHCHG34QGBSQZQRTU/?outputType=amp"
-    cdnAmpWebUrl: "https://www-whio-com.cdn.ampproject.org/c/s/www.whio.com/news/national/report-highlights-civil-liberties-concerns-with-facial-recognition-technology/AHOZDZJFIVHCHG34QGBSQZQRTU/?outputType=amp"
+    excerpt: "The report says some agencies now have training policies in place that include explaining how FRT affects civil liberties"
+    publishedDateTime: 2024-03-12T01:44:00Z
+    webUrl: "https://www.wsbtv.com/news/report-highlights-civil-liberties-concerns-with-facial-recognition-technology/OETF3NAPQRCY5H4FGMYXI3DWMM/"
+    ampWebUrl: "https://www.wsbtv.com/news/report-highlights-civil-liberties-concerns-with-facial-recognition-technology/OETF3NAPQRCY5H4FGMYXI3DWMM/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wsbtv-com.cdn.ampproject.org/c/s/www.wsbtv.com/news/report-highlights-civil-liberties-concerns-with-facial-recognition-technology/OETF3NAPQRCY5H4FGMYXI3DWMM/?outputType=amp"
     type: article
     provider:
-      name: WHIO
-      domain: whio.com
+      name: WSB-TV
+      domain: wsbtv.com
     quality: 58
     images:
-      - url: "https://cmg-cmg-tv-10040-prod.cdn.arcpublishing.com/resizer/70lD4MUC1AQxkMV9oFwetysgtHE=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/MMXUPC3ETJCJBCFBK2KOULZONA.jpeg"
+      - url: "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/2ujHFkVez5X3CIApIwboBaEkMwU=/1440x810/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/V7Q4DMJL7RDWXAYCVKLFOCEPR4.png"
         width: 1440
         height: 810
         isCached: true

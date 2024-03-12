@@ -119,6 +119,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Artificial Intelligence is the biggest threat to the 2024 elections"
+    excerpt: "Yubico, the leading provider of hardware authentication security keys, and Defending Digital Campaigns (DDC), a nonprofit and nonpartisan organisation committed to bringing free cybersecurity tools and resources to federal election campaigns,"
+    publishedDateTime: 2024-03-12T01:01:00Z
+    webUrl: "https://itwire.com/guest-articles/guest-research/artificial-intelligence-is-the-biggest-threat-to-the-2024-elections.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 37
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/9e9e0c01ebd0f7957acc6a63cc76c281_M.jpg"
+        width: 375
+        height: 375
+        isCached: true
   - title: "Overcoming the AI Privacy Predicament"
     excerpt: "The IAPP's Müge Fazlioglu says organizations must address consumers' privacy concerns to realize the full potential of AI"
     publishedDateTime: 2024-03-08T12:30:00Z

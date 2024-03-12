@@ -2,6 +2,101 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2024-01-29-this-startup-is-ready-for-the-year-of-the-robot-and-ai-companions.md",
+      "title": "This Startup Is Ready For The Year Of The Robot And AI Companions",
+      "excerpt": "Opinions expressed by Forbes Contributors are their own. I write about technology, entrepreneurs and innovation. 2024 is going to be the year of the robot and the year of the AI companion. Humanoid robots and AI conversations were the two AI-related themes ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2024/01/29/this-startup-is-ready-for-the-year-of-the-robot-and-ai-companions/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2024/01/29/this-startup-is-ready-for-the-year-of-the-robot-and-ai-companions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-29T13:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2024-01-29-microsoft-ceo-responds-to-ai-generated-taylor-swift-fake-nude-images.md",
+      "title": "Microsoft CEO responds to AI-generated Taylor Swift fake nude images",
+      "excerpt": "Microsoft CEO Satya Nadella said Friday that the company has to “move fast” on combatting nonconsensual sexually explicit deepfake images, after AI-generated fake nude pictures of Taylor Swift went viral this week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/01/29/microsoft-ceo-responds-to-ai-generated-taylor-swift-fake-nude-images.html",
+      "originalUrl": "https://www.cnbc.com/2024/01/29/microsoft-ceo-responds-to-ai-generated-taylor-swift-fake-nude-images.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 334,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107364671-1706212455310-2016-10-26T120000Z_1377555760_D1BEUJFKENAA_RTRMADP_3_MICROSOFT-WINDOWS.JPG?v=1706212571",
+          "width": 4523,
+          "height": 3047,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/01/29/microsoft-ceo-responds-to-ai-generated-taylor-swift-fake-nude-images.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/01/29/microsoft-ceo-responds-to-ai-generated-taylor-swift-fake-nude-images.html",
+      "publishedDateTime": "2024-01-29T13:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-29-the-blueprint-for-a-modern-data-center.md",
       "title": "The blueprint for a modern data center ",
       "excerpt": "A look at designing the modern data center, exploring the role of advanced technologies, such as AI and containerization.\nThe post The blueprint for a modern data center  appeared first on IBM Blog.\n",
@@ -1094,82 +1189,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-28-prediction-3-artificial-intelligence-ai-stocks-that-will-lead-the-new-bull-market.md",
-      "title": "Prediction: 3 Artificial Intelligence (AI) Stocks That Will Lead the New Bull Market",
-      "excerpt": "It's official: A new bull market is here. And part of the reason for that is the rise of artificial intelligence (AI). Amazon, the world's largest cloud services provider and the world's largest e-commerce company, should benefit in several ways ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/prediction:-3-artificial-intelligence-ai-stocks-that-will-lead-the-new-bull-market",
-      "originalUrl": "https://www.nasdaq.com/articles/prediction:-3-artificial-intelligence-ai-stocks-that-will-lead-the-new-bull-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-28T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-28-pictet-robotics-a-real-artificial-intelligence-thriller-funds-42-profit-in-just-one-year.md",
-      "title": "PICTET ROBOTICS: A real artificial intelligence thriller - fund's 42% profit in just one year",
-      "excerpt": "Yet for those more interested in making money from artificial intelligence, there is a possible answer in the shape of investment fund Pictet Robotics. Although robotics has played a key role in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thisismoney.co.uk/money/investing/article-13015819/PICTET-ROBOTICS-real-artificial-intelligence-thriller-funds-42-profit-just-one-year.html?mrn_rm=rta",
-      "originalUrl": "https://www.thisismoney.co.uk/money/investing/article-13015819/PICTET-ROBOTICS-real-artificial-intelligence-thriller-funds-42-profit-just-one-year.html?mrn_rm=rta",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2024/01/28/11/80555565-0-image-a-9_1706442620365.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.thisismoney.co.uk/money/investing/article-13015819/amp/PICTET-ROBOTICS-real-artificial-intelligence-thriller-funds-42-profit-just-one-year.html",
-      "cdnAmpWebUrl": "https://www-thisismoney-co-uk.cdn.ampproject.org/c/s/www.thisismoney.co.uk/money/investing/article-13015819/amp/PICTET-ROBOTICS-real-artificial-intelligence-thriller-funds-42-profit-just-one-year.html",
-      "publishedDateTime": "2024-01-28T12:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "This is Money",
-        "domain": "thisismoney.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

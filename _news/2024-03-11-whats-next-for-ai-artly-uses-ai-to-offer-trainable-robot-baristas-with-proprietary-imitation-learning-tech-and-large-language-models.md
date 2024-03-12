@@ -5,9 +5,11 @@ excerpt: "Through its Artly AI unit, the company rents out its AI baristas via a
 publishedDateTime: 2024-03-11T12:06:00Z
 originalUrl: "https://www.benzinga.com/partner/emerging-markets/24/03/37582752/whats-next-for-ai-artly-uses-ai-to-offer-trainable-robot-baristas-with-proprietary-imita"
 webUrl: "https://www.benzinga.com/partner/emerging-markets/24/03/37582752/whats-next-for-ai-artly-uses-ai-to-offer-trainable-robot-baristas-with-proprietary-imita"
+ampWebUrl: "https://www.benzinga.com/amp/content/37582752"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37582752"
 type: article
-quality: 4
-heat: 4
+quality: 46
+heat: 46
 published: false
 
 provider:
@@ -18,7 +20,14 @@ topics:
   - Machine Learning
   - AI
   - AI in Robotics
+  - AI in Finance
 
-secured: "NzmRoOW2uh6sOOzAh9A/McffYMqTyIZ+fVZOMiMNwZfYwgaYxoWQa4iVVQdtlYQf+Ng1k9Kz5/9CfulSNNeX+ElyP/7LZCfFDD2SPJ6j3GUgN5EcBxRYpyE4EePflYPL8stTDmY82jWcDcMFcYfj3FsXqpyau3jjXGoRkEZ2nG4dKnlS0bNS3y8mSMJUmQt+7UD91omb3xXBd7DrUIXZ1ny4ySUzef9DZhPcexXDmca8utpzyRwody5Y2ouNl3bocO+C7WS6OfRQj5XPZWV+t22JhLnxaFGTE5Nel1vnfrE7t0EZRcgjYsWI+Zpf2zPdSHY9RJdSs7Dti/oFBzm5SU8TREsB9O+0ZbQ4S++GEJa+wKuhlYbCFreEILrAfDm/6ourDRaUvPnBtuKDJaFN7kPLWk4WnnWpGx723dD4w/f55jBpBGZKpD/NveLFjCaXMChOVCAuWrRe7dFIq/G5NgMwjM9ZUWpKnv3DGdi3TTW2krA+Jp9vVpoVow+7QWQUSLcMJOKaNQksqrW0p8r5kw==;4C6c6w8esL6B/Sg8Z/7tnQ=="
+images:
+  - url: "https://cdn.benzinga.com/files/images/story/2024/Screenshot-2024-03-11-at-5-32-47-PM.png?width=1200&height=800&fit=crop"
+    width: 1014
+    height: 676
+    isCached: true
+
+secured: "62d8g7xEEddP+gfr6OuPDMQTrn5MoBzw44m7pBVacxcT+OpTcqhI4xF5qgNEaXJYn6f3K9nJeDRQMvUKAXM/U0ORtFyzBl3+cCksEnpmtHFOD8L3O027YnctKJ7m1Jn89B8/ya+j8qE8yQYJWlzUmfFcntRwbJ+4nHDvCE7NXpZ432ndqX4WKkvvytbiePNTOkD9PtrVzq+uBBswKLLVz2p+G9aPN1jc0TWwW/ESKq6bvi8B8MjfsGOJJ8GWQEA8jC5As8CHhX+D+4KVWd8iXzkT+RiJU7HtxrmTWGeusOEbHM1i1Hsh5D2QSr83XT2FflSDZ2944MLQ804f792KVvlqmrivvA6gY9yxRWSW2vw=;y32H9Z8xBKFOH7AC9iG98w=="
 ---
 

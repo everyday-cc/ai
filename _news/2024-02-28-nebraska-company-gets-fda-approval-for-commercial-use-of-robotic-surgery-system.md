@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Nebraska company gets FDA approval for commercial use of robotic surgery system"
-excerpt: "The Lincoln company that makes a surgical robot moved into a new office in April ... Farritor said the company will roll out commercial use of the device in a controlled way. That means the first surgeries are still months away and will be done by selected ..."
-publishedDateTime: 2024-02-27T21:17:00Z
-originalUrl: "https://columbustelegram.com/news/state-regional/business/nebraska-company-gets-fda-approval-for-commercial-use-of-robotic-surgery-system/article_8867c1e8-e804-5e13-af52-c76d225bb504.html"
-webUrl: "https://columbustelegram.com/news/state-regional/business/nebraska-company-gets-fda-approval-for-commercial-use-of-robotic-surgery-system/article_8867c1e8-e804-5e13-af52-c76d225bb504.html"
+excerpt: "Virtual Incision announced it has received marketing authorization from the Food and Drug Administration for its MIRA Surgical System, a robot-assisted surgical device used in colon resection surgeries."
+publishedDateTime: 2024-02-27T20:14:00Z
+originalUrl: "https://nptelegraph.com/news/state-regional/business/nebraska-company-gets-fda-approval-for-commercial-use-of-robotic-surgery-system/article_2a1ab753-474f-5225-bb96-b543e0747ceb.html"
+webUrl: "https://nptelegraph.com/news/state-regional/business/nebraska-company-gets-fda-approval-for-commercial-use-of-robotic-surgery-system/article_2a1ab753-474f-5225-bb96-b543e0747ceb.html"
 type: article
 
 provider:
-  name: Columbus Telegram
-  domain: columbustelegram.com
+  name: nptelegraph
+  domain: nptelegraph.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/columbustelegram.com/content/tncms/assets/v3/editorial/8/86/8867c1e8-e804-5e13-af52-c76d225bb504/65de01d573f17.preview.jpg?crop=960%2C504%2C0%2C17&resize=960%2C504&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/nptelegraph.com/content/tncms/assets/v3/editorial/2/a1/2a1ab753-474f-5225-bb96-b543e0747ceb/65de01d572e5d.preview.jpg?crop=960%2C504%2C0%2C17&resize=960%2C504&order=crop%2Cresize"
     width: 960
     height: 504
     isCached: true
 
-secured: "yFhEwNYac2QG3gHs5sGhlv1xA4p/G1Pbs1flMeAANKK/RU4pnCfCnhoyK6/G9MavKIREEpzhRKmcjdRrzVul0OgB5qry0a6NSgL0EPYePKsCYFsA5Uq16YUW1tVIIlV/dBVYu5ovFbAEwASlF8ljmQQ8ucZ1oyPG/xeDhEPOViitIrYzv2qFCmisiD5JwoH5spnWzLYMmO/Xu7LHBhnrxn0QW13+rE/H4jETrJZSBm1qAQZluH6jeqZRM+lwPh11ll57ZtoaCO6Kuyr5Z+Mlp7vtiwCrgs+tFCCAy892o+oYWeov9C4uhclUlVaZHwbMkzoui5jA4we0nc5lsn69bc0E9jnOerRyy9fsObVJ6cs=;erNGmCwasXR1epLVzNlQxg=="
+secured: "Jd3igxNcq1VAJzf8mZmHs0wtyoQ10JL1hICMDCeVWT1uMfslArtrwzBLmGDapcjRXKfYcf5AVs27+SRXXbf3A/bh95qT8t+Bn4ZSNGp0PTa9N9bKSGSPtU7q7b1/p3l/7xyRqCwDT4QusP5/WAeu6TD8WzByt9S7eOep7M31hhIua43oN5Q+YlO4Hra7mt1i3Cxn6nXgk0Orf0WSqpXyLVi6x2l+fswcolAuivj8bElLbWWzwaElfifbMruKWdhlXqtmKg6S1WSKUCPO+CeOdZy6uynQPsF/vf67sdEDpsUCQzC0eriHPF0fFfYa+NcaCC3m4/RzzPh/J8Io9zZACS7NdJCWvihDMtGewp/Qg4Y=;EVEcjXnjZeGThKnGGd4ePg=="
 ---
 

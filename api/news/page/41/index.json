@@ -2,6 +2,93 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2024-02-09-should-ai-be-used-in-health-care-risks-regulations-ethics-and-benefits-of-ai-in-medicine.md",
+      "title": "Should AI be used in health care? Risks, regulations, ethics and benefits of AI in medicine",
+      "excerpt": "The AMA Update covers a range of health care topics affecting the lives of physicians and patients. Learn more about how is AI being used in health care.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ama-assn.org/practice-management/digital/should-ai-be-used-health-care-risks-regulations-ethics-and-benefits-ai",
+      "originalUrl": "https://www.ama-assn.org/practice-management/digital/should-ai-be-used-health-care-risks-regulations-ethics-and-benefits-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ama-assn.org/sites/ama-assn.org/files/2024-02/au-social-020924.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-09T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ama-assn.org",
+        "domain": "ama-assn.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-09-60-of-all-pcs-sales-in-2027-will-be-equipped-with-an-ai-chip-forecasts-idc.md",
+      "title": "60% of all PCs sales in 2027 will be equipped with an AI chip forecasts IDC",
+      "excerpt": "Imagine a world where your computer not only understands your commands but also anticipates your needs, learns from your habits, and protects your privacy",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/artificial-intelligent-ai-pc-sales-forecast/",
+      "originalUrl": "https://www.geeky-gadgets.com/artificial-intelligent-ai-pc-sales-forecast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/AI-PCs.jpg",
+          "width": 1280,
+          "height": 764,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-09T13:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2024-02-09-google-rebrands-bard-ai-to-gemini-introduces-new-app-and-subscription-model.md",
       "title": "Google Rebrands Bard AI To Gemini, Introduces New App And Subscription Model",
       "excerpt": "Google revealed a significant redesign of Bard, their AI chatbot and assistant, on Thursday. The new look includes a new app and subscription choices. Now known as Gemini, the chatbot’s AI model suite shares the same name as Bard, the main rival of OpenAI’s ChatGPT.",
@@ -963,92 +1050,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-6-of-the-best-ai-etfs-to-buy-now.md",
-      "title": "6 of the Best AI ETFs to Buy Now",
-      "excerpt": "Rather, the ETF takes a “meta” approach by using AI to power its investment selection and management process. This ETF is powered by IBM Watson, which uses machine learning, sentiment analysis and natural language processing to select the holdings of ...",
-      "sourceUrl": null,
-      "webUrl": "https://wtop.com/news/2024/02/6-of-the-best-ai-etfs-to-buy-now-5/",
-      "originalUrl": "https://wtop.com/news/2024/02/6-of-the-best-ai-etfs-to-buy-now-5/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T19:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTOP News",
-        "domain": "wtop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-not-science-fiction-anymore-what-happens-when-machine-learning-goes-too-far.md",
-      "title": "Not Science Fiction Anymore: What Happens When Machine Learning Goes Too Far?",
-      "excerpt": "Every piece of fiction carries a kernel of truth, and now is about the time to get a step ahead of sci-fi dystopias and determine what the risk in machine sentience can be for humans. Although people have long pondered the future of intelligent machinery,",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/not-science-fiction-anymore-what-happens-when-machine-learning-goes-too-far/",
-      "originalUrl": "https://scitechdaily.com/not-science-fiction-anymore-what-happens-when-machine-learning-goes-too-far/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/Robot-Thinking-Colorful.jpg",
-          "width": 2000,
-          "height": 1143,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T18:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

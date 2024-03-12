@@ -75,22 +75,6 @@ related:
         width: 1600
         height: 897
         isCached: true
-  - title: "Ex-Google engineer charged with stealing AI secrets"
-    excerpt: "Linwei Ding is accused of stealing information used in Google's supercomputing data centres A former Google software engineer has been charged in the US with stealing trade secrets about artificial intelligence (AI) while secretly working for two Chinese companies."
-    publishedDateTime: 2024-03-07T01:08:00Z
-    webUrl: "https://www.bbc.co.uk/news/world-us-canada-68497508.amp"
-    ampWebUrl: "https://www.bbc.co.uk/news/world-us-canada-68497508.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-us-canada-68497508.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 57
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/72A2/production/_131064392_google-top-reuters.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Chinese researchers hope to create ‘real AI scientists’ through ‘informed machine learning’"
     excerpt: "The scientists wrote in a recent paper that they had found ways to train machines with ‘prior knowledge’ such as the laws of physics or mathematical logic."
     publishedDateTime: 2024-03-09T22:00:00Z
@@ -128,29 +112,6 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Ex-Googler Stole AI Secrets for Chinese Companies: Feds"
-    excerpt: "An indictment alleges that Linwei Ding quietly began stealing confidential information about the company’s machine learning processes two years ago."
-    publishedDateTime: 2024-03-07T00:17:00Z
-    webUrl: "https://www.thedailybeast.com/ex-google-engineer-linwei-ding-charged-with-stealing-ai-secrets-for-chinese-companies"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 37
-    images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2989,w_5315,x_0,y_133/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1709759552/GettyImages-1149449071_cr37wo"
-        width: 1480
-        height: 832
-        isCached: true
-  - title: "AMD’s Chinese AI chip plan halted by US govt: What’s next?"
-    excerpt: "AMD finds itself at a standstill as it faces hurdles from the US in its endeavor to sell AI chips explicitly tailored for the Chinese market"
-    publishedDateTime: 2024-03-07T01:30:00Z
-    webUrl: "https://techwireasia.com/03/2024/amd-chinese-ai-chips-plan-halted-by-us-govt-whats-next/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 34
   - title: "Ex-Google Engineer Charged With Stealing AI trade Secrets for Chinese Companies"
     excerpt: "A former software engineer at Google has been charged with stealing artificial intelligence trade secrets from the company while secretly working with two companies based in China, the Justice Department said Wednesday."
     publishedDateTime: 2024-03-07T17:32:00Z

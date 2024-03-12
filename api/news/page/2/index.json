@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-03-11-start-up-funding-declassified-tips-from-the-trenches.md",
+      "title": "Start-Up Funding Declassified. Tips From The Trenches.",
+      "excerpt": "Remember that many technology venture capitalists (VCs) are self-assured because they have money to invest, because they’re rich and because entrepreneurs chase them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/steveandriole/2024/03/10/start-up-funding-declassified-tips-from-the-trenches/",
+      "originalUrl": "https://www.forbes.com/sites/steveandriole/2024/03/10/start-up-funding-declassified-tips-from-the-trenches/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ee270b4a77cca88f640e60/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1463,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/steveandriole/2024/03/10/start-up-funding-declassified-tips-from-the-trenches/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/steveandriole/2024/03/10/start-up-funding-declassified-tips-from-the-trenches/amp/",
+      "publishedDateTime": "2024-03-10T23:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-10-google-is-breaking-too-many-things-in-a-rush-to-lead-on-ai.md",
       "title": "Google is breaking too many things in a rush to lead on AI",
       "excerpt": "Early versions of Google’s Bard gave incorrect answers to questions, hallucinated facts, and struggled with simple maths. Google’s model has improved since then, but early Bard was more of a kneejerk response rather than a planned product to lead the ...",
@@ -636,8 +687,8 @@
       "title": "GPU access to power up India’s AI play: experts",
       "excerpt": "AI Mission will help startups make in India and for the world, say tech investors. The Rs 10,372-crore Artificial Intelligence (AI) Mission, announced on Thursday, will operate on a public-private partnership model.",
       "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/articleshow/108335973.cms?from=mdr",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/articleshow/108335973.cms?from=mdr",
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/articleshow/108335973.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/articleshow/108335973.cms",
       "featuredContent": null,
       "highlight": null,
       "heat": 124,
@@ -1143,49 +1194,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-08-how-ai-is-helping-advance-womens-health-around-the-world.md",
-      "title": "How AI is helping advance women’s health around the world",
-      "excerpt": "For International Women’s day, we’re highlighting AI solutions that can improve early diagnosis, quality and access to care for women’s health worldwide.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/health/how-ai-is-helping-advance-womens-health-around-the-world/",
-      "originalUrl": "https://blog.google/technology/health/how-ai-is-helping-advance-womens-health-around-the-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-08T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

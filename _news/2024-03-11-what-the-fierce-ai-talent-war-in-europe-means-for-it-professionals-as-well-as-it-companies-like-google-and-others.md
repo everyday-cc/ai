@@ -36,6 +36,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 47
+  - title: "The Battle for AI Talent Heats Up in Europe"
+    excerpt: "The European scene is witnessing a heated battle for AI talent as an influx of startups intensifies the competition among tech giants."
+    publishedDateTime: 2024-03-12T00:30:00Z
+    webUrl: "https://techreport.com/news/the-battle-for-ai-talent-heats-up-in-europe/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 39
+    images:
+      - url: "https://techreport.com/wp-content/uploads/2024/03/Elon-Musk-Set-To-Create-A-Dedicated-Smart-TV-App-For-X-300x225.jpeg"
+        width: 300
+        height: 225
+        isCached: true
   - title: "Analysis-AI talent war heats up in Europe"
     excerpt: "An influx of artificial intelligence (AI) startups is heating up the battle for technical talent in Europe, leaving companies like Google DeepMind to choose between paying big or losing out on the region's best minds."
     publishedDateTime: 2024-03-11T13:03:00Z

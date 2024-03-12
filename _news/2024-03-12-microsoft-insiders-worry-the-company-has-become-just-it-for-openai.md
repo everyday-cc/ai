@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/microsoft-insiders-worry-company-h
 webUrl: "https://www.businessinsider.com/microsoft-insiders-worry-company-has-become-just-it-for-openai-2024-3"
 type: article
 quality: 84
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     height: 600
     isCached: true
 
-secured: "sc45s6kepNVEL0rtxVh6anpoNF1GwEbt3HIPtLhdyEAstb6LqiDHE+Xtb9PBEJ+Ikfm7nj7WGHigB56S6Z1JfqgWJYAfyNSsBQcBwTibcJRhe2hfXh7UJKHUMXV13yaTPRGcl+T8bcaWZzMmKr0oYhQDOPR8R5nEUg9Ur044DUypIfxRJCregqqZnO7DvtyGsbEBmigJsksvZox/3cYRjIaG5Sxm+nrgqzUtHfMHBMnSnZoJfKRRvOIGrenP7MsSFJ5VS6OYlpFeqEoO5VnL0ptYhx+/sbT+9YeqS4UALIrXC5A7b6Gj7G3smmHekNNd7mzMLuhb1lBkSayPMywMCzx+Gu/eZJzkiCvmDqf2D1Y=;WMSH+DdCgmuupMx8NmhOGA=="
+related:
+  - title: "After leaks, Microsoft confirms Surface, Windows AI event for March"
+    excerpt: "Consumers may have their eyes out for new laptops and tablets, but it seems like Microsoft only has eyes for AI."
+    publishedDateTime: 2024-03-07T14:43:00Z
+    webUrl: "https://www.pcworld.com/article/2259163/microsoft-sets-march-event-date-for-new-surface-devices.html"
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 66
+
+secured: "oQ2IlBq15E4POUM33Nh/r06Ppzl7+3hzRZYEx7t2BMu10ploXY/hSErJZUHtuOkdJn+Wwuy9I6ivh57Qzi3nxIF2qM2l0AtKmtatxQrwzq0uDf8MZ/AWIIw4tNY9lB8px/1HGsWMkjXxCy0VB6nleSghun9F2C38R0kA005r4XpI4ZXM//zZ22K0pp7KyfEAK7WSfh0Amdheh5jXtF+u+EKL+RXJKfL//T537og30THWwBETIA0BvLtYTJQnBArKF8bMo/qRUyb+dpzGGrygiPls8lsqPYhVHcEP0dUyaIJ0/91Kl4wUoX/qGLZf7uvL7fieW7dVf8GDAVZSinNz1nzyxdYHqkhOBjEQP7p1NNT9dcRhwsm4URLIKMzOsc50GTax36x2FX0jIq2oaKbaE7VgzORwnw3DmLIIA7Vyb2EnwMXE9Gos42wNEfkUTctLz88VOUkmT58rB2SK1IXVq0npymx5e8bcKgGWtEw1UqWwaCHdYrj4duNjGCI80EqUb3goEgox917Sw5L00RWTXw==;9BTgOFPZ/iRVremR6uyk4g=="
 ---
 

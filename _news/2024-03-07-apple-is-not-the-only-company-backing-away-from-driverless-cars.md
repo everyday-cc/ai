@@ -67,49 +67,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "How two-headed bird and Lalbagh glass house inspired Bengaluru Metro's driverless train design"
-    excerpt: "Bengaluru Metro's Electronics City Metro, connecting RV Road and Bommasandra, is expected to commence operations with a 15-minute frequency by December 2024."
-    publishedDateTime: 2024-03-07T01:07:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/how-two-headed-bird-and-lalbagh-glass-house-inspired-bengaluru-metros-driverless-train-design-12415831.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/how-a-two-headed-bird-and-lalbagh-glass-house-inspired-bengaluru-metros-driverless-train-design-12415831.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/how-a-two-headed-bird-and-lalbagh-glass-house-inspired-bengaluru-metros-driverless-train-design-12415831.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 62
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2024/03/Metro-Train-Iinspiration.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "How a two-headed bird and Lalbagh glass house inspired Bengaluru Metro's driverless train design"
-    excerpt: "Bengaluru Metro's Electronics City Metro, connecting RV Road and Bommasandra, is expected to commence operations with a 15-minute frequency by December 2024."
-    publishedDateTime: 2024-03-07T01:07:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/how-a-two-headed-bird-and-lalbagh-glass-house-inspired-bengaluru-metros-driverless-train-design-12415831.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/how-a-two-headed-bird-and-lalbagh-glass-house-inspired-bengaluru-metros-driverless-train-design-12415831.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/how-a-two-headed-bird-and-lalbagh-glass-house-inspired-bengaluru-metros-driverless-train-design-12415831.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 61
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2024/03/EC1-435x435.jpg"
-        width: 435
-        height: 435
-        isCached: true
-  - title: "Bengaluru Electronics City Metro to start with 15-min frequency by Dec"
-    excerpt: "The 18.8-km Bengaluru Metro’s Yellow Line, which links RV Road with Bommasandra is likely to be completed by December 2024 and trains will start running at a frequency of 15 minutes at the start. This corridor will connect Electronics City, home to major companies like Infosys and Biocon, and RV Road in South Bengaluru."
-    publishedDateTime: 2024-03-07T01:07:00Z
-    webUrl: "https://www.moneycontrol.com/news/technology/bengaluru-electronics-city-metro-to-start-with-15-min-frequency-by-dec-12415831.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/technology/bengaluru-electronics-city-metro-to-start-with-15-min-frequency-by-dec-12415831.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/bengaluru-electronics-city-metro-to-start-with-15-min-frequency-by-dec-12415831.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 24
 
 secured: "U+iBG30j9ChJ3VL0J/uBL1uoOTjq8vxgXaRwTdRf3oYLCjFcHs4vIFySfiEk8pB4751hcNuX0Qw9J9tRMNliexPbvVI8RkuQGBdNr9a2HjBb7bMMkG8zAa46b/T6gbPw484rJna6btVVbXgXURtbraGkEaMNo9xwsGmMAMJfUQ4m981ZEQYZy7+XqvC+aUYe1yVLcvxsX1CzAi5NkY1HGT7uHgaT3NqL1B8HX+Hx3Sbzk4xr+wiiZ5r3JwwFKcAwiagoEsvP1NuGhWYjiyhE0Gc89ju9jXjVgBtdcZTflgye2LQnYLHD2BgJtAf51PtZznmxNG2r/F0RIyr7k+6CD6gTVac/andTC2IW0gZWSq4=;vzanYHIXM+CImRY1/JO0GQ=="
 ---

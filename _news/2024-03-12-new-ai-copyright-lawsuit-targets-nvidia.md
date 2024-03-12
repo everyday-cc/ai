@@ -103,6 +103,20 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 46
+  - title: "Nvidia, Databricks Hit With Suits From Authors Over AI Training"
+    excerpt: "Chipmaker Nvidia Corp. and software firm Databricks Inc. are facing copyright infringement lawsuits from a group of authors alleging the companies’ respective AI models are trained on their books without permission."
+    publishedDateTime: 2024-03-11T14:11:00Z
+    webUrl: "https://news.bloomberglaw.com/ip-law/nvidia-databricks-hit-with-suits-from-authors-over-ai-training"
+    type: article
+    provider:
+      name: news.bloomberglaw
+      domain: bloomberglaw.com
+    quality: 39
+    images:
+      - url: "https://db0ip7zd23b50.cloudfront.net/dims4/default/7dab981/2147483647/crop/4000x1542%2B0%2B0/resize/1920x740%3E/quality/90/?url=http%3A%2F%2Fbloomberg-bna-brightspot.s3.amazonaws.com%2F90%2F81%2Fdbe814d4426cab92bdb53719f27e%2F368660085.jpg"
+        width: 1920
+        height: 740
+        isCached: true
   - title: "Nvidia Sued for AI Tech Copyright Infringement by Three Authors"
     excerpt: "Nvidia becomes the latest tech company to be sued for copyright infringement for using copyrighted books to train AI tech."
     publishedDateTime: 2024-03-11T12:52:00Z
@@ -136,6 +150,6 @@ related:
       domain: techopedia.com
     quality: 19
 
-secured: "aqYNZ7uOqNAyRbHHxEVixPEk1MAjUwfgvcapaeYEn2vax64VgOx50EjE6CYDyjsWVlzsDR2je0h8BCY0UFLe31Hs9OoPGgZdpPJfO98YDWYL9J/8/lapUltYM+B6KZC5sy5iy9PSGC47PfW8dxx4Two8ihkfwsPAPZ4Lmn7Id8aDgxXHpUzVjArfKYmKeFDtEt9A7X1b2MHCaGgQuh+j9F0h5JpC+kmgkqc2fPn4JxdsYDHLxG0re3Z5W4aoDOPJYbiy/6n+rZjfHH8oT/Rz1Ymr6WhsHkVPDBVHXNLRK/vIqec0Y/TbmV8H38/xwAQnPWyKk3JQoH+vfzKyctQ+ewvH1M8TGDHFL8DqXiJI/Ek=;/4grevoxdLqsjhfLjAV2yw=="
+secured: "f7kvCW8fRyYRcBIET9LsQD/JI9wwZaZAJXjJQWfYYJIEoQY2bZN0lZ813wy/RHs2YUB/FpiZVGCR21PwnUYW4u7BY1qS6nmwBps3fNUAWXFcF1oK2PUa1s5sr6QSA/TqSdiCh6XoLuHD0AX6A3wsHPRoxfDwM/LP1wju16BFxPvmWq59NTl/5K2w6GkJrDGg5UrvcfMl7I+uiDu70V9E4mbsF0c320vzA0EVZWudfatW9p+fveZ2GTXJJ9c03ExBMdVzP/x7262Jz4t9Vr7qI5XdoAgFyyLHk5KSdyeQll9f6itis03xCtYhxNbYnYOpwYV6aVZUR/4WpqR309mRJG15RkB2Ea+83maAmkgFXsPWJj6LB2A4VlYzQkY+bgkiBQwFevUByGkyQ0Z8P+WFAmVxHcM3QGMc8R4quSGXjW252BkeG0Pd59Is9puxXB+GvK9YWr3Y2iTMgFlgbFryOzI0z3jcbl5fPomxY4wUMYI4MfRZGDVdfiWdkuC3vJQ/u4iwRZzVDLe54HRGxGqsSw==;O+WhWYZ+3ZJH9WwAKxAKVA=="
 ---
 

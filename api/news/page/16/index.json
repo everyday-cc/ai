@@ -2,6 +2,110 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2024-02-27-alibaba-staffer-offers-a-glimpse-into-building-llms-in-china.md",
+      "title": "Alibaba staffer offers a glimpse into building LLMs in China",
+      "excerpt": "Binyuan Hui, a natural language processing researcher at Alibaba’s large language model team Qwen, shared his daily schedule on X, mirroring a post by OpenAI researcher Jason Wei that went viral recently. The parallel glimpse into their typical day ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/27/alibaba-staff-offers-glimpse-into-life-of-llm-researcher-in-china/",
+      "originalUrl": "https://techcrunch.com/2024/02/27/alibaba-staff-offers-glimpse-into-life-of-llm-researcher-in-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1356364303.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/27/alibaba-staff-offers-glimpse-into-life-of-llm-researcher-in-china/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/27/alibaba-staff-offers-glimpse-into-life-of-llm-researcher-in-china/amp/",
+      "publishedDateTime": "2024-02-27T10:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-27-amazon-bedrock-a-solid-generative-ai-foundation.md",
+      "title": "Amazon Bedrock: A solid generative AI foundation",
+      "excerpt": "Amazon Bedrock complements the almost 30 other Amazon machine learning services available, including Amazon Q, the AWS generative AI assistant. One major competitor to Amazon Bedrock is Azure AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3712963/amazon-bedrock-a-solid-generative-ai-foundation.html",
+      "originalUrl": "https://www.infoworld.com/article/3712963/amazon-bedrock-a-solid-generative-ai-foundation.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2024/02/shutterstock_2024657870-100961571-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3712963/amazon-bedrock-a-solid-generative-ai-foundation.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3712963/amazon-bedrock-a-solid-generative-ai-foundation.amp.html",
+      "publishedDateTime": "2024-02-27T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-27-llamas-life-online-and-lessons-learned.md",
       "title": "Llamas, Life Online, and Lessons Learned",
       "excerpt": "The temptation for us in the news business is to blame the ills of social media and smartphones for the denigration of our national discourse and the devastation of our industry. But that narrative is not just incomplete—it’s dangerously self-serving. None of those problems happened without our complicity and, often, encouragement.",
@@ -1004,110 +1108,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-google-deepmind-ceo-addresses-the-gemini-debacle-and-says-image-generator-could-be-back-in-a-couple-of-weeks.md",
-      "title": "Google DeepMind CEO addresses the Gemini debacle and says image generator could be back in a 'couple of weeks'",
-      "excerpt": "Google DeepMind CEO Demis Hassabis said the company hopes to relaunch its artificial intelligence image generator as soon as the next \"couple of weeks.\" Google paused access to its image generator ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/google-relaunch-gemini-image-generator-couple-weeks-demis-hassabis-deepmind-2024-2",
-      "originalUrl": "https://www.businessinsider.com/google-relaunch-gemini-image-generator-couple-weeks-demis-hassabis-deepmind-2024-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65dcada190413ab8e1d6c58f?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/google-relaunch-gemini-image-generator-couple-weeks-demis-hassabis-deepmind-2024-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-relaunch-gemini-image-generator-couple-weeks-demis-hassabis-deepmind-2024-2?amp",
-      "publishedDateTime": "2024-02-26T15:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-ai-can-power-the-green-energy-transition.md",
-      "title": "AI Can Power The Green Energy Transition",
-      "excerpt": "The emergence of AI intersects with the energy transition. There is an opportunity for this emerging technology to accelerate the move to greener energy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sumantsinha/2024/02/26/ai-can-power-the-green-energy-transition/",
-      "originalUrl": "https://www.forbes.com/sites/sumantsinha/2024/02/26/ai-can-power-the-green-energy-transition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65dcb93b7d0e3d22afce25a9/0x0.jpg?format=jpg&crop=3552,1999,x0,y0,safe&height=900&width=1600&fit=bounds",
-          "width": 1599,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sumantsinha/2024/02/26/ai-can-power-the-green-energy-transition/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sumantsinha/2024/02/26/ai-can-power-the-green-energy-transition/amp/",
-      "publishedDateTime": "2024-02-26T15:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

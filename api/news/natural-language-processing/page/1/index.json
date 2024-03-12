@@ -4,17 +4,17 @@
     {
       "path": "_news/2024-03-12-report-highlights-civil-liberties-concerns-with-facial-recognition-technology.md",
       "title": "Report highlights civil liberties concerns with facial recognition technology",
-      "excerpt": "Facial recognition technology (FRT) can allow investigators to scan billions of photos or videos to identify a potential suspect or a victim.",
+      "excerpt": "The report says some agencies now have training policies in place that include explaining how FRT affects civil liberties",
       "sourceUrl": null,
-      "webUrl": "https://www.whio.com/news/national/report-highlights-civil-liberties-concerns-with-facial-recognition-technology/AHOZDZJFIVHCHG34QGBSQZQRTU/",
-      "originalUrl": "https://www.whio.com/news/national/report-highlights-civil-liberties-concerns-with-facial-recognition-technology/AHOZDZJFIVHCHG34QGBSQZQRTU/",
+      "webUrl": "https://www.wsbtv.com/news/report-highlights-civil-liberties-concerns-with-facial-recognition-technology/OETF3NAPQRCY5H4FGMYXI3DWMM/",
+      "originalUrl": "https://www.wsbtv.com/news/report-highlights-civil-liberties-concerns-with-facial-recognition-technology/OETF3NAPQRCY5H4FGMYXI3DWMM/",
       "featuredContent": null,
       "highlight": null,
       "heat": 88,
       "tags": null,
       "images": [
         {
-          "url": "https://cmg-cmg-tv-10040-prod.cdn.arcpublishing.com/resizer/70lD4MUC1AQxkMV9oFwetysgtHE=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/MMXUPC3ETJCJBCFBK2KOULZONA.jpeg",
+          "url": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/2ujHFkVez5X3CIApIwboBaEkMwU=/1440x810/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/V7Q4DMJL7RDWXAYCVKLFOCEPR4.png",
           "width": 1440,
           "height": 810,
           "title": null,
@@ -24,13 +24,13 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.whio.com/news/national/report-highlights-civil-liberties-concerns-with-facial-recognition-technology/AHOZDZJFIVHCHG34QGBSQZQRTU/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-whio-com.cdn.ampproject.org/c/s/www.whio.com/news/national/report-highlights-civil-liberties-concerns-with-facial-recognition-technology/AHOZDZJFIVHCHG34QGBSQZQRTU/?outputType=amp",
-      "publishedDateTime": "2024-03-11T23:46:00Z",
+      "ampWebUrl": "https://www.wsbtv.com/news/report-highlights-civil-liberties-concerns-with-facial-recognition-technology/OETF3NAPQRCY5H4FGMYXI3DWMM/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wsbtv-com.cdn.ampproject.org/c/s/www.wsbtv.com/news/report-highlights-civil-liberties-concerns-with-facial-recognition-technology/OETF3NAPQRCY5H4FGMYXI3DWMM/?outputType=amp",
+      "publishedDateTime": "2024-03-12T01:44:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "WHIO",
-        "domain": "whio.com",
+        "name": "WSB-TV",
+        "domain": "wsbtv.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -204,7 +204,7 @@
       "originalUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -253,7 +253,7 @@
       "originalUrl": "https://www.forbes.com/sites/robtoews/2024/03/10/10-ai-predictions-for-the-year-2030/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 188,
+      "heat": 198,
       "tags": null,
       "images": [
         {

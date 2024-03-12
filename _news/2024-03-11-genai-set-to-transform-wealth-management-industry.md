@@ -7,7 +7,7 @@ originalUrl: "https://www.pwmnet.com/genai-set-to-transform-wealth-management-in
 webUrl: "https://www.pwmnet.com/genai-set-to-transform-wealth-management-industry"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "GenAI has the potential to transform wealth management industry"
+    excerpt: "Generative AI can allow wealth managers to personalise at scale, enabling them to put clients at the centre of business models."
+    publishedDateTime: 2024-03-11T10:19:00Z
+    webUrl: "https://www.pwmnet.com/genai-has-the-potential-to-transform-wealth-management-industry"
+    type: article
+    provider:
+      name: pwmnet.com
+      domain: pwmnet.com
+    quality: 39
+    images:
+      - url: "https://www.pwmnet.com/wp-content/uploads/2024/03/GET-AI-scaled.jpeg"
+        width: 2560
+        height: 1720
+        isCached: true
   - title: "Transforming Risk Management: Quantifind's Innovative Approach to Precision Language Models Sets New Industry Standards"
     excerpt: "Quantifind, the leader in AI-powered Risk Intelligence, has published a comprehensive white paper titled \"Precision LLMs in Risk"
     publishedDateTime: 2024-03-07T15:16:00Z

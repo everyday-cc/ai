@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Report highlights civil liberties concerns with facial recognition technology"
-excerpt: "Facial recognition technology (FRT) can allow investigators to scan billions of photos or videos to identify a potential suspect or a victim."
-publishedDateTime: 2024-03-11T23:46:00Z
-originalUrl: "https://www.whio.com/news/national/report-highlights-civil-liberties-concerns-with-facial-recognition-technology/AHOZDZJFIVHCHG34QGBSQZQRTU/"
-webUrl: "https://www.whio.com/news/national/report-highlights-civil-liberties-concerns-with-facial-recognition-technology/AHOZDZJFIVHCHG34QGBSQZQRTU/"
-ampWebUrl: "https://www.whio.com/news/national/report-highlights-civil-liberties-concerns-with-facial-recognition-technology/AHOZDZJFIVHCHG34QGBSQZQRTU/?outputType=amp"
-cdnAmpWebUrl: "https://www-whio-com.cdn.ampproject.org/c/s/www.whio.com/news/national/report-highlights-civil-liberties-concerns-with-facial-recognition-technology/AHOZDZJFIVHCHG34QGBSQZQRTU/?outputType=amp"
+excerpt: "The report says some agencies now have training policies in place that include explaining how FRT affects civil liberties"
+publishedDateTime: 2024-03-12T01:44:00Z
+originalUrl: "https://www.wsbtv.com/news/report-highlights-civil-liberties-concerns-with-facial-recognition-technology/OETF3NAPQRCY5H4FGMYXI3DWMM/"
+webUrl: "https://www.wsbtv.com/news/report-highlights-civil-liberties-concerns-with-facial-recognition-technology/OETF3NAPQRCY5H4FGMYXI3DWMM/"
+ampWebUrl: "https://www.wsbtv.com/news/report-highlights-civil-liberties-concerns-with-facial-recognition-technology/OETF3NAPQRCY5H4FGMYXI3DWMM/?outputType=amp"
+cdnAmpWebUrl: "https://www-wsbtv-com.cdn.ampproject.org/c/s/www.wsbtv.com/news/report-highlights-civil-liberties-concerns-with-facial-recognition-technology/OETF3NAPQRCY5H4FGMYXI3DWMM/?outputType=amp"
 type: article
 quality: 58
 heat: 88
 published: true
 
 provider:
-  name: WHIO
-  domain: whio.com
+  name: WSB-TV
+  domain: wsbtv.com
 
 topics:
   - Natural Language Processing
@@ -22,7 +22,7 @@ topics:
   - Computer Vision
 
 images:
-  - url: "https://cmg-cmg-tv-10040-prod.cdn.arcpublishing.com/resizer/70lD4MUC1AQxkMV9oFwetysgtHE=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/MMXUPC3ETJCJBCFBK2KOULZONA.jpeg"
+  - url: "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/2ujHFkVez5X3CIApIwboBaEkMwU=/1440x810/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/V7Q4DMJL7RDWXAYCVKLFOCEPR4.png"
     width: 1440
     height: 810
     isCached: true
@@ -71,6 +71,6 @@ related:
         height: 337
         isCached: true
 
-secured: "2FR9T4E9/r7e1hTzI0ktlGpHfhW7kUmw13ZhAD2K/ASZy+8DClZJsu8k3Q1gpnYYEMInu99EtNmt6+AmeBtO49Bp5BpkqR1RFTwx+R6/pRhJuzWp6iy6fkoDvMMKRzdiBYUAxD1h1w4+5o+zxLPEn1+dDwUTy3zZZIExn31PQylgVp2BIz/5otkybylAWtjn8Hk+YGO6ILfwDnqfJDLdUv9bXOCr2NIjSs7rYftOtdIETnjqJHlG5geJzsaFWlfMsQLzdPgqfWlZrTMLbK/k1QAB7oHfxwjCcMIe8mpnBU9Po0R375VBqYu6OFjoKfV/+FDuBKHcN15ybHbNRikpGx8pIwID6/63wOr8aMl3Eco=;5nk61Fc1rKmRs+hPcASGBg=="
+secured: "I9+8/RmkkLmgdOaZ36BzyB9lQj8G3tALWZEhtsqhrUksAuDot1LffKw1QIPh2KMvoi+uqsmegCdvTIPr7zd8GIl3oPE14qIyIBbWGmLFkPX/qiVkV1aCzuUYjAzfR+A68nka57ErgWGRDGF/z9otbjUI8BsmNh+bSkhwIR/+Ts3m+Du321BY60fufC47z1mB9qG2CKREyDaeuJLCbKb8gS0l6Wj/IT6Q4nD2V5LXwppInoMSGb17muAEgeFt09qJlX6d1JV+bb9L8/ExK47mF7nIchIY0de41itJxq0AwHAXeTrRZsP3Iilgulx2K1SE5GdIYnaq18j+FPdt00VjPs3KvszUNvbbhZYQ+j+Hufk=;Q7c6a6AEu/5O+kfDBdG25Q=="
 ---
 

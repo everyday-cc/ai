@@ -72,6 +72,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Local tech company brings AI to TCC's career services program"
+    excerpt: "He said a lot of WriteSea's research shows that many job seekers don't know what they excel at, so this AI will act as a coach and guide them to well-matched opportunities."
+    publishedDateTime: 2024-03-11T18:07:00Z
+    webUrl: "https://www.kjrh.com/news/local-news/local-tech-company-brings-ai-to-tccs-career-services-program"
+    type: article
+    provider:
+      name: kjrh.com
+      domain: kjrh.com
+    quality: 39
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/997e81f/2147483647/strip/true/crop/1674x879+0+33/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fa6%2F69%2Fc2beb16442cdaaa38fc32738afd2%2Fscreenshot-2024-03-11-at-6-00-17-pm.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Which Role Prepares You Best to Lead a Language Service Provider?"
     excerpt: "March marches on, and with it, the end of the first quarter of 2024 gets closer. As the Language Service Provider Index (LSPI) reveals, there are indications of stability … for some companies. The Super Agencies managed to grow a bit."
     publishedDateTime: 2024-03-07T15:00:00Z

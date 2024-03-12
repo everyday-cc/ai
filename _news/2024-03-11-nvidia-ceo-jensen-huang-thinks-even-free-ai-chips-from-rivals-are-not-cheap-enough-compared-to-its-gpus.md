@@ -47,6 +47,20 @@ related:
         width: 560
         height: 315
         isCached: true
+  - title: "Nvidia: We Were Right About Data Center And AI"
+    excerpt: "Nvidia Corporation's commitment to innovation in the data center drives strong revenue growth, surpassing competitors. Find out why NVDA stock is a Strong Buy."
+    publishedDateTime: 2024-03-11T19:24:00Z
+    webUrl: "https://seekingalpha.com/article/4677414-nvidia-we-were-right-about-data-center-and-ai"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 39
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1494623399/image_1494623399.jpg?io=getty-c-w1536"
+        width: 1536
+        height: 1034
+        isCached: true
   - title: "NVIDIA CEO Jensen Huang says next-gen DGX AI system will be liquid cooled"
     excerpt: "NVIDIA CEO Jensen Huang confirms next-gen DGX AI system will be liquid-cooled, off the back that Dell confirmed B200 will use up to 1000W of power."
     publishedDateTime: 2024-03-10T23:39:00Z

@@ -53,6 +53,20 @@ related:
         width: 560
         height: 315
         isCached: true
+  - title: "Nvidia: We Were Right About Data Center And AI"
+    excerpt: "Nvidia Corporation's commitment to innovation in the data center drives strong revenue growth, surpassing competitors. Find out why NVDA stock is a Strong Buy."
+    publishedDateTime: 2024-03-11T19:24:00Z
+    webUrl: "https://seekingalpha.com/article/4677414-nvidia-we-were-right-about-data-center-and-ai"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 39
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1494623399/image_1494623399.jpg?io=getty-c-w1536"
+        width: 1536
+        height: 1034
+        isCached: true
   - title: "Nvidia and 7 Other Semiconductor Stocks That Can Benefit From Artificial Intelligence (AI) Robots"
     excerpt: "In today's video, I discuss Nvidia (NASDAQ: NVDA) and other semiconductor companies that provide solutions for the robotics market. Check out the short video to learn more, consider subscribing, and click the special offer link below. *Stock prices used ..."
     publishedDateTime: 2024-03-09T10:00:00Z

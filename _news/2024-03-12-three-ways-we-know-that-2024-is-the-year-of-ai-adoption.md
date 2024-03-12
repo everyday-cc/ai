@@ -110,6 +110,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Artificial Intelligence is the biggest threat to the 2024 elections"
+    excerpt: "Yubico, the leading provider of hardware authentication security keys, and Defending Digital Campaigns (DDC), a nonprofit and nonpartisan organisation committed to bringing free cybersecurity tools and resources to federal election campaigns,"
+    publishedDateTime: 2024-03-12T01:01:00Z
+    webUrl: "https://itwire.com/guest-articles/guest-research/artificial-intelligence-is-the-biggest-threat-to-the-2024-elections.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 37
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/9e9e0c01ebd0f7957acc6a63cc76c281_M.jpg"
+        width: 375
+        height: 375
+        isCached: true
   - title: "Revolutionary AI Predicts Alzheimer’s up to Seven Years Before Symptoms Appear"
     excerpt: "Scientists at UC San Francisco have developed a method using machine learning to predict the onset of Alzheimer's Disease up to seven years prior to the emergence of symptoms, through the examination of patient records."
     publishedDateTime: 2024-03-08T04:25:00Z
@@ -143,6 +157,6 @@ related:
       domain: eschoolnews.com
     quality: 15
 
-secured: "qex3/0F3L3cx7mNbnuplz+NfFmfOjpCFM9yvBqczgTZU4mZFd3uRqzvbk3fy4a74fPB4aict7LUJd+jnyqZQgK1q9dpvpuZeCpoxCveZnwTaitXMH/jpzVNvGjJSZkxyxwniDHmYgscUjshlub6LYo9FPKSAf+5nsBJ2IT0VDsvlN7idUWIWJHcs9XA5nzes0osHLb7U51UNVawf961D06+iLF3F8bHyobuBhRXzvYszPcKhapDhwqSm7p9Vq2sVXgzk//FcAoWLaX82ZOjUecbi/FR+ixy6ff8pYqNOPLW/JA2DFWnV/WQaZsB2Pvf+mr0KAzVOBHZQEt5JEq48j+MI8MeUZWKUT2HqleK0yrI=;DXLZ/sHuEAJ06YCp8VjISA=="
+secured: "th77bNOdCd/CVbO3OrQJgX8rmah5FnBJI9vk6ySCdM2xjsmBrcS6KfONPtwJPSIKeMGHWGzx9jpx6B3X6slfh9wkIJD3D8c+dM6/mMqPLwqxD21kHlXzCx/LodBfYfGUX9/Xy/sH2VToTlKGnfvnfJ65wd2RPqHQT8HcSb+FL5SJxhqGOKlPRuB6qcnEUqJNDlkmRhtaGvWT5GpxRsB6sHmGkSwrvlF7BQe5H8a2L/6I7yJZm/OCHaJX2Fbae2hf9j5f4JYaHiFy6l+RexzusN9W5muYviAW/3BcyPizLUiA2Y/OZb6JAGRHnTG5MOCE8Eexkozvi++fKWLVA6HWjjRWnujOp+kwETbjLl1d4QRLg65DvWf/tOtvc3tQiDbEbWViPjmhHzeZEWusavLxWzOznti9sa6hBk27KIw9Nf+Gbj9IEVk2CZfm9261+62m4hW+KFRzxMRBbIIH0Hh+O0PnSvfw9uQ+iq9/dihDJlOZsrEiLuXpzXX+SUlFGYxi4NKJh58HecTxsjx0naHhCw==;X5o9DAPy75G2xMPAMlYC3g=="
 ---
 
