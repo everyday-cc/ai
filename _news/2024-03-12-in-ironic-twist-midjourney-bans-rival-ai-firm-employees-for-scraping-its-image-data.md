@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2024/03/in-ironic-t
 webUrl: "https://arstechnica.com/information-technology/2024/03/in-ironic-twist-midjourney-bans-rival-ai-firm-employees-for-scraping-its-image-data/"
 type: article
 quality: 60
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Midjourney 'Character Reference' Feature Aims for Consistency Across AI Images"
+    excerpt: "Want to make Cristiano Ronaldo look like a cyberpunk character? Midjourney's AI will now try to keep people's faces similar across images."
+    publishedDateTime: 2024-03-12T13:19:00Z
+    webUrl: "https://www.pcmag.com/news/midjourney-ai-character-reference-feature"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 43
 
 secured: "pTwPurklJA+uiQf6Q3Oi1SVVL7ypPjWCUrEOQGK2zSfGZhy3eifPWFJ5rfS6NToFt+gnq0KaU93JTkeFE3ZJQFOrEo5CC1Vl4uiOYhEDwyjfGV7knHcTdkxs/KWkjWQAgBhJ0SBYeBLGQCsnvzaIXfJLy93gYyJk48bPecZFK4S0Dk31JRD5khxJKTqzFSZCRj2QvV5b3vnF+cKU4wxx9yRyxzmX8rOlNxYnOHAAn/CSY9sGvWZDnlN0rG4QtYr5xG8QTIoLc8LqfkYl3TlqVAD3uAGv7FsPdMfyctIn7V/s73jev0v4mw9seTYh9MWbmJ9lj7iWMvULOdTg4VJ+XcXCTAK9+Yzi496USyjA8j0=;pse+a/GOPmP4HoIrX4GMFw=="
 ---

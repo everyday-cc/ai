@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/opinion/articles/2024-03-12/the-ai-revol
 webUrl: "https://www.bloomberg.com/opinion/articles/2024-03-12/the-ai-revolution-needs-chips-software-and-gas-pipelines"
 type: article
 quality: 64
-heat: 74
-published: true
+heat: 66
+published: false
 
 provider:
   name: Bloomberg L.P.
@@ -22,17 +22,6 @@ topics:
   - AI Hardware
   - AI
 
-related:
-  - title: "AI desperately needs a hardware revolution and the solution might be inside your head"
-    excerpt: "The future of AI hardware may lie in the development of brain cells as computing machines as they offer significant advantages in power consumption and processing speeds."
-    publishedDateTime: 2024-03-07T12:19:00Z
-    webUrl: "https://www.zdnet.com/article/ai-desperately-needs-a-hardware-revolution-and-the-solution-might-be-inside-your-head/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 40
-
-secured: "oEs0T9rzS5xJ8adMHXrtFIgGpPTzRQPd8/+ih+Yk5wTmMbggb3Jbkk+r/1wYOkJ08Jx+CrBuBUkN13r1K+sMBKmbzjt3POaHOmMDd42w2baLdRZRlN9xqilkGPEK+PhApiK2ESugcP9gmyj7pLOt69YkUAVBp/kB/ms4DuCpfXgNZ4q4gjInZZ6A2nb4AsokwxsJC0rMVZCkHO23vGiFAohXYCEw//5AEUnmKhMH3Xyu1Zv/NlHXWbECS5vLTb9y57onlu62WvUhm2etgUEhoPcKIU3xdG/9gxXOGigpbqc29oSqL1bxU1h5CGUMVY8wz7jMNlmkNjNnRS3OIjKPwSa4jK+/HB314bhhQsev4Xk=;8zjpG92QJtUjjJHLzEFRFA=="
+secured: "15XgBaJX8CPV9P78tNSrvG9mf0sYhZIdBglcTAgNoj3EZkl0cO9Eii5izOJ+BtIy+kNip6Pk89D3WKBFZd/MKVynK7XryLg4Iv1ul22lQQmZYT0vsiH4kMJz8YybPP8b+CucxY6o47B+sMs5+v4dfIyJJeY4a0c1ocvGc5z67LVcV+/CIw8bu93ea9bSddZLU2HJQXaFJ+lUkhhiV1UsB8d8ncWbVSgDYhn3FTzZ7Oan/uCwterDOTdIxAUkqKlQEm2k5r94wG+L9glnXtg7c+4uQT9DJ3CUkITh5EElP3l5fA7T6ci5zKiv1dNChzUG0KTsTyW4bn3s8lcHY8VjZzOHT/uzIp71uBxxAS0Upr2H7X+n1t5wFxb2QXcS37euyWLWOglc3GXrouGj82qT1mGCq7BbmRwcwMMyBfJH4CKd6pIgnqi5aIwnTFk+mCiRIdEAMluVQWqcwvq3upzhEKqF/5L2LQVjqpo+4i7udXxtmyvQ1LTwD/7aCAhvN70PcNRSWAhpmG05NReUN4t+eg==;kDIHiE0C3JxSfN9Vhk5YTw=="
 ---
 

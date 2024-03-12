@@ -106,6 +106,24 @@ related:
         width: 1232
         height: 928
         isCached: true
+  - title: "Indosat taps Nvidia for AI muscle"
+    excerpt: "Indonesian operator is the latest to collaborate with NvidiaIt will offer enterprise users access to Nvidia’s GPUs for AI workloadsThe move is part of a"
+    publishedDateTime: 2024-03-12T13:10:00Z
+    webUrl: "https://www.telecomtv.com/content/telcos-and-ai-channel/indosat-taps-nvidia-for-ai-muscle-49902/"
+    type: article
+    provider:
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 19
+  - title: "Billionaires are ditching Nvidia. Here are the 2 AI stocks they're buying instead."
+    excerpt: "Move over, Nvidia! Wall Street's most-prominent billionaire investors are dumping the AI kingpin in favor of two other industry leaders."
+    publishedDateTime: 2024-03-12T13:40:00Z
+    webUrl: "https://www.usatoday.com/story/money/investing/2024/03/12/selling-nvidia-billionaires-buying-these-artificial-intelligence-stocks/72940466007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 13
 
 secured: "cEQ6M8HjVeO0BeQqgp9O9KnbidXL7yhLJs/Nmr7eRstUGgS5fZ0/0K3d1DHnUhaWKg2gPDMVP+Uu+C7rP7Thk/H9ssfYaDNxoGbX0ckgxETSACUCXBdMTHQ84dQdf2nOPnvV0H7yHLcSEKuRMPIVVX4uFJi9ezj+PFp/aA7ZZzrF9Ae2lzA45SjlKCxPKIhlolWDFQpwF7li7zLKXHxJMK0fQ3APpMD4YuVHa40HM/OrES6//NJuMVr9rq6t5W0b5+F5SLFu7feOADwxPClkbC37ozANO7sitWxKuUGXm5OulfzXnNi0oFcesu92Uu4LXUXvjl6mW/PTlIVZxvzXpaykgEobLoI9fhfSNt1WUSYGPLg6AUUzqOusFKxCQ3dX8VRkiF8gLlLx6iByqhaf0bLPeNNgzqPWtUAITi2yqhlCkkIjCGQElxJ1tJP7CtVO4NJadkGhIzM5oZywlZVHLSOqWJGBxyjDbMUn1RzXxSp+NklLlgoaQSz+EAuCmyuDrzlTOdBxXAkCi03YXjojPg==;ij53i4L3HpiJZnQOxGN9Fw=="
 ---

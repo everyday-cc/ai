@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/tech-policy/2024/03/novelists-sue-nvidia-t
 webUrl: "https://arstechnica.com/tech-policy/2024/03/novelists-sue-nvidia-to-stop-spread-of-ai-models-trained-on-copyrighted-books/"
 type: article
 quality: 66
-heat: 126
+heat: 146
 published: true
 
 provider:
@@ -110,6 +110,24 @@ related:
         width: 1232
         height: 928
         isCached: true
+  - title: "Indosat taps Nvidia for AI muscle"
+    excerpt: "Indonesian operator is the latest to collaborate with NvidiaIt will offer enterprise users access to Nvidia’s GPUs for AI workloadsThe move is part of a"
+    publishedDateTime: 2024-03-12T13:10:00Z
+    webUrl: "https://www.telecomtv.com/content/telcos-and-ai-channel/indosat-taps-nvidia-for-ai-muscle-49902/"
+    type: article
+    provider:
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 19
+  - title: "Billionaires are ditching Nvidia. Here are the 2 AI stocks they're buying instead."
+    excerpt: "Move over, Nvidia! Wall Street's most-prominent billionaire investors are dumping the AI kingpin in favor of two other industry leaders."
+    publishedDateTime: 2024-03-12T13:40:00Z
+    webUrl: "https://www.usatoday.com/story/money/investing/2024/03/12/selling-nvidia-billionaires-buying-these-artificial-intelligence-stocks/72940466007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 13
 
 secured: "RK/sIuoyeobro2q1nUmejZ2GCI+HZo0t/jRmXG45W4eYxthKHlKcDH+NiaK9F57ufeqsLlDPC402ZdTKdsdbfumbsf0tcMsVBRHcBbVTxGky6P6MdXyfBeZ/vzVcm6FaE8GK+3L72+8zRJ7LTRKk8/5kSlIQaXRLIg2gFEtKgGsT1B5+hRZ31pcZH0s/9kjfYqbJISTFENtCwPtSibuAD4GFkiAxXcyL2cc1zWQDMd6JTk6Uc7C4h8nOnFtYAunLGC7PyEkC/FYcbqT9AaBUxCVbwOwmc/Z0hO1Ilyuw5pXVeAMmzl9buEKwB7vfDmJqc/pSRvgXAkA2vU2fI5Nn8Y28JK5oiqHLPY86UR5iIbc=;GFPnTzh9OrUTLdHCYeCsBg=="
 ---

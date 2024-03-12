@@ -189,20 +189,6 @@ related:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
     quality: 34
-  - title: "Google: I Am Bullish Despite The Mess With Gemini"
-    excerpt: "Despite potential risks from generative AI, Google's solid position and profitability make it an attractive investment. Find out why I am bullish on GOOG stock."
-    publishedDateTime: 2024-03-07T15:49:00Z
-    webUrl: "https://seekingalpha.com/article/4676632-google-i-am-bullish-despite-the-mess-with-gemini"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 24
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1415832512/image_1415832512.jpg?io=getty-c-w1536"
-        width: 1536
-        height: 1024
-        isCached: true
   - title: "Google confirms Gemini Nano will not come to the Pixel 8"
     excerpt: "Google has confirmed that the Pixel 8 will not get Gemini Nano, which the more powerful Pixel 8 Pro already has"
     publishedDateTime: 2024-03-07T22:05:00Z
@@ -232,6 +218,6 @@ related:
         height: 427
         isCached: true
 
-secured: "5zUWb9H11q5ALvK+FicxOFQBkHSaDf+2gSu0EC4U8/aH73ILpY1nP4GgC9kp9AssIA0o7azK+yk3uQrSbP5GvoSy89KC/2CF2RzYmGUsjk9D5fuBlstwPpWIeAksA/3SROP3E+eVwowgy+CcH59mywQ56MwiJJ+oBfeKlFmz9FHda56AXm6EXPFpHZMxsQyLrpnBoZ1yO1f6h6HRJxYZ7PU0yNB1xHqqRZ0nQugvbyp/llhCU6guAgBjdXfeIzAtzjx1G1Gdu1pgusnoUdAyOjUKTVykG9yF5l0e70HYPDEqhY/jaK2kdpPTsM1yDt9Nxv2nU3Gx4YSZywSnZIfbHn2uGhF0Bylp7r06mGfpjwc=;tQKdTaqcGd6CMFdlo0E8ug=="
+secured: "IOKdzR7UvRewhtEsB6nLohAC8raJnux/N3nmhgQDMh8gUrk8reEJnNm1pLRkOKTeoa6XyyeLIkQVC2AW9/3f3A3xpOqT2OObQ28F+Bo8b+MtPK5LuUkXMaqnQMeIX5pJWgiFadWDo0aIEiJu9uk9igdsFJ1X7CLkBiBwP0O3Kh346g8wOUuuJ9BFOfhxM+Ei85MQJkmgGk9cTIl0SIi4jDTXfU+iB1gkxWExlRYTI6p2Npm055VP5pp8xADj4UcckQ6U05vqeOC+xkt+7j+sxmg+DClJyI9+twwX4pHt3C12ZrUNQVnTgfyiYv6JYDQ6AMQgw52jyv5q/qPIIUk1dPELlm4Vm4wulK1EtnHnl/rP992SBaACdIIvHEWUnU8xQ9RcDWHDtcJnudrCOLtWfNzJTaEn/y3ptJeYN1hJFvTSSHPwi4kLEWfPE+PKcjKc6OKleKTFA4bj12K95Q+PDV8edagv2jci5Z0eqfVI+R6loZy72+M4xJ/lhRloTpIgHTIVEPBzLfKuDrWq9UMkug==;+pgV8rQ9fPtQGX1Hn+Oclg=="
 ---
 

@@ -7,8 +7,8 @@ originalUrl: "https://in.mashable.com/tech/71008/google-geminis-latest-update-em
 webUrl: "https://in.mashable.com/tech/71008/google-geminis-latest-update-empowers-content-editing-with-ai-heres-how-you-can-do-it"
 type: article
 quality: 60
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: in.mashable
@@ -23,6 +23,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Opinion: Gemini, Google’s latest AI tool, had a troubling talk with my ‘son’"
+    excerpt: "Anti-White bias is hardly the only problem despite the company promise of “the most comprehensive safety evaluations”"
+    publishedDateTime: 2024-03-12T12:30:00Z
+    webUrl: "https://www.eastbaytimes.com/2024/03/12/opinion-gemini-googles-latest-ai-tool-had-a-troubling-talk-with-my-son/"
+    type: article
+    provider:
+      name: East Bay Times
+      domain: eastbaytimes.com
+    quality: 16
 
 secured: "xSwBhu8PKqTy3zZS46LRndM2HaLq5mUSAzz58UpXY31qolhjk8+z4pfLBvQaKvNmpgaK2mV6f2WiLZy/dcVVXfy7QCi3BZ+pYKVDOYsjlV1oHJspxW/EiVAQFLfxxu+QV5n3eM9VxU69L2mAN2LHsurbo64tpFEDfGi1hUyv56a+eHxh5j1wKSXWRtePqxXL4jlXkIAoBekFtyGtcKpPC6b3mLXOw7chh8X1FZoPq1CJp7PjxhiHPYeGRK2QAbdEI1FMerUue3RYRk8DyITM1FG2mx49Vq1zbFM06K8RcvKjX22ojebm6gWi9+T5nKGYRUepiejpbdegbgMHKNwjDJ3scO1VQZqZCRVnt+iaGYLx2KR5GvMNykw7EHYrGPm6Jwy+RkGeo46yvbKn7dONL4bSXr00gbnc+PX2aTX/Y9VIPNiFBbl/sUBms0to0iUkwcQOvz0szV2TOokgWPajQqsitRaq0C+7siimiytMnYSsx4nvJ/iYGsXdAfF2BAsbtDeN7Yn572zdOo69m5nuTQ==;rQYEJRyhKv8KGtwuGupqpQ=="
 ---

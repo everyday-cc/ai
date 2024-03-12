@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202403/ai-o
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202403/ai-outperforms-pathologists-in-predicting-cancer-spread-to-brain?amp"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Outperforms Pathologists in Predicting Cancer Spread to Brain"
-    excerpt: "A new scientific study published on Monday in The Journal of Pathology reveals that AI deep learning can predict if a patient’s non-small cell lung cancer (NSCLC) will spread to the brain within five years of diagnosis better than expert pathologists."
-    publishedDateTime: 2024-03-07T15:45:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202403/ai-outperforms-pathologists-in-predicting-cancer-spread-to-brain"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202403/ai-outperforms-pathologists-in-predicting-cancer-spread-to-brain?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202403/ai-outperforms-pathologists-in-predicting-cancer-spread-to-brain?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-03/pic9105.jpg?itok=gRgAKG7k"
-        width: 1528
-        height: 800
-        isCached: true
   - title: "Machine Learning Predicts Lung Cancer Spread to Brain"
     excerpt: "Scientists trained a machine-learning algorithm to predict accurately brain metastasis using biopsy samples from early-stage non-small cell lung cancer patients."
     publishedDateTime: 2024-03-12T10:19:00Z

@@ -41,6 +41,15 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Generative AI In Action: Transforming Workforce Learning And Development"
+    excerpt: "To develop an L&D curriculum that is beneficial to employees, I believe organizations should leverage GenAI to create impactful, scalable training opportunities."
+    publishedDateTime: 2024-03-12T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/03/12/generative-ai-in-action-transforming-workforce-learning-and-development/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 48
   - title: "How AI Will Revolutionize Supply Chains"
     excerpt: "Even the sturdiest supply chains are vulnerable to seismic shocks, whether due to groundbreaking technological advancements, geopolitical shifts, or global crises. Amid these sources of turbulence, artificial intelligence (AI) can be a game-changer, offering a source of rapid response and sustainable solutions to keep supply chains strong."
     publishedDateTime: 2024-03-08T13:51:00Z
@@ -70,6 +79,6 @@ related:
         height: 250
         isCached: true
 
-secured: "Q7OQAPxE2QkhAMJG8meMS/FyMHTnGjSrR8IFNlPCMELdErs2lx0UEhKNQcngyRB4vqk99tE1aYqJYWH7FA8iPPD7UB4qVKNDvJ9qSkUPjFpSyQwTSSvj5aqrOHoPjL8jRohyfojUtOzK437yjR+P4cBIZ3ZImwpegL89fFcgjnBnUmoMHuBxu3W+HnaSKscRGnVWuk+RrSBwd/GSnH5GVNADw53wkYz1FIFUWLq5IPyfYZGVXNPjPlWyRfOb4iebra9aXkLcgfm/GjADw5b0hrcLU2jR3TS7ztgit266u8Tg+NP0HkJG9wL+r6W6xaFHDN5ZxHXm/B+Q4Keg3fYv6ujkQD5HjJxTNlOh1Ap3Y+Y=;ortIMPnjaLzOPyp1t/hoFQ=="
+secured: "wgqR3L6MccTgTUlgq8+GSq4ufohwyKBwKA5Yvsy49L1MncuIcPuGjecNrdLvfVuQ2vj8oaYYy9cocsAhcz3s0WZbGYj2rwK4YHjJD3Kovg1xnJMAeaPDJtWdrkpDwmZMmrTX5TgnUOj7IH2M5RXcL7LD05Vdg/K4iCkFqm6agz5HGIH5dHbNBX2oXtryI3BOLcYaDjdzX+v/4dqFQsjlZU2YRg8jAJHTvoynQIVD3z4sdDpKDWrGaHMLsvomlMr/wcH1UZD4i3ssckVjjbdaVsAKPzABfwrC1DeUrcnd6t4zsinOSRu8wMUHNOr+fgvfWC1+nN3smgskjUfqL2UUTchIFwSIgV/oKQl7d6Q24Ck8Si/88WdJNrVVPTp5ASFCDv5gTE3RPe2seza72DmyKLDnhuXrvYIDoTdvwuuTR6Zkd4RRBzHILd+Vsdd7fIy8VVvaN3xf8C5f2qj1ED7/lxIQdysd9G2hFi8DyjYpEkyVrXTq0FH/ZikLsAKVLMmtzfeHd7QrqttWWqwWTYkPSg==;0H5XOZHoPKkiRG8F85K4IQ=="
 ---
 

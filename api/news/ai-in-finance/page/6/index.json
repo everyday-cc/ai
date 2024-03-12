@@ -2,196 +2,31 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2023-07-27-northern-arcs-ml-tool-nuscore-to-aid-pahal-financial-services-underwriting.md",
-      "title": "Northern Arc’s ML tool NuScore to aid Pahal Financial Services’ underwriting",
-      "excerpt": "Northern Arc Capital's Nu Score, a machine-learning based analytical tool, will be used for underwriting and risk assessment by Pahal Financial Services, a Gujarat-based NBFC. Pahal aims disbursement of Rs 2,",
+      "path": "_news/2023-11-20-whats-in-store-for-2024-innovations-in-b2c-and-b2b-fintech-solutions.md",
+      "title": "What’s In Store For 2024? Innovations In B2C And B2B Fintech Solutions",
+      "excerpt": "To excel in the dynamic fintech landscape of 2024, businesses must prioritize innovation and customer-centricity while embracing automation and adaptability.",
       "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/industry/banking/finance/northern-arcs-ml-tool-nuscore-to-aid-pahal-financial-services-underwriting/articleshow/102130074.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/industry/banking/finance/northern-arcs-ml-tool-nuscore-to-aid-pahal-financial-services-underwriting/articleshow/102130074.cms",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/20/whats-in-store-for-2024-innovations-in-b2c-and-b2b-fintech-solutions/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/20/whats-in-store-for-2024-innovations-in-b2c-and-b2b-fintech-solutions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 114,
       "tags": null,
       "images": [
         {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-47338,msid-102147852/isb-applied-business-analytics-drive-business-growth-with-the-power-of-data-analytics.jpg",
-          "width": 600,
-          "height": 450,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6557c6c8274bff58c483c9d0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1178,
+          "height": 785,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
-      "content": "\r\n",
+      "content": "",
       "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/industry/banking/finance/northern-arcs-ml-tool-nuscore-to-aid-pahal-financial-services-underwriting/amp_articleshow/102130074.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/banking/finance/northern-arcs-ml-tool-nuscore-to-aid-pahal-financial-services-underwriting/amp_articleshow/102130074.cms",
-      "publishedDateTime": "2023-07-26T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-a-comprehensive-analysis-including-a-macro-overview-of-the-ai-in-fintech-market-with-a-forecasted-95-cagr-forecasted-from-2023-to-2030.md",
-      "title": "A comprehensive analysis including a macro overview of the AI in Fintech market with a forecasted 9.5% CAGR Forecasted from 2023 to 2030",
-      "excerpt": "The \"AI in Fintech Market\" report draws on various inferences to analyze the challenges within the industry. The final draught highlights the industry's typical problems as well as the businesses ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/33375252/a-comprehensive-analysis-including-a-macro-overview-of-the-ai-in-fintech-market-with-a-forecasted-9",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/33375252/a-comprehensive-analysis-including-a-macro-overview-of-the-ai-in-fintech-market-with-a-forecasted-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33375252",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33375252",
-      "publishedDateTime": "2023-07-26T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-rigetti-and-adia-lab-sign-collaboration-agreement-to-develop-quantum-machine-learning-solution-for-probability-distribution-classification.md",
-      "title": "Rigetti and ADIA Lab Sign Collaboration Agreement to Develop Quantum Machine Learning Solution for Probability Distribution Classification",
-      "excerpt": "Rigetti Computing, Inc. (Nasdaq: RGTI) (“Rigetti” or the “Company”), a pioneer in full-stack quantum-classical computing, today announced that it has signed a collaboration agreement with ADIA Lab, an independent Abu-Dhabi-based institute dedicated to basic and applied research in data and computational sciences.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2023/07/26/9854389.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2023/07/26/9854389.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-07-26T05:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-how-ai-is-revolutionising-banking-services-in-rural-areas.md",
-      "title": "How AI is revolutionising banking services in rural areas",
-      "excerpt": "Artificial Intelligence is emerging as a powerful tool for enhancing customer experience in the banking sector, especially for marginalized and underserved populations. AI-enabled solutions are improving accessibility and efficiency for basic banking services across",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-ai-is-revolutionising-banking-services-in-rural-areas/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-ai-is-revolutionising-banking-services-in-rural-areas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/75433510.cms",
-          "width": 330,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-ai-is-revolutionising-banking-services-in-rural-areas/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-ai-is-revolutionising-banking-services-in-rural-areas/",
-      "publishedDateTime": "2023-07-26T04:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-generative-ai-a-big-bang-moment-for-fintech.md",
-      "title": "Generative AI: A Big Bang Moment For FinTech",
-      "excerpt": "FinTechs should know to approach generative AI with the right priorities and modern tech infrastructure in place.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/26/generative-ai-a-big-bang-moment-for-fintech/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/26/generative-ai-a-big-bang-moment-for-fintech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 219,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c004db540f53f5ded8f5fe/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/07/26/generative-ai-a-big-bang-moment-for-fintech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/07/26/generative-ai-a-big-bang-moment-for-fintech/amp/",
-      "publishedDateTime": "2023-07-26T03:30:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/20/whats-in-store-for-2024-innovations-in-b2c-and-b2b-fintech-solutions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/20/whats-in-store-for-2024-innovations-in-b2c-and-b2b-fintech-solutions/amp/",
+      "publishedDateTime": "2023-11-20T10:15:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -206,49 +41,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-07-26-ai-in-fintech-market-size-trends-demand-growth-and-analysis-2023-2028.md",
-      "title": "AI in Fintech Market Size, Trends, Demand, Growth and Analysis 2023-2028",
-      "excerpt": "IMARC Group, a leading market research company, has released a report titled AI in Fintech Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2023-2028.According to the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/23/07/33383147/ai-in-fintech-market-size-trends-demand-growth-and-analysis-2023-2028",
-      "originalUrl": "https://www.benzinga.com/pressreleases/23/07/33383147/ai-in-fintech-market-size-trends-demand-growth-and-analysis-2023-2028",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/33383147",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/33383147",
-      "publishedDateTime": "2023-07-25T17:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

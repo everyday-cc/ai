@@ -49,15 +49,6 @@ related:
       domain: searchengineland.com
     quality: 18
   - title: "Transforming Risk Management: Quantifind's Innovative Approach to Precision Language Models Sets New Industry Standards"
-    excerpt: "Quantifind, the leader in AI-powered Risk Intelligence, has published a comprehensive white paper titled \"Precision LLMs in Risk"
-    publishedDateTime: 2024-03-07T15:16:00Z
-    webUrl: "https://www.newswire.ca/news-releases/transforming-risk-management-quantifind-s-innovative-approach-to-precision-language-models-sets-new-industry-standards-840123599.html"
-    type: article
-    provider:
-      name: Newswire
-      domain: newswire.ca
-    quality: 0
-  - title: "Transforming Risk Management: Quantifind's Innovative Approach to Precision Language Models Sets New Industry Standards"
     excerpt: "John Stockton, Co-founder of Quantifind, commented, \"As the landscape of AI continues to evolve, organizations must harness the power of Precise Language Models responsibly and strategically. Our white paper offers valuable insights into navigating the omplexities and maximizing the benefits of integrating LLMs into risk assessment frameworks.\""
     publishedDateTime: 2024-03-07T16:32:00Z
     webUrl: "https://www.tmcnet.com/usubmit/2024/03/07/9974948.htm"

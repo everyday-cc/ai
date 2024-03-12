@@ -38,6 +38,15 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Generative AI In Action: Transforming Workforce Learning And Development"
+    excerpt: "To develop an L&D curriculum that is beneficial to employees, I believe organizations should leverage GenAI to create impactful, scalable training opportunities."
+    publishedDateTime: 2024-03-12T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/03/12/generative-ai-in-action-transforming-workforce-learning-and-development/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 48
   - title: "Artificial Intelligence In Cancer Detection: How Is AI Contributing To The Diagnostic Industry and Impacting Early Detection?"
     excerpt: "\"Artificial Intelligence (AI) is drastically changing the diagnostic industry, especially in the domain of early cancer detection\", says Mr. Hariharan Subramanian, the Managing Director of Siemens Healthcare Private Limited."
     publishedDateTime: 2024-03-12T10:05:00Z

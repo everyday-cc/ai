@@ -19,18 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Airports using biometric facial recognition in Tennessee"
-    excerpt: "Spokeo looked at which airports are using facial recognition software in Tennessee for security screenings, according to Customs and Border Protection."
-    publishedDateTime: 2024-03-07T14:17:00Z
-    webUrl: "https://clarksvillenow.com/local/airports-using-biometric-facial-recognition-in-tennessee/"
+  - title: "Airports using biometric facial recognition in Kansas"
+    excerpt: "The next time you’re in a security line at the airport, you may find that instead of a Transportation Security Administration officer checking your ID, a camera and screen will use biometric"
+    publishedDateTime: 2024-03-12T15:14:00Z
+    webUrl: "https://www.ksn.com/news/airports-using-biometric-facial-recognition-in-kansas/"
+    ampWebUrl: "https://www.ksn.com/news/airports-using-biometric-facial-recognition-in-kansas/amp/"
+    cdnAmpWebUrl: "https://www-ksn-com.cdn.ampproject.org/c/s/www.ksn.com/news/airports-using-biometric-facial-recognition-in-kansas/amp/"
     type: article
     provider:
-      name: Clarksville Now
-      domain: clarksvillenow.com
-    quality: 54
+      name: ksn.com
+      domain: ksn.com
+    quality: 74
     images:
-      - url: "https://clarksvillenow.sagacom.com/files/2024/03/ee6bd9d74e2a142c2f2daf72351580a3.png"
-        width: 1010
+      - url: "https://www.ksn.com/wp-content/uploads/sites/13/2023/05/facial.jpg?w=1280"
+        width: 1280
         height: 720
         isCached: true
   - title: "Airports using biometric facial recognition in Florida"
@@ -75,42 +77,6 @@ related:
         width: 700
         height: 394
         isCached: true
-  - title: "Airports using biometric facial recognition in Idaho"
-    excerpt: "Spokeo looked at which airports are using facial recognition software in Idaho for security screenings, according to Customs and Border Protection."
-    publishedDateTime: 2024-03-07T13:35:00Z
-    webUrl: "https://www.idahostatesman.com/news/local/article286376410.html"
-    type: article
-    provider:
-      name: Idaho Statesman
-      domain: idahostatesman.com
-    quality: 34
-  - title: "Airports using biometric facial recognition in Kansas"
-    excerpt: "Spokeo looked at which airports are using facial recognition software in Kansas for security screenings, according to Customs and Border Protection."
-    publishedDateTime: 2024-03-07T13:40:00Z
-    webUrl: "https://www.kansas.com/news/local/article286376630.html"
-    type: article
-    provider:
-      name: Wichita Eagle
-      domain: kansas.com
-    quality: 34
-  - title: "Airports using biometric facial recognition in Missouri"
-    excerpt: "Spokeo looked at which airports are using facial recognition software in Missouri for security screenings, according to Customs and Border Protection."
-    publishedDateTime: 2024-03-07T13:46:00Z
-    webUrl: "https://www.kansascity.com/news/local/article286377060.html"
-    type: article
-    provider:
-      name: Kansas City Star
-      domain: kansascity.com
-    quality: 34
-  - title: "Airports using biometric facial recognition in Pennsylvania"
-    excerpt: "Spokeo looked at which airports are using facial recognition software in Pennsylvania for security screenings, according to Customs and Border Protection."
-    publishedDateTime: 2024-03-07T13:56:00Z
-    webUrl: "https://www.centredaily.com/news/local/article286377490.html"
-    type: article
-    provider:
-      name: Centre Daily Times
-      domain: centredaily.com
-    quality: 34
 
 secured: "w6+1AykijKavBUHnHTuiRsbUy6URAOZwbFGS6UZ95Wjz/tsfYQsD0utfft01cJ7g0lci5bxoUU5pCmz5p6QMneAkhVkNMvV0MoR63y8IAETTwDrIscbSHP6HS7TJJTI0Nl1isHQY5bjXGykNgahsR+OPi75bHxqYqPaAQApvAIJb9AgvYoEm+8SCLFHF6ohIWEAXGt2K/PK7mnPlzWEOpj2s+fFzxjXPDfK8yekihOGLNU6ON4OXudA/Ai0614mImaU+1lb9UIDVEULk5NNSy3loDw7pGv53fQZSluTDC184DE2Z3kRoY8wXRu1uj4jgOgr60Dp0N7S3t0Md1jkOV/11EOwDYfyeg5LZQHVyDP+XaLu0MyypiRdLnd0PZshj37bGDxZDy9DEZnT2CATZZ0IoWMd0UZpW7F83NP0px8P1e/T03fpvg7nrTCwyYTmCHW+dbkPoMg2n5eenP/fKIPqAP9COhoFJjHAFk1b2JHJ1qqe0M6QvZQS/vxYiM9zLLJIhieqmGo832WbDUZZ5hQ==;wlLgwGslNXFvXKq5B1t8dQ=="
 ---

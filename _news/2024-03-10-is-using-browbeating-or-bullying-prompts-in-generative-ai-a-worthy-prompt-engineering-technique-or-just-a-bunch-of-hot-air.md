@@ -72,6 +72,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Opening up Generative AI"
+    excerpt: "Generative AI has huge potential to revolutionize business, create new opportunities and make employees more efficient in how they work. According to McKinsey, more than a quarter of company leaders say that generative AI is a board level agenda item while 79 percent of those surveyed have already used generative AI."
+    publishedDateTime: 2024-03-12T15:20:00Z
+    webUrl: "https://www.techradar.com/pro/opening-up-generative-ai"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 69
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/2UMvPDp3snEwaGbRuCivjE-1200-80.jpg"
+        width: 970
+        height: 545
+        isCached: true
 
 secured: "1dQOwuOtuxzykNh51WJO/uohSp+Gat73922mTE890SGVdfC5fhlj1RuEBg8xQX2jqPxxv+nrxUwqozUYrOiK1YnE6MlLAzNEHZXxSwdojs4x8vd0+DADQyXwLbADkliYNNg16dw339oNJtFmAK5AAGELEvmMBN3Fk/DApUoSDrnGNpEGZTse+CPX70feWuCjd7Ajyh/jqZV76lJRF5N8FWJ4M5g9Wui0m0GXJzddqd2mp7YTju/exCjPUnXoHDpWO0vXmpKiMqBoWxpfHbOjmk8BDU1hzFBNnPst6lwdiLuN3gY9YvIzeonyVoRhxF73c/3rxa6EkbGWl1wahoTZDy5mN6KMh7Z7JLN0ZFBfRiAp8dNh7QaKZY/WghRl/o5FV3hwO8oJcFM7Vxm1KaY3OI1oKegi45TAY1KV732pBPvViGAROJsmThMydL4MQ2Fl6Fu360+Siv/I0OK/SXO7vqzp1ayGbknp5mEZg5buxxMYkJsWI40DI7VOfVft7RooeK8MALtrjULNf57QgKB+Eg==;yv3tOlqUkyUxTOjI3agwgA=="
 ---

@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Evolution of AI-Powered Facility Intelligence"
-    excerpt: "The implementation of AI-powered Facility Intelligence brings forth significant cost efficiencies. By automating routine tasks, reducing manual errors, and optimizing resource all"
-    publishedDateTime: 2024-03-11T18:05:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/article/53097050/the-evolution-of-aipowered-facility-intelligence"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 39
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2024/02/65d533f7d385ad001e55f7ce-bigstockaiheadsymbolonglassbuildi330154273.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Why This Former Intel Exec Says Your AI Solution Should Be Open Source"
     excerpt: "Untether AI CEO Chris Walker says companies that use open-source solutions are best-positioned to adapt when new AI models are released."
     publishedDateTime: 2024-03-11T20:41:00Z
@@ -55,6 +41,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "The Evolution of AI-Powered Facility Intelligence"
+    excerpt: "This website uses cookies to enhance your browsing experience and serve personalized content. Privacy Policy"
+    publishedDateTime: 2024-03-11T18:05:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/article/53097050/the-evolution-of-ai-powered-facility-intelligence"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 19
 
 secured: "aE1VhWzNkHgaciIv9ARzjOlV/PaozgCGYOZEBrOPs4vLWm9HF7Ad/mJG9q8+WLylybWIj5lrxz4UlGptIjbZaZMOjAIZYGkQXsPb8ngHBiuwU7CTfk0SXEJT4Z2OqXt2t2uMcqrr2FW+nsm+vB0tmea5/yurXYVN1rFnk46evmvZDdQNfi25K+9H7VoJGHRu/c3zEBcsr7zWvwBXRwb7SLcLYXFXkWCSvGn7ulyYZ17kE1PrCt3tdTLq242dYb91fnz/Z9RzUL2slZ9vOidsUqqnUmFAN6Qz6MjDVvY6doD7WYfGWLPE9txMOdX0KOnhPkRcYoSxXMJ0sBbeFqrEMe4ZtCpMV1EPs0aM4XkI8VY=;L6c7Wl/Pvyb7rZNC0gRK9g=="
 ---

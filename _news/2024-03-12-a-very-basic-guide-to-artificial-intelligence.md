@@ -8,8 +8,8 @@ webUrl: "https://www.thehindu.com/sci-tech/science/artificial-intelligence-machi
 ampWebUrl: "https://www.thehindu.com/sci-tech/science/artificial-intelligence-machine-learning-explainer/article67938899.ece/amp/"
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/science/artificial-intelligence-machine-learning-explainer/article67938899.ece/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
 
 images:
   - url: "https://th-i.thgim.com/public/sci-tech/science/5omd3q/article67938921.ece/alternates/FREE_1200/steve-johnson-ZPOoDQc8yMw-unsplash.jpg"

@@ -24,117 +24,22 @@ images:
     isCached: true
 
 related:
-  - title: "Inflection's Pi AI aims to provide information and a shoulder to cry on"
-    excerpt: "Designed to be empathetic, helpful, and safe, Pi also boasts improved skills in such areas as coding, math, and real-time results via the latest flavor of its large language model."
-    publishedDateTime: 2024-03-07T13:49:00Z
-    webUrl: "https://www.zdnet.com/article/inflections-pi-ai-aims-to-provide-information-and-a-shoulder-to-cry-on/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/inflections-pi-ai-aims-to-provide-information-and-a-shoulder-to-cry-on/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/inflections-pi-ai-aims-to-provide-information-and-a-shoulder-to-cry-on/"
+  - title: "Absence of AI hospital rules worries nurses"
+    excerpt: "For nurse Judy Schmidt, the beeping monitors hooked up to critical patients at the Community Medical Center in Toms River, New Jersey, were just a normal part of the whirlwind of activity in the intensive care unit."
+    publishedDateTime: 2024-03-07T17:48:00Z
+    webUrl: "https://medicalxpress.com/news/2024-03-absence-ai-hospital-nurses.html"
+    ampWebUrl: "https://medicalxpress.com/news/2024-03-absence-ai-hospital-nurses.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2024-03-absence-ai-hospital-nurses.amp"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
     images:
-      - url: "https://www.zdnet.com/a/img/resize/646e8a0b656f649933bc681ad1d64f1700260d22/2024/03/07/032e98aa-541d-4e9a-8343-5bed40f840b7/gettyimages-1317415735.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/nurse-1.jpg"
+        width: 2880
+        height: 2135
         isCached: true
-  - title: "How to choose an AI-as-a-service provider"
-    excerpt: "AIaaS can help you jumpstart your AI projects, but there are some details you need to know. Here’s what to look for and five leading options to consider."
-    publishedDateTime: 2024-03-11T03:10:00Z
-    webUrl: "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.html"
-    ampWebUrl: "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 71
-    images:
-      - url: "https://images.idgesg.net/images/article/2024/02/dinging-service-bell-in-robot-hand-by-andrey-popov-via-shutterstock-100961475-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "‘Inflexion point’: AI meme wars hit India election, test social platforms"
-    excerpt: "(Some clips were cross-posted on YouTube and Facebook, as well.) Meta’s current rules require ... “We have run the two samples through several proprietary state-of-the-art research AI-voice detection algorithms [and found that] the voice sample is ..."
-    publishedDateTime: 2024-03-08T00:00:00Z
-    webUrl: "https://www.aljazeera.com/economy/2024/3/8/ai-meme-wars-hit-india-election-campaign-testing-social-platforms?traffic_"
-    ampWebUrl: "https://www.aljazeera.com/amp/economy/2024/3/8/ai-meme-wars-hit-india-election-campaign-testing-social-platforms"
-    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/economy/2024/3/8/ai-meme-wars-hit-india-election-campaign-testing-social-platforms"
-    type: article
-    provider:
-      name: Al Jazeera English
-      domain: aljazeera.com
-    quality: 58
-    images:
-      - url: "https://www.aljazeera.com/wp-content/uploads/2024/03/AP24067397198855-1709872280.jpg?resize=1920%2C1440"
-        width: 1920
-        height: 1440
-        isCached: true
-  - title: "Regulate Frontier AI to Avoid Misinformation"
-    excerpt: "There is no progress without public trust in artificial intelligence."
-    publishedDateTime: 2024-03-08T14:52:00Z
-    webUrl: "https://www.wsj.com/articles/regulate-frontier-ai-to-avoid-misinformation-tech-public-trust-486e8bdc"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 47
-  - title: "Generative AI Is A Game Changer For Talent Transformation"
-    excerpt: "One of generative AI's most significant implications is giving talent management professionals the ability to communicate information to executives and their board of directors. It helps leadership look around corners, rather than just in the rearview mirror, when shaping strategy or making decisions."
-    publishedDateTime: 2024-03-11T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/03/11/generative-ai-is-a-game-changer-for-talent-transformation/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Six AI Applications to Transform Your Clinical Operations"
-    excerpt: "Dr. Harvey Castro shares how large language models and machine learning are revolutionizing the way we communicate with the health system."
-    publishedDateTime: 2024-03-07T15:00:00Z
-    webUrl: "https://www.dmagazine.com/healthcare-business/2024/03/six-ai-applications-to-transform-your-clinical-operations/"
-    type: article
-    provider:
-      name: D Magazine
-      domain: dmagazine.com
-    quality: 19
-  - title: "How HP Was Able to Leapfrog Other PC/Workstation OEMs to Launch its AI Solution"
-    excerpt: "HP stunned the market with the most powerful line of AI-enabled PCs and workstations yet to be created, catching the other OEMs, which have"
-    publishedDateTime: 2024-03-11T17:43:00Z
-    webUrl: "https://www.datanami.com/2024/03/11/how-hp-was-able-to-leapfrog-other-pc-workstation-oems-to-launch-its-ai-solution/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 15
-  - title: "Technology Modernization Fund Seeking Proposals for Artificial Intelligence Projects"
-    excerpt: "The Technology Modernization Fund (TMF) today announced a call for project proposals to help federal agencies implement President Biden’s Executive Order on the safe, secure, and trustworthy development and use of Artificial Intelligence (AI) in the federal government."
-    publishedDateTime: 2024-03-11T14:06:00Z
-    webUrl: "https://www.hstoday.us/subject-matter-areas/ai-and-advanced-tech/technology-modernization-fund-seeking-proposals-for-artificial-intelligence-projects/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 10
-  - title: "AI images of Trump with Black voters are just the latest in racist election misinformation"
-    excerpt: "Trump’s supporters have also begun courting this group by making dozens of artificial intelligence (AI) generated images of him surrounded by adoring Black people. Though some of the realistic-looking images contain the tell-tale signs of oddly rendered hands (showing missing,"
-    publishedDateTime: 2024-03-08T13:07:00Z
-    webUrl: "https://www.lgbtqnation.com/2024/03/ai-images-of-trump-with-black-voters-are-just-the-latest-in-racist-election-misinformation/"
-    type: article
-    provider:
-      name: LGBTQ Nation
-      domain: lgbtqnation.com
-    quality: 9
-  - title: "Biden administration requests $3B for federal AI application development, procurement and integration in 2025 budget"
-    excerpt: "The President’s budget looks to fund the National AI Research Resource pilot, agencies’ establishment of Chief AI Officers, the AI talent surge and more AI development across agencies."
-    publishedDateTime: 2024-03-11T19:28:00Z
-    webUrl: "https://fedscoop.com/biden-administration-requests-3b-for-federal-ai-application-development-procurement-and-integration-in-2025-budget/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 0
 
 secured: "8GGeA1SRCsCccUhu90llxYr1n3lDD8eMtpb7U8jNDxX5tPSZNVRdhyydjz8n0WqyoeoazY9IdiBDVHcKJUFQcxUKEsIvhb8kYNYDi/EB9wUGJK6IpBP2df5bnxsiimFgtz3Yt2vCC2fDG6faVmlisSLtCNApK5B/3HvqtN8hBlkRicJVEphoKnfAx+F4HYHMLzTEDW43N/0AHHz9koO7Vlusxn6HH+inU46wxRv9YgNR/iWlVha5S1ddpdICO2Dqvo1fEeb1svjKNRXxm+jzEc/wEFGHQVhqhWazXeE8HbjTVwMZ9NWyz+Hgs7Ll2uQmvTpOeM+15UB4tiqbornSb5/drcFoj+LhRGfFHD3OOIw1p/pzJXKEW5BmU4M5cl/9fTwpDIhdmk12bDSN8KvcRCQHj86b8cHMZtEpioNh5ruOGfWRS+HQbVKtL8KQURyue3JUJUYVbnw9nncL+K9itFrPFLpkRO+ndHLMyrFzm+jaDqRfbXJ+p1hcyd4yvsZbyNd8NTs2LH7N/bcwEMAd8w==;XGjK2NvT9u/mHwg9QoQaKQ=="
 ---

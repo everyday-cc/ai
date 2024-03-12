@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ai-
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/lite/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "‘Inflexion point’: AI meme wars hit India election, test social platforms"
+    excerpt: "(Some clips were cross-posted on YouTube and Facebook, as well.) Meta’s current rules require ... “We have run the two samples through several proprietary state-of-the-art research AI-voice detection algorithms [and found that] the voice sample is ..."
+    publishedDateTime: 2024-03-08T00:00:00Z
+    webUrl: "https://www.aljazeera.com/economy/2024/3/8/ai-meme-wars-hit-india-election-campaign-testing-social-platforms?traffic_"
+    ampWebUrl: "https://www.aljazeera.com/amp/economy/2024/3/8/ai-meme-wars-hit-india-election-campaign-testing-social-platforms"
+    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/economy/2024/3/8/ai-meme-wars-hit-india-election-campaign-testing-social-platforms"
+    type: article
+    provider:
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 58
+    images:
+      - url: "https://www.aljazeera.com/wp-content/uploads/2024/03/AP24067397198855-1709872280.jpg?resize=1920%2C1440"
+        width: 1920
+        height: 1440
+        isCached: true
   - title: "Lenovo Launches Yoga Slim 7i Laptop for Content Creators in India with AI Innovation"
     excerpt: "Lenovo has introduced the Yoga Slim 7i laptop in India, specifically designed for content creators. Boasting a slim profile with a thickness of 14.9 mm, the laptop features a MIL-810H military-grade aluminum chassis for durability. The highlight of the device is its 400 nits 100% DCI-P3 OLED display, optimized for content creation tasks."
     publishedDateTime: 2024-03-08T10:58:00Z

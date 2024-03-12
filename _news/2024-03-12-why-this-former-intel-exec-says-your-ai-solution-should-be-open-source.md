@@ -41,19 +41,14 @@ related:
         height: 450
         isCached: true
   - title: "The Evolution of AI-Powered Facility Intelligence"
-    excerpt: "The implementation of AI-powered Facility Intelligence brings forth significant cost efficiencies. By automating routine tasks, reducing manual errors, and optimizing resource all"
+    excerpt: "This website uses cookies to enhance your browsing experience and serve personalized content. Privacy Policy"
     publishedDateTime: 2024-03-11T18:05:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/article/53097050/the-evolution-of-aipowered-facility-intelligence"
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/article/53097050/the-evolution-of-ai-powered-facility-intelligence"
     type: article
     provider:
       name: Security
       domain: securityinfowatch.com
-    quality: 39
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2024/02/65d533f7d385ad001e55f7ce-bigstockaiheadsymbolonglassbuildi330154273.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
-        isCached: true
+    quality: 19
 
 secured: "sGcc3dqSj14IzNpyyD87ZH5KxT0vYzhVAgRnpJnHnbziGK01UjBx1F8r1LimN4P1RvnUxldHoM016A3nV2AijjfsRY6T5RO3ckHtbZKNVk7uiIekO5t4+vauNFpUq0CbeILgeVB2qUmSpptoY6CfXc2J+MnGQQnbPbNkZseEL3ZIP7dS9xzs3LyTwp15rYbr8iF8519KY52cH8TOOfZsaC3PfC/eyMYnLVGp8j2mQ5J8Wtr4m5Vq+tNjpIB5QVmb7FzwDD7NYC5/1nCxRvWJKKazZk4Mj88sTpwzRjvNy8DkDlJWA/wX6WC0zcFWBriPvLl9PtafUUX5YXY69i2napLnEJhpSfTlFj3YOpPg1atHiEz+pen1I2sdbKrMvp17mPqlN/uu6iObCwUPhZBdWyT15k5V8Zag5D5Jol5Mi1wYirNU153zl16oKkvcmCOk3xbEnTfZw9cQT1/YAE0brFpJ0VJQY540dzoTpfOAzXmFjuJUGtCwaOxU0lbhtTMmG9ryG2+E3J/cu92FEmpScQ==;cb6Ryghb7y4gW7Ep/53tsg=="
 ---

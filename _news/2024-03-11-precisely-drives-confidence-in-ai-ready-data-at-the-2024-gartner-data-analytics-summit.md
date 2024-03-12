@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "SingleStore Partners with AWS to Advance Real-Time Data Analytics and AI Applications"
-    excerpt: "SingleStore, a data platform that allows you to transact, analyze and contextualize data in milliseconds, announced it"
-    publishedDateTime: 2024-03-07T14:32:00Z
-    webUrl: "https://www.datanami.com/this-just-in/singlestore-partners-with-aws-to-advance-real-time-data-analytics-and-ai-applications/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 27
   - title: "Sports analytics may be outnumbered when it comes to AI"
     excerpt: "The gathering at the MIT conference had a decidedly AI focus, with panels and working papers on the potential for generative AI to transform sports."
     publishedDateTime: 2024-03-07T20:23:00Z

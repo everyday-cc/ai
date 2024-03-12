@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/12/bridging-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/12/bridging-the-trust-gap-in-workplace-ai/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -30,19 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "How Load N Go uses AI and neural networks in the trucking industry"
-    excerpt: "In 2023, prices rose for many products, including groceries, utilities, retail merchandise and fuel. This price uptick is explained by the inflation going on in the United States. Its impact has"
-    publishedDateTime: 2024-03-07T14:54:00Z
-    webUrl: "https://www.mcall.com/2024/03/07/how-load-n-go-uses-ai-and-neural-networks-in-the-trucking-industry/"
+  - title: "Human Creativity in the Age of Artificial Intelligence"
+    excerpt: "In 2015, my friend, Jim Clark, invited me to attend what was then a groundbreaking conversation at the World Summit on Technological Unemployment, hosted at the TIME magazine Conference Center. Jim laid it out pretty clearly: the tech revolution was set to ..."
+    publishedDateTime: 2024-03-11T02:11:00Z
+    webUrl: "https://www.rollingstone.com/culture-council/articles/human-creativity-the-age-of-artificial-intelligence-1234983648/"
+    ampWebUrl: "https://www.rollingstone.com/culture-council/articles/human-creativity-the-age-of-artificial-intelligence-1234983648/amp/"
+    cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/culture-council/articles/human-creativity-the-age-of-artificial-intelligence-1234983648/amp/"
     type: article
     provider:
-      name: Morning Call PA
-      domain: mcall.com
-    quality: 54
+      name: Rolling Stone
+      domain: rollingstone.com
+    quality: 57
     images:
-      - url: "https://www.mcall.com/wp-content/uploads/2024/03/unnamed-2-1.jpg?w=1024&#038;h=683"
-        width: 1024
-        height: 682
+      - url: "https://www.rollingstone.com/wp-content/uploads/2024/03/human_creativity_in_the_age_of_artificial_intelligence-.jpg?w=1600&h=900&crop=1"
+        width: 1600
+        height: 900
         isCached: true
   - title: "The women in AI making a difference"
     excerpt: "Many had no training or education, formal or otherwise, in AI. Contrary to the Times’ suggestion, the AI craze didn’t start with Musk sitting adjacent to Page at a mansion in the Bay. It began long before that, with academics, regulators, ethicists and ..."
@@ -64,7 +66,16 @@ related:
       name: Mint
       domain: livemint.com
     quality: 39
+  - title: "Advancing Equitable AI in the US Social Sector"
+    excerpt: "How thoughtfully designed AI-powered applications can drive stronger and more equitable outcomes for nonprofits."
+    publishedDateTime: 2024-03-12T12:38:00Z
+    webUrl: "https://ssir.org/articles/entry/advancing-equitable-ai-us-social-sector"
+    type: article
+    provider:
+      name: ssir.org
+      domain: ssir.org
+    quality: 19
 
-secured: "ZS7K8naVrUB6stNx/TcpupoGZ+OEk1d7a/8puHtuQe9MM04TWJes4TQKEqRH2HU6k/zogXwPdn4Ldax656kJh7TW04fsJVdqAVCecfhre/g3PnsadLWW8pHDKXQt9wOqST0O2QfeDi4d/CjWu7/+xZ0kQ8rGT/PPfMIKm6JdjQrlbfPgKfCk4Yb5BBF151XSSrNUYIXcA1rCvt2mvtaxHuKFnHsi8Uvg8aY3vsClgNmptBLPbgghrNpmmrt7JBYKkBM0Jvp6/nfS/V0tXpS55w6f4zJbmRJkK4v5Ts5dYO+o/lBL3ADP+2fXRc5zUoXhXa8NlgqXUtrUa4BXJqvQBAqNN6TFPegGk7RJfsT6VZQ=;n5eyv3qU5qZGQN5uR+c4Mw=="
+secured: "eTWdrY/7MuielFk+OF5SGmsJ0sLGiq25SE+kmUF3LZF1DoCDy3/10frpFSYv4aHuYJGB/THhzwQ/XitYwk5BIDGuXVDPa3OodVtqf1XFHXRdA0O0OzbQsPTFShfm00UKSOqHmN0+4jgy5s992YZEViPP/dQBNWD2Iw5CoOIVKmlGt7NBozl+h2KsqXFPPlSHHUnLyGPes6a0cVlubZZ5waMmxVOZfgcYpBPNH+erE7on30ooSjFxKOTYcBB3NRl72542B87UMhxfIjHIb/IaFtGMTck2DhbOkFfzH/BBPrtvG+Td2v56FuenHL0ELf/k2GWkd9N7gbjuwDk+E1piHWb8yQXAvL8atwWUwB+CWSY=;Wk+cwiIWlm7zdVEEpHMZFA=="
 ---
 

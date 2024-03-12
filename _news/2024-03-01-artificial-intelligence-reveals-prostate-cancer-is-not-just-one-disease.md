@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://content.presspage.com/uploads/1369/1920_uom-research-011214-0445.jpg?10000"

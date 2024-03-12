@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/03/08/how-stitch-fix-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/03/08/how-stitch-fix-is-using-generative-ai-to-help-us-dress-better/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -103,6 +103,20 @@ related:
       name: NBC News
       domain: nbcnews.com
     quality: 47
+  - title: "This Biotech Founder Wants to Use AI to Help Get Drugs to Market Faster"
+    excerpt: "Boosted by an early investment from Sam Altman, 1910 Genetics recently struck a major partnership with Microsoft. Now, the founder has her sights on disrupting the global pharmaceutical industry."
+    publishedDateTime: 2024-03-12T14:31:00Z
+    webUrl: "https://www.inc.com/farrell-evans/biotech-founder-use-ai-get-drugs-market-faster.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/jen-nwankwo-inc_538360_ugsxhk.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "hdBrT3OPX6AZyBBm+CSeMHPp+WSY+HHZIvExdjExoLFu7lmvgYf+iB6DFDuOnB4rNCKRngRV5CcNrgxu6F7nTuhU7Dyk0onjhQ6d4jIg4KkaXqugvBGooQSW/ylBgZR3cR0ous2InzxmneRtkxCjeU9VZSUUejevkjMi0EZ5e61JuCm1ckUwI3i4unnE5hlZD+JqaV1vkn3SNOC0EmCv9NKew+/YPDijhQkLbG9xdBtLwQ4DL37aG5B2iZ+DgbX4VX9EA1+ZTpX2O/Wfid9+QHcaQ2P4rI9YxGCP9hqMtoc0J52vHsk0J5xfFXdVxeFZEiFpg+kKXwDgd6xmMQd6R1O3Z/JIewfN7vDdQDFS2yM=;KGbgGhvzeAgjcKLBk+3TzA=="
 ---

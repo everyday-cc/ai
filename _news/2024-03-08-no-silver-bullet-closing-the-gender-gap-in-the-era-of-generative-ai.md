@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/no-silver-bullet-closing-the-gender-gap-i
 webUrl: "https://www.ibm.com/blog/no-silver-bullet-closing-the-gender-gap-in-the-era-of-generative-ai/"
 type: article
 quality: 99
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       - url: "https://images.idgesg.net/images/article/2024/03/shutterstock_1951501180-100962448-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Opening up Generative AI"
+    excerpt: "Generative AI has huge potential to revolutionize business, create new opportunities and make employees more efficient in how they work. According to McKinsey, more than a quarter of company leaders say that generative AI is a board level agenda item while 79 percent of those surveyed have already used generative AI."
+    publishedDateTime: 2024-03-12T15:20:00Z
+    webUrl: "https://www.techradar.com/pro/opening-up-generative-ai"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 69
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/2UMvPDp3snEwaGbRuCivjE-1200-80.jpg"
+        width: 970
+        height: 545
         isCached: true
   - title: "Is Using Browbeating Or Bullying Prompts In Generative AI A Worthy Prompt Engineering Technique Or Just A Bunch Of Hot Air"
     excerpt: "Do prompts that browbeat or bully generative AI produce better results? This is a topic of heated debate in the field of prompt engineering. Here's the details."

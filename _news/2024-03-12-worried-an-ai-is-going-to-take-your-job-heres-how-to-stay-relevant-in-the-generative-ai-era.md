@@ -103,6 +103,20 @@ related:
       name: NBC News
       domain: nbcnews.com
     quality: 47
+  - title: "This Biotech Founder Wants to Use AI to Help Get Drugs to Market Faster"
+    excerpt: "Boosted by an early investment from Sam Altman, 1910 Genetics recently struck a major partnership with Microsoft. Now, the founder has her sights on disrupting the global pharmaceutical industry."
+    publishedDateTime: 2024-03-12T14:31:00Z
+    webUrl: "https://www.inc.com/farrell-evans/biotech-founder-use-ai-get-drugs-market-faster.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 37
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/jen-nwankwo-inc_538360_ugsxhk.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "ZeWPi9QkTJT4bNcw2fk7qK3NYP1wsoY3e4/HzLlWVFSOsr89FIaQdOdcP+6MnLrvagAz0rj2+0Nrte2tdZ3xZmb4UgXeNVkVbjwHndJAIR0nvhcFNBDN3cdq9qhVvcvUI7HIKynWA0E5qe/ebSDPko70r9Ax4kw4sFWVTy0P0M1n6JYQLHfGwDR+ZHURCzSD2ySASwOy/njLnu7hBreJ8zyRHIFonVfknAxnM742lTGmnBhNkc175zihGPgKobNjIrsZYyx1nE4BB6ZbUnL3MSyHT82tAyIVyzCLu1ndlrbAoNwQIA75mi8sy17PlUCRu6nbqSZM9hes4SCkX+ss0kZnKbea4mcgSrIax/OQ8MM=;A1qlF0VovmUNDlrL3j8xKQ=="
 ---

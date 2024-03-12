@@ -24,15 +24,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Australian news media could seek payment from Meta for content used to train AI"
-    excerpt: "News media bargaining code could apply to tech companies using massive amounts of online information for generative AI, researchers say"
-    publishedDateTime: 2024-03-07T13:00:00Z
-    webUrl: "https://www.theguardian.com/media/2024/mar/08/australian-news-media-could-seek-payment-from-meta-for-content-used-to-train-ai"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 15
   - title: "80% of Australians think AI risk is a global priority. The government needs to step up"
     excerpt: "Increasingly powerful AI is everywhere. But the hype is tempered by public and expert concerns – they want stronger regulation before it’s too late."
     publishedDateTime: 2024-03-08T05:46:00Z

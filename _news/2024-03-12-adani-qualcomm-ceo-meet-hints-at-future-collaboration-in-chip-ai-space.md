@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ada
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-adani-qualcomm-ceo-meet-hints-at-future-collaboration-in-chip-ai-space-3422117/lite/"
 type: article
 quality: 75
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -71,6 +71,15 @@ related:
       name: SiliconIndia
       domain: siliconindia.com
     quality: 27
+  - title: "VSBLTY to Launch AI-Driven Retail Solutions Powered by Qualcomm"
+    excerpt: "(OTCQB: VSBGF) (CSE: VSBY) (Frankfurt 5VS) (“VSBLTY”), a leading AI software provider of security and retail analytics technology, is launching a retail solutions suite utilizing enhanced computer vision solutions that are powered by the Qualcomm® QRB5165 platform."
+    publishedDateTime: 2024-03-12T12:18:00Z
+    webUrl: "https://www.thenewswire.com/press-releases/1B2aF7Gvv-vsblty-to-launch-ai-driven-retail-solutions-powered-by-qualcomm.html"
+    type: article
+    provider:
+      name: thenewswire.ca
+      domain: thenewswire.com
+    quality: 19
 
 secured: "+14Ys5kef5yImLEowoGSAaVIPWwxGGQV5gysBToTMzHOA5VGctjV4NLQIVNQoNWnSVYT/ww82lJP/hBpIj+VQqYUTKyK7yjt3HCFuPX78PYoOy5uHRbPr/uvvOWWM6STm+JjPNX/+VFvGMjtcKKmeKkJlxSSUYtMIaaX4/4vpPR4z0qYCJXkhx6dGHRPWfZylsvDp+ebwwKCLUs5ZD+chpfe0roP1Bh8Gd+RrEfqVSajvPmki5YQOAI++4CZvnPh1eHBXQHHXT80U0toLNcnN0HdU9b/Z4aO+rxb6I69OlOdQ8p5kdOzpN4I+qURVA046nkUNGD40/QUWOgR8uZIq+mKmlU72rqaauR3QRRImrhtSvx6euqgob6A7KnaH5BmU6Lr/kBj4CC0djkEf5nws8abtlJG+1QQSNq+RPYxyR2KPqnupVnujhVxH8khCoUzyKTaUBmWSkt+zSOpwtR0SgsPJ5LMuYyAJuvXJ5aD7M84uk2kwP+Ky13whzbaQ7tHCGrd+6MYmC3Yf9n7Bl8/mg==;vESRHCvIF+QQo94NOaipEw=="
 ---

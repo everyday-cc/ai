@@ -9,7 +9,7 @@ ampWebUrl: "https://www.komando.com/kims-column/ai-chatbot-showdown-2/901917/?am
 cdnAmpWebUrl: "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/kims-column/ai-chatbot-showdown-2/901917/?amp"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "HNW clients demand better tech but do not want AI chatbots"
+    excerpt: "High net worth clients want better technology from their advisers and wealth managers but are not so interested in AI chatbots, a report has found."
+    publishedDateTime: 2024-03-12T11:28:00Z
+    webUrl: "https://www.ftadviser.com/your-industry/2024/03/12/hnw-clients-demand-better-tech-but-do-not-want-ai-chatbots/"
+    type: article
+    provider:
+      name: FTAdviser
+      domain: ftadviser.com
+    quality: 39
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Ffta-ez-prod%2Fez%2Fimages%2F6%2F1%2F0%2F7%2F7627016-5-eng-GB%2Fpexels-tim-samuel-6697306.jpg%3Fv1?source=ftadviser"
+        width: 5896
+        height: 3931
+        isCached: true
 
 secured: "DpyBBByvr7Hh33b8YTvbBSzVwxFKrCMMmrWZUTU4QrsSjLji+EYgLwDCqMt1161T8R3kcPVLSEQq0zl36679QrMywkyuG6fNZX2kyfeq83hIQHU/Wm4j+4LMcUxet4D0my3kvwfVj9+YcnFqS+KCZjvedLd2TgjkeIuRvH4oXWdo1EhXX34HtyJnD/ZnS35VgelPQZNk9dHikhyLn8BphSQ9mUbuYLuexazyBliXQQh6Prs88FoqT18kHL6FzjZWyeIDWn5bDMT7uAxReQZZ7W8fsduOWOAD6vQoFbgzLhSBIOPT7zIRn9a7kCZSanI3lI+pm2R8YU+nX7oN/3XVP6k0Xw+mEUNK9g9qqUq2u+Q=;pb4ZnIzGY4ZaIwprEOvWLg=="
 ---

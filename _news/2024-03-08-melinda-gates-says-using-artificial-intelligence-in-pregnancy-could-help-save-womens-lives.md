@@ -44,20 +44,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "AI Is Here, But Who Is It Helping?"
-    excerpt: "Following Crunchyroll president Rahul Purini 's confirmation that the company is already testing generative A.I. uses on subtitling and closed captioning, Chris and Lucas discuss where the technology could benefit more broadly and management's misjudgment on how to implement it."
-    publishedDateTime: 2024-03-07T14:00:00Z
-    webUrl: "https://www.animenewsnetwork.com/this-week-in-anime/2024-03-07/.208369"
-    type: article
-    provider:
-      name: Anime News Network
-      domain: animenewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://www.animenewsnetwork.com/thumbnails/crop600x315gHE/cms/this-week-in-anime/208369/lucas_05.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "The AI arms race between the US and China is heating up"
     excerpt: "The UK, for its part, rolled out a “National AI Strategy” in 2022 and committed roughly $4 billion in chip development subsidies. The nation has also attracted the third-largest level of private investment in AI, behind the US and China. State ..."
     publishedDateTime: 2024-03-10T12:00:00Z
@@ -72,15 +58,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Intuit Study Finds Women Entrepreneurs Around the World Want to Use AI More for Their Businesses"
-    excerpt: "Female entrepreneurs in low- and middle-income countries rely on cell phones and digital tools, creating opportunities for companies to offer products tailored to them."
-    publishedDateTime: 2024-03-07T14:12:00Z
-    webUrl: "https://www.inc.com/jennifer-conrad/intuit-study-finds-women-entrepreneurs-around-world-want-to-use-ai-more-for-their-businesses.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 4
 
 secured: "rGe8jPVPytNIbmwdvaqk5MSmKLUAt/iUg2j8Q+lEeVwOMvn71cHUpoDNXzrATcZuT0vRcGtwYOUVK9Cc6XQ/EzmQCDtac+c2S/H3oK7B8e58AqYLjLhjRrhwT8Ex7J+mqkh/pjzoR9xi5JJwceNS9YoWiGFlHW5yj/q3ipXnV8vpYENeBfm9IGSmAjIIw+JlkTwBmMtgeYftbqgigBrKjdgUZLwz7+RYkHLOhEvPng8OAS+Hh/CnqgyiUEBjXw5wh6cbWK4aeak6IKrVSYomyrQHgAJhePIX3Oy4q8XV1xpjcMubaj1djLX7nUud2dAa0XkglIcu4T2jRSlcinpLHEjBggiTBsDzk47Io8l5nQYlem3La1iO5cWaaRattd71qM9xoYLmgCUzzo7Kord6UIac+uBhecLqn/HgZOrGMacrcuDa3USxTU8A3k4lrDlog7RXCda6Ot+A6fKRioAyQJe+Bjjo687Vhx+INHPQV2Un1xd2nXA/5BYRW8+5ougNVJuY9LV2r5FNYUqlrAUiSQ==;3HscKXT7ympECLTeLnfhxA=="
 ---

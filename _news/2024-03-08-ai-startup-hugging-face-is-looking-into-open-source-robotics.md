@@ -7,8 +7,8 @@ originalUrl: "https://siliconangle.com/2024/03/07/ai-startup-hugging-face-lookin
 webUrl: "https://siliconangle.com/2024/03/07/ai-startup-hugging-face-looking-open-source-robotics/"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: SiliconANGLE
@@ -25,19 +25,53 @@ images:
     isCached: true
 
 related:
-  - title: "Hugging Face is launching an open source robotics project led by former Tesla scientist"
-    excerpt: "Remi Cadene's move signals an ambitious expansion for Hugging Face, which until now, has primarily focused on software, not hardware."
-    publishedDateTime: 2024-03-07T14:29:00Z
-    webUrl: "https://venturebeat.com/ai/hugging-face-is-launching-an-open-source-robotics-project-led-by-former-tesla-scientist/"
+  - title: "Elon Musk says his AI startup xAI will open-source its Grok chatbot"
+    excerpt: "Musk sued ChatGPT-maker OpenAI and its CEO Sam Altman, saying they had abandoned the startup's original mission to develop artificial intelligence for the benefit of humanity and not for profit."
+    publishedDateTime: 2024-03-12T09:51:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot/108430382"
+    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot/108430382"
+    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot/108430382"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 93
+      name: brandequity.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 59
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2024/03/cfr0z3n_interior_of_an_industrial_assembly_line_manufacturing_t_5c2d1f37-2f10-41ef-addf-7f2dfdd77d21.png?w=1200&strip=all"
+      - url: "https://etimg.etb2bimg.com/thumb/msid-108430382,imgsize-527560,width-1200,height=765,overlay-etbrandequity/digital/elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot.jpg"
         width: 1200
-        height: 672
+        height: 765
+        isCached: true
+  - title: "Musk says AI start up will open-source chatbot Grok"
+    excerpt: "Proactive Investors - Elon Musk’s xAI, his artificial intelligence firm, is set to open-source ‘Grok’, a chatbot aimed at rivalling OpenAI’s ChatGPT. Grok was released by xAI last year, boasting ‘real-time’ information and holding views which argued against the ‘politically correct’ approach."
+    publishedDateTime: 2024-03-11T10:33:00Z
+    webUrl: "https://ca.investing.com/news/stock-market-news/musk-says-ai-start-up-will-opensource-chatbot-grok-3297555"
+    ampWebUrl: "https://m.ca.investing.com/news/stock-market-news/musk-says-ai-start-up-will-opensource-chatbot-grok-3297555?ampMode=1"
+    cdnAmpWebUrl: "https://m-ca-investing-com.cdn.ampproject.org/c/s/m.ca.investing.com/news/stock-market-news/musk-says-ai-start-up-will-opensource-chatbot-grok-3297555?ampMode=1"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 57
+    images:
+      - url: "https://i-invdn-com.investing.com/news/LYNXNPEB660A4_L.jpg"
+        width: 800
+        height: 534
+        isCached: true
+  - title: "Elon Musk announces that AI startup xAI will open source Grok chatbot"
+    excerpt: "Musk hit ChatGPT-maker OpenAI with a lawsuit filed on February 29, accusing the AI startup and its chief Sam Altman of departing from the “original mission and historical practice of making its technology and knowledge available to the public,” by keeping GPT-4’s internal design largely a secret."
+    publishedDateTime: 2024-03-12T06:55:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/elon-musk-announces-that-ai-startup-xai-will-open-source-grok-chatbot/article67941779.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/elon-musk-announces-that-ai-startup-xai-will-open-source-grok-chatbot/article67941779.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/elon-musk-announces-that-ai-startup-xai-will-open-source-grok-chatbot/article67941779.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 57
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/jlua46/article67941778.ece/alternates/FREE_1200/2024-03-11T170708Z_2138480166_RC2SJ6AQ50EM_RTRMADP_3_MUSK-AI.JPG"
+        width: 1200
+        height: 748
         isCached: true
 
 secured: "RiXxGen6OfdS8+77JD+08TJDWZJP5RJ/+kc5f2h9oliwz4yHqEsbO16m5Z2eoJ1bq6Nd7okXLYhN5wAtxVKTCfypnQcaWS2cpD750FfQzuFNYnmKM2brdprNdiBbqGmnpifbf16Dy5jOyOo6/x5M1HgI4TxIFt/yQwNfSvesIdlUgU1IlzcKrOuZPohFfXqh7A9y8SzN6XKeKN7mCpm8iGYtt7p3S65G7lVT/JurByGKeumENhwh47p/XtdOpErlj5Lz+yeGUtofYgP6tzpRmoSIoU/K7Iv6oRuTXcNjXaxwICU1r2I++6IXBDC+Z1ac1p7c7JOURz4wU0eIdIVZ3n0eKR3SavUJgC9uBGtHiBgArjQVKHjAOguCxqoCUXyeHBqW84wm5TFgZB+BIQ1JuTHqrbOBx4fGlqxeVgIiVIaRC0ZuZp7zOAeRGYX4DMDXavv4rnrTUvyNVjqXBZ6nL+4mvhRogqfiNmU5LhRG3xGwbIq9VPciqE/AwVQWmomlg0QTPbe2wSAZdFfDMapyMA==;WBxX+he3LEauWWCH+2YTBg=="

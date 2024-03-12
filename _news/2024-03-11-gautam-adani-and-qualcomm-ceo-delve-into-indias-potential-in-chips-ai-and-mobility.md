@@ -69,6 +69,15 @@ related:
       name: Mena FN
       domain: menafn.com
     quality: 30
+  - title: "VSBLTY to Launch AI-Driven Retail Solutions Powered by Qualcomm"
+    excerpt: "(OTCQB: VSBGF) (CSE: VSBY) (Frankfurt 5VS) (“VSBLTY”), a leading AI software provider of security and retail analytics technology, is launching a retail solutions suite utilizing enhanced computer vision solutions that are powered by the Qualcomm® QRB5165 platform."
+    publishedDateTime: 2024-03-12T12:18:00Z
+    webUrl: "https://www.thenewswire.com/press-releases/1B2aF7Gvv-vsblty-to-launch-ai-driven-retail-solutions-powered-by-qualcomm.html"
+    type: article
+    provider:
+      name: thenewswire.ca
+      domain: thenewswire.com
+    quality: 19
 
 secured: "omrybQ2B1CLW0Kk9Oe0gg1gVa7ypQvtcPiLt8SnV3UDIFH8bg3vXF4FQ+nlnev8aCUGTpKTLDOhOYMT8bkY+zdmezczunhGnqFLeHOfAVip61nhjXY43g24sTC81Ya2HvwZ2warH6QFXo8/V0iS+TalcTx2sx3pERiPyb2LzYQV65nQues9ZwNcAhoKDBxu8u10yTx/uaqlfvgkf5MlCG5SbnAQ+luu0EZKy/vvSbuEHKAgvqkrB3Mjjr2/iegWXHDKXlb0FytNAUiJpt97yhhmrVQnLXtaEFCI/h2dLi730YTyd2k2Azkq23Kefhbp1A6geC+FUux9lBtjbGq3qmSDGmEIJLaAvvVvlC362ruZXt/MrPYtUhhSy1e3RfmkY0kKm70E6i6IieJDTsPshnvVGhrTnVuL2hrzY68DBnRuwZWM78BTpkJuHP+VyycWXqoiDQgIf3NH3v8CkYcKYHhuQF90HNpW7qi3gh8++PcYHDxyfXw+DBHCUjClZmdmncsh5ME97OIST4RAZOXAqug==;FD/LhdHifR9QrSmYzT0qig=="
 ---

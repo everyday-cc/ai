@@ -53,15 +53,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Google engineer faces 10 years in prison for stealing AI secrets for China"
-    excerpt: "A former Google engineer has been accused of stealing 500 confidential files that contain trademark secrets about AI to give to China."
-    publishedDateTime: 2024-03-07T14:30:00Z
-    webUrl: "https://www.tweaktown.com/news/96703/google-engineer-faces-10-years-in-prison-for-stealing-ai-secrets-china/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 17
   - title: "Google Engineer Allegedly Stole AI Secrets Then Became CEO Of A Chinese Startup: Here’s How"
     excerpt: "In October 2022, he allegedly traveled to China where he was soon named chief technology officer for an AI startup in the country. By May 2023, Ding even conducted an investor meeting to try to raise capital for the new company he founded and named himself ..."
     publishedDateTime: 2024-03-07T18:22:00Z

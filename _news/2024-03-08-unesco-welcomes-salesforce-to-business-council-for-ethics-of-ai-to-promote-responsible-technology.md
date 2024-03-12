@@ -24,22 +24,6 @@ images:
     height: 628
     isCached: true
 
-related:
-  - title: "Salesforce introduces the Data Cloud Spring ‘24 Release"
-    excerpt: "Salesforce is unveiling its Data Cloud Spring ‘24 Release, including new innovations to make data in Data Cloud more usable across Salesforce’s CRM applications and platform services."
-    publishedDateTime: 2024-03-07T14:30:00Z
-    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=162953"
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 24
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/OtherImages/151196-2023-Cover-Images-ORG.png"
-        width: 772
-        height: 594
-        isCached: true
-
 secured: "b44zaPBCzD8M1HAqCERuYqPJel2rlrXfgxnejswGrBSRv2ZmHkfsf/spz/QYth6DZ6cwaWpES2IkwRCoT/jkLvfIAHylaWUB3mVZz6LH41FTxVLg6fJ73t381BZtoKXi4EcT+mtXkgkYYCmbeKzV5+DAwtWqf1vE7bsPSrgLOgxSo2Z8nx7N59Zhld3HmMQuJGIpi83UyEAYq9UBUklD6MsUKr3RVjDtbeLwO3Y+L0dQNbiCw6RN7mxcQb96VZhLtRgQM5kRgto/dRCITAtofBe/fZoGgt36FTaEamPwl0ytZfETxV1+m6lW289LUaK2KAwBcdS0LWqDFcNp/OMDLARenUGEra7wJhAaGQQhPMs=;K68dfN7+OwAD2waNwXVfhQ=="
 ---
 

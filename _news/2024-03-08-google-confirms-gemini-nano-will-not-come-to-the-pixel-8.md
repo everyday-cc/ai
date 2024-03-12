@@ -203,20 +203,6 @@ related:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
     quality: 34
-  - title: "Google: I Am Bullish Despite The Mess With Gemini"
-    excerpt: "Despite potential risks from generative AI, Google's solid position and profitability make it an attractive investment. Find out why I am bullish on GOOG stock."
-    publishedDateTime: 2024-03-07T15:49:00Z
-    webUrl: "https://seekingalpha.com/article/4676632-google-i-am-bullish-despite-the-mess-with-gemini"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 24
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1415832512/image_1415832512.jpg?io=getty-c-w1536"
-        width: 1536
-        height: 1024
-        isCached: true
   - title: "Amazon and Google-backed AI startup Anthropic claims newly released chatbot Claude 3 outperforms GPT-4 and Gemini Ultra"
     excerpt: "Amazon and Google-backed AI startup Anthropic claims newly released chatbot Claude 3 outperforms GPT-4 and Gemini Ultra"
     publishedDateTime: 2024-03-08T06:31:00Z

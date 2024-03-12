@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Inflection AI launches new model for Pi chatbot, nearly matches GPT-4"
-    excerpt: "Inflection AI's latest model, Inflection-2.5, achieved 94% of GPT-4's performance but took only 40% of compute for training."
-    publishedDateTime: 2024-03-07T17:48:00Z
-    webUrl: "https://venturebeat.com/ai/inflection-ai-launches-new-model-for-pi-chatbot-nearly-matches-gpt-4/"
+  - title: "AI startup Hugging Face is looking into open-source robotics"
+    excerpt: "Artificial intelligence startup Hugging Face Inc., best known for operating a hub for hosting open-source machine learning and AI models, is launching a new project focused on robotics under the direction of former Tesla Inc. staff scientist Remi Cadene."
+    publishedDateTime: 2024-03-07T17:19:00Z
+    webUrl: "https://siliconangle.com/2024/03/07/ai-startup-hugging-face-looking-open-source-robotics/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 69
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/12/DALL·E-2023-12-08-13.35.19-A-person-of-Middle-Eastern-descent-wearing-casual-attire-stands-holding-a-smartphone.-The-smartphone-screen-prominently-displays-the-Greek-symbol-fo.png?w=1200&strip=all"
-        width: 1199
-        height: 685
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/robot-handshake-human-background-futuristic-digital-age.jpg"
+        width: 3309
+        height: 2206
         isCached: true
   - title: "Musk says AI start up will open-source chatbot Grok"
     excerpt: "Proactive Investors - Elon Musk’s xAI, his artificial intelligence firm, is set to open-source ‘Grok’, a chatbot aimed at rivalling OpenAI’s ChatGPT. Grok was released by xAI last year, boasting ‘real-time’ information and holding views which argued against the ‘politically correct’ approach."
@@ -72,71 +72,6 @@ related:
       - url: "https://th-i.thgim.com/public/incoming/jlua46/article67941778.ece/alternates/FREE_1200/2024-03-11T170708Z_2138480166_RC2SJ6AQ50EM_RTRMADP_3_MUSK-AI.JPG"
         width: 1200
         height: 748
-        isCached: true
-  - title: "AMD promotes third-party app for running AI chatbots on local hardware"
-    excerpt: "The most popular AI services available today run almost exclusively on powerful Nvidia hardware, and they force customers to use an internet connection. AMD is trying"
-    publishedDateTime: 2024-03-08T13:55:00Z
-    webUrl: "https://www.techspot.com/news/102187-amd-promotes-third-party-app-solution-running-ai.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 49
-  - title: "Justpaid, Ai-powered Finance Startup, Announces New Financial Chatbot Capabilities"
-    excerpt: "JustPaid, the AI-powered FinTech company, has just announced new capabilities for its conversational AI financial chatbot. The chatbot is being enhanced to provide more tailored and dynamic insights for users based on their specific financial needs and feedback."
-    publishedDateTime: 2024-03-07T12:44:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/justpaid-ai-powered-finance-startup-announces-new-financial-chatbot"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 48
-    images:
-      - url: "https://financialit.net/sites/default/files/justpaid.png"
-        width: 1366
-        height: 768
-        isCached: true
-  - title: "Best AI Chatbots for 2024"
-    excerpt: "Spread the loveAs artificial intelligence continues to revolutionize the way we interact with technology, AI chatbots have become an integral part of this transformation. In 2024, a variety of sophisticated chatbots are leading the way in customer service,"
-    publishedDateTime: 2024-03-10T06:42:00Z
-    webUrl: "https://www.thetechedvocate.org/best-ai-chatbots-for-2024/"
-    type: article
-    provider:
-      name: thetechedvocate.org
-      domain: thetechedvocate.org
-    quality: 41
-    images:
-      - url: "https://www.thetechedvocate.org/wp-content/uploads/2024/03/101-5.jpg"
-        width: 1548
-        height: 776
-        isCached: true
-  - title: "AMD's AI chatbot released"
-    excerpt: "Uses third party app AMD has just launched its own local and GPT-based LLM-powered AI chatbot, that works on Ryzen AI processors and Radeon RX 7000 series GPUs. AMD's new LLM-based GPT chatbot can work on many different Ryzen AI platforms,"
-    publishedDateTime: 2024-03-08T11:05:00Z
-    webUrl: "https://www.fudzilla.com/news/pc-hardware/58602-amd-s-ai-chatbot-released"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/9d13e7b7c52f66d31db2f880938f4426_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
-  - title: "AMD Says It's Super Easy To Set Up Your Own AI Chatbot, Here's How"
-    excerpt: "Don't forget to enable GPU Offload if your system has a fast GPU. AMD also talks about using LM Studio on a \"Ryzen AI PC\". It's true; you can run LM Studio on a system with a Phoenix or Hawk Point processor. However, on those machines it will run on either ..."
-    publishedDateTime: 2024-03-08T20:00:00Z
-    webUrl: "https://hothardware.com/news/amd-guide-lm-studio"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 39
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/64084/content/chatbot.jpg"
-        width: 708
-        height: 365
         isCached: true
 
 secured: "lbfDwne/xBwUCFF6o1G1XQJszyNWSdwXT3cz+PZ/l2SAGIjAUFHknZKZKYQnQFxpjMICC56OOlwNwXBw5g1/dWnyUOk1FGwbw7rV6TxReIRkcsgXsTVrhtPIPXO1S1fT6jLHlFwZZ6Cjmr2NC9vqpqqO8Jrmz858m3XXEnqWkFm7cXWedUbkKYAkjRLjVOp+fVjvluZH77LzdmlrBj7cBuChiSZqPesbX6qreYE71Ms3wZpIsMyCwWxBkHXW5tzNZkKNR8IhVUg+OyfGTOuPwW4JxwPUpoB5CVYIs4i9rMEAsIW707BFsfzbrAw2qDsPvxLh7f6Yf7w4nbVmIr1o3+zclRvGf+mGwM1+3xIhgdg=;8TX9iSPmRvhX+CfNS1K+IA=="

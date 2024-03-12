@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Quisitive Awarded the AI and Machine Learning in Microsoft Azure Specialization"
-    excerpt: "Quisitive Technology Solutions Inc. (“Quisitive” or the “Company”) (TSXV: QUIS, OTCQX: QUISF), a premier Microsoft solutions provider, announced it has earned the prestigious AI and Machine Learning in Microsoft Azure Specialization."
-    publishedDateTime: 2024-03-07T14:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization-1033142131"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 94
   - title: "Sonata Software integrates its AI solution with Microsoft Azure AI"
     excerpt: "Sonata Software has announced the integration of its Harmoni.AI with Microsoft Azure AI service. Sonata’s AI offering provides industry solutions, service delivery platforms, and accelerators. Using Microsoft Azure AI services, Sonata Harmoni.AI will ..."
     publishedDateTime: 2024-03-08T06:14:00Z
@@ -47,15 +38,6 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 69
-  - title: "After leaks, Microsoft confirms Surface, Windows AI event for March"
-    excerpt: "Consumers may have their eyes out for new laptops and tablets, but it seems like Microsoft only has eyes for AI."
-    publishedDateTime: 2024-03-07T14:43:00Z
-    webUrl: "https://www.pcworld.com/article/2259163/microsoft-sets-march-event-date-for-new-surface-devices.html"
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 66
   - title: "Quisitive Awarded the AI and Machine Learning in Microsoft Azure Specialization"
     excerpt: "announced it has earned the prestigious AI and Machine Learning in Microsoft Azure Specialization. The AI and Machine Learning specialization recognizes partners who demonstrate expertise in the ..."
     publishedDateTime: 2024-03-07T16:32:00Z
@@ -109,20 +91,6 @@ related:
       domain: business-standard.com
     quality: 46
   - title: "Sonata Software Supercharges Harmoni.AI with Microsoft Azure AI to Drive Responsible-First AI Adoption Across Enterprises"
-    excerpt: "Sonata Harmoni.AI, integrating Microsoft Azure AI services, will help customer reimagine business with Generative AI, differentiating themselves in the marketplace . BANGALORE, In"
-    publishedDateTime: 2024-03-07T12:34:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/03/07/9974547.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 44
-    images:
-      - url: "https://mma.prnewswire.com/media/689012/4257625/Sonata_Software_Logo.jpg"
-        width: 400
-        height: 279
-        isCached: true
-  - title: "Sonata Software Supercharges Harmoni.AI with Microsoft Azure AI to Drive Responsible-First AI Adoption Across Enterprises"
     excerpt: "The leading Modernization Engineering company, Sonata Software (NSE: SONATSOFTW), (BSE: 532221) in a significant step to accelerate the adoption of responsible-first AI across enterprises has announced the integration of Sonata Harmoni."
     publishedDateTime: 2024-03-07T18:35:00Z
     webUrl: "https://www.business-standard.com/content/press-releases-ani/sonata-software-supercharges-harmoni-ai-with-microsoft-azure-ai-to-drive-responsible-first-ai-adoption-across-enterprises-124030800004_1.html"
@@ -133,6 +101,24 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 44
+  - title: "Microsoft Chief Accessibility Officer Jenny Lay-Flurrie Talks This Year’s Ability Summit, Responsible AI In Interview"
+    excerpt: "Flurrie and I reconnected via videoconference earlier this week to discuss this year’s edition of Microsoft’s Ability Summit."
+    publishedDateTime: 2024-03-07T16:15:00Z
+    webUrl: "https://www.forbes.com/sites/stevenaquino/2024/03/07/microsoft-chief-accessibility-officer-jenny-lay-flurrie-talks-this-years-ability-summit-responsible-ai-in-interview/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 41
+  - title: "Microsoft scientist gets AI to play DOOM but then issued a warning"
+    excerpt: "A Microsoft researcher managed to get OpenAI's GPT-4V large language model to 'successfully' play 1993's DOOM, but then issued a warning."
+    publishedDateTime: 2024-03-12T12:45:00Z
+    webUrl: "https://www.tweaktown.com/news/96799/microsoft-scientist-gets-ai-to-play-doom-but-then-issued-warning/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 38
   - title: "HIMSS24: Microsoft launches AI group with 16 health systems"
     excerpt: "Microsoft said the group would create a process where providers can register for the usage of AI in clinical settings and offer tools to enable measurement of outcomes associated with the technology."
     publishedDateTime: 2024-03-11T14:28:00Z

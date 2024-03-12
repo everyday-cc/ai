@@ -60,15 +60,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google engineer faces 10 years in prison for stealing AI secrets for China"
-    excerpt: "A former Google engineer has been accused of stealing 500 confidential files that contain trademark secrets about AI to give to China."
-    publishedDateTime: 2024-03-07T14:30:00Z
-    webUrl: "https://www.tweaktown.com/news/96703/google-engineer-faces-10-years-in-prison-for-stealing-ai-secrets-china/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 17
 
 secured: "8Vgy9e4dOGz6WdLIXSAtcCIoeG0q4HoF0SIbmNzzwnjZ10pUQof5DGuVF+pt012vCtr9CBSaPXbGDdssyhJQR/hxeH7niFN+j/CBPEUTLZoDifOS5e6mdu5r5VHCG+Tnq1Nh1q2bfBHdN+zLBnriC+Q+oa6SxMHrP6zcOI+/7XNMhoaLI9TvaawNQK7Vfdt53q8UVUJYOXxmPZWhMGpUGw5sFMyFwNS6+et0iqaFrdyebj+06dLVjxmNxWd9z7zb/UX+RM7OhKyE8APGb/A0E/DpJbDMZ5XHXaVq+Vbzh8AXuZTqP7RRh3J73nb+p7g6A+ZtwDTyZ4TE7zZsnw86nqXyhi4U9D9lfgpW0Ri4el7XnMEIoDmKoATFnh301vECFPcDtHcAqOaReS4X8MD8Nmz0janGvLzJulvakctyKxcU5AlKfw7RBYAUJvurBYsCsZLk/KaRrc/6XzYVTO52sMAuX5mavawA28Qg4ZpEsz44Gx4Z1Wu26QIJBvnxAPx4sAh94nGc9upxa/CMlyVM+g==;cXhJxniTcfoJrmegLZus4g=="
 ---

@@ -25,18 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Airports using biometric facial recognition in Tennessee"
-    excerpt: "Spokeo looked at which airports are using facial recognition software in Tennessee for security screenings, according to Customs and Border Protection."
-    publishedDateTime: 2024-03-07T14:17:00Z
-    webUrl: "https://clarksvillenow.com/local/airports-using-biometric-facial-recognition-in-tennessee/"
+  - title: "Airports using biometric facial recognition in Kansas"
+    excerpt: "The next time you’re in a security line at the airport, you may find that instead of a Transportation Security Administration officer checking your ID, a camera and screen will use biometric"
+    publishedDateTime: 2024-03-12T15:14:00Z
+    webUrl: "https://www.ksn.com/news/airports-using-biometric-facial-recognition-in-kansas/"
+    ampWebUrl: "https://www.ksn.com/news/airports-using-biometric-facial-recognition-in-kansas/amp/"
+    cdnAmpWebUrl: "https://www-ksn-com.cdn.ampproject.org/c/s/www.ksn.com/news/airports-using-biometric-facial-recognition-in-kansas/amp/"
     type: article
     provider:
-      name: Clarksville Now
-      domain: clarksvillenow.com
-    quality: 54
+      name: ksn.com
+      domain: ksn.com
+    quality: 74
     images:
-      - url: "https://clarksvillenow.sagacom.com/files/2024/03/ee6bd9d74e2a142c2f2daf72351580a3.png"
-        width: 1010
+      - url: "https://www.ksn.com/wp-content/uploads/sites/13/2023/05/facial.jpg?w=1280"
+        width: 1280
         height: 720
         isCached: true
   - title: "Airports using biometric facial recognition in Florida"
@@ -67,42 +69,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Airports using biometric facial recognition in Idaho"
-    excerpt: "Spokeo looked at which airports are using facial recognition software in Idaho for security screenings, according to Customs and Border Protection."
-    publishedDateTime: 2024-03-07T13:35:00Z
-    webUrl: "https://www.idahostatesman.com/news/local/article286376410.html"
-    type: article
-    provider:
-      name: Idaho Statesman
-      domain: idahostatesman.com
-    quality: 34
-  - title: "Airports using biometric facial recognition in Kansas"
-    excerpt: "Spokeo looked at which airports are using facial recognition software in Kansas for security screenings, according to Customs and Border Protection."
-    publishedDateTime: 2024-03-07T13:40:00Z
-    webUrl: "https://www.kansas.com/news/local/article286376630.html"
-    type: article
-    provider:
-      name: Wichita Eagle
-      domain: kansas.com
-    quality: 34
-  - title: "Airports using biometric facial recognition in Missouri"
-    excerpt: "Spokeo looked at which airports are using facial recognition software in Missouri for security screenings, according to Customs and Border Protection."
-    publishedDateTime: 2024-03-07T13:46:00Z
-    webUrl: "https://www.kansascity.com/news/local/article286377060.html"
-    type: article
-    provider:
-      name: Kansas City Star
-      domain: kansascity.com
-    quality: 34
-  - title: "Airports using biometric facial recognition in Pennsylvania"
-    excerpt: "Spokeo looked at which airports are using facial recognition software in Pennsylvania for security screenings, according to Customs and Border Protection."
-    publishedDateTime: 2024-03-07T13:56:00Z
-    webUrl: "https://www.centredaily.com/news/local/article286377490.html"
-    type: article
-    provider:
-      name: Centre Daily Times
-      domain: centredaily.com
-    quality: 34
   - title: "Airports using biometric facial recognition in Texas"
     excerpt: "Spokeo looked at which airports are using facial recognition software in Texas for security screenings, according to Customs and Border Protection."
     publishedDateTime: 2024-03-08T05:58:00Z
@@ -113,6 +79,6 @@ related:
       domain: kvia.com
     quality: 34
 
-secured: "LmaF3stwrDUCH1P9BUePSAyZkwnsc0zYQO1KDi0C3t7HV07mIVdOhniL4tW+HNaCp7NbsfV3yIkhDlw+EgwuWrwq0f+g0ZCYY7MIjqeYPRff44gcSEq5H1+hymcke7leLyxFvAOkckJMzDDcQSBGXVW8BgXcX7MVH/ochtuUhOsgcHxiP4uJkXtPq4sYQWsazSWcrXguEkqX4Wzdo2ySthnpfRo+GNWqv0f88eSxGFvYfMyMDkl5czGHWj8snvOpgw+WHOX/q4HuFVDMcY9G1o7UlsLiKnYsyh9ozrnwjsziSbetZhns0joJ0WUBVEuaNWsV0npeqtqGYtIBHGZUVf6wSAL2ZaLs8yPOvv75ABA=;5cfrCXpmysJnjyLdCfWIGw=="
+secured: "4l8x3OPgjZYmcQp4259oqDdfgAJYn/VaqSZllzVJO5yYqeHYzdavAlJ85Mdwr6MEq90r7Zli1zN0gIQ9pUcNvGDQ8Z3h7kPWjrUrQWTSZYIs51aVwoXvYbn+pJY3wUMGS8tvx+kCG22lBaHh8NwfMSdPyym6Er42wVhxP3O03p5aJSfkx9Ir8Irh42zAJ1PMdPE3e5sY4DQiQlL3U/iRND8DUoSJZ06yOvNC0acvgzRV4pLUrYjbQqBQ2EEHqtNrlVpCXTCYElYCzOrF6pKkqQvgNFPNADrVKfOAVQr11rWuHBpokO4gGCOkceS6Mv7ffYvj+8TpoEr75iZf+ZfrEDzqS0s6rc00Wygb1ywu0UYZs61hTkV3wFcJhClgupj7rZ73AwOBXwoLs9v1xoCEp6BtZ0nJ1DDSJIGC5GGf380GQiL9EitC7u198xSwpl77Im3sH3Mbxwx1FXpmU3+EIw7WY0nrSnuQhl/e/UvmVRbTb0CWPrRiyihK6wUsaz3uafZjQInTt7QaNYDWGJHWoA==;+Uhdpn2/pWqA2sHRB4QBaA=="
 ---
 

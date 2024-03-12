@@ -42,6 +42,15 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Midjourney 'Character Reference' Feature Aims for Consistency Across AI Images"
+    excerpt: "Want to make Cristiano Ronaldo look like a cyberpunk character? Midjourney's AI will now try to keep people's faces similar across images."
+    publishedDateTime: 2024-03-12T13:19:00Z
+    webUrl: "https://www.pcmag.com/news/midjourney-ai-character-reference-feature"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 43
 
 secured: "0RQz+5YRjaSNAB3DgwYnJqPn0kd5xIYubcGrTGJDK+wnIkC7xLOp07r3YsRnzqbvjjxrk9cSKAjOgcJb8P14CfrM4K3qU+eX+ea6SXPU9bH64Bqrsemh2GzQ0NW878PvFzfSjV3fhCuPEJi6/7tapOZ7Y9U6AzjJvkR966ExOP09IOXNY5rht6QH/GxFpw4e7GLKKzD5YOYsbh3e0f6rdIqXkxJcbOAfbosH+RKpGUX0bPJJ+8ttxWUeIJodbNlno90Up/lniv39wrBbn9uw93cSrru5xN2oQv2h5kiedXxYpH41s9T6QBDr+MKsHzUV4ZOjC8I3SwmzqjSKO5nhlLtdetCaXL7Ucddj11tnLxTUwmHmYn0w5ntB+FcENuQ2dZSHNSE8Xs0XUCLY0TsW/E7GWOxO8tQnMi0p54/W31j0Tv8AeWPlbR2B/7l2ntWl7e5lLSNrwzGcRX7Yowk4qnEgqbTqswfUNW09m9MWPYGfuaXfKWscHKjxykj0ZnCfBlL2xvpYlh/mWVhrialkng==;XPC3sz7uF/pXjJU4l/EKAg=="
 ---

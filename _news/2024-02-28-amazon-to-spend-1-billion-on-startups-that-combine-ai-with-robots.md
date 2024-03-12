@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Amazon to spend $1 billion on startups that combine AI with robots"
-excerpt: "Separate from its innovation fund, Amazon has committed up to $4 billion to generative AI start-up Anthropic. Amazon has innovated in robotics before: in 2022, the company said it had invested more than 400 million euros in technologies that include ..."
-publishedDateTime: 2024-02-28T06:48:00Z
-originalUrl: "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/?ref=astrofeather.com"
-webUrl: "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/?ref=astrofeather.com"
+excerpt: "Amazon has innovated in robotics before: in 2022, the company said it had invested more than 400 million euros in technologies that include industrial robotics and sorting systems in its European warehouses. It has deployed 750,000 mobile robots across its operations network."
+publishedDateTime: 2024-02-28T14:48:00Z
+originalUrl: "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/"
+webUrl: "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 380
     isCached: true
 
-secured: "Z8eBS7Kv7BLpCNKyguPExljqfe2Hkhgh1VJNl53kHoirPfWDOiRAcnFnFvcjG2bgbTdHrzri1eKmEUm3m1WbcXcQ3phTVSz8t+UlIRpbFakw/IKmZ+60V+xS79MzTEIE4mrQvYXfmGgSupcUXO9mcLahvm3DMJ0U2Ne9AokQSAbeispo1G8A2gm2lvedCb+Qq9BdB576Ib4hAYsjHdpGtq2mArKCNKIUsEX4lftQrW0hXpztG685QLM6R/JGq8e+N6bsgaPz7BErltHgi42QWgdNNUBiIPo8bbQR37bsjM4wy/vgtgBZy9kFRmEMnn8ZCZIoWG/wnFMOjKs/UrL32hDD1vUxXRWpOBplFQsuvIs=;9LGvKNsTA/PRNZMlZEtXJg=="
+secured: "u6lKJyQp9kUCND98bD2dCE//AAEGQnoFGonAvRL1Ddu4dgZrXOz0jqyYfRS1OVyD1gY7U7IOZj+LBrG8uQTn0Q5WOeKdYSqK9hi3G3vQKT88zkpLAG2iDeXYJAaLPXCCMSOJCkMb2Dl10DYO6kSiMuIiEYmg01RB5QT6EsvnNRcZRA4e8M0k2+52B5W8MhjeA2EFQLUPDN7jgN/T5ucSxJ6USWtVUNWmz99Go0bx6TxsKwo6xlXpo6flRC6GdOziaga3eAtELoE2fIGOjDnZ5RPWACJFUKbWK8wGkJ1Wb71PxF4oxh3+rkEdkSvQVhOs9yz5wEmYKWBaCsyTCcEmytCMl66QKDFiPYirZfDBWHk=;hGY1hFtWzp1Tp0cF4neW+g=="
 ---
 

@@ -84,7 +84,7 @@ related:
         isCached: true
   - title: "LG invests $60 million in US startup Bear Robotics"
     excerpt: "LG Electronics said on Tuesday it has made a $60 million strategic investment in Silicon Valley-based startup Bear Robotics in a move to strengthen its business capabilities in the booming"
-    publishedDateTime: 2024-03-12T09:18:00Z
+    publishedDateTime: 2024-03-12T14:47:00Z
     webUrl: "https://www.thehansindia.com/business/lg-invests-60-million-in-us-startup-bear-robotics-864378"
     type: article
     provider:
@@ -96,6 +96,15 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "Bear Robotics Lands $60 Million in Series C Funding from Tech Giant LG Electronics"
+    excerpt: "Bear Robotics, a Silicon Valley trailblazer in service robotics and artificial intelligence solutions, today announced the completion of a $60 million Series C funding round. This round is exclusively led by LG Electronics,"
+    publishedDateTime: 2024-03-12T13:25:00Z
+    webUrl: "https://www.afp.com/en/news/1313/bear-robotics-lands-60-million-series-c-funding-tech-giant-lg-electronics-202403123685931"
+    type: article
+    provider:
+      name: AFP
+      domain: afp.com
+    quality: 28
 
 secured: "QHzQYry9qmW4I/aw/+ul53hiSp/thQ9lhIfuIq16CR2Bmgrt/L/mW/GMlD+09tlCeBhCDx0E/OXsEI6ZamCZBw+w+ydQFtfYDIAjsDSNb4bj0ErMCDevlFDWz/X4yft3QRSXhJmQAKcra5v236HH16vayxJ02k62Tbt3eVFT4DQj+Zvb3LulcqVzGAVzdULFLutYTecwoudqloJYkPA2WqOFqlyIAp9J/0wrrXpmVD+MBaO1+mhMP5in6UIiryy6UPQa5OcfLXJJfUUho1eSseN+YSfZpkqusjb8vaTRNnIQCY663yLs+iwL21V8auLmsT8bQUdpjbT1ABz6Sc4Ggg+fghxROHcP7mR4QyjhyTH4ehUH9Yv8uyQQAajEldfiacoWszf4olLkcHpGMfq2IWUn0q7bcwnwN5FBBybe7ieEFh/RSc4qjv7EJjhE3/uZwEBPayzJWl+/ifJHBAqDt1Rn5yauwM6IcJBndcsEuOmz5TMx26qn2rD1bnwu8UJe8SEz1ZW3iNeWywCi0gQFCA==;0Ug8zCIYi1xRmJAMx41DgQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.tweaktown.com/news/96798/ai-company-responds-to-outrag
 webUrl: "https://www.tweaktown.com/news/96798/ai-company-responds-to-outrage-of-male-humanoid-robot-groping-female-reporter/index.html"
 type: article
 quality: 50
-heat: -1
+heat: 50
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     height: 876
     isCached: true
 
-related:
-  - title: "Saudi Arabia Male Robot 'Inappropriate' Act with Female Reporter Sparks Outrage"
-    excerpt: "The action caused a stir on social media, with many debating the appropriateness of the robot's behaviour. Additionally, the video captured the reporter's brief moment of surprise as the female reporter raised her hand."
-    publishedDateTime: 2024-03-07T12:47:00Z
-    webUrl: "https://www.ndtv.com/offbeat/saudi-arabia-male-robot-inappropriate-act-with-female-reporter-sparks-outrage-5194518"
-    ampWebUrl: "https://www.ndtv.com/offbeat/saudi-arabia-male-robot-inappropriate-act-with-female-reporter-sparks-outrage-5194518/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/offbeat/saudi-arabia-male-robot-inappropriate-act-with-female-reporter-sparks-outrage-5194518/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 55
-    images:
-      - url: "https://c.ndtvimg.com/2024-03/3mj14jk8_saudi-arabia-male-robot_625x300_07_March_24.jpeg?ver-20240117.08"
-        width: 1200
-        height: 738
-        isCached: true
-
-secured: "fJz0ASWqgumZoJnDeHcr8sT3e2ocoOlmdTWmwK74qS4OQRxlB96qYML65o4RjQaThcZeQHOnuXIC4ciWwdVRAO+e/oZUDwowHtxij0cGSk2eaM9qZKx/4pk2/pX9ALfDFGf3SZ/+EJias0Oc7vR2wlP7MlS29f+VnZ1Dnm/mwke32EDWRD6KKbd7XrJAyvyGvl1+b5ZhiWGajDWb3Mr400Z3Ez8wugiM677nwl7TaIL7G7FRwdtqRgg6eN7JPE194a4NUn+qOCken7jmRCuAlYr1RU8y4RMPy/Zgryg0QWiXdp0MXOZNIcib3CWB5J5n36Y143KfOnYhhFRDtsAGyZobAKTyQCqtoCjpoP5pP0g=;dyngAx+cgAaXhN++Uvo9hg=="
+secured: "1nGp+I/KlmqHu75Y5MC0fo72xRFnFq0oJaadsLfNqKcgTP6cEycvDsMK4HGtNIRDlyAUnevj0GYUjQb8b2XoSxGeR9L3nYKsQUZYYJjkQBAU09UNYy7U63OjYJZwl+G1MIPWdashWjLUjo7vGJf0U8Uc1EkQuDGXAm7X6YAX6icZEHGE4ZNQ/vooYqgrriqWzkjrHEG5jP8Frk7bplY8pnSBiDrdTGW500hqu8ufoSvAgII9YjKhJuM84xPWF0F7BMM/bjWKaarzOTc7Jzdrj9EjAQiKyZtJyScVF870VdGz5EHwwqRKP6kSOt6QOolGZeaJ5mCivn7s10jO81fk+Jbu9TgBdW25cGmjM8uEPdUEym0oRG2cFvlChPcH7JRw+E9cG1YAL2vyMEgdNx3yDIb9r6wvUGvRfcYzfacQwreV61oF3W0C2bkMohkFJUUkqACt41Hizu5Q0VcQk3xQTIZv+KZ/46wOkSXTcL2QDuHtJpDBJXsUmD9LWdE4ezIDe3027pMYxhfVTib/7XgJtg==;kddtkQzgducYLA4l0+Pchg=="
 ---
 

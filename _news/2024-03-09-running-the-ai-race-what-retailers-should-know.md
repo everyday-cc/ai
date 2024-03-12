@@ -9,8 +9,8 @@ ampWebUrl: "https://biztechmagazine.com/article/2024/03/running-ai-race-what-ret
 cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2024/03/running-ai-race-what-retailers-should-know?amp"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: BizTech
@@ -35,17 +35,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "Why educators should embrace artificial intelligence"
-    excerpt: "Schools must get on board with AI and start figuring out how to utilize this new technology to increase productivity and efficiency. Educators must figure out what students should be taught,"
-    publishedDateTime: 2024-03-07T14:30:00Z
-    webUrl: "https://thehill.com/opinion/4515076-why-educators-should-embrace-artificial-intelligence/"
-    ampWebUrl: "https://thehill.com/opinion/4515076-why-educators-should-embrace-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/4515076-why-educators-should-embrace-artificial-intelligence/amp/"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 39
 
 secured: "WC+aAE1L5dWdgnD/sFJtzCwhoqT6EkqshboKYyLyFWJTmQm8TkpxsQQ8w8zac2vCI39NreeZSe9vQXWjE/GXd9BQPGIeoKjFd8ttaB48UrUO5w8cEj3FWWYpWc10GS58ZZnpgNrOpIW0EBfJNPprrrOfATTddubgszm2ggrL2a+JZ95yPgG40ZwExuZWOD18wM57gPrvOoHaxXFUc1Ep3fL9oavMF2RSpDWgPvcepKeTsoBw6i+RAI61ScX9XdiJe6MOYygW/m4hbQB/ZLzZUIcLr0VNCrfVHrtigKrLAWndy17vexP8n0rKl8b6PsqCI1kWTjwrdI8xmVRQ38qeqWsbsX02ropx5f3VgpUGVQ0=;jrVjhM92uMBAieQg3LQ5tQ=="
 ---

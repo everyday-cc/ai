@@ -30,63 +30,22 @@ images:
     isCached: true
 
 related:
-  - title: "The Role Of AI In Solving The Volume-Cost Equation In Customer Service"
-    excerpt: "It’s important to recognize that generative AI is not the catch-all answer to the volume-cost equation and that everything becomes immediately balanced once implemented."
-    publishedDateTime: 2024-03-07T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/07/the-role-of-ai-in-solving-the-volume-cost-equation-in-customer-service/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/07/the-role-of-ai-in-solving-the-volume-cost-equation-in-customer-service/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/07/the-role-of-ai-in-solving-the-volume-cost-equation-in-customer-service/amp/"
+  - title: "How AI has already changed coding forever"
+    excerpt: "AI coding tools such as Amazon CodeWhisperer and GitHub Copilot boost the productivity of pro and novice developers alike. They’re only the beginning."
+    publishedDateTime: 2024-03-12T09:01:00Z
+    webUrl: "https://www.infoworld.com/article/3714361/how-ai-has-already-changed-coding-forever.html"
+    ampWebUrl: "https://www.infoworld.com/article/3714361/how-ai-has-already-changed-coding-forever.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3714361/how-ai-has-already-changed-coding-forever.amp.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: InfoWorld
+      domain: infoworld.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6452660f5ec3aaf210ee1af0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "The role of AI in analysing consumer spending patterns"
-    excerpt: "A survey by ACFE and SAS revealed that the global adoption of AI and ML for fraud detection saw a significant increase last year"
-    publishedDateTime: 2024-03-09T07:45:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-the-role-of-ai-in-analysing-consumer-spending-patterns-3419199/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-the-role-of-ai-in-analysing-consumer-spending-patterns-3419199/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-the-role-of-ai-in-analysing-consumer-spending-patterns-3419199/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2024/03/Untitled-design-2024-03-08T172224.860.jpg"
+      - url: "https://images.techhive.com/images/article/2014/03/166160844-100249187-large.jpg?auto=webp&quality=85,70"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "Human Creativity in the Age of Artificial Intelligence"
-    excerpt: "In 2015, my friend, Jim Clark, invited me to attend what was then a groundbreaking conversation at the World Summit on Technological Unemployment, hosted at the TIME magazine Conference Center. Jim laid it out pretty clearly: the tech revolution was set to ..."
-    publishedDateTime: 2024-03-11T02:11:00Z
-    webUrl: "https://www.rollingstone.com/culture-council/articles/human-creativity-the-age-of-artificial-intelligence-1234983648/"
-    ampWebUrl: "https://www.rollingstone.com/culture-council/articles/human-creativity-the-age-of-artificial-intelligence-1234983648/amp/"
-    cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/culture-council/articles/human-creativity-the-age-of-artificial-intelligence-1234983648/amp/"
-    type: article
-    provider:
-      name: Rolling Stone
-      domain: rollingstone.com
-    quality: 57
-    images:
-      - url: "https://www.rollingstone.com/wp-content/uploads/2024/03/human_creativity_in_the_age_of_artificial_intelligence-.jpg?w=1600&h=900&crop=1"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "The future of banking: integrating AI for better service"
-    excerpt: "The future of banking: integrating AI for better service In the rapidly evolving landscape of banking, the integration of Artificial Intelligence (AI) stands out as a transformative force. As financial institutions strive to meet the demands of an increasingly digital-savvy customer base,"
-    publishedDateTime: 2024-03-11T20:05:00Z
-    webUrl: "https://www.globalbankingandfinance.com/the-future-of-banking-integrating-ai-for-better-service/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 36
 
 secured: "7kCxCjCS/l9e9IdzyOrM2uw47KthnmlYmQy1Aw+Vls2cFFgLhm+/Bn5x7PIWxPIV3fX5de++tZFugbKw3LbYH3/G/T6FTKfnO9yh/rijKeMhBqt/AIPRUiHs96YfQ0DEkq21ZcXFmY5k6i6mKGjXtyXPgGawCjGUuWA8nbQ7EmLTMvjM7QUw18a6Y0aEoRCOb6Affv+vh3ZvnVPBu4uTnCltEwSpFvsWYCqhPmHSdZMS1Fjo7Ub94GHVGEnXGDHRpNJ+DK7LoZ735fonkX2TvljXXXuJUsSyoE4lGaRhOFfEwjl6Wigw4la+tKEY60Xqjs748qqT58pjcZcaah7rIbq6x0LqAk1OWOtUuEVXlvM=;1U/Gp8lWEQj5KDK+6/OloQ=="
 ---

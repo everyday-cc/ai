@@ -38,20 +38,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "AI drone that could hunt and kill people built in just hours by scientist for 'a game'"
-    excerpt: "The scientist who configured a small drone to target people with facial recognition and chase them at full speed warns we have no defenses against such weapons."
-    publishedDateTime: 2024-03-07T12:10:00Z
-    webUrl: "https://www.livescience.com/technology/engineering/ai-drone-that-could-hunt-and-kill-people-built-in-just-hours-by-scientist-for-a-game"
-    type: article
-    provider:
-      name: Live Science
-      domain: livescience.com
-    quality: 31
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/Qo94CCUcUzTnMQDKMBBahE-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "/aeV6c+p8xUD3rvOhOFGHCzsotw/9qZtnFw5A9rmGhT/UrVG4yFGb1QY5j5BiqimGeNJfh/YyYS6UfSOGy2s6c5E6agMq3ZG7dOWhe2LDY/Dsdpxo/BxduXh00aSikOnBU9/ZiUUFUFpaF/GTnWj8XkHijKDZyifgrNub2i3FNOhC9VMh3DAVzYrdMzYTOxUM+rPmwqwc/ga7cX0JoPUbknXKtI3MyHsftYH6+kuFnUDMMfAMnO6W46t8oXPCHxn3MdKRUzXEOncV7BcdvJdnIyZKvg7h/ggTTqGJhAOrWIVCJwZ2Pu40r9X3r+pG8w1M68jGfeQ0K3ET/juYUllVwHylglJ/fmRlxG63qg63HU=;QSSXjMq8a0G5ChiHJWxzsA=="
 ---

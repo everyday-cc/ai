@@ -2,12 +2,12 @@
 category: news
 title: "Law Firm Innovation: How BakerHostetler Launched FinClar, a Lawyer-Built FinTech Tool"
 excerpt: "Legaltech News sat down with Jonathan Forster, Northeast practice leader of BakerHostetler’s Private Wealth Group and the one behind FinClar, to discuss how and why he created the firm's new FinTech tool,"
-publishedDateTime: 2024-03-11T19:23:00Z
-originalUrl: "https://www.law.com/legaltechnews/2024/03/11/law-firm-innovation-how-bakerhostetler-launched-finclar-a-lawyer-built-fintech-tool/"
-webUrl: "https://www.law.com/legaltechnews/2024/03/11/law-firm-innovation-how-bakerhostetler-launched-finclar-a-lawyer-built-fintech-tool/"
+publishedDateTime: 2024-03-11T21:52:00Z
+originalUrl: "https://www.law.com/2024/03/11/law-firm-innovation-how-bakerhostetler-launched-finclar-a-lawyer-built-fintech-tool/"
+webUrl: "https://www.law.com/2024/03/11/law-firm-innovation-how-bakerhostetler-launched-finclar-a-lawyer-built-fintech-tool/"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -25,89 +25,18 @@ images:
     isCached: true
 
 related:
-  - title: "The Top 7 Fintech Stocks to Buy in March 2024"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Fintech companies are spearheading a revolutionary shift in their niche,"
-    publishedDateTime: 2024-03-08T11:20:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-top-7-fintech-stocks-to-buy-in-march-2024-1033145869"
+  - title: "Investment Association’s Fintech Hub Announces New Firms Joining Innovator Program, Key Partnerships in Canada"
+    excerpt: "The Investment Association’s (IA) Fintech hub and accelerator, IA Engine, has announced the latest firms to join its Innovator Program, as well as new global Fintech partnerships between Engine and Canada."
+    publishedDateTime: 2024-03-09T16:06:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/03/222443-investment-associations-fintech-hub-announces-new-firms-joining-innovator-program-key-partnerships-in-canada/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2024/03/222443-investment-associations-fintech-hub-announces-new-firms-joining-innovator-program-key-partnerships-in-canada/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2024/03/222443-investment-associations-fintech-hub-announces-new-firms-joining-innovator-program-key-partnerships-in-canada/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
-  - title: "V, MA, NU: Which “Strong Buy” Fintech Stock Is Best?"
-    excerpt: "Fintech and other technological trends have taken a backseat to generative artificial intelligence (AI) over the past year or so. With various"
-    publishedDateTime: 2024-03-07T16:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/v-ma-nu-which-strong-buy-fintech-stock-is-best-1033143744"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
-  - title: "hedgehog lab promotes fintech vet to chief client officer"
-    excerpt: "North East-based global tech consultancy hedgehog lab has appointed Clare Weightman as its new chief client officer."
-    publishedDateTime: 2024-03-11T14:24:00Z
-    webUrl: "https://www.prolificnorth.co.uk/news/hedgehog-lab-promotes-fintech-vet-to-chief-client-officer/"
-    type: article
-    provider:
-      name: prolificnorth.co.uk
-      domain: prolificnorth.co.uk
-    quality: 24
-    images:
-      - url: "https://www.prolificnorth.co.uk/wp-content/uploads/2024/03/Clare-Weightman.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Embrace AI in Fintech: Interview with Zak Westphal, CEO at StocksToTrade"
-    excerpt: "Interview with Zak Westphal, CEO at StocksToTrade Hi Zak, can you start by introducing yourself and telling us about your journey in the fintech industry and your role at StocksToTrade? I’m Zak Westphal,"
-    publishedDateTime: 2024-03-11T15:22:00Z
-    webUrl: "https://www.globalbankingandfinance.com/embrace-ai-in-fintech-interview-with-zak-westphal-ceo-at-stockstotrade/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 18
-  - title: "Skyro takes lead in addressing industry challenges to propel growth of PH’s fintech market"
-    excerpt: "The Philippine fintech sector faces hurdles, dealing with challenges that impede its progress. These obstacles include the absence of a centralized database, reliance on outdated technology, and various other industry-specific barriers."
-    publishedDateTime: 2024-03-12T10:02:00Z
-    webUrl: "https://manilastandard.net/tech/314425263/skyro-takes-lead-in-addressing-industry-challenges-to-propel-growth-of-phs-fintech-market.html"
-    type: article
-    provider:
-      name: manilastandard
-      domain: manilastandard.net
-    quality: 14
-    images:
-      - url: "https://cdn.manilastandard.net/wp-content/uploads/2024/03/Nasim-Avien-Skyros-Co-CEO-and-Co-Founder.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
-  - title: "The Investment Associations signs fintech agreement with Canada"
-    excerpt: "FinTech hub and accelerator, IA Engine, has today announced the latest firms to join its Innovator Programme, as well as a new global FinTech partnerships between Engine and the Canada."
-    publishedDateTime: 2024-03-07T14:15:00Z
-    webUrl: "https://www.finextra.com/pressarticle/99940/the-investment-associations-signs-fintech-agreement-with-canada"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
-  - title: "Anne Boden on supporting female fintech founders"
-    excerpt: "Yet Boden has been busy recently. Last week she launched her third book, ‘Female Founders’ Playbook: Insights from the superwomen who made It’ and released a report from the Women-Led High-Growth Enterprise Taskforce which she led. I spoke with her about where we’re going wrong for female fintech entrepreneurs and how we can improve the situation."
-    publishedDateTime: 2024-03-08T09:33:00Z
-    webUrl: "https://www.finextra.com/the-long-read/971/anne-boden-on-supporting-female-fintech-founders"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
-  - title: "1 Week to Go! Top 100 Women in FinTech 2024"
-    excerpt: "In honour of International Women’s Month, FinTech Magazine - in association with Amberdata, JP Morgan Payments, and AWS - will be releasing its Top 100 Women in FinTech for 2024."
-    publishedDateTime: 2024-03-11T12:45:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/1-week-to-go-top-100-women-in-fintech-2024"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
     quality: 4
 
-secured: "GhiUW5Qz+5QEosBu2hCO3EYr5ydBbMyXRlqMPlPscy6XxN0hceq+BHQJqwSq8g7xOIYnfnlJmWQllbdz08HnFB3jzwQq2OEhjBmNsig9AYtWBvLMP8UMxQ8DucKlagHdJQ+b/lI8H15n8fap4nzQfFqGpGoomG9AwOQxeHwVdim4JRjA/W0epUWu8QVyQHz3kGGv/Uog1IcjMRThVVYoMvYXYI2Afgv+IXYB3rvH1LA3KGs5fBgpdTbZv915CuHAVDuof0dXqtJkVU/u3ctgN/00YYHHWr8DQiR4OqFzOkWZUbbqp4rYXbxQ/DCpBwMY+J6eIJu5AmnDLt7U39uBaHEFkvOo6RVVcYtc2PZjGIs=;7619XS5d/LKKNeF8htYcAg=="
+secured: "E2WXIJhWaTO7zHfpqGH77cKTPsjk2Xns+ziUrJr6kPD1hiFYn+EAPgM3zr6ibfVB7SnYkfq5gp/8OoFZJbWCDMl+ueqGuxqMu7A+ipjW92npEk4+K2YnfzK9pPfygYbhR37rrejTtSuw/8SLbQVS0adtRer9Hv/j1z7DaoMMD0tRlT4OtPF0ePUh6W7KPYugXO2JHtaBaeblLQetYTMA0AQSFHIM+RSrt/2pLVs+0b9zcmd3/HlPlbGCxMKA6k+4lx1MJiHxXBt4lGewzP7vnjIgcmH0sAzO6DJyjWJSUAkaaiyCFb1bouo7GTMXAHRfbW2twDG9IaHkp8ztKB+7t+A8mZX5r/ilx//rhup0Aq4=;+fqFDHrj1ohKRlhyemc5zQ=="
 ---
 

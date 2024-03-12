@@ -2,6 +2,145 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2024-01-08-a-computer-vision-and-machine-learning-system-that-monitors-and-controls-workup-processes.md",
+      "title": "A computer vision and machine learning system that monitors and controls workup processes",
+      "excerpt": "More information: Rama El-khawaldeh et al, Keeping an \"eye\" on the experiment: computer vision for real-time monitoring and control, Chemical Science (2023). DOI: 10.1039/D3SC05491H Journal ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2024-01-vision-machine-workup.html",
+      "originalUrl": "https://phys.org/news/2024-01-vision-machine-workup.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2024/a-computer-vision-and.jpg",
+          "width": 1280,
+          "height": 820,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2024-01-vision-machine-workup.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2024-01-vision-machine-workup.amp",
+      "publishedDateTime": "2024-01-08T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2024-01-08-the-year-of-hallucinating-artificial-intelligence-and-arrogant-human-ingenuity.md",
+      "title": "The Year Of Hallucinating Artificial Intelligence And Arrogant Human Ingenuity",
+      "excerpt": "The “godfathers” of the current dominant version of AI expressed in 2023 alarm, awe, and humility about what they helped create.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2024/01/07/the-year-of-hallucinating-artificial-intelligence-and-arrogant-human-ingenuity/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2024/01/07/the-year-of-hallucinating-artificial-intelligence-and-arrogant-human-ingenuity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/659ad27da9403a382e07d87f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2024/01/07/the-year-of-hallucinating-artificial-intelligence-and-arrogant-human-ingenuity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2024/01/07/the-year-of-hallucinating-artificial-intelligence-and-arrogant-human-ingenuity/amp/",
+      "publishedDateTime": "2024-01-07T16:37:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-05-neurons-and-networks-how-ai-networks-are-like-neurodiverse-brains.md",
+      "title": "Neurons and networks: How AI networks are like neurodiverse brains",
+      "excerpt": "Neural networks mimic the structure of a human brain. But as Connective3’s Tom Lanaway argues, not all human brains are ‘structured’ the same. So what happens when AI meets neurodiversity?",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedrum.com/opinion/2024/01/05/neurons-and-networks-how-ai-networks-are-neurodiverse-brains",
+      "originalUrl": "https://www.thedrum.com/opinion/2024/01/05/neurons-and-networks-how-ai-networks-are-neurodiverse-brains",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thedrum-media.imgix.net/thedrum-prod/s3/news/tmp/666306/milad-fakurian-58z17lnvs4u-unsplash_1.jpg?w=1280&ar=default&fit=crop&crop=faces,edges&auto=format",
+          "width": 1280,
+          "height": 973,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-05T10:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Drum",
+        "domain": "thedrum.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-04-human-brain-is-superior-and-more-efficient-than-artificial-intelligence-scientists-say.md",
       "title": "Human brain is superior and more efficient than artificial intelligence, scientists say",
       "excerpt": "Most modern AI consist of artificial neural networks, which are layers of 'nodes' or neurons similar to what you might find in the brain. When an AI makes a mistake it adjusts the connections ...",
@@ -1162,136 +1301,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-machine-learning-deep-learning-and-the-credit-market.md",
-      "title": "Machine Learning, Deep Learning, And The Credit Market",
-      "excerpt": "What are the applications of machine learning and deep learning models in the credit market? originally appeared on Quora: the place to gain and share knowledge, empowering people to learn from ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/quora/2023/12/14/machine-learning-deep-learning-and-the-credit-market/",
-      "originalUrl": "https://www.forbes.com/sites/quora/2023/12/14/machine-learning-deep-learning-and-the-credit-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/657a40948a8f77ae0ea63ced/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 900,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/quora/2023/12/14/machine-learning-deep-learning-and-the-credit-market/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quora/2023/12/14/machine-learning-deep-learning-and-the-credit-market/amp/",
-      "publishedDateTime": "2023-12-14T21:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-ai-machine-learning-to-lead-the-way-to-achieve-net-zero-experts.md",
-      "title": "AI, machine learning to lead the way to achieve Net Zero: Experts",
-      "excerpt": "At the event, Rupesh Umtol, co-founder and Director, Electro-Mech Consultants showcased a digital twin model creation concept called Btrlyf -- a culmination of AI/ML that analyses older buildings with respect to energy efficiency.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/cities/ahmedabad/ai-machine-learning-to-lead-the-way-to-achieve-net-zero-experts-9068876/",
-      "originalUrl": "https://indianexpress.com/article/cities/ahmedabad/ai-machine-learning-to-lead-the-way-to-achieve-net-zero-experts-9068876/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2023/12/ai_1200_gettyimages.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/cities/ahmedabad/ai-machine-learning-to-lead-the-way-to-achieve-net-zero-experts-9068876/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/ahmedabad/ai-machine-learning-to-lead-the-way-to-achieve-net-zero-experts-9068876/lite/",
-      "publishedDateTime": "2023-12-14T18:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-14-3-machine-learning-stocks-to-turn-10000-into-1-million-december-2023.md",
-      "title": "3 Machine Learning Stocks to Turn $10,000 Into $1 Million: December 2023",
-      "excerpt": "The post 3 Machine Learning Stocks to Turn $10,000 Into $1 Million: December 2023 appeared first on InvestorPlace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-machine-learning-stocks-to-turn-%2410000-into-%241-million%3A-december-2023",
-      "originalUrl": "https://www.nasdaq.com/articles/3-machine-learning-stocks-to-turn-%2410000-into-%241-million%3A-december-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-14T10:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

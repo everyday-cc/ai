@@ -35,20 +35,6 @@ related:
       name: Google
       domain: blog.google
     quality: 69
-  - title: "AI Is Here, But Who Is It Helping?"
-    excerpt: "Following Crunchyroll president Rahul Purini 's confirmation that the company is already testing generative A.I. uses on subtitling and closed captioning, Chris and Lucas discuss where the technology could benefit more broadly and management's misjudgment on how to implement it."
-    publishedDateTime: 2024-03-07T14:00:00Z
-    webUrl: "https://www.animenewsnetwork.com/this-week-in-anime/2024-03-07/.208369"
-    type: article
-    provider:
-      name: Anime News Network
-      domain: animenewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://www.animenewsnetwork.com/thumbnails/crop600x315gHE/cms/this-week-in-anime/208369/lucas_05.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "The AI arms race between the US and China is heating up"
     excerpt: "The UK, for its part, rolled out a “National AI Strategy” in 2022 and committed roughly $4 billion in chip development subsidies. The nation has also attracted the third-largest level of private investment in AI, behind the US and China. State ..."
     publishedDateTime: 2024-03-10T12:00:00Z
@@ -72,15 +58,6 @@ related:
       name: ABC
       domain: abcnews.go.com
     quality: 9
-  - title: "Intuit Study Finds Women Entrepreneurs Around the World Want to Use AI More for Their Businesses"
-    excerpt: "Female entrepreneurs in low- and middle-income countries rely on cell phones and digital tools, creating opportunities for companies to offer products tailored to them."
-    publishedDateTime: 2024-03-07T14:12:00Z
-    webUrl: "https://www.inc.com/jennifer-conrad/intuit-study-finds-women-entrepreneurs-around-world-want-to-use-ai-more-for-their-businesses.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 4
 
 secured: "t/g7tFUUUsx+oZFor0LelzylsJX4rBkwhwtvfWXa86JrVUYBoLadDnV30JQarm+YSPeQDvU+djCq3Tro6lO5QcO4Amr6gD472dQzrt6J0q1S+6A7LnDXsSiY7PfSH4f5eTrY79K420NDGrjcn4zBu8zc09Ri6sBROeO/4g8YphViXOHPg56x66ZYlM3DguZ26EY06jogXwt5sYySkixiJNDpxI5ajG+yiPHTeezzhEhPxbSOlans301Gwtwz9WvxQj5alocOV20dILbXPWpjQnAZLwlTgEj7ResjfzOVr+WiCUKU6kNvDUBWSDRght0003cAPjqNSjrR4ZIx42dhqu8cXfvexaefOaif9hu9XaQ=;3UJogenyTsGHAFSnelnCtA=="
 ---

@@ -50,15 +50,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 61
-  - title: "India announces $1.2 bln investment in AI projects"
-    excerpt: "India on Thursday approved a 103 billion rupee ($1.25 billion) investment in artificial intelligence projects, including to develop computing infrastructure and for the development of large language models,"
-    publishedDateTime: 2024-03-07T13:50:00Z
-    webUrl: "https://www.reuters.com/technology/india-announces-12-bln-investment-ai-projects-2024-03-07/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
   - title: "India AI Mission: How India Plans To Lead in Artificial Intelligence"
     excerpt: "The cabinet led by PM Narendra Modi has approved the national-level IndiaAI mission, allocating Rs 10,371.92 crore, aligning with a vision to foster AI for national benefit The IndiaAI mission aims to establish a robust ecosystem driving AI innovation via ..."
     publishedDateTime: 2024-03-08T05:32:00Z

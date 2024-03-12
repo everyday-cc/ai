@@ -2,6 +2,144 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-12-20-a-guide-to-navigating-the-next-generation-robotics-wave.md",
+      "title": "A guide to navigating the next-generation robotics wave",
+      "excerpt": "The fusion of AI and robotics promises a transformative wave for industries venturing into large-scale automation.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/guide-next-generation-robotics-wave",
+      "originalUrl": "https://thenextweb.com/news/guide-next-generation-robotics-wave",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-20T14:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-20-congressional-candidate-becomes-the-first-in-the-world-to-use-an-ai-robot-to-call-voters.md",
+      "title": "Congressional candidate becomes the first in the world to use an AI robot to call voters",
+      "excerpt": "Pennsylvania congressional candidate Shamaine Daniels has a new campaign staffer named Ashley who has made thousands of calls to voters.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2023-12-congressional-candidate-world-ai-robot.html",
+      "originalUrl": "https://techxplore.com/news/2023-12-congressional-candidate-world-ai-robot.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/1-call.jpg",
+          "width": 1280,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2023-12-congressional-candidate-world-ai-robot.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2023-12-congressional-candidate-world-ai-robot.amp",
+      "publishedDateTime": "2023-12-20T12:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-20-ai-beats-humans-for-the-first-time-in-physical-skill-game.md",
+      "title": "AI beats humans for the first time in physical skill game",
+      "excerpt": "AI’s ability to beat human players in games like chess and GO is no longer surprising. After all, artificial intelligence has proved it can outperform its animate creators in certain tasks, especially when it comes to processing and analysing information. But physical skill has remained a human prerogative — until now.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/ai-beats-humans-first-time-physical-skill-game",
+      "originalUrl": "https://thenextweb.com/news/ai-beats-humans-first-time-physical-skill-game",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2023/12/labyrinth-game-image-1-796x553.jpg",
+          "width": 796,
+          "height": 553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-20T10:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-20-japan-startup-preferred-networks-designs-own-ai-chips-to-beat-bottleneck.md",
       "title": "Japan startup Preferred Networks designs own AI chips to beat bottleneck",
       "excerpt": "Japanese startup Preferred Networks is ramping up investment in customised artificial intelligence chips, seeking to ensure access to critical hardware as advances in generative AI spark a global investment boom.",
@@ -1217,135 +1355,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-12-10-ai-and-robotics-the-future-that-awaits-us.md",
-      "title": "AI and Robotics: The future that awaits us",
-      "excerpt": "Stephen Hawking, a prominent figure in the discussion of artificial intelligence's potential benefits, expressed concerns about future thinking robots and even suggested that AI advancements could potentially end the human race.",
-      "sourceUrl": null,
-      "webUrl": "https://thehimalayantimes.com/opinion/ai-and-robotics-the-future-that-awaits-us",
-      "originalUrl": "https://thehimalayantimes.com/opinion/ai-and-robotics-the-future-that-awaits-us",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://thehimalayantimes.com/ampArticle/1024410",
-      "cdnAmpWebUrl": "https://thehimalayantimes-com.cdn.ampproject.org/c/s/thehimalayantimes.com/ampArticle/1024410",
-      "publishedDateTime": "2023-12-10T11:11:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Himalayan Times",
-        "domain": "thehimalayantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-09-mind-control-and-mayhem-in-three-new-magic-shows.md",
-      "title": "Mind Control and Mayhem in Three New Magic Shows",
-      "excerpt": "There is something for everyone, even the kids, in “Mind Mangler,” “The Magician” and “Mario the Maker Magician.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/12/08/theater/magic-shows-mind-mangler-mario-maker-magician.html",
-      "originalUrl": "https://www.nytimes.com/2023/12/08/theater/magic-shows-mind-mangler-mario-maker-magician.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/12/07/multimedia/07magic-notebook-qcpf/07magic-notebook-qcpf-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-08T21:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-08-projections-aieee-robots-comes-to-the-coolidge-in-2024.md",
-      "title": "PROJECTIONS: AIEEE! ROBOTS! Comes to the Coolidge in 2024",
-      "excerpt": "Robots! Artificial intelligence is no longer the high-concept villain of some far-off future, but a major player in modern daily life and discourse. This January, we're taking a look at how ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.broadwayworld.com/boston/article/PROJECTIONS-AIEEE-ROBOTS-Comes-to-the-Coolidge-in-2024-20231208",
-      "originalUrl": "https://www.broadwayworld.com/boston/article/PROJECTIONS-AIEEE-ROBOTS-Comes-to-the-Coolidge-in-2024-20231208",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudimages.broadwayworld.com/columnpiccloud/PROJECTIONS-AIEEE-ROBOTS-Comes-to-the-Coolidge-in-2024-1702029305.jpg",
-          "width": 1250,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-08T14:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BroadwayWorld",
-        "domain": "broadwayworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

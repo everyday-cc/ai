@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/blog/azure-ai-health-bot-helps-c
 webUrl: "https://azure.microsoft.com/en-us/blog/azure-ai-health-bot-helps-create-copilot-experiences-with-healthcare-safeguards/"
 type: article
 quality: 117
-heat: 157
+heat: 187
 published: true
 
 provider:
@@ -44,6 +44,34 @@ related:
         width: 822
         height: 822
         isCached: true
+  - title: "Google Cloud digs deeper into generative AI for healthcare"
+    excerpt: "The tech giant introduced Vertex AI Search for Healthcare March 12 at the HIMSS 2024 annual meeting to support developers build technology for clinicians and healthcare workers. Healthcare organizations can use the tool to build data analytics and AI solutions supporting more precise patient care."
+    publishedDateTime: 2024-03-12T13:27:00Z
+    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/google-cloud-digs-deeper-into-generative-ai-for-healthcare.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Oracle expands healthcare platform"
+    excerpt: "The Oracle Health Data Intelligence platform aims to bring together the ecosystem of providers, payers, public health organizations, government agencies and researchers with customized analytics and AI capabilities. The platform has pre-built regulatory and risk management services as well as unified population patient data."
+    publishedDateTime: 2024-03-12T13:51:00Z
+    webUrl: "https://www.beckershospitalreview.com/ehrs/oracle-expands-healthcare-platform.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 39
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Opinion: How artificial intelligence can make health care safer and more personal"
     excerpt: "UC San Diego Health was among the first health systems to give doctors the ability to use generative AI to draft messages to their patients"
     publishedDateTime: 2024-03-12T00:23:00Z
@@ -58,6 +86,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Google Cloud rolls out new AI tools for healthcare and life sciences"
+    excerpt: "Google LLC’s cloud division today announced several new generative artificial intelligence solutions aimed at healthcare and life sciences aimed at enhancing data interoperability, search and improve patient outcomes."
+    publishedDateTime: 2024-03-12T12:00:00Z
+    webUrl: "https://siliconangle.com/2024/03/12/google-cloud-rolls-new-generative-ai-tools-healthcare-life-sciences/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 34
   - title: "AI, Telehealth and Communications - IDTechEx Explores Digital Healthcare"
     excerpt: "IDTechEx provides trusted independent research on emerging technologies and their markets. Since 1999, we have been helping our clients to understand new technologies, their supply chains, market requirements, opportunities and forecasts. For more information, contact research@IDTechEx.com or visit www.IDTechEx.com ."
     publishedDateTime: 2024-03-12T08:30:00Z

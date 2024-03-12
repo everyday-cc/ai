@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/tech/technology/gpu-access-to-power-up-i
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/amp_articleshow/108335973.cms"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -36,15 +36,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 61
-  - title: "India announces $1.2 bln investment in AI projects"
-    excerpt: "India on Thursday approved a 103 billion rupee ($1.25 billion) investment in artificial intelligence projects, including to develop computing infrastructure and for the development of large language models,"
-    publishedDateTime: 2024-03-07T13:50:00Z
-    webUrl: "https://www.reuters.com/technology/india-announces-12-bln-investment-ai-projects-2024-03-07/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
   - title: "India Spending Billions on AI"
     excerpt: "for India’s AI ecosystem over the next five years. The IndiaAI Mission includes standing up a 10,000-GPU AI supercomputer (no system details were released) to support such initiatives as: The IndiaAI Innovation Centre (IAIC), an academic institution ..."
     publishedDateTime: 2024-03-08T00:00:00Z

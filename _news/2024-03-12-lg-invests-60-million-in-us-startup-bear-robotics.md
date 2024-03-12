@@ -2,7 +2,7 @@
 category: news
 title: "LG invests $60 million in US startup Bear Robotics"
 excerpt: "LG Electronics said on Tuesday it has made a $60 million strategic investment in Silicon Valley-based startup Bear Robotics in a move to strengthen its business capabilities in the booming"
-publishedDateTime: 2024-03-12T09:18:00Z
+publishedDateTime: 2024-03-12T14:47:00Z
 originalUrl: "https://www.thehansindia.com/business/lg-invests-60-million-in-us-startup-bear-robotics-864378"
 webUrl: "https://www.thehansindia.com/business/lg-invests-60-million-in-us-startup-bear-robotics-864378"
 type: article
@@ -96,7 +96,16 @@ related:
         width: 1200
         height: 857
         isCached: true
+  - title: "Bear Robotics Lands $60 Million in Series C Funding from Tech Giant LG Electronics"
+    excerpt: "Bear Robotics, a Silicon Valley trailblazer in service robotics and artificial intelligence solutions, today announced the completion of a $60 million Series C funding round. This round is exclusively led by LG Electronics,"
+    publishedDateTime: 2024-03-12T13:25:00Z
+    webUrl: "https://www.afp.com/en/news/1313/bear-robotics-lands-60-million-series-c-funding-tech-giant-lg-electronics-202403123685931"
+    type: article
+    provider:
+      name: AFP
+      domain: afp.com
+    quality: 28
 
-secured: "VwrD1BL4FU4Dt4oY8q6BXxsnAE/wv1QdZBbO2lUhChMPtS6/GhgVxR2nrlCS62qUfyQrEsGjBc6IoDybz6VqVElloO9KVOlnYzdkIaxapxaIRbMp4WazBnM2n+5cTuaPOUA/SEoDP/GSyT/pDSkEoy9DgyVht1ot16+u+2BqKbzFuTnJblVr0xDEzPJPiety08CcvMYSbjnMpSlmSdQbLIQwil/xDLIMieXFLVewDloRV141ND9LhVxr0Y8r89Hskd6VBlUsjbW181dSLF+6tOijFO/PQBxsey7sOpzwywGSxBV0uWEFXSf84gDrWcTiAFYjgMZ8rHvIJwsewUvUUfnQIMJ173fPCRPYH3qEVwkujhd/obfu+Bxf1aKPig+EQIZ6IS0JwT++M/mlu4fisDE8rOGOl9rNc7+LmeShS93F+TVUV9OM7Z7INQ4PETlrmDFvDFGmJUxlvxBpi7oSiA+L2vHaGXOCP0ft8YOUr83iFaAYUbJyJ+b4oVG4wbIp//bJ1kGsaVlA+J8RonXgPg==;KGyuC2i2HFahMlStd0lffQ=="
+secured: "6KzfbOH3NLnmEkJy2M8kfVP09W8s4mSmgCgP5jLTE850igJBHrERgcZKfWtheBh8EwLNyIVyR6cnkhIWx++u4lR9GL0CiJAELB5cpdX3Kx9W/ELgNeWmuzxH48EBQzV44GzJ5vhbRepIIkpY5faQkczxF00tt00uIfGw62I3vS4xWNZlztttu0quHZnMSLU7KBlDIxDGzmX1bJ3TeTtVJkAnU/QKVlxxvg+dcJGEnt3izmbg98B39/zrnPdRZ4WuAzEpAJWi3Hn5iLpTfzeWEfkCWfo4n0rh2wVfUNvp2l+YE4OhBWlbqi4rqmnIK2SdkOU1PzQJBKYWlUnFF75wYSaT4aW4dw/2hXIp+oWIVj8=;MXRff7um91g2aY6bGPwJGw=="
 ---
 

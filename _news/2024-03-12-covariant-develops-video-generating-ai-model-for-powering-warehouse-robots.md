@@ -39,6 +39,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Covariant Develops Language Model That Can Make Robots Think Like Humans"
+    excerpt: "Covariant has unveiled RFM-1, a large language model for robot language that provides robots with a \"human-like ability to reason,\" bridging the gap between traditional programming and intuitive human-robot interaction."
+    publishedDateTime: 2024-03-12T03:14:00Z
+    webUrl: "https://www.techtimes.com/articles/302475/20240311/covariant-develops-language-model-make-robots-think-humans.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 18
 
 secured: "qyVOhlEA+pPCRphDDfX+y9bhSFLQk7YNwUUR8NXHB6kw2fSXceJcFyBpLvcr4ncXanPgKVl+Qjwni0+EAyylvFjhTYHA8SHAxF3U48TNKsBcaRiYt/P7ygrZ2FkX02b2L/EeF7ietuq6xfVfHsXbzECqdhSe+VYqYanYasLxaYnV2r9oHwIg7LSGMtx7+9szVm7IdJ9zbu3QtaWIiUE0IePQr8SatbseCprcLFwIHnNc5tP9ZbSwV4OBPHfZtwnVBXODl1EspzzZMfiilAepoUIXuHJ9qnQC3wjVUD4RlTqeDex3ZFvZcea/egy9JHp/QgyJd6Cuxk4zopmR0XYaujV/v0bC0LYvjLWwVVOKffUKph+RD9xlZWMB6Urtx75pRxTfLlbHg7qbkGNi5f+EARchYHAAoWjgwRUG94W9kZxyL8CXocbPrgeh8XKG/EjPvSMoSsHSeXLZOjArD5ZbH/cxGUIorVvsFyc23zaH5fJQlmE5qXm5/RgNdA3OKBns66dugfI52jGBLo6LKIhpsg==;f+PzUVBcM8FWeqa5DONJSA=="
 ---

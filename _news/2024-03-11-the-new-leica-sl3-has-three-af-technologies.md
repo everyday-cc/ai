@@ -26,17 +26,6 @@ images:
     height: 946
     isCached: true
 
-related:
-  - title: "Leica Unveils the SL3 Full-Frame Mirrorless Camera with a New Maestro-IV Processor"
-    excerpt: "Leica equips the SL3 with a cutting-edge autofocus system combining three powerful technologies for sharp, clear photos even in low light"
-    publishedDateTime: 2024-03-07T15:57:00Z
-    webUrl: "https://www.gizmochina.com/2024/03/07/leica-sl3-full-frame-mirrorless-camera/"
-    type: article
-    provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 28
-
 secured: "6KdXOAvdFDgC9I55z2u9OopO6N8mLMEARvjwO9cKUTCvxeQzQ6RZ4xEfJOOB8X2dq7TMvuwxjXqzjtYvhHEoXka8VJGm9/a0WNbSFPmQpMrWMJ5bYebEvZswOAC0VhBBMcuKk2zlqtPsUJ10vd3sfZHWLxx0o8NWlPL8QxcQYAeBjOIw1jlb1/R8UyeT1pn81XnnyzGpxqoACnJW+Rr/uPRdUNz4cDJ+cJ0wT0Zw83W5h34cwXNR2Wk6mmTOkuGjiyfGXwXDTuSbQch8QOC6rS9sGBvUWdlEj3wYMpjVIttd4hNu5hB+862zKkieDJdkUa9ripa0CRD56jV7MZxNH16MujkHrXc5urPtp7ZHqyWzcq2GE8mH5y3KJFKro+8rW2CylF0I0ETeYGoiUlXr/8s0JYhydgAIvl0gYsvbIHrpyeOUjVEElZcl9FijjXpa/evkkbToTGY/gmrc0rsSOI9gu1nU8ViRg6+LGCLeSNTEflpBDRcJLIFgQffy5UuFNYNo2jM4FS72UQaKjNoyBA==;D1utcCe4a+S6OPmZJpUS9Q=="
 ---
 

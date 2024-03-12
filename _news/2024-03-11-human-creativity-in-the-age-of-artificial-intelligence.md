@@ -26,63 +26,51 @@ images:
     isCached: true
 
 related:
-  - title: "The Role Of AI In Solving The Volume-Cost Equation In Customer Service"
-    excerpt: "It’s important to recognize that generative AI is not the catch-all answer to the volume-cost equation and that everything becomes immediately balanced once implemented."
-    publishedDateTime: 2024-03-07T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/07/the-role-of-ai-in-solving-the-volume-cost-equation-in-customer-service/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/07/the-role-of-ai-in-solving-the-volume-cost-equation-in-customer-service/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/07/the-role-of-ai-in-solving-the-volume-cost-equation-in-customer-service/amp/"
+  - title: "Bridging The Trust Gap In Workplace AI"
+    excerpt: "A key element of the AI trust gap is not so much about technology but about whether the motivations around its appeal are mutually aligned and beneficial."
+    publishedDateTime: 2024-03-12T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/12/bridging-the-trust-gap-in-workplace-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/12/bridging-the-trust-gap-in-workplace-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/12/bridging-the-trust-gap-in-workplace-ai/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6452660f5ec3aaf210ee1af0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65ef584cbe564485962092d2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1350
         height: 900
         isCached: true
-  - title: "Generative AI will change customer service forever. Here's how we get there"
-    excerpt: "and that the customer service processes they design can be successful using generative AI. Start small, start where there is measurable value and benefit, start simple, start with clean data, and invite a small number of loyal customers into your design ..."
-    publishedDateTime: 2024-03-12T11:05:00Z
-    webUrl: "https://www.zdnet.com/article/generative-ai-will-change-customer-service-forever-heres-how-we-get-there/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-will-change-customer-service-forever-heres-how-we-get-there/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-will-change-customer-service-forever-heres-how-we-get-there/"
+  - title: "The women in AI making a difference"
+    excerpt: "Many had no training or education, formal or otherwise, in AI. Contrary to the Times’ suggestion, the AI craze didn’t start with Musk sitting adjacent to Page at a mansion in the Bay. It began long before that, with academics, regulators, ethicists and ..."
+    publishedDateTime: 2024-03-09T19:10:00Z
+    webUrl: "https://techcrunch.com/2024/03/09/the-women-in-ai-making-a-difference/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 85
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/ea7e9436c5b7404b91662cea16c7a61a199fe5ec/2024/03/11/ec6e84d9-cca6-46e1-911b-965b865afe35/gettyimages-1681144648.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The role of AI in analysing consumer spending patterns"
-    excerpt: "A survey by ACFE and SAS revealed that the global adoption of AI and ML for fraud detection saw a significant increase last year"
-    publishedDateTime: 2024-03-09T07:45:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-the-role-of-ai-in-analysing-consumer-spending-patterns-3419199/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-the-role-of-ai-in-analysing-consumer-spending-patterns-3419199/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-the-role-of-ai-in-analysing-consumer-spending-patterns-3419199/lite/"
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
+  - title: "India’s AI leap: bridging the gap"
+    excerpt: "The just announced National Mission on AI ensures that all the necessary building blocks needed by India to shape the future of AI for India and the world are in place."
+    publishedDateTime: 2024-03-11T07:20:00Z
+    webUrl: "https://www.livemint.com/ai/indias-ai-leap-bridging-the-gap-11710140690633.html"
+    ampWebUrl: "https://www.livemint.com/ai/indias-ai-leap-bridging-the-gap/amp-11710140690633.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/indias-ai-leap-bridging-the-gap/amp-11710140690633.html"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2024/03/Untitled-design-2024-03-08T172224.860.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The future of banking: integrating AI for better service"
-    excerpt: "The future of banking: integrating AI for better service In the rapidly evolving landscape of banking, the integration of Artificial Intelligence (AI) stands out as a transformative force. As financial institutions strive to meet the demands of an increasingly digital-savvy customer base,"
-    publishedDateTime: 2024-03-11T20:05:00Z
-    webUrl: "https://www.globalbankingandfinance.com/the-future-of-banking-integrating-ai-for-better-service/"
+      name: Mint
+      domain: livemint.com
+    quality: 39
+  - title: "Advancing Equitable AI in the US Social Sector"
+    excerpt: "How thoughtfully designed AI-powered applications can drive stronger and more equitable outcomes for nonprofits."
+    publishedDateTime: 2024-03-12T12:38:00Z
+    webUrl: "https://ssir.org/articles/entry/advancing-equitable-ai-us-social-sector"
     type: article
     provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 36
+      name: ssir.org
+      domain: ssir.org
+    quality: 19
 
 secured: "3wi41DdqmcTHVjMhkJ4aV1siKfElbRCPrNn2ODshx1VP0mlC9VuPki0tnVxHsMkRUFEg32xISfBqfFyCfafJK/P8e4ppHxguQcPQSCJQedZqlYzIt7sAf22E91qcnCu3+IACATm86bUwM/hsOVmza6VmFY7mhr68Z2kQRu6bQTPzxmu2nlDI8MJ66yYHHSaJ4vivFs3I8Ys1rG4twS+E8luK+ILrndBcLjwtvCR64bcjh0gD7R9NhCGpy9AL4nHuaChISM/mlzwJ2vMjj9GJAUiGEo1ntURjVReZAtsuny9Q9Fsz4vTmgy9++3RbhltE3hs4rIes5SOhqFbebDZtkwO+BpQUC1N1Zduv2Jtsxmk=;CaexSvQHqjH9G0V3XwpW0w=="
 ---

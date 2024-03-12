@@ -39,20 +39,15 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Profile Software Introduces AI.Adaptive to Enhance Digital Services"
-    excerpt: "Profile Software launches its new “AI.Adaptive” solution, which simplifies user interaction into natural language with databases and applications."
-    publishedDateTime: 2024-03-10T01:29:00Z
-    webUrl: "https://www.crowdfundinsider.com/2024/03/222437-profile-software-introduces-ai-adaptive-to-enhance-digital-services/"
+  - title: "10 AI Tools For Your Business In 2024"
+    excerpt: "Artificial intelligence (AI) is a powerful technology which has a far-reaching potential for change. But what about when it comes to the day-to-day workpla"
+    publishedDateTime: 2024-03-12T12:41:00Z
+    webUrl: "https://www.forbes.com/uk/advisor/business/ai-tools/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 41
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/01/Zoom-Warp-Speed-Blast-Artificial-Intelligence.jpeg"
-        width: 1280
-        height: 1139
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "NRG Media Has Embraced AI-Based Tools"
     excerpt: "Headquartered in the Midwest, NRG provides content and digital marketing services through 36 radio stations to listeners and advertisers in Nebraska, Iowa, Illinois and Wisconsin. One way NRG uses AI is to create videos for clients using Waymark technology."
     publishedDateTime: 2024-03-11T17:45:00Z

@@ -62,6 +62,15 @@ related:
       name: BGR
       domain: bgr.com
     quality: 48
+  - title: "Generative AI Is A Game Changer For Talent Transformation"
+    excerpt: "One of generative AI's most significant implications is giving talent management professionals the ability to communicate information to executives and their board of directors. It helps leadership look around corners, rather than just in the rearview mirror, when shaping strategy or making decisions."
+    publishedDateTime: 2024-03-11T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/03/11/generative-ai-is-a-game-changer-for-talent-transformation/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "ChainGPT unveils $1M grant scheme for startups supercharging Web3-AI innovation"
     excerpt: "ChainGPT, the AI-powered Web3 infrastructure providing a diverse suite of tools and services, announces the launch of a grant program to help facilitate innovation at the crossroads of AI and blockchain."
     publishedDateTime: 2024-03-11T14:17:00Z

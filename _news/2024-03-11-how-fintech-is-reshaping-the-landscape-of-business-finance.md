@@ -25,20 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "Autonomous Finance Fintech HighRadius Introduces FreedaGPT Use Cases"
-    excerpt: "FreedaGPT is a Gen-AI assistant “for Order-to-Cash ... online lending, and other forms of Fintech. Crowdfund Insider is once againproducing a video series addressingthe most important topics impacting"
-    publishedDateTime: 2024-03-08T19:14:00Z
-    webUrl: "https://www.crowdfundinsider.com/2024/03/222375-autonomous-finance-fintech-highradius-introduces-freedagpt-use-cases/"
+  - title: "New AI, Robotics, Spacetech And Fintech Unicorns Trot Onto The Unicorn Board In February"
+    excerpt: "Ten new unicorns added more than $18 billion in value to The Crunchbase Unicorn Board in February, but one company was also downgraded from unicorn status and fell off the board."
+    publishedDateTime: 2024-03-12T11:00:00Z
+    webUrl: "https://news.crunchbase.com/ai/new-unicorn-board-companies-february-2024-moonshot-ai/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 39
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 62
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2022/11/iPhone-Identity-Face-Digital-Money-Grant-Dollar-Eyes.jpeg"
-        width: 1280
-        height: 1072
+      - url: "https://news.crunchbase.com/wp-content/uploads/unicornboard_hero-resized.jpg"
+        width: 900
+        height: 506
         isCached: true
+  - title: "The Top 7 Fintech Stocks to Buy in March 2024"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Fintech companies are spearheading a revolutionary shift in their niche,"
+    publishedDateTime: 2024-03-08T11:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-top-7-fintech-stocks-to-buy-in-march-2024-1033145869"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
+  - title: "Stax founders launch new Orlando-based fintech Worth AI"
+    excerpt: "Salman Rehmetullah and Suneera Madhani's fintech Worth AI aims to transform financial underwriting for small- and medium-sized business loans."
+    publishedDateTime: 2024-03-12T10:00:00Z
+    webUrl: "https://www.bizjournals.com/orlando/news/2024/03/12/stax-founders-worth-ai-company.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
+  - title: "1 Week to Go! Top 100 Women in FinTech 2024"
+    excerpt: "In honour of International Women’s Month, FinTech Magazine - in association with Amberdata, JP Morgan Payments, and AWS - will be releasing its Top 100 Women in FinTech for 2024."
+    publishedDateTime: 2024-03-11T12:45:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/1-week-to-go-top-100-women-in-fintech-2024"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 4
 
 secured: "m2y1CPbeLh6DQFtaoodgjhanTYfhNNl/HTHJFDbZwdhL3auIPXhXQwJK+Os5tblHds/dT6VLCMc4bFg2pUHkjcDxh6RpV421uxnh7XK3WHgR6PjhUX0chsygml642KZ7HgU62XQJKDOpk/cdAUHEJNA0MfND17RcD4Q+obE3E0giix3TPD74Vt8KBvIi05RvQ9G7G96n3DiQxnsb382wpbwSSRth1q4s2WSijFp9FCwMdqRd4xHchpTZ6R7cAgYpUt+8lMsnT6OAoxVAGc7C2mQe8Lz+PoCpN5H8L+lX02MDG1hAYTdohv9fnoSXTB5DzeJZKbwQDI6DuRXPJ6O0RZXbBauzsu+zXXbTNGIlpSA=;lbgB7tc7jxFMRAXkZwTANQ=="
 ---

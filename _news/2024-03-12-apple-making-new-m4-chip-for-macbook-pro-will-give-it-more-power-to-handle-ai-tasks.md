@@ -27,16 +27,16 @@ images:
     isCached: true
 
 related:
-  - title: "Apple MacBook Air 15-inch M3 hands-on review: Big on AI, bigger on battery life"
-    excerpt: "Apple's big-screen MacBook Air goes big on AI with the new M3 chip, but it's the battery life that really impresses"
-    publishedDateTime: 2024-03-07T14:00:00Z
-    webUrl: "https://www.tomsguide.com/computing/macbooks/apple-macbook-air-15-inch-m3-review-"
+  - title: "Apple's AI-focused M4 chip for MacBooks might skip 2024"
+    excerpt: "Apple has been updating its M series SoCs like clockwork. The M4 is next, right in line with the launch of a new MacBook Pro."
+    publishedDateTime: 2024-03-12T12:51:00Z
+    webUrl: "https://www.androidauthority.com/apple-starts-m4-development-3424615/"
     type: article
     provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 15
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 64
 
-secured: "EjFs9t3YoQqwI3lOmvdVp/1YNfjSnj2iO0/ztZ+mYSNsypYtqF5hcXxmzut6MYr5krXqQig7oi2fGlL29wYMHqXLoF3TbFmfvM9A8ei2I7ETnloDVn7pIYDGL8yN73zaq/6XmmHJqtrPEQythM9KZ7+qA/IxrIHVmmI9cXFJg/9aJnAhqbfihwbCfZ2+nl7oBgrZkyUhSHjysdeW9dLNzEZ2l+s1CDQ0lyTZDNy5s/WuErX6AI7ltQec/9/gmG0sfJn+cdJchOkQX3fjsCFXYoiH/idQUGb4O9eg7kxxwq9sO9YO4yPR7Sj83npWET6IlrxV9STv0n4JxVussV/P/odG2glZ1sfBlBTU/zmVB0o=;3cqfKZ+O6lO8lS7XNS0vvw=="
+secured: "xEzBRINFqvAdiJDj+Xv02VxXxWL2mESqeuCL4nTC4DNQN+7gdzOXjaWuwiZN8YMpjLnc5ArxX+5/mMP02Z7MaNecbx7sYIKSYobXwI8F9RJTJzV7p+swDF+dyNAmKrguWL4N9wlM5JOxRJrV5iKFOpFS6ySYtArkMhEWNbLwwstyOhqTdRu7nQf9kD1sAR75pLuBuFsEBiU/2jIwjmwhKsNgmWNH1Dotnq/kIa8WlfQmehexiOMcb53zfIFNe0BqBgiSpEmT4t8fdM6iUM2isAfn8wSn/bs6udVDv19z95NFhLI27WfGZmr/S+2/NbjrVTaf3ovg/zlnNigMKzeyV6410HPwmJSm5MXCHdDTUPOdO4kZ3TbOshBRYTMZbXdR6Wm4A/Zj7UuE24DYUFf/rRs0wZhXfgPx6D+jRqDT+peAAGxdUwi15FRoTeGINImWvHlIkSB4ChD1YZqaR2t134LxPdD4gwfxjZyuaEaVu0aPSqg8O8lp/vBIV9b7HjoBswewgEPsgVH18LS4dj7Sgg==;z0EhUdQNviqVfMP80h4CBQ=="
 ---
 

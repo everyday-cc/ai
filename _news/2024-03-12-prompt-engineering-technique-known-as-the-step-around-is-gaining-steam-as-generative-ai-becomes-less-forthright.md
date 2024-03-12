@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/12/prompt-engineerin
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/03/12/prompt-engineering-technique-known-as-the-step-around-is-gaining-steam-as-generative-ai-becomes-less-forthright/amp/"
 type: article
 quality: 71
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -31,17 +31,6 @@ images:
     height: 881
     isCached: true
 
-related:
-  - title: "How Marketing at the BBC is exploring generative AI to increase experimentation and improve Doctor Who promotion"
-    excerpt: "Experimentation is at the heart of how we approach marketing at the BBC. Testing and learning on how we let audiences know what BBC content is most relevant to them and we know they might love underpins our digital marketing strategy."
-    publishedDateTime: 2024-03-07T13:38:00Z
-    webUrl: "https://www.bbc.co.uk/mediacentre/articles/2024/bbc-marketing-generative-ai-doctor-who-promotion"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 13
-
-secured: "qkAyRwjairkEzeyphJxbWlBFglXuDxlGJeMlffcW77MUYruv2Wb02FgVmu4sLJ+GhzrpuJEA8YcGAGnhAwOtF5/kfiqje9ly5vvPsYieUQNxHhRDkG+cKnI3UBMt27fb4WbSUR7Jw1sJRaVQkkOPTNW7uRh44o9mE3WQwWVFS6/RAaz19Gz5UNspNW6g+M0pbEUZ13APths7oDC/GGbqnykj5IAsvUCVgK9dhvVZHrOaDjw/kuqZhLfnqnDt/0/R5bmjA3guOMTiSVXvIi0G33lf4SSXhhyMxCylKzCl54R0AK2RQEffw4Q5W1VaQuZ7KmVVatUCONuYB0WCrtn5liVk6FTfppyxT7fbByeLfak=;GSsHdhCnXhVFZwuLLoshMg=="
+secured: "CpISL84bphNd1Q+Sj6np0Xc8yjU3EPlNnz6aqZRodsDumAIOhpM3EyqWXEcItp9/6U13/vZ5tfUEHgQj3wG2yfyeNVhqNfQlimMo6m63QRKTGSCgmem8Epjw6cWlJzaMvesDQLtHN+uTEzETjCFYDEaQRFTUlpuzhWs8fz8pxXfjb2NbY9G4qJSKldExr0eEzsw+is77FBrzQUwtwUnJ9tw3iGSbzZ9wlzVxjo4ZXaizGtBCks+9rwM50SF9E7DVsN9i1XQcF+7dO1v7VQpN3C3ezfJJvXT3m2dPJOnpBu3iT8UYTZglesE2guvCBme1hEcRlMBNAkZFlo/75cBIupF2EDeJHeSbQxo+ya1PhK2mkXna97La25ai+ZYX5AnGnUzjPPbZqDXW+BN77Z8sneI/u2bwo66co7r2WT0jiY5O/P9nEBqk51ez20D+CtJAmZQPAm6bmabf8Q5vQnzh7Jx2uH7+oXFaQ1dOakcnGIdo5IAE4ZO/osaJVkXwSZ0jqHM+JHhJezcvGoNQEdeshw==;5rtkDGnaEzPRYZW5IWFq7Q=="
 ---
 

@@ -39,6 +39,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Stc Bahrain, the first telecom to launch instant mobile SIM Activation using AI Face Recognition Technology"
+    excerpt: "Pioneering technology-driven solutions that empower customers and drive forward Bahrain’s digital transformation"
+    publishedDateTime: 2024-03-12T12:48:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/stc-bahrain-the-first-telecom-to-launch-instant-mobile-sim-activation-using-ai-face-recognition-technology-m1i91v9w"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 16
 
 secured: "A3LMtkCZJA5UWpTXjokNEybaQ7SUGuslTWASdIdFwrd7/CrJQMT5euAV2wGKIwsO+T9AKwZmHnG3laCEwEfmWJ/4w/FAjN4tpbuLE/8tvsbq1cMXwJnJ8LCgSkpxvZZWjfwbkA1VoTcfNvXUmJzPUeuUGd2n4cAb6lGtYPWPVHAphhGLAUW0gwD3ipCA/09MT2MGs72e6+/3kNSrb6FQHaWR3c8RH3rC+J2GAS0DUlJu7tOavbIiI9zamR71wI3/xhS8QTUchYFEnvVOttVI0iCSxnRDhPVumUjQ4L8Y5gm2W0eRlZDxnYUI0S7IsPH+9QPXCRj1FUUM1I8V5n2T13I2vgWoB3bNJ/jz+yCx52crkiV22Zw1EpwzW+kisV25i59oMq2ujykfU0ieys/ieMRv3W8pMAwImryhs8YtiLhvZc6pRTMmb0jPPiCiECHabojn5JflLV+JoRnieA2N8Yx+AazT2tepl4O+0qvcuKbjAR1Pfx5+2pJ8JrTljjvnksWz16jZx+u5fjEPRMYBHA==;YXcoispbXBibtnWzmjFQjA=="
 ---
