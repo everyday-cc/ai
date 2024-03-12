@@ -1,29 +1,28 @@
 ---
 category: news
 title: "Robot ships: Huge remote controlled vessels are setting sail"
-excerpt: "\"We've added a lot of additional equipment and designed her especially to be what we call 'robotic',\" says Colin ... It's being fully controlled by a crew 475 miles away in an office in Aberdeen."
-publishedDateTime: 2024-03-07T05:14:00Z
-originalUrl: "https://www.the-star.co.ke/news/world/2024-03-07-robot-ships-huge-remote-controlled-vessels-are-setting-sail/"
-webUrl: "https://www.the-star.co.ke/news/world/2024-03-07-robot-ships-huge-remote-controlled-vessels-are-setting-sail/"
+excerpt: "Marian Meza Chavira is learning to pilot underwater robots from a remote control centre Entering the ... Many questions spring to mind about remotely operated and autonomous shipping, just as ..."
+publishedDateTime: 2024-03-07T01:36:00Z
+originalUrl: "https://www.bbc.co.uk/news/science-environment-68486462.amp"
+webUrl: "https://www.bbc.co.uk/news/science-environment-68486462.amp"
+ampWebUrl: "https://www.bbc.co.uk/news/science-environment-68486462.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/science-environment-68486462.amp"
 type: article
-quality: 54
-heat: 54
-published: false
 
 provider:
-  name: The Star
-  domain: the-star.co.ke
+  name: BBC
+  domain: bbc.co.uk
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://lh3.googleusercontent.com/nn3e9Ex_H6B30_PmhXIg1j50j65oSNz2wZarlXxubzz6O4O5VbdEh7rl8Ufh_khPCpiMTxDGNFbNW9zcbiEC6xYAGaKLYjVNl_UCa8yT=s1000"
-    width: 786
-    height: 424
+  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/C8AE/production/_132847315_oishipdrone2.jpg"
+    width: 1024
+    height: 576
     isCached: true
 
-secured: "mY+9yL8XYbHZUxzOHZmcwm4MZE7DGLyX1LW2vpb+5VZ5OIVRLjpxpwJhuBNY6qHG7woNnHWd5vY3jtAXk8WE0re5bmhSQYxqOzmC3JpbTwItzUJ8yNxL0FFD+RPHApgG7y6QoD9Mr8pIsHUfLTBZ67oAvxLGv2YuUdvtdDV6xHWNKXy0/ibr7McSnO01sCXK4+n5He2HDqJpCfKeWrXgiSJW3qMFqcTncTNREzzuP9xdRcCN6LtT834yWgwViw5RHlYBTb1hkIVnmK/wIEhPpius4oMlw2S4C//4k6sTg7tQUW6f801h0UjhtdGloWa0qDKNZvlFj4RaFeUt96/0kS6Zy7VKDskps1JnA3GSqHo=;2J4BLK6vejvRvndqBlmIww=="
+secured: "Jr2o7nvRBkn9qiUyNAYs34iO//i59uhyjBNV+KfO7LC2suiLSsIbDUWGzhchgT6G3l4GteeQFoTOmSyVUtLM7eQ+JkksoEkFD+RNZFzgK6Ebuf0ni3LHFXmskxHZjs4AiMiQodEtA/jVtyUSxOhqKhYFiEFC3KYQtR7Q7h5JI7/QICbhkD2y8fm+tHNMNVHlVUVa3q0VIqOvZhP3R0Nm8tDLsQ9A2PyJFJ5faDyVEoDLqq+rX4MCKaF3UJLwslvYrv0pWkvC2YKHp9qdhM4XRg/N6MMBqYFcdXUv1b0sOWQJNJcQKbm3p5L18BG6TYlCXY17NeXBrZgctl5miw9U9ebjJmZfVi0E67nICmjtmq0=;9UQoLQ8GPLR4mC+cQP61Ww=="
 ---
 

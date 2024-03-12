@@ -46,6 +46,50 @@
       ]
     },
     {
+      "path": "_news/2024-03-11-healthcare-pros-show-interest-in-apples-vision-pro-survey.md",
+      "title": "Healthcare pros show interest in Apple's Vision Pro — survey",
+      "excerpt": "Up to 75% of US healthcare professionals are open to exploring the use of Vision Pro devices at work, survey claims.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3714400/healthcare-pros-show-interest-in-apples-vision-pro-survey.html",
+      "originalUrl": "https://www.computerworld.com/article/3714400/healthcare-pros-show-interest-in-apples-vision-pro-survey.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2024/03/04/20/vision-pro-1-100961865-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3714400/healthcare-pros-show-interest-in-apples-vision-pro-survey.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3714400/healthcare-pros-show-interest-in-apples-vision-pro-survey.amp.html",
+      "publishedDateTime": "2024-03-11T13:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2024-03-11-how-to-choose-an-ai-as-a-service-provider.md",
       "title": "How to choose an AI-as-a-service provider",
       "excerpt": "AIaaS can help you jumpstart your AI projects, but there are some details you need to know. Here’s what to look for and five leading options to consider.",
@@ -200,21 +244,21 @@
       ]
     },
     {
-      "path": "_news/2024-03-08-airports-using-biometric-facial-recognition-in-florida.md",
-      "title": "Airports using biometric facial recognition in Florida",
-      "excerpt": "The next time you're in a security line at the airport, you may find that instead of a Transportation Security Administration officer checking your ID, a camera and screen will use biometric facial recognition to confirm your face and photo ID match and ensure your ID isn't fake.",
+      "path": "_news/2024-03-07-airports-using-biometric-facial-recognition-in-tennessee.md",
+      "title": "Airports using biometric facial recognition in Tennessee",
+      "excerpt": "Spokeo looked at which airports are using facial recognition software in Tennessee for security screenings, according to Customs and Border Protection.",
       "sourceUrl": null,
-      "webUrl": "https://www.clickorlando.com/insider/2024/03/08/airports-using-biometric-facial-recognition-in-florida/",
-      "originalUrl": "https://www.clickorlando.com/insider/2024/03/08/airports-using-biometric-facial-recognition-in-florida/",
+      "webUrl": "https://clarksvillenow.com/local/airports-using-biometric-facial-recognition-in-tennessee/",
+      "originalUrl": "https://clarksvillenow.com/local/airports-using-biometric-facial-recognition-in-tennessee/",
       "featuredContent": null,
       "highlight": null,
       "heat": 114,
       "tags": null,
       "images": [
         {
-          "url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/DVRK2BHLAZGBXGV3QJLBZQF2B4.jpg?_a=ATAPphC0",
-          "width": 700,
-          "height": 394,
+          "url": "https://clarksvillenow.sagacom.com/files/2024/03/ee6bd9d74e2a142c2f2daf72351580a3.png",
+          "width": 1010,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -224,11 +268,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-08T10:00:00Z",
+      "publishedDateTime": "2024-03-07T14:17:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "News 6 WKMG",
-        "domain": "clickorlando.com",
+        "name": "Clarksville Now",
+        "domain": "clarksvillenow.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1339,59 +1383,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-iflytek-launches-ai-powered-x3-sweeping-and-mopping-robot-in-china.md",
-      "title": "iFlytek launches AI-powered X3 sweeping and mopping robot in China",
-      "excerpt": "The chip delivers the necessary processing power for obstacle avoidance, navigation, and stain recognition, while the lidar ensures accurate mapping and object detection. Furthermore, the X3 can navigate obstacles up to 2cm high and boasts automatic night ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2024/02/21/iflytek-x3-sweeping-and-mopping-rob-launch/",
-      "originalUrl": "https://www.gizmochina.com/2024/02/21/iflytek-x3-sweeping-and-mopping-rob-launch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2024/02/iFlytek-X3-653x1024.jpeg",
-          "width": 653,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

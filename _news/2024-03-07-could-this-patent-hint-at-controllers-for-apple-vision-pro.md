@@ -7,7 +7,7 @@ originalUrl: "https://www.gamesradar.com/could-this-patent-hint-at-controllers-f
 webUrl: "https://www.gamesradar.com/could-this-patent-hint-at-controllers-for-apple-vision-pro/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Apple Vision Pro problems and how to fix them"
-    excerpt: "We take a look at some common problems faced by Apple Vision Pro owners, and offer potential solutions on how to fix them."
-    publishedDateTime: 2024-03-11T12:00:00Z
-    webUrl: "https://www.androidauthority.com/apple-vision-pro-problems-fixes-3424170/"
+  - title: "Apple Vision Pro could get an essential gaming add-on one day"
+    excerpt: "Despite Apple 's protestations that it's a \"spatial computer\" and a productivity booster, one of the most exciting things about any VR headset is gaming and the same goes for the Apple Vision Pro."
+    publishedDateTime: 2024-03-11T10:00:00Z
+    webUrl: "https://www.t3.com/news/apple-vision-pro-could-get-an-essential-gaming-add-on-one-day"
     type: article
     provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 34
+      name: T3
+      domain: t3.com
+    quality: 24
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/TroswUZjNPbhZjwPZgjPnS-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The Apple Vision Pro isn’t as innovative as you think"
     excerpt: "While workers of physical cubicles could return home with the peace of mind that their cubicle would stay behind, the Vision Pro ensures that your cubicle is now digitally manifested in $3,500 goggles attached to your head."
     publishedDateTime: 2024-03-11T23:52:00Z
@@ -62,24 +67,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Healthcare pros show interest in Apple's Vision Pro — survey"
-    excerpt: "Up to 75% of US healthcare professionals are open to exploring the use of Vision Pro devices at work, survey claims."
-    publishedDateTime: 2024-03-11T13:45:00Z
-    webUrl: "https://www.computerworld.com/article/3714400/healthcare-pros-show-interest-in-apples-vision-pro-survey.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 21
-  - title: "Apple touts Vision Pro as healthcare tool"
-    excerpt: "Epic Systems, UC San Diego Health, Boston Children's and Cedars-Sinai are launching healthcare-focused apps for Apple's new Vision Pro headset."
-    publishedDateTime: 2024-03-11T18:19:00Z
-    webUrl: "https://www.beckershospitalreview.com/disruptors/apple-touts-vision-pro-as-healthcare-tool.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 21
 
 secured: "RTPqQ/Mnv7BB+PU8RzHJ6zt5RotnFnZRiwcsnLf0hPj2Nkwz0YYxFEP2FNbGVVyiCMXChTsNhXltP5zhJGb+fC1bgxqL8djUhJ1ktZw537++poFPXYTkYJXkUEOAFtGUbuCCQxLgYbaCzIegV7CrtQtPngZfR1BUddJi9wEmqdl5Kxn8WwH4GbXRhja+BUr5DxdNyUDT4+96G8biSgpJ8n0hJ9cKkoK4BfXYJuEYIDdAyxqohMPFGAE07UYfXlVlIsNsnRHfbXbW0+N4RNKsks4OyyFqUaIdrt97G59P9iXmLpdkFwPBT0KucUN/zAGd+LcVMrS7QMN464mjbxgAxHBMTrGmBB8Lx3R6Ouf2lmk=;FnF86CMjRZiQcLktPRMfoQ=="
 ---

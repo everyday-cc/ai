@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Airports using biometric facial recognition in Tennessee"
+    excerpt: "Spokeo looked at which airports are using facial recognition software in Tennessee for security screenings, according to Customs and Border Protection."
+    publishedDateTime: 2024-03-07T14:17:00Z
+    webUrl: "https://clarksvillenow.com/local/airports-using-biometric-facial-recognition-in-tennessee/"
+    type: article
+    provider:
+      name: Clarksville Now
+      domain: clarksvillenow.com
+    quality: 54
+    images:
+      - url: "https://clarksvillenow.sagacom.com/files/2024/03/ee6bd9d74e2a142c2f2daf72351580a3.png"
+        width: 1010
+        height: 720
+        isCached: true
   - title: "Airports using biometric facial recognition in Florida"
     excerpt: "The next time you're in a security line at the airport, you may find that instead of a Transportation Security Administration officer checking your ID, a camera and screen will use biometric facial recognition to confirm your face and photo ID match and ensure your ID isn't fake."
     publishedDateTime: 2024-03-08T10:00:00Z
@@ -73,15 +87,6 @@ related:
     provider:
       name: Centre Daily Times
       domain: centredaily.com
-    quality: 34
-  - title: "Airports using biometric facial recognition in South Carolina"
-    excerpt: "The next time you're in a security line at the airport, you may find that instead of a Transportation Security Administration officer checking your ID, a camera and screen will use biometric facial recognition to confirm your face and photo ID match and ..."
-    publishedDateTime: 2024-03-07T05:17:00Z
-    webUrl: "https://www.myrtlebeachonline.com/news/local/article286376890.html"
-    type: article
-    provider:
-      name: The Sun News
-      domain: myrtlebeachonline.com
     quality: 34
 
 secured: "w6+1AykijKavBUHnHTuiRsbUy6URAOZwbFGS6UZ95Wjz/tsfYQsD0utfft01cJ7g0lci5bxoUU5pCmz5p6QMneAkhVkNMvV0MoR63y8IAETTwDrIscbSHP6HS7TJJTI0Nl1isHQY5bjXGykNgahsR+OPi75bHxqYqPaAQApvAIJb9AgvYoEm+8SCLFHF6ohIWEAXGt2K/PK7mnPlzWEOpj2s+fFzxjXPDfK8yekihOGLNU6ON4OXudA/Ai0614mImaU+1lb9UIDVEULk5NNSy3loDw7pGv53fQZSluTDC184DE2Z3kRoY8wXRu1uj4jgOgr60Dp0N7S3t0Md1jkOV/11EOwDYfyeg5LZQHVyDP+XaLu0MyypiRdLnd0PZshj37bGDxZDy9DEZnT2CATZZ0IoWMd0UZpW7F83NP0px8P1e/T03fpvg7nrTCwyYTmCHW+dbkPoMg2n5eenP/fKIPqAP9COhoFJjHAFk1b2JHJ1qqe0M6QvZQS/vxYiM9zLLJIhieqmGo832WbDUZZ5hQ==;wlLgwGslNXFvXKq5B1t8dQ=="

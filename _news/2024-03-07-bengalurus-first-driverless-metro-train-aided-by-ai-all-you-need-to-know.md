@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/explained/bengaluru-first-driverle
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/bengaluru-first-driverless-metro-yellow-line-ai-9201108/lite/"
 type: article
 quality: 72
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -59,15 +59,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Apple is not the only company backing away from driverless cars"
-    excerpt: "In some regards, Apple had the right idea. The market for EVs has ballooned since its project began and self-driving vehicles are now on the streets. With over $155bn in cash at the plan’s inception, Apple had the funds and reputation to pose a credible threat to the car industry."
-    publishedDateTime: 2024-03-07T05:00:00Z
-    webUrl: "https://www.ft.com/content/0ccd1769-51dd-4fa8-b4ed-3f0548d7a425"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 19
 
 secured: "uo6uZvC2DCSNIeCq0KNRRKPwh3+NvlvQkzhc4ZP1+alBKMnESoK/oWY4AYFazHY2IUK2GUQ+LI9OnU261dVHhGqOayu9x3dGs/ambdszYlUkhtqZItmTJDHuN7QV2x2eZ67tnrHXB9KhUFh5UXXy2DFKXFfY/bdSyVWpWiMvFb9mK0t/k2OEjkkz3LoizTUe+lNDW7EAkH/PpLIQe05kaNDMWaaOFdkQGf4eTd7m/tAKcdCqD1lBJK/dBIuDgskTan2ZoQa7zItiq2r6wkBJbNpipApQcasnRYs4k+kpsfucC4zHrDfZZinlYowOdBrvs5N9KkF8KPSQIQP6oZjROKjSdVQy/MnAEpC2qwYc3GU=;ie22128DbN4U7TSVfC9oJA=="
 ---

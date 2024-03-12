@@ -7,7 +7,7 @@ originalUrl: "https://www.scmp.com/tech/big-tech/article/3254609/broadcom-sees-u
 webUrl: "https://www.scmp.com/tech/big-tech/article/3254609/broadcom-sees-us10-billion-ai-chip-sales-2024-shares-dip"
 type: article
 quality: 101
-heat: 161
+heat: 171
 published: true
 
 provider:
@@ -73,6 +73,20 @@ related:
       - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2024/03/08/aibroadcom080324.JPG"
         width: 860
         height: 573
+        isCached: true
+  - title: "Broadcom soars as AI chip sales push revenue forecasts beyond US$10 billion"
+    excerpt: "Nvidia's rising profitability amid the AI surge has captivated attention from around the globe. However, regarding AI chip revenue, SemiAnalysis analysts have highlighted that Broadcom might be considered the world's second-largest firm."
+    publishedDateTime: 2024-03-12T01:50:00Z
+    webUrl: "https://www.digitimes.com/news/a20240311PD213/broadcom-ai-chips-revenue-nvidia-google.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 69
+    images:
+      - url: "https://img.digitimes.com/newsshow/20240311pd213_files/2_b.jpg"
+        width: 640
+        height: 427
         isCached: true
   - title: "Broadcom’s AI Outlook Is Key When It Reports Earnings Today"
     excerpt: "An analyst estimates Broadcom will generate $8 billion to $9 billlion in AI chip revenue for fiscal 2024."

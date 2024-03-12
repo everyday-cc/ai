@@ -19,6 +19,48 @@ topics:
   - AI
 
 related:
+  - title: "Azure AI Health Bot helps create copilot experiences with healthcare safeguards"
+    excerpt: "With the Azure AI Health Bot infused with generative AI and healthcare safeguards, health organizations can build health data services, transform their medical professionals and patient experiences, discover new insights with the power of machine learning and AI, and manage protected health information"
+    publishedDateTime: 2024-03-11T15:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/azure-ai-health-bot-helps-create-copilot-experiences-with-healthcare-safeguards/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 117
+    images:
+      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/03/MSFT_Azure_MAR06_323612_Blog_Blogheader_240307_V02.png"
+        width: 1260
+        height: 708
+        isCached: true
+  - title: "The potential effects of AI healthcare"
+    excerpt: "It’s easy to assume that artificial intelligence (AI) is only about ChatGPT and other AI chatbots. After all, the most prominent names like Google Gemini and Microsoft Copilot have similar"
+    publishedDateTime: 2024-03-07T10:58:00Z
+    webUrl: "https://technology.inquirer.net/132544/ai-healthcare-impacts"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 54
+    images:
+      - url: "https://technology.inquirer.net/files/2024/02/ai-healthcare-potential-effects.png.jpg"
+        width: 1570
+        height: 884
+        isCached: true
+  - title: "How healthcare organizations should prepare for generative AI"
+    excerpt: "Michael McCallen, managing director in Deloitte’s Health Care Strategy practice, explains why a governance structure is key to successful adoption of artificial intelligence."
+    publishedDateTime: 2024-03-07T18:25:00Z
+    webUrl: "https://www.healthcaredive.com/news/healthcare-generative-ai-adoption-deloitte/709397/"
+    type: article
+    provider:
+      name: Healthcare Dive
+      domain: healthcaredive.com
+    quality: 54
+    images:
+      - url: "https://www.healthcaredive.com/static/img/article-signup.png?320916100822"
+        width: 822
+        height: 822
+        isCached: true
   - title: "Wipro's health care deals get an artificial intelligence booster shot"
     excerpt: "\"Large deals with committed business transformation and business value delivered through AI, automation, and platform modernisation, are in the pipeline,\" said Kumar"
     publishedDateTime: 2024-03-07T10:43:00Z
@@ -30,6 +72,20 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 39
+  - title: "Opinion: How artificial intelligence can make health care safer and more personal"
+    excerpt: "UC San Diego Health was among the first health systems to give doctors the ability to use generative AI to draft messages to their patients"
+    publishedDateTime: 2024-03-12T00:23:00Z
+    webUrl: "https://www.sandiegouniontribune.com/opinion/commentary/story/2024-03-11/opinion-how-artificial-intelligence-can-make-health-care-safer-and-more-personal"
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 36
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/cbecb88/2147483647/strip/true/crop/8032x4217+0+500/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9c%2F0e%2F7a799fa84faf93582ffb9c10a2af%2Fistock-1477458849-on.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "4EUzcOF+VVOg0uVifL2bRI+Wn0TvlPfyfYlVohEdnqXxu11Zli16UxlhhXuYTFa5Y4k5HZzqn2bLjnDJ9EG5VQvKM058gJGSMma5WnINmvcysXFGLnpT5aoPfjhgEw4aVmPVTeFw2DNjBgkpRv8yecvup0qEaJbLgs8Vcx2q3+R6Qr8c1kWBGe9uLOmJVoSSfVrQmh+DKIulKUwhitrs3SfKfl5+nGk5b3Oi7mAU4sN/SguWROl6VXXdtdyEpIpl/um5ZeHgPFY2CuLFkN/EItcb7LYEktPo6f58sGgzv+rHaDfAGb8WBVzUqVuvpPXjQ+gudzQqdEe8qQGy8EUtkIHK4bQKjKsHOKBJJkTEqPMbL2hSwrPMQooMJkCn5zuhV5ky9pEZhm8iYnQucA2/VNZI/P9k+idQdD+SqpgxYi9x7no2iYP5OqXMTL75++5Gmd7/Msn1rS7BIRfuHgcsMQAJxRx9El0lhZHqclDwCHZyN4NSR4sYYM/vieIX3UjnQOWliq2D071KHpFFaNgEmw==;UKGuPsaLJ58D+gEjLw2tJA=="
 ---

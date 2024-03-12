@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Meta AI
 
 images:
   - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.2105_3135.jpg"

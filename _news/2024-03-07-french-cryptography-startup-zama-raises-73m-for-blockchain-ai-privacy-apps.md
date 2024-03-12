@@ -34,29 +34,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "French Startup Raises $73 Million for Blockchain, AI Privacy"
-    excerpt: "Paris-based startup Zama has raised $73 million to further develop its cryptography technology aimed at enhancing data privacy for both blockchain and artificial-intelligence projects."
-    publishedDateTime: 2024-03-07T05:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2024-03-07/french-startup-raises-73-million-for-blockchain-ai-privacy"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
-  - title: "NPCI joins hands with IISc for joint research on blockchain, AI tech"
-    excerpt: "The collaboration includes the establishment of NPCI-IISc Centre of Excellence for Deep Tech Research & Development. It focuses on scalable blockchain platforms, multi-modal analytics, neural networks,"
-    publishedDateTime: 2024-03-07T05:27:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/npci-joins-hands-with-iisc-for-joint-research-on-blockchain-ai-tech/108286817"
-    type: article
-    provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 39
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-108286817,imgsize-9466,width-1200,height=765,overlay-etcio/artificial-intelligence/npci-joins-hands-with-iisc-for-joint-research-on-blockchain-ai-tech.jpg"
-        width: 1200
-        height: 765
-        isCached: true
 
 secured: "crbKbYoZ2fjm6e6B1/N5tYKmYoeN3+bC2WOvziA8DJSZP8ligOMMVy2ABgyZVka1gMQQJZBSGE8eUrBhaFx31EUoHJZN8kT4czAdliWbiubTNCprewI41dn6xjwfWq5MKPp379smeRLOVPXRnkYlrwlLL0sLzYW5aJJLsPkFNOch6aVRvE4bRub6dHMceyJvMpJ6AlidtCYp2HziNgA0gOq2wFMTLLvGJk8/y/WSUz2jNKrGEd80at7SmxkTlPtjednXrFq4z7qGy7Lk1enGGrm0fyz7X65MxC1foC1EEoTp56r+EPP34fzM8FzabhzPMdZutNiM4PdNt+2fmn3rdO8Dbfy1EjqxDhtjq/XRoVSTQbA8rxkunXvPbB3r0Qc39AdHju434RikHPS+MalV1BLp7tUg32wjgf4PzvQRvs7lqEVUyLcL/ddNSftfLHnb/5dXuaj0abjXSJ+EOlH9r2W6bFf4lJVyQ2JT3+8m3uhxkZRXdlhe0zZU+EdA8pHi34fGbOrFjSEZWSyEHuqj7g==;48sn0IzQTGcSe0s5ShabWw=="
 ---

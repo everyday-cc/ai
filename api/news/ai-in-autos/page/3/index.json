@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-19-toyota-to-build-artificial-intelligence-based-driving-systems-in-5-years.md",
+      "title": "Toyota to build artificial intelligence-based driving systems in 5 years",
+      "excerpt": "as competition to develop self-driving cars intensifies. Earlier this month, home rival Honda Motor Co said it was setting up a new research body which would focus on artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/business/business-news/2016/06/20/toyota-to-build-artificial-intelligence-based-driving-systems-in-5-years/",
+      "originalUrl": "https://www.thestar.com.my/business/business-news/2016/06/20/toyota-to-build-artificial-intelligence-based-driving-systems-in-5-years/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-19T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-19-driverless-vehicles-could-soon-be-used-to-deliver-aid-in-conflict-zones.md",
       "title": "Driverless vehicles could soon be used to deliver aid in conflict zones",
       "excerpt": "Driverless vehicles, also known as robo-cars, could soon be used to deliver aid to the world’s most dangerous conflict zones. Unveiling the car at the Munich Security Conference at the weekend ...",
@@ -1311,49 +1354,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-10-arm-ceo-rene-haas-calls-ai-the-most-profound-opportunity-in-our-lifetimes-1-stock-ill-be-buying-hand-over-fist-if-hes-right.md",
-      "title": "Arm CEO Rene Haas Calls AI the \"Most Profound Opportunity in Our Lifetimes.\" 1 Stock I'll Be Buying Hand Over Fist if He's Right.",
-      "excerpt": "Detailed price information for Arm Holdings Plc ADR (ARM-Q) from The Globe and Mail including charting and trades.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/ARM/pressreleases/23983524/arm-ceo-rene-haas-calls-ai-the-most-profound-opportunity-in-our-lifetimes-1-stock-ill-be-buying-hand-over-fist-if-hes-right/",
-      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/ARM/pressreleases/23983524/arm-ceo-rene-haas-calls-ai-the-most-profound-opportunity-in-our-lifetimes-1-stock-ill-be-buying-hand-over-fist-if-hes-right/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://barchart-news-media-prod.aws.barchart.com/FC/dee37551cf25460f0f7944f0e8e7c6f0/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f764740%252fa-person-pushing-a-virtual-ai-button-surrounded-by-various-technology-icons.jpg%26amp%3Bw%3D700",
-          "width": 3000,
-          "height": 1714,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-10T02:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

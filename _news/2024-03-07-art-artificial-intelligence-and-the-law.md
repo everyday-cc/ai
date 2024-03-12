@@ -96,34 +96,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "The potential effects of AI healthcare"
-    excerpt: "It’s easy to assume that artificial intelligence (AI) is only about ChatGPT and other AI chatbots. After all, the most prominent names like Google Gemini and Microsoft Copilot have similar"
-    publishedDateTime: 2024-03-07T10:58:00Z
-    webUrl: "https://technology.inquirer.net/132544/ai-healthcare-impacts"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 54
-    images:
-      - url: "https://technology.inquirer.net/files/2024/02/ai-healthcare-potential-effects.png.jpg"
-        width: 1570
-        height: 884
-        isCached: true
-  - title: "How healthcare organizations should prepare for generative AI"
-    excerpt: "Michael McCallen, managing director in Deloitte’s Health Care Strategy practice, explains why a governance structure is key to successful adoption of artificial intelligence."
-    publishedDateTime: 2024-03-07T18:25:00Z
-    webUrl: "https://www.healthcaredive.com/news/healthcare-generative-ai-adoption-deloitte/709397/"
-    type: article
-    provider:
-      name: Healthcare Dive
-      domain: healthcaredive.com
-    quality: 54
-    images:
-      - url: "https://www.healthcaredive.com/static/img/article-signup.png?320916100822"
-        width: 822
-        height: 822
-        isCached: true
   - title: "AI Bias In the Spotlight On International Women’s Day"
     excerpt: "What impact does AI bias have on women and girls? What can people do to increase female participation in the AI field? These are some of the questions the"
     publishedDateTime: 2024-03-08T16:00:00Z

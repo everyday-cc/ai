@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gadgets360.com/cryptocurrency/news/india-blockchain-ai-r
 cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/cryptocurrency/news/india-blockchain-ai-research-npci-iisc-mou-5205973/amp"
 type: article
 quality: 59
-heat: 92
+heat: 72
 published: true
 
 provider:
@@ -28,29 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "French Startup Raises $73 Million for Blockchain, AI Privacy"
-    excerpt: "Paris-based startup Zama has raised $73 million to further develop its cryptography technology aimed at enhancing data privacy for both blockchain and artificial-intelligence projects."
-    publishedDateTime: 2024-03-07T05:00:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2024-03-07/french-startup-raises-73-million-for-blockchain-ai-privacy"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
-  - title: "NPCI joins hands with IISc for joint research on blockchain, AI tech"
-    excerpt: "The collaboration includes the establishment of NPCI-IISc Centre of Excellence for Deep Tech Research & Development. It focuses on scalable blockchain platforms, multi-modal analytics, neural networks,"
-    publishedDateTime: 2024-03-07T05:27:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/npci-joins-hands-with-iisc-for-joint-research-on-blockchain-ai-tech/108286817"
-    type: article
-    provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 39
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-108286817,imgsize-9466,width-1200,height=765,overlay-etcio/artificial-intelligence/npci-joins-hands-with-iisc-for-joint-research-on-blockchain-ai-tech.jpg"
-        width: 1200
-        height: 765
-        isCached: true
   - title: "French Cryptography Startup Zama Raises $73M for Blockchain, AI Privacy Apps"
     excerpt: "French cryptography startup Zama has raised $73 million in a Series A funding round led by Multicoin Capital and Protocol Labs."
     publishedDateTime: 2024-03-07T06:25:00Z

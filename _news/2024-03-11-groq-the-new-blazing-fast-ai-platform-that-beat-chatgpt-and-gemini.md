@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "28 of the best AI and ChatGPT courses you can take online for free"
-    excerpt: "TL;DR: A wide range of online AI and ChatGPT courses are available to take for free on Udemy."
-    publishedDateTime: 2024-03-07T05:00:00Z
-    webUrl: "https://mashable.com/article/free-ai-chatgpt-courses-march"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 84
-    images:
-      - url: "https://helios-i.mashable.com/imagery/articles/00utc2FpFx7bHiQyoOQjXux/hero-image.fill.size_1200x675.v1709736229.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "These 6 prompt engineering courses can you optimize your use of ChatGPT and other generative AI tools"
     excerpt: "Google Cloud’s free introductory training on generative AI seeks to guide users through the fundamentals of the technology—from large language models to responsible ... just analyze data but understand it, translate it, and incorporate it into strategy ..."
     publishedDateTime: 2024-03-08T14:58:00Z

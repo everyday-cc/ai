@@ -40,20 +40,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "28 of the best AI and ChatGPT courses you can take online for free"
-    excerpt: "TL;DR: A wide range of online AI and ChatGPT courses are available to take for free on Udemy."
-    publishedDateTime: 2024-03-07T05:00:00Z
-    webUrl: "https://mashable.com/article/free-ai-chatgpt-courses-march"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 84
-    images:
-      - url: "https://helios-i.mashable.com/imagery/articles/00utc2FpFx7bHiQyoOQjXux/hero-image.fill.size_1200x675.v1709736229.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Groq: The new blazing-fast AI platform that beat ChatGPT and Gemini"
     excerpt: "Groq is the ‘fast and furious’ of the LLM world offering a staggering 500 tokens per second for smaller models with an output speed of 2.5 seconds"
     publishedDateTime: 2024-03-11T08:34:00Z

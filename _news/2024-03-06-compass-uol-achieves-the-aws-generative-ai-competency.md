@@ -3,8 +3,8 @@ category: news
 title: "Compass UOL Achieves the AWS Generative AI Competency"
 excerpt: "Achieving the AWS Generative AI Competency differentiates Compass UOL as an AWS Partner that has demonstrated technical proficiency and proven customer success in solving optimization and efficiency challenges in business processes and driving automation and intelligence across the entire customer operational journey."
 publishedDateTime: 2024-03-06T14:56:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-compass-uol-achieves-aws-generative-ai-competency-/2024/03/06/9974035.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-compass-uol-achieves-aws-generative-ai-competency-/2024/03/06/9974035.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2024/03/06/9974035.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2024/03/06/9974035.htm"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 627
     isCached: true
 
-secured: "LKFT2tvtD9Jp1YXVRUTxLU35UHMv6ZuhuF3wawjFs0JV9dOggZhm/BuUqlr542LPl3GymFSQ1Fn3KOeGIHMAxvCBtEoIwL0iHsiH7rvYHyKTJxc6ClkyZMSKHKnekOjb+fmfNe5yaZrS3OHDKtPGW04B2Bfnae8fKv8LgyYvmxIbenkQUUWIkHg0XZytFA9OAneTCAT6uZNuL0rSI7/tdIbhYpyHAlXcGT0z9W1ySHEN+n6Fs3BYL8fa9T42vDETz0JDG+xXIShmPxT3muRLb3Nu3HqEot9LIg31ahDrodKmC9MVKyW3nUGcUdHvQARm+LaduohzFCDRNK4jI3WYQa89BJXnjYGsT17Vo6dfC8s=;ZSaQctPtb2CtAq0BPDrx+Q=="
+secured: "6ymzp7nVIv8Weh4emCjC0JUW8n4jm+FEhxUPNThTo4PfKzzKAL6JZu6W87397QIe0tYM4YEullnSjiULfH5+O0wHvfbykduVOPCGksQSE8gpOOnlv8uWHmWG1HUV1UCeplwBfGDMVq9q76S/1rtoRD6Loh8SG8IMJkFHqQkTsiHs0e/GLAUOhd45nYfVQMx/80ZCizBRlN4P6dHo2fWjFCm+Vwautf6X75N2xUrLcxgHYkPNJJxVtga82cQ/FTbFrp/HXkaZZZ3Zagpu9QiQ+IUNin4PoupOLo3jFsOXYItoV7aysZWhc6xOMUxwlwCYrf/N1OfZyGZhyxNH8w5rauApk3XOqsUIrXKuYggSbPI=;VAJkJLrgYDcoDicb+Jv1LA=="
 ---
 

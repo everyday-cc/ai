@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 672
         isCached: true
-  - title: "Cognizant Unveils Advanced Artificial Intelligence Lab to Accelerate AI Research and Innovation"
-    excerpt: "Cognizant (Nasdaq: CTSH), a leading global technology company, today announced the launch of an Advanced Artificial Intelligence (AI) Lab. The lab, based in San Francisco, will focus on advancing the science and practice of AI through innovation and development of intellectual property and AI-enablement technologies."
-    publishedDateTime: 2024-03-07T05:16:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/03/07/9974406.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 40
-    images:
-      - url: "https://mma.prnewswire.com/media/2356554/Cognizant_Babak_Hodjat.jpg"
-        width: 376
-        height: 400
-        isCached: true
   - title: "Voters likely pass facial recognition freedoms for police in San Francisco"
     excerpt: "A ballot proposition in San Francisco to reduce the regulation of police facial recognition use, just as a bill in the state legislature to add limits advances."
     publishedDateTime: 2024-03-07T20:46:00Z

@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Airports using biometric facial recognition in Tennessee"
+    excerpt: "Spokeo looked at which airports are using facial recognition software in Tennessee for security screenings, according to Customs and Border Protection."
+    publishedDateTime: 2024-03-07T14:17:00Z
+    webUrl: "https://clarksvillenow.com/local/airports-using-biometric-facial-recognition-in-tennessee/"
+    type: article
+    provider:
+      name: Clarksville Now
+      domain: clarksvillenow.com
+    quality: 54
+    images:
+      - url: "https://clarksvillenow.sagacom.com/files/2024/03/ee6bd9d74e2a142c2f2daf72351580a3.png"
+        width: 1010
+        height: 720
+        isCached: true
   - title: "Airports using biometric facial recognition in Florida"
     excerpt: "The next time you're in a security line at the airport, you may find that instead of a Transportation Security Administration officer checking your ID, a camera and screen will use biometric facial recognition to confirm your face and photo ID match and ensure your ID isn't fake."
     publishedDateTime: 2024-03-08T10:00:00Z
@@ -64,15 +78,6 @@ related:
     provider:
       name: Centre Daily Times
       domain: centredaily.com
-    quality: 34
-  - title: "Airports using biometric facial recognition in South Carolina"
-    excerpt: "The next time you're in a security line at the airport, you may find that instead of a Transportation Security Administration officer checking your ID, a camera and screen will use biometric facial recognition to confirm your face and photo ID match and ..."
-    publishedDateTime: 2024-03-07T05:17:00Z
-    webUrl: "https://www.myrtlebeachonline.com/news/local/article286376890.html"
-    type: article
-    provider:
-      name: The Sun News
-      domain: myrtlebeachonline.com
     quality: 34
   - title: "Airports using biometric facial recognition in Texas"
     excerpt: "Spokeo looked at which airports are using facial recognition software in Texas for security screenings, according to Customs and Border Protection."

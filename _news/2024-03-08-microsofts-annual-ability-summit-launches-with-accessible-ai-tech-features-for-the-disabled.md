@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Quisitive Awarded the AI and Machine Learning in Microsoft Azure Specialization"
-    excerpt: "Quisitive Technology Solutions Inc. (“Quisitive” or the “Company”) (TSXV: QUIS, OTCQX: QUISF), a premier Microsoft solutions provider, announced it has earned the prestigious AI and Machine Learning in Microsoft Azure Specialization."
-    publishedDateTime: 2024-03-07T14:30:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization-1033142131"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 92
   - title: "Sonata Software integrates its AI solution with Microsoft Azure AI"
     excerpt: "Sonata Software has announced the integration of its Harmoni.AI with Microsoft Azure AI service. Sonata’s AI offering provides industry solutions, service delivery platforms, and accelerators. Using Microsoft Azure AI services, Sonata Harmoni.AI will ..."
     publishedDateTime: 2024-03-08T06:14:00Z
@@ -47,15 +38,6 @@ related:
       name: Business Line
       domain: thehindubusinessline.com
     quality: 69
-  - title: "After leaks, Microsoft confirms Surface, Windows AI event for March"
-    excerpt: "Consumers may have their eyes out for new laptops and tablets, but it seems like Microsoft only has eyes for AI."
-    publishedDateTime: 2024-03-07T14:43:00Z
-    webUrl: "https://www.pcworld.com/article/2259163/microsoft-sets-march-event-date-for-new-surface-devices.html"
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 66
   - title: "Sonata Software integrates Sonata Harmoni.AI with Microsoft Azure AI service"
     excerpt: "Sonata Software in a significant step to accelerate the adoption of responsible-first AI across enterprises has announced the integration of Sonata Harmoni.AI with Microsoft Azure AI service. This integration complements Sonata's collaboration with Microsoft Fabric and its position as a Microsoft AI Partner Council member."
     publishedDateTime: 2024-03-07T11:00:00Z
@@ -67,6 +49,22 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 66
+  - title: "Microsoft hosts ‘AI: Egypt Pathway to a New Frontier’ summit to advance AI deployment in Egypt"
+    excerpt: "AI: Egypt Pathway to a New Frontier featured opening remarks by several esteemed dignitaries including the Honorable Herro Mustafa Garg, US Ambassador to Egypt; Dr. Rania Al-Mashat, Minister of International Cooperation; Dr. Amr Talaat, Minister of Communications and Information Technology, and renowned Egyptologist Dr. Khaled El-Anany."
+    publishedDateTime: 2024-03-07T07:52:00Z
+    webUrl: "https://www.zawya.com/en/press-release/events-and-conferences/microsoft-hosts-ai-egypt-pathway-to-a-new-frontier-summit-to-advance-ai-deployment-in-egypt-pxbdrwq0"
+    ampWebUrl: "https://www.zawya.com/en/press-release/events-and-conferences/microsoft-hosts-ai-egypt-pathway-to-a-new-frontier-summit-to-advance-ai-deployment-in-egypt-pxbdrwq0?amp=1"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/events-and-conferences/microsoft-hosts-ai-egypt-pathway-to-a-new-frontier-summit-to-advance-ai-deployment-in-egypt-pxbdrwq0?amp=1"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 62
+    images:
+      - url: "https://static.zawya.com/view/acePublic/alias/contentid/MWI5ODg1MTMtNjUzNC00/0/microsofthostsai-egyptpathwaytoanewfrontiersummittoadvanceaideploymentinegypt-jpg.jpeg?f=3%3A2"
+        width: 898
+        height: 599
+        isCached: true
   - title: "Quisitive Awarded the AI and Machine Learning in Microsoft Azure Specialization"
     excerpt: "announced it has earned the prestigious AI and Machine Learning in Microsoft Azure Specialization. The AI and Machine Learning specialization recognizes partners who demonstrate expertise in the ..."
     publishedDateTime: 2024-03-07T16:32:00Z
@@ -119,6 +117,24 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 44
+  - title: "Microsoft Chief Accessibility Officer Jenny Lay-Flurrie Talks This Year’s Ability Summit, Responsible AI In Interview"
+    excerpt: "Flurrie and I reconnected via videoconference earlier this week to discuss this year’s edition of Microsoft’s Ability Summit."
+    publishedDateTime: 2024-03-07T16:15:00Z
+    webUrl: "https://www.forbes.com/sites/stevenaquino/2024/03/07/microsoft-chief-accessibility-officer-jenny-lay-flurrie-talks-this-years-ability-summit-responsible-ai-in-interview/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 41
+  - title: "AI desperately needs a hardware revolution and the solution might be inside your head"
+    excerpt: "The future of AI hardware may lie in the development of brain cells as computing machines as they offer significant advantages in power consumption and processing speeds."
+    publishedDateTime: 2024-03-07T12:19:00Z
+    webUrl: "https://www.zdnet.com/article/ai-desperately-needs-a-hardware-revolution-and-the-solution-might-be-inside-your-head/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 40
   - title: "HIMSS24: Microsoft launches AI group with 16 health systems"
     excerpt: "Microsoft said the group would create a process where providers can register for the usage of AI in clinical settings and offer tools to enable measurement of outcomes associated with the technology."
     publishedDateTime: 2024-03-11T14:28:00Z

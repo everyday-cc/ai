@@ -26,22 +26,68 @@ images:
     isCached: true
 
 related:
-  - title: "Opinion: AI's Impact On 2024 Lok Sabha Polls-Are We Prepared?"
-    excerpt: "and the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021. There are growing concerns that AI will be exploited to spread both true and false information during elections to sway public opinion. Experts warn that ..."
-    publishedDateTime: 2024-03-08T12:21:00Z
-    webUrl: "https://www.ndtv.com/opinion/ais-impact-on-2024-lok-sabha-polls-are-we-prepared-5200770"
-    ampWebUrl: "https://www.ndtv.com/opinion/ais-impact-on-2024-lok-sabha-polls-are-we-prepared-5200770/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/opinion/ais-impact-on-2024-lok-sabha-polls-are-we-prepared-5200770/amp/1"
+  - title: "Azure AI Health Bot helps create copilot experiences with healthcare safeguards"
+    excerpt: "With the Azure AI Health Bot infused with generative AI and healthcare safeguards, health organizations can build health data services, transform their medical professionals and patient experiences, discover new insights with the power of machine learning and AI, and manage protected health information"
+    publishedDateTime: 2024-03-11T15:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/azure-ai-health-bot-helps-create-copilot-experiences-with-healthcare-safeguards/"
     type: article
     provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 59
+      name: Microsoft
+      domain: microsoft.com
+    quality: 117
     images:
-      - url: "https://c.ndtvimg.com/2019-05/rmragapg_election-commission-reuters_625x300_05_May_19.jpg?im=Resize=(1230,900)"
-        width: 1230
-        height: 757
+      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/03/MSFT_Azure_MAR06_323612_Blog_Blogheader_240307_V02.png"
+        width: 1260
+        height: 708
         isCached: true
+  - title: "The potential effects of AI healthcare"
+    excerpt: "It’s easy to assume that artificial intelligence (AI) is only about ChatGPT and other AI chatbots. After all, the most prominent names like Google Gemini and Microsoft Copilot have similar"
+    publishedDateTime: 2024-03-07T10:58:00Z
+    webUrl: "https://technology.inquirer.net/132544/ai-healthcare-impacts"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 54
+    images:
+      - url: "https://technology.inquirer.net/files/2024/02/ai-healthcare-potential-effects.png.jpg"
+        width: 1570
+        height: 884
+        isCached: true
+  - title: "How healthcare organizations should prepare for generative AI"
+    excerpt: "Michael McCallen, managing director in Deloitte’s Health Care Strategy practice, explains why a governance structure is key to successful adoption of artificial intelligence."
+    publishedDateTime: 2024-03-07T18:25:00Z
+    webUrl: "https://www.healthcaredive.com/news/healthcare-generative-ai-adoption-deloitte/709397/"
+    type: article
+    provider:
+      name: Healthcare Dive
+      domain: healthcaredive.com
+    quality: 54
+    images:
+      - url: "https://www.healthcaredive.com/static/img/article-signup.png?320916100822"
+        width: 822
+        height: 822
+        isCached: true
+  - title: "Wipro's health care deals get an artificial intelligence booster shot"
+    excerpt: "\"Large deals with committed business transformation and business value delivered through AI, automation, and platform modernisation, are in the pipeline,\" said Kumar"
+    publishedDateTime: 2024-03-07T10:43:00Z
+    webUrl: "https://www.business-standard.com/companies/news/wipro-has-a-robust-pipeline-of-large-ai-led-deals-in-healthcare-vertical-124030700642_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/companies/news/wipro-has-a-robust-pipeline-of-large-ai-led-deals-in-healthcare-vertical-124030700642_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/news/wipro-has-a-robust-pipeline-of-large-ai-led-deals-in-healthcare-vertical-124030700642_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 39
+  - title: "Wipro's health care deals get an artificial intelligence booster shot"
+    excerpt: "Information technology (IT) giant Wipro has a strong pipeline of large artificial intelligence (AI)-led deals in the health care vertical, according to a senior company executive. Health care stands as the third-largest vertical for Wipro,"
+    publishedDateTime: 2024-03-08T16:16:00Z
+    webUrl: "https://www.rediff.com/business/report/wipros-health-care-deals-get-an-artificial-intelligence-booster-shot/20240308.htm"
+    type: article
+    provider:
+      name: rediff.com
+      domain: rediff.com
+    quality: 19
 
 secured: "amwbLtdc7UFlTfOa3nrAZhTd455w43oiD0mAewXei+Eh9n/PzH1VxQMBunMDt9S7O0WRg5ohF2eSqBl2KvvpSJsshO4+sJKvzv2/npiRfCy4NYlqv7Zx1rd5fj9BQqJrznyKzMgqcdpojR7BLrEB4kjo/BINzb4pwrtRYssboA7XIJ/3QXoiHOvvmsVo/4F9Gyw9sHlZcJN0/dnmGx1yiSCqQnkVFnKg3PnwOoyXR+UPKzWAWHH6QL2W7NZXGwpQi8GZZyvEqns3SIlIVPnkVCx96Bn2ac8BeOHDUH3dVOOWmJAwN57LUcAhcSe9VwMXbiBSSN8InWn/Q5xLdt6oF56d4z0A4CgUQtQ6Z/8sfForBVGdvhaNRSWdI6ul0BLjZI7JRr8Vqhvf3wnWU70pcAjQBVFGZ19wWhIY8KPF/wmWSVUjftd7m4V6e/AHzkJsPT8s1JRkUM18wERYSvMeYuxaHSp8qPWE2B9pfqxPGhAA0O8j/9UNPJ41hpt0v8l+tsxoCE0IF+PLSXT70WNIxQ==;0bVObkaiLpm8CHlnI2Ejbg=="
 ---

@@ -83,6 +83,20 @@ related:
         width: 860
         height: 573
         isCached: true
+  - title: "Broadcom soars as AI chip sales push revenue forecasts beyond US$10 billion"
+    excerpt: "Nvidia's rising profitability amid the AI surge has captivated attention from around the globe. However, regarding AI chip revenue, SemiAnalysis analysts have highlighted that Broadcom might be considered the world's second-largest firm."
+    publishedDateTime: 2024-03-12T01:50:00Z
+    webUrl: "https://www.digitimes.com/news/a20240311PD213/broadcom-ai-chips-revenue-nvidia-google.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 69
+    images:
+      - url: "https://img.digitimes.com/newsshow/20240311pd213_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "Broadcom revenue beats estimates as AI powers demand, investors still unimpressed"
     excerpt: "Tech conglomerate Broadcom beat market estimates for first-quarter revenue on Thursday, as cloud providers continue to upgrade data centers to support AI, helping drive demand for its advanced networking chips."
     publishedDateTime: 2024-03-08T02:40:00Z

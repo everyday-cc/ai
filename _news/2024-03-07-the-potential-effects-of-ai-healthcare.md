@@ -25,76 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "The Integral Role Of Robotics, AI And Automation In Healthcare"
-    excerpt: "With the advent of robotics, automation and artificial intelligence (AI), we are not merely witnessing a change in how healthcare is delivered; we are at the dawn of a new era where the boundaries of what is possible are being redefined."
-    publishedDateTime: 2024-03-07T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/03/07/the-integral-role-of-robotics-ai-and-automation-in-healthcare/"
+  - title: "Azure AI Health Bot helps create copilot experiences with healthcare safeguards"
+    excerpt: "With the Azure AI Health Bot infused with generative AI and healthcare safeguards, health organizations can build health data services, transform their medical professionals and patient experiences, discover new insights with the power of machine learning and AI, and manage protected health information"
+    publishedDateTime: 2024-03-11T15:00:00Z
+    webUrl: "https://azure.microsoft.com/en-us/blog/azure-ai-health-bot-helps-create-copilot-experiences-with-healthcare-safeguards/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 116
+      name: Microsoft
+      domain: microsoft.com
+    quality: 117
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65e8cb84703655ecfeca6379/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1346
-        height: 900
-        isCached: true
-  - title: "Inflection's Pi AI aims to provide information and a shoulder to cry on"
-    excerpt: "Designed to be empathetic, helpful, and safe, Pi also boasts improved skills in such areas as coding, math, and real-time results via the latest flavor of its large language model."
-    publishedDateTime: 2024-03-07T13:49:00Z
-    webUrl: "https://www.zdnet.com/article/inflections-pi-ai-aims-to-provide-information-and-a-shoulder-to-cry-on/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/inflections-pi-ai-aims-to-provide-information-and-a-shoulder-to-cry-on/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/inflections-pi-ai-aims-to-provide-information-and-a-shoulder-to-cry-on/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/646e8a0b656f649933bc681ad1d64f1700260d22/2024/03/07/032e98aa-541d-4e9a-8343-5bed40f840b7/gettyimages-1317415735.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "The Role Of AI In Solving The Volume-Cost Equation In Customer Service"
-    excerpt: "It’s important to recognize that generative AI is not the catch-all answer to the volume-cost equation and that everything becomes immediately balanced once implemented."
-    publishedDateTime: 2024-03-07T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/07/the-role-of-ai-in-solving-the-volume-cost-equation-in-customer-service/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/07/the-role-of-ai-in-solving-the-volume-cost-equation-in-customer-service/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/07/the-role-of-ai-in-solving-the-volume-cost-equation-in-customer-service/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6452660f5ec3aaf210ee1af0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "Reshape Automation aims to reduce barriers of robotics adoption"
-    excerpt: "Reshape Automation is launching an end-to-end platform for customers to discover, design, purchase, and get support for automation projects."
-    publishedDateTime: 2024-03-07T14:56:00Z
-    webUrl: "https://www.therobotreport.com/reshape-automation-aims-to-reduce-barriers-of-robotics-adoption/"
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 79
-  - title: "Human Creativity in the Age of Artificial Intelligence"
-    excerpt: "In 2015, my friend, Jim Clark, invited me to attend what was then a groundbreaking conversation at the World Summit on Technological Unemployment, hosted at the TIME magazine Conference Center. Jim laid it out pretty clearly: the tech revolution was set to ..."
-    publishedDateTime: 2024-03-11T02:11:00Z
-    webUrl: "https://www.rollingstone.com/culture-council/articles/human-creativity-the-age-of-artificial-intelligence-1234983648/"
-    ampWebUrl: "https://www.rollingstone.com/culture-council/articles/human-creativity-the-age-of-artificial-intelligence-1234983648/amp/"
-    cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/culture-council/articles/human-creativity-the-age-of-artificial-intelligence-1234983648/amp/"
-    type: article
-    provider:
-      name: Rolling Stone
-      domain: rollingstone.com
-    quality: 57
-    images:
-      - url: "https://www.rollingstone.com/wp-content/uploads/2024/03/human_creativity_in_the_age_of_artificial_intelligence-.jpg?w=1600&h=900&crop=1"
-        width: 1600
-        height: 900
+      - url: "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/03/MSFT_Azure_MAR06_323612_Blog_Blogheader_240307_V02.png"
+        width: 1260
+        height: 708
         isCached: true
   - title: "How healthcare organizations should prepare for generative AI"
     excerpt: "Michael McCallen, managing director in Deloitte’s Health Care Strategy practice, explains why a governance structure is key to successful adoption of artificial intelligence."
@@ -110,52 +53,40 @@ related:
         width: 822
         height: 822
         isCached: true
-  - title: "Art, artificial intelligence and the law"
-    excerpt: "As artificial intelligence (AI) makes rapid strides and art generated by using AI becomes more and more sophisticated, the legal regimen might need to be updated sooner than was previously assessed, argues ."
-    publishedDateTime: 2024-03-07T10:21:00Z
-    webUrl: "https://theleaflet.in/art-artificial-intelligence-and-the-law/"
+  - title: "Wipro's health care deals get an artificial intelligence booster shot"
+    excerpt: "\"Large deals with committed business transformation and business value delivered through AI, automation, and platform modernisation, are in the pipeline,\" said Kumar"
+    publishedDateTime: 2024-03-07T10:43:00Z
+    webUrl: "https://www.business-standard.com/companies/news/wipro-has-a-robust-pipeline-of-large-ai-led-deals-in-healthcare-vertical-124030700642_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/companies/news/wipro-has-a-robust-pipeline-of-large-ai-led-deals-in-healthcare-vertical-124030700642_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/news/wipro-has-a-robust-pipeline-of-large-ai-led-deals-in-healthcare-vertical-124030700642_1.html"
     type: article
     provider:
-      name: theleaflet
-      domain: theleaflet.in
+      name: Business Standard
+      domain: business-standard.com
     quality: 39
+  - title: "Opinion: How artificial intelligence can make health care safer and more personal"
+    excerpt: "UC San Diego Health was among the first health systems to give doctors the ability to use generative AI to draft messages to their patients"
+    publishedDateTime: 2024-03-12T00:23:00Z
+    webUrl: "https://www.sandiegouniontribune.com/opinion/commentary/story/2024-03-11/opinion-how-artificial-intelligence-can-make-health-care-safer-and-more-personal"
+    type: article
+    provider:
+      name: San Diego Union-Tribune
+      domain: sandiegouniontribune.com
+    quality: 36
     images:
-      - url: "https://theleaflet.in/wp-content/uploads/2024/03/AI-scaled.jpg"
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/cbecb88/2147483647/strip/true/crop/8032x4217+0+500/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F9c%2F0e%2F7a799fa84faf93582ffb9c10a2af%2Fistock-1477458849-on.jpg"
         width: 1200
-        height: 586
+        height: 630
         isCached: true
-  - title: "AI Bias In the Spotlight On International Women’s Day"
-    excerpt: "What impact does AI bias have on women and girls? What can people do to increase female participation in the AI field? These are some of the questions the"
-    publishedDateTime: 2024-03-08T16:00:00Z
-    webUrl: "https://www.datanami.com/2024/03/08/ai-bias-in-the-spotlight-on-international-womens-day/"
+  - title: "Wipro's health care deals get an artificial intelligence booster shot"
+    excerpt: "Information technology (IT) giant Wipro has a strong pipeline of large artificial intelligence (AI)-led deals in the health care vertical, according to a senior company executive. Health care stands as the third-largest vertical for Wipro,"
+    publishedDateTime: 2024-03-08T16:16:00Z
+    webUrl: "https://www.rediff.com/business/report/wipros-health-care-deals-get-an-artificial-intelligence-booster-shot/20240308.htm"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2024/03/break_the_bias_shutterstock_NStafeeva.jpg"
-        width: 1000
-        height: 513
-        isCached: true
-  - title: "Spectral AI Announces Intellectual Property Subsidiary to Focus on the Broader AI Healthcare Ecosystem"
-    excerpt: "Spectral AI remains committed to advancing AI-driven solutions in healthcare, including opportunities and strategic developments fostered by its new subsidiary."
-    publishedDateTime: 2024-03-07T13:27:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/03/07/9974571.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 18
-  - title: "Navigating the Intersection of Intellectual Property and Artificial Intelligence"
-    excerpt: "In today's digital landscape, the convergence of intellectual property (IP) and artificial intelligence (AI) presents both unparalleled opportunities and unique challenges for businesses across industries. As AI continues to revolutionize how companies ..."
-    publishedDateTime: 2024-03-11T00:01:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/navigating-the-intersection-of-5064154/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 12
+      name: rediff.com
+      domain: rediff.com
+    quality: 19
 
 secured: "B3t0yUedqD5P00euc4/eu60EiV3F5NBgWsmG/iQiwtF2RurAdMzuW2Y9XkQ9z4go7AgbWiw625BJVAFfvEPU7wOxN6D/dHnGnjoGTDMk2qky4TQCFhS1MaAQ8S+6Duu1XuIdOgVMzvEX0Xc6ZDEMYWQPVPUKVmToon2cLuk8hgzkfFxfoyeFTTTaWwTVVjjTmSdZxObis9x55DmgBBQjyC3/Fj4/MLiK2iscbHshEp0Z6eDgJXL1omc4U7nbhZhcrfCRa+pQ45IKzoq3VWVs7HY5rB9WpUtSPeeaoSdJ8dPX2j5DsmSVwIepYcCOSUNn1jfUGngttQjMY/ALJkNcuIeX4k2k2AF60bwsxlyjFwM=;pkEDcrRSvjID2Sdd59TgVg=="
 ---
