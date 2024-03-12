@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-21-neural-networks-made-of-light-jena-research-team-develops-ai-system-in-optical-fibers.md",
+      "title": "Neural Networks Made of Light: Jena Research Team Develops AI System in Optical Fibers",
+      "excerpt": "Artificial intelligence is pivotal in advancing biotechnology ... This fiber is capable of performing the tasks of various neural networks—at the speed of light. \"We utilize a single optical fiber to mimic the computational power of numerous neural ...",
+      "sourceUrl": null,
+      "webUrl": "https://idw-online.de/en/news829037",
+      "originalUrl": "https://idw-online.de/en/news829037",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://files.idw-online.de/wnv/idw-Logo-Wissenschaft-bewegt.png",
+          "width": 498,
+          "height": 259,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T15:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "idw",
+        "domain": "idw-online.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-21-cognitiv-increases-client-base-75x-proving-deep-learning-is-the-future-of-advertising.md",
       "title": "Cognitiv Increases Client Base 7.5X, Proving Deep Learning Is the Future of Advertising",
       "excerpt": "Deep Learning DSP - Cognitiv's Deep Learning DSP is built to access its most advanced AI models. Deep learning allows the DSP to deliver real-time optimization of advanced, custom, business-driven KPIs such as incremental lift and lifetime value (LTV).",
@@ -1286,49 +1329,6 @@
       "provider": {
         "name": "Phys.org",
         "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-predictive-model-of-oxaliplatin-induced-liver-injury-based-on-artificial-neural-network-and-logistic-regression.md",
-      "title": "Predictive model of oxaliplatin-induced liver injury based on artificial neural network and logistic regression",
-      "excerpt": "Based on a previous safety evaluation of OXA, OILI was explored in depth. Artificial Neural Network(Ann) and logistic regression (LR) models were selected to predict the risk of OILI, and the performance of the two models was evaluated and compared ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2024-02-oxaliplatin-liver-injury-based-artificial.html",
-      "originalUrl": "https://medicalxpress.com/news/2024-02-oxaliplatin-liver-injury-based-artificial.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2024/predictive-model-of-ox.jpg",
-          "width": 1772,
-          "height": 1348,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2024-02-oxaliplatin-liver-injury-based-artificial.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2024-02-oxaliplatin-liver-injury-based-artificial.amp",
-      "publishedDateTime": "2024-02-08T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null

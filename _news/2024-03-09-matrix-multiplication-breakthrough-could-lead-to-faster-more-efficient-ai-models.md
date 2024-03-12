@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2024/03/matrix-mult
 webUrl: "https://arstechnica.com/information-technology/2024/03/matrix-multiplication-breakthrough-could-lead-to-faster-more-efficient-ai-models/"
 type: article
 quality: 62
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "New computer chip made with DNA could be an AI breakthrough"
+    excerpt: "A new proof-of-concept DNA-infused computer chip could be the AI breakthrough that we’ve been waiting for. The chip was made using a DNA substrate that can perform calculations and manage big data processing, all in the same component."
+    publishedDateTime: 2024-03-11T22:05:00Z
+    webUrl: "https://bgr.com/science/new-computer-chip-made-with-dna-could-be-an-ai-breakthrough/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 54
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/05/AdobeStock_163144075.jpeg?quality=82&strip=all"
+        width: 2400
+        height: 1350
+        isCached: true
   - title: "New DNA-infused computer chip can perform calculations and make future AI models far more efficient"
     excerpt: "The new processor stores data in modified DNA molecules and uses microfluidic channels to perform basic computations."
     publishedDateTime: 2024-03-08T10:45:00Z

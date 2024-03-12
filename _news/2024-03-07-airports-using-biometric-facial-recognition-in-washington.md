@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Airports using biometric facial recognition in Idaho"
+    excerpt: "Spokeo looked at which airports are using facial recognition software in Idaho for security screenings, according to Customs and Border Protection."
+    publishedDateTime: 2024-03-07T13:35:00Z
+    webUrl: "https://www.idahostatesman.com/news/local/article286376410.html"
+    type: article
+    provider:
+      name: Idaho Statesman
+      domain: idahostatesman.com
+    quality: 34
   - title: "Airports using biometric facial recognition in Missouri"
     excerpt: "Spokeo looked at which airports are using facial recognition software in Missouri for security screenings, according to Customs and Border Protection."
     publishedDateTime: 2024-03-07T13:46:00Z

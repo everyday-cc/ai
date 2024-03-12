@@ -110,22 +110,6 @@ related:
       name: scmp.com
       domain: scmp.com
     quality: 54
-  - title: "Ex-Google engineer charged with stealing AI trade secrets while working with Chinese companies"
-    excerpt: "The Justice Department says a former software engineer at Google has been charged with stealing artificial intelligence technology from the company while secretly working with two companies based in C"
-    publishedDateTime: 2024-03-06T22:22:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/google-software-engineer-charged-stealing-ai-technology-working-107860753"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/google-software-engineer-charged-stealing-ai-technology-working-107860753"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/google-software-engineer-charged-stealing-ai-technology-working-107860753"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 47
-    images:
-      - url: "https://s.abcnews.com/images/US/wirestory_63156ade1e564d15d92adbef91e9c5da_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Google Engineer Steals AI Trade Secrets for Chinese Companies"
     excerpt: "a China-based company focused on developing a CMS that promised to accelerate ML workloads and speed up AI model training. Shortly thereafter, Ding, acting as CEO of his startup, applied for and got acceptance to a China-based incubation program for high ..."
     publishedDateTime: 2024-03-08T00:00:00Z

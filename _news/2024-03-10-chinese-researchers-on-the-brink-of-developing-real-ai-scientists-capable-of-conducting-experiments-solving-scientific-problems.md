@@ -27,44 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Scientists develop new machine learning method for modeling chemical reactions"
-    excerpt: "Researchers from Carnegie Mellon University and Los Alamos National Laboratory have used machine learning to create a model that can simulate reactive processes in a diverse set of organic materials and conditions. \"It's a tool that can be used to ..."
-    publishedDateTime: 2024-03-07T00:00:00Z
-    webUrl: "https://phys.org/news/2024-03-scientists-machine-method-chemical-reactions.html"
-    ampWebUrl: "https://phys.org/news/2024-03-scientists-machine-method-chemical-reactions.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2024-03-scientists-machine-method-chemical-reactions.amp"
+  - title: "Application of Machine Learning in Lupus Research Advancement"
+    excerpt: "A new study published in Lupus Science & Medicine discusses how machine learning (ML) opens new possibilities for studying lupus disease, from building predictive models, identifying new biomarkers, and developing techniques for understanding disease ..."
+    publishedDateTime: 2024-03-08T00:00:00Z
+    webUrl: "https://www.lupus.org/news/application-of-machine-learning-in-lupus-research-advancement"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 55
+      name: Lupus Foundation of America
+      domain: lupus.org
+    quality: 39
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2024/scientists-develop-new-2.jpg"
-        width: 1759
-        height: 1659
-        isCached: true
-  - title: "Researchers develop new machine learning method for modeling of chemical reactions"
-    excerpt: "Researchers have used machine learning to create a model that simulates reactive processes in organic materials and conditions. Researchers from Carnegie Mellon University and Los Alamos National Laboratory have used machine learning to create a model that ..."
-    publishedDateTime: 2024-03-07T00:00:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2024/03/240307110722.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 43
-  - title: "Carnegie Mellon researchers develop new machine learning method for modeling of chemical reactions"
-    excerpt: "Researchers from Carnegie Mellon University and Los Alamos National Laboratory have used machine learning to create a model that simulates reactive processes in organic materials and conditions."
-    publishedDateTime: 2024-03-07T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/1036463"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 25
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/eb19f9fd-2d07-4944-a70c-a3947e27d95f/Rendition/low-res/Content/Public"
-        width: 700
-        height: 467
+      - url: "https://www.lupus.org/sites/default/files/styles/og_image/public/media/images/Inside%20Lupus%20Research%20%28ILR%29%20Basic%20Science.JPG"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "lXpqh/rlJY8CTbV5yGRcE2PBa5jHve/hfwra1gsRvVDmRp8pGJpbxo4SZHB7xYzzv7r+5qYkbyH2JdBsShdb74n81GTJMQQ5/LN2ZRjoMHHL9/N+8sd+Ue5L8dbYY3JAlvio8Ug51ncYny8CdsqvCDmgExL/LU4qfKxsxX2MEeDZc4qI4yGvXUzk16Oz80e6b9JJXcd4kUz23gBEG9BpG18wCtw21WFmTd0hhve9zU+LhgjR+F7rDKRBb6LxBLWO2G5EPFG7M4eomwSMyNdHtGgOeELCMV186n4FRUoW6yJkZp0EZIR6n+09aDYQKIZr9m+ph4olD/PuLdpne/ZokgvgmQCD+YiaTpUAZPTsm4dgn6ud7BtHUp/iQsu556njKDfEzYhmo1mAIAnSA4Fe+Ftagm2TUS+4ZtGiOxag21ZypiKzSOUIcvx8gSArGgi9i4JOKRYV59NcuAzXrOU3tECrVsEJ6lb9Q+T7y/olPb0d5QZrzE2TUTiH0bSeKZEd8l3+ZLGDMy0EZFjnyzvqdA==;XHNdw/m6jhOMsJkwp5FGtw=="

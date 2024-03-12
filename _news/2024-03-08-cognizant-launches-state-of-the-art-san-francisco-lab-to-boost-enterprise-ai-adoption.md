@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/cognizant-launches-state-of-the-art-san
 webUrl: "https://venturebeat.com/ai/cognizant-launches-state-of-the-art-san-francisco-lab-to-boost-enterprise-ai-adoption/"
 type: article
 quality: 62
-heat: -1
-published: false
+heat: 92
+published: true
 
 provider:
   name: VentureBeat
@@ -29,19 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "5 Years After San Francisco Banned Face Recognition, Voters Ask for More Surveillance"
-    excerpt: "On Tuesday the country’s techiest city backed a ballot proposition that tapped into concerns about crime, giving the police more freedom to use drones and other surveillance technology."
-    publishedDateTime: 2024-03-06T23:05:00Z
-    webUrl: "https://www.wired.com/story/san-francisco-banned-face-recognition-voters-ask-for-more-surveillance/"
+  - title: "Cognizant Unveils Advanced Artificial Intelligence Lab to Accelerate AI Research and Innovation"
+    excerpt: "Cognizant (Nasdaq: CTSH), a leading global technology company, today announced the launch of an Advanced Artificial Intelligence (AI) Lab. The lab, based in San Francisco, will focus on advancing the science and practice of AI through innovation and development of intellectual property and AI-enablement technologies."
+    publishedDateTime: 2024-03-07T05:16:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/07/9974406.htm"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 62
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 40
     images:
-      - url: "https://media.wired.com/photos/65e8d5adf50e43ba3169369b/191:100/w_1280,c_limit/facialrecognition-SF_biz_GettyImages-1215395483.jpg"
-        width: 1280
-        height: 670
+      - url: "https://mma.prnewswire.com/media/2356554/Cognizant_Babak_Hodjat.jpg"
+        width: 376
+        height: 400
         isCached: true
   - title: "Voters likely pass facial recognition freedoms for police in San Francisco"
     excerpt: "A ballot proposition in San Francisco to reduce the regulation of police facial recognition use, just as a bill in the state legislature to add limits advances."

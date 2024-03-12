@@ -1,0 +1,33 @@
+---
+category: news
+title: "State Dept-backed report provides action plan to avoid catastrophic AI risks"
+excerpt: "While providing technical details on the risks of AI, the action plan also introduces policy proposals that can help the U.S. and its allies mitigate these risks."
+publishedDateTime: 2024-03-11T18:53:00Z
+originalUrl: "https://venturebeat.com/ai/action-plan-long-in-the-making-provides-policy-guidelines-to-avoid-catastrophic-ai-risks/"
+webUrl: "https://venturebeat.com/ai/action-plan-long-in-the-making-provides-policy-guidelines-to-avoid-catastrophic-ai-risks/"
+type: article
+quality: 66
+heat: 66
+published: false
+
+provider:
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Google AI
+  - AI
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2023/04/VB_security-breach-padlock_3_1200x800.jpg?w=1200&strip=all"
+    width: 1200
+    height: 800
+    isCached: true
+
+secured: "4CsBYa5zvMFA236J4MwHBRtGvsrA0GjTQGtOZt4TMVmbXevaIrYIqmTN3DSMmRyecQu5a6fqRf3c/PgSRAkNJ7FVJ8zLAVz6fOC0Y4xLVJZJiJCMK8AobZvT+M9MQLtR9n5INaU/YJXmtjfiwNwt/btGbLAsrpNE4OtBOeYf+cevnj62N7qD8igiEOFVXHDVq4N9tHDF2PJ6HgyEKKWm4UsEXYjf+HWEETx43TEzJHM3I1eH9so8IwcVGpslRxe0A2ZgHXuqDWcdc+swRLHmEI++gyk+jkPJjwPUISn5zightQ/nid1b7yga/uZB/SjWUOLLExmbVudgzeu+rptmA80+3KElFYEzkawBgsI+19Q=;i+oBNIkIRd+MZXY+rF8tug=="
+---
+

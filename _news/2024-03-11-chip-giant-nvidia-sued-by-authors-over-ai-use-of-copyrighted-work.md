@@ -69,6 +69,22 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "New AI copyright lawsuit targets Nvidia"
+    excerpt: "Three authors, Abdi Nazemian, Brian Keene, and Stewart O’Nan, are part of a new copyright infringement lawsuit against Nvidia, the latest such suit to challenge generative AI providers’ reliance on the “fair use” doctrine to acquire copyrighted material to train their large language models."
+    publishedDateTime: 2024-03-11T18:55:00Z
+    webUrl: "https://www.computerworld.com/article/3714286/new-ai-copyright-lawsuit-targets-nvidia.html"
+    ampWebUrl: "https://www.computerworld.com/article/3714286/new-ai-copyright-lawsuit-targets-nvidia.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3714286/new-ai-copyright-lawsuit-targets-nvidia.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/09/nvidia-santa-clara-headquarters-100946436-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "3 AI Stocks That Nvidia Should Buy Next"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Nvidia (NASDAQ:NVDA) started the current artificial intelligence boom."
     publishedDateTime: 2024-03-08T20:37:00Z

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "5 Years After San Francisco Banned Face Recognition, Voters Ask for More Surveillance"
-    excerpt: "On Tuesday the country’s techiest city backed a ballot proposition that tapped into concerns about crime, giving the police more freedom to use drones and other surveillance technology."
-    publishedDateTime: 2024-03-06T23:05:00Z
-    webUrl: "https://www.wired.com/story/san-francisco-banned-face-recognition-voters-ask-for-more-surveillance/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 62
-    images:
-      - url: "https://media.wired.com/photos/65e8d5adf50e43ba3169369b/191:100/w_1280,c_limit/facialrecognition-SF_biz_GettyImages-1215395483.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "Cognizant launches state-of-the-art San Francisco lab to boost enterprise AI adoption"
     excerpt: "Cognizant launches Advanced AI Lab in San Francisco to drive innovation and research in AI systems and technologies, as part of its $1 billion investment in generative AI."
     publishedDateTime: 2024-03-07T20:15:00Z
@@ -52,6 +38,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2024/03/nuneybits_Vector_art_of_a_San_Francisco_labratory_for_artificia_a849076e-45df-47e4-9cf0-3080b0c86784-transformed.webp?w=1200&strip=all"
         width: 1200
         height: 672
+        isCached: true
+  - title: "Cognizant Unveils Advanced Artificial Intelligence Lab to Accelerate AI Research and Innovation"
+    excerpt: "Cognizant (Nasdaq: CTSH), a leading global technology company, today announced the launch of an Advanced Artificial Intelligence (AI) Lab. The lab, based in San Francisco, will focus on advancing the science and practice of AI through innovation and development of intellectual property and AI-enablement technologies."
+    publishedDateTime: 2024-03-07T05:16:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/07/9974406.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 40
+    images:
+      - url: "https://mma.prnewswire.com/media/2356554/Cognizant_Babak_Hodjat.jpg"
+        width: 376
+        height: 400
         isCached: true
   - title: "San Francisco Voters Approve Facial Recognition Drones"
     excerpt: "Voters were projected to approve a ballot measure that will ease restrictions on vehicle pursuits, allowing for the use of more surveillance technology and reducing oversight from the Police Commission."

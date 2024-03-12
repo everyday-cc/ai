@@ -3,8 +3,8 @@ category: news
 title: "Robert Downey Jr looks ‘annoyed’ after Jimmy Kimmel targets his addiction history in Oscars speech"
 excerpt: "Fans have criticised Oscars host Jimmy Kimmel after the comedian cracked a joke about Robert Downey Jr’s past drug addiction in his opening monologue. The 96th Academy Awards takes place on Sunday (10 March),"
 publishedDateTime: 2024-03-11T07:00:00Z
-originalUrl: "https://www.aol.com/news/robert-downey-jr-looks-annoyed-000014838.html"
-webUrl: "https://www.aol.com/news/robert-downey-jr-looks-annoyed-000014838.html"
+originalUrl: "https://www.aol.com/robert-downey-jr-looks-annoyed-000014838.html"
+webUrl: "https://www.aol.com/robert-downey-jr-looks-annoyed-000014838.html"
 type: article
 quality: 10
 heat: -1
@@ -51,6 +51,6 @@ related:
       domain: thesun.ie
     quality: 0
 
-secured: "ExcCHvBKMSyuMn+55sqw0jBdt3kDDzdP0Rfs71Tks5WAOUQkOUFtmCNGDUux/9Mda0+bYmLTLYiz3bMJ74M4gmiUpt/onyJtg0FD18s2Ra9Q5lG4nE8CHHtr6cBxFl8/aP4svWgaAvweBhDYVFcIs/N7iyJT7snfySQhCx946vE5SXuQxOssFTMLxGKeI7wE37v3T+0045KovrUtdUh+V4PWqa34u7K5A9irFRxvXfIIIlP1mTTwvrcBe/VhGUtRTlk/UxBlgtTLhzurxBLkJUAzZSRhq0d/qS2uSmTlO56vDn0n/zIAMZ3go0Ws5T4PM/1ckbAuGPLHF1w+N4y6TQghGHBwOyPpVi3WFMvuGtW0Ro6/6TwkMV6ajSIRRY49ZKduyqK3879dKtrGkocLGdobq3LfEWBEO6CjBUy7UE5p4wYwSCJEJAwMATcwUzW54Wnlj6ceHDG2FW8J8cARDXfCa2MocdoO3tj3OzF8IK/gth4eZT+fb7mzLa2FYUQ1tXOkYySa+STacPTWEmd3xA==;FubsTt7BoHtDtn0qBCXRiw=="
+secured: "m0s4Oa1PxO+pNZtlUD4nv4TBrX8G9GB9UL29PwNuIV4rjei8UInihsfS7ZVmeEzYsUkp6mdNQ/AEyniscBvsSSEZnloqPh+l4g1IwJXVb9OF0hOrIRxonQD0GW1nMnMCxJhabAOze7tSgSVHo3UEg1o0SWx5CEcrRIupqXg9gPUG3I7nVrfGilUIBIiQkQWw/Ct9ncdCTDWK3MAZ+VUmJWDsfE0gYwaU4aBjRfKc/rXfUJY+E38WxivxYjtI2SpsoG4v7Q0rZgQIV/GDAU41lPS/YYzPSaJlkfXOQfIsL1FZhkXIBDa86b3SBGrdSwNNM9y8efRn89u7DLLx4RUhwM6saQwk/goibJc3v6zcGWE=;CwGGWRdPLxkP35KA14YLmA=="
 ---
 

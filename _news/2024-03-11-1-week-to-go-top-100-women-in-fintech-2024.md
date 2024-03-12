@@ -19,15 +19,66 @@ topics:
   - AI
 
 related:
-  - title: "Anne Boden on supporting female fintech founders"
-    excerpt: "Yet Boden has been busy recently. Last week she launched her third book, ‘Female Founders’ Playbook: Insights from the superwomen who made It’ and released a report from the Women-Led High-Growth Enterprise Taskforce which she led. I spoke with her about where we’re going wrong for female fintech entrepreneurs and how we can improve the situation."
-    publishedDateTime: 2024-03-08T09:33:00Z
-    webUrl: "https://www.finextra.com/the-long-read/971/anne-boden-on-supporting-female-fintech-founders"
+  - title: "Fintech Benchmarks 2024 report – the promise and threat of AI"
+    excerpt: "Financial technology continues to advance at pace. In the age of artificial intelligence, central banks are adopters as well as overseers of the new landscape. In the Fintech Benchmarks 2024, more than half (56.8%), say they use machine learning (ML) and artificial intelligence (AI) tools, up slightly from 51.4% last year."
+    publishedDateTime: 2024-03-07T07:30:00Z
+    webUrl: "https://www.centralbanking.com/benchmarking/fintech/7960927/fintech-benchmarks-2024-report-the-promise-and-threat-of-ai"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
+      name: Central Banking
+      domain: centralbanking.com
+    quality: 39
+    images:
+      - url: "https://www.centralbanking.com/sites/default/files/styles/metatag_image_large/public/2024-03/Fintech%20Benchmarks%202024%20title%20image_0.jpg?h=eefaf0af&itok=HFbMPhql"
+        width: 1200
+        height: 743
+        isCached: true
+  - title: "How fintech is reshaping the landscape of business finance"
+    excerpt: "Simon Moorcroft, above, director and chief technology officer at Capalona, sheds light on the changing fintech landscape and how it continues transforming"
+    publishedDateTime: 2024-03-11T12:09:00Z
+    webUrl: "https://www.smeweb.com/how-fintech-is-reshaping-the-landscape-of-business-finance/"
+    type: article
+    provider:
+      name: SMEweb
+      domain: smeweb.com
+    quality: 39
+    images:
+      - url: "https://www.smeweb.com/wp-content/uploads/2024/03/Picture1.jpg"
+        width: 409
+        height: 269
+        isCached: true
+  - title: "The Top 7 Fintech Stocks to Buy in March 2024"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Fintech companies are spearheading a revolutionary shift in their niche,"
+    publishedDateTime: 2024-03-08T11:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-top-7-fintech-stocks-to-buy-in-march-2024-1033145869"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
+  - title: "hedgehog lab promotes fintech vet to chief client officer"
+    excerpt: "North East-based global tech consultancy hedgehog lab has appointed Clare Weightman as its new chief client officer."
+    publishedDateTime: 2024-03-11T14:24:00Z
+    webUrl: "https://www.prolificnorth.co.uk/news/hedgehog-lab-promotes-fintech-vet-to-chief-client-officer/"
+    type: article
+    provider:
+      name: prolificnorth.co.uk
+      domain: prolificnorth.co.uk
+    quality: 24
+    images:
+      - url: "https://www.prolificnorth.co.uk/wp-content/uploads/2024/03/Clare-Weightman.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Sahm Capital Showcases latest Fintech and AI Solutions at LEAP 2024"
+    excerpt: "March 2024 - Sahm Capital Financial Company, a leading brokerage firm licensed by the Saudi Capital Market Authority (No: 22251-25), showcased its all-in-one comprehensive trading solutions at booth H1A."
+    publishedDateTime: 2024-03-07T07:00:00Z
+    webUrl: "https://www.asiaone.com/business/sahm-capital-showcases-latest-fintech-and-ai-solutions-leap-2024"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 19
 
 secured: "aZO2CAspmxIg8H6LHNbPvi6Zskz5R9FeFHzSVIpC/chmI67n6l1D45qLGDWZDErB8k+rza7vN6Ot3zGt/6j8T+lGQ28mAFtjuWy95iDP90WlvtYEMzC2VlvpMpT7netPXMJoZZyuvKSezkfkWLZsPdk8OMXi7uaJ63C8HiDEGFUNjrr3wxV9252PW1jcxQ0RFGGNUFXR9gppMZARGrLhMgjvUZm2vf4fjDTsQcWzCwzxGkO/XIzTzPC7ltGN6dFpkJW3srIqCqFbXTFiHoEiITRc4us2G1LT2UG/X3MR032yig9V67AuqJPxIaPPQtPJbeST/hD3vmrzGCR/IGC0BPRUpsgVxjftosS8VKztDBjURfVoNXuPcm9is//pks15hrDycqw2UYEQVEQ8f3uGZ+xfXjWEPxz+mQ+N5vdLY5Vu6XRSOG0rTRj/RSL2Bs4zIkABOaWP4zSWCbSZyXKDCW6SPVP3f3LQq+uXHIT6a2tk9anz8ATVgBcEclXSGsTbyXq+GjakWWdLTduY5HXCCw==;94VGbRcXhq4qIgXFl2Rzdg=="
 ---

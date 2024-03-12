@@ -26,6 +26,17 @@ images:
     height: 315
     isCached: true
 
+related:
+  - title: "Anti-liberation forces failed to erase Bangabandhu's March 7 speech: PM"
+    excerpt: "Prime Minister Sheikh Hasina today said the international recognition of Bangabandhu's historic March 7 speech proves that history cannot be obliterated, although the anti-liberation forces tried it"
+    publishedDateTime: 2024-03-07T08:41:00Z
+    webUrl: "https://www.thedailystar.net/news/bangladesh/news/anti-liberation-forces-failed-erase-bangabandhus-march-7-speech-pm-3561026"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 19
+
 secured: "953bPiNZG/podk2vvNg6SFNLbTVcSmd1h9j1UzdHqJodEYkT6G0MkPFwbLa6EwJSj/bZKxaWExFAfETcJR5HdE3dLBqhcRZRiIOx08txcvtfBinBSsC4UeEq6AJ69fYqhBMoOVNb1QdgrJcqr+1lxdDMu6XBthUfMUmlbaXTWSVkhjoW7AeWiE+MfWBPgXvqyHEfUKIo1cw0NusyMlAX3FLsNGp754SACXtdmPFj6yNsGEIvPrM09TVd7P24ADhY+MCsqXMfWKsybe4W6pbgq4YalCWQ2QHwuaNYtNukMOiX82TVHo3kdgbH4WbqHfmMld6LSCe+hONSaaDPx+GeEb29Cv8cCV2M0fv1els+/dI=;UbQg9mtl90mnIdQhUyjVJA=="
 ---
 

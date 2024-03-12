@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/quisitive-awarded-
 webUrl: "https://markets.businessinsider.com/news/stocks/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization-1033142131"
 type: article
 quality: 94
-heat: 224
+heat: 214
 published: true
 
 provider:
@@ -156,15 +156,6 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 25
-  - title: "Sonata Software Supercharges Harmoni.AI with Microsoft Azure AI to Drive Responsible-First AI Adoption Across Enterprises"
-    excerpt: "Sonata Harmoni.AI, integrating Microsoft Azure AI services, will help customer reimagine business with Generative AI, differentiating themselves in the marketplace BANGALORE, India, March 7, 2024 /PRNewswire/ -- The leading Modernization Engineering ..."
-    publishedDateTime: 2024-03-07T00:00:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2024/03/07/sonata-software-supercharges-harmoni-ai-with-microsoft-azure-ai-to-drive"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 24
 
 secured: "ULk3grAjiCXULuv3SjpftfKHupSlZxOIgqBIXixDKtF75gewsbX5Womm27PsYqgxGrit1ESB7WtvOTP2brHHe+L3iioUyRZyzrrwesILZ1TGcWog3OHMycwbqTRfXDvfDjEDKGsVMceyeDOTpRbAAbOcr/cgH1fdE0vIIl9cmsgtPYLZWMtz/ZRhSbsYv1+gJQQidnIIduYON/IvacSW3jdb2H/7V51btIPIycYOhRVIetb4T+sd7AomZNWoYAtDTA03sQ8l2jlv/PJukp8/djTln8V/quTd9va2WMsAG6FI7iSISRj3kLrsUcS2FD8Eyicoza7t9IfkCbfyPLULE5gnYb8xh8QJofXEWl8nPCE=;e0pKjS8VeEI/ADjnxWXBJQ=="
 ---

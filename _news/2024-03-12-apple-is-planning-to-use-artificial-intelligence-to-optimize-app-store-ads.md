@@ -5,10 +5,12 @@ excerpt: "Apple is planning on harnessing the power of artificial intelligence t
 publishedDateTime: 2024-03-11T18:59:00Z
 originalUrl: "https://appleinsider.com/articles/24/03/11/apple-is-planning-to-use-artificial-intelligence-to-optimize-app-store-ads"
 webUrl: "https://appleinsider.com/articles/24/03/11/apple-is-planning-to-use-artificial-intelligence-to-optimize-app-store-ads"
+ampWebUrl: "https://appleinsider.com/articles/24/03/11/apple-is-planning-to-use-artificial-intelligence-to-optimize-app-store-ads/amp/"
+cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/24/03/11/apple-is-planning-to-use-artificial-intelligence-to-optimize-app-store-ads/amp/"
 type: article
-quality: 15
-heat: -1
-published: false
+quality: 57
+heat: 77
+published: true
 
 provider:
   name: AppleInsider
@@ -16,6 +18,13 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
+
+images:
+  - url: "https://photos5.appleinsider.com/gallery/58921-120167-appstore-xl.jpg"
+    width: 1200
+    height: 675
+    isCached: true
 
 related:
   - title: "Apple may use artificial intelligence in Apple Search Ads"
@@ -44,6 +53,6 @@ related:
       domain: businessinsider.com
     quality: 13
 
-secured: "sgwR2ed48YKErlm3RONzmjTze+NuNBaApfc6nqbzjuaQku0vSXiyF1D/ZRLiy4H/9i+6g+foSQATQeT0S20w/RNg/lSyD/9OIrBs1A60kV36Mm0ygoVIj239q2qKKPmet/zkvjEhqRT+LvNRG1haBq0SZmH1zywlg/QVbEZP4N0QLKZbTw6b6L8/3uWbpmMLhZRaox1X+KKXml4sYv01p3hAyzFUczzGvOo41wB/UD1oPHdJ2K1TmPrIv3Fu2tCkp6de9lRa38oqw8AUEg40s1+Tf5YOJC+JcKNSpA80sr1XqVsZknB3fRYVpliWBgdOE28SECyecAwuPnkhSh0M5mYNxH2gYbKn7HIM8WYm9Ql57HWT+6JSN/HpBAtG5EqQNtMrJMWohYWBnfCGPjl4d/gS+fSwJEIv3+EX227tp6rXNeu0tpj7FCxtxbMUQLCrMuxTAXgzM1y8mdJyLxmTuYC9+6g0aowt+0RLthZhIaXoto0WX0mnsF1eM6TbgPObbK6hKohaevdzt6hamHJneQ==;eyZ/VL+zBDmXPwWIpwDoaA=="
+secured: "AuuZkfEmyuIH6+5XY1iDtm8WdGqjdpBqx3Ze313gjPnHnMl+ESxfGN/v//3r9kxZW1FIm6ZqGhJ6qNX7z6gIGhHKfmix1l1QzILO+7pHW6/x0Rtdiu7/N9KQrrRfsbzZ91LpZjUmzJURMSou8t9oZMtcpMeNOGb6tVzYzy+onSYEp/1kmrGxvKMR7qUv9yPGe3tDH0p8VKE/Jv67/BDSuqdssv+MC0VGWTSrW9ukP17mFjO98MOw4tUAD6GDv/0hB3g8Smvkd79Oo3ms7BOL/F+c6DlucKUx5rakcK0h0nDi2qSFboK6rU6+13l0afuL0qjcEm0c1Jbd6aczLiAFVAHPklmxAc/Pf3/zXWqlyqk=;XQx/GwnVbD9noL4LRtgKPw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/transforming-the-e
 webUrl: "https://markets.businessinsider.com/news/stocks/transforming-the-energy-sector-how-smartmeasures-is-bringing-australian-ai-innovation-to-us-retail-energy-providers-1033151148"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -28,56 +28,20 @@ images:
     isCached: true
 
 related:
-  - title: "Legal AI Is Taking Off in Australia and Could Shake Up the Private Practice Legal Market"
-    excerpt: "Australia’s private law firms are recruiting legal AI models, which may help them deliver accurate legal advice faster and at lower rates."
-    publishedDateTime: 2024-03-08T17:21:00Z
-    webUrl: "https://www.techrepublic.com/article/australian-legal-profession-adapting-ai/"
+  - title: "How AI Enabled Smart Carts Can Bring Retail Into The 21st Century"
+    excerpt: "Self-checkout educated the industry about engaging consumers with a carrot—not a stick...can the spending on self-checkout stations be better allocated elsewhere?"
+    publishedDateTime: 2024-03-11T20:02:00Z
+    webUrl: "https://www.forbes.com/sites/deandebiase/2024/03/11/how-ai-enabled-smart-carts-can-bring-retail-into-the-21st-century/"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 42
-  - title: "ChainGPT unveils $1M grant scheme for startups supercharging Web3-AI innovation"
-    excerpt: "ChainGPT, the AI-powered Web3 infrastructure providing a diverse suite of tools and services, announces the launch of a grant program to help facilitate innovation at the crossroads of AI and blockchain."
-    publishedDateTime: 2024-03-11T14:17:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/03/11/9976043.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 33
+      name: Forbes
+      domain: forbes.com
+    quality: 67
     images:
-      - url: "https://api.blockchainwire.io/uploads/Proleoio/editor_image/21724a85-1a37-4732-8abb-ca588aa7938d.jpg"
-        width: 1280
-        height: 720
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65ef53c0e958f63017112e15/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1288
+        height: 900
         isCached: true
-  - title: "CQG Unveils New First-of-its-Kind AI / Machine Learning Trading Toolkit for Predicting Futures Market Moves"
-    excerpt: "Based on the firm's deep experience in analytics, mathematics and market intelligence, the new ML initiative aims to offer retail traders and buy-side firms, including proprietary trading firms and hedge funds,"
-    publishedDateTime: 2024-03-11T11:36:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/03/11/9975734.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 16
-  - title: "Australian news media could seek payment from Meta for content used to train AI"
-    excerpt: "News media bargaining code could apply to tech companies using massive amounts of online information for generative AI, researchers say"
-    publishedDateTime: 2024-03-07T13:00:00Z
-    webUrl: "https://www.theguardian.com/media/2024/mar/08/australian-news-media-could-seek-payment-from-meta-for-content-used-to-train-ai"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 15
-  - title: "Australian universities can rid themselves of partisan rhetoric over divisive issues like the Voice by creating new 'institutional neutrality' rules"
-    excerpt: "During the Voice campaign universities offered safe spaces and special consideration for disappointed pro-Voice students, without recognition or accommodation for those with a different point of view. In places where free speech and debate should flourish ..."
-    publishedDateTime: 2024-03-08T00:00:00Z
-    webUrl: "https://www.skynews.com.au/insights-and-analysis/australian-universities-can-rid-themselves-of-partisan-rhetoric-over-divisive-issues-like-the-voice-by-creating-new-institutional-neutrality-rules/news-story/2c33c90d893c721d25aec5054850a043"
-    type: article
-    provider:
-      name: Sky News Australia
-      domain: skynews.com.au
-    quality: 0
 
 secured: "0o3n3qvUNLH2uz+QmYH1XSx20VRmF9/af11vD3Et8vnvkhwmQ2BTVfFcqJK4E2QiCm+ZfIe0ho3yKv5ejTppm8KQCN5uqRS1rX1OUko/2LYpnp5EckUtClorETkXY3EmeZMMOItVUPYZCXIJjIp3OAGD9bBUvqapOEZL+9ugOKRXY/c0UKr/4IHjCSXdS3Ds3NubykHq+J8VglTJG5tGgCHsrf2zM2nq8pyxGnQyf6FjKnIskM/soPPLCfXb+K0xDStGzAcxZpRZxmkz4Enf/tNc5kFoRWYx42o/djLxTKUrLgOMKOrjPMC0cszSyRFhSxNWs2N8dgZJ+XCzxHqlKNj7X+vj4K1PKv+7EiK5Mku6T9GfSrFQWcb5Xe5DLBoRt3mITSV8WO5i7Mz12VBWOtrTfCiUBGwRmRg7LsmklSx2pdFdGsKy67A0IOGnKkuVIt1i8mLUYGAo7WM7qCwR8CVBfutaBEgbjZPdGQF0TCCtMajGpCpCZkNTaUrmvJFV7a19PsyUWmT+OrmuIdRfLw==;UClByJuBzXTazj58kMI3aQ=="
 ---

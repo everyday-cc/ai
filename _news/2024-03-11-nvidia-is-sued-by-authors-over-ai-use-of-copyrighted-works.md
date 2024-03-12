@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "New AI copyright lawsuit targets Nvidia"
+    excerpt: "Three authors, Abdi Nazemian, Brian Keene, and Stewart O’Nan, are part of a new copyright infringement lawsuit against Nvidia, the latest such suit to challenge generative AI providers’ reliance on the “fair use” doctrine to acquire copyrighted material to train their large language models."
+    publishedDateTime: 2024-03-11T18:55:00Z
+    webUrl: "https://www.computerworld.com/article/3714286/new-ai-copyright-lawsuit-targets-nvidia.html"
+    ampWebUrl: "https://www.computerworld.com/article/3714286/new-ai-copyright-lawsuit-targets-nvidia.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3714286/new-ai-copyright-lawsuit-targets-nvidia.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 57
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/09/nvidia-santa-clara-headquarters-100946436-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Chip giant Nvidia sued by authors over AI use of copyrighted work"
     excerpt: "Nvidia has been sued by three authors who said that the company used their copyrighted books without permission to train its NeMo AI platform. According to a report by news agency Reuters, the authors Brian Keene, Abdi Nazemian and Stewart O'Nan said that ..."
     publishedDateTime: 2024-03-11T07:44:00Z

@@ -3,27 +3,27 @@ category: news
 title: "Biden's big speech showed his uneasy approach to abortion, an issue bound to be key in the campaign"
 excerpt: "President Joe Biden made abortion and reproductive rights a central theme of his State of the Union speech, but he never mentioned the word “abortion.” Pushback over how he addressed the issue is the latest example of Biden’s fraught history with the topic."
 publishedDateTime: 2024-03-11T19:15:00Z
-originalUrl: "https://journalstar.com/news/nation-world/government-politics/president-joe-biden-sotu-state-of-the-union-abortion-topic-key-issue-election-2024/article_e889edd3-86a3-5eb4-847d-8184521378dd.html"
-webUrl: "https://journalstar.com/news/nation-world/government-politics/president-joe-biden-sotu-state-of-the-union-abortion-topic-key-issue-election-2024/article_e889edd3-86a3-5eb4-847d-8184521378dd.html"
+originalUrl: "https://madison.com/news/nation-world/government-politics/president-joe-biden-sotu-state-of-the-union-abortion-topic-key-issue-election-2024/article_0fa5a5c8-c4ca-5550-bc78-c643e19cb249.html"
+webUrl: "https://madison.com/news/nation-world/government-politics/president-joe-biden-sotu-state-of-the-union-abortion-topic-key-issue-election-2024/article_0fa5a5c8-c4ca-5550-bc78-c643e19cb249.html"
 type: article
 quality: 25
 heat: 25
 published: false
 
 provider:
-  name: Lincoln Journal Star
-  domain: journalstar.com
+  name: Madison.com
+  domain: madison.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/e/88/e889edd3-86a3-5eb4-847d-8184521378dd/65ef1f54140b3.preview.jpg?crop=864%2C454%2C589%2C170&resize=864%2C454&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/0/fa/0fa5a5c8-c4ca-5550-bc78-c643e19cb249/65ef1f5461c0c.preview.jpg?crop=864%2C454%2C589%2C170&resize=864%2C454&order=crop%2Cresize"
     width: 864
     height: 454
     isCached: true
 
-secured: "K6AnT6jf01H69Sy5mreZKsEej1Am46jddIE5eNk/jbg8aT3HERggQ1oFxV8T7U3v0ftHmu+QU7+BrOZOD3EExWPzrohFcI5Vf5X5HyNqNOQxamMjYn6i929U31wRV6WGzXRfP2wNNyNgm9zQamVQbHuEqGIOqU6Wx7Z1LCpLg0RmsCDMYoaAa3HuKfKKwxiWz1leAjmPr33ezJfVFVm9IOXc3/Q+6wVyshHasD9lpPxZr+1HcXV2f1r0dVGnnLdScKdtG13TF6BTjaIaheZvaKUfFPqudBNymjQY02VnFEed1hpdETKewiUub5bPPp78N+19H0o5UibrXzWdX8Xq61Xww8V+r/Zd8VT+PCf21y4=;5EfopW7b33hymdlkbO7hMw=="
+secured: "DZWTDloB+JsH9a2vWrxKLL8MnLOgEjEpIF67FU/QhwNu0t9IawdpmikdPOnPu8L2hLIoAecxUydYZ1MmomGD1plqlq7RHHjzPZ1Zdjs9M3EFCEPv9UmlZusgtR+8qo/MK/GoWJS7147v/53pZKK55rKpBkavj7lf8jKmHRdOfmUIaL/qvS8OhpBmMFdmGmiGQlqqzeV8Glp1wJ4SyrTf/ZDsr2ZMt818dbonUKMGj8A3pmrOKCvQA5AZ+N4xa8SaU8eDKflOypDmVqQRE2Z6RbUN2rYLu9wVhQNyYtKOyqVXoLmzTRommUj9B47jJxGCjZqWA+yckZ2HJC+jZwbjcrTHNOThfg5RG5roTG+0cyY=;d2/UokdUwxc5uRxXdlqimg=="
 ---
 

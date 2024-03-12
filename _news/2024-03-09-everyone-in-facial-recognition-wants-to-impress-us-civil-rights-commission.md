@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Report highlights civil liberties concerns with facial recognition technology"
+    excerpt: "Facial recognition technology (FRT) can allow investigators to scan billions of photos or videos to identify a potential suspect or a victim."
+    publishedDateTime: 2024-03-11T23:46:00Z
+    webUrl: "https://www.whio.com/news/national/report-highlights-civil-liberties-concerns-with-facial-recognition-technology/AHOZDZJFIVHCHG34QGBSQZQRTU/"
+    ampWebUrl: "https://www.whio.com/news/national/report-highlights-civil-liberties-concerns-with-facial-recognition-technology/AHOZDZJFIVHCHG34QGBSQZQRTU/?outputType=amp"
+    cdnAmpWebUrl: "https://www-whio-com.cdn.ampproject.org/c/s/www.whio.com/news/national/report-highlights-civil-liberties-concerns-with-facial-recognition-technology/AHOZDZJFIVHCHG34QGBSQZQRTU/?outputType=amp"
+    type: article
+    provider:
+      name: WHIO
+      domain: whio.com
+    quality: 58
+    images:
+      - url: "https://cmg-cmg-tv-10040-prod.cdn.arcpublishing.com/resizer/70lD4MUC1AQxkMV9oFwetysgtHE=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/MMXUPC3ETJCJBCFBK2KOULZONA.jpeg"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Civil Rights commission digs into government use of facial recognition"
     excerpt: "The tech poses “serious threats to our fundamental rights,” the chair of the commission said during a Friday briefing."
     publishedDateTime: 2024-03-11T20:30:00Z
@@ -38,20 +54,6 @@ related:
       - url: "https://cdn.nextgov.com/media/img/cd/2024/03/11/031124_getty_ng_mondaire_jones/open-graph.jpg"
         width: 400
         height: 400
-        isCached: true
-  - title: "UK’s £230 million plan to implement police facial recognition and drones"
-    excerpt: "The UK government is setting aside £230 million to give police advanced technology, including facial recognition, to make their operations more efficient."
-    publishedDateTime: 2024-03-07T21:46:00Z
-    webUrl: "https://www.biometricupdate.com/202403/uks-230-million-plan-to-implement-police-facial-recognition-and-drones"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 38
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/01/15132608/london-met-police-1-scaled.jpg"
-        width: 2048
-        height: 1365
         isCached: true
   - title: "Civil rights commissioner slams DOJ, HUD absence at facial recognition briefing"
     excerpt: "Mondaire Jones, a Democratic appointee on the U.S. Commission on Civil Rights, said he would have urged the use of subpoenas if the panel was given “adequate notice” of the agencies’ refusal to cooperate."

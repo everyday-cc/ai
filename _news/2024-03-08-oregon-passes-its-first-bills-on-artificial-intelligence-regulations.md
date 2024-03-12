@@ -40,15 +40,6 @@ related:
         width: 2880
         height: 2135
         isCached: true
-  - title: "Nurses Worry About Lack of AI Rules in Hospitals"
-    excerpt: "For health care facilities that use AI, nurses could override the technology’s recommendations if they deem it in the patient’s best interest. The American Nurses Association’s code of ethics, followed by all nurses in the country, states that ..."
-    publishedDateTime: 2024-03-07T00:00:00Z
-    webUrl: "https://www.govtech.com/health/nurses-worry-about-lack-of-ai-rules-in-hospitals"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 19
 
 secured: "8GGeA1SRCsCccUhu90llxYr1n3lDD8eMtpb7U8jNDxX5tPSZNVRdhyydjz8n0WqyoeoazY9IdiBDVHcKJUFQcxUKEsIvhb8kYNYDi/EB9wUGJK6IpBP2df5bnxsiimFgtz3Yt2vCC2fDG6faVmlisSLtCNApK5B/3HvqtN8hBlkRicJVEphoKnfAx+F4HYHMLzTEDW43N/0AHHz9koO7Vlusxn6HH+inU46wxRv9YgNR/iWlVha5S1ddpdICO2Dqvo1fEeb1svjKNRXxm+jzEc/wEFGHQVhqhWazXeE8HbjTVwMZ9NWyz+Hgs7Ll2uQmvTpOeM+15UB4tiqbornSb5/drcFoj+LhRGfFHD3OOIw1p/pzJXKEW5BmU4M5cl/9fTwpDIhdmk12bDSN8KvcRCQHj86b8cHMZtEpioNh5ruOGfWRS+HQbVKtL8KQURyue3JUJUYVbnw9nncL+K9itFrPFLpkRO+ndHLMyrFzm+jaDqRfbXJ+p1hcyd4yvsZbyNd8NTs2LH7N/bcwEMAd8w==;XGjK2NvT9u/mHwg9QoQaKQ=="
 ---

@@ -35,7 +35,7 @@ related:
     provider:
       name: AppleInsider
       domain: appleinsider.com
-    quality: 53
+    quality: 55
     images:
       - url: "https://photos5.appleinsider.com/gallery/58907-120140-54561-110302-54310-109562-wwdcapplepark-xl-xl-xl.jpg"
         width: 1312

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2024/03/10/10-ai-predictions-f
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2024/03/10/10-ai-predictions-for-the-year-2030/amp/"
 type: article
 quality: 93
-heat: 218
+heat: 188
 published: true
 
 provider:
@@ -33,6 +33,22 @@ images:
     isCached: true
 
 related:
+  - title: "2024 Is The Year Of AI, But Data Will Steal The Show"
+    excerpt: "Disparate datasets in fragmented systems will give way to platform-aggregated datasets architected for AI analytics."
+    publishedDateTime: 2024-03-11T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/11/2024-is-the-year-of-ai-but-data-will-steal-the-show/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/11/2024-is-the-year-of-ai-but-data-will-steal-the-show/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/11/2024-is-the-year-of-ai-but-data-will-steal-the-show/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62601f40cff8e83e2777648b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 625
+        height: 416
+        isCached: true
   - title: "10 AI Predictions For The Year 2030"
     excerpt: "Agents are AI systems that can complete loosely defined tasks: say, planning and booking your upcoming trip. AGI refers to an artificial intelligence system that meets or exceeds human capabilities on every dimension. When people envision the state of AI in 2030, agents and/or AGI are often front and center."
     publishedDateTime: 2024-03-10T23:30:00Z
@@ -48,22 +64,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65ee1bca12633958dd3ea9fd/0x0.jpg?format=jpg&crop=1116,628,x40,y0,safe&height=900&width=1600&fit=bounds"
         width: 1599
         height: 900
-        isCached: true
-  - title: "2024 Is The Year Of AI, But Data Will Steal The Show"
-    excerpt: "Disparate datasets in fragmented systems will give way to platform-aggregated datasets architected for AI analytics."
-    publishedDateTime: 2024-03-11T14:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/11/2024-is-the-year-of-ai-but-data-will-steal-the-show/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/11/2024-is-the-year-of-ai-but-data-will-steal-the-show/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/11/2024-is-the-year-of-ai-but-data-will-steal-the-show/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62601f40cff8e83e2777648b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 625
-        height: 416
         isCached: true
   - title: "Three Ways We Know That 2024 Is The Year Of AI Adoption"
     excerpt: "Three Ways We Know That 2024 is the Year of AI Adoption New research is making things a lot clearer, and giving us real visions of what’s possible."
@@ -88,43 +88,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 62
-  - title: "ChatGPT Stock Predictions: 3 Space Companies the AI Bot Thinks Have 10X Potential"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips With the machines taking over, it seems only appropriate to ask ChatGPT what"
-    publishedDateTime: 2024-03-06T22:14:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/chatgpt-stock-predictions-3-space-companies-the-ai-bot-thinks-have-10x-potential-1033139633"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 59
-  - title: "The military is funding new chip designs for the AI era"
-    excerpt: "But that high stock valuation speaks to a big problem: demand for chips that can run energy-intensive AI applications far exceeds supply. That’s an especially big problem for the military, which is looking to run complex AI programs in environments where ..."
-    publishedDateTime: 2024-03-06T22:28:00Z
-    webUrl: "https://www.defenseone.com/technology/2024/03/military-funding-new-chip-designs-ai-era/394749/"
-    type: article
-    provider:
-      name: Defense One
-      domain: defenseone.com
-    quality: 54
-    images:
-      - url: "https://cdn.defenseone.com/media/img/cd/2024/03/06/GettyImages_1529796422_1/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "The Pentagon is funding new chip designs for the AI era"
-    excerpt: "But that high stock valuation bespeaks a big problem: the demand for chips that can run energy-intensive AI applications far exceeds supply. That’s an especially big problem for the military, which is looking to run complex AI programs in environments ..."
-    publishedDateTime: 2024-03-06T22:28:00Z
-    webUrl: "https://www.defenseone.com/technology/2024/03/military-funding-new-chip-designs-ai-era/394749/"
-    type: article
-    provider:
-      name: Defense One
-      domain: defenseone.com
-    quality: 54
-    images:
-      - url: "https://cdn.defenseone.com/media/img/cd/2024/03/06/GettyImages_1529796422_1/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Are Expectations For Gen AI Lower Than Planned?"
     excerpt: "At least 90% of the POCs for gen AI that launched during 2023 will not make it to production in 2024. Yet, tech firms are still plowing hundreds of millions of dollars into building AI tools and building the capabilities for running them."
     publishedDateTime: 2024-03-11T12:29:00Z

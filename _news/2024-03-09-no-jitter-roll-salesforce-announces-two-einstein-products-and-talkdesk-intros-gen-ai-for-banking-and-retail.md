@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Salesforce unveils low-code AI toolkit for CRM"
-    excerpt: "Einstein 1 Studio allows Salesforce admins and developers to customize the Einstein Copilot conversational AI assistant and embed AI functionality into CRM apps."
-    publishedDateTime: 2024-03-06T23:00:00Z
-    webUrl: "https://www.infoworld.com/article/3714260/salesforce-unveils-low-code-ai-toolkit-for-crm.html"
-    ampWebUrl: "https://www.infoworld.com/article/3714260/salesforce-unveils-low-code-ai-toolkit-for-crm.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3714260/salesforce-unveils-low-code-ai-toolkit-for-crm.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 119
-    images:
-      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/12/01/17/salesforce-sign-100935102-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Salesforce Launches AI Solutions for Healthcare Professionals to Ease Administrative Burden"
     excerpt: "Salesforce introduced new data and artificial intelligence solutions tailored for healthcare professionals, intending to ease their administrative burdens. One key tool, Einstein Copilot: Health Actions, enables doctors to streamline tasks like appointment ..."
     publishedDateTime: 2024-03-07T12:03:00Z
@@ -70,6 +54,34 @@ related:
       - url: "https://www.unesco.org/sites/default/files/styles/best_image/article/2024-03/UNESCO%20Salesforce%20partnership%20for%20Artificial%20Intelligence.png.jpg?itok=WsuZ9oJ-"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Salesforce introduces the Data Cloud Spring ‘24 Release"
+    excerpt: "Salesforce is unveiling its Data Cloud Spring ‘24 Release, including new innovations to make data in Data Cloud more usable across Salesforce’s CRM applications and platform services."
+    publishedDateTime: 2024-03-07T14:30:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=162953"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 24
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/OtherImages/151196-2023-Cover-Images-ORG.png"
+        width: 772
+        height: 594
+        isCached: true
+  - title: "Salesforce Data Cloud Spring ‘24 Release Sets New Standards in Combating Data Fragmentation with AI Insights"
+    excerpt: "Salesforce has announced the Data Cloud Spring ‘24 Release, which includes new innovations to make data in Data Cloud more usable across"
+    publishedDateTime: 2024-03-07T21:08:00Z
+    webUrl: "https://www.datanami.com/this-just-in/salesforce-data-cloud-spring-24-release-sets-new-standards-in-combating-data-fragmentation-with-ai-insights/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 20
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2023/06/CCCLV24_Property_Image-4-scaled.jpg"
+        width: 2560
+        height: 1336
         isCached: true
   - title: "Salesforce launches Einstein 1 Studio to support admin and developers"
     excerpt: "Salesforce has announced the availability of Einstein 1 Studio. The solution is a set of low-code tools that enables Salesforce admins and developers to"

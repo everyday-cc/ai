@@ -65,20 +65,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "AI Performance And Real-Time Control In Robotics And Autonomous Applications"
-    excerpt: "running complex image AI models that previously required a GPU with a power consumption as low as that of a conventional embedded microprocessor (MPU). In addition to this AI accelerator, the high-end RZ/V2H MPU is equipped with an image processing ..."
-    publishedDateTime: 2024-03-07T00:00:00Z
-    webUrl: "https://semiengineering.com/ai-performance-and-real-time-control-in-robotics-and-autonomous-applications/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 68
-    images:
-      - url: "https://semiengineering.com/wp-content/uploads/Renesas_AI-Performance-Realtime-Control-Robotics-fig1.jpg?fit=575%2C504&ssl=1"
-        width: 575
-        height: 504
-        isCached: true
   - title: "Human Creativity in the Age of Artificial Intelligence"
     excerpt: "In 2015, my friend, Jim Clark, invited me to attend what was then a groundbreaking conversation at the World Summit on Technological Unemployment, hosted at the TIME magazine Conference Center. Jim laid it out pretty clearly: the tech revolution was set to ..."
     publishedDateTime: 2024-03-11T02:11:00Z

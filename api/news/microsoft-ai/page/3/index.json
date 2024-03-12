@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-17-how-to-install-setup-wordpress-on-microsoft-azure.md",
+      "title": "How to install & setup WordPress on Microsoft Azure",
+      "excerpt": "Step 2: Login to your Azure panel, open the virtual machine, we created in the first ... based software and gadgets and is currently learning JAVA. He loves to develop new software for Windows.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thewindowsclub.com/set-install-wordpress-microsoft-azure",
+      "originalUrl": "https://www.thewindowsclub.com/set-install-wordpress-microsoft-azure",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-17T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TWCN Tech News",
+        "domain": "thewindowsclub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-16-google-microsoft-openai-make-ai-pledges-ahead-of-munich-security-conference.md",
       "title": "Google, Microsoft, OpenAI make AI pledges ahead of Munich Security Conference",
       "excerpt": "Google today launched an 'AI Cyber Defense Initiative and made several AI-related commitments, following a charge by Microsoft and OpenAI.",
@@ -1341,50 +1375,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-google-renames-bard-chatbot-to-gemini-what-chatgpt-rival-can-do-and-how-much-it-costs.md",
-      "title": "Google renames Bard chatbot to Gemini: What ChatGPT rival can do and how much it costs",
-      "excerpt": "Google on Thursday renamed its Bard chatbot after the new artificial intelligence that is powering it, called Gemini, and said consumers can pay for better reasoning capabilities as it vies with ...",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2024/02/08/business/googles-chatgpt-rival-renamed-as-gemini-heres-what-it-will-cost/",
-      "originalUrl": "https://nypost.com/2024/02/08/business/googles-chatgpt-rival-renamed-as-gemini-heres-what-it-will-cost/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2024/02/google-gemini-chatgpt.jpg?quality=75&strip=all&1707391714&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2024/02/08/business/googles-chatgpt-rival-renamed-as-gemini-heres-what-it-will-cost/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2024/02/08/business/googles-chatgpt-rival-renamed-as-gemini-heres-what-it-will-cost/amp/",
-      "publishedDateTime": "2024-02-08T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -150,15 +150,6 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 25
-  - title: "Sonata Software Supercharges Harmoni.AI with Microsoft Azure AI to Drive Responsible-First AI Adoption Across Enterprises"
-    excerpt: "Sonata Harmoni.AI, integrating Microsoft Azure AI services, will help customer reimagine business with Generative AI, differentiating themselves in the marketplace BANGALORE, India, March 7, 2024 /PRNewswire/ -- The leading Modernization Engineering ..."
-    publishedDateTime: 2024-03-07T00:00:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2024/03/07/sonata-software-supercharges-harmoni-ai-with-microsoft-azure-ai-to-drive"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 24
 
 secured: "oqZXep3q23Iptct6MtF12OhZOFXWYzGgGqCLk7lEkI2KN7Pbp7Yq+qscbqaaHhmhDDO6lVFCHIlTEkDa5+0pPstEm3ODYvqRrDe1mzLjwgr4FiovNlLnQ/hM2bFwqAS1ytlTB/oQFfiIb82AHGKEgFzBh+rtZ3hpGTqTKBr507SVhCr7SaTQaeMNtF4OJhHZAhsn7V8vFroDVLH2BeJwGxaf4NSk8mHUs7uEOi6NVD8Bnwccwb7p5G0KdixD1xYrsQgpqOnEJWEP1o7TVOnBRH5lEgqf+PM94jV9v0xuBw8MEZ6025ZCdry52+XudZBkIuUOWLo7WREwJoQ9mlhC2xul4QeOiPq5GK0E1OkRTgA=;RHsWuqtHFX7vI7li5MdbPA=="
 ---

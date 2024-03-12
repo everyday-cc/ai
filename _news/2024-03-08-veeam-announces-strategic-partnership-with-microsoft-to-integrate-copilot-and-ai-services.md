@@ -150,15 +150,6 @@ related:
         width: 1328
         height: 927
         isCached: true
-  - title: "Sonata Software Supercharges Harmoni.AI with Microsoft Azure AI to Drive Responsible-First AI Adoption Across Enterprises"
-    excerpt: "Sonata Harmoni.AI, integrating Microsoft Azure AI services, will help customer reimagine business with Generative AI, differentiating themselves in the marketplace BANGALORE, India, March 7, 2024 /PRNewswire/ -- The leading Modernization Engineering ..."
-    publishedDateTime: 2024-03-07T00:00:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2024/03/07/sonata-software-supercharges-harmoni-ai-with-microsoft-azure-ai-to-drive"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 24
 
 secured: "anoIC6JILCDvLkWZ2uBJr0/MnAo5ubLMdys29X1cOCdK8ytGeBZCqbYx+GkPsAjtGQe5bCXCQ28s6MCrXAFrCazmfvElVYAQGGld/ACjnNEBX5DWJ0WXXDiJpxFcoXtA4TCSOGPfQAllmH3Rp/Gx3sGqMw1e8NTl4aRDcaJx6D2WJJWtFcJO59tB+KEdyW/Zj7NgUYqHQPXlJ0TtDQ7gOOIA8AgXDF51WtT4JtPGuAS3Y++XnUaPFt2Fy9xkjlQbwgD/a4XdeuTMZnQLLrIWi7BzRSfowt/Xqq+UInoyDTwmZlpYQMUxeuzPYZuZpt3JXoNIDBBS+p32hI8uj3gwiIY/wTCLNhXBFVCe0bY7Qkp8SKijllnWMheLdn0wspwN1vBu1ZNDtuPg4Cm9/P2TeDsPuPv2tFOz7rymlBex/8pQJja5ci+IQ+APdV/ZTfOPftkst+bmxTTQctK0CHlj+2AO3f9u7AMekQdMT5mzmuquDXXABYe95+rtE9jxgN9/uKTz3PsFJpd3Fcucvr+RKw==;msTj2ySqFG3srB0pRy3Tfg=="
 ---

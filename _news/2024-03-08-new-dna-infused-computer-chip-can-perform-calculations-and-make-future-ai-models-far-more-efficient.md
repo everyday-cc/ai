@@ -39,6 +39,20 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "New computer chip made with DNA could be an AI breakthrough"
+    excerpt: "A new proof-of-concept DNA-infused computer chip could be the AI breakthrough that we’ve been waiting for. The chip was made using a DNA substrate that can perform calculations and manage big data processing, all in the same component."
+    publishedDateTime: 2024-03-11T22:05:00Z
+    webUrl: "https://bgr.com/science/new-computer-chip-made-with-dna-could-be-an-ai-breakthrough/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 54
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/05/AdobeStock_163144075.jpeg?quality=82&strip=all"
+        width: 2400
+        height: 1350
+        isCached: true
 
 secured: "xtrQvItyNLQ5zBHE069p/GhZUECjC1EXe87R/VvlAhjbeUTw8iWiXv73GTd52+/amZWDnUFtTbaA+82a0ZAE5mLOt1z3v72iin4h9JYGAMSmfox0vOkg7kvSNm+tWE8dJqQsGaB16yInKgAf8CqkpxbEJ9Na/W+YlyITqom2fdxbqh7w8ozDJuVcunPgsRZDSAjDj0T2D572x70K0WFgwQt73T77/T1oT+Mk7mXKJst8ijxtwMRUFk0xQ6reJQkKIz7byrFWl8SBY9scN0xcWjw6uHK9G9Jvjw4/tCAPSh3IkFaNjTIjDSYHShnHzlBK++KHdZOTVICXYfB+OXq2Ho4SYcIdTF3NCsKBg3V23ujVA+HrECFyqkYSDJkyIK7W9wjFo0UzyN6kNBjaX8AtYHSkYvUUHn4JC914WC0PhqMrznIn/6O2Jt7VNMqUiM6bRSICEg5cZ1+4ZAU6qQ//RVKrWBPFGAtu3yu2zzqaBf4Hcnk/YWF88RiLfjrKY5lI+KskcgIK41MkShrGnNlpJA==;HafT4zd3+zRc7umNgZfIJw=="
 ---

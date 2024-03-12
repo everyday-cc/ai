@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mid-day.com/amp/brand-media/article/best-ai-tools-to-enh
 cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/brand-media/article/best-ai-tools-to-enhance-your-social-media-account-23339125"
 type: article
 quality: 59
-heat: 86
+heat: 79
 published: true
 
 provider:

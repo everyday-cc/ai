@@ -22,6 +22,22 @@ topics:
   - AI
 
 related:
+  - title: "Apple is planning to use artificial intelligence to optimize App Store ads"
+    excerpt: "Apple is planning on harnessing the power of artificial intelligence to buy and place ads in its App Store, similar to how Google's Performance Max and Meta's Advantage+ platforms work."
+    publishedDateTime: 2024-03-11T18:59:00Z
+    webUrl: "https://appleinsider.com/articles/24/03/11/apple-is-planning-to-use-artificial-intelligence-to-optimize-app-store-ads"
+    ampWebUrl: "https://appleinsider.com/articles/24/03/11/apple-is-planning-to-use-artificial-intelligence-to-optimize-app-store-ads/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/24/03/11/apple-is-planning-to-use-artificial-intelligence-to-optimize-app-store-ads/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 57
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/58921-120167-appstore-xl.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Apple may use artificial intelligence in Apple Search Ads"
     excerpt: "Apple plans to use the power of artificial intelligence to buy and place ads in its App Store, similar to how Google’s Performance Max and Meta’s Advantage+ platforms work, according to Business Insider (as noted by AppleInsider)."
     publishedDateTime: 2024-03-11T20:20:00Z
@@ -38,15 +54,6 @@ related:
         width: 1024
         height: 499
         isCached: true
-  - title: "Apple is planning to use artificial intelligence to optimize App Store ads"
-    excerpt: "Apple is planning on harnessing the power of artificial intelligence to buy and place ads in its App Store, similar to how Google's Performance Max and Meta's Advantage+ platforms work."
-    publishedDateTime: 2024-03-11T18:59:00Z
-    webUrl: "https://appleinsider.com/articles/24/03/11/apple-is-planning-to-use-artificial-intelligence-to-optimize-app-store-ads"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 15
 
 secured: "dh9QSdfQOdKwQlifEwHt3r1zaAlgQZdOR9G1ncz7Kfz7v8XWPYoH+OO3CiiGfEz+IxQtnMJ7FEkU05rJA7+NeMVWyMt4gAWbwXhrmz/E8ldgzjG/SeUuZW2Gv9LV3DGhe1Gm/FuL0KLI0smmjm9gccVPg0QUYJRjuu6X7TPFGFc0INM5/I6IjFzzjd+DwJJe9mlYZ65lFLupQZafsi+3qzhjLnK8zULFFzyz4jqLwG91q/2Wp+m5BVnrXqu/SzkwQYprhlTYfQm6D8Kh7rjPQcILORhPgH27J5xVNSeyoLBjI0ez9u6rz1p4ZFMc+GeX9igbYBxhg9NO/hrgc/ndvPMFi2Ns4DejhSA/1E6vfuJdyHCZ/BQNKukxncUWJw1BLLj1mMBfhxkUITzCQkHtOvu9xdmlPBMJmFpLTjSp4DLLesgg2+KqKEIDg26OfgeGGLkCqDEeyn9i5yHhgVf0AnJO0a/ZEYKEufOxRjeuz3YCSpVxGXZ+7FUfBBNmZn4UjAY+6kvu2vvfxTR67+Gzew==;cjZuCppwXrMUWjk5EKRHkw=="
 ---

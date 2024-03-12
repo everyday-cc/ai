@@ -8,8 +8,8 @@ webUrl: "https://appleinsider.com/articles/24/03/11/mac-studio-visionos-20-ios-1
 ampWebUrl: "https://appleinsider.com/articles/24/03/11/mac-studio-visionos-20-ios-18-apple-ai-what-to-expect-from-apple-for-wwdc-2024/amp/"
 cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/24/03/11/mac-studio-visionos-20-ios-18-apple-ai-what-to-expect-from-apple-for-wwdc-2024/amp/"
 type: article
-quality: 53
-heat: 63
+quality: 55
+heat: 65
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI Ethics
 
 images:
   - url: "https://photos5.appleinsider.com/gallery/58907-120140-54561-110302-54310-109562-wwdcapplepark-xl-xl-xl.jpg"
@@ -42,6 +43,6 @@ related:
         height: 900
         isCached: true
 
-secured: "HcuW0G1AIRxbIqVccNQ1PFoRIgaEsPrtbG2oiGopnMHybU2t3HslCcfDWf7fvGii4JYGDJq7iiiC9wlIlvzDvtTCqAr/SvAs/X5hbIxuiTGn5t0jWGw1iU8ZUnd9kZp0ecZ9hGCw4CrCrL8/Z4igiA+YxHxnmraZIGVcOAxwQeSlfHY3/DOYLXOwLPrrSLbIm8BhzVJeEZnswo6JlD09zm0NfGXq7wfTM+K6BiqGhtouNLA73RY2pBbHMEaFUz1x7/FqRdxCSenEC9miWBIrCgJngzQCBWi9fOX9FVLkG1zO9l/AbLg74BFVDTxH2tqNVbLyMabQ47YsNkU3+jbsnYDrpn8w13ClnaHgeoOX6j4=;WQmGFyQKHD+12KcXfUdi5Q=="
+secured: "q/tOyVqBtIlS5eVM0BdMWXubjdNVDdGD4CWQS5BkjeSjNk1xVHMadMz+xqs7fD9GdckmiZvnI2rs5wX3IqWPYsk8GknCF09mMDUywctjRiGauEwouooQsfWr1gZBC2eBRSHCvBazXkk/rU3jESqaUyV4/54ritWlTCRHy8ZCgNxoI7Ybrdu5HUr1i2RCEE3og1DaSjQ4i7ZKWtZnaRmTMuNIqHHWcfvSjgHIe1SoAB3xZJzr99ppEPdwD6YBJrgVp6T+1M/vmpKHaUbmqelhu7RS0edSMtd61iL+BNh0A6AyItKtsgrHWC8+cNB5paLLmWq+ahagV+B7xUQac89eDYMkPzsb1BjAzClR3zBVDV/U41BuvBgpkHcBoUdOebV3kVGaCmqGZuGzDfD2ANlSN7jBySHj2npuj0N7NbxURlJafJCOKzPEPkj6darsk6NNAksza9KBDNlEa0ctHk3LarQpDaEjavGgXAl0L9lSC6pswtn0BM887EZTe6/0umfP4aZQI1bf+3CQ6WV307cPpA==;6pIJ/67OJVdV60AkBmYOzg=="
 ---
 

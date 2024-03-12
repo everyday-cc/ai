@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-12-report-highlights-civil-liberties-concerns-with-facial-recognition-technology.md",
+      "title": "Report highlights civil liberties concerns with facial recognition technology",
+      "excerpt": "Facial recognition technology (FRT) can allow investigators to scan billions of photos or videos to identify a potential suspect or a victim.",
+      "sourceUrl": null,
+      "webUrl": "https://www.whio.com/news/national/report-highlights-civil-liberties-concerns-with-facial-recognition-technology/AHOZDZJFIVHCHG34QGBSQZQRTU/",
+      "originalUrl": "https://www.whio.com/news/national/report-highlights-civil-liberties-concerns-with-facial-recognition-technology/AHOZDZJFIVHCHG34QGBSQZQRTU/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cmg-cmg-tv-10040-prod.cdn.arcpublishing.com/resizer/70lD4MUC1AQxkMV9oFwetysgtHE=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/MMXUPC3ETJCJBCFBK2KOULZONA.jpeg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.whio.com/news/national/report-highlights-civil-liberties-concerns-with-facial-recognition-technology/AHOZDZJFIVHCHG34QGBSQZQRTU/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-whio-com.cdn.ampproject.org/c/s/www.whio.com/news/national/report-highlights-civil-liberties-concerns-with-facial-recognition-technology/AHOZDZJFIVHCHG34QGBSQZQRTU/?outputType=amp",
+      "publishedDateTime": "2024-03-11T23:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WHIO",
+        "domain": "whio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2024-03-11-how-to-choose-an-ai-as-a-service-provider.md",
       "title": "How to choose an AI-as-a-service provider",
       "excerpt": "AIaaS can help you jumpstart your AI projects, but there are some details you need to know. Here’s what to look for and five leading options to consider.",
@@ -164,7 +208,7 @@
       "originalUrl": "https://www.clickorlando.com/insider/2024/03/08/airports-using-biometric-facial-recognition-in-florida/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1348,49 +1392,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-facial-recognition-software-of-all-things-played-a-role-in-this-guys-latest-arrest.md",
-      "title": "Facial recognition software, of all things, played a role in this guy's latest arrest",
-      "excerpt": "But besides “video surveillance within the store,” the arrest report cites “new facial recognition software Lowe's has installed,” which helped the detective compare pictures of Saunders at the store with pictures from his driver’s license.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews4.com/news/nation-world/facial-recognition-software-florida-jason-vincent-saunders-latest-arrest-theft-stealing-shoplifting-criminal-charges-booking-photos-mugshots-repeat-offender-chainsaw-aisle-seasonal-lowes-store-detective-county-sumter-marion",
-      "originalUrl": "https://abcnews4.com/news/nation-world/facial-recognition-software-florida-jason-vincent-saunders-latest-arrest-theft-stealing-shoplifting-criminal-charges-booking-photos-mugshots-repeat-offender-chainsaw-aisle-seasonal-lowes-store-detective-county-sumter-marion",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://abcnews4.com/resources/media/586a0d1f-edce-4faa-93aa-00320b004454-medium16x9_20030610JasonVincentSaundersMarionCo.PNG",
-          "width": 648,
-          "height": 365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://abcnews4.com/amp/news/nation-world/facial-recognition-software-florida-jason-vincent-saunders-latest-arrest-theft-stealing-shoplifting-criminal-charges-booking-photos-mugshots-repeat-offender-chainsaw-aisle-seasonal-lowes-store-detective-county-sumter-marion",
-      "cdnAmpWebUrl": "https://abcnews4-com.cdn.ampproject.org/c/s/abcnews4.com/amp/news/nation-world/facial-recognition-software-florida-jason-vincent-saunders-latest-arrest-theft-stealing-shoplifting-criminal-charges-booking-photos-mugshots-repeat-offender-chainsaw-aisle-seasonal-lowes-store-detective-county-sumter-marion",
-      "publishedDateTime": "2024-02-20T22:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "abcnews4",
-        "domain": "abcnews4.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.mactech.com/2024/03/11/apple-may-use-artificial-intellig
 cdnAmpWebUrl: "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2024/03/11/apple-may-use-artificial-intelligence-in-apple-search-ads/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: MacTech
@@ -30,11 +30,18 @@ related:
     excerpt: "Apple is planning on harnessing the power of artificial intelligence to buy and place ads in its App Store, similar to how Google's Performance Max and Meta's Advantage+ platforms work."
     publishedDateTime: 2024-03-11T18:59:00Z
     webUrl: "https://appleinsider.com/articles/24/03/11/apple-is-planning-to-use-artificial-intelligence-to-optimize-app-store-ads"
+    ampWebUrl: "https://appleinsider.com/articles/24/03/11/apple-is-planning-to-use-artificial-intelligence-to-optimize-app-store-ads/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/24/03/11/apple-is-planning-to-use-artificial-intelligence-to-optimize-app-store-ads/amp/"
     type: article
     provider:
       name: AppleInsider
       domain: appleinsider.com
-    quality: 15
+    quality: 57
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/58921-120167-appstore-xl.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Apple has begun testing an AI-powered ad product similar to Google's Performance Max as it looks to supercharge its $7 billion ad business"
     excerpt: "Expansion of this tool could lead to new ad placements across Apple's properties, experts said."
     publishedDateTime: 2024-03-11T17:39:00Z

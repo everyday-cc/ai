@@ -81,20 +81,6 @@ related:
       name: The Robot Report
       domain: therobotreport.com
     quality: 79
-  - title: "AI Performance And Real-Time Control In Robotics And Autonomous Applications"
-    excerpt: "running complex image AI models that previously required a GPU with a power consumption as low as that of a conventional embedded microprocessor (MPU). In addition to this AI accelerator, the high-end RZ/V2H MPU is equipped with an image processing ..."
-    publishedDateTime: 2024-03-07T00:00:00Z
-    webUrl: "https://semiengineering.com/ai-performance-and-real-time-control-in-robotics-and-autonomous-applications/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 68
-    images:
-      - url: "https://semiengineering.com/wp-content/uploads/Renesas_AI-Performance-Realtime-Control-Robotics-fig1.jpg?fit=575%2C504&ssl=1"
-        width: 575
-        height: 504
-        isCached: true
   - title: "The potential effects of AI healthcare"
     excerpt: "It’s easy to assume that artificial intelligence (AI) is only about ChatGPT and other AI chatbots. After all, the most prominent names like Google Gemini and Microsoft Copilot have similar"
     publishedDateTime: 2024-03-07T10:58:00Z
