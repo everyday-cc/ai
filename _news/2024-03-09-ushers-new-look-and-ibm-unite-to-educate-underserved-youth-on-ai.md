@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Usher’s New Look Embarks on AI-Focused Collaboration With IBM To Set Students Up for Career Success"
-    excerpt: "AI ethics, prompt writing, machine learning, AI to help the environment, and improving customer service with AI. Communities helped by UNL span the United States including Atlanta, Chicago, Detroit, Los Angeles, Milwaukee, and New York City. Across these ..."
-    publishedDateTime: 2024-03-08T16:34:00Z
-    webUrl: "https://www.csrwire.com/press_releases/796646-ushers-new-look-embarks-ai-focused-collaboration-ibm-set-students-career"
-    type: article
-    provider:
-      name: CSR Wire
-      domain: csrwire.com
-    quality: 25
-    images:
-      - url: "https://back.3blmedia.com/sites/default/files/inline-images/collage_IBM_030624.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Usher's New Look Embarks on AI-Focused Collaboration With IBM To Set Students Up for Career Success"
     excerpt: "Collaboration through IBM SkillsBuild will create access to technology training for thousands of young people from communities historically underrepresented in technologyAUSTIN, TX / ACCESSWIRE / Marc"
     publishedDateTime: 2024-03-07T14:40:00Z

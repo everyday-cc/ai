@@ -9,8 +9,8 @@ ampWebUrl: "https://www.firstpost.com/explainers/bengaluru-driverless-metro-tria
 cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/explainers/bengaluru-driverless-metro-trials-begin-how-ai-will-help-steer-this-train-13746522.html/amp"
 type: article
 quality: 72
-heat: -1
-published: false
+heat: 82
+published: true
 
 provider:
   name: Firstpost
@@ -27,37 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Bengaluru’s first driverless metro train, aided by AI: All you need to know"
-    excerpt: "The train is set to be commissioned for the under-construction yellow line, connecting RV Road and Bommasandra. The new train will also use artificial intelligence (AI) for safety purposes."
-    publishedDateTime: 2024-03-07T10:53:00Z
-    webUrl: "https://indianexpress.com/article/explained/bengaluru-first-driverless-metro-yellow-line-ai-9201108/"
-    ampWebUrl: "https://indianexpress.com/article/explained/bengaluru-first-driverless-metro-yellow-line-ai-9201108/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/bengaluru-first-driverless-metro-yellow-line-ai-9201108/lite/"
+  - title: "This Bengaluru-based AI Startup is Helping Enterprise Productionize Generative AI Apps Reliably"
+    excerpt: "Portkey.ai, a bengaluru based startup boosts enterprise AI app deployments, simplifying integration in the LLMOps landscape."
+    publishedDateTime: 2024-03-08T05:04:00Z
+    webUrl: "https://analyticsindiamag.com/this-bengaluru-based-ai-startup-is-helping-enterprise-productionize-generative-ai-apps-reliably/"
     type: article
     provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 72
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 25
     images:
-      - url: "https://images.indianexpress.com/2024/03/bengaluru-metro-yellow-line.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "All you need to know about Bengaluru’s first driverless metro train, aided by AI"
-    excerpt: "The train is set to be commissioned for the under-construction yellow line, connecting RV Road and Bommasandra. The new train will also use artificial intelligence (AI) for safety purposes."
-    publishedDateTime: 2024-03-07T10:52:00Z
-    webUrl: "https://indianexpress.com/article/explained/bengalurus-first-driverless-metro-yellow-line-ai-9201108/"
-    ampWebUrl: "https://indianexpress.com/article/explained/bengalurus-first-driverless-metro-yellow-line-ai-9201108/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/bengalurus-first-driverless-metro-yellow-line-ai-9201108/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 69
-    images:
-      - url: "https://images.indianexpress.com/2024/03/bengaluru-metro-yellow-line.jpg"
-        width: 1600
-        height: 900
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2024/03/portkey-ai-founders.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "0TFgDjbOfaOf81J5F3PXhHf1P7MDqrPZVt14FA6LlWTTwbS4HH5g9qnp+OKv2Ft3F16Garbe12VmjY3s1j0PgXJ/EmfO1oVHnfZ5sf/nTzOwW45kzUjrRpEARqN1HebsvmPZeX6E0E4fZ0OI2bJ6X6acjg2hK+RlYTXhSSn8d1JqYg7zrzgqal/ByTIJioKEDwRD+SI4Sne+IdBjwJgzTMRPWDNpB1Hen5pYlLzM8eSZhA9hog81ycupTvJBoBSBTabJVtp0CZ6Sq6RsJF49wdwVC5M2dglKl9DaKcATugCW5fXiexaTZ+eiTAg3UOtvJmNmgFeONKi+EwiHcGXqU3pv8LqyZji+zj/nu3TS5ElJdYfSatjjwndTgqCwDUv5rvxjuWfbHW9xjbGspYHqS2nnmFE1JoXBwwZ1MHUkW1HJBlUWVrJnq11tzf2DkinX4jDFdkpPkbNRNwERT5Z1yerwGj/OofWQgBkijOEHg3d96qA4tsCnzcHuoDD8mA76JyQ+bXuYdulIuYOmdpnk1g==;fqRJ1yhJp7mmT1ApPhi5iw=="

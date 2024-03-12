@@ -2,6 +2,59 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2024-01-23-tesla-finally-releases-sort-of-its-neural-network-full-self-driving-feature.md",
+      "title": "Tesla finally releases (sort of) its neural network Full Self-Driving feature.",
+      "excerpt": "Electrek reports that Tesla is slowly releasing FSD v12 on beta to a very small group of testers after CEO Elon Musk promised its release last year. If the demo was anything to go by, delaying the release to 2024 was a good idea,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2024/1/22/24046879/tesla-finally-releases-sort-of-its-neural-network-full-self-driving-feature",
+      "originalUrl": "https://www.theverge.com/2024/1/22/24046879/tesla-finally-releases-sort-of-its-neural-network-full-self-driving-feature",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/23966628/the_verge_social_share.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T16:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2024-01-22-remote-control-rental-cars-not-as-driverless-as-they-look.md",
       "title": "Remote-control rental cars: Not as driverless as they look",
       "excerpt": "Teledriving represents a weird halfway step to the fully autonomous Johnnycab future companies like Waymo, Baidu, Cruise, Zoox, Pony.ai and others are furiously working to bring about. Self-driving robotaxi trials are underway in several geofenced areas ...",
@@ -1184,40 +1237,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-13-cruise-casts-shadow-on-self-driving-tech-at-ces-2024.md",
-      "title": "Cruise casts shadow on self-driving tech at CES 2024",
-      "excerpt": "LAS VEGAS — Self-driving vehicles and advances in automated-driving technology have been a CES staple since Audi drove an A7 autonomously from San Francisco to Las Vegas nine years ago.",
-      "sourceUrl": null,
-      "webUrl": "https://www.autonews.com/ces/self-driving-tech-quiet-ces-2024",
-      "originalUrl": "https://www.autonews.com/ces/self-driving-tech-quiet-ces-2024",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-12T23:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

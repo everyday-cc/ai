@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-24-mit-takes-a-hands-on-approach-to-tactile-learning.md",
+      "title": "MIT takes a hands-on approach to tactile learning",
+      "excerpt": "Some folks prefer to get a grip on things to better understand concepts. Researchers have developed smart gloves for tactile learners that use haptic feedback and AI to teach users new skills, fast-track precision training and control robots remotely.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/wearables/mit-csail-smart-glove-haptic-tactile-learning/",
+      "originalUrl": "https://newatlas.com/wearables/mit-csail-smart-glove-haptic-tactile-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/3857f5f/2147483647/strip/true/crop/1500x1000+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F0e%2Ff0%2F62f8cc474b10a8b01f47a94bb17d%2Fmit-smartglove.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/wearables/mit-csail-smart-glove-haptic-tactile-learning/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/wearables/mit-csail-smart-glove-haptic-tactile-learning/?amp=true",
+      "publishedDateTime": "2024-02-23T17:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-22-silicon-microresonators-for-artificial-neural-networks.md",
       "title": "Silicon microresonators for artificial neural networks",
       "excerpt": "Researchers have made significant progress in the development of artificial neural networks using tiny silicon devices called microresonators, paving the way for faster and more energy-efficient ...",
@@ -1266,50 +1318,6 @@
       "provider": {
         "name": "Financial Post",
         "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-machine-learning-dominates-ai-job-market-high-demand-for-mid-senior-level-experts.md",
-      "title": "Machine learning dominates AI job market; high demand for mid, senior-level experts",
-      "excerpt": "Among the hottest artificial intelligence (AI) skills, machine learning (ML) tops the chart with the most number of active jobs, according to data shared by staffing companies and employment platforms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/business/machine-learning-dominates-ai-job-market-high-demand-for-mid-senior-level-experts-12222171.html",
-      "originalUrl": "https://www.moneycontrol.com/news/business/machine-learning-dominates-ai-job-market-high-demand-for-mid-senior-level-experts-12222171.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2022/01/Machine-Learning-ML-Engineer.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/machine-learning-dominates-ai-job-market-high-demand-for-mid-senior-level-experts-12222171.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/machine-learning-dominates-ai-job-market-high-demand-for-mid-senior-level-experts-12222171.html/amp",
-      "publishedDateTime": "2024-02-08T08:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
         "images": null,
         "publishers": null,
         "authors": null

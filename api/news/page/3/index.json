@@ -2,6 +2,245 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-03-09-a-once-in-a-decade-investment-opportunity-1-artificial-intelligence-ai-stock-to-buy-now-and-hold-long-term.md",
+      "title": "A Once-in-a-Decade Investment Opportunity: 1 Artificial Intelligence (AI) Stock to Buy Now and Hold Long-Term",
+      "excerpt": "Artificial intelligence will reshape IT systems in the coming years, and ServiceNow is well-positioned to benefit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/03/09/once-in-decade-investment-1-ai-growth-stock-to-buy/",
+      "originalUrl": "https://www.fool.com/investing/2024/03/09/once-in-decade-investment-1-ai-growth-stock-to-buy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/768054/strategy-3.jpg",
+          "width": 7500,
+          "height": 4218,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-09T10:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-09-ai-driven-evolution-of-low-code-software-development-in-india.md",
+      "title": "AI-driven evolution of low-code software development in India",
+      "excerpt": "As low-code platforms evolve with out-of-the-box AI capabilities, organizations must conscientiously explore ways to harness its full potential. The ability to empower developers",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/",
+      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2024/03/Untitled-design-2024-03-08T174706.154.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/lite/",
+      "publishedDateTime": "2024-03-09T10:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-09-ai-update-for-hollywood.md",
+      "title": "AI Update For Hollywood",
+      "excerpt": "Artificial intelligence (\"AI\") developments are occurring at breakneck speed, so this article provides a snapshot on developments that affect Hollywood.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/schuylermoore/2024/03/09/ai-update-for-hollywood/",
+      "originalUrl": "https://www.forbes.com/sites/schuylermoore/2024/03/09/ai-update-for-hollywood/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ec33e7da5095face057f5c/0x0.jpg?format=jpg&crop=3615,2034,x0,y186,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/schuylermoore/2024/03/09/ai-update-for-hollywood/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/schuylermoore/2024/03/09/ai-update-for-hollywood/amp/",
+      "publishedDateTime": "2024-03-09T09:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-09-why-is-this-model-of-artificial-intelligence-being-called-the-most-intelligent.md",
+      "title": "Why is this model of Artificial Intelligence being called the most intelligent?",
+      "excerpt": "In the realm of artificial intelligence (AI), where breakthroughs and advancements seem almost routine, one model stands out from the crowd:..|News Track",
+      "sourceUrl": null,
+      "webUrl": "https://english.newstracklive.com/news/why-is-this-model-of-artificial-intelligence-being-called-the-most-intelligent-sc71-nu371-ta371-1312623-1.html",
+      "originalUrl": "https://english.newstracklive.com/news/why-is-this-model-of-artificial-intelligence-being-called-the-most-intelligent-sc71-nu371-ta371-1312623-1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.newstrack.in/uploads/technology-news/technology-news/Mar/09/big_thumb/bhgbh_65ec115243a87.jpg",
+          "width": 804,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://english.newstracklive.com/ampnews/why-is-this-model-of-artificial-intelligence-being-called-the-most-intelligent-sc71-nu371-ta371-1312623-1.html",
+      "cdnAmpWebUrl": "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/why-is-this-model-of-artificial-intelligence-being-called-the-most-intelligent-sc71-nu371-ta371-1312623-1.html",
+      "publishedDateTime": "2024-03-09T08:12:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Track",
+        "domain": "newstracklive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-09-i-fell-under-the-spell-of-an-ai-psychologist-then-things-got-a-little-weird.md",
+      "title": "I fell under the spell of an AI psychologist. Then things got a little weird",
+      "excerpt": "The Guardian described one person's experience with her Character.ai psychologist like this: \"Christa didn't have to worry about being boring or inappropriate or too dark. 'I could talk over and over, and not have to waste somebody's time.'\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/i-fell-under-the-spell-of-an-ai-psychologist-then-things-got-a-little-weird/",
+      "originalUrl": "https://www.zdnet.com/article/i-fell-under-the-spell-of-an-ai-psychologist-then-things-got-a-little-weird/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/ac0396a937954fd46deca548f74f3401ac9cb513/2024/03/08/af85fa11-8439-4f31-bb64-cd31ce3ff230/gettyimages-1508780671.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/i-fell-under-the-spell-of-an-ai-psychologist-then-things-got-a-little-weird/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-fell-under-the-spell-of-an-ai-psychologist-then-things-got-a-little-weird/",
+      "publishedDateTime": "2024-03-09T04:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-09-gpu-access-to-power-up-indias-ai-play-experts.md",
       "title": "GPU access to power up India’s AI play: experts",
       "excerpt": "AI Mission will help startups make in India and for the world, say tech investors. The Rs 10,372-crore Artificial Intelligence (AI) Mission, announced on Thursday, will operate on a public-private partnership model.",
@@ -10,7 +249,7 @@
       "originalUrl": "https://economictimes.indiatimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/articleshow/108335973.cms?from=mdr",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -282,7 +521,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/navigating-the-risks-of-ai-weaponization/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -577,7 +816,7 @@
       "originalUrl": "https://blog.google/technology/health/how-ai-is-helping-advance-womens-health-around-the-world/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": null,
       "content": "",
@@ -663,7 +902,7 @@
       "originalUrl": "https://www.scmp.com/tech/big-tech/article/3254609/broadcom-sees-us10-billion-ai-chip-sales-2024-shares-dip",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -905,7 +1144,7 @@
       "originalUrl": "https://scitechdaily.com/not-science-fiction-how-optical-neural-networks-are-revolutionizing-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -936,236 +1175,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-08-mosti-ai-ethics-and-governance-guidelines-nearing-completion.md",
-      "title": "Mosti: AI ethics and governance guidelines nearing completion",
-      "excerpt": "The development of the artificial intelligence (AI) code of ethics and governance guidelines has now reached 90 per cent, according to the Ministry",
-      "sourceUrl": null,
-      "webUrl": "https://www.malaymail.com/news/malaysia/2024/03/08/mosti-ai-ethics-and-governance-guidelines-nearing-completion/122212",
-      "originalUrl": "https://www.malaymail.com/news/malaysia/2024/03/08/mosti-ai-ethics-and-governance-guidelines-nearing-completion/122212",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.malaymail.com/malaymail/uploads/images/2024/03/08/192687.JPG?v=1709881260",
-          "width": 1000,
-          "height": 679,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.malaymail.com/amp/news/malaysia/2024/03/08/mosti-ai-ethics-and-governance-guidelines-nearing-completion/122212",
-      "cdnAmpWebUrl": "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/malaysia/2024/03/08/mosti-ai-ethics-and-governance-guidelines-nearing-completion/122212",
-      "publishedDateTime": "2024-03-08T05:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "malaymail",
-        "domain": "malaymail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-08-how-stitch-fix-is-using-generative-ai-to-help-us-dress-better.md",
-      "title": "How Stitch Fix Is Using Generative AI To Help Us Dress Better",
-      "excerpt": "What makes Stitch Fix really special is its ability to strike that perfect balance between human knowledge and machine capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2024/03/08/how-stitch-fix-is-using-generative-ai-to-help-us-dress-better/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2024/03/08/how-stitch-fix-is-using-generative-ai-to-help-us-dress-better/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e4a9bf6aa5b8be3b7e9175/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1599,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2024/03/08/how-stitch-fix-is-using-generative-ai-to-help-us-dress-better/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/03/08/how-stitch-fix-is-using-generative-ai-to-help-us-dress-better/amp/",
-      "publishedDateTime": "2024-03-08T05:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-08-ayushmann-khurrana-need-to-develop-certain-laws-related-to-artificial-intelligence.md",
-      "title": "Ayushmann Khurrana: 'Need to develop certain laws related to artificial intelligence'",
-      "excerpt": "Actor Ayushmann Khurrana on Thursday said while filmmaking and technology go hand-in-hand, there is a need to regulate the use of artificial intelligence (AI). Khurrana was speaking on the third day of FICCI Frames 2024 here at the session titled \"From ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraphindia.com/entertainment/ayushmann-khurrana-need-to-develop-certain-laws-related-to-artificial-intelligence/cid/2005506",
-      "originalUrl": "https://www.telegraphindia.com/entertainment/ayushmann-khurrana-need-to-develop-certain-laws-related-to-artificial-intelligence/cid/2005506",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.telegraphindia.com/telegraph/2023/Apr/1681115561_ayushmann-khurrana.jpeg",
-          "width": 900,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.telegraphindia.com/amp/entertainment/ayushmann-khurrana-need-to-develop-certain-laws-related-to-artificial-intelligence/cid/2005506",
-      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/entertainment/ayushmann-khurrana-need-to-develop-certain-laws-related-to-artificial-intelligence/cid/2005506",
-      "publishedDateTime": "2024-03-08T04:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Telegraph",
-        "domain": "telegraphindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-the-diversity-dividend-how-inclusive-businesses-gain-competitive-advantage.md",
-      "title": "The diversity dividend: How inclusive businesses gain competitive advantage",
-      "excerpt": "Companies with diverse workforces are better positioned to deliver truly customer-centric experiences to all consumers.\nThe post The diversity dividend: How inclusive businesses gain competitive advantage appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/the-diversity-dividend-how-inclusive-businesses-gain-competitive-advantage/",
-      "originalUrl": "https://www.ibm.com/blog/the-diversity-dividend-how-inclusive-businesses-gain-competitive-advantage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-07T21:07:51Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-08-cognizant-launches-state-of-the-art-san-francisco-lab-to-boost-enterprise-ai-adoption.md",
-      "title": "Cognizant launches state-of-the-art San Francisco lab to boost enterprise AI adoption",
-      "excerpt": "Cognizant launches Advanced AI Lab in San Francisco to drive innovation and research in AI systems and technologies, as part of its $1 billion investment in generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/cognizant-launches-state-of-the-art-san-francisco-lab-to-boost-enterprise-ai-adoption/",
-      "originalUrl": "https://venturebeat.com/ai/cognizant-launches-state-of-the-art-san-francisco-lab-to-boost-enterprise-ai-adoption/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/03/nuneybits_Vector_art_of_a_San_Francisco_labratory_for_artificia_a849076e-45df-47e4-9cf0-3080b0c86784-transformed.webp?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-07T20:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
         "AI"
       ]
     }

@@ -35,15 +35,6 @@ related:
       name: Google
       domain: blog.google
     quality: 69
-  - title: "The women in AI making a difference"
-    excerpt: "Many had no training or education, formal or otherwise, in AI. Contrary to the Times’ suggestion, the AI craze didn’t start with Musk sitting adjacent to Page at a mansion in the Bay. It began long before that, with academics, regulators, ethicists and ..."
-    publishedDateTime: 2024-03-09T19:10:00Z
-    webUrl: "https://techcrunch.com/2024/03/09/the-women-in-ai-making-a-difference/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
   - title: "AI Is Here, But Who Is It Helping?"
     excerpt: "Following Crunchyroll president Rahul Purini 's confirmation that the company is already testing generative A.I. uses on subtitling and closed captioning, Chris and Lucas discuss where the technology could benefit more broadly and management's misjudgment on how to implement it."
     publishedDateTime: 2024-03-07T14:00:00Z

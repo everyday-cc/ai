@@ -62,17 +62,6 @@ related:
         width: 500
         height: 250
         isCached: true
-  - title: "India’s AI leap: bridging the gap"
-    excerpt: "The just announced National Mission on AI ensures that all the necessary building blocks needed by India to shape the future of AI for India and the world are in place."
-    publishedDateTime: 2024-03-11T07:20:00Z
-    webUrl: "https://www.livemint.com/ai/indias-ai-leap-bridging-the-gap-11710140690633.html"
-    ampWebUrl: "https://www.livemint.com/ai/indias-ai-leap-bridging-the-gap/amp-11710140690633.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/indias-ai-leap-bridging-the-gap/amp-11710140690633.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 39
   - title: "India AI Mission: How India Plans To Lead in Artificial Intelligence"
     excerpt: "The cabinet led by PM Narendra Modi has approved the national-level IndiaAI mission, allocating Rs 10,371.92 crore, aligning with a vision to foster AI for national benefit The IndiaAI mission aims to establish a robust ecosystem driving AI innovation via ..."
     publishedDateTime: 2024-03-08T05:32:00Z

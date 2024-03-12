@@ -25,29 +25,52 @@ images:
     isCached: true
 
 related:
-  - title: "Usher’s New Look And IBM Unite To Educate Underserved Youth On AI"
-    excerpt: "Youth learners will gain access to over 1,000 IBM SkillsBuild courses spanning AI fundamentals, ethics, machine learning, and more."
-    publishedDateTime: 2024-03-08T21:45:00Z
-    webUrl: "https://www.blackenterprise.com/ushers-new-look-ibm-youth-ai/"
+  - title: "Google Engineer Steals AI Trade Secrets for Chinese Companies"
+    excerpt: "a China-based company focused on developing a CMS that promised to accelerate ML workloads and speed up AI model training. Shortly thereafter, Ding, acting as CEO of his startup, applied for and got acceptance to a China-based incubation program for high ..."
+    publishedDateTime: 2024-03-08T00:00:00Z
+    webUrl: "https://www.darkreading.com/insider-threats/google-engineer-steals-ai-trade-secrets-chinese-companies"
     type: article
     provider:
-      name: Black Enterprise
-      domain: blackenterprise.com
+      name: Dark Reading
+      domain: darkreading.com
     quality: 39
     images:
-      - url: "https://www.blackenterprise.com/wp-content/blogs.dir/1/files/2024/03/IMG_8758.jpg"
-        width: 1284
-        height: 800
+      - url: "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt896917cb42a083dc/65eb7998e12481040a898328/tradesecret_kenary820_shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop"
+        width: 1000
+        height: 525
         isCached: true
-  - title: "Usher's New Look Embarks on AI-Focused Collaboration With IBM To Set Students Up for Career Success"
-    excerpt: "Collaboration through IBM SkillsBuild will create access to technology training for thousands of young people from communities historically underrepresented in technologyAUSTIN, TX / ACCESSWIRE / Marc"
-    publishedDateTime: 2024-03-07T14:40:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-03/61617412-usher-s-new-look-embarks-on-ai-focused-collaboration-with-ibm-to-set-students-up-for-career-success-200.htm"
+  - title: "Ex-Google Engineer Charged With Stealing AI trade Secrets for Chinese Companies"
+    excerpt: "A former software engineer at Google has been charged with stealing artificial intelligence trade secrets from the company while secretly working with two companies based in China, the Justice Department said Wednesday."
+    publishedDateTime: 2024-03-07T17:32:00Z
+    webUrl: "https://www.inc.com/associated-press/ex-google-engineer-charged-with-stealing-ai-trade-secrets-for-chinese-companies.html"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 5
+      name: Inc
+      domain: inc.com
+    quality: 33
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/google-ai-1240718346_538223_shl4pt.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Google engineer faces 10 years in prison for stealing AI secrets for China"
+    excerpt: "A former Google engineer has been accused of stealing 500 confidential files that contain trademark secrets about AI to give to China."
+    publishedDateTime: 2024-03-07T14:30:00Z
+    webUrl: "https://www.tweaktown.com/news/96703/google-engineer-faces-10-years-in-prison-for-stealing-ai-secrets-china/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 17
+  - title: "Google Engineer Allegedly Stole AI Secrets Then Became CEO Of A Chinese Startup: Here’s How"
+    excerpt: "In October 2022, he allegedly traveled to China where he was soon named chief technology officer for an AI startup in the country. By May 2023, Ding even conducted an investor meeting to try to raise capital for the new company he founded and named himself ..."
+    publishedDateTime: 2024-03-07T18:22:00Z
+    webUrl: "https://www.crn.com/news/cloud/2024/google-engineer-allegedly-stole-ai-secrets-then-became-ceo-of-a-chinese-startup-here-s-how"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 7
 
 secured: "S06ESUAEvu98ezumwsmB5t9ZSSk+Zgr1RCidVlQbDfD5erH9BpNEIbL7s1ItqEu1WCLFB+oUxIQtUbeSep1E7qCBYfmGour/nB9UUVY7Gt084ifo8TvwTBzHn+rFplHTdlutUm0einBjdShWyf6WUATUZCxoZQNv9rbX4Z1Rq9SMuL1+4UkJIy/kCtbvW9g+twWpJMb6RAWNdPKkIhXmDleeMAEZgfxkh2vOACbxGsM2zApO+eBn/4UdgMLKq+C01BwHJk6QKGFYDXmn/QTodG5uUpg/O0+iuB8zQVc39TmVvqm2ROODJmIdftlN7NZ4cNGWuBQeGYlRw6dXTvdCOyFcmMU6EaCdrEnhHOyoQOUkqX/FTJClorx2eEYNsUxrlGvN1RWsl/lnK3mCSKfC9Xnv0ngwgqkLaat/HvZjtUpNFQKvT3yh35yUIolz2YTI+gHU8fuuvb0g9+aShM1asXQO4PYT5ZLFwqp1nQ/TOyGCK9kwtODgRlhKXRXgcZKJyka6VdYxIrVC8zd9sqUNJQ==;5zYg0hRpoMuvlbnt31/wxg=="
 ---

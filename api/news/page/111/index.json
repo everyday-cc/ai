@@ -2,6 +2,411 @@
   "page": 111,
   "value": [
     {
+      "path": "_news/2023-12-07-automation-anywhere-announces-collaboration-agreement-with-aws-to-expand-generative-ai-solution-availability-for-customers.md",
+      "title": "Automation Anywhere Announces Collaboration Agreement with AWS to Expand Generative AI Solution Availability for Customers",
+      "excerpt": "The collaboration will make it easier for customers to leverage the full breadth of Automation Anywhere's intelligent automation capabilities through their AWS investments and streamline go-to-market opportunities between the two companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.netindia123.com/netindia/showdetails.asp?id=4146519&cat=Business",
+      "originalUrl": "https://www.netindia123.com/netindia/showdetails.asp?id=4146519&cat=Business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-07T05:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Net India 123",
+        "domain": "netindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-07-superintendents-forum-artificial-intelligence-as-a-tool-for-learning.md",
+      "title": "Superintendents’ forum: Artificial intelligence as a tool for learning",
+      "excerpt": "Driverless cars? Who knows what the future will hold ... we take advantage of it. When we think of artificial intelligence, we tend to let our minds wander toward an Orwellian dystopia ruled by our robot overlords. History teaches us that new technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.readingeagle.com/2023/12/07/superintendents-forum-artificial-intelligence-as-a-tool-for-learning/",
+      "originalUrl": "https://www.readingeagle.com/2023/12/07/superintendents-forum-artificial-intelligence-as-a-tool-for-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.readingeagle.com/wp-content/uploads/migration/2020/10/0d600f7636eb67c8df3fb7b8bb21b103.jpg?w=1024&h=670",
+          "width": 1024,
+          "height": 1180,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.readingeagle.com/2023/12/07/superintendents-forum-artificial-intelligence-as-a-tool-for-learning/amp/",
+      "cdnAmpWebUrl": "https://www-readingeagle-com.cdn.ampproject.org/c/s/www.readingeagle.com/2023/12/07/superintendents-forum-artificial-intelligence-as-a-tool-for-learning/amp/",
+      "publishedDateTime": "2023-12-07T05:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reading Eagle",
+        "domain": "readingeagle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-07-ai-translation-is-causing-a-boom-in-chinas-web-novel-industry.md",
+      "title": "AI Translation is Causing a Boom in China’s Web Novel Industry",
+      "excerpt": "As technology continues to evolve, it's expected that AI will play an even more pivotal role in bridging the gap between different cultures",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2023/12/07/ai-translation-china-web-novel-industry/",
+      "originalUrl": "https://www.gizmochina.com/2023/12/07/ai-translation-china-web-novel-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/07/hitesh-choudhary-t1PaIbMTJIM-unsplash-1024x575-1.jpg",
+          "width": 1024,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-07T03:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-07-which-hands-free-driving-system-is-best-this-test-aimed-to-find-out.md",
+      "title": "Which hands-free driving system is best? This test aimed to find out",
+      "excerpt": "Tesla Autopilot with Full Self-Driving Beta Tesla Motors’ AutoPilot has come in for criticism that its name implies more than what it delivers. But the latest Full Self-Driving Beta feature gets ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.detroitnews.com/story/business/autos/2023/12/06/which-hands-free-driving-system-is-best-this-test-aimed-to-find-out/71813681007/",
+      "originalUrl": "https://www.detroitnews.com/story/business/autos/2023/12/06/which-hands-free-driving-system-is-best-this-test-aimed-to-find-out/71813681007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-07T01:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Detroit News",
+        "domain": "detroitnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-07-amd-forecasts-45-billion-ai-chip-market-this-year-2-billion-in-sales-in-2024.md",
+      "title": "AMD forecasts $45 billion AI chip market this year, $2 billion in sales in 2024",
+      "excerpt": "AMD estimated there was a $45 billion market for its data center artificial intelligence processors this year as it launched a new generation of AI chips on Wednesday. The total addressable market forecast is up from AMD's $30 billion estimate in June.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/amd-forecasts-45-billion-ai-200143104.html",
+      "originalUrl": "https://www.aol.com/amd-forecasts-45-billion-ai-200143104.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_reuters_29/2c1b86275edd349055c4264b7f9e6400",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.aol.com/amphtml/amd-forecasts-45-billion-ai-200143104.html",
+      "cdnAmpWebUrl": "https://www-aol-com.cdn.ampproject.org/c/s/www.aol.com/amphtml/amd-forecasts-45-billion-ai-200143104.html",
+      "publishedDateTime": "2023-12-07T01:12:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-12-07-artificial-intelligence-for-aging-research-in-cancer-drug-development.md",
+      "title": "Artificial intelligence for aging research in cancer drug development",
+      "excerpt": "A new editorial paper was published in <a href=\" entitled, “<a href=\" intelligence for aging research in cancer drug development.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/1010424",
+      "originalUrl": "https://www.eurekalert.org/news-releases/1010424",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/6d35b3c1-02af-46d9-b8b8-1f42671d43f2/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 354,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-07T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-07-cea-leti-paper-reports-memristor-based-bayesian-neural-network-implementation.md",
+      "title": "CEA-Leti Paper Reports Memristor-Based Bayesian Neural Network Implementation",
+      "excerpt": "GRENOBLE, France – Dec. 7, 2023 – A team comprising CEA-Leti, CEA-List and two CNRS laboratories has published a paper in Nature Communications presenting what the authors said is the first complete memristor-based Bayesian neural network ...",
+      "sourceUrl": null,
+      "webUrl": "https://insidehpc.com/2023/12/cea-leti-paper-reports-memristor-based-bayesian-neural-network-implementation/",
+      "originalUrl": "https://insidehpc.com/2023/12/cea-leti-paper-reports-memristor-based-bayesian-neural-network-implementation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insidehpc.com/wp-content/uploads/2023/12/CEA-Leti-logo-2-1-1223.png",
+          "width": 419,
+          "height": 212,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-07T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-07-kinetica-unveils-1st-sql-gpt-for-telecom-transforming-natural-language-into-sql-fine-tuned-for-the-telco-industry.md",
+      "title": "Kinetica Unveils 1st SQL-GPT for Telecom, Transforming Natural Language into SQL Fine-Tuned for the Telco Industry",
+      "excerpt": "the industry’s only real-time solution that leverages generative AI and vectorized processing to enable telco professionals to have an interactive conversation with their data using natural language, simplifying data exploration and analysis to make ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/this-just-in/kinetica-unveils-1st-sql-gpt-for-telecom-transforming-natural-language-into-sql-fine-tuned-for-the-telco-industry/",
+      "originalUrl": "https://www.datanami.com/this-just-in/kinetica-unveils-1st-sql-gpt-for-telecom-transforming-natural-language-into-sql-fine-tuned-for-the-telco-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.datanami.com/wp-content/uploads/2023/09/kinetica-logo-light.png",
+          "width": 256,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-07T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-07-news-tagged-with-computer-vision.md",
+      "title": "News tagged with computer vision",
+      "excerpt": "Using an approach based on computer vision technology, researchers can work back from COVID-19 mortality data to see how infection rates changed on the day a lockdown or similar measure was ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/tags/computer+vision/",
+      "originalUrl": "https://medicalxpress.com/tags/computer+vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-07T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-07-social-robots-leave-students-wanting-education-researchers-find.md",
+      "title": "Social robots leave students wanting, education researchers find",
+      "excerpt": "Social robots, artificial intelligence (AI) systems designed to interact with humans, are marketed as capable of fulfilling certain human roles. Elementary and middle school students who ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2023-12-social-robots-students.html",
+      "originalUrl": "https://phys.org/news/2023-12-social-robots-students.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-07T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2023-12-07-training-algorithm-breaks-barriers-to-deep-physical-neural-networks.md",
       "title": "Training algorithm breaks barriers to deep physical neural networks",
       "excerpt": "Mar. 22, 2021 — Researchers developed a deep learning neural network to aid the design of soft-bodied robots. The algorithm optimizes the arrangement of sensors on the robot, enabling it to ...",
@@ -709,472 +1114,6 @@
         "Google AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-07-google-deepmind-unveils-its-most-powerful-ai-offering-yet.md",
-      "title": "Google DeepMind Unveils Its Most Powerful AI Offering Yet",
-      "excerpt": "Google DeepMind has announced its much-anticipated family of artificial intelligence chatbots, Gemini, which will compete with OpenAI’s GPT series. According to Google, Gemini Ultra, its largest ...",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/6343450/gemini-google-deepmind-ai/",
-      "originalUrl": "https://time.com/6343450/gemini-google-deepmind-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.time.com/wp-content/uploads/2023/12/GettyImages-1253650284.jpg?quality=85",
-          "width": 4000,
-          "height": 2662,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T17:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-problem-solving-shines-at-svvsds-inaugural-day-of-ai-event-in-longmont.md",
-      "title": "Problem-solving shines at SVVSD’s inaugural ‘Day of AI’ event in Longmont",
-      "excerpt": "On Saturday, Hubbell led a demonstration of an AWS DeepRacer, a mini self-driving car, which he said SVVSD uses to expose students to AI. “In this district, we use it as a tool to teach kids ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.timescall.com/2023/12/05/problem-solving-shines-at-svvsds-inaugural-day-of-ai-event-in-longmont/",
-      "originalUrl": "https://www.timescall.com/2023/12/05/problem-solving-shines-at-svvsds-inaugural-day-of-ai-event-in-longmont/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.timescall.com/wp-content/uploads/2023/12/DCC-L-AIDAY-01.jpg?w=1024&h=768",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.timescall.com/2023/12/05/problem-solving-shines-at-svvsds-inaugural-day-of-ai-event-in-longmont/amp/",
-      "cdnAmpWebUrl": "https://www-timescall-com.cdn.ampproject.org/c/s/www.timescall.com/2023/12/05/problem-solving-shines-at-svvsds-inaugural-day-of-ai-event-in-longmont/amp/",
-      "publishedDateTime": "2023-12-06T15:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Longmont Times-Call",
-        "domain": "timescall.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-bofe-to-review-ai-risk-to-financial-stability.md",
-      "title": "BofE to review AI risk to financial stability",
-      "excerpt": "The Bank of England is launching a review of artificial intelligence and machine learning amid concerns that its use could pose financial stability risks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/newsarticle/43396/bofe-to-review-ai-risk-to-financial-stability",
-      "originalUrl": "https://www.finextra.com/newsarticle/43396/bofe-to-review-ai-risk-to-financial-stability",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finextra.com/finextra-images/top_pics/xl/andrew-bailey-front.png",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T15:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-how-seeing-ai-focuses-on-large-vision-models.md",
-      "title": "How ‘Seeing’ AI Focuses On Large Vision Models",
-      "excerpt": "Driving AI into the image space is Landing AI, a computer vision cloud company that specializes in building what it calls domain-specific Large Vision Models (LVMs).",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/12/06/how-seeing-ai-focuses-on-large-vision-models/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/12/06/how-seeing-ai-focuses-on-large-vision-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65708d09e3f65bfb1710cfce/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/12/06/how-seeing-ai-focuses-on-large-vision-models/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/12/06/how-seeing-ai-focuses-on-large-vision-models/amp/",
-      "publishedDateTime": "2023-12-06T15:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-google-unveils-alphacode-2-powered-by-gemini.md",
-      "title": "Google unveils AlphaCode 2, powered by Gemini",
-      "excerpt": "Alongside its Gemini generative AI model, Google this morning took the wraps off of AlphaCode 2, an improved version of the code-generating AlphaCode introduced by Google’s DeepMind lab roughly ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/12/06/deepmind-unveils-alphacode-2-powered-by-gemini/",
-      "originalUrl": "https://techcrunch.com/2023/12/06/deepmind-unveils-alphacode-2-powered-by-gemini/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1147862535.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/12/06/deepmind-unveils-alphacode-2-powered-by-gemini/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/06/deepmind-unveils-alphacode-2-powered-by-gemini/amp/",
-      "publishedDateTime": "2023-12-06T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-googles-bard-chatbot-is-getting-way-better-thanks-to-gemini.md",
-      "title": "Google’s Bard chatbot is getting way better thanks to Gemini",
-      "excerpt": "While OpenAI’s ChatGPT has become a worldwide phenomenon and one of the fastest-growing consumer products ever, Google’s Bard has been something of an afterthought. The chatbot has steadily ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2023/12/6/23989744/google-bard-gemini-model-chatbot-ai",
-      "originalUrl": "https://www.theverge.com/2023/12/6/23989744/google-bard-gemini-model-chatbot-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/nPr8_yIiF3ecJ9rKsZWDMQHmTuM=/0x0:1200x628/1200x628/filters:focal(600x314:601x315)/cdn.vox-cdn.com/uploads/chorus_asset/file/24931893/google_bard_extensions.png",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-liquid-ai-a-new-mit-spinoff-wants-to-build-an-entirely-new-type-of-ai.md",
-      "title": "Liquid AI, a new MIT spinoff, wants to build an entirely new type of AI",
-      "excerpt": "An MIT spinoff co-founded by robotics luminary Daniela Rus aims to build general ... So what exactly does Liquid AI the startup hope to achieve with this powerful new(ish) architecture? Plain and simple, commercialization. One presumes work will continue ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/12/06/liquid-ai-a-new-mit-spinoff-wants-to-build-an-entirely-new-type-of-ai/",
-      "originalUrl": "https://techcrunch.com/2023/12/06/liquid-ai-a-new-mit-spinoff-wants-to-build-an-entirely-new-type-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-gretel-debuts-on-microsoft-azure-marketplace-selected-for-microsoft-for-startups-pegasus-program.md",
-      "title": "Gretel Debuts on Microsoft Azure Marketplace & Selected for Microsoft for Startups Pegasus Program",
-      "excerpt": "In a significant advancement for privacy-first AI applications, Gretel, a leader in multimodal synthetic data generation, today announces its software is now available on the Microsoft Azure Marketplace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.valdostadailytimes.com/ap/business/gretel-debuts-on-microsoft-azure-marketplace-selected-for-microsoft-for-startups-pegasus-program/article_ccce9287-6545-5a83-89d9-3194d2293825.html",
-      "originalUrl": "https://www.valdostadailytimes.com/ap/business/gretel-debuts-on-microsoft-azure-marketplace-selected-for-microsoft-for-startups-pegasus-program/article_ccce9287-6545-5a83-89d9-3194d2293825.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T14:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Valdosta Daily Times",
-        "domain": "valdostadailytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-automation-anywhere-announces-collaboration-agreement-with-aws-to-expand-generative-ai-solution-availability-for-customers.md",
-      "title": "Automation Anywhere Announces Collaboration Agreement with AWS to Expand Generative AI Solution Availability for Customers",
-      "excerpt": "In June 2023, Automation Anywhere announced participation in the Amazon SageMaker Jumpstart program, a developer portal that provides pre-trained, open-source models, algorithms, and solutions for a wide range of problem types to help companies get started ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newswire.ca/news-releases/automation-anywhere-announces-collaboration-agreement-with-aws-to-expand-generative-ai-solution-availability-for-customers-860371961.html",
-      "originalUrl": "https://www.newswire.ca/news-releases/automation-anywhere-announces-collaboration-agreement-with-aws-to-expand-generative-ai-solution-availability-for-customers-860371961.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/541440/Automation_Anywhere_Logo.jpg?p=facebook",
-          "width": 2700,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T14:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newswire",
-        "domain": "newswire.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-8-best-artificial-intelligence-etfs-to-invest-in.md",
-      "title": "8 Best Artificial Intelligence ETFs To Invest In",
-      "excerpt": "Global X Artificial Intelligence and Technology ETF (AIQ) Global X Robotics and Artificial Intelligence ETF (BOTZ) Global X Artificial Intelligence and Technology ETF (Nasdaq: AIQ) has returned 47 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/8-best-artificial-intelligence-etfs-205332104.html",
-      "originalUrl": "https://www.aol.com/8-best-artificial-intelligence-etfs-205332104.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/dGRN4QGQPzon723VUNgqLA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_gobankingrates_57/8b9eb79f9593d38fcbba2c62865b289d",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T14:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

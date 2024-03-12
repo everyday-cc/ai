@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/microsoft-insiders-worry-company-h
 webUrl: "https://www.businessinsider.com/microsoft-insiders-worry-company-has-become-just-it-for-openai-2024-3"
 type: article
 quality: 84
-heat: 94
+heat: 105
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2024/Microsoft-and-OpenAI_7.jpeg?width=1200&height=800&fit=crop"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Microsoft Insiders Fear The Firm Has Transformed Into A Glorified IT Department For OpenAI"
+    excerpt: "Microsoft's partnership with OpenAI sparks concern among insiders over the company's focus and dependence on AI giant."
+    publishedDateTime: 2024-03-12T11:01:00Z
+    webUrl: "https://www.digitalinformationworld.com/2024/03/microsoft-insiders-fear-firm-has.html"
+    type: article
+    provider:
+      name: Digital information world
+      domain: digitalinformationworld.com
+    quality: 44
+    images:
+      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7DqtvxGdsWVxoOU8hQhnlgAVDWrdhhUQczN5aR1Jke5p63e1S_L1w0GD9Csp6TAYAPLacasZnGqPaypIPSysbdl2rDC-1Z9aLG7fDgX6xP4vcTyGAJseo_KwtJ5gPfAHmqfL2KapXXtzB3PXJaM6CKB0VQq7rAUGqPz_irUwH6ak3qjlgL-wPBjrQ7QRi/w1600/mssa.jpeg"
+        width: 1024
+        height: 825
         isCached: true
 
 secured: "oQ2IlBq15E4POUM33Nh/r06Ppzl7+3hzRZYEx7t2BMu10ploXY/hSErJZUHtuOkdJn+Wwuy9I6ivh57Qzi3nxIF2qM2l0AtKmtatxQrwzq0uDf8MZ/AWIIw4tNY9lB8px/1HGsWMkjXxCy0VB6nleSghun9F2C38R0kA005r4XpI4ZXM//zZ22K0pp7KyfEAK7WSfh0Amdheh5jXtF+u+EKL+RXJKfL//T537og30THWwBETIA0BvLtYTJQnBArKF8bMo/qRUyb+dpzGGrygiPls8lsqPYhVHcEP0dUyaIJ0/91Kl4wUoX/qGLZf7uvL7fieW7dVf8GDAVZSinNz1nzyxdYHqkhOBjEQP7p1NNT9dcRhwsm4URLIKMzOsc50GTax36x2FX0jIq2oaKbaE7VgzORwnw3DmLIIA7Vyb2EnwMXE9Gos42wNEfkUTctLz88VOUkmT58rB2SK1IXVq0npymx5e8bcKgGWtEw1UqWwaCHdYrj4duNjGCI80EqUb3goEgox917Sw5L00RWTXw==;9BTgOFPZ/iRVremR6uyk4g=="

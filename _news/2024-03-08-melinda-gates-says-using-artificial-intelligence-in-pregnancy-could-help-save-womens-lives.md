@@ -28,15 +28,6 @@ related:
       name: Google
       domain: blog.google
     quality: 69
-  - title: "The women in AI making a difference"
-    excerpt: "Many had no training or education, formal or otherwise, in AI. Contrary to the Times’ suggestion, the AI craze didn’t start with Musk sitting adjacent to Page at a mansion in the Bay. It began long before that, with academics, regulators, ethicists and ..."
-    publishedDateTime: 2024-03-09T19:10:00Z
-    webUrl: "https://techcrunch.com/2024/03/09/the-women-in-ai-making-a-difference/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
   - title: "International Women’s Day 2024: How women in artificial intelligence are breaking stereotypes"
     excerpt: "As the buzz around Artificial Intelligence grows louder by the day, there are women who are making using of the technology and turning the industry on its head by opening the doors through unconventional methos of art, advertising and fashion to showcase ..."
     publishedDateTime: 2024-03-08T04:03:00Z

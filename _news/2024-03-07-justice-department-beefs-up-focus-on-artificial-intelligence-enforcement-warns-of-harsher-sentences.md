@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtonpost.com/business/2024/03/07/justice-departm
 webUrl: "https://www.washingtonpost.com/business/2024/03/07/justice-department-artificial-intelligence-ai-google/972d65e8-dc93-11ee-b5e9-ad4573c62315_story.html"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Justice Department Beefs up Focus on Artificial Intelligence Enforcement, Warns of Harsher Sentences"
+    excerpt: "Justice Department says those who deliberately misuse AI to advance crimes like price fixing, fraud or market manipulation will be at risk for harsher sentences"
+    publishedDateTime: 2024-03-12T09:18:00Z
+    webUrl: "https://www.securityweek.com/justice-department-beefs-up-focus-on-artificial-intelligence-enforcement-warns-of-harsher-sentences/"
+    ampWebUrl: "https://www.securityweek.com/justice-department-beefs-up-focus-on-artificial-intelligence-enforcement-warns-of-harsher-sentences/amp/"
+    cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/justice-department-beefs-up-focus-on-artificial-intelligence-enforcement-warns-of-harsher-sentences/amp/"
+    type: article
+    provider:
+      name: SecurityWeek
+      domain: securityweek.com
+    quality: 42
+    images:
+      - url: "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Justice Department beefs up focus on artificial intelligence enforcement, warns of harsher sentences"
     excerpt: "The Justice Department is stepping up its focus on artificial intelligence ... A nationwide shutdown by Change Healthcare after a ransomware attack Feb. 21 has CT... “All new technologies are a double-edged sword — but AI may be the sharpest blade ..."
     publishedDateTime: 2024-03-07T17:47:00Z

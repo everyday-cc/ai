@@ -53,8 +53,8 @@ related:
         isCached: true
   - title: "Law Firm Innovation: How BakerHostetler Launched FinClar, a Lawyer-Built FinTech Tool"
     excerpt: "Legaltech News sat down with Jonathan Forster, Northeast practice leader of BakerHostetler’s Private Wealth Group and the one behind FinClar, to discuss how and why he created the firm's new FinTech tool,"
-    publishedDateTime: 2024-03-11T21:52:00Z
-    webUrl: "https://www.law.com/2024/03/11/law-firm-innovation-how-bakerhostetler-launched-finclar-a-lawyer-built-fintech-tool/"
+    publishedDateTime: 2024-03-11T19:23:00Z
+    webUrl: "https://www.law.com/legaltechnews/2024/03/11/law-firm-innovation-how-bakerhostetler-launched-finclar-a-lawyer-built-fintech-tool/"
     type: article
     provider:
       name: Law
@@ -64,6 +64,20 @@ related:
       - url: "https://images.law.com/contrib/content/uploads/sites/397/2024/03/Jonathan-Forster-767x633-1.jpg"
         width: 767
         height: 633
+        isCached: true
+  - title: "Skyro takes lead in addressing industry challenges to propel growth of PH’s fintech market"
+    excerpt: "The Philippine fintech sector faces hurdles, dealing with challenges that impede its progress. These obstacles include the absence of a centralized database, reliance on outdated technology, and various other industry-specific barriers."
+    publishedDateTime: 2024-03-12T10:02:00Z
+    webUrl: "https://manilastandard.net/tech/314425263/skyro-takes-lead-in-addressing-industry-challenges-to-propel-growth-of-phs-fintech-market.html"
+    type: article
+    provider:
+      name: manilastandard
+      domain: manilastandard.net
+    quality: 14
+    images:
+      - url: "https://cdn.manilastandard.net/wp-content/uploads/2024/03/Nasim-Avien-Skyros-Co-CEO-and-Co-Founder.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "The Investment Associations signs fintech agreement with Canada"
     excerpt: "FinTech hub and accelerator, IA Engine, has today announced the latest firms to join its Innovator Programme, as well as a new global FinTech partnerships between Engine and the Canada."

@@ -2,6 +2,461 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2024-02-03-driverless-cars-covered-5x-more-test-miles-in-california-in-2023.md",
+      "title": "Driverless cars covered 5x more test miles in California in 2023",
+      "excerpt": "Completely driverless vehicles traveled nearly 3.3 million miles in California last year, over five times the previous year's total, even as concerns rose in the wake of a Cruise robotaxi accident, state data on vehicle testing released on Friday showed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/driverless-cars-covered-5x-more-233656256.html",
+      "originalUrl": "https://www.aol.com/news/driverless-cars-covered-5x-more-233656256.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_reuters_29/e67721439a55e6e8b4da51332dec4403",
+          "width": 800,
+          "height": 525,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-03T06:36:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-03-hugging-face-launches-open-source-ai-assistant-maker-to-rival-openais-custom-gpts.md",
+      "title": "Hugging Face launches open source AI assistant maker to rival OpenAI’s custom GPTs",
+      "excerpt": "The arrival of Hugging Chat Assistants shows how fast the open source community continues to catch up to closed rivals such as OpenAI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/hugging-face-launches-open-source-ai-assistant-maker-to-rival-openais-custom-gpts/",
+      "originalUrl": "https://venturebeat.com/ai/hugging-face-launches-open-source-ai-assistant-maker-to-rival-openais-custom-gpts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/Screen-Shot-2024-02-02-at-5.43.42-PM.png?resize=855%2C775&#038;strip=all",
+          "width": 855,
+          "height": 775,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-03T05:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-03-how-ai-driven-data-mastery-empowering-business-operations.md",
+      "title": "How AI-driven data mastery empowering business operations",
+      "excerpt": "AI-infused data management systems empower companies to optimize vital business strategies by harnessing data comprehensively and leveraging cognitive insights. In the financial sector, this entails utilizing customer data, transaction records, and market trends to bolster sales and marketing campaigns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/digital-transformation-how-ai-driven-data-mastery-empowering-business-operations-3381849/",
+      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-how-ai-driven-data-mastery-empowering-business-operations-3381849/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2024/02/Untitled-design-2024-02-01T170055.986.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-how-ai-driven-data-mastery-empowering-business-operations-3381849/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-how-ai-driven-data-mastery-empowering-business-operations-3381849/lite/",
+      "publishedDateTime": "2024-02-03T03:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-03-inside-metas-ai-strategy-zuckerberg-stresses-compute-open-source-and-training-data.md",
+      "title": "Inside Meta’s AI strategy: Zuckerberg stresses compute, open source and training data",
+      "excerpt": "All of this week's Big Tech earnings calls included insights into AI efforts, but Meta offered the deepest dive into its AI strategy.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/inside-metas-ai-strategy-zuckerberg-stresses-compute-open-source-and-training-data/",
+      "originalUrl": "https://venturebeat.com/ai/inside-metas-ai-strategy-zuckerberg-stresses-compute-open-source-and-training-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/Untitled-design-2024-02-02T134650.698.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-03T02:26:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-03-scientists-map-neural-network-in-mouse-brain.md",
+      "title": "Scientists map neural network in mouse brain",
+      "excerpt": "Chinese scientists have outlined the largest depiction so far of mouse cells in the hippocampus, a key brain area for learning and memory, and studied how single neurons in the area are interconnected and how they connect with neurons in other brain areas.",
+      "sourceUrl": null,
+      "webUrl": "https://global.chinadaily.com.cn/a/202402/03/WS65bd7a4fa3104efcbdae971c.html",
+      "originalUrl": "https://global.chinadaily.com.cn/a/202402/03/WS65bd7a4fa3104efcbdae971c.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img2.chinadaily.com.cn/images/202402/03/65bd8885a3104efc33024a09.jpeg",
+          "width": 857,
+          "height": 571,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-03T00:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-03-10-must-have-tools-for-your-firearm-workspace.md",
+      "title": "10 Must-Have Tools For Your Firearm Workspace",
+      "excerpt": "The Federal Bureau of Investigation (FBI) is initiating Project Tyr, an effort to employ Amazon’s artificial intelligence-driven Rekognition cloud service to identify firearms—among other ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.americanrifleman.org/content/10-must-have-tools-for-your-firearm-workspace/",
+      "originalUrl": "https://www.americanrifleman.org/content/10-must-have-tools-for-your-firearm-workspace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.americanrifleman.org/media/i2qb4rnw/tools_gunsmith_carter_workbench.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-03T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "American Rifleman",
+        "domain": "americanrifleman.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-03-biden-arrasa-en-las-primarias-de-carolina-del-sur-y-llama-perdedor-a-trump.md",
+      "title": "Biden Arrasa En Las Primarias De Carolina Del Sur Y Llama \"Perdedor\" A Trump",
+      "excerpt": "Añade citas de Biden, simpatizantes demócr... Already a Barron's subscriber? Sign In",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/spanish/biden-apunta-a-arrasar-en-carolina-del-sur-para-afianzar-su-esperanza-en-elecciones-de-2024-b49afadc",
+      "originalUrl": "https://www.barrons.com/news/spanish/biden-apunta-a-arrasar-en-carolina-del-sur-para-afianzar-su-esperanza-en-elecciones-de-2024-b49afadc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.barrons.com/asset/external-media/afp/AFP8281762384358363907959724513602719109110---1.jpg",
+          "width": 768,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/spanish/biden-apunta-a-arrasar-en-carolina-del-sur-para-afianzar-su-esperanza-en-elecciones-de-2024-b49afadc",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/spanish/biden-apunta-a-arrasar-en-carolina-del-sur-para-afianzar-su-esperanza-en-elecciones-de-2024-b49afadc",
+      "publishedDateTime": "2024-02-03T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-03-microsoft-azure-the-hidden-insights-beneath-the-surface-reiterate-buy-rating.md",
+      "title": "Microsoft Azure: The Hidden Insights Beneath The Surface, Reiterate Buy Rating",
+      "excerpt": "On the latest fiscal Q2 earnings call, CEO Satya Nadella offered new insights into how Azure is capitalizing on the AI opportunity. We simplify the jargon and complexities to help investors better ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4667196-microsoft-azure-the-hidden-insights-beneath-the-surface-reiterate-buy-rating",
+      "originalUrl": "https://seekingalpha.com/article/4667196-microsoft-azure-the-hidden-insights-beneath-the-surface-reiterate-buy-rating",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1920932608/image_1920932608.jpg?io=getty-c-w1536",
+          "width": 1536,
+          "height": 1044,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-02T21:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-02-ibm-databand-self-learning-for-anomaly-detection.md",
+      "title": "IBM Databand: Self-learning for anomaly detection",
+      "excerpt": "Unlike traditional monitoring tools with rule-based monitoring scripts, Databand offers self-learning monitoring.\nThe post IBM Databand: Self-learning for anomaly detection appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/ibm-databand-self-learning-for-anomaly-detection/",
+      "originalUrl": "https://www.ibm.com/blog/ibm-databand-self-learning-for-anomaly-detection/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-02T19:57:33Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-03-tech-execs-are-telling-investors-they-have-to-spend-money-to-make-money-on-ai.md",
+      "title": "Tech execs are telling investors they have to spend money to make money on AI",
+      "excerpt": "On this week's earnings calls, tech executives highlighted the need in AI to build infrastructure and the opportunities to make money with agents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/02/02/techs-new-ai-game-plan-spend-money-to-make-money.html",
+      "originalUrl": "https://www.cnbc.com/2024/02/02/techs-new-ai-game-plan-spend-money-to-make-money.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107300076-1694615430004-gettyimages-1662694510-AFP_33V72TK.jpeg?v=1706903237",
+          "width": 3840,
+          "height": 2560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/02/02/techs-new-ai-game-plan-spend-money-to-make-money.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/02/techs-new-ai-game-plan-spend-money-to-make-money.html",
+      "publishedDateTime": "2024-02-02T19:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-03-tsa-facial-recognition-tech-is-latest-security-theater-absurdity.md",
       "title": "TSA facial recognition tech is latest security theater absurdity",
       "excerpt": "This time it’s plans for a wide-scale rollout of its controversial facial recognition tech at more than 400 airports. The tech is purported to take real-time, photo-based biometric data on each ...",
@@ -686,497 +1141,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-4-questions-to-consider-when-youre-selecting-an-external-dns-provider.md",
-      "title": "4 questions to consider when you’re selecting an external DNS provider",
-      "excerpt": "Considering moving to a managed DNS provider? Here are a few things to keep in mind when comparing your options.\nThe post 4 questions to consider when you’re selecting an external DNS provider appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/4-questions-to-consider-when-youre-selecting-an-external-dns-provider/",
-      "originalUrl": "https://www.ibm.com/blog/4-questions-to-consider-when-youre-selecting-an-external-dns-provider/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-02T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-the-impact-of-artificial-intelligence-on-the-art-world.md",
-      "title": "The Impact Of Artificial Intelligence On The Art World",
-      "excerpt": "AI is also allowing art experts to interpret market developments, track the activities of relevant public figures and understand and analyze collecting behaviors and patterns. As Boll alludes to, AI can interpret vast amounts of data at record speeds, which makes the analysis of market developments faster and easier than ever before.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/the-impact-of-artificial-intelligence-on-the-art-world/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/the-impact-of-artificial-intelligence-on-the-art-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65bbe77a697c21ebc498ac84/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/the-impact-of-artificial-intelligence-on-the-art-world/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/the-impact-of-artificial-intelligence-on-the-art-world/amp/",
-      "publishedDateTime": "2024-02-02T12:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-whats-next-for-ai-the-next-wave-of-use-cases-in-2024-and-beyond.md",
-      "title": "What’s Next For AI: The Next Wave Of Use Cases In 2024 And Beyond",
-      "excerpt": "The journey into AI's next era is an exciting venture that demands a balance between pushing the boundaries of technological capabilities and safeguarding our well-being.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/whats-next-for-ai-the-next-wave-of-use-cases-in-2024-and-beyond/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/whats-next-for-ai-the-next-wave-of-use-cases-in-2024-and-beyond/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6426d9b7a6e4117a2deb47c5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1416,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/whats-next-for-ai-the-next-wave-of-use-cases-in-2024-and-beyond/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/02/whats-next-for-ai-the-next-wave-of-use-cases-in-2024-and-beyond/amp/",
-      "publishedDateTime": "2024-02-02T12:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-ai-is-driving-the-future-of-seo-how-to-adapt.md",
-      "title": "AI Is Driving The Future Of SEO: How To Adapt",
-      "excerpt": "SEO will remain one of the most effective strategies in digital marketing, and AI is here to help make it even more impactful.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2024/02/02/ai-is-driving-the-future-of-seo-how-to-adapt/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2024/02/02/ai-is-driving-the-future-of-seo-how-to-adapt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c2d5d97f8b3786fc03e3c3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2024/02/02/ai-is-driving-the-future-of-seo-how-to-adapt/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2024/02/02/ai-is-driving-the-future-of-seo-how-to-adapt/amp/",
-      "publishedDateTime": "2024-02-02T12:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-why-snowflake-stock-is-trading-at-new-52-week-high.md",
-      "title": "Why Snowflake Stock Is Trading At New 52-Week High",
-      "excerpt": "Snowflake's stock is up nearly 14% over the past month as excitement surround artificial intelligence and associated ... Amazon.com’s AMZN fourth-quarter AWS revenue growth re-acceleration ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/24/02/36913388/why-snowflake-stock-is-trading-at-new-52-week-high",
-      "originalUrl": "https://www.benzinga.com/24/02/36913388/why-snowflake-stock-is-trading-at-new-52-week-high",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2024/snowflake-shutter.jpeg?width=1200&height=800&fit=crop",
-          "width": 830,
-          "height": 553,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/36913388",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36913388",
-      "publishedDateTime": "2024-02-02T12:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-amazon-pharmacy-fights-for-recognition.md",
-      "title": "Amazon Pharmacy Fights For Recognition",
-      "excerpt": "It sounds terrific. Amazon uses licensed pharmacists who check every order before it goes to a customer. Importantly, the service is accredited by both the NABP Digital Pharmacy and URAC Mail Service Pharmacy until January 1, 2027.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/walterloeb/2024/02/02/amazon-pharmacy-fights-for-recognition/",
-      "originalUrl": "https://www.forbes.com/sites/walterloeb/2024/02/02/amazon-pharmacy-fights-for-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65bc0c6761f7d8f74b3eb8dd/0x0.jpg?format=jpg&crop=1613,907,x0,y247,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/walterloeb/2024/02/02/amazon-pharmacy-fights-for-recognition/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/walterloeb/2024/02/02/amazon-pharmacy-fights-for-recognition/amp/",
-      "publishedDateTime": "2024-02-02T11:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-revolutionizing-governance-ai-driven-citizen-engagement.md",
-      "title": "Revolutionizing Governance: AI-Driven Citizen Engagement",
-      "excerpt": "Government-citizen engagement has come a long way over the past decade, with governments increasingly adopting AI-powered analytics, automated processes and chatbots to engage with citizens and gain insights into their concerns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/revolutionizing-governance-ai-driven-citizen-engagement/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/revolutionizing-governance-ai-driven-citizen-engagement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61e17c192129886e2734b4ed/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/revolutionizing-governance-ai-driven-citizen-engagement/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/02/revolutionizing-governance-ai-driven-citizen-engagement/amp/",
-      "publishedDateTime": "2024-02-02T11:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-googles-ai-assistant-bard-might-be-getting-a-makeover-as-gemini.md",
-      "title": "Google’s AI Assistant, Bard, Might be Getting a Makeover as “Gemini”",
-      "excerpt": "Google may be considering to rename its AI Assistant Bard with the name Gemini as flags on the Bard's website suggests. Learn more here.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2024/02/02/googles-ai-assistant-bard-might-be-getting-a-makeover-as-gemini/",
-      "originalUrl": "https://www.gizmochina.com/2024/02/02/googles-ai-assistant-bard-might-be-getting-a-makeover-as-gemini/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/10/google-bard.jpeg",
-          "width": 1971,
-          "height": 1108,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-02T11:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-how-artificial-general-intelligence-could-redefine-accessibility.md",
-      "title": "How Artificial General Intelligence Could Redefine Accessibility",
-      "excerpt": "AI technology has helped bridge the gap, but current solutions are still limited in their ability to meet the specific needs of individuals with disabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/how-artificial-general-intelligence-could-redefine-accessibility/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/how-artificial-general-intelligence-could-redefine-accessibility/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6426e6cf87a5ab65cbbbf2c5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1409,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/how-artificial-general-intelligence-could-redefine-accessibility/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2024/02/02/how-artificial-general-intelligence-could-redefine-accessibility/amp/",
-      "publishedDateTime": "2024-02-02T11:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-uk-police-facial-recognition-explained-what-you-need-to-know.md",
-      "title": "UK police facial recognition explained: What you need to know",
-      "excerpt": "In this essential guide, Computer Weekly looks at the use of facial recognition technology by UK police forces, including the points of contention around its deployment so far and where it’s heading next.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/feature/UK-police-facial-recognition-what-you-need-to-know",
-      "originalUrl": "https://www.computerweekly.com/feature/UK-police-facial-recognition-what-you-need-to-know",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-060224-cover-500px.jpg",
-          "width": 500,
-          "height": 354,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-02T10:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

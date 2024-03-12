@@ -72,6 +72,15 @@ related:
       name: Nature
       domain: nature.com
     quality: 13
+  - title: "Navigating the Intersection of Intellectual Property and Artificial Intelligence"
+    excerpt: "In today's digital landscape, the convergence of intellectual property (IP) and artificial intelligence (AI) presents both unparalleled opportunities and unique challenges for businesses across industries. As AI continues to revolutionize how companies ..."
+    publishedDateTime: 2024-03-11T00:01:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/navigating-the-intersection-of-5064154/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 12
 
 secured: "Wy3mTS2uYSpBq9ooClb8LhklhG0zP9vnLCy45zdkvq3bQfpeFIlVSc5pwGELwaPXrxt6/xcoc/atl0UgwkuOOXVGXVI4U/b3lNkHsXo4YYMThvZqXe/BBubABdWdsFIu3p4fi4s3G3u5PlFtWUxO7pGJkaPi1qZPaMiFlKH9neurMlx7HOSwfty1k0yAE4BhyfqbjfKLVXcb+loRyiKqQTZizGVsgXfYgbKVH5RNJrZQjOl/U4X3dyLqWnm9AGOyiE94XRrUziQ7qt3V2l1afFqTchEYAkzfO7aj7yKfVdKEY4stIStDZe5/NNrePt6bOtRPkuSpPTXKE4/dvMGf+kIYvV6TIHnk0ua0Zvw1P4LeiSiEvMQDs5ry23z2A9bcHohiWOLQxPQym4QdWsQ2Fs03DepDeaPHpcATbxiIjjRQjjSSSr8lYJMPtquZLghf/kXc9bJ/iFNKysWfa4eZSq5RfyARV6+wtJTbZrJ1DlyhMx878XA4uTavOLF+YvSSlF9eqhSxWv58d/2w2jCvlA==;Mtx+3SrdkbPToxHQ9xNScw=="
 ---

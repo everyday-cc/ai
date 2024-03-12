@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/inflections-pi-ai-aims-to-p
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/inflections-pi-ai-aims-to-provide-information-and-a-shoulder-to-cry-on/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 187
+published: true
 
 provider:
   name: ZDNet
@@ -30,107 +30,115 @@ images:
     isCached: true
 
 related:
-  - title: "The Integral Role Of Robotics, AI And Automation In Healthcare"
-    excerpt: "With the advent of robotics, automation and artificial intelligence (AI), we are not merely witnessing a change in how healthcare is delivered; we are at the dawn of a new era where the boundaries of what is possible are being redefined."
-    publishedDateTime: 2024-03-07T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/03/07/the-integral-role-of-robotics-ai-and-automation-in-healthcare/"
+  - title: "How to choose an AI-as-a-service provider"
+    excerpt: "AIaaS can help you jumpstart your AI projects, but there are some details you need to know. Here’s what to look for and five leading options to consider."
+    publishedDateTime: 2024-03-11T03:10:00Z
+    webUrl: "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.html"
+    ampWebUrl: "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 116
+      name: Computerworld
+      domain: computerworld.com
+    quality: 71
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65e8cb84703655ecfeca6379/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1346
-        height: 900
-        isCached: true
-  - title: "The Role Of AI In Solving The Volume-Cost Equation In Customer Service"
-    excerpt: "It’s important to recognize that generative AI is not the catch-all answer to the volume-cost equation and that everything becomes immediately balanced once implemented."
-    publishedDateTime: 2024-03-07T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/07/the-role-of-ai-in-solving-the-volume-cost-equation-in-customer-service/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/07/the-role-of-ai-in-solving-the-volume-cost-equation-in-customer-service/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/07/the-role-of-ai-in-solving-the-volume-cost-equation-in-customer-service/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6452660f5ec3aaf210ee1af0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "Reshape Automation aims to reduce barriers of robotics adoption"
-    excerpt: "Reshape Automation is launching an end-to-end platform for customers to discover, design, purchase, and get support for automation projects."
-    publishedDateTime: 2024-03-07T14:56:00Z
-    webUrl: "https://www.therobotreport.com/reshape-automation-aims-to-reduce-barriers-of-robotics-adoption/"
-    type: article
-    provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 79
-  - title: "Human Creativity in the Age of Artificial Intelligence"
-    excerpt: "In 2015, my friend, Jim Clark, invited me to attend what was then a groundbreaking conversation at the World Summit on Technological Unemployment, hosted at the TIME magazine Conference Center. Jim laid it out pretty clearly: the tech revolution was set to ..."
-    publishedDateTime: 2024-03-11T02:11:00Z
-    webUrl: "https://www.rollingstone.com/culture-council/articles/human-creativity-the-age-of-artificial-intelligence-1234983648/"
-    ampWebUrl: "https://www.rollingstone.com/culture-council/articles/human-creativity-the-age-of-artificial-intelligence-1234983648/amp/"
-    cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/culture-council/articles/human-creativity-the-age-of-artificial-intelligence-1234983648/amp/"
-    type: article
-    provider:
-      name: Rolling Stone
-      domain: rollingstone.com
-    quality: 57
-    images:
-      - url: "https://www.rollingstone.com/wp-content/uploads/2024/03/human_creativity_in_the_age_of_artificial_intelligence-.jpg?w=1600&h=900&crop=1"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Art, artificial intelligence and the law"
-    excerpt: "As artificial intelligence (AI) makes rapid strides and art generated by using AI becomes more and more sophisticated, the legal regimen might need to be updated sooner than was previously assessed, argues ."
-    publishedDateTime: 2024-03-07T10:21:00Z
-    webUrl: "https://theleaflet.in/art-artificial-intelligence-and-the-law/"
-    type: article
-    provider:
-      name: theleaflet
-      domain: theleaflet.in
-    quality: 39
-    images:
-      - url: "https://theleaflet.in/wp-content/uploads/2024/03/AI-scaled.jpg"
+      - url: "https://images.idgesg.net/images/article/2024/02/dinging-service-bell-in-robot-hand-by-andrey-popov-via-shutterstock-100961475-large.jpg?auto=webp&quality=85,70"
         width: 1200
-        height: 586
+        height: 800
         isCached: true
-  - title: "AI Bias In the Spotlight On International Women’s Day"
-    excerpt: "What impact does AI bias have on women and girls? What can people do to increase female participation in the AI field? These are some of the questions the"
-    publishedDateTime: 2024-03-08T16:00:00Z
-    webUrl: "https://www.datanami.com/2024/03/08/ai-bias-in-the-spotlight-on-international-womens-day/"
+  - title: "‘Inflexion point’: AI meme wars hit India election, test social platforms"
+    excerpt: "(Some clips were cross-posted on YouTube and Facebook, as well.) Meta’s current rules require ... “We have run the two samples through several proprietary state-of-the-art research AI-voice detection algorithms [and found that] the voice sample is ..."
+    publishedDateTime: 2024-03-08T00:00:00Z
+    webUrl: "https://www.aljazeera.com/economy/2024/3/8/ai-meme-wars-hit-india-election-campaign-testing-social-platforms?traffic_"
+    ampWebUrl: "https://www.aljazeera.com/amp/economy/2024/3/8/ai-meme-wars-hit-india-election-campaign-testing-social-platforms"
+    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/economy/2024/3/8/ai-meme-wars-hit-india-election-campaign-testing-social-platforms"
+    type: article
+    provider:
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 58
+    images:
+      - url: "https://www.aljazeera.com/wp-content/uploads/2024/03/AP24067397198855-1709872280.jpg?resize=1920%2C1440"
+        width: 1920
+        height: 1440
+        isCached: true
+  - title: "Regulate Frontier AI to Avoid Misinformation"
+    excerpt: "There is no progress without public trust in artificial intelligence."
+    publishedDateTime: 2024-03-08T14:52:00Z
+    webUrl: "https://www.wsj.com/articles/regulate-frontier-ai-to-avoid-misinformation-tech-public-trust-486e8bdc"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 47
+  - title: "Generative AI Is A Game Changer For Talent Transformation"
+    excerpt: "One of generative AI's most significant implications is giving talent management professionals the ability to communicate information to executives and their board of directors. It helps leadership look around corners, rather than just in the rearview mirror, when shaping strategy or making decisions."
+    publishedDateTime: 2024-03-11T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/03/11/generative-ai-is-a-game-changer-for-talent-transformation/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Oregon passes its first bills on artificial intelligence regulations"
+    excerpt: "Oregon lawmakers passed the first two bills in state history that regulate the use of artificial intelligence."
+    publishedDateTime: 2024-03-08T01:20:00Z
+    webUrl: "https://www.kgw.com/article/news/politics/first-oregon-bills-regulating-ai-head-governor/283-9da2dee5-a711-457e-afad-cf9d81e82513"
+    type: article
+    provider:
+      name: KGW8
+      domain: kgw.com
+    quality: 37
+    images:
+      - url: "https://media.kgw.com/assets/KGW/images/e34046b0-8c85-4cf6-a2af-3ddbdf3e89fd/e34046b0-8c85-4cf6-a2af-3ddbdf3e89fd_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Six AI Applications to Transform Your Clinical Operations"
+    excerpt: "Dr. Harvey Castro shares how large language models and machine learning are revolutionizing the way we communicate with the health system."
+    publishedDateTime: 2024-03-07T15:00:00Z
+    webUrl: "https://www.dmagazine.com/healthcare-business/2024/03/six-ai-applications-to-transform-your-clinical-operations/"
+    type: article
+    provider:
+      name: D Magazine
+      domain: dmagazine.com
+    quality: 19
+  - title: "How HP Was Able to Leapfrog Other PC/Workstation OEMs to Launch its AI Solution"
+    excerpt: "HP stunned the market with the most powerful line of AI-enabled PCs and workstations yet to be created, catching the other OEMs, which have"
+    publishedDateTime: 2024-03-11T17:43:00Z
+    webUrl: "https://www.datanami.com/2024/03/11/how-hp-was-able-to-leapfrog-other-pc-workstation-oems-to-launch-its-ai-solution/"
     type: article
     provider:
       name: datanami.com
       domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2024/03/break_the_bias_shutterstock_NStafeeva.jpg"
-        width: 1000
-        height: 513
-        isCached: true
-  - title: "Spectral AI Announces Intellectual Property Subsidiary to Focus on the Broader AI Healthcare Ecosystem"
-    excerpt: "Spectral AI remains committed to advancing AI-driven solutions in healthcare, including opportunities and strategic developments fostered by its new subsidiary."
-    publishedDateTime: 2024-03-07T13:27:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/03/07/9974571.htm"
+    quality: 15
+  - title: "Technology Modernization Fund Seeking Proposals for Artificial Intelligence Projects"
+    excerpt: "The Technology Modernization Fund (TMF) today announced a call for project proposals to help federal agencies implement President Biden’s Executive Order on the safe, secure, and trustworthy development and use of Artificial Intelligence (AI) in the federal government."
+    publishedDateTime: 2024-03-11T14:06:00Z
+    webUrl: "https://www.hstoday.us/subject-matter-areas/ai-and-advanced-tech/technology-modernization-fund-seeking-proposals-for-artificial-intelligence-projects/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 18
-  - title: "Navigating the Intersection of Intellectual Property and Artificial Intelligence"
-    excerpt: "In today's digital landscape, the convergence of intellectual property (IP) and artificial intelligence (AI) presents both unparalleled opportunities and unique challenges for businesses across industries. As AI continues to revolutionize how companies ..."
-    publishedDateTime: 2024-03-11T00:01:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/navigating-the-intersection-of-5064154/"
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 10
+  - title: "AI images of Trump with Black voters are just the latest in racist election misinformation"
+    excerpt: "Trump’s supporters have also begun courting this group by making dozens of artificial intelligence (AI) generated images of him surrounded by adoring Black people. Though some of the realistic-looking images contain the tell-tale signs of oddly rendered hands (showing missing,"
+    publishedDateTime: 2024-03-08T13:07:00Z
+    webUrl: "https://www.lgbtqnation.com/2024/03/ai-images-of-trump-with-black-voters-are-just-the-latest-in-racist-election-misinformation/"
     type: article
     provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 12
+      name: LGBTQ Nation
+      domain: lgbtqnation.com
+    quality: 9
+  - title: "Biden administration requests $3B for federal AI application development, procurement and integration in 2025 budget"
+    excerpt: "The President’s budget looks to fund the National AI Research Resource pilot, agencies’ establishment of Chief AI Officers, the AI talent surge and more AI development across agencies."
+    publishedDateTime: 2024-03-11T19:28:00Z
+    webUrl: "https://fedscoop.com/biden-administration-requests-3b-for-federal-ai-application-development-procurement-and-integration-in-2025-budget/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 0
 
 secured: "9yORRHrjZO9FSCgqk+H2NOgyPU6dJwiOsKWyBKKEOaziuOqSABrzU/rL/JpoRALMPI6+Uohl1B5sgQiunKju6VsdnJZ9UafcLqK/BAf6io8u9WMhPdcWTe2K5c6fR5rP/m0l2xXf3E3rgdwy3dk674PZjSN3Qlb8Lb9aiFdMl+jWaeHkesXyuZW7Ex+TT/Qg/w8upoe2GJ88JQn/wDbZcsMN8fKKi+cUeD+z2+d4sMq4iFTUvLkHLkqzUMjkrWX4bhmRupheyg5iNSA7H4ZrLlm1YOV/RySZZx1TUgaA6J5/xqZHCxpAqVesdcGLwAwAjOm/l7PR2EQEKXv+3UTTAdCpu36rAaJRqDjkrq83SsM=;ZI6MqP22NLozZPspSKxdKQ=="
 ---

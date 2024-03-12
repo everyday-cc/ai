@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-08-machine-learning-dominates-ai-job-market-high-demand-for-mid-senior-level-experts.md",
+      "title": "Machine learning dominates AI job market; high demand for mid, senior-level experts",
+      "excerpt": "Among the hottest artificial intelligence (AI) skills, machine learning (ML) tops the chart with the most number of active jobs, according to data shared by staffing companies and employment platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/business/machine-learning-dominates-ai-job-market-high-demand-for-mid-senior-level-experts-12222171.html",
+      "originalUrl": "https://www.moneycontrol.com/news/business/machine-learning-dominates-ai-job-market-high-demand-for-mid-senior-level-experts-12222171.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2022/01/Machine-Learning-ML-Engineer.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/business/machine-learning-dominates-ai-job-market-high-demand-for-mid-senior-level-experts-12222171.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/machine-learning-dominates-ai-job-market-high-demand-for-mid-senior-level-experts-12222171.html/amp",
+      "publishedDateTime": "2024-02-08T08:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2024-02-08-artificial-intelligence-101-its-evolution-implications-and-possibilities.md",
       "title": "Artificial Intelligence 101: Its Evolution, Implications And Possibilities",
       "excerpt": "Explore the evolution and impact of AI from its conceptual origins to its current role in 2024, how the advancements in generative AI are democratizing technology.",
@@ -1224,49 +1268,6 @@
       "provider": {
         "name": "News Medical",
         "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-ai-machine-learning-to-keep-old-structures-strong.md",
-      "title": "AI, machine learning to keep old structures strong",
-      "excerpt": "Old buildings can now be made safe and collapse-proof using machine learning and artificial intelligence-aided mechanisms. Philadelphia-based Drexel University",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/xplore/2024/Jan/31/ai-machine-learning-to-keep-old-structures-strong",
-      "originalUrl": "https://www.newindianexpress.com/xplore/2024/Jan/31/ai-machine-learning-to-keep-old-structures-strong",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.assettype.com/newindianexpress%2F2024-01%2F22218b5f-7a88-49a3-91fe-7bcd9eff582f%2FMachine.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-          "width": 1200,
-          "height": 650,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/amp/story/xplore/2024/Jan/31/ai-machine-learning-to-keep-old-structures-strong",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/amp/story/xplore/2024/Jan/31/ai-machine-learning-to-keep-old-structures-strong",
-      "publishedDateTime": "2024-01-30T23:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
         "images": null,
         "publishers": null,
         "authors": null

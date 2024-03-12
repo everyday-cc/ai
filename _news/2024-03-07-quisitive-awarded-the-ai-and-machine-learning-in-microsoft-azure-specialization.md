@@ -45,17 +45,6 @@ related:
       name: PC World
       domain: pcworld.com
     quality: 66
-  - title: "Sonata Software integrates Sonata Harmoni.AI with Microsoft Azure AI service"
-    excerpt: "Sonata Software in a significant step to accelerate the adoption of responsible-first AI across enterprises has announced the integration of Sonata Harmoni.AI with Microsoft Azure AI service. This integration complements Sonata's collaboration with Microsoft Fabric and its position as a Microsoft AI Partner Council member."
-    publishedDateTime: 2024-03-07T11:00:00Z
-    webUrl: "https://www.business-standard.com/markets/capital-market-news/sonata-software-integrates-sonata-harmoni-ai-with-microsoft-azure-ai-service-124030700666_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/markets/capital-market-news/sonata-software-integrates-sonata-harmoni-ai-with-microsoft-azure-ai-service-124030700666_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/markets/capital-market-news/sonata-software-integrates-sonata-harmoni-ai-with-microsoft-azure-ai-service-124030700666_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 66
   - title: "Microsoft's Annual Ability Summit Launches With Accessible AI Tech, Features for the Disabled"
     excerpt: "Microsoft's 14th Ability Summit takes AI to the center stage in curbing the disability divide with promises of accessible features for Windows Copilot, Azure AI, and other Microsoft applications. The annual summit is Microsoft's one-day celebration ..."
     publishedDateTime: 2024-03-07T21:03:00Z
@@ -113,6 +102,17 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 49
+  - title: "Hexaware unveils tensai GPT, a secure AI web app using Microsoft Azure Open AI Service to advance internal innovation"
+    excerpt: "Hexaware, a global IT services and digital solutions leader, announced the launch of tensai GPT, an AI web app, in collaboration with Microsoft. Using Microsoft Azure Open AI Service, this AI web app will enable Hexaware employees to harness enterprise knowledge,"
+    publishedDateTime: 2024-03-12T10:55:00Z
+    webUrl: "https://www.business-standard.com/content/press-releases-ani/hexaware-unveils-tensai-gpt-a-secure-ai-web-app-using-microsoft-azure-open-ai-service-to-advance-internal-innovation-124031200652_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/content/press-releases-ani/hexaware-unveils-tensai-gpt-a-secure-ai-web-app-using-microsoft-azure-open-ai-service-to-advance-internal-innovation-124031200652_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/content/press-releases-ani/hexaware-unveils-tensai-gpt-a-secure-ai-web-app-using-microsoft-azure-open-ai-service-to-advance-internal-innovation-124031200652_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 46
   - title: "Sonata Software Supercharges Harmoni.AI with Microsoft Azure AI to Drive Responsible-First AI Adoption Across Enterprises"
     excerpt: "Sonata Harmoni.AI, integrating Microsoft Azure AI services, will help customer reimagine business with Generative AI, differentiating themselves in the marketplace . BANGALORE, In"
     publishedDateTime: 2024-03-07T12:34:00Z

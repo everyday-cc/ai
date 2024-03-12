@@ -6,8 +6,8 @@ publishedDateTime: 2024-03-12T09:41:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/avallain-increases-impact-with-strategic-investment-in-ai-platform-teachermatic-1033154065"
 webUrl: "https://markets.businessinsider.com/news/stocks/avallain-increases-impact-with-strategic-investment-in-ai-platform-teachermatic-1033154065"
 type: article
-quality: 62
-heat: 62
+quality: 64
+heat: 64
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Meta AI
 
 images:
   - url: "https://prfire-files.ams3.digitaloceanspaces.com/phvhohf2h6r145mwahh6sysi9ewh"
@@ -27,6 +28,6 @@ images:
     height: 366
     isCached: true
 
-secured: "qgk5u4ELsIvapg3Vp52SAHzSEuKigA1ZApS66aTdhQohpXWQL0FEP2dIICM2BUF3ZUGhLXlnbWKE7seL66BUcP8tegnDXsNpy8rWxlNuDIyRZnnUIgE9XBJYlSmBJ7Q+sora6TzfJ5fhiZG7HmFoIhrTZmzfLPk0ngBEmoOjX+Nj5uKdZhTSpHJ13nlTR5epvfPu8V2oxZ63Ztx+UEEynpmuOtqPowBWn5K8M4DT03QEl5v2ythu5L8r7qI3DMgoFknhSuuTrNQeqLKbNA3CkXf9sIy/1X8aqKLJwsu/nHIxqrxnG2+kzhLOIECKX36iYTgVm/uCzSP02I5czmkdh3RCY4BEes+kz6eJ0UTzxqU=;OJ72MMJ8YqJg5lzZ/c+XMg=="
+secured: "Gsa0ev2NJCJ8aU3dICp+Hid6nZfoFESh/Ipp479Tbdhksn8PEu87e/FLuj3YNiNblLgg+0VAo78QgEZuTIoxzZhC64nRiIFPN3S/NeLArPCIsypgBYsEjiGgv5fiFYqu0djQAaVm+8pKyXY2fTA0pimnZZLLd5sawiw+MuMLQ4BslEvJ1kqBkN35flXei8/oEGtk31CyjGBFlBOcftiJv6X+yXQ6FSjhNxriC/2Vb4dfUqDQTtCkfHa5IHjmGOf8zGBUtvR+OXK9erV2Y689SANpX6oy24VnHEpB0tgkTTERzQ5QkB/MqWOAyPRsWO+i5ZHxCawFleRT52uj+7sKDM5kWpsiyKQ3Pqpp0dBi/4pq7pMX3HOClDAt8jV04x/y73NIJOAHXCEFTuHKCldeYrr1A5IOoviir0RWm5crhELdXZxS2yD7dFyAgym5bLa6/lappeYfwMTPzmwwDu6R0una2kYu/Q5mEQxWeYH4l170Q/gFc3bc8GF5slfZpCKlQb77Snrc1gMwEXCwixRJpg==;cqUfdKmpjg5efV2MLW1LMQ=="
 ---
 

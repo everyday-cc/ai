@@ -2,55 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2024-03-11-how-to-choose-an-ai-as-a-service-provider.md",
-      "title": "How to choose an AI-as-a-service provider",
-      "excerpt": "AIaaS can help you jumpstart your AI projects, but there are some details you need to know. Here’s what to look for and five leading options to consider.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.html",
-      "originalUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2024/02/dinging-service-bell-in-robot-hand-by-andrey-popov-via-shutterstock-100961475-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html",
-      "publishedDateTime": "2024-03-11T03:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AWS AI",
-        "Natural Language Processing",
-        "Microsoft AI",
-        "Machine Learning",
-        "IBM AI",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_news/2024-03-08-6-ecommerce-trends-to-watch.md",
       "title": "6 ecommerce trends to watch",
       "excerpt": "Powerful AI-driven omnichannel experiences are at the heart of business growth. Explore six ecommerce trends making the greatest impact.\nThe post 6 ecommerce trends to watch appeared first on IBM Blog.\n",
@@ -1368,6 +1319,48 @@
       "topics": [
         "IBM AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-climate-change-predictions-anticipating-and-adapting-to-a-warming-world.md",
+      "title": "Climate change predictions: Anticipating and adapting to a warming world",
+      "excerpt": "In an era of accelerating climate change, evolving technologies can help people predict the near-future and adapt.\nThe post Climate change predictions: Anticipating and adapting to a warming world appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/climate-change-predictions-anticipating-and-adapting-to-a-warming-world/",
+      "originalUrl": "https://www.ibm.com/blog/climate-change-predictions-anticipating-and-adapting-to-a-warming-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-20T20:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
       ]
     }
   ],

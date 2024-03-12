@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Smith College library workers unionize, ask institution for voluntary recognition"
-    excerpt: "Following in the footsteps of several staff and student unions on campus, Smith College library workers voted to unionize."
-    publishedDateTime: 2024-03-08T16:41:00Z
-    webUrl: "https://www.masslive.com/westernmass/2024/03/smith-college-library-workers-unionize-ask-institution-for-voluntary-recognition.html"
-    ampWebUrl: "https://www.masslive.com/westernmass/2024/03/smith-college-library-workers-unionize-ask-institution-for-voluntary-recognition.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/westernmass/2024/03/smith-college-library-workers-unionize-ask-institution-for-voluntary-recognition.html?outputType=amp"
+  - title: "AI Bias In the Spotlight On International Women’s Day"
+    excerpt: "What impact does AI bias have on women and girls? What can people do to increase female participation in the AI field? These are some of the questions the"
+    publishedDateTime: 2024-03-08T16:00:00Z
+    webUrl: "https://www.datanami.com/2024/03/08/ai-bias-in-the-spotlight-on-international-womens-day/"
     type: article
     provider:
-      name: MassLive
-      domain: masslive.com
+      name: datanami.com
+      domain: datanami.com
     quality: 39
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/RPTGGVNRF5EKTGUJ7M5MU2D6LE.jpg"
-        width: 6432
-        height: 4288
+      - url: "https://www.datanami.com/wp-content/uploads/2024/03/break_the_bias_shutterstock_NStafeeva.jpg"
+        width: 1000
+        height: 513
         isCached: true
 
 secured: "X8UICE0AzPIgwNC/z1a61WaSkMrI+2gdF96KN3B5afpXE2EExl5FM650KuB5PtLFmbzlUKoR6Tce3kcRWEE8ZMTiwz5YFaFGZnXUhdsS+Q1PpnZe+VQDDpmRqUaWppEGvdXt1I81W+7mUFEzekcLhH3mKW8dd0e1g+1+nr2Zc2rlJ3d7bZvl7d9SjfoykadZEuSiqKxGWBSbCgPXhGu4xZRZQYI8xeIeT7MeZMs0WasJhgMIQTeKWOFs9mJdU2evbezpb2wwWyOqzkJvzK7cYgJwVvA629vAuAZw/UcTlzCjTio5bwe/0J4YTt6Oa+/rg5sJdiAhwpv5kikS/pC0eApR3oVtlM3y9MneR4YWnFM=;sGyHQ8GVXOsQ70niTGFuEg=="

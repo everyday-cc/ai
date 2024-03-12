@@ -18,6 +18,22 @@ topics:
   - AI Hardware
   - AI
 
+related:
+  - title: "KCF Technologies Unveils Piezo Sensing: A Revolutionary Machine Health Solution for Low and High-Speed Machines"
+    excerpt: "KCF Technologies, a leader in machine health solutions, is proud to announce the launch of its latest innovation, Piezo Sensing, as part of its SMARTsensing suite of hardware products. This new offering revolutionizes machine health monitoring by providing unmatched precision and reliability across a vast spectrum of industrial applications."
+    publishedDateTime: 2024-03-12T11:36:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/12/9976461.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
+    images:
+      - url: "https://mma.prnewswire.com/media/1593807/KCF_Technologies_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
+
 secured: "fldbTDrnQSqwN9ah4Qb9vbh5wNWfQiqnueqGdQ6jfPHeUs3ZdRnNvOrvbSeA0kluAvGTziIPU0u1CNuLHCYv/SXqIezBKJvVQvjhnHcfo3j8BtC8fCQUpZ++sEsTUcE4H8/0Dm0UjQGxpoDAWailSErT1L3d7bDzOKNqifso55EGxCFLGYRutQLpn1c4ymwYzqhjq4oFkSOhTvQtuZmdFTKWvMCZzuTAfL9kpUdLYxggW7W7tuf0U1jgKfBc1r9n8PM7EN136ZQpAYMmd8zmrR2nEfxkVySjbnbsbguy1yLMnQCQ/8Ffd1tyewOTE3IgrlgLE+4fiEUEwW/lWh334JFnR4pbECOFfXeJPBVcqLa2MsFSX+5yJCGQuIOnUNzyyrZ5Cj+34Fv3PohaHeznt1T5VHuPA66ScQt2ly3u1A/owrV5LLfp8L/zJCcRpvZrYrUOvDPkGbTxGdDt7AEJaFMD6bBhPiAMKuhTA4hI0ykkK8Q2vhfv3vAHC0VI+05eiNkGzxCjCjPbdunIzUvdzA==;JQfm5SZ7RVg3YNWUSeSm5Q=="
 ---
 

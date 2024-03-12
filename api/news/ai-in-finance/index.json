@@ -48,55 +48,6 @@
       ]
     },
     {
-      "path": "_news/2024-03-11-how-to-choose-an-ai-as-a-service-provider.md",
-      "title": "How to choose an AI-as-a-service provider",
-      "excerpt": "AIaaS can help you jumpstart your AI projects, but there are some details you need to know. Here’s what to look for and five leading options to consider.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.html",
-      "originalUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2024/02/dinging-service-bell-in-robot-hand-by-andrey-popov-via-shutterstock-100961475-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html",
-      "publishedDateTime": "2024-03-11T03:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AWS AI",
-        "Natural Language Processing",
-        "Microsoft AI",
-        "Machine Learning",
-        "IBM AI",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_news/2024-03-07-quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization.md",
       "title": "Quisitive Awarded the AI and Machine Learning in Microsoft Azure Specialization",
       "excerpt": "Quisitive Technology Solutions Inc. (“Quisitive” or the “Company”) (TSXV: QUIS, OTCQX: QUISF), a premier Microsoft solutions provider, announced it has earned the prestigious AI and Machine Learning in Microsoft Azure Specialization.",
@@ -1398,6 +1349,58 @@
       "topics": [
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2024-02-18-british-business-needs-ai-workers-and-fintechs-are-no-different.md",
+      "title": "British Business Needs AI Workers And Fintechs Are No Different",
+      "excerpt": "Scott Galloway said \"you are not going to lose your job to AI, you are going to lose your job to someone who uses AI better than you do\" and this is true in fintech too.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidbirch/2024/02/17/british-business-needs-ai-workers-and-fintechs-are-no-different/",
+      "originalUrl": "https://www.forbes.com/sites/davidbirch/2024/02/17/british-business-needs-ai-workers-and-fintechs-are-no-different/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d0e9645eedf8898b975311/0x0.jpg?format=jpg&crop=2911,1636,x31,y0,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidbirch/2024/02/17/british-business-needs-ai-workers-and-fintechs-are-no-different/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidbirch/2024/02/17/british-business-needs-ai-workers-and-fintechs-are-no-different/amp/",
+      "publishedDateTime": "2024-02-17T17:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     }
   ],

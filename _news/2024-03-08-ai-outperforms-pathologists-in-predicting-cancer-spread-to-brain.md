@@ -42,6 +42,20 @@ related:
         width: 1528
         height: 800
         isCached: true
+  - title: "Machine Learning Predicts Lung Cancer Spread to Brain"
+    excerpt: "Scientists trained a machine-learning algorithm to predict accurately brain metastasis using biopsy samples from early-stage non-small cell lung cancer patients."
+    publishedDateTime: 2024-03-12T10:19:00Z
+    webUrl: "https://www.technologynetworks.com/tn/news/machine-learning-predicts-lung-cancer-spread-to-brain-384684"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 54
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/384684/machine-learning-predicts-lung-cancer-spread-to-brain-384684-640x360.jpg?cb=20240312"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "BMM4tAfQH5lTdwtFAagVm+wio2yiI6m9/OQKta9p29LStXRztDsWh85rvP1z3jRsNGjlk0W6FOyO/j83kUiw/nMK656zbARO87Qc6ZPdMrqaYzpQWeVuqPf41jEVhDvBR+YgccLyBV93bsAtZvsBlg3j0BXhgCzI/LejMJ30TORohNuZbZrfoJgEodpypyYrpjOZTA+QsnL/JME/cV7hnw3o0oeVdrnPDfBNLgcVq6eCIYuQ7VWhuZ/aSjoL9NO/fXBiC1X/4M2z2Hu5kwH/ipoQB7AHMK2XL2TAF/jIQDxzBjsu/UpG8ciJsCQo9DX22DqjseBGyNwWK8mH800/1g7vWLLWxXDjzT0cS+0F4zQ=;hhqLolDcvu0o9nUx2sCLqg=="
 ---

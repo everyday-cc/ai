@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/07/the-role-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/07/the-role-of-ai-in-solving-the-volume-cost-equation-in-customer-service/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 127
+published: true
 
 provider:
   name: Forbes
@@ -30,45 +30,38 @@ images:
     isCached: true
 
 related:
-  - title: "The Integral Role Of Robotics, AI And Automation In Healthcare"
-    excerpt: "With the advent of robotics, automation and artificial intelligence (AI), we are not merely witnessing a change in how healthcare is delivered; we are at the dawn of a new era where the boundaries of what is possible are being redefined."
-    publishedDateTime: 2024-03-07T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/03/07/the-integral-role-of-robotics-ai-and-automation-in-healthcare/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 116
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65e8cb84703655ecfeca6379/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1346
-        height: 900
-        isCached: true
-  - title: "Inflection's Pi AI aims to provide information and a shoulder to cry on"
-    excerpt: "Designed to be empathetic, helpful, and safe, Pi also boasts improved skills in such areas as coding, math, and real-time results via the latest flavor of its large language model."
-    publishedDateTime: 2024-03-07T13:49:00Z
-    webUrl: "https://www.zdnet.com/article/inflections-pi-ai-aims-to-provide-information-and-a-shoulder-to-cry-on/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/inflections-pi-ai-aims-to-provide-information-and-a-shoulder-to-cry-on/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/inflections-pi-ai-aims-to-provide-information-and-a-shoulder-to-cry-on/"
+  - title: "Generative AI will change customer service forever. Here's how we get there"
+    excerpt: "and that the customer service processes they design can be successful using generative AI. Start small, start where there is measurable value and benefit, start simple, start with clean data, and invite a small number of loyal customers into your design ..."
+    publishedDateTime: 2024-03-12T11:05:00Z
+    webUrl: "https://www.zdnet.com/article/generative-ai-will-change-customer-service-forever-heres-how-we-get-there/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-will-change-customer-service-forever-heres-how-we-get-there/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-will-change-customer-service-forever-heres-how-we-get-there/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 87
+    quality: 85
     images:
-      - url: "https://www.zdnet.com/a/img/resize/646e8a0b656f649933bc681ad1d64f1700260d22/2024/03/07/032e98aa-541d-4e9a-8343-5bed40f840b7/gettyimages-1317415735.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://www.zdnet.com/a/img/resize/ea7e9436c5b7404b91662cea16c7a61a199fe5ec/2024/03/11/ec6e84d9-cca6-46e1-911b-965b865afe35/gettyimages-1681144648.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Reshape Automation aims to reduce barriers of robotics adoption"
-    excerpt: "Reshape Automation is launching an end-to-end platform for customers to discover, design, purchase, and get support for automation projects."
-    publishedDateTime: 2024-03-07T14:56:00Z
-    webUrl: "https://www.therobotreport.com/reshape-automation-aims-to-reduce-barriers-of-robotics-adoption/"
+  - title: "The role of AI in analysing consumer spending patterns"
+    excerpt: "A survey by ACFE and SAS revealed that the global adoption of AI and ML for fraud detection saw a significant increase last year"
+    publishedDateTime: 2024-03-09T07:45:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-the-role-of-ai-in-analysing-consumer-spending-patterns-3419199/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-the-role-of-ai-in-analysing-consumer-spending-patterns-3419199/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-the-role-of-ai-in-analysing-consumer-spending-patterns-3419199/lite/"
     type: article
     provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 79
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2024/03/Untitled-design-2024-03-08T172224.860.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Human Creativity in the Age of Artificial Intelligence"
     excerpt: "In 2015, my friend, Jim Clark, invited me to attend what was then a groundbreaking conversation at the World Summit on Technological Unemployment, hosted at the TIME magazine Conference Center. Jim laid it out pretty clearly: the tech revolution was set to ..."
     publishedDateTime: 2024-03-11T02:11:00Z
@@ -85,52 +78,15 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Art, artificial intelligence and the law"
-    excerpt: "As artificial intelligence (AI) makes rapid strides and art generated by using AI becomes more and more sophisticated, the legal regimen might need to be updated sooner than was previously assessed, argues ."
-    publishedDateTime: 2024-03-07T10:21:00Z
-    webUrl: "https://theleaflet.in/art-artificial-intelligence-and-the-law/"
+  - title: "The future of banking: integrating AI for better service"
+    excerpt: "The future of banking: integrating AI for better service In the rapidly evolving landscape of banking, the integration of Artificial Intelligence (AI) stands out as a transformative force. As financial institutions strive to meet the demands of an increasingly digital-savvy customer base,"
+    publishedDateTime: 2024-03-11T20:05:00Z
+    webUrl: "https://www.globalbankingandfinance.com/the-future-of-banking-integrating-ai-for-better-service/"
     type: article
     provider:
-      name: theleaflet
-      domain: theleaflet.in
-    quality: 39
-    images:
-      - url: "https://theleaflet.in/wp-content/uploads/2024/03/AI-scaled.jpg"
-        width: 1200
-        height: 586
-        isCached: true
-  - title: "AI Bias In the Spotlight On International Women’s Day"
-    excerpt: "What impact does AI bias have on women and girls? What can people do to increase female participation in the AI field? These are some of the questions the"
-    publishedDateTime: 2024-03-08T16:00:00Z
-    webUrl: "https://www.datanami.com/2024/03/08/ai-bias-in-the-spotlight-on-international-womens-day/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2024/03/break_the_bias_shutterstock_NStafeeva.jpg"
-        width: 1000
-        height: 513
-        isCached: true
-  - title: "Spectral AI Announces Intellectual Property Subsidiary to Focus on the Broader AI Healthcare Ecosystem"
-    excerpt: "Spectral AI remains committed to advancing AI-driven solutions in healthcare, including opportunities and strategic developments fostered by its new subsidiary."
-    publishedDateTime: 2024-03-07T13:27:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/03/07/9974571.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 18
-  - title: "Navigating the Intersection of Intellectual Property and Artificial Intelligence"
-    excerpt: "In today's digital landscape, the convergence of intellectual property (IP) and artificial intelligence (AI) presents both unparalleled opportunities and unique challenges for businesses across industries. As AI continues to revolutionize how companies ..."
-    publishedDateTime: 2024-03-11T00:01:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/navigating-the-intersection-of-5064154/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 12
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 36
 
 secured: "FW0VCukYfmup0mfzQoeov6uWhgFnx5kyWXCvfV5OtR1r0MI0PMmvRqDIOc7FGkT3jw+pog35+QeHYm/dLq49GvTjVN56QInQF9W+GtLiDSOpJau+GyH1L3j6s1JxFRIh98d2B1PmabVifeGq1S3Kl4vn+lj445xgCpAQrykpZCMp2yLhVrcJ4UnI9HW8vMAY+q7BXklwzQsHrgV8DcXgnmZJvgEcvade7g6d5gabDy2ZmXmDeWybcaLU44cC0UHgq5WBqDUM8Lphwf8EOgB4wGsQDrU3sbqBWy04cnfS9+gy8wg+wzeRFGBp5UuH7cp4taFPrsr21JTMaf2JaFWVv1CyMbZ3BF7o4PgW1emoFahODjB+8ZXV/TlYOm7GYSGUUjV+Md2ntcnlYcU6h4PuQfUvEtNGp1/i76ty3RzRyJjv+Jm58niXhJEiE61R4TLgVoErVWCl/O21bIyQHX3Ndprhub+SjY2L6Z2d6fBdoYmdErtGTbnlyPzWIm+UP7EBIrTnq/pw8rtS577eSpL2MA==;fZj+tm1iYIsTFnSnBCyyDw=="
 ---

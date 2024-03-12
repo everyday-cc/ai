@@ -7,7 +7,7 @@ originalUrl: "https://scitechdaily.com/not-science-fiction-how-optical-neural-ne
 webUrl: "https://scitechdaily.com/not-science-fiction-how-optical-neural-networks-are-revolutionizing-ai/"
 type: article
 quality: 54
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence In Cancer Detection: How Is AI Contributing To The Diagnostic Industry and Impacting Early Detection?"
+    excerpt: "\"Artificial Intelligence (AI) is drastically changing the diagnostic industry, especially in the domain of early cancer detection\", says Mr. Hariharan Subramanian, the Managing Director of Siemens Healthcare Private Limited."
+    publishedDateTime: 2024-03-12T10:05:00Z
+    webUrl: "https://www.thehealthsite.com/diseases-conditions/artificial-intelligence-in-cancer-detection-how-is-ai-contributing-to-the-diagnostic-industry-and-impacting-early-detection-1071193/"
+    ampWebUrl: "https://www.thehealthsite.com/diseases-conditions/artificial-intelligence-in-cancer-detection-how-is-ai-contributing-to-the-diagnostic-industry-and-impacting-early-detection-1071193/amp/"
+    cdnAmpWebUrl: "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/diseases-conditions/artificial-intelligence-in-cancer-detection-how-is-ai-contributing-to-the-diagnostic-industry-and-impacting-early-detection-1071193/amp/"
+    type: article
+    provider:
+      name: TheHealthSite
+      domain: thehealthsite.com
+    quality: 47
+    images:
+      - url: "https://st1.thehealthsite.com/wp-content/uploads/2024/03/neurological-doctor-cheking-eeg-headset-explaining-patient-diagnosis-disease-treatment-nervous-system-scientist-researcher-analysing-brain-scan-tomography-monitor-lab.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "How AI Will Revolutionize Supply Chains"
     excerpt: "Even the sturdiest supply chains are vulnerable to seismic shocks, whether due to groundbreaking technological advancements, geopolitical shifts, or global crises. Amid these sources of turbulence, artificial intelligence (AI) can be a game-changer, offering a source of rapid response and sustainable solutions to keep supply chains strong."
     publishedDateTime: 2024-03-08T13:51:00Z

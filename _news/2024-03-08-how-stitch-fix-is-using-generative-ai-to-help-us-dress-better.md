@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/03/08/how-stitch-fix-i
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/03/08/how-stitch-fix-is-using-generative-ai-to-help-us-dress-better/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -77,6 +77,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65ea5df29887bd7e668e400d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Google aims to relaunch Gemini AI image generation tool after addressing accuracy concerns"
+    excerpt: "This move comes as Google DeepMind CEO Demis Hassabis announced plans to reintroduce the Gemini AI image generation tool after addressing the inaccuracies that led to its temporary suspension"
+    publishedDateTime: 2024-03-12T10:43:00Z
+    webUrl: "https://www.tbsnews.net/tech/google-aims-relaunch-gemini-ai-image-generation-tool-after-addressing-accuracy-concerns-807942"
+    ampWebUrl: "https://www.tbsnews.net/tech/google-aims-relaunch-gemini-ai-image-generation-tool-after-addressing-accuracy-concerns-807942?amp"
+    cdnAmpWebUrl: "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/tech/google-aims-relaunch-gemini-ai-image-generation-tool-after-addressing-accuracy-concerns-807942?amp"
+    type: article
+    provider:
+      name: tbsnews
+      domain: tbsnews.net
+    quality: 49
+    images:
+      - url: "https://www.tbsnews.net/sites/default/files/styles/social_watermark_bkash/public/images/2024/03/12/unnamed_1701932823549_1710219051782-ezgif.com-avif-to-jpg-converter.jpg"
+        width: 600
+        height: 314
         isCached: true
   - title: "Dating apps use AI to help users find their dream partner"
     excerpt: "Dating apps are using artificial intelligence to help users find their perfect match. NBC News' Valerie Castro spoke to some people who found love while using the AI-driven dating apps."

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-28-baidu-posts-record-revenue-amid-search-for-new-growth-engines.md",
+      "title": "Baidu Posts Record Revenue Amid Search for New Growth Engines",
+      "excerpt": "Chinese search-engine giant Baidu posted record quarterly revenue and higher adjusted profit, helped by higher ad spending and the rising profile of its ChatGPT-rival chatbot. The Beijing-based ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/business/earnings/baidus-fourth-quarter-net-profit-fell-despite-higher-revenue-273dde19",
+      "originalUrl": "https://www.wsj.com/business/earnings/baidus-fourth-quarter-net-profit-fell-despite-higher-revenue-273dde19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T11:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-28-rip-apple-car-this-is-why-it-died.md",
       "title": "RIP Apple Car. This Is Why It Died",
       "excerpt": "Any tech company moving into the auto space needs a manufacturing partner. But Apple’s EV died as it lived: alone.",
@@ -1316,58 +1359,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-should-you-stay-awake-in-a-self-driving-car-or-can-you-sleep.md",
-      "title": "Should You Stay Awake In A Self-Driving Car Or Can You Sleep?",
-      "excerpt": "Drivers have been dreaming of self-driving cars for decades. A way for them to get to their destinations without having to spend time and energy focused on the road (or other drivers). Maybe even ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/1518442/self-driving-car-should-stay-awake-can-sleep/",
-      "originalUrl": "https://www.slashgear.com/1518442/self-driving-car-should-stay-awake-can-sleep/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.slashgear.com/img/gallery/should-you-stay-awake-in-a-self-driving-car-or-can-you-sleep/l-intro-1707915398.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-19T16:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

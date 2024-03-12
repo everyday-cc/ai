@@ -2,6 +2,291 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-12-bridging-the-trust-gap-in-workplace-ai.md",
+      "title": "Bridging The Trust Gap In Workplace AI",
+      "excerpt": "A key element of the AI trust gap is not so much about technology but about whether the motivations around its appeal are mutually aligned and beneficial.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/12/bridging-the-trust-gap-in-workplace-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/12/bridging-the-trust-gap-in-workplace-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ef584cbe564485962092d2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/12/bridging-the-trust-gap-in-workplace-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/12/bridging-the-trust-gap-in-workplace-ai/amp/",
+      "publishedDateTime": "2024-03-12T11:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-akamai-neural-magic-partner-to-deploy-high-powered-deep-learning-ai-software.md",
+      "title": "Akamai, Neural Magic Partner To Deploy High-powered Deep Learning AI Software",
+      "excerpt": "Cloud company Akamai Technologies Inc. (AKAM) announced Tuesday a strategic partnership with Neural Magic, a developer of software",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/akamai-neural-magic-partner-to-deploy-high-powered-deep-learning-ai-software-1033154430",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/akamai-neural-magic-partner-to-deploy-high-powered-deep-learning-ai-software-1033154430",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-12T11:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-the-ai-revolution-needs-chips-software-and-gas-pipelines.md",
+      "title": "The AI Revolution Needs Chips, Software — and Gas Pipelines",
+      "excerpt": "The fervor for all things AI has finally spread to a sector whose own heady start-up phase came about 160 years ago: Pipelines. EQT Corp., a natural gas producer, announced this week the surprise $5.5 billion acquisition of Equitrans Midstream Corp.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2024-03-12/the-ai-revolution-needs-chips-software-and-gas-pipelines",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2024-03-12/the-ai-revolution-needs-chips-software-and-gas-pipelines",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-12T11:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-prompt-engineering-technique-known-as-the-step-around-is-gaining-steam-as-generative-ai-becomes-less-forthright.md",
+      "title": "Prompt Engineering Technique Known As The Step-Around Is Gaining Steam As Generative AI Becomes Less Forthright",
+      "excerpt": "A prompt engineering technique known as the step-around is gaining attention due to generative AI increasingly being less forthright. Here's what you need to know.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2024/03/12/prompt-engineering-technique-known-as-the-step-around-is-gaining-steam-as-generative-ai-becomes-less-forthright/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2024/03/12/prompt-engineering-technique-known-as-the-step-around-is-gaining-steam-as-generative-ai-becomes-less-forthright/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ee4ffd8c25253909e03855/0x0.jpg?format=jpg&crop=997,549,x0,y50,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 881,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2024/03/12/prompt-engineering-technique-known-as-the-step-around-is-gaining-steam-as-generative-ai-becomes-less-forthright/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/03/12/prompt-engineering-technique-known-as-the-step-around-is-gaining-steam-as-generative-ai-becomes-less-forthright/amp/",
+      "publishedDateTime": "2024-03-12T11:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-chatgpt-and-generative-ai-innovations-are-creating-sustainability-havoc.md",
+      "title": "ChatGPT And Generative AI Innovations Are Creating Sustainability Havoc",
+      "excerpt": "This article discusses the risks of ChatGPT and Generative AI innovations are having on sustainability goals and highlights the energy and water consumption risks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2024/03/12/chatgpt-and-generative-ai-innovations-are-creating-sustainability-havoc/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2024/03/12/chatgpt-and-generative-ai-innovations-are-creating-sustainability-havoc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65f031a4a360eaa0853ec14c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-12T10:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-apple-making-new-m4-chip-for-macbook-pro-will-give-it-more-power-to-handle-ai-tasks.md",
+      "title": "Apple making new M4 chip for Macbook Pro, will give it more power to handle AI tasks",
+      "excerpt": "Apple is gearing up to take AI capabilities to the next level with its upcoming M4 chip for the new MacBook Pro. The tech giant is focusing on enhancing Neural Engine cores, potentially revolutionising tasks like voice recognition,",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatoday.in/technology/news/story/apple-is-making-the-new-m4-chip-for-macbook-pro-more-powerful-to-handle-ai-related-tasks-2513829-2024-03-12",
+      "originalUrl": "https://www.indiatoday.in/technology/news/story/apple-is-making-the-new-m4-chip-for-macbook-pro-more-powerful-to-handle-ai-related-tasks-2513829-2024-03-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202403/macbook-pro-120301723-16x9_1.jpg?VersionId=EFQksKw7Z.VL3lI8JZDY80Cbh5KgxQqt",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.indiatoday.in/amp/technology/news/story/apple-is-making-the-new-m4-chip-for-macbook-pro-more-powerful-to-handle-ai-related-tasks-2513829-2024-03-12",
+      "cdnAmpWebUrl": "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/technology/news/story/apple-is-making-the-new-m4-chip-for-macbook-pro-more-powerful-to-handle-ai-related-tasks-2513829-2024-03-12",
+      "publishedDateTime": "2024-03-12T10:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Today",
+        "domain": "indiatoday.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-12-bear-robotics-a-robot-waiter-startup-just-picked-up-60m-from-lg.md",
       "title": "Bear Robotics, a robot waiter startup, just picked up $60M from LG",
       "excerpt": "LG Electronics may no longer be a household name in smartphones, but it still sees a big future in gadgets like robots. Today, the company confirmed a $60",
@@ -62,7 +347,7 @@
       "originalUrl": "https://www.dqindia.com/dqdeeptech/empowering-the-genai-revolution-gaurav-arora-aws-4327505",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -156,7 +441,7 @@
       "originalUrl": "https://www.forbes.com/sites/clairepoolesp/2024/03/12/how-ai-in-sports-can-score-for-environment-and-climate/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -545,7 +830,7 @@
       "originalUrl": "https://www.businessinsider.com/microsoft-insiders-worry-company-has-become-just-it-for-openai-2024-3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -691,7 +976,7 @@
       "originalUrl": "https://www.digitaltrends.com/computing/how-to-use-google-gemini/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 226,
+      "heat": 256,
       "tags": null,
       "images": [
         {
@@ -939,317 +1224,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-us-carefully-monitors-chip-exports-to-china-deepens-investments-in-philippines.md",
-      "title": "US carefully monitors chip exports to China, deepens investments in Philippines",
-      "excerpt": "U.S. Commerce Secretary Gina Raimondo led a U.S. Presidential Trade and Investment Mission to boost US contributions to the Philippines and strengthen bilateral economic ties.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/us-carefully-monitors-chip-exports-china-deepens-investments-philippines",
-      "originalUrl": "https://www.foxnews.com/us/us-carefully-monitors-chip-exports-china-deepens-investments-philippines",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/68e54425-0043-4978-b3a2-841c8da7ca53/9137d106-7efe-4bb1-955a-299a8bc1c987/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/us-carefully-monitors-chip-exports-china-deepens-investments-philippines.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/us-carefully-monitors-chip-exports-china-deepens-investments-philippines.amp",
-      "publishedDateTime": "2024-03-11T17:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-developer-manages-to-run-ray-tracing-without-a-gpu-achieves-1-fps-on-quake-ii-rtx.md",
-      "title": "Developer manages to run ray tracing without a GPU, achieves 1 fps on Quake II RTX",
-      "excerpt": "Developer Konstantin Seurer has been hacking away at the open-source Mesa graphics library, adding support for Vulkan ray tracing right into the CPU code. By enabling",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/102207-developer-manages-run-ray-tracing-without-gpu-achieves.html",
-      "originalUrl": "https://www.techspot.com/news/102207-developer-manages-run-ray-tracing-without-gpu-achieves.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2024/03/2024-03-11-image-4.jpg",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-11T17:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-11-how-vistaprint-delivers-personalized-product-recommendations-with-amazon-personalize.md",
-      "title": "How VistaPrint delivers personalized product recommendations with Amazon Personalize",
-      "excerpt": "VistaPrint, a Cimpress business, is the design and marketing partner to millions of small businesses around the world. For more than two decades, VistaPrint has empowered small businesses to quickly and effectively create the marketing products – from promotional materials and signage to print advertising",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-vistaprint-delivers-personalized-product-recommendations-with-amazon-personalize/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-vistaprint-delivers-personalized-product-recommendations-with-amazon-personalize/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/13/ML-14265-Figure1-1114x630.png",
-          "width": 1114,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-11T17:00:48Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-11-novelists-sue-nvidia-to-stop-spread-of-ai-models-trained-on-copyrighted-books.md",
-      "title": "Novelists sue Nvidia to stop spread of AI models trained on copyrighted books",
-      "excerpt": "Book authors are suing Nvidia, alleging that the chip maker's AI platform NeMo—used to power customized chatbots—was trained on a controversial dataset that illegally copied and distributed their books without their consent.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/tech-policy/2024/03/novelists-sue-nvidia-to-stop-spread-of-ai-models-trained-on-copyrighted-books/",
-      "originalUrl": "https://arstechnica.com/tech-policy/2024/03/novelists-sue-nvidia-to-stop-spread-of-ai-models-trained-on-copyrighted-books/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1397564918-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-11T16:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-11-futurists-positive-about-ais-impact-on-jobs-urge-wide-perspective.md",
-      "title": "Futurists Positive About AI’s Impact On Jobs, Urge Wide Perspective",
-      "excerpt": "This report has been prepared by TCS futurists and is based on a survey of prominent futurists, executives, and foresight professionals around the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2024/03/11/futurists-positive-about-ais-impact-on-jobs-urge-wide-perspective/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2024/03/11/futurists-positive-about-ais-impact-on-jobs-urge-wide-perspective/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61042e95301717f598616035/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 986,
-          "height": 553,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2024/03/11/futurists-positive-about-ais-impact-on-jobs-urge-wide-perspective/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2024/03/11/futurists-positive-about-ais-impact-on-jobs-urge-wide-perspective/amp/",
-      "publishedDateTime": "2024-03-11T16:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-11-litter-robot-4-vs-3-connect-which-automatic-litter-box-should-you-get.md",
-      "title": "Litter-Robot 4 Vs. 3 Connect: Which Automatic Litter Box Should You Get?",
-      "excerpt": "the Litter-Robot 4 is an upgraded version of the Litter-Robot 3 Connect, with advanced safety sensors, a more sophisticated (and quieter) sifting system and better odor control. I have both models in my home and my three cats use each one regularly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2024/03/11/litter-robot-4-vs-3/",
-      "originalUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2024/03/11/litter-robot-4-vs-3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65eb6c39c78a1860c0563c44/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2024/03/11/litter-robot-4-vs-3/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbes-personal-shopper/2024/03/11/litter-robot-4-vs-3/amp/",
-      "publishedDateTime": "2024-03-11T15:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

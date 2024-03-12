@@ -2,6 +2,437 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2024-02-29-dubai-robot-to-detect-e-scooter-cycle-violations.md",
+      "title": "Dubai: Robot to detect e-scooter, cycle violations",
+      "excerpt": "The robot will monitor the use of bicycles and electric scooters. Powered by artificial intelligence, the robot will identify a range of violations, including failure to adhere to personal safety protocols like wearing helmets; scooters parked in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/business/technology-and-telecom/dubai-robot-to-detect-e-scooter-cycle-violations-d7bpkaf7",
+      "originalUrl": "https://www.zawya.com/en/business/technology-and-telecom/dubai-robot-to-detect-e-scooter-cycle-violations-d7bpkaf7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/view/acePublic/alias/contentid/MzcyNjM5ZjctZGU4NC00/11/201209063314qlkc-jpg.jpeg?f=3%3A2",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/en/business/technology-and-telecom/dubai-robot-to-detect-e-scooter-cycle-violations-d7bpkaf7?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/technology-and-telecom/dubai-robot-to-detect-e-scooter-cycle-violations-d7bpkaf7?amp=1",
+      "publishedDateTime": "2024-02-28T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-ibm-announces-availability-of-open-source-mistral-ai-model-on-watsonx-expands-model-choice-to-help-enterprises-scale-ai-with-trust-and-flexibility.md",
+      "title": "IBM Announces Availability of Open-Source Mistral AI Model on watsonx, Expands Model Choice to Help Enterprises Scale AI with Trust and Flexibility",
+      "excerpt": "ARMONK, N.Y., Feb. 29, 2024 /PRNewswire/ -- IBM (NYSE: IBM) today announced the availability of the popular open-source Mixtral-8x7B large language model (LLM), developed by Mistral AI, on its watsonx AI and data platform, as it continues to expand ...",
+      "sourceUrl": null,
+      "webUrl": "https://stockhouse.com/news/press-releases/2024/02/29/ibm-announces-availability-of-open-source-mistral-ai-model-on-watsonx-expands",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2024/02/29/ibm-announces-availability-of-open-source-mistral-ai-model-on-watsonx-expands",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-machine-learning-vs-ai-vs-deep-learning-the-differences-explained.md",
+      "title": "Machine learning vs AI vs deep learning: The differences explained",
+      "excerpt": "What is machine learning and deep learning? Machine learning is a subfield of computer science that emphasizes the development of algorithms and statistical models. These models enable computers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/machine-learning-vs-ai-vs-deep-learning-3420062/",
+      "originalUrl": "https://www.androidauthority.com/machine-learning-vs-ai-vs-deep-learning-3420062/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-microsoft-openai-and-nvidia-back-26bn-robot-start-up.md",
+      "title": "Microsoft, OpenAI and Nvidia back $2.6bn robot start-up",
+      "excerpt": "Microsoft, OpenAI and Nvidia are among the investors backing a Silicon Valley start-up that aims to introduce artificial intelligence-powered humanoid robots to the workforce and transform the global labour market. Figure AI said on Thursday it had raised ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/3f7e86e1-123a-4fba-af0a-680d955125c0?emci=4515dc95-3ad7-ee11-85f9-002248223794&emdi=ea000000-0000-0000-0000-000000000001&ceid={{ContactsEmailID}}",
+      "originalUrl": "https://www.ft.com/content/3f7e86e1-123a-4fba-af0a-680d955125c0?emci=4515dc95-3ad7-ee11-85f9-002248223794&emdi=ea000000-0000-0000-0000-000000000001&ceid={{ContactsEmailID}}",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fcd08ec8e-679b-4b48-b1ff-daa0e7b93721.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
+          "width": 700,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-palatin-pummelled-as-dry-eye-therapy-underwhelms-in-phase-3.md",
+      "title": "Palatin pummelled as dry eye therapy underwhelms in phase 3",
+      "excerpt": "Palatin Technologies’ therapy for dry eye disease (DED ... and which met both primary sign and symptom efficacy endpoints in pivotal trials. Artificial intelligence (AI) has become an omnipresent force in our lives. From our homes to workplaces, from ...",
+      "sourceUrl": null,
+      "webUrl": "https://pharmaphorum.com/news/palatin-pummelled-dry-eye-therapy-underwhelms-phase-3",
+      "originalUrl": "https://pharmaphorum.com/news/palatin-pummelled-dry-eye-therapy-underwhelms-phase-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pharmaphorum.com/sites/default/files/2024-02/fa-barboza-hands-over-eyes-unsplash.jpg",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pharmaphorum",
+        "domain": "pharmaphorum.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-recent-healthcare-related-artificial-intelligence-developments.md",
+      "title": "Recent Healthcare-Related Artificial Intelligence Developments",
+      "excerpt": "You are responsible for reading, understanding and agreeing to the National Law Review's (NLR’s) and the National Law Forum LLC's Terms of Use and Privacy Policy ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/recent-healthcare-related-artificial-intelligence-developments",
+      "originalUrl": "https://www.natlawreview.com/article/recent-healthcare-related-artificial-intelligence-developments",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-tsmc-founder-foresees-the-need-for-up-to-10-new-fabs-for-ai-chip-manufacturing.md",
+      "title": "TSMC founder foresees the need for up to 10 new fabs for AI chip manufacturing",
+      "excerpt": "Read our ethics statement. A hot potato ... Chang recently stated that the current demand for AI hardware accelerators is so high that his company will soon have to multiply its production capacity at staggering rates. Chang spoke during the inauguration ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/102074-tsmc-founder-foresees-need-up-ten-new-fabs.html",
+      "originalUrl": "https://www.techspot.com/news/102074-tsmc-founder-foresees-need-up-ten-new-fabs.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-user-clip-floor-speech-we-wrote.md",
+      "title": "User Clip: Floor Speech we wrote!",
+      "excerpt": "User-Created Clip February 29, 2024 2024-02-29T10:00:46-05:00https://images.c-span.org/Files/d6a/001/1709221722_001.jpgFloor Speech we wrote! Floor Speech we wrote ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.c-span.org/video/?c5108064/user-clip-floor-speech-wrote",
+      "originalUrl": "https://www.c-span.org/video/?c5108064/user-clip-floor-speech-wrote",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "c-span",
+        "domain": "c-span.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-shifting-perspectives-how-automation-and-ai-are-shaping-our-worldview.md",
+      "title": "Shifting Perspectives: How Automation And AI Are Shaping Our Worldview",
+      "excerpt": "Perry’s new book, “Perspective Agents”, suggests that a new world media order is indeed upon us, and that the notion of perspective is the paramount skill of our time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/traceyfollows/2024/02/28/shifting-perspectives-how-automation-and-ai-are-shaping-our-worldview/",
+      "originalUrl": "https://www.forbes.com/sites/traceyfollows/2024/02/28/shifting-perspectives-how-automation-and-ai-are-shaping-our-worldview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65dfa9f7bcb82967938c4517/0x0.jpg?format=jpg&crop=5200,2924,x0,y93,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/traceyfollows/2024/02/28/shifting-perspectives-how-automation-and-ai-are-shaping-our-worldview/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/traceyfollows/2024/02/28/shifting-perspectives-how-automation-and-ai-are-shaping-our-worldview/amp/",
+      "publishedDateTime": "2024-02-28T23:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-innovationrx-exploring-the-future-of-healthcare-ai.md",
+      "title": "InnovationRx: Exploring The Future Of Healthcare AI",
+      "excerpt": "Lightspeed Venture Partners and Redpoint Ventures have co-led a $150 million Series C investment in Pittsburgh-based startup Abridge, which uses AI to transcribe patient conversations with doctors and automatically transform them into medical notes. The company’s post-money valuation is $850 million, according to a person familiar with the deal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/katiejennings/2024/02/28/innovationrx-exploring-the-future-of-healthcare-ai/",
+      "originalUrl": "https://www.forbes.com/sites/katiejennings/2024/02/28/innovationrx-exploring-the-future-of-healthcare-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65dfaf39f3e15d8eac74e26c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T22:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2024-02-29-c3ai-shares-pop-after-company-beats-estimates-narrows-annual-revenue-forecast.md",
       "title": "C3.ai shares pop after company beats estimates, narrows annual revenue forecast",
       "excerpt": "Software firm C3.ai on Wednesday posted better-than-expected quarterly results and narrowed its full-year revenue forecast range which was still ahead of Wall Street estimates, sending its shares up more than 14% in extended trading. The company also named Hitesh Lath as its chief financial officer, effective March 1, replacing Juho Parkkinen.",
@@ -603,58 +1034,6 @@
       ]
     },
     {
-      "path": "_news/2024-02-28-amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots.md",
-      "title": "Amazon to spend $1 billion on startups that combine AI with robots",
-      "excerpt": "Amazon has innovated in robotics before: in 2022, the company said it had invested more than 400 million euros in technologies that include industrial robotics and sorting systems in its European warehouses. It has deployed 750,000 mobile robots across its operations network.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/",
-      "originalUrl": "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/digit-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T14:48:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-28-the-difference-between-alias-and-cname-and-when-to-use-them.md",
       "title": "The difference between ALIAS and CNAME and when to use them",
       "excerpt": "The difference between a CNAME record and an ALIAS record is not in the result, but in how they resolve the target DNS record when queried.\nThe post The difference between ALIAS and CNAME and when to use them appeared first on IBM Blog.\n",
@@ -744,454 +1123,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-groq-lpu-language-processing-unit-performance-tested-capable-of-500-tokens-per-second.md",
-      "title": "Groq LPU (Language Processing Unit) performance tested – capable of 500 tokens per second",
-      "excerpt": "Learn more about the performance of the new  Groq LPU Inference Engine performance tested. The Groq Language Processing Unit is extremely",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/groq-lpu-language-processing-unit-performance-tested-capable-of-500-tokens-per-second/",
-      "originalUrl": "https://www.geeky-gadgets.com/groq-lpu-language-processing-unit-performance-tested-capable-of-500-tokens-per-second/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/Groq-Language-Processing-Unit.jpg",
-          "width": 1280,
-          "height": 714,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T13:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-deepmind-uses-ai-to-tackle-neglected-deadly-diseases.md",
-      "title": "DeepMind uses AI to tackle neglected deadly diseases",
-      "excerpt": "Artificial intelligence is to be used to tackle the most deadly parasitic diseases in the developing world, tech company DeepMind has announced. The London-based Alphabet-owned lab will work with the Drugs for Neglected Diseases initiative (DNDI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-57582183?_hsenc=p2ANqtz-_VO1RavpYLA9NyC8VPMRLxLSCmRcwZxtQD8bLNxkYV6PHFEWLFX4hxgbXflccaEtQ-UpZC",
-      "originalUrl": "https://www.bbc.com/news/technology-57582183?_hsenc=p2ANqtz-_VO1RavpYLA9NyC8VPMRLxLSCmRcwZxtQD8bLNxkYV6PHFEWLFX4hxgbXflccaEtQ-UpZC",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/D36C/production/_119042145_hi066638536.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/technology-57582183.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57582183.amp",
-      "publishedDateTime": "2024-02-28T12:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-rethinking-ai-in-the-context-of-sustainability.md",
-      "title": "Rethinking AI In The Context Of Sustainability",
-      "excerpt": "Large language models (LLMs), natural language processing (NLP), machine learning (ML), cognitive AI and a litany of other “hot” artificial intelligence technologies have flooded our discussions since early 2023. From media coverage to overzealous CEOs ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/rethinking-ai-in-the-context-of-sustainability/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/rethinking-ai-in-the-context-of-sustainability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65de0c271287e45e3434069a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1501,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/rethinking-ai-in-the-context-of-sustainability/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/28/rethinking-ai-in-the-context-of-sustainability/amp/",
-      "publishedDateTime": "2024-02-28T11:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-baidu-revenue-grows-6-in-fourth-quarter-as-ai-and-advertising-boost-business.md",
-      "title": "Baidu revenue grows 6% in fourth quarter as AI and advertising boost business",
-      "excerpt": "The U.S.-listed shares of the company rose by 0.4% in trading before the bell. Baidu's online marketing revenue grew 6% to 19.2 billion yuan. For the quarter, its adjusted profit was 21.86 yuan ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/02/28/baidu-q4-earnings-2023.html",
-      "originalUrl": "https://www.cnbc.com/2024/02/28/baidu-q4-earnings-2023.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107295593-1693900544756-gettyimages-1251294603-PGONCHAR_7724.jpeg?v=1709119383",
-          "width": 5000,
-          "height": 3333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/02/28/baidu-q4-earnings-2023.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/28/baidu-q4-earnings-2023.html",
-      "publishedDateTime": "2024-02-28T11:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-baidu-posts-record-revenue-amid-search-for-new-growth-engines.md",
-      "title": "Baidu Posts Record Revenue Amid Search for New Growth Engines",
-      "excerpt": "Chinese search-engine giant Baidu posted record quarterly revenue and higher adjusted profit, helped by higher ad spending and the rising profile of its ChatGPT-rival chatbot. The Beijing-based ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/business/earnings/baidus-fourth-quarter-net-profit-fell-despite-higher-revenue-273dde19",
-      "originalUrl": "https://www.wsj.com/business/earnings/baidus-fourth-quarter-net-profit-fell-despite-higher-revenue-273dde19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T11:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-how-ai-will-spur-the-democratization-of-technology-in-2024.md",
-      "title": "How AI Will Spur The Democratization Of Technology In 2024",
-      "excerpt": "A future-proof approach, with consideration for how AI will continue to change and mature, is what will unlock transformational business outcomes in the years ahead.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/how-ai-will-spur-the-democratization-of-technology-in-2024/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/how-ai-will-spur-the-democratization-of-technology-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65299ef3b71b98caddf7c4c1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1478,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/how-ai-will-spur-the-democratization-of-technology-in-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/28/how-ai-will-spur-the-democratization-of-technology-in-2024/amp/",
-      "publishedDateTime": "2024-02-28T10:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-rip-apple-car-this-is-why-it-died.md",
-      "title": "RIP Apple Car. This Is Why It Died",
-      "excerpt": "Any tech company moving into the auto space needs a manufacturing partner. But Apple’s EV died as it lived: alone.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/rip-apple-car-this-is-why-it-died/",
-      "originalUrl": "https://www.wired.com/story/rip-apple-car-this-is-why-it-died/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/65de3f5c8f177b35ceaa4d78/191:100/w_1280,c_limit/Death-Of-The-Apple-Car-Gear-AP19148216961071.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T10:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-ai-takes-over-davos-the-promise-the-risk-and-the-way-forward.md",
-      "title": "AI Takes Over Davos: The Promise, The Risk And The Way Forward",
-      "excerpt": "As the AI conversation shifts focus from its potential to perceived risks, what does the way forward look like, and will regulation stifle innovation or stimulate it?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/ai-takes-over-davos-the-promise-the-risk-and-the-way-forward/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/ai-takes-over-davos-the-promise-the-risk-and-the-way-forward/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65de07c5838ea55f72854821/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/ai-takes-over-davos-the-promise-the-risk-and-the-way-forward/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/28/ai-takes-over-davos-the-promise-the-risk-and-the-way-forward/amp/",
-      "publishedDateTime": "2024-02-28T10:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-the-most-popular-neural-network-styles-and-how-they-work.md",
-      "title": "The most popular neural network styles and how they work",
-      "excerpt": "Understanding the basics of neural networks also helps us address deeper questions about the nature of consciousness and what artificial intelligence (in its current incarnation) means for it. Fortunately, the fundamental ideas of neural networks are not ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3713023/the-most-popular-neural-network-styles-and-how-they-work.html",
-      "originalUrl": "https://www.infoworld.com/article/3713023/the-most-popular-neural-network-styles-and-how-they-work.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/11/11/10/brain_mind_neural_network_connections_artificial_intelligence_machine_learning_by_metamorworks_gettyimages-916414870_1200x800-100767999-large-100934453-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3713023/the-most-popular-neural-network-styles-and-how-they-work.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3713023/the-most-popular-neural-network-styles-and-how-they-work.amp.html",
-      "publishedDateTime": "2024-02-28T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

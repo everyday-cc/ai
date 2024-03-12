@@ -24,17 +24,6 @@ images:
     height: 368
     isCached: true
 
-related:
-  - title: "Six AI Applications to Transform Your Clinical Operations"
-    excerpt: "Dr. Harvey Castro shares how large language models and machine learning are revolutionizing the way we communicate with the health system."
-    publishedDateTime: 2024-03-07T15:00:00Z
-    webUrl: "https://www.dmagazine.com/healthcare-business/2024/03/six-ai-applications-to-transform-your-clinical-operations/"
-    type: article
-    provider:
-      name: D Magazine
-      domain: dmagazine.com
-    quality: 19
-
 secured: "xQz9BfxKHIE/stOtvbErP8GPHPvcPV62W/lpFJH0AwjvFqfZkyPD3pkxelPbmXT2UwYRpTa1gmvBIfcG+ZTyvZzmZjkueBX0ixZNdQsxnVYx+MHlWdKoTQLTcxPMQ/4yFZrx5XLxeHqa0duLgIZK29pT2jeK0/uyYcOffwhfxrU0LX9ItRSbpgGNY3CjYs4Xe1FtqQy/T+tF9/keQA4emtZoYq6Zn7ruVw6DEuBQMH8ul6RDU2mCbMhBtkTub9mZA6GPUaJLOmK+7AKFus3cMYCV6TyuGjt1lVIWv0FMUOMRmkqetBBcusw5fpfLtwb8mXSsPvI/cuUpR2WiCZpELXcXpRHDtnyaJ/aZb8kFv14=;XlCxgkdfTkwy8g7cfZFojw=="
 ---
 

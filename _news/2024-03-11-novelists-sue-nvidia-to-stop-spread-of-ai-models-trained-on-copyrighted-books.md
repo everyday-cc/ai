@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/tech-policy/2024/03/novelists-sue-nvidia-t
 webUrl: "https://arstechnica.com/tech-policy/2024/03/novelists-sue-nvidia-to-stop-spread-of-ai-models-trained-on-copyrighted-books/"
 type: article
 quality: 66
-heat: 146
+heat: 126
 published: true
 
 provider:
@@ -68,15 +68,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
-  - title: "Inflows Into Bullish Nvidia ETF Hit Record on AI Frenzy"
-    excerpt: "(Reuters) - Investors have piled into Nvidia-focused exchange-traded funds (ETFs) this year on the frenzy around AI, with inflows into a bullish fund that tracks the shares of the chip designer hitting an all-time high on Wednesday. Net daily inflows into ..."
-    publishedDateTime: 2024-03-07T10:51:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2024-03-07/inflows-into-bullish-nvidia-etf-hit-record-on-ai-frenzy"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
   - title: "This AI token is being called the Nvidia of crypto"
     excerpt: "With the reinvigorated interest in AI, decentralized platforms that offer related services are facing increased demand, including Render."
     publishedDateTime: 2024-03-08T12:23:00Z
@@ -119,15 +110,6 @@ related:
         width: 1232
         height: 928
         isCached: true
-  - title: "NVIDIA and HP Supercharge Data Science and Generative AI on Workstations"
-    excerpt: "NVIDIA and HP Inc. today announced that NVIDIA CUDA-X data processing libraries will be integrated with HP AI workstation"
-    publishedDateTime: 2024-03-08T00:02:00Z
-    webUrl: "https://www.datanami.com/this-just-in/nvidia-and-hp-supercharge-data-science-and-generative-ai-on-workstations/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 18
 
 secured: "RK/sIuoyeobro2q1nUmejZ2GCI+HZo0t/jRmXG45W4eYxthKHlKcDH+NiaK9F57ufeqsLlDPC402ZdTKdsdbfumbsf0tcMsVBRHcBbVTxGky6P6MdXyfBeZ/vzVcm6FaE8GK+3L72+8zRJ7LTRKk8/5kSlIQaXRLIg2gFEtKgGsT1B5+hRZ31pcZH0s/9kjfYqbJISTFENtCwPtSibuAD4GFkiAxXcyL2cc1zWQDMd6JTk6Uc7C4h8nOnFtYAunLGC7PyEkC/FYcbqT9AaBUxCVbwOwmc/Z0hO1Ilyuw5pXVeAMmzl9buEKwB7vfDmJqc/pSRvgXAkA2vU2fI5Nn8Y28JK5oiqHLPY86UR5iIbc=;GFPnTzh9OrUTLdHCYeCsBg=="
 ---

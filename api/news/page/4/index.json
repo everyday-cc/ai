@@ -2,6 +2,279 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-03-08-bengaluru-driverless-metro-trials-begin-how-ai-will-help-steer-this-train.md",
+      "title": "Bengaluru driverless Metro trials begin: How AI will help steer this train",
+      "excerpt": "Bengaluru Metro Rail Corporation has started slow trial runs of its driverless trains on the newly-constructed yellow line. The trains equipped with Communication-Based Train Control system will run on the 18.",
+      "sourceUrl": null,
+      "webUrl": "https://www.firstpost.com/explainers/bengaluru-driverless-metro-trials-begin-how-ai-will-help-steer-this-train-13746522.html",
+      "originalUrl": "https://www.firstpost.com/explainers/bengaluru-driverless-metro-trials-begin-how-ai-will-help-steer-this-train-13746522.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.firstpost.com/uploads/2024/03/PTI03_06_2024_000300B-2-2024-03-fba5b338fef933a296030675811e027b.jpg?im=FitAndFill=(1200,675)",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.firstpost.com/explainers/bengaluru-driverless-metro-trials-begin-how-ai-will-help-steer-this-train-13746522.html/amp",
+      "cdnAmpWebUrl": "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/explainers/bengaluru-driverless-metro-trials-begin-how-ai-will-help-steer-this-train-13746522.html/amp",
+      "publishedDateTime": "2024-03-08T06:24:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Firstpost",
+        "domain": "firstpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-08-mosti-ai-ethics-and-governance-guidelines-nearing-completion.md",
+      "title": "Mosti: AI ethics and governance guidelines nearing completion",
+      "excerpt": "The development of the artificial intelligence (AI) code of ethics and governance guidelines has now reached 90 per cent, according to the Ministry",
+      "sourceUrl": null,
+      "webUrl": "https://www.malaymail.com/news/malaysia/2024/03/08/mosti-ai-ethics-and-governance-guidelines-nearing-completion/122212",
+      "originalUrl": "https://www.malaymail.com/news/malaysia/2024/03/08/mosti-ai-ethics-and-governance-guidelines-nearing-completion/122212",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.malaymail.com/malaymail/uploads/images/2024/03/08/192687.JPG?v=1709881260",
+          "width": 1000,
+          "height": 679,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.malaymail.com/amp/news/malaysia/2024/03/08/mosti-ai-ethics-and-governance-guidelines-nearing-completion/122212",
+      "cdnAmpWebUrl": "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/malaysia/2024/03/08/mosti-ai-ethics-and-governance-guidelines-nearing-completion/122212",
+      "publishedDateTime": "2024-03-08T05:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "malaymail",
+        "domain": "malaymail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-08-how-stitch-fix-is-using-generative-ai-to-help-us-dress-better.md",
+      "title": "How Stitch Fix Is Using Generative AI To Help Us Dress Better",
+      "excerpt": "What makes Stitch Fix really special is its ability to strike that perfect balance between human knowledge and machine capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2024/03/08/how-stitch-fix-is-using-generative-ai-to-help-us-dress-better/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2024/03/08/how-stitch-fix-is-using-generative-ai-to-help-us-dress-better/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e4a9bf6aa5b8be3b7e9175/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1599,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2024/03/08/how-stitch-fix-is-using-generative-ai-to-help-us-dress-better/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/03/08/how-stitch-fix-is-using-generative-ai-to-help-us-dress-better/amp/",
+      "publishedDateTime": "2024-03-08T05:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-08-ayushmann-khurrana-need-to-develop-certain-laws-related-to-artificial-intelligence.md",
+      "title": "Ayushmann Khurrana: 'Need to develop certain laws related to artificial intelligence'",
+      "excerpt": "Actor Ayushmann Khurrana on Thursday said while filmmaking and technology go hand-in-hand, there is a need to regulate the use of artificial intelligence (AI). Khurrana was speaking on the third day of FICCI Frames 2024 here at the session titled \"From ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraphindia.com/entertainment/ayushmann-khurrana-need-to-develop-certain-laws-related-to-artificial-intelligence/cid/2005506",
+      "originalUrl": "https://www.telegraphindia.com/entertainment/ayushmann-khurrana-need-to-develop-certain-laws-related-to-artificial-intelligence/cid/2005506",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.telegraphindia.com/telegraph/2023/Apr/1681115561_ayushmann-khurrana.jpeg",
+          "width": 900,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.telegraphindia.com/amp/entertainment/ayushmann-khurrana-need-to-develop-certain-laws-related-to-artificial-intelligence/cid/2005506",
+      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/entertainment/ayushmann-khurrana-need-to-develop-certain-laws-related-to-artificial-intelligence/cid/2005506",
+      "publishedDateTime": "2024-03-08T04:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Telegraph",
+        "domain": "telegraphindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-the-diversity-dividend-how-inclusive-businesses-gain-competitive-advantage.md",
+      "title": "The diversity dividend: How inclusive businesses gain competitive advantage",
+      "excerpt": "Companies with diverse workforces are better positioned to deliver truly customer-centric experiences to all consumers.\nThe post The diversity dividend: How inclusive businesses gain competitive advantage appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/the-diversity-dividend-how-inclusive-businesses-gain-competitive-advantage/",
+      "originalUrl": "https://www.ibm.com/blog/the-diversity-dividend-how-inclusive-businesses-gain-competitive-advantage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-07T21:07:51Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-08-cognizant-launches-state-of-the-art-san-francisco-lab-to-boost-enterprise-ai-adoption.md",
+      "title": "Cognizant launches state-of-the-art San Francisco lab to boost enterprise AI adoption",
+      "excerpt": "Cognizant launches Advanced AI Lab in San Francisco to drive innovation and research in AI systems and technologies, as part of its $1 billion investment in generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/cognizant-launches-state-of-the-art-san-francisco-lab-to-boost-enterprise-ai-adoption/",
+      "originalUrl": "https://venturebeat.com/ai/cognizant-launches-state-of-the-art-san-francisco-lab-to-boost-enterprise-ai-adoption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/03/nuneybits_Vector_art_of_a_San_Francisco_labratory_for_artificia_a849076e-45df-47e4-9cf0-3080b0c86784-transformed.webp?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-07T20:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-07-automate-the-process-to-change-image-backgrounds-using-amazon-bedrock-and-aws-step-functions.md",
       "title": "Automate the process to change image backgrounds using Amazon Bedrock and AWS Step Functions",
       "excerpt": "Many customers, including those in creative advertising, media and entertainment, ecommerce, and fashion, often need to change the background in a large number of images. Typically, this involves manually editing each image with photo software. This can take a lot of effort, especially for large batches",
@@ -62,7 +335,7 @@
       "originalUrl": "https://venturebeat.com/ai/inflection-ai-launches-new-model-for-pi-chatbot-nearly-matches-gpt-4/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -200,21 +473,21 @@
       ]
     },
     {
-      "path": "_news/2024-03-07-ea-says-generative-ai-will-make-gamers-spend-more-speed-up-development-time.md",
-      "title": "EA says generative AI will make gamers spend more, speed up development time",
-      "excerpt": "Speaking at the Morgan Stanley Technology, Media & Telecom Conference on Wednesday (via Techraptor), Wilson called generative AI an \"incredibly exciting\" technology that EA is embracing.",
+      "path": "_news/2024-03-07-ai-outperforms-pathologists-in-predicting-cancer-spread-to-brain.md",
+      "title": "AI Outperforms Pathologists in Predicting Cancer Spread to Brain",
+      "excerpt": "A new scientific study published on Monday in The Journal of Pathology reveals that AI deep learning can predict if a patient’s non-small cell lung cancer (NSCLC) will spread to the brain within five years of diagnosis better than expert pathologists.",
       "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/102169-ea-generative-ai-increase-efficiency-speed-up-development.html",
-      "originalUrl": "https://www.techspot.com/news/102169-ea-generative-ai-increase-efficiency-speed-up-development.html",
+      "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202403/ai-outperforms-pathologists-in-predicting-cancer-spread-to-brain",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202403/ai-outperforms-pathologists-in-predicting-cancer-spread-to-brain",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 77,
       "tags": null,
       "images": [
         {
-          "url": "https://www.techspot.com/images2/news/bigimage/2024/03/2024-03-07-image-9.jpg",
-          "width": 3840,
-          "height": 2160,
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-03/pic9105.jpg?itok=gRgAKG7k",
+          "width": 1528,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -222,23 +495,14 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-07T14:50:00Z",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202403/ai-outperforms-pathologists-in-predicting-cancer-spread-to-brain?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202403/ai-outperforms-pathologists-in-predicting-cancer-spread-to-brain?amp",
+      "publishedDateTime": "2024-03-07T15:45:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -247,7 +511,40 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-reshape-automation-aims-to-reduce-barriers-of-robotics-adoption.md",
+      "title": "Reshape Automation aims to reduce barriers of robotics adoption",
+      "excerpt": "Reshape Automation is launching an end-to-end platform for customers to discover, design, purchase, and get support for automation projects.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/reshape-automation-aims-to-reduce-barriers-of-robotics-adoption/",
+      "originalUrl": "https://www.therobotreport.com/reshape-automation-aims-to-reduce-barriers-of-robotics-adoption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-07T14:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -409,7 +706,7 @@
       "originalUrl": "https://clarksvillenow.com/local/airports-using-biometric-facial-recognition-in-tennessee/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -440,6 +737,108 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-inflections-pi-ai-aims-to-provide-information-and-a-shoulder-to-cry-on.md",
+      "title": "Inflection's Pi AI aims to provide information and a shoulder to cry on",
+      "excerpt": "Designed to be empathetic, helpful, and safe, Pi also boasts improved skills in such areas as coding, math, and real-time results via the latest flavor of its large language model.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/inflections-pi-ai-aims-to-provide-information-and-a-shoulder-to-cry-on/",
+      "originalUrl": "https://www.zdnet.com/article/inflections-pi-ai-aims-to-provide-information-and-a-shoulder-to-cry-on/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/646e8a0b656f649933bc681ad1d64f1700260d22/2024/03/07/032e98aa-541d-4e9a-8343-5bed40f840b7/gettyimages-1317415735.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/inflections-pi-ai-aims-to-provide-information-and-a-shoulder-to-cry-on/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/inflections-pi-ai-aims-to-provide-information-and-a-shoulder-to-cry-on/",
+      "publishedDateTime": "2024-03-07T13:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-the-role-of-ai-in-solving-the-volume-cost-equation-in-customer-service.md",
+      "title": "The Role Of AI In Solving The Volume-Cost Equation In Customer Service",
+      "excerpt": "It’s important to recognize that generative AI is not the catch-all answer to the volume-cost equation and that everything becomes immediately balanced once implemented.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/07/the-role-of-ai-in-solving-the-volume-cost-equation-in-customer-service/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/07/the-role-of-ai-in-solving-the-volume-cost-equation-in-customer-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6452660f5ec3aaf210ee1af0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/07/the-role-of-ai-in-solving-the-volume-cost-equation-in-customer-service/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/07/the-role-of-ai-in-solving-the-volume-cost-equation-in-customer-service/amp/",
+      "publishedDateTime": "2024-03-07T12:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -769,428 +1168,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-sahm-capital-showcases-latest-fintech-and-ai-solutions-at-leap-2024.md",
-      "title": "Sahm Capital Showcases Latest Fintech And AI Solutions At LEAP 2024",
-      "excerpt": "data-text=\"Sahm Capital Showcases latest Fintech and AI Solutions at LEAP 2024\" data-link=\" Capital Showcases latest Fintech and AI Solutions at LEAP 2024\" class ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1107948386/Sahm-Capital-Showcases-Latest-Fintech-And-AI-Solutions-At-LEAP-2024",
-      "originalUrl": "https://menafn.com/1107948386/Sahm-Capital-Showcases-Latest-Fintech-And-AI-Solutions-At-LEAP-2024",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?123869",
-          "width": 375,
-          "height": 249,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-07T09:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-former-google-engineer-arrested-for-alleged-theft-of-ai-trade-secrets-for-chinese-firms.md",
-      "title": "Former Google engineer arrested for alleged theft of AI trade secrets for Chinese firms",
-      "excerpt": "The trade secrets Ding allegedly copied contained \"detailed information about the architecture and functionality of GPU and TPU chips and systems ... at the cutting edge of machine learning and AI technology,\" according to the indictment.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/tech-policy/2024/03/former-google-engineer-arrested-for-alleged-theft-of-ai-trade-secrets-for-chinese-firms/",
-      "originalUrl": "https://arstechnica.com/tech-policy/2024/03/former-google-engineer-arrested-for-alleged-theft-of-ai-trade-secrets-for-chinese-firms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/google_datacenter_1-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-07T08:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-elon-musk-sues-open-ai-and-co-founder-over-alleged-switch-to-for-profit.md",
-      "title": "Elon Musk sues Open AI and co-founder over alleged switch to for-profit",
-      "excerpt": "Elon Musk has sued the non-profit Open AI and it's co-founder Sam Altman over the company allegedly moving to a for-profit company. Open AI responded to the claims by releasing e-mails between the company and Musk.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/now/video/elon-musk-sues-open-ai-and-co-founder-over-alleged-switch-to-for-profit-205623365638",
-      "originalUrl": "https://www.nbcnews.com/now/video/elon-musk-sues-open-ai-and-co-founder-over-alleged-switch-to-for-profit-205623365638",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2024_03/1709782067597_now_topstory_musk_open_ai_240306_1920x1080-na2ess.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo205623365638",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo205623365638",
-      "publishedDateTime": "2024-03-07T03:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-robot-ships-huge-remote-controlled-vessels-are-setting-sail.md",
-      "title": "Robot ships: Huge remote controlled vessels are setting sail",
-      "excerpt": "Marian Meza Chavira is learning to pilot underwater robots from a remote control centre Entering the ... Many questions spring to mind about remotely operated and autonomous shipping, just as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/science-environment-68486462.amp",
-      "originalUrl": "https://www.bbc.co.uk/news/science-environment-68486462.amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/C8AE/production/_132847315_oishipdrone2.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/science-environment-68486462.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/science-environment-68486462.amp",
-      "publishedDateTime": "2024-03-07T01:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-ai-watermarks-arent-just-easy-to-defeatthey-could-make-disinformation-worse.md",
-      "title": "AI watermarks aren’t just easy to defeat—they could make disinformation worse",
-      "excerpt": "Whose AI outrage matters? The recent controversy around Google Gemini ... I spoke with Gebru and Margaret Mitchell, her former Google counterpart who now works as a researcher and chief ethics scientist at Hugging Face, about this exact topic and their ...",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/2024/03/07/ai-watermarks-arent-just-easy-to-defeat-they-could-make-disinformation-worse/",
-      "originalUrl": "https://fortune.com/2024/03/07/ai-watermarks-arent-just-easy-to-defeat-they-could-make-disinformation-worse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.fortune.com/wp-content/uploads/2024/03/GettyImages-2035485482-e1709829839183.jpg?w=840",
-          "width": 840,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/2024/03/07/ai-watermarks-arent-just-easy-to-defeat-they-could-make-disinformation-worse/amp/",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2024/03/07/ai-watermarks-arent-just-easy-to-defeat-they-could-make-disinformation-worse/amp/",
-      "publishedDateTime": "2024-03-07T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-sahm-capital-showcases-latest-fintech-ai-solutions-at-leap.md",
-      "title": "Sahm Capital showcases latest fintech, AI solutions at LEAP",
-      "excerpt": "featuring an AI presenter named 'Aliyah', at LEAP 2024. The cirm also showcased its all-in-one comprehensive trading solutions at the four-day event. With focus on fintech innovation, the company provides comprehensive trading solutions, including the Sahm ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/business/fintech/sahm-capital-showcases-latest-fintech-ai-solutions-at-leap-k0i5s1lc",
-      "originalUrl": "https://www.zawya.com/en/business/fintech/sahm-capital-showcases-latest-fintech-ai-solutions-at-leap-k0i5s1lc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/NjgwY2Q3NjMtZTY2NC00/38/1463605211.jpeg?f=3%3A2",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/business/fintech/sahm-capital-showcases-latest-fintech-ai-solutions-at-leap-k0i5s1lc?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/fintech/sahm-capital-showcases-latest-fintech-ai-solutions-at-leap-k0i5s1lc?amp=1",
-      "publishedDateTime": "2024-03-07T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-scientists-develop-new-machine-learning-method-for-modeling-chemical-reactions.md",
-      "title": "Scientists develop new machine learning method for modeling chemical reactions",
-      "excerpt": "Researchers from Carnegie Mellon University and Los Alamos National Laboratory have used machine learning to create a model that can simulate reactive processes in a diverse set of organic materials and conditions. \"It's a tool that can be used to ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2024-03-scientists-machine-method-chemical-reactions.html",
-      "originalUrl": "https://phys.org/news/2024-03-scientists-machine-method-chemical-reactions.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2024/scientists-develop-new-2.jpg",
-          "width": 1759,
-          "height": 1659,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2024-03-scientists-machine-method-chemical-reactions.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2024-03-scientists-machine-method-chemical-reactions.amp",
-      "publishedDateTime": "2024-03-07T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-5-years-after-san-francisco-banned-face-recognition-voters-ask-for-more-surveillance.md",
-      "title": "5 Years After San Francisco Banned Face Recognition, Voters Ask for More Surveillance",
-      "excerpt": "On Tuesday the country’s techiest city backed a ballot proposition that tapped into concerns about crime, giving the police more freedom to use drones and other surveillance technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/san-francisco-banned-face-recognition-voters-ask-for-more-surveillance/",
-      "originalUrl": "https://www.wired.com/story/san-francisco-banned-face-recognition-voters-ask-for-more-surveillance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/65e8d5adf50e43ba3169369b/191:100/w_1280,c_limit/facialrecognition-SF_biz_GettyImages-1215395483.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-06T23:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-salesforce-unveils-low-code-ai-toolkit-for-crm.md",
-      "title": "Salesforce unveils low-code AI toolkit for CRM",
-      "excerpt": "Einstein 1 Studio allows Salesforce admins and developers to customize the Einstein Copilot conversational AI assistant and embed AI functionality into CRM apps.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3714260/salesforce-unveils-low-code-ai-toolkit-for-crm.html",
-      "originalUrl": "https://www.infoworld.com/article/3714260/salesforce-unveils-low-code-ai-toolkit-for-crm.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/12/01/17/salesforce-sign-100935102-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3714260/salesforce-unveils-low-code-ai-toolkit-for-crm.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3714260/salesforce-unveils-low-code-ai-toolkit-for-crm.amp.html",
-      "publishedDateTime": "2024-03-06T23:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

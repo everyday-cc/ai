@@ -111,15 +111,6 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "One simple ChatGPT hack makes AI responses sound like a human instead of a robot"
-    excerpt: "I talk to ChatGPT for research, I do it when I have to “google” something, and sometimes I do it for the lols. Since I’m on ChatGPT Plus, I also get to experience OpenAI’s best generative AI features as soon as they’re available in Europe ..."
-    publishedDateTime: 2024-03-08T17:10:00Z
-    webUrl: "https://bgr.com/tech/one-simple-chatgpt-hack-makes-ai-responses-sound-like-a-human-instead-of-a-robot/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 48
   - title: "AMD's AI chatbot released"
     excerpt: "Uses third party app AMD has just launched its own local and GPT-based LLM-powered AI chatbot, that works on Ryzen AI processors and Radeon RX 7000 series GPUs. AMD's new LLM-based GPT chatbot can work on many different Ryzen AI platforms,"
     publishedDateTime: 2024-03-08T11:05:00Z

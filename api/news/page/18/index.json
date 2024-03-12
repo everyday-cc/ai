@@ -2,6 +2,478 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2024-02-26-google-deepmind-ceo-addresses-the-gemini-debacle-and-says-image-generator-could-be-back-in-a-couple-of-weeks.md",
+      "title": "Google DeepMind CEO addresses the Gemini debacle and says image generator could be back in a 'couple of weeks'",
+      "excerpt": "Google DeepMind CEO Demis Hassabis said the company hopes to relaunch its artificial intelligence image generator as soon as the next \"couple of weeks.\" Google paused access to its image generator ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/google-relaunch-gemini-image-generator-couple-weeks-demis-hassabis-deepmind-2024-2",
+      "originalUrl": "https://www.businessinsider.com/google-relaunch-gemini-image-generator-couple-weeks-demis-hassabis-deepmind-2024-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65dcada190413ab8e1d6c58f?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/google-relaunch-gemini-image-generator-couple-weeks-demis-hassabis-deepmind-2024-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-relaunch-gemini-image-generator-couple-weeks-demis-hassabis-deepmind-2024-2?amp",
+      "publishedDateTime": "2024-02-26T15:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-ai-can-power-the-green-energy-transition.md",
+      "title": "AI Can Power The Green Energy Transition",
+      "excerpt": "The emergence of AI intersects with the energy transition. There is an opportunity for this emerging technology to accelerate the move to greener energy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sumantsinha/2024/02/26/ai-can-power-the-green-energy-transition/",
+      "originalUrl": "https://www.forbes.com/sites/sumantsinha/2024/02/26/ai-can-power-the-green-energy-transition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65dcb93b7d0e3d22afce25a9/0x0.jpg?format=jpg&crop=3552,1999,x0,y0,safe&height=900&width=1600&fit=bounds",
+          "width": 1599,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sumantsinha/2024/02/26/ai-can-power-the-green-energy-transition/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sumantsinha/2024/02/26/ai-can-power-the-green-energy-transition/amp/",
+      "publishedDateTime": "2024-02-26T15:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-mistral-ai-releases-new-model-to-rival-gpt-4-and-its-own-chat-assistant.md",
+      "title": "Mistral AI releases new model to rival GPT-4 and its own chat assistant",
+      "excerpt": "Finally, Mistral AI is also using today’s news drop to announce a partnership with Microsoft. In addition to Mistral’s own API platform, Microsoft is going to provide Mistral models to its Azure customers. It’s another model in Azure’s model catalo ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/26/mistral-ai-releases-new-model-to-rival-gpt-4-and-its-own-chat-assistant/",
+      "originalUrl": "https://techcrunch.com/2024/02/26/mistral-ai-releases-new-model-to-rival-gpt-4-and-its-own-chat-assistant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1630826367.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/26/mistral-ai-releases-new-model-to-rival-gpt-4-and-its-own-chat-assistant/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/26/mistral-ai-releases-new-model-to-rival-gpt-4-and-its-own-chat-assistant/amp/",
+      "publishedDateTime": "2024-02-26T15:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-conversational-ai-revolutionizes-the-customer-experience-landscape.md",
+      "title": "Conversational AI revolutionizes the customer experience landscape",
+      "excerpt": "AI can create seamless customer and employee experiences but it’s important to balance automation and human touch, says head of marketing, digital & AI at NICE, Elizabeth Tobey.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2024/02/26/1088846/conversational-ai-revolutionizes-the-customer-experience-landscape/",
+      "originalUrl": "https://www.technologyreview.com/2024/02/26/1088846/conversational-ai-revolutionizes-the-customer-experience-landscape/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2024/02/Elizabeth-Tobey1200.png?w=1200",
+          "width": 1200,
+          "height": 671,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2024/02/26/1088846/conversational-ai-revolutionizes-the-customer-experience-landscape/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2024/02/26/1088846/conversational-ai-revolutionizes-the-customer-experience-landscape/amp/",
+      "publishedDateTime": "2024-02-26T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-how-to-improve-network-resilience-with-ns1-connect-filter-chains.md",
+      "title": "How to improve network resilience with NS1 Connect Filter Chains",
+      "excerpt": "We’ve put together a quick guide on how to build active-active, active-passive and manual failover systems by using filter chains.\nThe post How to improve network resilience with NS1 Connect Filter Chains appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-to-improve-network-resilience-with-ns1-connect-filter-chains/",
+      "originalUrl": "https://www.ibm.com/blog/how-to-improve-network-resilience-with-ns1-connect-filter-chains/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-26T14:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-meta-is-seeking-chip-engineers-to-develop-new-ai-and-ml-specialized-accelerators.md",
+      "title": "Meta is seeking chip engineers to develop new AI and ML specialized accelerators",
+      "excerpt": "According to recent job listings posted online, Meta wants to hire highly skilled hardware engineers to develop a new generation of application-specific integrated circuit (ASIC) designs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/102023-meta-seeking-chip-engineers-develop-new-ai-ml.html",
+      "originalUrl": "https://www.techspot.com/news/102023-meta-seeking-chip-engineers-develop-new-ai-ml.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-26T13:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-how-metas-llama-3-will-impact-the-future-of-ai.md",
+      "title": "How Meta’s Llama 3 will impact the future of AI",
+      "excerpt": "What we currently know about Llama 3, and how it might affect the next wave of advancements in generative AI models.\nThe post How Meta’s Llama 3 will impact the future of AI appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/llama-3/",
+      "originalUrl": "https://www.ibm.com/blog/llama-3/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-26T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-meta-to-set-up-team-to-counter-disinformation-ai-abuse-in-eu-elections.md",
+      "title": "Meta to set up team to counter disinformation, AI abuse in EU elections",
+      "excerpt": "Facebook owner Meta will set up a team to tackle disinformation and the abuse of generative artificial intelligence in the run-up to European Parliament elections in June amid concerns about election interference and misleading AI-generated content.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/meta-set-team-counter-disinformation-050214744.html",
+      "originalUrl": "https://www.aol.com/news/meta-set-team-counter-disinformation-050214744.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_reuters_29/56cb1901f0b71c523216864cade4a592",
+          "width": 800,
+          "height": 497,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-26T12:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-hr-leaders-must-ensure-ai-adoption-is-a-success.md",
+      "title": "HR Leaders Must Ensure AI Adoption Is A Success",
+      "excerpt": "It's a steep learning curve, but the longer we wait to start, the steeper it gets. Because AI adoption requires frontline managers' understanding and cooperation, I believe HR leaders are integral to its success. When the discussion of AI adoption begins ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/02/26/hr-leaders-must-ensure-ai-adoption-is-a-success/",
+      "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/02/26/hr-leaders-must-ensure-ai-adoption-is-a-success/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d8989b0216c468579d5548/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/02/26/hr-leaders-must-ensure-ai-adoption-is-a-success/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2024/02/26/hr-leaders-must-ensure-ai-adoption-is-a-success/amp/",
+      "publishedDateTime": "2024-02-26T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-powerschool-powerbuddy-providing-ai-powerups-to-schools-and-students.md",
+      "title": "PowerSchool PowerBuddy Providing AI PowerUps To Schools And Students",
+      "excerpt": "Harnessing years of data and with a clear conception of what students and teacher need, PowerSchool has introduced a suite of AI tools to enhance its product suite.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rayravaglia/2024/02/26/powerschool-powerbuddy-providing-ai-powerups-to-schools-and-students/",
+      "originalUrl": "https://www.forbes.com/sites/rayravaglia/2024/02/26/powerschool-powerbuddy-providing-ai-powerups-to-schools-and-students/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d9322c1aa6b470e2297cd7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rayravaglia/2024/02/26/powerschool-powerbuddy-providing-ai-powerups-to-schools-and-students/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rayravaglia/2024/02/26/powerschool-powerbuddy-providing-ai-powerups-to-schools-and-students/amp/",
+      "publishedDateTime": "2024-02-26T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-26-whats-stopping-cybersecurity-from-being-ai-driven.md",
       "title": "What's Stopping Cybersecurity From Being AI-Driven?",
       "excerpt": "Cybersecurity, with its reliance on big data and moving at the speed of innovation, has one of the most compelling use cases for the latest evolution of AI.",
@@ -670,463 +1142,6 @@
       ],
       "topics": [
         "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-tabnine-brings-rag-to-ai-coding-assistant-to-generate-contextual-code.md",
-      "title": "Tabnine Brings RAG To AI Coding Assistant To Generate Contextual Code",
-      "excerpt": "Tabnine, the Tel Aviv-based AI coding platform company, has announced significant enhancements to its coding assistant.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2024/02/25/tabnine-brings-rag-to-ai-coding-assistant-to-generate-contextual-code/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2024/02/25/tabnine-brings-rag-to-ai-coding-assistant-to-generate-contextual-code/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65dc0eb2761d85c95f11dc16/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2024/02/25/tabnine-brings-rag-to-ai-coding-assistant-to-generate-contextual-code/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2024/02/25/tabnine-brings-rag-to-ai-coding-assistant-to-generate-contextual-code/amp/",
-      "publishedDateTime": "2024-02-26T04:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-modernizing-and-monetizing-telecom-networks-with-ai-powered-azure-for-operators.md",
-      "title": "Modernizing and monetizing telecom networks with AI-powered Azure for Operators",
-      "excerpt": "Advancements in generative AI continue to accelerate the pace of industry transformation, with telecommunications emerging as a leader AI adoption. In this blog, I will share a number of exciting updates about our Azure for Operators portfolio of cloud-based solutions that enable operators to drive innovation",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/blog/modernizing-and-monetizing-telecom-networks-with-ai-powered-azure-for-operators/",
-      "originalUrl": "https://azure.microsoft.com/en-us/blog/modernizing-and-monetizing-telecom-networks-with-ai-powered-azure-for-operators/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/02/MSFT_Azure_FEB22_319562_Blog_Blogheader_240221_V01.png",
-          "width": 1260,
-          "height": 708,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-26T04:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-master-ai-with-no-tech-skills-why-complex-systems-demand-diverse-learning.md",
-      "title": "Master AI with no tech skills? Why complex systems demand diverse learning",
-      "excerpt": "Still, high-level courses such as those offered by universities may help tech professionals better understand the depth of AI's impact on their businesses. \"Don't narrow yourself to just deep learning,\" Blumofe advises. \"Study the full breadth of AI and the foundational technology that underpins it.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/education/professional-development/master-ai-with-no-tech-skills-why-complex-systems-demand-diverse-learning/",
-      "originalUrl": "https://www.zdnet.com/education/professional-development/master-ai-with-no-tech-skills-why-complex-systems-demand-diverse-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/0b971af50b3c918e48e68503f7c26ff9469688d1/2024/02/23/9dc72282-bcc7-462d-9db4-e1f985daf53b/womansytdentgettyimages-1516277094-1.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/education/professional-development/master-ai-with-no-tech-skills-why-complex-systems-demand-diverse-learning/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/education/professional-development/master-ai-with-no-tech-skills-why-complex-systems-demand-diverse-learning/",
-      "publishedDateTime": "2024-02-26T03:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-this-ai-powered-robot-dog-looks-like-something-from-the-terminator.md",
-      "title": "This AI-powered robot dog looks like something from The Terminator",
-      "excerpt": "Tecno Mobile has taken to Mobile World Congress 2024 to announce the Tecno Dynamic 1, a robotic and AI-enhanced dog ... alone with the Dynamic 1 and not start to treat it like a real dog.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/mobile/tecno-mobile-dynamic-1-ai-robot-dog-mwc-2024-news/",
-      "originalUrl": "https://www.digitaltrends.com/mobile/tecno-mobile-dynamic-1-ai-robot-dog-mwc-2024-news/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2024/02/Dynamic-1-1.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/mobile/tecno-mobile-dynamic-1-ai-robot-dog-mwc-2024-news/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/tecno-mobile-dynamic-1-ai-robot-dog-mwc-2024-news/?amp",
-      "publishedDateTime": "2024-02-26T01:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-amds-next-gen-mi400-ai-gpu-expected-in-2025-mi300-ai-gpu-refresh-in-the-works.md",
-      "title": "AMD's next-gen MI400 AI GPU expected in 2025, MI300 AI GPU refresh in the works",
-      "excerpt": "AMD's next-gen Instinct MI400X AI accelerator expected in 2025, will compete directly against NVIDIA's next-gen Blackwell B100 AI GPU.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/96428/amds-next-gen-mi400-ai-gpu-expected-in-2025-mi300-refresh-the-works/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/96428/amds-next-gen-mi400-ai-gpu-expected-in-2025-mi300-refresh-the-works/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tweaktown.com/news/9/6/96428_802_amds-next-gen-mi400-ai-gpu-expected-in-2025-mi300-refresh-the-works_full.jpg",
-          "width": 1500,
-          "height": 857,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-26T00:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-artificial-intelligence-already-plays-a-part-in-kansas-city-health-care-without-much-regulation.md",
-      "title": "Artificial intelligence already plays a part in Kansas City health care, without much regulation",
-      "excerpt": "It’s an increasingly common scenario: Patients are looking to artificial intelligence for health care answers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newspressnow.com/artificial-intelligence-already-plays-a-part-in-kansas-city-health-care-without-much-regulation/article_883e97c8-d518-11ee-beec-336eda698f20.html",
-      "originalUrl": "https://www.newspressnow.com/artificial-intelligence-already-plays-a-part-in-kansas-city-health-care-without-much-regulation/article_883e97c8-d518-11ee-beec-336eda698f20.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-25T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News-Press NOW",
-        "domain": "newspressnow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-become-an-ft-subscriber.md",
-      "title": "Become an FT subscriber",
-      "excerpt": "Essential digital access to quality FT journalism on any device. All discounts based on monthly full price over contract term. Cancel subscription renewal anytime. SAVE 40% ON YEAR 1 $468 $279 for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/45cb503c-658c-4b67-a318-78f06aeb6a31",
-      "originalUrl": "https://www.ft.com/content/45cb503c-658c-4b67-a318-78f06aeb6a31",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F768ab8cd-b78f-4a48-a0eb-ecec0b90d852.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-25T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-nwogu-weighs-in-on-bias-in-facial-recognition-software.md",
-      "title": "Nwogu weighs in on bias in facial recognition software",
-      "excerpt": "Despite many upsides, AI has a disturbing element: bias in facial recognition technology that seeps into the criminal justice system, health care and other areas of daily life. For example, a number of people of color have been falsely identified as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.buffalo.edu/content/shared/university/news/ub-reporter-articles/stories/2024/02/qa-nwogu-bias-facial-recognition.html",
-      "originalUrl": "https://www.buffalo.edu/content/shared/university/news/ub-reporter-articles/stories/2024/02/qa-nwogu-bias-facial-recognition.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-25T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medicine Buffalo",
-        "domain": "buffalo.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-qualcomm-unveils-ai-and-connectivity-chips-at-mobile-world-congress.md",
-      "title": "Qualcomm unveils AI and connectivity chips at Mobile World Congress",
-      "excerpt": "Learn more about GamesBeat Summit sponsorship opportunities here. Qualcomm unveiled a suite of AI, 5G, and Wi-Fi devices at Mobile World Congress (MWC) in Barcelona. The chip design company said the innovations promise to usher in a new era of ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/qualcomm-unveils-ai-and-connectivity-chips-at-mobile-world-congress/",
-      "originalUrl": "https://venturebeat.com/ai/qualcomm-unveils-ai-and-connectivity-chips-at-mobile-world-congress/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/qualcomm-mwc.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 703,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-25T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-top-10-best-databases-for-machine-learning-ai-in-2024.md",
-      "title": "Top 10 Best Databases for Machine Learning & AI in 2024",
-      "excerpt": "Machine learning and artificial intelligence fundamentally rely on databases. These are crucial for holding, arranging, and accessing the necessary data for training and building AI models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.straight.com/guides/software/best-databases-for-machine-learning-and-ai/",
-      "originalUrl": "https://www.straight.com/guides/software/best-databases-for-machine-learning-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.straight.com/guides/wp-content/uploads/2023/11/BEST-OF10-Best-Databases-for-Machine-Learning-AI.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-25T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Georgia Straight",
-        "domain": "straight.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -40,20 +40,6 @@ related:
         width: 1260
         height: 708
         isCached: true
-  - title: "The potential effects of AI healthcare"
-    excerpt: "It’s easy to assume that artificial intelligence (AI) is only about ChatGPT and other AI chatbots. After all, the most prominent names like Google Gemini and Microsoft Copilot have similar"
-    publishedDateTime: 2024-03-07T10:58:00Z
-    webUrl: "https://technology.inquirer.net/132544/ai-healthcare-impacts"
-    type: article
-    provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
-    quality: 54
-    images:
-      - url: "https://technology.inquirer.net/files/2024/02/ai-healthcare-potential-effects.png.jpg"
-        width: 1570
-        height: 884
-        isCached: true
   - title: "How healthcare organizations should prepare for generative AI"
     excerpt: "Michael McCallen, managing director in Deloitte’s Health Care Strategy practice, explains why a governance structure is key to successful adoption of artificial intelligence."
     publishedDateTime: 2024-03-07T18:25:00Z
@@ -68,17 +54,6 @@ related:
         width: 822
         height: 822
         isCached: true
-  - title: "Wipro's health care deals get an artificial intelligence booster shot"
-    excerpt: "\"Large deals with committed business transformation and business value delivered through AI, automation, and platform modernisation, are in the pipeline,\" said Kumar"
-    publishedDateTime: 2024-03-07T10:43:00Z
-    webUrl: "https://www.business-standard.com/companies/news/wipro-has-a-robust-pipeline-of-large-ai-led-deals-in-healthcare-vertical-124030700642_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/companies/news/wipro-has-a-robust-pipeline-of-large-ai-led-deals-in-healthcare-vertical-124030700642_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/news/wipro-has-a-robust-pipeline-of-large-ai-led-deals-in-healthcare-vertical-124030700642_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 39
   - title: "AI, Telehealth and Communications - IDTechEx Explores Digital Healthcare"
     excerpt: "IDTechEx provides trusted independent research on emerging technologies and their markets. Since 1999, we have been helping our clients to understand new technologies, their supply chains, market requirements, opportunities and forecasts. For more information, contact research@IDTechEx.com or visit www.IDTechEx.com ."
     publishedDateTime: 2024-03-12T08:30:00Z

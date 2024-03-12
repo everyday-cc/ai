@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Ex-Google engineer charged with theft of AI tech for Chinese firms"
-    excerpt: "The stolen trade secrets were critical to Google’s AI prowess, involving the specialized hardware and software that power the company’s supercomputing centers."
-    publishedDateTime: 2024-03-07T10:31:00Z
-    webUrl: "https://www.csoonline.com/article/1312173/ex-google-engineer-charged-with-theft-of-ai-tech-for-chinese-firms.html"
-    ampWebUrl: "https://www.csoonline.com/article/1312173/ex-google-engineer-charged-with-theft-of-ai-tech-for-chinese-firms.html/amp/"
-    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/1312173/ex-google-engineer-charged-with-theft-of-ai-tech-for-chinese-firms.html/amp/"
-    type: article
-    provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 59
-    images:
-      - url: "https://www.csoonline.com/wp-content/uploads/2024/03/hacker-laptop-digits-computer-screen-cyber-crime-cyber-crime-theft-money-digital-100937829-orig-100947552-orig.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Google Engineer Steals AI Trade Secrets for Chinese Companies"
     excerpt: "a China-based company focused on developing a CMS that promised to accelerate ML workloads and speed up AI model training. Shortly thereafter, Ding, acting as CEO of his startup, applied for and got acceptance to a China-based incubation program for high ..."
     publishedDateTime: 2024-03-08T00:00:00Z
@@ -47,20 +31,6 @@ related:
       - url: "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt896917cb42a083dc/65eb7998e12481040a898328/tradesecret_kenary820_shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop"
         width: 1000
         height: 525
-        isCached: true
-  - title: "Nvidia's latest restrictions on CUDA stirs Chinese AI community"
-    excerpt: "Nvidia has taken further actions targeting the Chinese market to maintain its dominance in the GPU market, attempting to block third-party GPU companies from seamlessly using CUDA software. This move has sparked significant controversy and discussions within the Chinese artificial intelligence (AI) and chip communities."
-    publishedDateTime: 2024-03-08T03:28:00Z
-    webUrl: "https://www.digitimes.com/news/a20240308PD212/nvidia-cuda-china-ai.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 39
-    images:
-      - url: "https://img.digitimes.com/newsshow/20240308pd212_files/2_b.jpg"
-        width: 640
-        height: 427
         isCached: true
   - title: "Ex-Google Engineer Charged With Stealing AI trade Secrets for Chinese Companies"
     excerpt: "A former software engineer at Google has been charged with stealing artificial intelligence trade secrets from the company while secretly working with two companies based in China, the Justice Department said Wednesday."
@@ -76,29 +46,20 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Former Google engineer charged with stealing AI trade secrets for Chinese startups"
-    excerpt: "as well as those chips’ software. Other records contained data about the graphics cards in the company’s AI infrastructure. Ding was also charged with stealing information about Google’s cluster management system. That’s a software platform ..."
-    publishedDateTime: 2024-03-07T22:44:00Z
-    webUrl: "https://siliconangle.com/2024/03/07/former-google-engineer-charged-stealing-ai-trade-secrets-chinese-startups/"
+  - title: "Usher’s New Look Embarks on AI-Focused Collaboration With IBM To Set Students Up for Career Success"
+    excerpt: "AI ethics, prompt writing, machine learning, AI to help the environment, and improving customer service with AI. Communities helped by UNL span the United States including Atlanta, Chicago, Detroit, Los Angeles, Milwaukee, and New York City. Across these ..."
+    publishedDateTime: 2024-03-08T16:34:00Z
+    webUrl: "https://www.csrwire.com/press_releases/796646-ushers-new-look-embarks-ai-focused-collaboration-ibm-set-students-career"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 33
+      name: CSR Wire
+      domain: csrwire.com
+    quality: 25
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/03/IMG_3819-800x533-1.jpg"
-        width: 800
-        height: 533
+      - url: "https://back.3blmedia.com/sites/default/files/inline-images/collage_IBM_030624.png"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Former Google engineer charged with stealing AI trade secrets"
-    excerpt: "which are designed to support machine learning workloads used to train and host large AI models.\" The stolen proprietary information included chip architecture as well as the software design specifications for “tensor processing units\" and \"graphics ..."
-    publishedDateTime: 2024-03-07T16:10:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2024/03/07/former-google-engineer-charged-stealing-secrets.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
   - title: "Google engineer faces 10 years in prison for stealing AI secrets for China"
     excerpt: "A former Google engineer has been accused of stealing 500 confidential files that contain trademark secrets about AI to give to China."
     publishedDateTime: 2024-03-07T14:30:00Z

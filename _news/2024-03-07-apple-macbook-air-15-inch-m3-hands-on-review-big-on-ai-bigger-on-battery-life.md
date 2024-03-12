@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Apple Vision Pro one month review: a new reality is setting in"
-    excerpt: "Living with Apple Vision Pro for the past month has changed everything and nothing. It is a new computing paradigm stuck doing the same things the old one did with a new coat of paint."
-    publishedDateTime: 2024-03-07T16:18:00Z
-    webUrl: "https://appleinsider.com/articles/24/03/07/apple-vision-pro-one-month-review-a-new-reality-is-setting-in"
-    ampWebUrl: "https://appleinsider.com/articles/24/03/07/apple-vision-pro-one-month-review-a-new-reality-is-setting-in/amp/"
-    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/24/03/07/apple-vision-pro-one-month-review-a-new-reality-is-setting-in/amp/"
+  - title: "Apple making new M4 chip for Macbook Pro, will give it more power to handle AI tasks"
+    excerpt: "Apple is gearing up to take AI capabilities to the next level with its upcoming M4 chip for the new MacBook Pro. The tech giant is focusing on enhancing Neural Engine cores, potentially revolutionising tasks like voice recognition,"
+    publishedDateTime: 2024-03-12T10:39:00Z
+    webUrl: "https://www.indiatoday.in/technology/news/story/apple-is-making-the-new-m4-chip-for-macbook-pro-more-powerful-to-handle-ai-related-tasks-2513829-2024-03-12"
+    ampWebUrl: "https://www.indiatoday.in/amp/technology/news/story/apple-is-making-the-new-m4-chip-for-macbook-pro-more-powerful-to-handle-ai-related-tasks-2513829-2024-03-12"
+    cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/technology/news/story/apple-is-making-the-new-m4-chip-for-macbook-pro-more-powerful-to-handle-ai-related-tasks-2513829-2024-03-12"
     type: article
     provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 44
+      name: India Today
+      domain: indiatoday.in
+    quality: 67
     images:
-      - url: "https://photos5.appleinsider.com/gallery/58675-119941-VP25-xl.jpg"
-        width: 1312
-        height: 738
+      - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202403/macbook-pro-120301723-16x9_1.jpg?VersionId=EFQksKw7Z.VL3lI8JZDY80Cbh5KgxQqt"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "7LblUpPiVVHwBxZM6qUDUGlJcpU5uwBnxzykv+KHGemCRRvh814A1/P9jC0FMCsgKYSacua4cIufEG8prQ/iWQK8JBrBKRn1L3NHS3v+XmHpd+JZTPwOtbfTwQw5Bdftzwn1+UMYDqLy9FXB7bqmmq1RkpfHHdO5e30yZkTAzHb/PMzDEcvumGHkpOznpir/5eNX+sIIFk0gkvIia3vJPhB70HUeU/YKjyq0yk7SA3oCjVUDE3PQNlaNrsR1tQH5x4ig1QlXIAVAoOawymJ3Bire9AV2QjlMMhMSTIJn9ALq11XUbry8cQFbx/FMM5WBF5ei7d6roRZZ/kVvJ3QpyHIF2KiW0VqJ9HOJDWzecAO81/P5EbVKkxfyx/5+7iZIU4xaIBcxIe5C7kBLMbXNvc3thorUWp9iHnCHqGvLPFIEm2GSv2PkidBwgTOqWFJj0YaB4V80pjzcyYA+lA2vBzw+1jo6BxTN4U4ANUjEsl9lrh+xKVhWW6fPx+zYVpDskdO7L9/Rz2fjuXLn3cZvRA==;FNd2Gi8orbcBb6VWFrasvA=="

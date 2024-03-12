@@ -2,6 +2,111 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-12-prompt-engineering-technique-known-as-the-step-around-is-gaining-steam-as-generative-ai-becomes-less-forthright.md",
+      "title": "Prompt Engineering Technique Known As The Step-Around Is Gaining Steam As Generative AI Becomes Less Forthright",
+      "excerpt": "A prompt engineering technique known as the step-around is gaining attention due to generative AI increasingly being less forthright. Here's what you need to know.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2024/03/12/prompt-engineering-technique-known-as-the-step-around-is-gaining-steam-as-generative-ai-becomes-less-forthright/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2024/03/12/prompt-engineering-technique-known-as-the-step-around-is-gaining-steam-as-generative-ai-becomes-less-forthright/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ee4ffd8c25253909e03855/0x0.jpg?format=jpg&crop=997,549,x0,y50,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 881,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2024/03/12/prompt-engineering-technique-known-as-the-step-around-is-gaining-steam-as-generative-ai-becomes-less-forthright/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/03/12/prompt-engineering-technique-known-as-the-step-around-is-gaining-steam-as-generative-ai-becomes-less-forthright/amp/",
+      "publishedDateTime": "2024-03-12T11:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-chatgpt-and-generative-ai-innovations-are-creating-sustainability-havoc.md",
+      "title": "ChatGPT And Generative AI Innovations Are Creating Sustainability Havoc",
+      "excerpt": "This article discusses the risks of ChatGPT and Generative AI innovations are having on sustainability goals and highlights the energy and water consumption risks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2024/03/12/chatgpt-and-generative-ai-innovations-are-creating-sustainability-havoc/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2024/03/12/chatgpt-and-generative-ai-innovations-are-creating-sustainability-havoc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65f031a4a360eaa0853ec14c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-12T10:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-12-microsoft-insiders-worry-the-company-has-become-just-it-for-openai.md",
       "title": "Microsoft insiders worry the company has become just 'IT for OpenAI'",
       "excerpt": "Microsoft's AI strategy has increasingly focused on OpenAI. The shift has led to some executive departures and less focus on Microsoft's own services.",
@@ -10,7 +115,7 @@
       "originalUrl": "https://www.businessinsider.com/microsoft-insiders-worry-company-has-become-just-it-for-openai-2024-3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -62,7 +167,7 @@
       "originalUrl": "https://www.digitaltrends.com/computing/how-to-use-google-gemini/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 226,
+      "heat": 256,
       "tags": null,
       "images": [
         {
@@ -115,7 +220,7 @@
       "originalUrl": "https://azure.microsoft.com/en-us/blog/azure-ai-health-bot-helps-create-copilot-experiences-with-healthcare-safeguards/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -157,99 +262,6 @@
         "AI",
         "Microsoft AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-03-11-how-to-choose-an-ai-as-a-service-provider.md",
-      "title": "How to choose an AI-as-a-service provider",
-      "excerpt": "AIaaS can help you jumpstart your AI projects, but there are some details you need to know. Here’s what to look for and five leading options to consider.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.html",
-      "originalUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2024/02/dinging-service-bell-in-robot-hand-by-andrey-popov-via-shutterstock-100961475-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html",
-      "publishedDateTime": "2024-03-11T03:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AWS AI",
-        "Natural Language Processing",
-        "Microsoft AI",
-        "Machine Learning",
-        "IBM AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2024-03-10-chatgpt-vs-claude-3-test-can-anthropic-beat-openais-superstar.md",
-      "title": "ChatGPT vs Claude 3 Test: Can Anthropic Beat OpenAI’s Superstar?",
-      "excerpt": "Claude 3 is one of ChatGPT's most capable competitors. But how do they compare when asked the same questions? Find out here.",
-      "sourceUrl": null,
-      "webUrl": "https://tech.co/news/chatgpt-vs-claude-3",
-      "originalUrl": "https://tech.co/news/chatgpt-vs-claude-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.tech.co/wp-content/uploads/2024/03/08060744/AdobeStock_606145791_Editorial_Use_Only-1-min-1.jpeg",
-          "width": 1920,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-10T11:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tech.co",
-        "domain": "tech.co",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -983,6 +995,40 @@
       ]
     },
     {
+      "path": "_news/2024-03-04-audiocodes-ai-first-voca-conversational-interaction-center-wins-best-microsoft-teams-contact-center-award.md",
+      "title": "AudioCodes AI-first Voca Conversational Interaction Center Wins Best Microsoft Teams Contact Center Award",
+      "excerpt": "Leading an AI-first approach, Voca CIC embeds Microsoft Cognitive Services, empowering contact centers and other users to effortlessly leverage the power of conversational AI completely out of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/audiocodes-ai-first-voca-conversational-interaction-center-wins-best-microsoft-teams",
+      "originalUrl": "https://www.nasdaq.com/press-release/audiocodes-ai-first-voca-conversational-interaction-center-wins-best-microsoft-teams",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-04T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-04-anthropics-claude-3-chatbot-claims-to-outperform-chatgpt-gemini.md",
       "title": "Anthropic's Claude 3 chatbot claims to outperform ChatGPT, Gemini",
       "excerpt": "The latest version of Claude AI promises quicker results, greater accuracy, and improved ease of use, and will now analyze uploaded images, documents, and other files.",
@@ -1055,40 +1101,6 @@
       "provider": {
         "name": "Business Line",
         "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-04-audiocodes-ai-first-voca-conversational-interaction-center-wins-best-microsoft-teams-contact-center-award.md",
-      "title": "AudioCodes AI-first Voca Conversational Interaction Center Wins Best Microsoft Teams Contact Center Award",
-      "excerpt": "Leading an AI-first approach, Voca CIC embeds Microsoft Cognitive Services, empowering contact centers and other users to effortlessly leverage the power of conversational AI completely out of the box, with natural language understanding powering 14 ...",
-      "sourceUrl": null,
-      "webUrl": "https://stockhouse.com/news/press-releases/2024/03/04/audiocodes-ai-first-voca-conversational-interaction-center-wins-best-microsoft",
-      "originalUrl": "https://stockhouse.com/news/press-releases/2024/03/04/audiocodes-ai-first-voca-conversational-interaction-center-wins-best-microsoft",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-04T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Stockhouse",
-        "domain": "stockhouse.com",
         "images": null,
         "publishers": null,
         "authors": null

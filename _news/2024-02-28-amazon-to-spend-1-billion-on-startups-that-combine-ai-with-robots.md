@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Amazon to spend $1 billion on startups that combine AI with robots"
-excerpt: "Amazon has innovated in robotics before: in 2022, the company said it had invested more than 400 million euros in technologies that include industrial robotics and sorting systems in its European warehouses. It has deployed 750,000 mobile robots across its operations network."
-publishedDateTime: 2024-02-28T14:48:00Z
-originalUrl: "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/"
-webUrl: "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/"
+excerpt: "Separate from its innovation fund, Amazon has committed up to $4 billion to generative AI start-up Anthropic. Amazon has innovated in robotics before: in 2022, the company said it had invested more than 400 million euros in technologies that include ..."
+publishedDateTime: 2024-02-28T06:48:00Z
+originalUrl: "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/?ref=astrofeather.com"
+webUrl: "https://arstechnica.com/ai/2024/02/amazon-to-spend-1-billion-on-startups-that-combine-ai-with-robots/?ref=astrofeather.com"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 380
     isCached: true
 
-secured: "3K4GmcKqzUE3uNSfauLQ633lBVXGjbY1oek4BsU30kzcC4ZLSOiNsz0+UeBaXHH1JrnH9fwdC2OF5WVOs41wYHx3enPRKrxYmXU3nfwOt+f5VuxWhAPdilSijbx/H7TvydfAI8MjWtsKnvO4UunfRYV81uFVUwT0qmxYUzgrS4jYo4dFyDbDaln1QKf1ganZAG/lBVDJkQauK6us39/5XJ7idDLJ141Gyk/PvZuJ75HxZF81so6CG5bcqNX1GrcfGZTvVfie0pBKR/AiVKlwRVuBg6WSYpMuVEblz+uf7tC5oMkwI1wh7Ml8qrlrSLiNZVg+6xGN0Clyl9ag99Uojt52m0MFgiQJFSqe4MpxIIK87xG0djjmUUhxRtlFI9yXva3DKR2Sab6hqpRTs+3zNrR+CYM+lNa/vt66Ar3WF9hcXXr8iN4sVCweVBc9NjrB+6ZKv586kfgjgR7iEwz6VBk4GrCSMiyNWFubfVZWhfCVlvGK1hJs4JBodjTkOw0MFUED1y1ifpjNMYgTSD7XTA==;XaE14IABqh2vOYnfpOvFNA=="
+secured: "Z8eBS7Kv7BLpCNKyguPExljqfe2Hkhgh1VJNl53kHoirPfWDOiRAcnFnFvcjG2bgbTdHrzri1eKmEUm3m1WbcXcQ3phTVSz8t+UlIRpbFakw/IKmZ+60V+xS79MzTEIE4mrQvYXfmGgSupcUXO9mcLahvm3DMJ0U2Ne9AokQSAbeispo1G8A2gm2lvedCb+Qq9BdB576Ib4hAYsjHdpGtq2mArKCNKIUsEX4lftQrW0hXpztG685QLM6R/JGq8e+N6bsgaPz7BErltHgi42QWgdNNUBiIPo8bbQR37bsjM4wy/vgtgBZy9kFRmEMnn8ZCZIoWG/wnFMOjKs/UrL32hDD1vUxXRWpOBplFQsuvIs=;9LGvKNsTA/PRNZMlZEtXJg=="
 ---
 

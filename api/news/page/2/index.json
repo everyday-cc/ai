@@ -2,6 +2,317 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-03-12-us-carefully-monitors-chip-exports-to-china-deepens-investments-in-philippines.md",
+      "title": "US carefully monitors chip exports to China, deepens investments in Philippines",
+      "excerpt": "U.S. Commerce Secretary Gina Raimondo led a U.S. Presidential Trade and Investment Mission to boost US contributions to the Philippines and strengthen bilateral economic ties.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/us-carefully-monitors-chip-exports-china-deepens-investments-philippines",
+      "originalUrl": "https://www.foxnews.com/us/us-carefully-monitors-chip-exports-china-deepens-investments-philippines",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/68e54425-0043-4978-b3a2-841c8da7ca53/9137d106-7efe-4bb1-955a-299a8bc1c987/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/us-carefully-monitors-chip-exports-china-deepens-investments-philippines.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/us-carefully-monitors-chip-exports-china-deepens-investments-philippines.amp",
+      "publishedDateTime": "2024-03-11T17:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-developer-manages-to-run-ray-tracing-without-a-gpu-achieves-1-fps-on-quake-ii-rtx.md",
+      "title": "Developer manages to run ray tracing without a GPU, achieves 1 fps on Quake II RTX",
+      "excerpt": "Developer Konstantin Seurer has been hacking away at the open-source Mesa graphics library, adding support for Vulkan ray tracing right into the CPU code. By enabling",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/102207-developer-manages-run-ray-tracing-without-gpu-achieves.html",
+      "originalUrl": "https://www.techspot.com/news/102207-developer-manages-run-ray-tracing-without-gpu-achieves.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2024/03/2024-03-11-image-4.jpg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-11T17:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-11-how-vistaprint-delivers-personalized-product-recommendations-with-amazon-personalize.md",
+      "title": "How VistaPrint delivers personalized product recommendations with Amazon Personalize",
+      "excerpt": "VistaPrint, a Cimpress business, is the design and marketing partner to millions of small businesses around the world. For more than two decades, VistaPrint has empowered small businesses to quickly and effectively create the marketing products – from promotional materials and signage to print advertising",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-vistaprint-delivers-personalized-product-recommendations-with-amazon-personalize/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-vistaprint-delivers-personalized-product-recommendations-with-amazon-personalize/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/13/ML-14265-Figure1-1114x630.png",
+          "width": 1114,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-11T17:00:48Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-11-novelists-sue-nvidia-to-stop-spread-of-ai-models-trained-on-copyrighted-books.md",
+      "title": "Novelists sue Nvidia to stop spread of AI models trained on copyrighted books",
+      "excerpt": "Book authors are suing Nvidia, alleging that the chip maker's AI platform NeMo—used to power customized chatbots—was trained on a controversial dataset that illegally copied and distributed their books without their consent.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/tech-policy/2024/03/novelists-sue-nvidia-to-stop-spread-of-ai-models-trained-on-copyrighted-books/",
+      "originalUrl": "https://arstechnica.com/tech-policy/2024/03/novelists-sue-nvidia-to-stop-spread-of-ai-models-trained-on-copyrighted-books/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1397564918-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-11T16:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-11-futurists-positive-about-ais-impact-on-jobs-urge-wide-perspective.md",
+      "title": "Futurists Positive About AI’s Impact On Jobs, Urge Wide Perspective",
+      "excerpt": "This report has been prepared by TCS futurists and is based on a survey of prominent futurists, executives, and foresight professionals around the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2024/03/11/futurists-positive-about-ais-impact-on-jobs-urge-wide-perspective/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2024/03/11/futurists-positive-about-ais-impact-on-jobs-urge-wide-perspective/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61042e95301717f598616035/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 986,
+          "height": 553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2024/03/11/futurists-positive-about-ais-impact-on-jobs-urge-wide-perspective/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2024/03/11/futurists-positive-about-ais-impact-on-jobs-urge-wide-perspective/amp/",
+      "publishedDateTime": "2024-03-11T16:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-11-litter-robot-4-vs-3-connect-which-automatic-litter-box-should-you-get.md",
+      "title": "Litter-Robot 4 Vs. 3 Connect: Which Automatic Litter Box Should You Get?",
+      "excerpt": "the Litter-Robot 4 is an upgraded version of the Litter-Robot 3 Connect, with advanced safety sensors, a more sophisticated (and quieter) sifting system and better odor control. I have both models in my home and my three cats use each one regularly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2024/03/11/litter-robot-4-vs-3/",
+      "originalUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2024/03/11/litter-robot-4-vs-3/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65eb6c39c78a1860c0563c44/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2024/03/11/litter-robot-4-vs-3/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbes-personal-shopper/2024/03/11/litter-robot-4-vs-3/amp/",
+      "publishedDateTime": "2024-03-11T15:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-11-azure-ai-health-bot-helps-create-copilot-experiences-with-healthcare-safeguards.md",
       "title": "Azure AI Health Bot helps create copilot experiences with healthcare safeguards",
       "excerpt": "With the Azure AI Health Bot infused with generative AI and healthcare safeguards, health organizations can build health data services, transform their medical professionals and patient experiences, discover new insights with the power of machine learning and AI, and manage protected health information",
@@ -10,7 +321,7 @@
       "originalUrl": "https://azure.microsoft.com/en-us/blog/azure-ai-health-bot-helps-create-copilot-experiences-with-healthcare-safeguards/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -439,55 +750,6 @@
       ]
     },
     {
-      "path": "_news/2024-03-11-how-to-choose-an-ai-as-a-service-provider.md",
-      "title": "How to choose an AI-as-a-service provider",
-      "excerpt": "AIaaS can help you jumpstart your AI projects, but there are some details you need to know. Here’s what to look for and five leading options to consider.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.html",
-      "originalUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2024/02/dinging-service-bell-in-robot-hand-by-andrey-popov-via-shutterstock-100961475-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html",
-      "publishedDateTime": "2024-03-11T03:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AWS AI",
-        "Natural Language Processing",
-        "Microsoft AI",
-        "Machine Learning",
-        "IBM AI",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_news/2024-03-11-5-ai-predictions-for-the-year-2030.md",
       "title": "5 AI Predictions For The Year 2030",
       "excerpt": "Agents are AI systems that can complete loosely defined tasks: say, planning and booking your upcoming trip. AGI refers to an artificial intelligence system that meets or exceeds human capabilities on every dimension. When people envision the state of AI in 2030, agents and/or AGI are often front and center.",
@@ -653,7 +915,7 @@
       "originalUrl": "https://www.androidauthority.com/google-move-fast-break-ai-3423665/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -748,50 +1010,6 @@
       ]
     },
     {
-      "path": "_news/2024-03-10-chatgpt-vs-claude-3-test-can-anthropic-beat-openais-superstar.md",
-      "title": "ChatGPT vs Claude 3 Test: Can Anthropic Beat OpenAI’s Superstar?",
-      "excerpt": "Claude 3 is one of ChatGPT's most capable competitors. But how do they compare when asked the same questions? Find out here.",
-      "sourceUrl": null,
-      "webUrl": "https://tech.co/news/chatgpt-vs-claude-3",
-      "originalUrl": "https://tech.co/news/chatgpt-vs-claude-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.tech.co/wp-content/uploads/2024/03/08060744/AdobeStock_606145791_Editorial_Use_Only-1-min-1.jpeg",
-          "width": 1920,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-10T11:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tech.co",
-        "domain": "tech.co",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2024-03-10-5-blue-chip-digital-age-collectible-bargains-the-world-missed.md",
       "title": "5 blue-chip \"digital age\" collectible bargains the world missed",
       "excerpt": "Everyone acknowledges the massive impact of the digital revolution upon every aspect of society, but auction prices for landmark digital memorabilia suggest we haven't got it all in perspective just yet.",
@@ -845,6 +1063,49 @@
       ]
     },
     {
+      "path": "_news/2024-03-10-chinese-researchers-hope-to-create-real-ai-scientists-through-informed-machine-learning.md",
+      "title": "Chinese researchers hope to create ‘real AI scientists’ through ‘informed machine learning’",
+      "excerpt": "The scientists wrote in a recent paper that they had found ways to train machines with ‘prior knowledge’ such as the laws of physics or mathematical logic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/news/china/science/article/3254793/chinese-researchers-hope-create-real-ai-scientists-through-informed-machine-learning",
+      "originalUrl": "https://www.scmp.com/news/china/science/article/3254793/chinese-researchers-hope-create-real-ai-scientists-through-informed-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-09T22:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-09-best-ai-tools-to-enhance-your-social-media-account.md",
       "title": "Best AI Tools To Enhance Your Social Media Account",
       "excerpt": "These artificial intelligence (AI) solutions enable organizations to prosper in the digital sphere by using technology such as computer vision, machine learning algorithms, natural language processing (NLP), and natural language creation. It is thus ...",
@@ -853,7 +1114,7 @@
       "originalUrl": "https://www.mid-day.com/brand-media/article/best-ai-tools-to-enhance-your-social-media-account-23339125",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -989,245 +1250,6 @@
       "topics": [
         "AI",
         "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-09-a-once-in-a-decade-investment-opportunity-1-artificial-intelligence-ai-stock-to-buy-now-and-hold-long-term.md",
-      "title": "A Once-in-a-Decade Investment Opportunity: 1 Artificial Intelligence (AI) Stock to Buy Now and Hold Long-Term",
-      "excerpt": "Artificial intelligence will reshape IT systems in the coming years, and ServiceNow is well-positioned to benefit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2024/03/09/once-in-decade-investment-1-ai-growth-stock-to-buy/",
-      "originalUrl": "https://www.fool.com/investing/2024/03/09/once-in-decade-investment-1-ai-growth-stock-to-buy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/768054/strategy-3.jpg",
-          "width": 7500,
-          "height": 4218,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-09T10:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-09-ai-driven-evolution-of-low-code-software-development-in-india.md",
-      "title": "AI-driven evolution of low-code software development in India",
-      "excerpt": "As low-code platforms evolve with out-of-the-box AI capabilities, organizations must conscientiously explore ways to harness its full potential. The ability to empower developers",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/",
-      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2024/03/Untitled-design-2024-03-08T174706.154.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/lite/",
-      "publishedDateTime": "2024-03-09T10:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-09-ai-update-for-hollywood.md",
-      "title": "AI Update For Hollywood",
-      "excerpt": "Artificial intelligence (\"AI\") developments are occurring at breakneck speed, so this article provides a snapshot on developments that affect Hollywood.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/schuylermoore/2024/03/09/ai-update-for-hollywood/",
-      "originalUrl": "https://www.forbes.com/sites/schuylermoore/2024/03/09/ai-update-for-hollywood/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65ec33e7da5095face057f5c/0x0.jpg?format=jpg&crop=3615,2034,x0,y186,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/schuylermoore/2024/03/09/ai-update-for-hollywood/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/schuylermoore/2024/03/09/ai-update-for-hollywood/amp/",
-      "publishedDateTime": "2024-03-09T09:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-09-why-is-this-model-of-artificial-intelligence-being-called-the-most-intelligent.md",
-      "title": "Why is this model of Artificial Intelligence being called the most intelligent?",
-      "excerpt": "In the realm of artificial intelligence (AI), where breakthroughs and advancements seem almost routine, one model stands out from the crowd:..|News Track",
-      "sourceUrl": null,
-      "webUrl": "https://english.newstracklive.com/news/why-is-this-model-of-artificial-intelligence-being-called-the-most-intelligent-sc71-nu371-ta371-1312623-1.html",
-      "originalUrl": "https://english.newstracklive.com/news/why-is-this-model-of-artificial-intelligence-being-called-the-most-intelligent-sc71-nu371-ta371-1312623-1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.newstrack.in/uploads/technology-news/technology-news/Mar/09/big_thumb/bhgbh_65ec115243a87.jpg",
-          "width": 804,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://english.newstracklive.com/ampnews/why-is-this-model-of-artificial-intelligence-being-called-the-most-intelligent-sc71-nu371-ta371-1312623-1.html",
-      "cdnAmpWebUrl": "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/why-is-this-model-of-artificial-intelligence-being-called-the-most-intelligent-sc71-nu371-ta371-1312623-1.html",
-      "publishedDateTime": "2024-03-09T08:12:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Track",
-        "domain": "newstracklive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-09-i-fell-under-the-spell-of-an-ai-psychologist-then-things-got-a-little-weird.md",
-      "title": "I fell under the spell of an AI psychologist. Then things got a little weird",
-      "excerpt": "The Guardian described one person's experience with her Character.ai psychologist like this: \"Christa didn't have to worry about being boring or inappropriate or too dark. 'I could talk over and over, and not have to waste somebody's time.'\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/i-fell-under-the-spell-of-an-ai-psychologist-then-things-got-a-little-weird/",
-      "originalUrl": "https://www.zdnet.com/article/i-fell-under-the-spell-of-an-ai-psychologist-then-things-got-a-little-weird/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/ac0396a937954fd46deca548f74f3401ac9cb513/2024/03/08/af85fa11-8439-4f31-bb64-cd31ce3ff230/gettyimages-1508780671.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/i-fell-under-the-spell-of-an-ai-psychologist-then-things-got-a-little-weird/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-fell-under-the-spell-of-an-ai-psychologist-then-things-got-a-little-weird/",
-      "publishedDateTime": "2024-03-09T04:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

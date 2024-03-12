@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Self-driving Car Insurance Market to Reach $88.1 billion, by 2032 at 15.3% CAGR: Allied Market Research"
-    excerpt: "Advancement in autonomous technology is the main significant factor that drives the growth of self-driving car insurance market. WILMINGTON, Del., March 8, 2024 /PRNewswire/ -- Allied Market Research published a report,"
-    publishedDateTime: 2024-03-08T15:12:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/03/08/9975427.htm"
+  - title: "Neural Network Market Set for Striking Growth with a Projected CAGR of 16.7% by 2030"
+    excerpt: "Market OverviewThe Neural Network Market has witnessed substantial growth in recent years, driven by advancements in artificial intelligence and machine learning technologies. Neural networks, inspired by the human brain’s functioning,"
+    publishedDateTime: 2024-03-12T10:48:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2024-03-12/neural-network-market-set-for-striking-growth-with-a-projected-cagr-of-167-by-2030"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 8
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 34
     images:
-      - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg"
-        width: 400
-        height: 400
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
         isCached: true
 
 secured: "REKmLKOxA/OGx9Q4yYH7JAuLMw/ZMZ7v7HLEI4qGIFooI1l4ucoGZQ2PMvF2R64Dzt8N8NHWNO6eJz3ORt+v7MzhXprOlE8e8GFBmfO63zcN0GazMaUqzntoqtX1Vw5m2QELU0fuoti/cR5Bl+iwkPla7A1YkanUpfxqVkirHNZqneM5DDFs6SbU763TKv1VzdigAcC+XmidnJr5FTUOMiTHkwnFti7ObHZiZ5Wyn2YMtO8Xqc9xxMwi7fkzB/oeb6/YfLFxYlUrbiDiYgkVoTj+DuqCMIm8CFVhkJPoAP6HVnGLZzwQdfqmwp+MZNCw39g6gcXeAiFiU7kNjLY52PkzewYzJ9+LNE4Chg5Ck7k=;NOw2yYoWvcyh527PUTTCeg=="

@@ -2,6 +2,463 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2024-02-26-tabnine-brings-rag-to-ai-coding-assistant-to-generate-contextual-code.md",
+      "title": "Tabnine Brings RAG To AI Coding Assistant To Generate Contextual Code",
+      "excerpt": "Tabnine, the Tel Aviv-based AI coding platform company, has announced significant enhancements to its coding assistant.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2024/02/25/tabnine-brings-rag-to-ai-coding-assistant-to-generate-contextual-code/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2024/02/25/tabnine-brings-rag-to-ai-coding-assistant-to-generate-contextual-code/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65dc0eb2761d85c95f11dc16/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2024/02/25/tabnine-brings-rag-to-ai-coding-assistant-to-generate-contextual-code/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2024/02/25/tabnine-brings-rag-to-ai-coding-assistant-to-generate-contextual-code/amp/",
+      "publishedDateTime": "2024-02-26T04:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-modernizing-and-monetizing-telecom-networks-with-ai-powered-azure-for-operators.md",
+      "title": "Modernizing and monetizing telecom networks with AI-powered Azure for Operators",
+      "excerpt": "Advancements in generative AI continue to accelerate the pace of industry transformation, with telecommunications emerging as a leader AI adoption. In this blog, I will share a number of exciting updates about our Azure for Operators portfolio of cloud-based solutions that enable operators to drive innovation",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/blog/modernizing-and-monetizing-telecom-networks-with-ai-powered-azure-for-operators/",
+      "originalUrl": "https://azure.microsoft.com/en-us/blog/modernizing-and-monetizing-telecom-networks-with-ai-powered-azure-for-operators/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/02/MSFT_Azure_FEB22_319562_Blog_Blogheader_240221_V01.png",
+          "width": 1260,
+          "height": 708,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-26T04:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-master-ai-with-no-tech-skills-why-complex-systems-demand-diverse-learning.md",
+      "title": "Master AI with no tech skills? Why complex systems demand diverse learning",
+      "excerpt": "Still, high-level courses such as those offered by universities may help tech professionals better understand the depth of AI's impact on their businesses. \"Don't narrow yourself to just deep learning,\" Blumofe advises. \"Study the full breadth of AI and the foundational technology that underpins it.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/education/professional-development/master-ai-with-no-tech-skills-why-complex-systems-demand-diverse-learning/",
+      "originalUrl": "https://www.zdnet.com/education/professional-development/master-ai-with-no-tech-skills-why-complex-systems-demand-diverse-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/0b971af50b3c918e48e68503f7c26ff9469688d1/2024/02/23/9dc72282-bcc7-462d-9db4-e1f985daf53b/womansytdentgettyimages-1516277094-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/education/professional-development/master-ai-with-no-tech-skills-why-complex-systems-demand-diverse-learning/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/education/professional-development/master-ai-with-no-tech-skills-why-complex-systems-demand-diverse-learning/",
+      "publishedDateTime": "2024-02-26T03:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-this-ai-powered-robot-dog-looks-like-something-from-the-terminator.md",
+      "title": "This AI-powered robot dog looks like something from The Terminator",
+      "excerpt": "Tecno Mobile has taken to Mobile World Congress 2024 to announce the Tecno Dynamic 1, a robotic and AI-enhanced dog ... alone with the Dynamic 1 and not start to treat it like a real dog.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/mobile/tecno-mobile-dynamic-1-ai-robot-dog-mwc-2024-news/",
+      "originalUrl": "https://www.digitaltrends.com/mobile/tecno-mobile-dynamic-1-ai-robot-dog-mwc-2024-news/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2024/02/Dynamic-1-1.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/mobile/tecno-mobile-dynamic-1-ai-robot-dog-mwc-2024-news/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/tecno-mobile-dynamic-1-ai-robot-dog-mwc-2024-news/?amp",
+      "publishedDateTime": "2024-02-26T01:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-amds-next-gen-mi400-ai-gpu-expected-in-2025-mi300-ai-gpu-refresh-in-the-works.md",
+      "title": "AMD's next-gen MI400 AI GPU expected in 2025, MI300 AI GPU refresh in the works",
+      "excerpt": "AMD's next-gen Instinct MI400X AI accelerator expected in 2025, will compete directly against NVIDIA's next-gen Blackwell B100 AI GPU.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/96428/amds-next-gen-mi400-ai-gpu-expected-in-2025-mi300-refresh-the-works/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/96428/amds-next-gen-mi400-ai-gpu-expected-in-2025-mi300-refresh-the-works/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/9/6/96428_802_amds-next-gen-mi400-ai-gpu-expected-in-2025-mi300-refresh-the-works_full.jpg",
+          "width": 1500,
+          "height": 857,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-26T00:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-artificial-intelligence-already-plays-a-part-in-kansas-city-health-care-without-much-regulation.md",
+      "title": "Artificial intelligence already plays a part in Kansas City health care, without much regulation",
+      "excerpt": "It’s an increasingly common scenario: Patients are looking to artificial intelligence for health care answers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newspressnow.com/artificial-intelligence-already-plays-a-part-in-kansas-city-health-care-without-much-regulation/article_883e97c8-d518-11ee-beec-336eda698f20.html",
+      "originalUrl": "https://www.newspressnow.com/artificial-intelligence-already-plays-a-part-in-kansas-city-health-care-without-much-regulation/article_883e97c8-d518-11ee-beec-336eda698f20.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-25T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News-Press NOW",
+        "domain": "newspressnow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-become-an-ft-subscriber.md",
+      "title": "Become an FT subscriber",
+      "excerpt": "Essential digital access to quality FT journalism on any device. All discounts based on monthly full price over contract term. Cancel subscription renewal anytime. SAVE 40% ON YEAR 1 $468 $279 for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/45cb503c-658c-4b67-a318-78f06aeb6a31",
+      "originalUrl": "https://www.ft.com/content/45cb503c-658c-4b67-a318-78f06aeb6a31",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F768ab8cd-b78f-4a48-a0eb-ecec0b90d852.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
+          "width": 700,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-25T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-nwogu-weighs-in-on-bias-in-facial-recognition-software.md",
+      "title": "Nwogu weighs in on bias in facial recognition software",
+      "excerpt": "Despite many upsides, AI has a disturbing element: bias in facial recognition technology that seeps into the criminal justice system, health care and other areas of daily life. For example, a number of people of color have been falsely identified as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.buffalo.edu/content/shared/university/news/ub-reporter-articles/stories/2024/02/qa-nwogu-bias-facial-recognition.html",
+      "originalUrl": "https://www.buffalo.edu/content/shared/university/news/ub-reporter-articles/stories/2024/02/qa-nwogu-bias-facial-recognition.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-25T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medicine Buffalo",
+        "domain": "buffalo.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-qualcomm-unveils-ai-and-connectivity-chips-at-mobile-world-congress.md",
+      "title": "Qualcomm unveils AI and connectivity chips at Mobile World Congress",
+      "excerpt": "Learn more about GamesBeat Summit sponsorship opportunities here. Qualcomm unveiled a suite of AI, 5G, and Wi-Fi devices at Mobile World Congress (MWC) in Barcelona. The chip design company said the innovations promise to usher in a new era of ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/qualcomm-unveils-ai-and-connectivity-chips-at-mobile-world-congress/",
+      "originalUrl": "https://venturebeat.com/ai/qualcomm-unveils-ai-and-connectivity-chips-at-mobile-world-congress/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/qualcomm-mwc.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 703,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-25T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-top-10-best-databases-for-machine-learning-ai-in-2024.md",
+      "title": "Top 10 Best Databases for Machine Learning & AI in 2024",
+      "excerpt": "Machine learning and artificial intelligence fundamentally rely on databases. These are crucial for holding, arranging, and accessing the necessary data for training and building AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.straight.com/guides/software/best-databases-for-machine-learning-and-ai/",
+      "originalUrl": "https://www.straight.com/guides/software/best-databases-for-machine-learning-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.straight.com/guides/wp-content/uploads/2023/11/BEST-OF10-Best-Databases-for-Machine-Learning-AI.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-25T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Georgia Straight",
+        "domain": "straight.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-26-ghmc-adopts-ai-facial-recognition-for-sanitation-staff-attendance-management.md",
       "title": "GHMC Adopts AI Facial Recognition for Sanitation Staff Attendance Management",
       "excerpt": "Hyderabad: The GHMC has decided to use an artificial intelligence-driven mobile-based facial recognition biometric system to manage the attendance of staff in its sanitation wing. The",
@@ -745,518 +1202,6 @@
       "topics": [
         "TensorFlow",
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-25-a-vending-machine-error-revealed-secret-face-recognition-tech.md",
-      "title": "A Vending Machine Error Revealed Secret Face Recognition Tech",
-      "excerpt": "A student investigation at the University of Waterloo uncovered a system that scanned countless undergrads without consent.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/facial-recognition-vending-machine-error-investigation/",
-      "originalUrl": "https://www.wired.com/story/facial-recognition-vending-machine-error-investigation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/65d91d8d6248d84bf2a999c2/191:100/w_1280,c_limit/vending%20machine%20facial%20recognition.png",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-24T22:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-25-as-google-retracts-gemini-deepak-chopra-reflects-on-morality-in-ai.md",
-      "title": "As Google Retracts Gemini, Deepak Chopra Reflects On Morality In AI",
-      "excerpt": "No algorithm is morally agnostic. The latest controversy over Google’s Gemini, reiterates that. A conversation with Deepak Chopra on morality, AI and consciousness.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/talpatalon/2024/02/24/as-google-retracts-gemini-deepak-chopra-reflects-on-morality-in-ai/",
-      "originalUrl": "https://www.forbes.com/sites/talpatalon/2024/02/24/as-google-retracts-gemini-deepak-chopra-reflects-on-morality-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65da18ddc87c42bb00cf1eb9/0x0.jpg?format=jpg&crop=2495,1405,x0,y399,safe&height=900&width=1600&fit=bounds",
-          "width": 1598,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/talpatalon/2024/02/24/as-google-retracts-gemini-deepak-chopra-reflects-on-morality-in-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/talpatalon/2024/02/24/as-google-retracts-gemini-deepak-chopra-reflects-on-morality-in-ai/amp/",
-      "publishedDateTime": "2024-02-24T16:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2024-02-25-stellantis-ceo-says-theres-still-life-in-waymo-deal-for-self-driving-delivery-vans.md",
-      "title": "Stellantis CEO says there’s still life in Waymo deal for self-driving delivery vans",
-      "excerpt": "This “deepened” partnership will focus on commercial self-driving Ram delivery vans, a target that was first announced in 2020 and promptly faded from public view. Discussions on this “improved” deal have focused, in part, on a crux around ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/24/stellantis-ceo-says-theres-still-life-in-waymo-deal-for-self-driving-delivery-vans/",
-      "originalUrl": "https://techcrunch.com/2024/02/24/stellantis-ceo-says-theres-still-life-in-waymo-deal-for-self-driving-delivery-vans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/10/Waymo-LOGO-door.jpg?resize=1200,721",
-          "width": 1200,
-          "height": 721,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/24/stellantis-ceo-says-theres-still-life-in-waymo-deal-for-self-driving-delivery-vans/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/24/stellantis-ceo-says-theres-still-life-in-waymo-deal-for-self-driving-delivery-vans/amp/",
-      "publishedDateTime": "2024-02-24T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-24-why-ai-can-and-should-lead-to-a-renaissance-in-the-humanities.md",
-      "title": "Why AI can (and should) lead to a renaissance in the humanities",
-      "excerpt": "We need more than ever to understand one another, which means not relying on AI to translate until we have bothered to learn each other’s languages and cultures. Let’s not approach everything through a narrow lens For example, the temptation for some ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/why-ai-can-and-should-lead-to-a-renaissance-in-the-humanities/",
-      "originalUrl": "https://venturebeat.com/ai/why-ai-can-and-should-lead-to-a-renaissance-in-the-humanities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/a_robot_playing_the_violin_surrounded_by_represe-transformed.jpeg?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-24T11:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2024-02-24-integration-of-antidetect-with-ai-new-security-age-or-global-risk.md",
-      "title": "Integration Of Antidetect With AI: New Security Age Or Global Risk?",
-      "excerpt": "Unveil AI's impact on cybersecurity, merging advanced tech with ethics, shaping digital rights, and protecting online identities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidbalaban/2024/02/24/integration-of-antidetect-with-ai-new-security-age-or-global-risk/",
-      "originalUrl": "https://www.forbes.com/sites/davidbalaban/2024/02/24/integration-of-antidetect-with-ai-new-security-age-or-global-risk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d9c8ecd5c8896c28480945/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidbalaban/2024/02/24/integration-of-antidetect-with-ai-new-security-age-or-global-risk/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidbalaban/2024/02/24/integration-of-antidetect-with-ai-new-security-age-or-global-risk/amp/",
-      "publishedDateTime": "2024-02-24T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-02-24-stop-loading-the-dishwasher-this-robot-aims-to-do-all-the-cleanup-for-you.md",
-      "title": "Stop loading the dishwasher; this robot aims to do all the cleanup for you",
-      "excerpt": "Developed by scientists, OK-Robot can clean up a your house on command, dismissing the suggestion that robots can only do factory work.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/stop-loading-the-dishwasher-this-robot-aims-to-do-all-the-cleanup-for-you",
-      "originalUrl": "https://www.foxnews.com/tech/stop-loading-the-dishwasher-this-robot-aims-to-do-all-the-cleanup-for-you",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/02/1200/675/1-Stop-loading-the-dishwasher.-This-robot-aims-to-do-all-the-clean-up-for-you.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-24T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-24-2-artificial-intelligence-ai-stocks-that-could-go-parabolic.md",
-      "title": "2 Artificial Intelligence (AI) Stocks That Could Go Parabolic",
-      "excerpt": "in-depth research, investing resources, and more. Learn More Nvidia isn't the only artificial intelligence stock to put on your radar. Artificial intelligence (AI) is an exciting investment trend ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2024/02/24/2-artificial-intelligence-ai-stocks-that-could-go/",
-      "originalUrl": "https://www.fool.com/investing/2024/02/24/2-artificial-intelligence-ai-stocks-that-could-go/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/766347/gaming-2022.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-24T07:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-24-ai-chip-maker-nvidias-huge-rise-sparks-market-frenzy.md",
-      "title": "AI chip maker Nvidia's huge rise sparks market frenzy",
-      "excerpt": "The share price of AI chip maker Nvidia has surged 60 percent since the start of the year as the company's value crossed the $2 trillion mark today. Nvidia is now the third-largest U.S. company by market capitalization. Some analysts say they've never seen ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/nightly-news/video/ai-chip-maker-nvidia-s-huge-rise-sparks-market-frenzy-204826693867",
-      "originalUrl": "https://www.nbcnews.com/nightly-news/video/ai-chip-maker-nvidia-s-huge-rise-sparks-market-frenzy-204826693867",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 264,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2024_02/1708735066005_nn_bch_nvidia_240223_1920x1080-vyqxjo.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo204826693867",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo204826693867",
-      "publishedDateTime": "2024-02-24T00:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-02-24-aws-will-add-mistral-open-source-ai-models-to-amazon-bedrock.md",
-      "title": "AWS will add Mistral open source AI models to Amazon Bedrock",
-      "excerpt": "It makes total sense for AWS to offer a wide range of models, and the move follows its cloud competitor Microsoft adding Meta's open-source",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/aws-will-add-mistral-open-source-ai-models-to-amazon-bedrock/",
-      "originalUrl": "https://venturebeat.com/ai/aws-will-add-mistral-open-source-ai-models-to-amazon-bedrock/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/09/nuneybits_Amazon_Bedrock_with_a_server_in_the_middle_148a2a0c-76a0-4b9e-b66e-11d18d68cf1c-transformed.png?fit=750%2C600&#038;strip=all",
-          "width": 750,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-23T23:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-24-using-ai-to-modernize-drug-development-and-lessons-learned.md",
-      "title": "Using AI To Modernize Drug Development And Lessons Learned",
-      "excerpt": "This article discusses AI uses cases, in drug development and interviews the CEO of BioPhy and provides insights on being an entrepreneur, and guiding our youth.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2024/02/23/using-ai-to-modernize-drug-development-and-lessons-learned/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2024/02/23/using-ai-to-modernize-drug-development-and-lessons-learned/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63e97e97ff0dadf0a54143fc/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1443,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2024/02/23/using-ai-to-modernize-drug-development-and-lessons-learned/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2024/02/23/using-ai-to-modernize-drug-development-and-lessons-learned/amp/",
-      "publishedDateTime": "2024-02-23T23:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

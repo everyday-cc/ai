@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Justice Department Beefs up Focus on Artificial Intelligence Enforcement, Warns of Harsher Sentences"
+    excerpt: "Justice Department says those who deliberately misuse AI to advance crimes like price fixing, fraud or market manipulation will be at risk for harsher sentences"
+    publishedDateTime: 2024-03-12T09:18:00Z
+    webUrl: "https://www.securityweek.com/justice-department-beefs-up-focus-on-artificial-intelligence-enforcement-warns-of-harsher-sentences/"
+    ampWebUrl: "https://www.securityweek.com/justice-department-beefs-up-focus-on-artificial-intelligence-enforcement-warns-of-harsher-sentences/amp/"
+    cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/justice-department-beefs-up-focus-on-artificial-intelligence-enforcement-warns-of-harsher-sentences/amp/"
+    type: article
+    provider:
+      name: SecurityWeek
+      domain: securityweek.com
+    quality: 42
+    images:
+      - url: "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Justice Department beefs up focus on artificial intelligence enforcement, warns of harsher sentences"
     excerpt: "The Justice Department is stepping up its focus on artificial intelligence, with officials warning Thursday that companies and people who deliberately misuse the technology to advance a white-collar crime like price fixing,"
     publishedDateTime: 2024-03-07T12:34:00Z

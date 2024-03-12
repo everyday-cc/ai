@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "YEO Messaging Unveils Revolutionary Continuous Facial Recognition SDK"
-    excerpt: "YEO Messaging has introduced Continuous Facial Recognition SDK at MWC Barcelona, preventing unauthorised access and breaches in confidentiality."
-    publishedDateTime: 2024-03-07T10:54:00Z
-    webUrl: "https://techround.co.uk/news/yeo-messaging-unveils-facial-recognition/"
-    ampWebUrl: "https://techround.co.uk/news/yeo-messaging-unveils-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/yeo-messaging-unveils-facial-recognition/amp/"
-    type: article
-    provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 59
-    images:
-      - url: "https://techround.co.uk/wp-content/uploads/2024/03/YEOSDK1-1.png"
-        width: 1024
-        height: 783
-        isCached: true
   - title: "YEO Messaging unveils revolutionary continuous facial recognition SDK at MWC Barcelona"
     excerpt: "YEO Messaging, a trailblazer in secure communication, proudly debuted its cutting-edge Continuous Facial Recognition Software Development Kit (SDK) at the Mobile World Conference (MWC) in Barcelona. This innovative technology, protected by YEO's patent ..."
     publishedDateTime: 2024-03-08T00:00:00Z

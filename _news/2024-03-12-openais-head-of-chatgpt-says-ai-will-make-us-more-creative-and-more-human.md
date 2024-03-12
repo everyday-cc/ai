@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT vs Claude 3 Test: Can Anthropic Beat OpenAI’s Superstar?"
-    excerpt: "Claude 3 is one of ChatGPT's most capable competitors. But how do they compare when asked the same questions? Find out here."
-    publishedDateTime: 2024-03-10T11:01:00Z
-    webUrl: "https://tech.co/news/chatgpt-vs-claude-3"
+  - title: "ChatGPT And Generative AI Innovations Are Creating Sustainability Havoc"
+    excerpt: "This article discusses the risks of ChatGPT and Generative AI innovations are having on sustainability goals and highlights the energy and water consumption risks."
+    publishedDateTime: 2024-03-12T10:52:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2024/03/12/chatgpt-and-generative-ai-innovations-are-creating-sustainability-havoc/"
     type: article
     provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 56
+      name: Forbes
+      domain: forbes.com
+    quality: 84
     images:
-      - url: "https://images.tech.co/wp-content/uploads/2024/03/08060744/AdobeStock_606145791_Editorial_Use_Only-1-min-1.jpeg"
-        width: 1920
-        height: 960
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65f031a4a360eaa0853ec14c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1351
+        height: 900
         isCached: true
   - title: "Pros & Cons of Claude 3 AI compared to ChatGPT"
     excerpt: "In the competitive landscape of artificial intelligence, the emergence of new large language models (LLMs) continuously reshapes the boundaries of"
@@ -53,6 +53,38 @@ related:
         width: 1280
         height: 710
         isCached: true
+  - title: "One simple ChatGPT hack makes AI responses sound like a human instead of a robot"
+    excerpt: "I talk to ChatGPT for research, I do it when I have to “google” something, and sometimes I do it for the lols. Since I’m on ChatGPT Plus, I also get to experience OpenAI’s best generative AI features as soon as they’re available in Europe ..."
+    publishedDateTime: 2024-03-08T17:10:00Z
+    webUrl: "https://bgr.com/tech/one-simple-chatgpt-hack-makes-ai-responses-sound-like-a-human-instead-of-a-robot/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 48
+  - title: "ChainGPT unveils $1M grant scheme for startups supercharging Web3-AI innovation"
+    excerpt: "ChainGPT, the AI-powered Web3 infrastructure providing a diverse suite of tools and services, announces the launch of a grant program to help facilitate innovation at the crossroads of AI and blockchain."
+    publishedDateTime: 2024-03-11T14:17:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/11/9976043.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 33
+    images:
+      - url: "https://api.blockchainwire.io/uploads/Proleoio/editor_image/21724a85-1a37-4732-8abb-ca588aa7938d.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "NVIDIA and HP Supercharge Data Science and Generative AI on Workstations"
+    excerpt: "NVIDIA and HP Inc. today announced that NVIDIA CUDA-X data processing libraries will be integrated with HP AI workstation"
+    publishedDateTime: 2024-03-08T00:02:00Z
+    webUrl: "https://www.datanami.com/this-just-in/nvidia-and-hp-supercharge-data-science-and-generative-ai-on-workstations/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 18
 
 secured: "LhiWyxQecVTbBTL1HoH7G9nMwlk0csro5545sinGLXkDjY4Fr5zn10OxslJkX6+fvaoEi9kTUu9H+MAbHUce3XJaw8tCUNNU+hrByRyCWB8rwk+vw1DkkmOt9AC9r+XLqwIZCBAR1sZR8fc+k3eWtabSlTkVNfg4BusdGv0Vy5BZ4fAUROqfqUaP3B07WUBW87BUZ02zz8mPE8DhG7NSTVpIav1+DOVeGfF8jkuyM5HAuLPG7E96v1Ud4oTVWRQtk5aiY5VDboNLVnc//fAoudiR93TYHTB3hNrSvhAAsLmDRRZd5I+V6vW5TBlVDQohc/HwZRlDh2gGqVD/4BqOJS8VSH+LlVfLx+0oOc4ADgg=;5XBGuVooRiitnbrdtOiKkQ=="
 ---

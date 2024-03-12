@@ -27,45 +27,115 @@ images:
     isCached: true
 
 related:
-  - title: "AI-driven evolution of low-code software development in India"
-    excerpt: "As low-code platforms evolve with out-of-the-box AI capabilities, organizations must conscientiously explore ways to harness its full potential. The ability to empower developers"
-    publishedDateTime: 2024-03-09T10:45:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/lite/"
+  - title: "Inflection's Pi AI aims to provide information and a shoulder to cry on"
+    excerpt: "Designed to be empathetic, helpful, and safe, Pi also boasts improved skills in such areas as coding, math, and real-time results via the latest flavor of its large language model."
+    publishedDateTime: 2024-03-07T13:49:00Z
+    webUrl: "https://www.zdnet.com/article/inflections-pi-ai-aims-to-provide-information-and-a-shoulder-to-cry-on/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/inflections-pi-ai-aims-to-provide-information-and-a-shoulder-to-cry-on/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/inflections-pi-ai-aims-to-provide-information-and-a-shoulder-to-cry-on/"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2024/03/Untitled-design-2024-03-08T174706.154.jpg"
+      - url: "https://www.zdnet.com/a/img/resize/646e8a0b656f649933bc681ad1d64f1700260d22/2024/03/07/032e98aa-541d-4e9a-8343-5bed40f840b7/gettyimages-1317415735.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Lenovo Launches Yoga Slim 7i Laptop for Content Creators in India with AI Innovation"
-    excerpt: "Lenovo has introduced the Yoga Slim 7i laptop in India, specifically designed for content creators. Boasting a slim profile with a thickness of 14.9 mm, the laptop features a MIL-810H military-grade aluminum chassis for durability. The highlight of the device is its 400 nits 100% DCI-P3 OLED display, optimized for content creation tasks."
-    publishedDateTime: 2024-03-08T10:58:00Z
-    webUrl: "https://www.siliconindia.com/gadget/news/lenovo-launches-yoga-slim-7i-laptop-for-content-creators-in-india-with-ai-innovation-nid-228328.html"
+  - title: "How to choose an AI-as-a-service provider"
+    excerpt: "AIaaS can help you jumpstart your AI projects, but there are some details you need to know. Here’s what to look for and five leading options to consider."
+    publishedDateTime: 2024-03-11T03:10:00Z
+    webUrl: "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.html"
+    ampWebUrl: "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html"
     type: article
     provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 32
+      name: Computerworld
+      domain: computerworld.com
+    quality: 71
     images:
-      - url: "https://www.siliconindia.com/news/newsimages/lenevo1.jpg"
-        width: 570
-        height: 367
+      - url: "https://images.idgesg.net/images/article/2024/02/dinging-service-bell-in-robot-hand-by-andrey-popov-via-shutterstock-100961475-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Use of Indian languages key for increasing internet access in India: Report"
-    excerpt: "The report also shows that in the recent past, the use of the internet in Indian languages is increasing. It shows that 57 per cent of internet users prefer to access the internet in Indian languages, with Hindi topping the chart."
-    publishedDateTime: 2024-03-10T13:23:00Z
-    webUrl: "https://www.business-standard.com/india-news/use-of-indian-languages-key-for-increasing-internet-access-in-india-report-124031000395_1.html"
+  - title: "Regulate Frontier AI to Avoid Misinformation"
+    excerpt: "There is no progress without public trust in artificial intelligence."
+    publishedDateTime: 2024-03-08T14:52:00Z
+    webUrl: "https://www.wsj.com/articles/regulate-frontier-ai-to-avoid-misinformation-tech-public-trust-486e8bdc"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 2
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 47
+  - title: "Generative AI Is A Game Changer For Talent Transformation"
+    excerpt: "One of generative AI's most significant implications is giving talent management professionals the ability to communicate information to executives and their board of directors. It helps leadership look around corners, rather than just in the rearview mirror, when shaping strategy or making decisions."
+    publishedDateTime: 2024-03-11T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/03/11/generative-ai-is-a-game-changer-for-talent-transformation/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Oregon passes its first bills on artificial intelligence regulations"
+    excerpt: "Oregon lawmakers passed the first two bills in state history that regulate the use of artificial intelligence."
+    publishedDateTime: 2024-03-08T01:20:00Z
+    webUrl: "https://www.kgw.com/article/news/politics/first-oregon-bills-regulating-ai-head-governor/283-9da2dee5-a711-457e-afad-cf9d81e82513"
+    type: article
+    provider:
+      name: KGW8
+      domain: kgw.com
+    quality: 37
+    images:
+      - url: "https://media.kgw.com/assets/KGW/images/e34046b0-8c85-4cf6-a2af-3ddbdf3e89fd/e34046b0-8c85-4cf6-a2af-3ddbdf3e89fd_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Six AI Applications to Transform Your Clinical Operations"
+    excerpt: "Dr. Harvey Castro shares how large language models and machine learning are revolutionizing the way we communicate with the health system."
+    publishedDateTime: 2024-03-07T15:00:00Z
+    webUrl: "https://www.dmagazine.com/healthcare-business/2024/03/six-ai-applications-to-transform-your-clinical-operations/"
+    type: article
+    provider:
+      name: D Magazine
+      domain: dmagazine.com
+    quality: 19
+  - title: "How HP Was Able to Leapfrog Other PC/Workstation OEMs to Launch its AI Solution"
+    excerpt: "HP stunned the market with the most powerful line of AI-enabled PCs and workstations yet to be created, catching the other OEMs, which have"
+    publishedDateTime: 2024-03-11T17:43:00Z
+    webUrl: "https://www.datanami.com/2024/03/11/how-hp-was-able-to-leapfrog-other-pc-workstation-oems-to-launch-its-ai-solution/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 15
+  - title: "Technology Modernization Fund Seeking Proposals for Artificial Intelligence Projects"
+    excerpt: "The Technology Modernization Fund (TMF) today announced a call for project proposals to help federal agencies implement President Biden’s Executive Order on the safe, secure, and trustworthy development and use of Artificial Intelligence (AI) in the federal government."
+    publishedDateTime: 2024-03-11T14:06:00Z
+    webUrl: "https://www.hstoday.us/subject-matter-areas/ai-and-advanced-tech/technology-modernization-fund-seeking-proposals-for-artificial-intelligence-projects/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 10
+  - title: "AI images of Trump with Black voters are just the latest in racist election misinformation"
+    excerpt: "Trump’s supporters have also begun courting this group by making dozens of artificial intelligence (AI) generated images of him surrounded by adoring Black people. Though some of the realistic-looking images contain the tell-tale signs of oddly rendered hands (showing missing,"
+    publishedDateTime: 2024-03-08T13:07:00Z
+    webUrl: "https://www.lgbtqnation.com/2024/03/ai-images-of-trump-with-black-voters-are-just-the-latest-in-racist-election-misinformation/"
+    type: article
+    provider:
+      name: LGBTQ Nation
+      domain: lgbtqnation.com
+    quality: 9
+  - title: "Biden administration requests $3B for federal AI application development, procurement and integration in 2025 budget"
+    excerpt: "The President’s budget looks to fund the National AI Research Resource pilot, agencies’ establishment of Chief AI Officers, the AI talent surge and more AI development across agencies."
+    publishedDateTime: 2024-03-11T19:28:00Z
+    webUrl: "https://fedscoop.com/biden-administration-requests-3b-for-federal-ai-application-development-procurement-and-integration-in-2025-budget/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 0
 
 secured: "Lgzr1lvLiW+SpQQitHfcOFrY9QmPj0JDAwuYoi8oFuPR9s4/sBMVQvXYuDucWgVpZQuG3b8RpAilOnkMVbjFdTnsQyEVU03os6ky7uC1SOgg88darjt5TQEVHjqqFyZkQcKZ4MY4YgPfwPkSS0HWi1R+0KXNfyWoEMJqmcbU52d9IB9E+DvNT0vacxM3xE/wr6c2sFiYEOuochao/BHPynWDzlmS76inNV5jFOuS/daH9YfChh7UEHehg23WarFqPgEYx/9IQW00e2T2pCWijx5o/m2EEpW8ObDiqgRQ6JKGzBgeZkTQHW07F7F5WPFShwwjqX2c4j+q22SKoUp8TRiPjIrwSMLBqmKDRPMiFOU=;TzuR7tMyg4M+VHeCCgfMnQ=="
 ---

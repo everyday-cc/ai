@@ -2,6 +2,92 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-12-the-ai-revolution-needs-chips-software-and-gas-pipelines.md",
+      "title": "The AI Revolution Needs Chips, Software — and Gas Pipelines",
+      "excerpt": "The fervor for all things AI has finally spread to a sector whose own heady start-up phase came about 160 years ago: Pipelines. EQT Corp., a natural gas producer, announced this week the surprise $5.5 billion acquisition of Equitrans Midstream Corp.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2024-03-12/the-ai-revolution-needs-chips-software-and-gas-pipelines",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2024-03-12/the-ai-revolution-needs-chips-software-and-gas-pipelines",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-12T11:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-apple-making-new-m4-chip-for-macbook-pro-will-give-it-more-power-to-handle-ai-tasks.md",
+      "title": "Apple making new M4 chip for Macbook Pro, will give it more power to handle AI tasks",
+      "excerpt": "Apple is gearing up to take AI capabilities to the next level with its upcoming M4 chip for the new MacBook Pro. The tech giant is focusing on enhancing Neural Engine cores, potentially revolutionising tasks like voice recognition,",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatoday.in/technology/news/story/apple-is-making-the-new-m4-chip-for-macbook-pro-more-powerful-to-handle-ai-related-tasks-2513829-2024-03-12",
+      "originalUrl": "https://www.indiatoday.in/technology/news/story/apple-is-making-the-new-m4-chip-for-macbook-pro-more-powerful-to-handle-ai-related-tasks-2513829-2024-03-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202403/macbook-pro-120301723-16x9_1.jpg?VersionId=EFQksKw7Z.VL3lI8JZDY80Cbh5KgxQqt",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.indiatoday.in/amp/technology/news/story/apple-is-making-the-new-m4-chip-for-macbook-pro-more-powerful-to-handle-ai-related-tasks-2513829-2024-03-12",
+      "cdnAmpWebUrl": "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/technology/news/story/apple-is-making-the-new-m4-chip-for-macbook-pro-more-powerful-to-handle-ai-related-tasks-2513829-2024-03-12",
+      "publishedDateTime": "2024-03-12T10:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Today",
+        "domain": "indiatoday.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-12-five-ai-crypto-coins-emerging-in-2024.md",
       "title": "Five AI crypto coins emerging in 2024",
       "excerpt": "The artificial intelligence industry began booming at the start of 2024, with OpenAI's Sora product generating a new wave of hype within the sector.",
@@ -253,7 +339,7 @@
       "originalUrl": "https://arstechnica.com/tech-policy/2024/03/novelists-sue-nvidia-to-stop-spread-of-ai-models-trained-on-copyrighted-books/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -453,7 +539,7 @@
       "originalUrl": "https://economictimes.indiatimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/articleshow/108335973.cms?from=mdr",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -548,7 +634,7 @@
       "originalUrl": "https://www.scmp.com/tech/big-tech/article/3254609/broadcom-sees-us10-billion-ai-chip-sales-2024-shares-dip",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -1346,110 +1432,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-03-tech-war-huaweis-ai-chip-capabilities-under-intense-scrutiny-after-market-leader-nvidia-taps-it-as-potential-rival.md",
-      "title": "Tech war: Huawei’s AI chip capabilities under intense scrutiny after market leader Nvidia taps it as potential rival",
-      "excerpt": "The chip can compete with Nvidia’s A100 in terms of powering AI algorithms, according to Dylan Patel, chief analyst at San Francisco-based semiconductor research firm SemiAnalysis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-war/article/3253943/tech-war-huaweis-ai-chip-capabilities-under-intense-scrutiny-after-market-leader-nvidia-taps-it",
-      "originalUrl": "https://www.scmp.com/tech/tech-war/article/3253943/tech-war-huaweis-ai-chip-capabilities-under-intense-scrutiny-after-market-leader-nvidia-taps-it",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/03/02/35eac653-b835-4edb-9b5b-918e6ada3b4f_ee267289.jpg?itok=QNfkaJH9&v=1709376743",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/tech-war/article/3253943/tech-war-huaweis-ai-chip-capabilities-under-intense-scrutiny-after-market-leader-nvidia-taps-it",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-war/article/3253943/tech-war-huaweis-ai-chip-capabilities-under-intense-scrutiny-after-market-leader-nvidia-taps-it",
-      "publishedDateTime": "2024-03-03T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-03-nvidia-ceo-makes-daring-prediction-that-ai-will-reach-general-intelligence-in-5-years.md",
-      "title": "NVIDIA CEO Makes Daring Prediction that AI will Reach “General Intelligence” in 5 Years",
-      "excerpt": "This confidence stems partly from NVIDIA's leading role in developing the powerful AI chips used in systems like OpenAI's ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2024/03/02/nvidia-ceo-ai-general-intelligence-prediction/",
-      "originalUrl": "https://www.gizmochina.com/2024/03/02/nvidia-ceo-ai-general-intelligence-prediction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2023/09/Nvidia-Partners-Tata.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-02T17:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

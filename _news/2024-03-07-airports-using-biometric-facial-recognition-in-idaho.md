@@ -61,6 +61,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Airports using biometric facial recognition in Texas"
+    excerpt: "Spokeo looked at which airports are using facial recognition software in Texas for security screenings, according to Customs and Border Protection."
+    publishedDateTime: 2024-03-12T09:26:00Z
+    webUrl: "https://www.ksat.com/features/2024/03/12/airports-using-biometric-facial-recognition-in-texas/"
+    type: article
+    provider:
+      name: KSAT
+      domain: ksat.com
+    quality: 54
+    images:
+      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/SLZG4UUOWFBJRLGS55GIXOIE2U.png?_a=ATAPphC0"
+        width: 700
+        height: 394
+        isCached: true
   - title: "Airports using biometric facial recognition in Kansas"
     excerpt: "Spokeo looked at which airports are using facial recognition software in Kansas for security screenings, according to Customs and Border Protection."
     publishedDateTime: 2024-03-07T13:40:00Z

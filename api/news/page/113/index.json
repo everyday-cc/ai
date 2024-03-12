@@ -2,6 +2,456 @@
   "page": 113,
   "value": [
     {
+      "path": "_news/2023-12-06-microsoft-bets-big-on-uk-ai-with-32bn-investment.md",
+      "title": "Microsoft Bets Big on UK AI with $3.2bn Investment",
+      "excerpt": "Microsoft’s biggest investment in the U.K. will see the company double its AI data centre footprint and deliver training to 1m+ people.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/microsoft-uk-ai-investment/",
+      "originalUrl": "https://www.techrepublic.com/article/microsoft-uk-ai-investment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/12/AdobeStock_611053470.jpeg",
+          "width": 1400,
+          "height": 784,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T04:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-transforming-industries-with-generative-ai-aws-swami-sivasubramanian-on-intelligence-augmentation.md",
+      "title": "Transforming industries with generative AI: AWS’ Swami Sivasubramanian on intelligence augmentation",
+      "excerpt": "We are entrenched firmly in the generative artificial intelligence era — it is the differentiating factor for today’s enterprise and business landscapes.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/12/05/transforming-industries-generative-ai-next-era-intelligence-augmentation-supercloud5/",
+      "originalUrl": "https://siliconangle.com/2023/12/05/transforming-industries-generative-ai-next-era-intelligence-augmentation-supercloud5/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/12/IMG_4502.jpg",
+          "width": 4898,
+          "height": 3265,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T04:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-deepminds-ai-tool-unveils-2-million-crystal-structures-capable-of-powering-supercomputers-and-evs.md",
+      "title": "DeepMind's AI Tool unveils 2 million crystal structures capable of powering supercomputers and EVs",
+      "excerpt": "Google scientists, utilizing the AI tool , have revealed an astounding 2.2 million crystal structures. This discovery presents significant possibilities for progress in areas such as microchips, batteries,",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitimes.com/news/a20231206VL201/ai-google-deepmind-supercomputers-electric-vehicle-it+ce-server-ipc-cloud-computing-iot.html",
+      "originalUrl": "https://www.digitimes.com/news/a20231206VL201/ai-google-deepmind-supercomputers-electric-vehicle-it+ce-server-ipc-cloud-computing-iot.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T04:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-aira-features-cpu-powered-face-recognition-to-address-market-challenges.md",
+      "title": "AIRA features CPU-powered face recognition to address market challenges",
+      "excerpt": "The AI revolution is reshaping the world, impacting every industry. AI being rapidly put to use has spurred surging demand for critical components. In particular, GPU being in constant shortage has many supply chain ramifications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitimes.com/news/a20231206PR200.html&chid=9",
+      "originalUrl": "https://www.digitimes.com/news/a20231206PR200.html&chid=9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.digitimes.com/newsshow/20231206pr200_files/1_b.jpg",
+          "width": 640,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T03:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-6-robotics-trends-from-irex-2023.md",
+      "title": "6 robotics trends from iREX 2023",
+      "excerpt": "REX featured 654 exhibitors, making it the largest version of the show since its inception. Here are six robotics trends from the event.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/6-robotics-trends-irex-2023/",
+      "originalUrl": "https://www.therobotreport.com/6-robotics-trends-irex-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2023/12/ur30-cobot-irex-recap.jpg",
+          "width": 770,
+          "height": 513,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T02:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-are-we-choking-the-golden-goose-the-chilling-effect-of-overbroad-rules-and-ethics-opinions-on-the-use-of-generative-ai.md",
+      "title": "Are We Choking the Golden Goose? The Chilling Effect of Overbroad Rules and Ethics Opinions on the Use of Generative AI",
+      "excerpt": "Generative AI is powering an explosion of innovative public and private sector models, though this burgeoning industry remains in its infancy. GenAI products gained widespread notoriety and availability in one amazing year. Lawyers, law firms, and their ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.jdsupra.com/legalnews/are-we-choking-the-golden-goose-the-2689470/",
+      "originalUrl": "https://www.jdsupra.com/legalnews/are-we-choking-the-golden-goose-the-2689470/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16197_0825.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "JD Supra",
+        "domain": "jdsupra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-artificial-intelligence-makes-gripping-more-intuitive.md",
+      "title": "Artificial intelligence makes gripping more intuitive",
+      "excerpt": "“These are movements that the patient has to learn during rehabilitation,” says Cristina Piazza, a professor of rehabilitation and assistive robotics at TUM. Now, Prof. Piazza’s research team has shown that artificial intelligence can enable patients ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nanowerk.com/news2/robotics/newsid=64193.php",
+      "originalUrl": "https://www.nanowerk.com/news2/robotics/newsid=64193.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nanowerk.com/news2/robotics/id64193_1.jpg",
+          "width": 1458,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nanowerk",
+        "domain": "nanowerk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-aws-announces-amazon-q-to-reimagine-the-future-of-work.md",
+      "title": "AWS announces Amazon Q to reimagine the future of work",
+      "excerpt": "Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced Amazon Q, a new type of generative artificial intelligence-(AI) powered assistant that is specifically for work and can be tailored to a customer’s business. Customers can get fast ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/press-release/companies-news/aws-announces-amazon-q-to-reimagine-the-future-of-work-p6vg94yf",
+      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/aws-announces-amazon-q-to-reimagine-the-future-of-work-p6vg94yf",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/view/acePublic/alias/contentid/N2IxMDA4ZjQtMTJiNi00/0/amazon-q-business-image-png.jpeg?f=3%3A2",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/en/press-release/companies-news/aws-announces-amazon-q-to-reimagine-the-future-of-work-p6vg94yf?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/aws-announces-amazon-q-to-reimagine-the-future-of-work-p6vg94yf?amp=1",
+      "publishedDateTime": "2023-12-06T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-google-bards-biggest-ai-upgrade-so-far-sees-it-close-the-gap-on-chatgpt.md",
+      "title": "Google Bard's biggest AI upgrade so far sees it close the gap on ChatGPT",
+      "excerpt": "Google Bard is receiving a huge boost in performance as it will now be powered by the company’s “most capable AI model”, Gemini. Gemini comes in three different “sizes”; however ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/computing/artificial-intelligence/google-bards-biggest-ai-upgrade-so-far-sees-it-close-the-gap-on-chatgpt",
+      "originalUrl": "https://www.techradar.com/computing/artificial-intelligence/google-bards-biggest-ai-upgrade-so-far-sees-it-close-the-gap-on-chatgpt",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/8bpnx7UFeMUWJq9FoUXCa7-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-google-gemini-upgrade-means-bard-ai-outperforms-free-version-of-chatgpt.md",
+      "title": "Google: Gemini Upgrade Means Bard AI Outperforms Free Version of ChatGPT",
+      "excerpt": "Google is going after OpenAI's chatbot with a new 'Gemini Pro' model. A more powerful 'Gemini Ultra' model will arrive early next year through a new 'Bard Advanced' tier. I've been with PCMag ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/google-gemini-upgrade-means-bard-ai-outperforms-free-version-of-chatgpt",
+      "originalUrl": "https://www.pcmag.com/news/google-gemini-upgrade-means-bard-ai-outperforms-free-version-of-chatgpt",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/06fo5DvLm9s0QYEo0248s9c-1.fit_lim.size_1200x630.v1701876868.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-06-meta-and-microsoft-say-they-will-buy-amds-new-ai-chip-as-an-alternative-to-nvidia.md",
       "title": "Meta and Microsoft say they will buy AMD's new AI chip as an alternative to Nvidia",
       "excerpt": "If AMD's latest high-end chip, MI300X, is good enough and inexpensive enough for the technology companies and cloud service providers building and serving AI models when it starts shipping early next year, it could lower costs for developing AI models.",
@@ -655,465 +1105,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-todays-ai-funding-rush-reminds-me-of-the-fintech-investing-hype-of-2021.md",
-      "title": "Today’s AI funding rush reminds me of the fintech investing hype of 2021",
-      "excerpt": "We're seeing a lot of folks push their capital into just a few squares on the betting table. One way or another, the result is going to be notable.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/12/05/ai-funding-rush-fintech-hype/",
-      "originalUrl": "https://techcrunch.com/2023/12/05/ai-funding-rush-fintech-hype/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/04/robot-arm-money-1.jpg?resize=1200,645",
-          "width": 1200,
-          "height": 645,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T18:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-encharge-raises-226m-to-commercialize-its-ai-accelerating-chips.md",
-      "title": "EnCharge raises $22.6M to commercialize its AI-accelerating chips",
-      "excerpt": "EnCharge was launched to commercialize Verma’s research. Using in-memory computing, EnCharge’s hardware can accelerate AI applications in servers and “network edge” machines, Verma claims, while reducing power consumption relative to standard computer processors.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/12/05/encharge-raises-22-6m-to-commercialize-its-ai-accerating-chips/",
-      "originalUrl": "https://techcrunch.com/2023/12/05/encharge-raises-22-6m-to-commercialize-its-ai-accerating-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1411834236.jpg?resize=1200,831",
-          "width": 1200,
-          "height": 831,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/12/05/encharge-raises-22-6m-to-commercialize-its-ai-accerating-chips/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/05/encharge-raises-22-6m-to-commercialize-its-ai-accerating-chips/amp/",
-      "publishedDateTime": "2023-12-05T18:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-threadgold-consulting-unveils-groundbreaking-ai-integration-transforming-fintech-and-erp-landscapes.md",
-      "title": "Threadgold Consulting Unveils Groundbreaking AI Integration, Transforming FinTech and ERP Landscapes",
-      "excerpt": "Introduction In the rapidly evolving world of finance, the integration of Artificial Intelligence (AI) into fintech solutions, especially Enterprise Resource Planning (ERP) systems, marks a significant leap forward.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/threadgold-consulting-unveils-groundbreaking-ai-integration-transforming-fintech-and-erp-landscapes/",
-      "originalUrl": "https://techbullion.com/threadgold-consulting-unveils-groundbreaking-ai-integration-transforming-fintech-and-erp-landscapes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2023/12/AI-SMEs-1000x537.jpg",
-          "width": 1000,
-          "height": 537,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T17:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-how-will-artificial-intelligence-change-medicine-and-healthcare.md",
-      "title": "How will Artificial intelligence change medicine and healthcare?",
-      "excerpt": "Artificial intelligence is all over the news with scary stories about how computers will be thinking on their own and eventually taking jobs from people. But there are great",
-      "sourceUrl": null,
-      "webUrl": "https://www.wwlp.com/massappeal/how-will-artificial-intelligence-change-medicine-and-healthcare/",
-      "originalUrl": "https://www.wwlp.com/massappeal/how-will-artificial-intelligence-change-medicine-and-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wwlp.com/wp-content/uploads/sites/26/2023/12/dr-k.jpg?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.wwlp.com/massappeal/how-will-artificial-intelligence-change-medicine-and-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-wwlp-com.cdn.ampproject.org/c/s/www.wwlp.com/massappeal/how-will-artificial-intelligence-change-medicine-and-healthcare/amp/",
-      "publishedDateTime": "2023-12-05T17:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WWLP-22News",
-        "domain": "wwlp.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-ny-lawmakers-looking-to-address-promise-threat-of-artificial-intelligence.md",
-      "title": "NY lawmakers looking to address promise, threat of artificial intelligence",
-      "excerpt": "AI can greatly advance health care and create better jobs, experts say, but it also can create a deeper gulf in income inequality and help erode human rights and freedoms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsday.com/news/region-state/artificial-intelligence-state-legislature-kathy-hochul-privacy-jobs-aece6jqs",
-      "originalUrl": "https://www.newsday.com/news/region-state/artificial-intelligence-state-legislature-kathy-hochul-privacy-jobs-aece6jqs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.newsday.com/amp/news/region-state/artificial-intelligence-state-legislature-kathy-hochul-privacy-jobs-aece6jqs",
-      "cdnAmpWebUrl": "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/news/region-state/artificial-intelligence-state-legislature-kathy-hochul-privacy-jobs-aece6jqs",
-      "publishedDateTime": "2023-12-05T17:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsday",
-        "domain": "newsday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-best-robot-vacuum-deals-you-can-get-before-christmas.md",
-      "title": "Best robot vacuum deals you can get before Christmas",
-      "excerpt": "The iRobot Roomba j7+ is designed with the issue of dog poop in mind. This smart vacuum ... or device to better to control the appliance remotely. Pet owners, including this verified purchaser, love the Lefant robot vacuum. \"I got this for my upstairs ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/best-robot-vacuum-deals-before-christmas/",
-      "originalUrl": "https://www.cbsnews.com/essentials/best-robot-vacuum-deals-before-christmas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/12/05/724c21c8-fc5e-43c1-a55a-86258bc526cf/thumbnail/1200x630/848eabad8d7da534f7e1531333ae652e/robot-vacuum-head.png?v=5382e209c94ee904b3a96a69f8ca0ce0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T17:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-rejoy-health-is-revolutionizing-back-and-joint-pain-care-with-artificial-intelligence.md",
-      "title": "Rejoy Health is revolutionizing back and joint pain care with Artificial Intelligence",
-      "excerpt": "In an era where technological advancements continue to reshape the landscape of healthcare, Rejoy Health has emerged as a pioneer with its",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/rejoy-health-is-revolutionizing-back-and-joint-pain-care-with-artificial-intelligence-1032875208",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/rejoy-health-is-revolutionizing-back-and-joint-pain-care-with-artificial-intelligence-1032875208",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh7-us.googleusercontent.com/H3tVBQ8eYTfncfBbpMqhAKirLIh1Z62xUkB8z80Mmlp_EqXLAYIp3ez5l5jN0-4bXl7Y2oi-tDX8CKfALBLf910zlhkIeHkBl_DAn65odV-afwM3UZTdcyennZq_uGb2uzzjpR-MTNxJJdEMW2nYCVQ",
-          "width": 1600,
-          "height": 914,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T16:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-aws-unveils-major-bedrock-upgrade-more-ai-models-and-enhanced-user-flexibility.md",
-      "title": "AWS Unveils Major Bedrock Upgrade: More AI Models and Enhanced User Flexibility",
-      "excerpt": "As the generative AI landscape continually evolves with new use cases emerging, Amazon Web Services (AWS) is keeping pace by enhancing its Bedrock",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2023/12/05/aws-unveils-major-bedrock-upgrade-more-ai-models-and-enhanced-user-flexibility/",
-      "originalUrl": "https://www.datanami.com/2023/12/05/aws-unveils-major-bedrock-upgrade-more-ai-models-and-enhanced-user-flexibility/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.datanami.com/wp-content/uploads/2023/11/layers_shutterstock_AIgenerated.jpg",
-          "width": 1545,
-          "height": 1004,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T16:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-another-blow-for-self-driving-trucks-as-former-industry-leader-abandons-the-us.md",
-      "title": "Another blow for self-driving trucks as former industry leader abandons the US",
-      "excerpt": "When TuSimple went public in 2021 it was flying high as the leading self-driving trucks developer in the United States. Now — after a string of internal controversies and the loss of a critical ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/12/05/another-blow-for-self-driving-trucks-as-former-industry-leader-abandons-the-u-s/",
-      "originalUrl": "https://techcrunch.com/2023/12/05/another-blow-for-self-driving-trucks-as-former-industry-leader-abandons-the-u-s/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/01/tusimple-truck.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/12/05/another-blow-for-self-driving-trucks-as-former-industry-leader-abandons-the-u-s/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/05/another-blow-for-self-driving-trucks-as-former-industry-leader-abandons-the-u-s/amp/",
-      "publishedDateTime": "2023-12-05T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-self-driving-truck-development-to-slow-down-as-tusimple-confirms-us-exit.md",
-      "title": "Self-Driving Truck Development To Slow Down As TuSimple Confirms US Exit",
-      "excerpt": "Companies want to create value for their stakeholders. Sometimes, they do it with no regard for their employees' well-being. The world's",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoevolution.com/news/self-driving-truck-development-to-slow-down-as-tusimple-confirms-us-exit-225617.html",
-      "originalUrl": "https://www.autoevolution.com/news/self-driving-truck-development-to-slow-down-as-tusimple-confirms-us-exit-225617.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.cdn.autoevolution.com/images/news/self-driving-truck-development-to-slow-down-as-tusimple-confirms-us-exit-225617_1.jpg",
-          "width": 1920,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T15:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "autoevolution",
-        "domain": "autoevolution.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

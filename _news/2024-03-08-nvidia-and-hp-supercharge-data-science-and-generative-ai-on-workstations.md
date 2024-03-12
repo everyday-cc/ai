@@ -19,109 +19,70 @@ topics:
   - AI
 
 related:
-  - title: "Novelists sue Nvidia to stop spread of AI models trained on copyrighted books"
-    excerpt: "Book authors are suing Nvidia, alleging that the chip maker's AI platform NeMo—used to power customized chatbots—was trained on a controversial dataset that illegally copied and distributed their books without their consent."
-    publishedDateTime: 2024-03-11T16:35:00Z
-    webUrl: "https://arstechnica.com/tech-policy/2024/03/novelists-sue-nvidia-to-stop-spread-of-ai-models-trained-on-copyrighted-books/"
+  - title: "ChatGPT And Generative AI Innovations Are Creating Sustainability Havoc"
+    excerpt: "This article discusses the risks of ChatGPT and Generative AI innovations are having on sustainability goals and highlights the energy and water consumption risks."
+    publishedDateTime: 2024-03-12T10:52:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2024/03/12/chatgpt-and-generative-ai-innovations-are-creating-sustainability-havoc/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 66
+      name: Forbes
+      domain: forbes.com
+    quality: 84
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-1397564918-760x380.jpg"
-        width: 760
-        height: 380
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65f031a4a360eaa0853ec14c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1351
+        height: 900
         isCached: true
-  - title: "Redditor Sees More Value In These AI Stocks Than Nvidia, AMD"
-    excerpt: "Redditor challenges popular narrative about AI-related stocks, argues for value in GOMAAM stocks like Google, Apple and Microsoft."
-    publishedDateTime: 2024-03-11T17:06:00Z
-    webUrl: "https://www.benzinga.com/trading-ideas/long-ideas/24/03/37594314/redditor-sees-more-value-in-these-ai-stocks-than-nvidia-amd"
-    ampWebUrl: "https://www.benzinga.com/amp/content/37594314"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37594314"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2024/reddit-shutter_6.jpeg?width=1200&height=800&fit=crop"
-        width: 830
-        height: 553
-        isCached: true
-  - title: "What you need to know about Nvidia and the AI chip arms race"
-    excerpt: "But Nvidia faces competitors eager to take a share of the chip market and businesses that want to lessen their reliance on the company. Intel plans to launch a new AI chip this year, Meta wants to use its own custom chip at its data centers and Google has developed Cloud Tensor Processing Units, which can be used to train AI models."
-    publishedDateTime: 2024-03-08T22:18:00Z
-    webUrl: "https://www.marketplace.org/2024/03/08/what-you-need-to-know-about-nvidia-and-the-ai-chip-arms-race/"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 56
-    images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2024/03/Nvidia.jpg?fit=2800%2C1884&w=1200"
-        width: 1200
-        height: 807
-        isCached: true
-  - title: "Beyond Nvidia: 7 Underappreciated AI Stocks to Buy Now"
-    excerpt: "That would be 11.6% above 2024’s projected revenue. Fundamentally, Intel is committed to delivering chips for 100 million AI PCs by 2025. I’d say that’s a decent candidate for underappreciated AI stocks to buy. Intuit (INTU) As a tax-preparation ..."
-    publishedDateTime: 2024-03-10T13:59:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/beyond-nvidia-7-underappreciated-ai-stocks-to-buy-now-1033148631"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
-  - title: "Inflows Into Bullish Nvidia ETF Hit Record on AI Frenzy"
-    excerpt: "(Reuters) - Investors have piled into Nvidia-focused exchange-traded funds (ETFs) this year on the frenzy around AI, with inflows into a bullish fund that tracks the shares of the chip designer hitting an all-time high on Wednesday. Net daily inflows into ..."
-    publishedDateTime: 2024-03-07T10:51:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2024-03-07/inflows-into-bullish-nvidia-etf-hit-record-on-ai-frenzy"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
-  - title: "This AI token is being called the Nvidia of crypto"
-    excerpt: "With the reinvigorated interest in AI, decentralized platforms that offer related services are facing increased demand, including Render."
-    publishedDateTime: 2024-03-08T12:23:00Z
-    webUrl: "https://finbold.com/this-ai-token-is-being-called-the-nvidia-of-crypto/"
-    type: article
-    provider:
-      name: Finbold | Finance in Bold
-      domain: finbold.com
-    quality: 39
-    images:
-      - url: "https://assets.finbold.com/uploads/2024/03/This-AI-token-is-being-called-the-Nvidia-of-crypto.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "NVIDIA emphasizes importance of nations investing in sovereign AI"
-    excerpt: "NVIDIA has this week been emphasizing  the importance of nations investing in sovereign AI, which is the development of artificial intelligence"
-    publishedDateTime: 2024-03-11T09:48:00Z
-    webUrl: "https://www.geeky-gadgets.com/sovereign-ai/"
+  - title: "Pros & Cons of Claude 3 AI compared to ChatGPT"
+    excerpt: "In the competitive landscape of artificial intelligence, the emergence of new large language models (LLMs) continuously reshapes the boundaries of"
+    publishedDateTime: 2024-03-10T11:03:00Z
+    webUrl: "https://www.geeky-gadgets.com/claude-3-vs-chatgpt/"
     type: article
     provider:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
-    quality: 39
+    quality: 56
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/03/importance-of-nations-investing-in-sovereign-AI.jpg"
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/03/chatgpt-vs-claude-3-Pros-and-Cons-compared.jpg"
         width: 1280
-        height: 717
+        height: 710
         isCached: true
-  - title: "Top 10 AI Coins to Buy AHead Of NVIDIA AI Conference"
-    excerpt: "The AI landscape transforms as the NVIDIA AI Conference approaches, spotlighting top AI Coins to Buy for savvy investors seeking growth."
-    publishedDateTime: 2024-03-12T06:00:00Z
-    webUrl: "https://www.cryptopolitan.com/ai-coins-to-buy-ahead-of-nvidia-ai/"
+  - title: "OpenAI's Head of ChatGPT Says AI Will Make Us More Creative--and More Human"
+    excerpt: "At a SXSW panel, Peter Deng says OpenAI is committed to keeping the basic version of ChatGPT free; evades question over paying artists for using their work."
+    publishedDateTime: 2024-03-11T20:40:00Z
+    webUrl: "https://www.inc.com/jennifer-conrad/openais-head-of-chatgpt-says-ai-will-make-humans-more-creative.html"
     type: article
     provider:
-      name: cryptopolitan
-      domain: cryptopolitan.com
-    quality: 39
+      name: Inc
+      domain: inc.com
+    quality: 52
     images:
-      - url: "https://www.cryptopolitan.com/wp-content/uploads/2024/03/Top-10-AI-Coins-to-Buy-A-Head-Of-NVIDIA-AI-Conference-1-1.jpeg"
-        width: 1232
-        height: 928
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1311390274_538341_tenhg1.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "One simple ChatGPT hack makes AI responses sound like a human instead of a robot"
+    excerpt: "I talk to ChatGPT for research, I do it when I have to “google” something, and sometimes I do it for the lols. Since I’m on ChatGPT Plus, I also get to experience OpenAI’s best generative AI features as soon as they’re available in Europe ..."
+    publishedDateTime: 2024-03-08T17:10:00Z
+    webUrl: "https://bgr.com/tech/one-simple-chatgpt-hack-makes-ai-responses-sound-like-a-human-instead-of-a-robot/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 48
+  - title: "ChainGPT unveils $1M grant scheme for startups supercharging Web3-AI innovation"
+    excerpt: "ChainGPT, the AI-powered Web3 infrastructure providing a diverse suite of tools and services, announces the launch of a grant program to help facilitate innovation at the crossroads of AI and blockchain."
+    publishedDateTime: 2024-03-11T14:17:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/11/9976043.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 33
+    images:
+      - url: "https://api.blockchainwire.io/uploads/Proleoio/editor_image/21724a85-1a37-4732-8abb-ca588aa7938d.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "e78uLF4eqJsXqrCoaOHhYCxw5nfpjfKP+a1/6YW+k5RfM0LBTOF1xa4tvfZklAbDEOycmKKjrdYevJUbJfUED6VRb2WRFgNem/Rsckcd8O4DETlGZMa3VE8SqA9FvGabbL1F4O78uVwjYX1Py+54g4taVa4DRDKvI+o2RlvMD1HsbwXjnFTMJcOAVMYmxJQY8jgtVvUoJ7GIqAq+7wuDoCBh25opHh4B/X++6IJLQUyYvlGe7u79IjKz/yf8Pc+0tiOjprsxP39g69wKD8bvHBXJ6mHjSuLIb6jUk/1ppvMY3s2sKbIpVT/X3z/PjL2mtTHgwQ/kWPIAeOxzr3DygkSOWkCtOH5D0Qwc0QW3mFThQpjSbkdO+9UD2sZvkodZadhjWINBlNpepBCnW/sHRaiDd1JTrJmD7NLHIgYohMnkwPatFLLkM5FjyuJtKZnfSIJi2gzYwfQyJ+34FRJ3SoA/UPfVghlCKecyNfTshJeanQltlmTUFMaDHQI1viYhFAmrVBExB8tUe2LGFeFDRg==;9nEaMF3DAFI5W800TxejDw=="

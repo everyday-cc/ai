@@ -9,8 +9,8 @@ ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202403/ai
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202403/ai-outperforms-pathologists-in-predicting-cancer-spread-to-brain?amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Psychology Today
@@ -41,6 +41,20 @@ related:
       - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-03/pic9105.jpg?itok=gRgAKG7k"
         width: 1528
         height: 800
+        isCached: true
+  - title: "Machine Learning Predicts Lung Cancer Spread to Brain"
+    excerpt: "Scientists trained a machine-learning algorithm to predict accurately brain metastasis using biopsy samples from early-stage non-small cell lung cancer patients."
+    publishedDateTime: 2024-03-12T10:19:00Z
+    webUrl: "https://www.technologynetworks.com/tn/news/machine-learning-predicts-lung-cancer-spread-to-brain-384684"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 54
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/384684/machine-learning-predicts-lung-cancer-spread-to-brain-384684-640x360.jpg?cb=20240312"
+        width: 640
+        height: 360
         isCached: true
 
 secured: "KO8P5MeqtgyOML7KPwsS0XeiB2PC3mIicgB8xhFow2PEvkTUwXsHiiEaUNtLWOSXLF6B3i4+RQvL/nEiq5SbiwpFhw8DyqfpUciKkEaqvb20o57UUdiQ5AfDpvfiZkc6TGydAzu74SrIVex929QCOsu2TZBuF/Envc0IT6wUe8VnLO3XzFVeWhK/wHu6x6WrX9s4vi1PCawqwQrU94ETawfPZywvpVM905D0E7DrKNj+Wzbs88UAkkoib3A+RU14i3+bT8pml9qmzEnF8zGz1OVVEFmPjg8OjO1zdx4uyQ8etV2pFqgOLOPwKjIsDJJ1wGooTOWxNxyG6hLm4JnjLTub0SAce9Xxo4NZROyABvA=;ZE7brXKWVFpAxvVPU1bmyQ=="

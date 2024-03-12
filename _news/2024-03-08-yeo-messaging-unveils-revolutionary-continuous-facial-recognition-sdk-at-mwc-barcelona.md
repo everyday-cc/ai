@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sourcesecurity.com/amp/news/yeo-messaging-unveils-revolu
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/yeo-messaging-unveils-revolutionary-continuous-facial-co-1709888137-ga.1709889525.html"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "YEO Messaging Unveils Revolutionary Continuous Facial Recognition SDK"
-    excerpt: "YEO Messaging has introduced Continuous Facial Recognition SDK at MWC Barcelona, preventing unauthorised access and breaches in confidentiality."
-    publishedDateTime: 2024-03-07T10:54:00Z
-    webUrl: "https://techround.co.uk/news/yeo-messaging-unveils-facial-recognition/"
-    ampWebUrl: "https://techround.co.uk/news/yeo-messaging-unveils-facial-recognition/amp/"
-    cdnAmpWebUrl: "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/yeo-messaging-unveils-facial-recognition/amp/"
-    type: article
-    provider:
-      name: TechRound
-      domain: techround.co.uk
-    quality: 59
-    images:
-      - url: "https://techround.co.uk/wp-content/uploads/2024/03/YEOSDK1-1.png"
-        width: 1024
-        height: 783
-        isCached: true
   - title: "Yeo Messaging debuts Continuous Facial Recognition SDK for privacy protection"
     excerpt: "A new SDK has been launched by Yeo Messaging to bring continuous biometric facial authentication to consumer devices for data protection and privacy."
     publishedDateTime: 2024-03-08T17:29:00Z

@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-12-prompt-engineering-technique-known-as-the-step-around-is-gaining-steam-as-generative-ai-becomes-less-forthright.md",
+      "title": "Prompt Engineering Technique Known As The Step-Around Is Gaining Steam As Generative AI Becomes Less Forthright",
+      "excerpt": "A prompt engineering technique known as the step-around is gaining attention due to generative AI increasingly being less forthright. Here's what you need to know.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2024/03/12/prompt-engineering-technique-known-as-the-step-around-is-gaining-steam-as-generative-ai-becomes-less-forthright/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2024/03/12/prompt-engineering-technique-known-as-the-step-around-is-gaining-steam-as-generative-ai-becomes-less-forthright/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ee4ffd8c25253909e03855/0x0.jpg?format=jpg&crop=997,549,x0,y50,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 881,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2024/03/12/prompt-engineering-technique-known-as-the-step-around-is-gaining-steam-as-generative-ai-becomes-less-forthright/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/03/12/prompt-engineering-technique-known-as-the-step-around-is-gaining-steam-as-generative-ai-becomes-less-forthright/amp/",
+      "publishedDateTime": "2024-03-12T11:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-12-french-startup-nijta-hopes-to-protect-voice-privacy-in-ai-use-cases.md",
       "title": "French startup Nijta hopes to protect voice privacy in AI use cases",
       "excerpt": "France-based startup Nijta, whose flagship product Voice Harbor anonimizes voices for AI, raised €2 million in funding from various sources, including deep tech VC fund Elaia.",
@@ -212,7 +265,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/navigating-the-risks-of-ai-weaponization/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -286,58 +339,6 @@
         "name": "malaymail",
         "domain": "malaymail.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-ea-says-generative-ai-will-make-gamers-spend-more-speed-up-development-time.md",
-      "title": "EA says generative AI will make gamers spend more, speed up development time",
-      "excerpt": "Speaking at the Morgan Stanley Technology, Media & Telecom Conference on Wednesday (via Techraptor), Wilson called generative AI an \"incredibly exciting\" technology that EA is embracing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/102169-ea-generative-ai-increase-efficiency-speed-up-development.html",
-      "originalUrl": "https://www.techspot.com/news/102169-ea-generative-ai-increase-efficiency-speed-up-development.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2024/03/2024-03-07-image-9.jpg",
-          "width": 3840,
-          "height": 2160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-07T14:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

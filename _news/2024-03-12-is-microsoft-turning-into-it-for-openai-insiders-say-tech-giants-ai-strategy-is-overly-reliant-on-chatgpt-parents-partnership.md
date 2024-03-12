@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Microsoft Insiders Fear The Firm Has Transformed Into A Glorified IT Department For OpenAI"
+    excerpt: "Microsoft's partnership with OpenAI sparks concern among insiders over the company's focus and dependence on AI giant."
+    publishedDateTime: 2024-03-12T11:01:00Z
+    webUrl: "https://www.digitalinformationworld.com/2024/03/microsoft-insiders-fear-firm-has.html"
+    type: article
+    provider:
+      name: Digital information world
+      domain: digitalinformationworld.com
+    quality: 44
+    images:
+      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7DqtvxGdsWVxoOU8hQhnlgAVDWrdhhUQczN5aR1Jke5p63e1S_L1w0GD9Csp6TAYAPLacasZnGqPaypIPSysbdl2rDC-1Z9aLG7fDgX6xP4vcTyGAJseo_KwtJ5gPfAHmqfL2KapXXtzB3PXJaM6CKB0VQq7rAUGqPz_irUwH6ak3qjlgL-wPBjrQ7QRi/w1600/mssa.jpeg"
+        width: 1024
+        height: 825
+        isCached: true
 
 secured: "kRDZXTA/6wkZR4idkq9Yprg3slVycFgIfjPvQlanUyPH0Z5y3hjXsK4rL2lC9qO3CalgfNTSFxEnE+C9475Hj7Rb6CfpQ3p3kZyXEhdq5GAxr7ZNoU+1/hsHAU3/euHuBSL6ditJ7bMYkUyTtfo5qsqsdE8rCgggsmsEMj707rJvwc/o/nOpUHrXipNWHKvBIu8c20l6HZpwb6UKq67TB4avFSdIdY6LvsiHLoEV7NRjbwEDHp52u0fHTLNsHAn28JN7FzN2ST83tSmgn7jot9np3Np3qO1vn6tQoklKnp06kdrwvADBxYJwH4t/UwUVyHb8B+naGK4gvs8tymIHo6tCbmK6P4R7W1quKrzUu8w=;BqRhK/tb20WGtoEn3Vc4PQ=="
 ---

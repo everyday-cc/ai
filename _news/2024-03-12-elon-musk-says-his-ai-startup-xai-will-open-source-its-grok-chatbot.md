@@ -96,15 +96,6 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "One simple ChatGPT hack makes AI responses sound like a human instead of a robot"
-    excerpt: "I talk to ChatGPT for research, I do it when I have to “google” something, and sometimes I do it for the lols. Since I’m on ChatGPT Plus, I also get to experience OpenAI’s best generative AI features as soon as they’re available in Europe ..."
-    publishedDateTime: 2024-03-08T17:10:00Z
-    webUrl: "https://bgr.com/tech/one-simple-chatgpt-hack-makes-ai-responses-sound-like-a-human-instead-of-a-robot/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 48
   - title: "Best AI Chatbots for 2024"
     excerpt: "Spread the loveAs artificial intelligence continues to revolutionize the way we interact with technology, AI chatbots have become an integral part of this transformation. In 2024, a variety of sophisticated chatbots are leading the way in customer service,"
     publishedDateTime: 2024-03-10T06:42:00Z

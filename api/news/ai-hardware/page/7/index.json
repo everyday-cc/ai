@@ -2,6 +2,110 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2024-01-18-digitalocean-wants-to-open-the-floodgates-to-ai-for-smaller-enterprises-with-nvidia-h100-access.md",
+      "title": "DigitalOcean wants to open the floodgates to AI for smaller enterprises with Nvidia H100 access",
+      "excerpt": "DigitalOcean has built its cloud business with a focus on developers that cater to SMBs and it’s now growing that business with new support for the industry leading Nvidia H100 GPU AI accelerator. The Nvidia H100 will be available on the Paperspace ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/digitalocean-wants-to-open-the-floodgates-to-ai-for-smaller-enterprises-with-nvidia-h100-access/",
+      "originalUrl": "https://venturebeat.com/ai/digitalocean-wants-to-open-the-floodgates-to-ai-for-smaller-enterprises-with-nvidia-h100-access/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/01/nuneybits_Vector_art_of_a_digital_ocean_c230cf44-8417-42fd-ae3c-73ec14de19d0-transformed.webp?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-18T05:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-18-amd-stock-reaches-almost-unprecedented-value-thanks-to-ai-chip-demand.md",
+      "title": "AMD stock reaches almost unprecedented value thanks to AI chip demand",
+      "excerpt": "Analysts from major financial institutions have increased their price targets for AMD stock, which reached a 52-week high of $158.74 on Tuesday. Reports from Barclays, KeyBanc",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/101554-amd-stock-reaches-almost-unprecedented-value-thanks-ai.html",
+      "originalUrl": "https://www.techspot.com/news/101554-amd-stock-reaches-almost-unprecedented-value-thanks-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2024/01/2024-01-17-image-33.jpg",
+          "width": 2500,
+          "height": 1282,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-17T20:22:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-17-opinion-the-betting-on-the-ai-pc-race-is-ignoring-the-true-ai-leader-nvidia.md",
       "title": "Opinion: The betting on the ‘AI PC’ race is ignoring the true AI leader: Nvidia",
       "excerpt": "After all, Nvidia has history on its side: It was the hardware vendor that paved the road that the AI markets are all driving down today when it introduced CUDA, programmable graphics processing unit (GPU) chips, and created a software ecosystem rivaling ...",
@@ -1383,111 +1487,6 @@
         "AI Hardware",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-12-18-amd-says-its-mi300x-ai-accelerator-is-faster-than-nvidias-h100.md",
-      "title": "AMD says its MI300X AI accelerator is faster than Nvidia's H100",
-      "excerpt": "AMD has finally launched its Instinct MI300X accelerators, a new generation of server GPUs designed to provide compelling performance levels for generative AI workloads and other",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/101238-amd-mi300x-ai-accelerator-faster-than-nvidia-h100.html",
-      "originalUrl": "https://www.techspot.com/news/101238-amd-mi300x-ai-accelerator-faster-than-nvidia-h100.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2023/12/2023-12-18-image-4.jpg",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-18T12:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-18-19-non-tech-stocks-that-could-see-shares-rise-on-ai-hype-stifel.md",
-      "title": "19 non-tech stocks that could see shares rise on AI hype: Stifel",
-      "excerpt": "The more AI is mentioned in earnings calls, the higher shares have gone in 2023, according to Stifel. Here are the 19 consumer stocks talking about AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-stocks-to-buy-investing-consumer-goods-artificial-intelligence-stifel-2023-12",
-      "originalUrl": "https://www.businessinsider.com/ai-stocks-to-buy-investing-consumer-goods-artificial-intelligence-stifel-2023-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/657cbd210ec98e92f7502b0a?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-18T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -28,36 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "How to choose an AI-as-a-service provider"
-    excerpt: "AIaaS can help you jumpstart your AI projects, but there are some details you need to know. Here’s what to look for and five leading options to consider."
-    publishedDateTime: 2024-03-11T03:10:00Z
-    webUrl: "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.html"
-    ampWebUrl: "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 71
-    images:
-      - url: "https://images.idgesg.net/images/article/2024/02/dinging-service-bell-in-robot-hand-by-andrey-popov-via-shutterstock-100961475-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Profile Software Introduces AI.Adaptive to Enhance Digital Services"
-    excerpt: "Profile Software launches its new “AI.Adaptive” solution, which simplifies user interaction into natural language with databases and applications."
-    publishedDateTime: 2024-03-10T01:29:00Z
-    webUrl: "https://www.crowdfundinsider.com/2024/03/222437-profile-software-introduces-ai-adaptive-to-enhance-digital-services/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 41
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/01/Zoom-Warp-Speed-Blast-Artificial-Intelligence.jpeg"
-        width: 1280
-        height: 1139
-        isCached: true
   - title: "Intelligence service: how schools are managing AI"
     excerpt: "Artificial intelligence is everywhere. Since ChatGPT launched in November 2022, it seems a day hasn't gone by without a shouty headline about robots taking over our jobs and schools. While much of the press has been predictably negative with lurid stories ..."
     publishedDateTime: 2024-03-08T00:00:00Z
@@ -72,29 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Local tech company brings AI to TCC's career services program"
-    excerpt: "He said a lot of WriteSea's research shows that many job seekers don't know what they excel at, so this AI will act as a coach and guide them to well-matched opportunities."
-    publishedDateTime: 2024-03-11T18:07:00Z
-    webUrl: "https://www.kjrh.com/news/local-news/local-tech-company-brings-ai-to-tccs-career-services-program"
-    type: article
-    provider:
-      name: kjrh.com
-      domain: kjrh.com
-    quality: 39
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/997e81f/2147483647/strip/true/crop/1674x879+0+33/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fa6%2F69%2Fc2beb16442cdaaa38fc32738afd2%2Fscreenshot-2024-03-11-at-6-00-17-pm.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Which Role Prepares You Best to Lead a Language Service Provider?"
-    excerpt: "March marches on, and with it, the end of the first quarter of 2024 gets closer. As the Language Service Provider Index (LSPI) reveals, there are indications of stability … for some companies. The Super Agencies managed to grow a bit."
-    publishedDateTime: 2024-03-07T15:00:00Z
-    webUrl: "https://slator.com/which-role-prepares-you-best-to-lead-a-language-service-provider/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 4
 
 secured: "53XB2kdsDEVc0OHnMEbDi8nLA/hy+g1oqWP/eASk87Ob7SQGSFrgwsIsoGx62PaiiFrGjmpsoBR9lPGeu0t3v2+ljOMd8gTTmv4W4OKRXm8iL5LvUgdzT3nM2loKBc5nzrNlIz2nNpiQsuT3QJ+fDRZ28z3ETO9fX+llvXKYQ7J5O4VG9+fIXE/mHis1hv6s7Bj2lxXWuft4CV1OE2HLBU6R1D/LibwoKysyt21u26zFMNEyzGE3ZI35MTa3c1gIR3IMAaKvAeje1Z3VrAKrl4DXgiFXT2qOTMinc5lKlRY2rnNuypDKXyjVftfIDxsVY292ckDbvcTc+n6E9KYhB/EzDkfZsLPYvN07r/5z/c2rID7fjSMHPhf1xF9a1k59/gsNvNN4Ubv1b4owmg0QqLK39VHJc09Wn0iSrB7sF6dr3rAgcIqo9ssy9e064z0b2JG6JO4SA4As8vVHHW05Mo/fhqAQcPPvLACeaP52Rm99M8quOT14Y3XlrS2NSBMnQEZ06uNjbtvDElMSvTjK/w==;Khv7JZc2CmtHu7QPzi60sw=="
 ---

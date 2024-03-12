@@ -39,20 +39,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Eye On AI: Oh The Humanity — Everybody’s In A Rush To Reassure AI Development Will Help Us"
-    excerpt: "The big AI news this week is Elon Musk’s lawsuit against OpenAI and its executives — including co-founder and CEO Sam Altman — claiming breach of OpenAI’s founding agreement."
-    publishedDateTime: 2024-03-07T12:00:00Z
-    webUrl: "https://news.crunchbase.com/ai/musk-openai-lawsuit-altman-msft/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 27
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/Generative_AI_1.jpg"
-        width: 900
-        height: 506
-        isCached: true
 
 secured: "oADZj5kZD+zckfvu9Bb2wDl969zP2QpuEyhH6FMV2X0OdN5P1lhkt/rLrEiHV6UAJaXSP3Tlz9eNVCcOjmcv+N41ysLThynVyJYUXY8MZb07e6aKXrM3NO89Y3a8KdpZqbUetJjof8Teq8g4fvwfcYYpG7jQ6W8TQkNyOi+lLQg8rwuXZskrCl3H3Q9kvGPkYK1/L4aOLVP/NqskJmO/CUJM8uvvutTqbM3xqVgtEGMR4RZIwAQV0thoCWvoU5MJkdqIsoxacxJeDuVS73pK0gb0UY93UWY3q35oOGa5j5gZHOwxmE9NbdUctIoylGUr0eo/9tiiohn4DjoalHohBvaZEmdenwDP+xuwTE0y/10=;+N/O7HWUq2XMSjqq2WYUYQ=="
 ---

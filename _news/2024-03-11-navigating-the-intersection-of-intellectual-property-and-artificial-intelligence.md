@@ -18,114 +18,65 @@ topics:
   - AI
 
 related:
-  - title: "The Integral Role Of Robotics, AI And Automation In Healthcare"
-    excerpt: "With the advent of robotics, automation and artificial intelligence (AI), we are not merely witnessing a change in how healthcare is delivered; we are at the dawn of a new era where the boundaries of what is possible are being redefined."
-    publishedDateTime: 2024-03-07T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/03/07/the-integral-role-of-robotics-ai-and-automation-in-healthcare/"
+  - title: "Navigating The Risks Of AI Weaponization"
+    excerpt: "As AI continues to advance and become more pervasive, so do its risks. From mass disinformation campaigns and deepfakes to fully autonomous weapon systems, the convergence of AI, technology and “bad intentions” demands priority attention."
+    publishedDateTime: 2024-03-08T16:08:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/navigating-the-risks-of-ai-weaponization/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/navigating-the-risks-of-ai-weaponization/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/08/navigating-the-risks-of-ai-weaponization/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 116
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65e8cb84703655ecfeca6379/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1346
-        height: 900
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65eb37f10a2278925e9cdb57/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1456
+        height: 864
         isCached: true
-  - title: "Inflection's Pi AI aims to provide information and a shoulder to cry on"
-    excerpt: "Designed to be empathetic, helpful, and safe, Pi also boasts improved skills in such areas as coding, math, and real-time results via the latest flavor of its large language model."
-    publishedDateTime: 2024-03-07T13:49:00Z
-    webUrl: "https://www.zdnet.com/article/inflections-pi-ai-aims-to-provide-information-and-a-shoulder-to-cry-on/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/inflections-pi-ai-aims-to-provide-information-and-a-shoulder-to-cry-on/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/inflections-pi-ai-aims-to-provide-information-and-a-shoulder-to-cry-on/"
+  - title: "Navigating the balance: GPU-based solutions in AI implementation"
+    excerpt: "To embed our video on your website copy and paste the code below: Richard McQuaide, business development manager at HPE, provides insights into the complexities surrounding GPU-based solutions in AI implementation. The conversation focuses on striking a ..."
+    publishedDateTime: 2024-03-08T00:00:00Z
+    webUrl: "https://www.telecomtv.com/content/spotlight-on-5g-partner-insights/navigating-the-balance-gpu-based-solutions-in-ai-implementation-49874/"
+    ampWebUrl: "https://www.telecomtv.com/content/spotlight-on-5g-partner-insights/navigating-the-balance-gpu-based-solutions-in-ai-implementation-49874/amp/"
+    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/spotlight-on-5g-partner-insights/navigating-the-balance-gpu-based-solutions-in-ai-implementation-49874/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 74
     images:
-      - url: "https://www.zdnet.com/a/img/resize/646e8a0b656f649933bc681ad1d64f1700260d22/2024/03/07/032e98aa-541d-4e9a-8343-5bed40f840b7/gettyimages-1317415735.jpg?auto=webp&fit=crop&height=675&width=1200"
+      - url: "https://assets.telecomtv.com/assets/telecomtv/24081-hpe-int-demo-richard-mcquaide-v1-10-18000.jpg?w=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "The Role Of AI In Solving The Volume-Cost Equation In Customer Service"
-    excerpt: "It’s important to recognize that generative AI is not the catch-all answer to the volume-cost equation and that everything becomes immediately balanced once implemented."
-    publishedDateTime: 2024-03-07T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/07/the-role-of-ai-in-solving-the-volume-cost-equation-in-customer-service/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/07/the-role-of-ai-in-solving-the-volume-cost-equation-in-customer-service/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/07/the-role-of-ai-in-solving-the-volume-cost-equation-in-customer-service/amp/"
+  - title: "Renewing Corporate Gifting: The Impact Of AI On Personalization"
+    excerpt: "AI algorithms and machine learning capabilities empower businesses to enhance personalization processes at scale and across geographic divides. It can source and recommend gifts based on recipient preferences, automate the ordering and delivery process, and also help with customizing and manufacturing personalized gifts at scale."
+    publishedDateTime: 2024-03-08T12:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/08/renewing-corporate-gifting-the-impact-of-ai-on-personalization/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6452660f5ec3aaf210ee1af0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "Reshape Automation aims to reduce barriers of robotics adoption"
-    excerpt: "Reshape Automation is launching an end-to-end platform for customers to discover, design, purchase, and get support for automation projects."
-    publishedDateTime: 2024-03-07T14:56:00Z
-    webUrl: "https://www.therobotreport.com/reshape-automation-aims-to-reduce-barriers-of-robotics-adoption/"
+    quality: 47
+  - title: "Preventing the weaponization of AI-designed proteins"
+    excerpt: "A new online marketplace called aRukon is set to launch globally this year to help researchers sell unused animal samples to other labs. The idea is to potentially reduce waste, save money, and prevent the unnecessary death of animals."
+    publishedDateTime: 2024-03-11T12:51:00Z
+    webUrl: "https://www.statnews.com/2024/03/11/biotech-news-amylyx-alumis-lundbeck-als-psoriasis-arukon-msa-relyvrio/"
     type: article
     provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 79
-  - title: "Human Creativity in the Age of Artificial Intelligence"
-    excerpt: "In 2015, my friend, Jim Clark, invited me to attend what was then a groundbreaking conversation at the World Summit on Technological Unemployment, hosted at the TIME magazine Conference Center. Jim laid it out pretty clearly: the tech revolution was set to ..."
-    publishedDateTime: 2024-03-11T02:11:00Z
-    webUrl: "https://www.rollingstone.com/culture-council/articles/human-creativity-the-age-of-artificial-intelligence-1234983648/"
-    ampWebUrl: "https://www.rollingstone.com/culture-council/articles/human-creativity-the-age-of-artificial-intelligence-1234983648/amp/"
-    cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/culture-council/articles/human-creativity-the-age-of-artificial-intelligence-1234983648/amp/"
+      name: STAT
+      domain: statnews.com
+    quality: 19
+  - title: "Could AI-designed proteins be weaponized? Scientists lay out safety guidelines"
+    excerpt: "AI tools that can come up with protein structures at the push of a button should be used safely and ethically, say researchers in the field."
+    publishedDateTime: 2024-03-08T00:00:00Z
+    webUrl: "https://www.nature.com/articles/d41586-024-00699-0"
     type: article
     provider:
-      name: Rolling Stone
-      domain: rollingstone.com
-    quality: 57
-    images:
-      - url: "https://www.rollingstone.com/wp-content/uploads/2024/03/human_creativity_in_the_age_of_artificial_intelligence-.jpg?w=1600&h=900&crop=1"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Art, artificial intelligence and the law"
-    excerpt: "As artificial intelligence (AI) makes rapid strides and art generated by using AI becomes more and more sophisticated, the legal regimen might need to be updated sooner than was previously assessed, argues ."
-    publishedDateTime: 2024-03-07T10:21:00Z
-    webUrl: "https://theleaflet.in/art-artificial-intelligence-and-the-law/"
-    type: article
-    provider:
-      name: theleaflet
-      domain: theleaflet.in
-    quality: 39
-    images:
-      - url: "https://theleaflet.in/wp-content/uploads/2024/03/AI-scaled.jpg"
-        width: 1200
-        height: 586
-        isCached: true
-  - title: "AI Bias In the Spotlight On International Women’s Day"
-    excerpt: "What impact does AI bias have on women and girls? What can people do to increase female participation in the AI field? These are some of the questions the"
-    publishedDateTime: 2024-03-08T16:00:00Z
-    webUrl: "https://www.datanami.com/2024/03/08/ai-bias-in-the-spotlight-on-international-womens-day/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2024/03/break_the_bias_shutterstock_NStafeeva.jpg"
-        width: 1000
-        height: 513
-        isCached: true
-  - title: "Spectral AI Announces Intellectual Property Subsidiary to Focus on the Broader AI Healthcare Ecosystem"
-    excerpt: "Spectral AI remains committed to advancing AI-driven solutions in healthcare, including opportunities and strategic developments fostered by its new subsidiary."
-    publishedDateTime: 2024-03-07T13:27:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/03/07/9974571.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 18
+      name: Nature
+      domain: nature.com
+    quality: 13
 
 secured: "WLbSo1I04TWtnEgKeYTAcqE3JakOMbHRu7echcW5us4AAn6o29/zjwPYobFbh6xtVN84NgHEakhe3oNmI+4GD2RIrH9WIV5FS5F6l5uzNsFSnXNKejCopmd+VHkvCtl7VsxooVIOzRDfc3kcKUuKVdLKZoFB5tJQUvUnDqkwZxTN5XE/n/YaMNL+MlC5JPgtkYFBS6JcCqIeCx0gWMiQDJQBRuaLBLkdFA4Qqj8KQq9o4ZfTnbM70S9JUyZG77Vk5pRk4xFENN40GgDqNDvGNTjPfdji5cXKNgOEsJ3iP5IhuJh1BMy0u9pE8lfcBB1IvmMAer54wsJP7K7tZzNYlRXZNOpm+HbtbCrnVaJOfNY=;cGNygCzOy0kpXo+delYlhA=="
 ---

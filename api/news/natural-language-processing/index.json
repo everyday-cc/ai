@@ -196,55 +196,6 @@
       ]
     },
     {
-      "path": "_news/2024-03-11-how-to-choose-an-ai-as-a-service-provider.md",
-      "title": "How to choose an AI-as-a-service provider",
-      "excerpt": "AIaaS can help you jumpstart your AI projects, but there are some details you need to know. Here’s what to look for and five leading options to consider.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.html",
-      "originalUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2024/02/dinging-service-bell-in-robot-hand-by-andrey-popov-via-shutterstock-100961475-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html",
-      "publishedDateTime": "2024-03-11T03:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AWS AI",
-        "Natural Language Processing",
-        "Microsoft AI",
-        "Machine Learning",
-        "IBM AI",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_news/2024-03-11-5-ai-predictions-for-the-year-2030.md",
       "title": "5 AI Predictions For The Year 2030",
       "excerpt": "Agents are AI systems that can complete loosely defined tasks: say, planning and booking your upcoming trip. AGI refers to an artificial intelligence system that meets or exceeds human capabilities on every dimension. When people envision the state of AI in 2030, agents and/or AGI are often front and center.",
@@ -299,50 +250,6 @@
       ]
     },
     {
-      "path": "_news/2024-03-10-chatgpt-vs-claude-3-test-can-anthropic-beat-openais-superstar.md",
-      "title": "ChatGPT vs Claude 3 Test: Can Anthropic Beat OpenAI’s Superstar?",
-      "excerpt": "Claude 3 is one of ChatGPT's most capable competitors. But how do they compare when asked the same questions? Find out here.",
-      "sourceUrl": null,
-      "webUrl": "https://tech.co/news/chatgpt-vs-claude-3",
-      "originalUrl": "https://tech.co/news/chatgpt-vs-claude-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.tech.co/wp-content/uploads/2024/03/08060744/AdobeStock_606145791_Editorial_Use_Only-1-min-1.jpeg",
-          "width": 1920,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-10T11:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tech.co",
-        "domain": "tech.co",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2024-03-09-best-ai-tools-to-enhance-your-social-media-account.md",
       "title": "Best AI Tools To Enhance Your Social Media Account",
       "excerpt": "These artificial intelligence (AI) solutions enable organizations to prosper in the digital sphere by using technology such as computer vision, machine learning algorithms, natural language processing (NLP), and natural language creation. It is thus ...",
@@ -351,7 +258,7 @@
       "originalUrl": "https://www.mid-day.com/brand-media/article/best-ai-tools-to-enhance-your-social-media-account-23339125",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -394,7 +301,7 @@
       "originalUrl": "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1409,6 +1316,110 @@
       "topics": [
         "Natural Language Processing",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-ai21-labs-outperforms-generic-llms-with-task-specific-models.md",
+      "title": "AI21 Labs Outperforms Generic LLMs With Task-Specific Models",
+      "excerpt": "AI21 Labs distinguishes itself in the competitive large language model landscape with its emphasis on specialized, task-specific models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2024/02/23/ai21-labs-outperforms-generic-llms-with-task-specific-models/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2024/02/23/ai21-labs-outperforms-generic-llms-with-task-specific-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d881b1dd8fa05a2f54b1b3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2024/02/23/ai21-labs-outperforms-generic-llms-with-task-specific-models/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2024/02/23/ai21-labs-outperforms-generic-llms-with-task-specific-models/amp/",
+      "publishedDateTime": "2024-02-23T11:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-revolutionizing-business-decision-making-the-impact-of-generative-ai-on-predictive-analytics.md",
+      "title": "Revolutionizing Business Decision-Making: The Impact Of Generative AI On Predictive Analytics",
+      "excerpt": "When approached strategically, generative AI can help empower employees across functions and domains to leverage the insights provided by predictive analytics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/23/revolutionizing-business-decision-making-the-impact-of-generative-ai-on-predictive-analytics/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/23/revolutionizing-business-decision-making-the-impact-of-generative-ai-on-predictive-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61a4de65ba77a906d470c192/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1349,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/23/revolutionizing-business-decision-making-the-impact-of-generative-ai-on-predictive-analytics/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/23/revolutionizing-business-decision-making-the-impact-of-generative-ai-on-predictive-analytics/amp/",
+      "publishedDateTime": "2024-02-23T10:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
       ]
     }
   ],

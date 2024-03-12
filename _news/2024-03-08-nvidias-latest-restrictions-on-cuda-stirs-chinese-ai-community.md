@@ -25,91 +25,66 @@ images:
     isCached: true
 
 related:
-  - title: "Ex-Google engineer charged with theft of AI tech for Chinese firms"
-    excerpt: "The stolen trade secrets were critical to Google’s AI prowess, involving the specialized hardware and software that power the company’s supercomputing centers."
-    publishedDateTime: 2024-03-07T10:31:00Z
-    webUrl: "https://www.csoonline.com/article/1312173/ex-google-engineer-charged-with-theft-of-ai-tech-for-chinese-firms.html"
-    ampWebUrl: "https://www.csoonline.com/article/1312173/ex-google-engineer-charged-with-theft-of-ai-tech-for-chinese-firms.html/amp/"
-    cdnAmpWebUrl: "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/1312173/ex-google-engineer-charged-with-theft-of-ai-tech-for-chinese-firms.html/amp/"
+  - title: "Nvidia’s AI chips can't be beaten, even if they're free"
+    excerpt: "Jensen Huang gets overenthusiastic. Nvidia boss Jensen Huang has boasted that his firm's chips are \"so good that even when the competitor's chips are free, it's not cheap enough.\" At the 2024 SIEPR Economic Summit,"
+    publishedDateTime: 2024-03-11T10:08:00Z
+    webUrl: "https://www.fudzilla.com/news/graphics/58608-nvidia-s-ai-chips-can-t-be-beaten-even-if-they-re-free"
     type: article
     provider:
-      name: CSOonline
-      domain: csoonline.com
-    quality: 59
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
     images:
-      - url: "https://www.csoonline.com/wp-content/uploads/2024/03/hacker-laptop-digits-computer-screen-cyber-crime-cyber-crime-theft-money-digital-100937829-orig-100947552-orig.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 682
+      - url: "https://www.fudzilla.com/media/k2/items/cache/21201184c08d1eb3d16765121aeb3d18_L.jpg"
+        width: 620
+        height: 465
         isCached: true
-  - title: "Google Engineer Steals AI Trade Secrets for Chinese Companies"
-    excerpt: "a China-based company focused on developing a CMS that promised to accelerate ML workloads and speed up AI model training. Shortly thereafter, Ding, acting as CEO of his startup, applied for and got acceptance to a China-based incubation program for high ..."
-    publishedDateTime: 2024-03-08T00:00:00Z
-    webUrl: "https://www.darkreading.com/insider-threats/google-engineer-steals-ai-trade-secrets-chinese-companies"
+  - title: "Nvidia: We Were Right About Data Center And AI"
+    excerpt: "Nvidia Corporation's commitment to innovation in the data center drives strong revenue growth, surpassing competitors. Find out why NVDA stock is a Strong Buy."
+    publishedDateTime: 2024-03-11T19:24:00Z
+    webUrl: "https://seekingalpha.com/article/4677414-nvidia-we-were-right-about-data-center-and-ai"
     type: article
     provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 39
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 41
     images:
-      - url: "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt896917cb42a083dc/65eb7998e12481040a898328/tradesecret_kenary820_shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop"
-        width: 1000
-        height: 525
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1494623399/image_1494623399.jpg?io=getty-c-w1536"
+        width: 1536
+        height: 1034
         isCached: true
-  - title: "Ex-Google Engineer Charged With Stealing AI trade Secrets for Chinese Companies"
-    excerpt: "A former software engineer at Google has been charged with stealing artificial intelligence trade secrets from the company while secretly working with two companies based in China, the Justice Department said Wednesday."
-    publishedDateTime: 2024-03-07T17:32:00Z
-    webUrl: "https://www.inc.com/associated-press/ex-google-engineer-charged-with-stealing-ai-trade-secrets-for-chinese-companies.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 33
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/google-ai-1240718346_538223_shl4pt.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Former Google engineer charged with stealing AI trade secrets for Chinese startups"
-    excerpt: "as well as those chips’ software. Other records contained data about the graphics cards in the company’s AI infrastructure. Ding was also charged with stealing information about Google’s cluster management system. That’s a software platform ..."
-    publishedDateTime: 2024-03-07T22:44:00Z
-    webUrl: "https://siliconangle.com/2024/03/07/former-google-engineer-charged-stealing-ai-trade-secrets-chinese-startups/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 33
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/03/IMG_3819-800x533-1.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Former Google engineer charged with stealing AI trade secrets"
-    excerpt: "which are designed to support machine learning workloads used to train and host large AI models.\" The stolen proprietary information included chip architecture as well as the software design specifications for “tensor processing units\" and \"graphics ..."
-    publishedDateTime: 2024-03-07T16:10:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2024/03/07/former-google-engineer-charged-stealing-secrets.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
-  - title: "Google engineer faces 10 years in prison for stealing AI secrets for China"
-    excerpt: "A former Google engineer has been accused of stealing 500 confidential files that contain trademark secrets about AI to give to China."
-    publishedDateTime: 2024-03-07T14:30:00Z
-    webUrl: "https://www.tweaktown.com/news/96703/google-engineer-faces-10-years-in-prison-for-stealing-ai-secrets-china/index.html"
+  - title: "NVIDIA CEO Jensen Huang says next-gen DGX AI system will be liquid cooled"
+    excerpt: "NVIDIA CEO Jensen Huang confirms next-gen DGX AI system will be liquid-cooled, off the back that Dell confirmed B200 will use up to 1000W of power."
+    publishedDateTime: 2024-03-10T23:39:00Z
+    webUrl: "https://www.tweaktown.com/news/96744/nvidia-ceo-jensen-huang-says-next-gen-dgx-ai-system-will-be-liquid-cooled/index.html"
     type: article
     provider:
       name: TweakTown
       domain: tweaktown.com
-    quality: 17
-  - title: "Google Engineer Allegedly Stole AI Secrets Then Became CEO Of A Chinese Startup: Here’s How"
-    excerpt: "In October 2022, he allegedly traveled to China where he was soon named chief technology officer for an AI startup in the country. By May 2023, Ding even conducted an investor meeting to try to raise capital for the new company he founded and named himself ..."
-    publishedDateTime: 2024-03-07T18:22:00Z
-    webUrl: "https://www.crn.com/news/cloud/2024/google-engineer-allegedly-stole-ai-secrets-then-became-ceo-of-a-chinese-startup-here-s-how"
+    quality: 38
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96744_908_nvidia-ceo-jensen-huang-says-next-gen-dgx-ai-system-will-be-liquid-cooled_full.jpg"
+        width: 1500
+        height: 857
+        isCached: true
+  - title: "Nvidia and 7 Other Semiconductor Stocks That Can Benefit From Artificial Intelligence (AI) Robots"
+    excerpt: "In today's video, I discuss Nvidia (NASDAQ: NVDA) and other semiconductor companies that provide solutions for the robotics market. Check out the short video to learn more, consider subscribing, and click the special offer link below. *Stock prices used ..."
+    publishedDateTime: 2024-03-09T10:00:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/QCOM-Q/pressreleases/24585796/nvidia-and-7-other-semiconductor-stocks-that-can-benefit-from-artificial-intelligence-ai-robots/"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 7
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 36
+  - title: "Nvidia CEO Jensen Huang Thinks Even Free AI Chips From Rivals Are 'Not Cheap Enough' Compared To Its GPUs"
+    excerpt: "Nvidia CEO Jensen Huang believes the company’s AI technology is so advanced, chips from rivals would prove costly even for free. Huang also believes despite Nvidia’s dominance, it faces the most competition compared to “anyone on the planet.”"
+    publishedDateTime: 2024-03-11T09:45:00Z
+    webUrl: "https://www.benzinga.com/markets/equities/24/03/37586814/nvidia-ceo-jensen-huang-thinks-even-free-ai-chips-from-rivals-are-not-cheap-enough-compared-to-i"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 32
 
 secured: "k0O3sH6vz7yxe0puJfJLRGbdeT6yU6yfRX00H8lzLUK9ErDzYdj1KnVtc6z9+FuQ0DdQ7shQ05w9GaZcdgM/lcJMcREcM6445SsI0o41Jhr0X9KSAx45HZOHA4s0MMErTEVoKqmkonl8WrSu3ow31tlAr9XProvPR7PH3weEz0/V1u9OJtqfVnAXyqc712dFQm2EtbSARJAcb0h5ECYvST8hPoVio7VZaOsAgYDc52vxwXnlnDVSRAzOWfwl446DNiZkQ56Za4s5NCKeaAsCxcUd5d/JFloJJWPUO2JYCz4z7j/OgjK7y0dCBk/MnWN94JdEtsakJLMq3Rx2m/xPD/KJNTKgyymvKRAlNQS9h6zmm62oCw0Dpmzhu8RIGURGpgH9i2+V5EovSuTashIx4rCE5XUAKubg6FitQBKX0FRLAvZ1EfDt70f2aHeUh+R1QDLTdguD5oBCGygqE04AOgv7aSR4jzpLIFHkzBvcQbOHLcgiIqegf+YiHNdWSCkqt7HztO5hRogdbbsK+kZcTQ==;CO/hVCsCVTPlMDkPhOsAqA=="
 ---

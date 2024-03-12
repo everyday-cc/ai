@@ -33,20 +33,6 @@ related:
         width: 620
         height: 465
         isCached: true
-  - title: "What exactly is NVIDIA's AI specialized GPU? Is it different from a gaming GPU?"
-    excerpt: "As AI research and development progresses rapidly, NVIDIA, which develops 'GPU for AI', is also attracting a lot of attention. However, even though we know that GPUs are used for AI research ..."
-    publishedDateTime: 2024-03-07T12:01:00Z
-    webUrl: "https://gigazine.net/gsc_news/en/20240307-nvidia-ai-gpu"
-    type: article
-    provider:
-      name: GIGAZINE
-      domain: gigazine.net
-    quality: 50
-    images:
-      - url: "https://i.gzn.jp/img/2024/03/07/nvidia-ai-gpu/00.png"
-        width: 560
-        height: 315
-        isCached: true
   - title: "Nvidia: We Were Right About Data Center And AI"
     excerpt: "Nvidia Corporation's commitment to innovation in the data center drives strong revenue growth, surpassing competitors. Find out why NVDA stock is a Strong Buy."
     publishedDateTime: 2024-03-11T19:24:00Z
@@ -60,6 +46,20 @@ related:
       - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1494623399/image_1494623399.jpg?io=getty-c-w1536"
         width: 1536
         height: 1034
+        isCached: true
+  - title: "Nvidia's latest restrictions on CUDA stirs Chinese AI community"
+    excerpt: "Nvidia has taken further actions targeting the Chinese market to maintain its dominance in the GPU market, attempting to block third-party GPU companies from seamlessly using CUDA software. This move has sparked significant controversy and discussions within the Chinese artificial intelligence (AI) and chip communities."
+    publishedDateTime: 2024-03-08T03:28:00Z
+    webUrl: "https://www.digitimes.com/news/a20240308PD212/nvidia-cuda-china-ai.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 39
+    images:
+      - url: "https://img.digitimes.com/newsshow/20240308pd212_files/2_b.jpg"
+        width: 640
+        height: 427
         isCached: true
   - title: "NVIDIA CEO Jensen Huang says next-gen DGX AI system will be liquid cooled"
     excerpt: "NVIDIA CEO Jensen Huang confirms next-gen DGX AI system will be liquid-cooled, off the back that Dell confirmed B200 will use up to 1000W of power."

@@ -67,17 +67,6 @@ related:
         width: 500
         height: 250
         isCached: true
-  - title: "India’s AI leap: bridging the gap"
-    excerpt: "The just announced National Mission on AI ensures that all the necessary building blocks needed by India to shape the future of AI for India and the world are in place."
-    publishedDateTime: 2024-03-11T07:20:00Z
-    webUrl: "https://www.livemint.com/ai/indias-ai-leap-bridging-the-gap-11710140690633.html"
-    ampWebUrl: "https://www.livemint.com/ai/indias-ai-leap-bridging-the-gap/amp-11710140690633.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/indias-ai-leap-bridging-the-gap/amp-11710140690633.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 39
 
 secured: "x3TnTqexDcE3soVkcFo/jN0NxII9mrX7DY13q8j4zPyShiyN4Zb0tdZDxlKR7UHjxQyZVVEV9anm6yIhE8SzevDEuw56jmIlhzsAqkPtNTqB0bQnrVv20R0SmtQc+nTANQik9X/+guHo9gCyKK68x0tJS+W+HHdrhVBewhk71aGuTZF2OAsD1fIo7QQIkWjqNR3fsclTYbZOQ0lfbZ4FmJRAw3TaweF4RsBjb93A0MHXxT0/FI2BJiMfPz0+uxizTVu2sdBanqzsXTAx0zM7I/WQGiGoubqQ9Doe89/kCAKgpNNSR0eGYzsq7106ma/JMPR4lfSClDyHNWZk9hu/YVX6GbMG/FCjbcRTyyn9SJ0HKqtM1w6yCApUL6MC+3SN2RZ1h7r9uWDtGedXiWRThSAmFeSh/TQNDVXtCz8k3ykY5UnBFNvScPsrlpm8+S1voTYt8/hNuEQgS4vVz1xuzd4CpgMifCVlbrx5xvIoWZhqYtu+SQ6WI8Z52K5pLS9W4umD1AgQZh6Y+bsIynFRsQ==;tOUvRRdGYPYaeEoS4GS/aw=="
 ---

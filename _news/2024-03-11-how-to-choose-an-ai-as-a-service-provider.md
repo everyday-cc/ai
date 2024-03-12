@@ -9,8 +9,8 @@ ampWebUrl: "https://www.computerworld.com/article/3713041/aiaas-artificial-intel
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html"
 type: article
 quality: 71
-heat: 121
-published: true
+heat: -1
+published: false
 
 provider:
   name: Computerworld
@@ -33,73 +33,115 @@ images:
     isCached: true
 
 related:
-  - title: "Profile Software Introduces AI.Adaptive to Enhance Digital Services"
-    excerpt: "Profile Software launches its new “AI.Adaptive” solution, which simplifies user interaction into natural language with databases and applications."
-    publishedDateTime: 2024-03-10T01:29:00Z
-    webUrl: "https://www.crowdfundinsider.com/2024/03/222437-profile-software-introduces-ai-adaptive-to-enhance-digital-services/"
+  - title: "Inflection's Pi AI aims to provide information and a shoulder to cry on"
+    excerpt: "Designed to be empathetic, helpful, and safe, Pi also boasts improved skills in such areas as coding, math, and real-time results via the latest flavor of its large language model."
+    publishedDateTime: 2024-03-07T13:49:00Z
+    webUrl: "https://www.zdnet.com/article/inflections-pi-ai-aims-to-provide-information-and-a-shoulder-to-cry-on/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/inflections-pi-ai-aims-to-provide-information-and-a-shoulder-to-cry-on/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/inflections-pi-ai-aims-to-provide-information-and-a-shoulder-to-cry-on/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 41
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/01/Zoom-Warp-Speed-Blast-Artificial-Intelligence.jpeg"
-        width: 1280
-        height: 1139
-        isCached: true
-  - title: "Intelligence service: how schools are managing AI"
-    excerpt: "Artificial intelligence is everywhere. Since ChatGPT launched in November 2022, it seems a day hasn't gone by without a shouty headline about robots taking over our jobs and schools. While much of the press has been predictably negative with lurid stories ..."
-    publishedDateTime: 2024-03-08T00:00:00Z
-    webUrl: "https://theweek.com/education/ai-in-schools-machine-learning"
-    type: article
-    provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 39
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/jKrZd6NChLayZULiivHRj4-1200-80.jpg"
+      - url: "https://www.zdnet.com/a/img/resize/646e8a0b656f649933bc681ad1d64f1700260d22/2024/03/07/032e98aa-541d-4e9a-8343-5bed40f840b7/gettyimages-1317415735.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Local tech company brings AI to TCC's career services program"
-    excerpt: "He said a lot of WriteSea's research shows that many job seekers don't know what they excel at, so this AI will act as a coach and guide them to well-matched opportunities."
-    publishedDateTime: 2024-03-11T18:07:00Z
-    webUrl: "https://www.kjrh.com/news/local-news/local-tech-company-brings-ai-to-tccs-career-services-program"
+  - title: "‘Inflexion point’: AI meme wars hit India election, test social platforms"
+    excerpt: "(Some clips were cross-posted on YouTube and Facebook, as well.) Meta’s current rules require ... “We have run the two samples through several proprietary state-of-the-art research AI-voice detection algorithms [and found that] the voice sample is ..."
+    publishedDateTime: 2024-03-08T00:00:00Z
+    webUrl: "https://www.aljazeera.com/economy/2024/3/8/ai-meme-wars-hit-india-election-campaign-testing-social-platforms?traffic_"
+    ampWebUrl: "https://www.aljazeera.com/amp/economy/2024/3/8/ai-meme-wars-hit-india-election-campaign-testing-social-platforms"
+    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/economy/2024/3/8/ai-meme-wars-hit-india-election-campaign-testing-social-platforms"
     type: article
     provider:
-      name: kjrh.com
-      domain: kjrh.com
-    quality: 39
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 58
     images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/997e81f/2147483647/strip/true/crop/1674x879+0+33/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fa6%2F69%2Fc2beb16442cdaaa38fc32738afd2%2Fscreenshot-2024-03-11-at-6-00-17-pm.png"
-        width: 1200
-        height: 630
+      - url: "https://www.aljazeera.com/wp-content/uploads/2024/03/AP24067397198855-1709872280.jpg?resize=1920%2C1440"
+        width: 1920
+        height: 1440
         isCached: true
-  - title: "Enterprise hits and misses - are privacy regulations and distrust slowing innovation, and is gen AI set to disrupt IT services?"
-    excerpt: "This week - data privacy comes into focus as the data breaches roll on (this time, it's United Healthcare). Will gen AI disrupt IT services? Or is the coding impact overrated? As always, your weekly whiffs."
-    publishedDateTime: 2024-03-11T08:42:00Z
-    webUrl: "https://diginomica.com/enterprise-hits-and-misses-are-privacy-regulations-and-distrust-slowing-innovation-and-gen-ai-set"
-    ampWebUrl: "https://diginomica.com/enterprise-hits-and-misses-are-privacy-regulations-and-distrust-slowing-innovation-and-gen-ai-set?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/enterprise-hits-and-misses-are-privacy-regulations-and-distrust-slowing-innovation-and-gen-ai-set?amp"
+  - title: "Regulate Frontier AI to Avoid Misinformation"
+    excerpt: "There is no progress without public trust in artificial intelligence."
+    publishedDateTime: 2024-03-08T14:52:00Z
+    webUrl: "https://www.wsj.com/articles/regulate-frontier-ai-to-avoid-misinformation-tech-public-trust-486e8bdc"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 33
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 47
+  - title: "Generative AI Is A Game Changer For Talent Transformation"
+    excerpt: "One of generative AI's most significant implications is giving talent management professionals the ability to communicate information to executives and their board of directors. It helps leadership look around corners, rather than just in the rearview mirror, when shaping strategy or making decisions."
+    publishedDateTime: 2024-03-11T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/03/11/generative-ai-is-a-game-changer-for-talent-transformation/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "Oregon passes its first bills on artificial intelligence regulations"
+    excerpt: "Oregon lawmakers passed the first two bills in state history that regulate the use of artificial intelligence."
+    publishedDateTime: 2024-03-08T01:20:00Z
+    webUrl: "https://www.kgw.com/article/news/politics/first-oregon-bills-regulating-ai-head-governor/283-9da2dee5-a711-457e-afad-cf9d81e82513"
+    type: article
+    provider:
+      name: KGW8
+      domain: kgw.com
+    quality: 37
     images:
-      - url: "https://diginomica.com/sites/default/files/images/2013-06/forkinroad.jpg"
-        width: 424
-        height: 283
+      - url: "https://media.kgw.com/assets/KGW/images/e34046b0-8c85-4cf6-a2af-3ddbdf3e89fd/e34046b0-8c85-4cf6-a2af-3ddbdf3e89fd_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
-  - title: "Which Role Prepares You Best to Lead a Language Service Provider?"
-    excerpt: "March marches on, and with it, the end of the first quarter of 2024 gets closer. As the Language Service Provider Index (LSPI) reveals, there are indications of stability … for some companies. The Super Agencies managed to grow a bit."
+  - title: "Six AI Applications to Transform Your Clinical Operations"
+    excerpt: "Dr. Harvey Castro shares how large language models and machine learning are revolutionizing the way we communicate with the health system."
     publishedDateTime: 2024-03-07T15:00:00Z
-    webUrl: "https://slator.com/which-role-prepares-you-best-to-lead-a-language-service-provider/"
+    webUrl: "https://www.dmagazine.com/healthcare-business/2024/03/six-ai-applications-to-transform-your-clinical-operations/"
     type: article
     provider:
-      name: Slator
-      domain: slator.com
-    quality: 4
+      name: D Magazine
+      domain: dmagazine.com
+    quality: 19
+  - title: "How HP Was Able to Leapfrog Other PC/Workstation OEMs to Launch its AI Solution"
+    excerpt: "HP stunned the market with the most powerful line of AI-enabled PCs and workstations yet to be created, catching the other OEMs, which have"
+    publishedDateTime: 2024-03-11T17:43:00Z
+    webUrl: "https://www.datanami.com/2024/03/11/how-hp-was-able-to-leapfrog-other-pc-workstation-oems-to-launch-its-ai-solution/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 15
+  - title: "Technology Modernization Fund Seeking Proposals for Artificial Intelligence Projects"
+    excerpt: "The Technology Modernization Fund (TMF) today announced a call for project proposals to help federal agencies implement President Biden’s Executive Order on the safe, secure, and trustworthy development and use of Artificial Intelligence (AI) in the federal government."
+    publishedDateTime: 2024-03-11T14:06:00Z
+    webUrl: "https://www.hstoday.us/subject-matter-areas/ai-and-advanced-tech/technology-modernization-fund-seeking-proposals-for-artificial-intelligence-projects/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 10
+  - title: "AI images of Trump with Black voters are just the latest in racist election misinformation"
+    excerpt: "Trump’s supporters have also begun courting this group by making dozens of artificial intelligence (AI) generated images of him surrounded by adoring Black people. Though some of the realistic-looking images contain the tell-tale signs of oddly rendered hands (showing missing,"
+    publishedDateTime: 2024-03-08T13:07:00Z
+    webUrl: "https://www.lgbtqnation.com/2024/03/ai-images-of-trump-with-black-voters-are-just-the-latest-in-racist-election-misinformation/"
+    type: article
+    provider:
+      name: LGBTQ Nation
+      domain: lgbtqnation.com
+    quality: 9
+  - title: "Biden administration requests $3B for federal AI application development, procurement and integration in 2025 budget"
+    excerpt: "The President’s budget looks to fund the National AI Research Resource pilot, agencies’ establishment of Chief AI Officers, the AI talent surge and more AI development across agencies."
+    publishedDateTime: 2024-03-11T19:28:00Z
+    webUrl: "https://fedscoop.com/biden-administration-requests-3b-for-federal-ai-application-development-procurement-and-integration-in-2025-budget/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 0
 
 secured: "HV2TUPGpslok+aw/EO3iVTOpKmRR0a8P158MBZt5aAXxis/uktRwgWfj/mady63TyIXFIauNprawl7th834YN/WW9+YWIOuFor7HHcf00ViFGG45gHC9/qV5Stj9mnuZNyeE9pSI5ckBq53XTD9lTztrf1ha72+Ypg+biQ7SYn84zNLdmerx9zeI4YYV5jC/2ECAj9rLoDj7sLCsQ/tGeTUG/r/nLlGyOQ32/YsIiMLsMIn6trP7UuDnHzu2of0CooCp+b34pdELe/aSbzMpuZM9RzApcZn7bhM1xUcJcFzwSrvDKsxPbC8u50zyMJr2pd427O0sv7Ja8FJMPPBXuVlJovbAYqnGUMmmmgJRubPEBgDtIVdQ8EV1fBc+mPC9ouqXbF4G51GMcD+RLZPvrPLMawcNc1fqXdYTcak+YLX/JLngStc5ww79weWPujsGuMgu1it8d28wgU2G+/020zwi6aIwXAVmyQbgW3KOfIF01VXIhdRaJZeV1dpa/rOnveKk+F83iXksvmEoTaktHw==;YPckzqig7DUX4AHA/Vy74A=="
 ---

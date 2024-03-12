@@ -38,6 +38,22 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Artificial Intelligence In Cancer Detection: How Is AI Contributing To The Diagnostic Industry and Impacting Early Detection?"
+    excerpt: "\"Artificial Intelligence (AI) is drastically changing the diagnostic industry, especially in the domain of early cancer detection\", says Mr. Hariharan Subramanian, the Managing Director of Siemens Healthcare Private Limited."
+    publishedDateTime: 2024-03-12T10:05:00Z
+    webUrl: "https://www.thehealthsite.com/diseases-conditions/artificial-intelligence-in-cancer-detection-how-is-ai-contributing-to-the-diagnostic-industry-and-impacting-early-detection-1071193/"
+    ampWebUrl: "https://www.thehealthsite.com/diseases-conditions/artificial-intelligence-in-cancer-detection-how-is-ai-contributing-to-the-diagnostic-industry-and-impacting-early-detection-1071193/amp/"
+    cdnAmpWebUrl: "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/diseases-conditions/artificial-intelligence-in-cancer-detection-how-is-ai-contributing-to-the-diagnostic-industry-and-impacting-early-detection-1071193/amp/"
+    type: article
+    provider:
+      name: TheHealthSite
+      domain: thehealthsite.com
+    quality: 47
+    images:
+      - url: "https://st1.thehealthsite.com/wp-content/uploads/2024/03/neurological-doctor-cheking-eeg-headset-explaining-patient-diagnosis-disease-treatment-nervous-system-scientist-researcher-analysing-brain-scan-tomography-monitor-lab.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Innovations in Travel: How AI Technologies are Shaping Future Tourism Trends"
     excerpt: "Explore how AI is revolutionizing travel with personalized experiences and streamlined operations, as showcased at ITB Berlin."
     publishedDateTime: 2024-03-08T14:14:00Z

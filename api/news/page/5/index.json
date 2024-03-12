@@ -2,6 +2,428 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-03-07-sahm-capital-showcases-latest-fintech-and-ai-solutions-at-leap-2024.md",
+      "title": "Sahm Capital Showcases Latest Fintech And AI Solutions At LEAP 2024",
+      "excerpt": "data-text=\"Sahm Capital Showcases latest Fintech and AI Solutions at LEAP 2024\" data-link=\" Capital Showcases latest Fintech and AI Solutions at LEAP 2024\" class ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1107948386/Sahm-Capital-Showcases-Latest-Fintech-And-AI-Solutions-At-LEAP-2024",
+      "originalUrl": "https://menafn.com/1107948386/Sahm-Capital-Showcases-Latest-Fintech-And-AI-Solutions-At-LEAP-2024",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?123869",
+          "width": 375,
+          "height": 249,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-07T09:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-former-google-engineer-arrested-for-alleged-theft-of-ai-trade-secrets-for-chinese-firms.md",
+      "title": "Former Google engineer arrested for alleged theft of AI trade secrets for Chinese firms",
+      "excerpt": "The trade secrets Ding allegedly copied contained \"detailed information about the architecture and functionality of GPU and TPU chips and systems ... at the cutting edge of machine learning and AI technology,\" according to the indictment.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/tech-policy/2024/03/former-google-engineer-arrested-for-alleged-theft-of-ai-trade-secrets-for-chinese-firms/",
+      "originalUrl": "https://arstechnica.com/tech-policy/2024/03/former-google-engineer-arrested-for-alleged-theft-of-ai-trade-secrets-for-chinese-firms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/google_datacenter_1-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-07T08:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-elon-musk-sues-open-ai-and-co-founder-over-alleged-switch-to-for-profit.md",
+      "title": "Elon Musk sues Open AI and co-founder over alleged switch to for-profit",
+      "excerpt": "Elon Musk has sued the non-profit Open AI and it's co-founder Sam Altman over the company allegedly moving to a for-profit company. Open AI responded to the claims by releasing e-mails between the company and Musk.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/now/video/elon-musk-sues-open-ai-and-co-founder-over-alleged-switch-to-for-profit-205623365638",
+      "originalUrl": "https://www.nbcnews.com/now/video/elon-musk-sues-open-ai-and-co-founder-over-alleged-switch-to-for-profit-205623365638",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2024_03/1709782067597_now_topstory_musk_open_ai_240306_1920x1080-na2ess.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo205623365638",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo205623365638",
+      "publishedDateTime": "2024-03-07T03:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-robot-ships-huge-remote-controlled-vessels-are-setting-sail.md",
+      "title": "Robot ships: Huge remote controlled vessels are setting sail",
+      "excerpt": "Marian Meza Chavira is learning to pilot underwater robots from a remote control centre Entering the ... Many questions spring to mind about remotely operated and autonomous shipping, just as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/science-environment-68486462.amp",
+      "originalUrl": "https://www.bbc.co.uk/news/science-environment-68486462.amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/C8AE/production/_132847315_oishipdrone2.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/science-environment-68486462.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/science-environment-68486462.amp",
+      "publishedDateTime": "2024-03-07T01:36:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-ai-watermarks-arent-just-easy-to-defeatthey-could-make-disinformation-worse.md",
+      "title": "AI watermarks aren’t just easy to defeat—they could make disinformation worse",
+      "excerpt": "Whose AI outrage matters? The recent controversy around Google Gemini ... I spoke with Gebru and Margaret Mitchell, her former Google counterpart who now works as a researcher and chief ethics scientist at Hugging Face, about this exact topic and their ...",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/2024/03/07/ai-watermarks-arent-just-easy-to-defeat-they-could-make-disinformation-worse/",
+      "originalUrl": "https://fortune.com/2024/03/07/ai-watermarks-arent-just-easy-to-defeat-they-could-make-disinformation-worse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.fortune.com/wp-content/uploads/2024/03/GettyImages-2035485482-e1709829839183.jpg?w=840",
+          "width": 840,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/2024/03/07/ai-watermarks-arent-just-easy-to-defeat-they-could-make-disinformation-worse/amp/",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2024/03/07/ai-watermarks-arent-just-easy-to-defeat-they-could-make-disinformation-worse/amp/",
+      "publishedDateTime": "2024-03-07T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-sahm-capital-showcases-latest-fintech-ai-solutions-at-leap.md",
+      "title": "Sahm Capital showcases latest fintech, AI solutions at LEAP",
+      "excerpt": "featuring an AI presenter named 'Aliyah', at LEAP 2024. The cirm also showcased its all-in-one comprehensive trading solutions at the four-day event. With focus on fintech innovation, the company provides comprehensive trading solutions, including the Sahm ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/business/fintech/sahm-capital-showcases-latest-fintech-ai-solutions-at-leap-k0i5s1lc",
+      "originalUrl": "https://www.zawya.com/en/business/fintech/sahm-capital-showcases-latest-fintech-ai-solutions-at-leap-k0i5s1lc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/view/acePublic/alias/contentid/NjgwY2Q3NjMtZTY2NC00/38/1463605211.jpeg?f=3%3A2",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/en/business/fintech/sahm-capital-showcases-latest-fintech-ai-solutions-at-leap-k0i5s1lc?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/fintech/sahm-capital-showcases-latest-fintech-ai-solutions-at-leap-k0i5s1lc?amp=1",
+      "publishedDateTime": "2024-03-07T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-scientists-develop-new-machine-learning-method-for-modeling-chemical-reactions.md",
+      "title": "Scientists develop new machine learning method for modeling chemical reactions",
+      "excerpt": "Researchers from Carnegie Mellon University and Los Alamos National Laboratory have used machine learning to create a model that can simulate reactive processes in a diverse set of organic materials and conditions. \"It's a tool that can be used to ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2024-03-scientists-machine-method-chemical-reactions.html",
+      "originalUrl": "https://phys.org/news/2024-03-scientists-machine-method-chemical-reactions.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2024/scientists-develop-new-2.jpg",
+          "width": 1759,
+          "height": 1659,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2024-03-scientists-machine-method-chemical-reactions.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2024-03-scientists-machine-method-chemical-reactions.amp",
+      "publishedDateTime": "2024-03-07T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-5-years-after-san-francisco-banned-face-recognition-voters-ask-for-more-surveillance.md",
+      "title": "5 Years After San Francisco Banned Face Recognition, Voters Ask for More Surveillance",
+      "excerpt": "On Tuesday the country’s techiest city backed a ballot proposition that tapped into concerns about crime, giving the police more freedom to use drones and other surveillance technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/san-francisco-banned-face-recognition-voters-ask-for-more-surveillance/",
+      "originalUrl": "https://www.wired.com/story/san-francisco-banned-face-recognition-voters-ask-for-more-surveillance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/65e8d5adf50e43ba3169369b/191:100/w_1280,c_limit/facialrecognition-SF_biz_GettyImages-1215395483.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T23:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-salesforce-unveils-low-code-ai-toolkit-for-crm.md",
+      "title": "Salesforce unveils low-code AI toolkit for CRM",
+      "excerpt": "Einstein 1 Studio allows Salesforce admins and developers to customize the Einstein Copilot conversational AI assistant and embed AI functionality into CRM apps.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3714260/salesforce-unveils-low-code-ai-toolkit-for-crm.html",
+      "originalUrl": "https://www.infoworld.com/article/3714260/salesforce-unveils-low-code-ai-toolkit-for-crm.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/12/01/17/salesforce-sign-100935102-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3714260/salesforce-unveils-low-code-ai-toolkit-for-crm.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3714260/salesforce-unveils-low-code-ai-toolkit-for-crm.amp.html",
+      "publishedDateTime": "2024-03-06T23:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2024-03-07-meta-is-building-a-giant-ai-model-to-power-its-entire-video-ecosystem-exec-says.md",
       "title": "Meta is building a giant AI model to power its 'entire video ecosystem,' exec says",
       "excerpt": "Tom Alison, the head of Facebook, said on Wednesday that the company is working on an artificial intelligence model to \"power our entire video ecosystem.\"",
@@ -774,422 +1196,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-06-ai-transforming-entrepreneurship-by-unleashing-innovation-and-redefining-marketing-strategies.md",
-      "title": "AI: Transforming Entrepreneurship By Unleashing Innovation And Redefining Marketing Strategies",
-      "excerpt": "AI paves the way for a revolution in entrepreneurship, offering up new possibilities for creative content like never before.United States -",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-transforming-entrepreneurship-by-unleashing-innovation-and-redefining-marketing-strategies-1033138486",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-transforming-entrepreneurship-by-unleashing-innovation-and-redefining-marketing-strategies-1033138486",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/mmstudio-images/gallery/WeraP7i62sgexGIFNwzD88Tp1ko2/1709624070292-0.jpg",
-          "width": 512,
-          "height": 341,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-06T15:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2024-03-06-ai-predicts-immunotherapy-risks-for-cancer-patients.md",
-      "title": "AI Predicts Immunotherapy Risks for Cancer Patients",
-      "excerpt": "Globally by 2050, the number of cancer cases globally is projected to increase by 77% to more than 35 million compared to 20 million in 2022 according to 2024 estimates by the Wor",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202403/ai-predicts-immunotherapy-risks-for-cancer-patients",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202403/ai-predicts-immunotherapy-risks-for-cancer-patients",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2024-03/pic15616.jpg?itok=-TlLNcIr",
-          "width": 320,
-          "height": 214,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/the-future-brain/202403/ai-predicts-immunotherapy-risks-for-cancer-patients?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202403/ai-predicts-immunotherapy-risks-for-cancer-patients?amp",
-      "publishedDateTime": "2024-03-06T15:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-06-ai-in-hospitality-elevating-the-hotel-guest-experience-through-innovation.md",
-      "title": "AI In Hospitality: Elevating The Hotel Guest Experience Through Innovation",
-      "excerpt": "In an industry where personalized experience is key, AI offers a myriad of opportunities to enhance guest satisfaction and streamline operations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/neilsahota/2024/03/06/ai-in-hospitality-elevating-the-hotel-guest-experience-through-innovation/",
-      "originalUrl": "https://www.forbes.com/sites/neilsahota/2024/03/06/ai-in-hospitality-elevating-the-hotel-guest-experience-through-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e6acbe7f26240238ff9c04/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-06T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-06-compass-uol-achieves-the-aws-generative-ai-competency.md",
-      "title": "Compass UOL Achieves the AWS Generative AI Competency",
-      "excerpt": "Achieving the AWS Generative AI Competency differentiates Compass UOL as an AWS Partner that has demonstrated technical proficiency and proven customer success in solving optimization and efficiency challenges in business processes and driving automation and intelligence across the entire customer operational journey.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2024/03/06/9974035.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2024/03/06/9974035.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.tmcnet.com/tmc/world.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-06T14:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-06-ai-tools-are-still-generating-misleading-election-images.md",
-      "title": "AI Tools Are Still Generating Misleading Election Images",
-      "excerpt": "Though AI companies said they put some guardrails in place, researchers were able to easily create images related to claims of election fraud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/genai-images-election-fraud/",
-      "originalUrl": "https://www.wired.com/story/genai-images-election-fraud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/65e5f048505aa2df678569bd/16:9/w_800%2Ch_450%2Cc_limit/undefined",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-06T14:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-06-ludwig-enterprises-inc-otcludg-announces-patent-filing-for-breakthrough-in-identifying-mrna-genes-associated-with-certain-cancers.md",
-      "title": "Ludwig Enterprises Inc. (OTC:LUDG) Announces Patent Filing for Breakthrough in Identifying mRNA Genes Associated with Certain Cancers",
-      "excerpt": "Epigenetics is the study of how a person’s behaviors and environment can cause changes that affect the way your genes work. Unlike genetic changes, epigenetic changes are reversible and do not change your DNA sequence, but they can change how your body reads a DNA sequence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2024/03/06/9973758.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2024/03/06/9973758.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.tmcnet.com/tmc/world.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-06T14:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-06-salesforce-launches-einstein-1-studio-low-code-ai-tools-for-customizing-einstein-copilot-and-embedding-ai-into-any-crm-app.md",
-      "title": "Salesforce Launches Einstein 1 Studio: Low-Code AI Tools for Customizing Einstein Copilot and Embedding AI into Any CRM App",
-      "excerpt": "Einstein 1 Studio includes Copilot Builder for creating custom AI actions to accomplish specific business tasks, Prompt Builder for building and activating custom prompts in the flow of work, and Model Builder,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2024/03/06/9973822.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2024/03/06/9973822.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.tmcnet.com/tmc/world.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-06T13:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2024-03-06-the-dark-side-of-open-source-ai-image-generators.md",
-      "title": "The Dark Side of Open Source AI Image Generators",
-      "excerpt": "Open source tools allow anyone to make AI art. They have also been used to produce nonconsensual deepfake porn.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/dark-side-open-source-ai-image-generators/",
-      "originalUrl": "https://www.wired.com/story/dark-side-open-source-ai-image-generators/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/65e278b5eb7679cff4f5d086/191:100/w_1280,c_limit/business_deepfake_porn_open_source_ai.jpg",
-          "width": 1280,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-06T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-03-06-us-prohibits-amds-ai-chip-sales-to-china.md",
-      "title": "U.S. Prohibits AMD’s AI Chip Sales To China",
-      "excerpt": "In a thrilling turn if events, U.S. officials barred AMD's AI chip sales to China, mandating the firm to obtain a license first.",
-      "sourceUrl": null,
-      "webUrl": "https://coingape.com/u-s-prohibits-amds-ai-chip-sales-to-china/",
-      "originalUrl": "https://coingape.com/u-s-prohibits-amds-ai-chip-sales-to-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://coingape.com/u-s-prohibits-amds-ai-chip-sales-to-china/amp/",
-      "cdnAmpWebUrl": "https://coingape-com.cdn.ampproject.org/c/s/coingape.com/u-s-prohibits-amds-ai-chip-sales-to-china/amp/",
-      "publishedDateTime": "2024-03-06T11:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Coingape",
-        "domain": "coingape.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

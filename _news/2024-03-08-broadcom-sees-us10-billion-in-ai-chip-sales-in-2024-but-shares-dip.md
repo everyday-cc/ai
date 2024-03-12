@@ -7,7 +7,7 @@ originalUrl: "https://www.scmp.com/tech/big-tech/article/3254609/broadcom-sees-u
 webUrl: "https://www.scmp.com/tech/big-tech/article/3254609/broadcom-sees-us10-billion-ai-chip-sales-2024-shares-dip"
 type: article
 quality: 101
-heat: 171
+heat: 161
 published: true
 
 provider:
@@ -87,20 +87,6 @@ related:
       - url: "https://img.digitimes.com/newsshow/20240311pd213_files/2_b.jpg"
         width: 640
         height: 427
-        isCached: true
-  - title: "Broadcom’s AI Outlook Is Key When It Reports Earnings Today"
-    excerpt: "An analyst estimates Broadcom will generate $8 billion to $9 billlion in AI chip revenue for fiscal 2024."
-    publishedDateTime: 2024-03-07T10:25:00Z
-    webUrl: "https://www.barrons.com/livecoverage/stock-market-today-030724/card/broadcom-s-ai-outlook-is-key-when-it-reports-earnings-today-ZtJPPfGtGMjI89eIuXqj"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 39
-    images:
-      - url: "https://images.barrons.com/im-96564995/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Broadcom revenue beats estimates as AI powers demand, investors still unimpressed"
     excerpt: "Tech conglomerate Broadcom beat market estimates for first-quarter revenue on Thursday, as cloud providers continue to upgrade data centers to support AI, helping drive demand for its advanced networking chips."

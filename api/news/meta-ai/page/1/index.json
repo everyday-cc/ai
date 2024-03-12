@@ -642,6 +642,49 @@
       ]
     },
     {
+      "path": "_news/2024-03-02-youngr-takes-linkin-park-classic-on-an-immersive-house-trip-in-tried-so-hard-out-on-blue-llama-records.md",
+      "title": "Youngr Takes Linkin Park Classic On An Immersive House Trip In ‘Tried So Hard’ – Out On Blue Llama Records!",
+      "excerpt": "Youngr turns back the clock to the year 2000 and transports Linkin Park’s introspective rap-rock ballad ‘In The End’ into ‘Tried So Hard,’ a house-laden dance track custom made for the here and now. In true Youngr fashion,",
+      "sourceUrl": null,
+      "webUrl": "https://www.martincid.com/music-en/youngr-takes-linkin-park-classic-on-an-immersive-house-trip-in-tried-so-hard-out-on-blue-llama-records/",
+      "originalUrl": "https://www.martincid.com/music-en/youngr-takes-linkin-park-classic-on-an-immersive-house-trip-in-tried-so-hard-out-on-blue-llama-records/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.martincid.com/wp-content/uploads/2024/03/230706_Youngr_Tried_So_Hard.jpg?strip=all&lossy=1&ssl=1",
+          "width": 2480,
+          "height": 2480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-02T12:37:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "martincid.com",
+        "domain": "martincid.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-02-us-stock-markets-close-at-record-highs-amid-continued-enthusiasm-for-ai.md",
       "title": "US stock markets close at record highs amid continued enthusiasm for AI",
       "excerpt": "Both the S&P 500 and the tech-dominated Nasdaq set records, with the Nasdaq passing its last peak in 2021, driven higher by gains for Facebook owner Meta and Nvidia, the leading AI chipmaker ... strategist at CFRA Research in New York.",
@@ -1361,59 +1404,6 @@
       "topics": [
         "Meta AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-qualcomm-unveils-ai-and-connectivity-chips-at-mobile-world-congress.md",
-      "title": "Qualcomm unveils AI and connectivity chips at Mobile World Congress",
-      "excerpt": "Learn more about GamesBeat Summit sponsorship opportunities here. Qualcomm unveiled a suite of AI, 5G, and Wi-Fi devices at Mobile World Congress (MWC) in Barcelona. The chip design company said the innovations promise to usher in a new era of ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/qualcomm-unveils-ai-and-connectivity-chips-at-mobile-world-congress/",
-      "originalUrl": "https://venturebeat.com/ai/qualcomm-unveils-ai-and-connectivity-chips-at-mobile-world-congress/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/qualcomm-mwc.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 703,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-25T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Meta AI"
       ]
     }
   ],

@@ -290,6 +290,40 @@
       ]
     },
     {
+      "path": "_news/2024-03-07-reshape-automation-aims-to-reduce-barriers-of-robotics-adoption.md",
+      "title": "Reshape Automation aims to reduce barriers of robotics adoption",
+      "excerpt": "Reshape Automation is launching an end-to-end platform for customers to discover, design, purchase, and get support for automation projects.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/reshape-automation-aims-to-reduce-barriers-of-robotics-adoption/",
+      "originalUrl": "https://www.therobotreport.com/reshape-automation-aims-to-reduce-barriers-of-robotics-adoption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-07T14:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-07-hugging-face-is-launching-an-open-source-robotics-project-led-by-former-tesla-scientist.md",
       "title": "Hugging Face is launching an open source robotics project led by former Tesla scientist",
       "excerpt": "Remi Cadene's move signals an ambitious expansion for Hugging Face, which until now, has primarily focused on software, not hardware.",
@@ -1323,50 +1357,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-microsoft-openai-and-nvidia-back-26bn-robot-start-up.md",
-      "title": "Microsoft, OpenAI and Nvidia back $2.6bn robot start-up",
-      "excerpt": "Microsoft, OpenAI and Nvidia are among the investors backing a Silicon Valley start-up that aims to introduce artificial intelligence-powered humanoid robots to the workforce and transform the global labour market. Figure AI said on Thursday it had raised ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/3f7e86e1-123a-4fba-af0a-680d955125c0?emci=4515dc95-3ad7-ee11-85f9-002248223794&emdi=ea000000-0000-0000-0000-000000000001&ceid={{ContactsEmailID}}",
-      "originalUrl": "https://www.ft.com/content/3f7e86e1-123a-4fba-af0a-680d955125c0?emci=4515dc95-3ad7-ee11-85f9-002248223794&emdi=ea000000-0000-0000-0000-000000000001&ceid={{ContactsEmailID}}",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fcd08ec8e-679b-4b48-b1ff-daa0e7b93721.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

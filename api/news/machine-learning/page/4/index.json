@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-01-31-ai-machine-learning-to-keep-old-structures-strong.md",
+      "title": "AI, machine learning to keep old structures strong",
+      "excerpt": "Old buildings can now be made safe and collapse-proof using machine learning and artificial intelligence-aided mechanisms. Philadelphia-based Drexel University",
+      "sourceUrl": null,
+      "webUrl": "https://www.newindianexpress.com/xplore/2024/Jan/31/ai-machine-learning-to-keep-old-structures-strong",
+      "originalUrl": "https://www.newindianexpress.com/xplore/2024/Jan/31/ai-machine-learning-to-keep-old-structures-strong",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.assettype.com/newindianexpress%2F2024-01%2F22218b5f-7a88-49a3-91fe-7bcd9eff582f%2FMachine.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+          "width": 1200,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.newindianexpress.com/amp/story/xplore/2024/Jan/31/ai-machine-learning-to-keep-old-structures-strong",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/amp/story/xplore/2024/Jan/31/ai-machine-learning-to-keep-old-structures-strong",
+      "publishedDateTime": "2024-01-30T23:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-30-utilizing-active-microparticles-for-artificial-intelligence.md",
       "title": "Utilizing Active Microparticles for Artificial Intelligence",
       "excerpt": "Artificial intelligence using neural networks performs calculations digitally with the help of microelectronic chips. Physicists at Leipzig University have now created a type of neural network that works not with electricity but with so-called active ...",
@@ -1245,49 +1288,6 @@
         "Machine Learning",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2024-01-17-can-artificial-intelligence-patents-survive-alice.md",
-      "title": "Can Artificial Intelligence Patents Survive 'Alice'?",
-      "excerpt": "Part Article Under the current Alice framework, those attempting to patent AI innovations face an uphill battle. But, as the caselaw demonstrates, inventors and patent drafters can take steps to reduce the risk of AI patent claims being invalidated as abstract ideas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.law.com/2024/01/16/can-artificial-intelligence-patents-survive-alice/",
-      "originalUrl": "https://www.law.com/2024/01/16/can-artificial-intelligence-patents-survive-alice/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.law.com/contrib/content/uploads/sites/292/2023/08/patent8_767.jpg",
-          "width": 767,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-16T16:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law",
-        "domain": "law.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],
