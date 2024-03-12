@@ -76,6 +76,20 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 36
+  - title: "Vast Data unveils new AI infrastructure with Nvidia and Supermicro partnerships"
+    excerpt: "Artificial intelligence data platform startup VAST Data Inc. today announced new AI cloud architecture in partnership with Nvidia Corp., using the company’s BlueField-3 data pro"
+    publishedDateTime: 2024-03-12T16:20:00Z
+    webUrl: "https://siliconangle.com/2024/03/12/vast-data-unveils-new-ai-infrastructure-nvidia-supermicro-partnerships/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 35
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/earth-8008054_1280.jpg"
+        width: 1280
+        height: 741
+        isCached: true
   - title: "Nvidia CEO Jensen Huang Thinks Even Free AI Chips From Rivals Are 'Not Cheap Enough' Compared To Its GPUs"
     excerpt: "Nvidia CEO Jensen Huang believes the company’s AI technology is so advanced, chips from rivals would prove costly even for free. Huang also believes despite Nvidia’s dominance, it faces the most competition compared to “anyone on the planet.”"
     publishedDateTime: 2024-03-11T09:45:00Z

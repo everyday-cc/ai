@@ -110,6 +110,17 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 62
+  - title: "Explained: How the AI that drives ChatGPT will move into physical world"
+    excerpt: "Like chatbots and image generators, this robotics technology learns its skills by analysing enormous amounts of digital data"
+    publishedDateTime: 2024-03-12T16:54:00Z
+    webUrl: "https://www.business-standard.com/world-news/explained-how-the-ai-that-drives-chatgpt-will-move-into-physical-world-124031201196_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/world-news/explained-how-the-ai-that-drives-chatgpt-will-move-into-physical-world-124031201196_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/world-news/explained-how-the-ai-that-drives-chatgpt-will-move-into-physical-world-124031201196_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 56
   - title: "This AI malware worm is capable of turning ChatGPT against you"
     excerpt: "Forget about AI taking over the world - a new study shows how AI can be used against us to steal our data and spread propaganda."
     publishedDateTime: 2024-03-08T22:34:00Z
@@ -135,6 +146,22 @@ related:
     quality: 54
     images:
       - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/402e001b5deacefd3190ea5ef0cadb0a.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Google restricts election-related queries for its Gemini chatbot"
+    excerpt: "Google on Tuesday announced it will begin restricting the types of election-related questions that users can ask its Gemini chatbot."
+    publishedDateTime: 2024-03-12T14:06:00Z
+    webUrl: "https://www.nbcnewyork.com/news/national-international/google-restricts-election-related-queries-for-its-gemini-chatbot/5218051/"
+    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/google-restricts-election-related-queries-for-its-gemini-chatbot/5218051/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/google-restricts-election-related-queries-for-its-gemini-chatbot/5218051/?amp=1"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 44
+    images:
+      - url: "https://media.nbcnewyork.com/2023/12/107328777-16990343932020-01-20t120454z_160733568_rc2oje9w6izp_rtrmadp_0_google-eu-1.jpeg?quality=85&strip=all&resize=1200%2C675"
         width: 1200
         height: 675
         isCached: true

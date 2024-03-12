@@ -2,6 +2,438 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2024-03-05-6-aws-execs-who-left-in-2024-so-far-for-microsoft-google-cisco-and-others.md",
+      "title": "6 AWS execs who left in 2024 (so far) for Microsoft, Google, Cisco and others",
+      "excerpt": "CRN US breaks down six AWS executives who left the world’s largest cloud company in 2024 and where they landed. Before jumping into the six executives who left, it’s key to note that Seattle-based AWS is the world’s No. 1 cloud market leading—owning 31 percent share of the global cloud infrastructure services market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com.au/news/6-aws-execs-who-left-in-2024-so-far-for-microsoft-google-cisco-and-others-605772",
+      "originalUrl": "https://www.crn.com.au/news/6-aws-execs-who-left-in-2024-so-far-for-microsoft-google-cisco-and-others-605772",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.nextmedia.com.au/News/media_1cc1c11e9039504f571f1c21793c05f1627244c87.png",
+          "width": 611,
+          "height": 458,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-05T03:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN Australia",
+        "domain": "crn.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-ai-trends-in-crm-the-future-of-customer-relationships.md",
+      "title": "AI trends in CRM: The future of customer relationships",
+      "excerpt": "With a keen focus on integrating cutting-edge capabilities such as Natural Language Processing (NLP) for deeper insights and fortifying data privacy and security measures to instill trust, the author delves into the multifaceted potential of Salesforce CRM ...",
+      "sourceUrl": null,
+      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/ai-trends-in-crm-the-future-of-customer-relationships/108213040",
+      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/ai-trends-in-crm-the-future-of-customer-relationships/108213040",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-108213040,imgsize-36082,width-1200,height=765,overlay-etbrandequity/digital/ai-trends-in-crm-the-future-of-customer-relationships.jpg",
+          "width": 1200,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/digital/ai-trends-in-crm-the-future-of-customer-relationships/108213040",
+      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/ai-trends-in-crm-the-future-of-customer-relationships/108213040",
+      "publishedDateTime": "2024-03-05T02:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "brandequity.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-concern-as-the-gambling-industry-embraces-ai.md",
+      "title": "Concern as the gambling industry embraces AI",
+      "excerpt": "But as well as offering the gambler more of what they want, the AI is also being developed to recognise \"key behavioural shifts\" that might indicate the customer has a problem. That might be repeated losses or loss chasing, impulsive behaviour and overall spending.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/business-68304137",
+      "originalUrl": "https://www.bbc.co.uk/news/business-68304137",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/2D80/production/_132684611_danny.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/business-68304137.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/business-68304137.amp",
+      "publishedDateTime": "2024-03-05T00:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-amds-big-moment-to-challenge-nvidia-dlss-could-come-this-year-as-exec-hints-at-fsr-getting-ai.md",
+      "title": "AMD’s big moment to challenge Nvidia DLSS could come this year, as exec hints at FSR getting AI",
+      "excerpt": "That’s where hardware acceleration comes into play, and so if FSR does get an infusion of AI, it’ll need something to drive that – whether that’s an NPU or dedicated GPU cores (like Nvidia ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/computing/gpu/amds-big-moment-to-challenge-nvidia-dlss-could-come-this-year-as-exec-hints-at-fsr-getting-ai",
+      "originalUrl": "https://www.techradar.com/computing/gpu/amds-big-moment-to-challenge-nvidia-dlss-could-come-this-year-as-exec-hints-at-fsr-getting-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/A39nzTUo5bsA7DnfJ4seGm-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-05T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-aws-to-launch-saudi-arabia-data-centers-as-part-of-5bn-investment.md",
+      "title": "AWS to launch Saudi Arabia data centers as part of $5bn investment",
+      "excerpt": "Amazon Web Services (AWS) has continued its recent global spending spree by announcing plans to launch a new infrastructure region in Saudi Arabia by 2026 as part of a major investment in the area. The investment, worth a total of around $5.3 billion, aims ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/pro/aws-to-launch-saudi-arabia-data-centers-as-part-of-dollar5bn-investment",
+      "originalUrl": "https://www.techradar.com/pro/aws-to-launch-saudi-arabia-data-centers-as-part-of-dollar5bn-investment",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/nbiGh8Hmf4qRxBs6jhftok-1200-80.jpg",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-05T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-hack-your-brain-free-online-science-escape-room-for-kids.md",
+      "title": "Hack Your Brain: Free Online Science Escape Room For Kids",
+      "excerpt": "Join groundbreaking projects like Neureka, where you can play games and share your feelings to understand mental health evolution, and the Online Memory Training Study, where you’ll engage in memory-boosting exercises and cognitive tests from home.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencefriday.com/articles/hack-your-brain/",
+      "originalUrl": "https://www.sciencefriday.com/articles/hack-your-brain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sciencefriday.com/wp-content/uploads/2024/03/Hack-Your-Brain-temp.png",
+          "width": 1600,
+          "height": 1056,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-05T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Friday",
+        "domain": "sciencefriday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-house-session-part-1.md",
+      "title": "House Session, Part 1",
+      "excerpt": "2024-03-05T13:59:54-05:00https://ximage.c-spanvideo.org ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.c-span.org/video/?533998-2/house-session-part-1#!",
+      "originalUrl": "https://www.c-span.org/video/?533998-2/house-session-part-1#!",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-05T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "c-span",
+        "domain": "c-span.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-how-artificial-intelligence-could-trigger-a-natural-gas-boom-in-europe.md",
+      "title": "How Artificial Intelligence Could Trigger a Natural Gas Boom in Europe",
+      "excerpt": "Cutting-edge AI technology and Machine Learning is transforming gas exploration in Europe, enabling companies to uncover hidden reserves and reduce drilling risks.",
+      "sourceUrl": null,
+      "webUrl": "https://oilprice.com/Energy/Natural-Gas/How-Artificial-Intelligence-Could-Trigger-a-Natural-Gas-Boom-in-Europe.html",
+      "originalUrl": "https://oilprice.com/Energy/Natural-Gas/How-Artificial-Intelligence-Could-Trigger-a-Natural-Gas-Boom-in-Europe.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2024-03-04_zv5ykbnbvc.jpg",
+          "width": 718,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://oilprice.com/Energy/Natural-Gas/How-Artificial-Intelligence-Could-Trigger-a-Natural-Gas-Boom-in-Europe.amp.html",
+      "cdnAmpWebUrl": "https://oilprice-com.cdn.ampproject.org/c/s/oilprice.com/Energy/Natural-Gas/How-Artificial-Intelligence-Could-Trigger-a-Natural-Gas-Boom-in-Europe.amp.html",
+      "publishedDateTime": "2024-03-05T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crude Oil Prices",
+        "domain": "oilprice.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-medeloop-partners-with-mila-to-leverage-artificial-intelligence-in-health-technology.md",
+      "title": "Medeloop Partners with Mila to Leverage Artificial Intelligence in Health Technology",
+      "excerpt": "Beyond its pivotal role in advancing research, Medeloop specializes in supporting clinical care and outpatient therapy. By providing a seamless platform for remote patient monitoring, Medeloop empowers healthcare professionals to extend their care beyond ...",
+      "sourceUrl": null,
+      "webUrl": "https://winnipegsun.com/globe-newswire/medeloop-partners-with-mila-to-leverage-artificial-intelligence-in-health-technology",
+      "originalUrl": "https://winnipegsun.com/globe-newswire/medeloop-partners-with-mila-to-leverage-artificial-intelligence-in-health-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dcs-static.gprod.postmedia.digital/15.6.0/websites/images/canada/fallback.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://winnipegsun.com/globe-newswire/medeloop-partners-with-mila-to-leverage-artificial-intelligence-in-health-technology/wcm/ac611357-4705-4d11-9bfe-cad60d65e440/amp/",
+      "cdnAmpWebUrl": "https://winnipegsun-com.cdn.ampproject.org/c/s/winnipegsun.com/globe-newswire/medeloop-partners-with-mila-to-leverage-artificial-intelligence-in-health-technology/wcm/ac611357-4705-4d11-9bfe-cad60d65e440/amp/",
+      "publishedDateTime": "2024-03-05T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "winnipegsun",
+        "domain": "winnipegsun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-painting-a-molecular-portrait-of-the-brain-with-mass-spectrometry-and-deep-learning.md",
+      "title": "Painting a molecular portrait of the brain with mass spectrometry and deep learning",
+      "excerpt": "More information: Yuxuan Richard Xie et al, Multiscale biochemical mapping of the brain through deep-learning-enhanced high-throughput mass spectrometry, Nature Methods (2024). DOI: 10.1038/s41592 ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2024-03-molecular-portrait-brain-mass-spectrometry.html",
+      "originalUrl": "https://medicalxpress.com/news/2024-03-molecular-portrait-brain-mass-spectrometry.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-05T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-05-ai-boom-in-data-centers-has-top-tech-companies-spending-more-than-major-oil-companies-on-capex.md",
       "title": "AI boom in data centers has top tech companies spending more than major oil companies on capex",
       "excerpt": "However, Larry Pfeffer, an equity-sector analyst in the industrials at the Wells Fargo Investment Institute, expects spending by the top four hyperscale tech companies to reach almost $200 billion annually by 2025, a boom that will have “ripple effects.”",
@@ -609,41 +1041,6 @@
       ]
     },
     {
-      "path": "_news/2024-03-05-6-aws-execs-who-left-in-2024-so-far-for-microsoft-google-cisco-and-others.md",
-      "title": "6 AWS Execs Who Left In 2024 (So Far) For Microsoft, Google, Cisco And Others",
-      "excerpt": "Saurabh Gupta left AWS this year as head of engineering and product strategy for AWS Sagemaker, the company’s AI and machine learning solution. Gupta lead global organizations of AWS professionals who are building the foundational capabilities for Amazon ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/news/cloud/2024/6-aws-execs-who-left-in-2024-so-far-for-microsoft-google-cisco-and-others",
-      "originalUrl": "https://www.crn.com/news/cloud/2024/6-aws-execs-who-left-in-2024-so-far-for-microsoft-google-cisco-and-others",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-04T16:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2024-03-04-5g-advantages-and-disadvantages-what-business-leaders-need-to-know.md",
       "title": "5G advantages and disadvantages: What business leaders need to know",
       "excerpt": "5G, the latest high-speed cellular network standard, is poised to transform wireless connectivity and usher in a new age of digital transformation.\nThe post 5G advantages and disadvantages: What business leaders need to know appeared first on IBM Blog.\n",
@@ -742,452 +1139,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-04-unlocking-innovation-aws-and-anthropic-push-the-boundaries-of-generative-ai-together.md",
-      "title": "Unlocking Innovation: AWS and Anthropic push the boundaries of generative AI together",
-      "excerpt": "Amazon Bedrock is the best place to build and scale generative AI applications with large language models (LLM) and other foundation models (FMs). It enables customers to leverage a variety of high-performing FMs, such as the Claude family of models by Anthropic, to build custom generative AI applications.&nbsp;Looking",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/unlocking-innovation-aws-and-anthropic-push-the-boundaries-of-generative-ai-together/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/unlocking-innovation-aws-and-anthropic-push-the-boundaries-of-generative-ai-together/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-04T14:52:25Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-04-jim-cramer-says-these-4-stocks-are-better-ai-plays-than-red-hot-super-micro-computer.md",
-      "title": "Jim Cramer says these 4 stocks are better AI plays than red-hot Super Micro Computer",
-      "excerpt": "Jim Cramer's daily rapid fire looks at stocks in the news outside the CNBC Investing Club portfolio. Super Micro Computer : Shares surged nearly 25% on Monday after the artificial intelligence server maker was selected late Friday to join the S & P 500 later in March.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/03/04/jim-cramer-these-4-stocks-are-better-ai-plays-than-super-micro-computer.html",
-      "originalUrl": "https://www.cnbc.com/2024/03/04/jim-cramer-these-4-stocks-are-better-ai-plays-than-super-micro-computer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107364684-17062129482023-02-17t102124z_2115759463_rc2xcz9bgstp_rtrmadp_0_amd-results.jpeg?v=1706213119&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-04T14:47:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-04-customers-expect-more-todayhow-ai-can-help-brands-deliver.md",
-      "title": "Customers Expect More Today—How AI Can Help Brands Deliver",
-      "excerpt": "Meeting today’s customer expectations has been an ongoing challenge for contact center leaders, and they are well aware of the constraints of their legacy technologies for providing digital experiences. The first step toward modernization is cloud adoption, which usually entails deploying some form of CCaaS (contact-center-as-a-service).",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/04/customers-expect-more-today-how-ai-can-help-brands-deliver/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/04/customers-expect-more-today-how-ai-can-help-brands-deliver/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e201d04ec7953e14743576/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1504,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/04/customers-expect-more-today-how-ai-can-help-brands-deliver/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/04/customers-expect-more-today-how-ai-can-help-brands-deliver/amp/",
-      "publishedDateTime": "2024-03-04T14:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-04-ai-powered-decision-making-its-impact-on-the-enterprise-value-chain.md",
-      "title": "AI-Powered Decision Making: Its Impact On The Enterprise Value Chain",
-      "excerpt": "Companies that are willing to test and learn are overcoming decision-making challenges, improving operations and making workers' lives easier.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/04/ai-powered-decision-making-its-impact-on-the-enterprise-value-chain/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/04/ai-powered-decision-making-its-impact-on-the-enterprise-value-chain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62337b27ece1d59239e707ee/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/04/ai-powered-decision-making-its-impact-on-the-enterprise-value-chain/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/04/ai-powered-decision-making-its-impact-on-the-enterprise-value-chain/amp/",
-      "publishedDateTime": "2024-03-04T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-04-does-ai-have-a-place-on-ethics-committees-how-to-use-it-the-right-way.md",
-      "title": "Does AI have a place on ethics committees? How to use it the right way",
-      "excerpt": "Given the importance of ethics, any tool that can be used to help come to better ethical decisions should be explored and used. Over the last couple of years, there has been an increasing recognition that artificial intelligence (AI) is a tool that can be ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/does-ai-have-a-place-on-ethics-committees-how-to-use-it-the-right-way",
-      "originalUrl": "https://thenextweb.com/news/does-ai-have-a-place-on-ethics-committees-how-to-use-it-the-right-way",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F03%2FUntitled-design-1.jpg&signature=b84d53bed3640764cf4568c175a30c5d",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-04T11:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-04-this-startup-wants-to-power-the-next-big-wave-of-ai-actually-making-it-useful.md",
-      "title": "This Startup Wants To Power The Next Big Wave Of AI: Actually Making It Useful",
-      "excerpt": "Baseten raised $40 million to make it easier for companies to actually deploy AI applications in a practical way after growing its revenue to several million dollars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/kenrickcai/2024/03/04/baseten-series-b-making-ai-useful-inference/",
-      "originalUrl": "https://www.forbes.com/sites/kenrickcai/2024/03/04/baseten-series-b-making-ai-useful-inference/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e58631550181da145a6ce0/0x0.jpg?format=jpg&crop=3151,2101,x1,y0,safe&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-04T11:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-04-i-asked-gemini-and-gpt-4-to-explain-deep-learning-ai-and-gemini-won-hands-down.md",
-      "title": "I asked Gemini and GPT-4 to explain deep learning AI, and Gemini won hands down",
-      "excerpt": "Accelerate your tech game Paid Content How the New Space Race Will Drive Innovation How the metaverse will change the future of work and society Managing the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/i-asked-gemini-and-gpt-4-to-explain-deep-learning-ai-and-gemini-won-hands-down/",
-      "originalUrl": "https://www.zdnet.com/article/i-asked-gemini-and-gpt-4-to-explain-deep-learning-ai-and-gemini-won-hands-down/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 220,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/eb501fa7b639781afa61e6952318ef6629691191/2024/03/01/d9070712-3fd3-42bb-8871-19d5474295c4/gemini-versus-chatgpt-crop-for-twitter-new.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/i-asked-gemini-and-gpt-4-to-explain-deep-learning-ai-and-gemini-won-hands-down/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-asked-gemini-and-gpt-4-to-explain-deep-learning-ai-and-gemini-won-hands-down/",
-      "publishedDateTime": "2024-03-04T10:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-04-nvidia-becomes-teslas-successor-as-market-flips-from-electric-vehicles-to-artificial-intelligence.md",
-      "title": "Nvidia becomes Tesla’s successor as market flips from electric vehicles to artificial intelligence",
-      "excerpt": "Nvidia Corp.’s rise is captivating the stock market and driving the S&P 500 Index to new highs. But it also raises cautionary reminders of another investor darling that soared on dreams of a technological transformation, only to tumble back to earth when ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eastbaytimes.com/2024/03/04/nvidia-becomes-teslas-successor-as-market-flips-from-ev-to-ai/",
-      "originalUrl": "https://www.eastbaytimes.com/2024/03/04/nvidia-becomes-teslas-successor-as-market-flips-from-ev-to-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eastbaytimes.com/wp-content/uploads/2024/03/OCR-Z-NVIDIA-TRILLION.jpg?w=1024&h=682",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.eastbaytimes.com/2024/03/04/nvidia-becomes-teslas-successor-as-market-flips-from-ev-to-ai/amp/",
-      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2024/03/04/nvidia-becomes-teslas-successor-as-market-flips-from-ev-to-ai/amp/",
-      "publishedDateTime": "2024-03-04T10:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "East Bay Times",
-        "domain": "eastbaytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2024-03-04-anthropics-claude-3-chatbot-claims-to-outperform-chatgpt-gemini.md",
-      "title": "Anthropic's Claude 3 chatbot claims to outperform ChatGPT, Gemini",
-      "excerpt": "The latest version of Claude AI promises quicker results, greater accuracy, and improved ease of use, and will now analyze uploaded images, documents, and other files.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/anthropics-claude-3-chatbot-claims-to-outperform-chatgpt-gemini/",
-      "originalUrl": "https://www.zdnet.com/article/anthropics-claude-3-chatbot-claims-to-outperform-chatgpt-gemini/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 314,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/ee5190160d7515bc2e0b36e0d5ec07ee2d847af7/2024/03/04/aede71d1-80de-4922-a0d7-10e27b1d223f/anthropics-next-generation-claude-3-ai-claims-to-outperform-chatgpt.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/anthropics-claude-3-chatbot-claims-to-outperform-chatgpt-gemini/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/anthropics-claude-3-chatbot-claims-to-outperform-chatgpt-gemini/",
-      "publishedDateTime": "2024-03-04T08:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

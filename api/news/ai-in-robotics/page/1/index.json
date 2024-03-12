@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-13-locus-robotics-success-is-a-tale-of-focusing-on-what-works.md",
+      "title": "Locus Robotics’ success is a tale of focusing on what works",
+      "excerpt": "The new software offering uses AI to process the massive troves of data collected ... Former executives from the robotics startup launched their own Locus competitor, 6 River Systems. That company has struggled in recent years, however, following its ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/03/12/locus-robotics-success-is-a-tale-of-focusing-on-what-works/",
+      "originalUrl": "https://techcrunch.com/2024/03/12/locus-robotics-success-is-a-tale-of-focusing-on-what-works/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/03/IMG_0748.jpg?resize=1200,900",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/03/12/locus-robotics-success-is-a-tale-of-focusing-on-what-works/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/locus-robotics-success-is-a-tale-of-focusing-on-what-works/amp/",
+      "publishedDateTime": "2024-03-12T17:48:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-12-new-ai-robotics-spacetech-and-fintech-unicorns-trot-onto-the-unicorn-board-in-february.md",
       "title": "New AI, Robotics, Spacetech And Fintech Unicorns Trot Onto The Unicorn Board In February",
       "excerpt": "Ten new unicorns added more than $18 billion in value to The Crunchbase Unicorn Board in February, but one company was also downgraded from unicorn status and fell off the board.",
@@ -141,6 +193,49 @@
       ]
     },
     {
+      "path": "_news/2024-03-12-elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot.md",
+      "title": "Elon Musk says his AI startup xAI will open-source its Grok chatbot",
+      "excerpt": "Musk sued ChatGPT-maker OpenAI and its CEO Sam Altman, saying they had abandoned the startup's original mission to develop artificial intelligence for the benefit of humanity and not for profit.",
+      "sourceUrl": null,
+      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot/108430382",
+      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot/108430382",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-108430382,imgsize-527560,width-1200,height=765,overlay-etbrandequity/digital/elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot.jpg",
+          "width": 1200,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/digital/elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot/108430382",
+      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot/108430382",
+      "publishedDateTime": "2024-03-12T09:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "brandequity.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-11-litter-robot-4-vs-3-connect-which-automatic-litter-box-should-you-get.md",
       "title": "Litter-Robot 4 Vs. 3 Connect: Which Automatic Litter Box Should You Get?",
       "excerpt": "the Litter-Robot 4 is an upgraded version of the Litter-Robot 3 Connect, with advanced safety sensors, a more sophisticated (and quieter) sifting system and better odor control. I have both models in my home and my three cats use each one regularly.",
@@ -254,7 +349,7 @@
       "originalUrl": "https://www.forbes.com/sites/robtoews/2024/03/10/10-ai-predictions-for-the-year-2030/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 198,
+      "heat": 208,
       "tags": null,
       "images": [
         {
@@ -788,6 +883,49 @@
       ]
     },
     {
+      "path": "_news/2024-03-06-the-impact-of-artificial-intelligence-on-our-encounters.md",
+      "title": "The Impact of Artificial Intelligence on Our Encounters",
+      "excerpt": "I participated in a seminar on a new book, Encountering Artificial Intelligence, 1 exploring the ethics of artificial intelligence (AI) from within the Catholic intellectual tradition. I was not involved with the book but asked to be a respondent to two of the contributors and offer some reflections on evaluating the impact of AI on our encounters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/us/blog/our-new-discontents/202403/the-impact-of-artificial-intelligence-on-our-encounters",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/our-new-discontents/202403/the-impact-of-artificial-intelligence-on-our-encounters",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-03/andy-kelly-0E_vhMVqL9g-unsplash.jpeg.jpg?itok=zgUvJxp6",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/our-new-discontents/202403/the-impact-of-artificial-intelligence-on-our-encounters?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/our-new-discontents/202403/the-impact-of-artificial-intelligence-on-our-encounters?amp",
+      "publishedDateTime": "2024-03-05T16:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-05-orlando-health-embraces-cutting-edge-robotics-technology.md",
       "title": "Orlando Health Embraces Cutting-Edge Robotics Technology",
       "excerpt": "Robotic arms of a robotic surgical system demonstrate how doctors at Orlando Health Cancer Institute use the system during procedures for treatment of lung cancer. Orlando Health recognizes the pivotal role of technology in providing high-quality healthcare.",
@@ -1228,136 +1366,6 @@
         "Microsoft AI",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-figure-ais-675-million-breakthrough-in-humanoid-robotics.md",
-      "title": "Figure AI’s $675 Million Breakthrough in Humanoid Robotics",
-      "excerpt": "In the ever-evolving landscape of technology, humanoid robotics stands as a frontier teeming with potential and promise. The concept, once confined to the realms of science fiction, is rapidly materializing into a tangible reality,",
-      "sourceUrl": null,
-      "webUrl": "https://www.unite.ai/figure-ais-675-million-breakthrough-in-humanoid-robotics/",
-      "originalUrl": "https://www.unite.ai/figure-ais-675-million-breakthrough-in-humanoid-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.unite.ai/wp-content/uploads/2024/02/alex_mc9997_a_robotic_flying_insect_in_nature_4f742cc4-0f5e-456d-9b1f-479e6bf0a829-400x240.png",
-          "width": 400,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T19:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "unite",
-        "domain": "unite.ai",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-humanoid-robot-startup-figure-ai-valued-at-26-billion-as-bezos-openai-nvidia-join-funding.md",
-      "title": "Humanoid robot startup Figure AI valued at $2.6 billion as Bezos, OpenAI, Nvidia join funding",
-      "excerpt": "Figure AI, a startup working to build humanoid robots that can perform dangerous and undesirable jobs, just got a big vote of confidence from some of the largest names in artificial intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/news/humanoid-robot-startup-figure-ai-194224435.html",
-      "originalUrl": "https://www.aol.com/news/humanoid-robot-startup-figure-ai-194224435.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/j1zZYiAFHXLPrLcK.7.tCw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/aol_nbc_universal_184/2764bf45083d07d8de8f8fe4f8024a83",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T14:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-robotics-startup-figure-raises-675-mln-from-microsoft-nvidia-other-big-techs.md",
-      "title": "Robotics startup Figure raises $675 mln from Microsoft, Nvidia, other big techs",
-      "excerpt": "Robotics startup Figure said on Thursday it had raised $675 million in an early-stage funding from investors including Nvidia , Microsoft and Amazon.com founder Jeff Bezos at a valuation of $2.6 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/robotics-startup-figure-raises-675-mln-microsoft-nvidia-other-big-techs-2024-02-29/",
-      "originalUrl": "https://www.reuters.com/technology/robotics-startup-figure-raises-675-mln-microsoft-nvidia-other-big-techs-2024-02-29/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T12:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

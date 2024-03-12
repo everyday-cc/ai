@@ -2,6 +2,136 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-03-01-figure-ais-675-million-breakthrough-in-humanoid-robotics.md",
+      "title": "Figure AI’s $675 Million Breakthrough in Humanoid Robotics",
+      "excerpt": "In the ever-evolving landscape of technology, humanoid robotics stands as a frontier teeming with potential and promise. The concept, once confined to the realms of science fiction, is rapidly materializing into a tangible reality,",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/figure-ais-675-million-breakthrough-in-humanoid-robotics/",
+      "originalUrl": "https://www.unite.ai/figure-ais-675-million-breakthrough-in-humanoid-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.unite.ai/wp-content/uploads/2024/02/alex_mc9997_a_robotic_flying_insect_in_nature_4f742cc4-0f5e-456d-9b1f-479e6bf0a829-400x240.png",
+          "width": 400,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T19:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-humanoid-robot-startup-figure-ai-valued-at-26-billion-as-bezos-openai-nvidia-join-funding.md",
+      "title": "Humanoid robot startup Figure AI valued at $2.6 billion as Bezos, OpenAI, Nvidia join funding",
+      "excerpt": "Figure AI, a startup working to build humanoid robots that can perform dangerous and undesirable jobs, just got a big vote of confidence from some of the largest names in artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/humanoid-robot-startup-figure-ai-194224435.html",
+      "originalUrl": "https://www.aol.com/news/humanoid-robot-startup-figure-ai-194224435.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/j1zZYiAFHXLPrLcK.7.tCw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/aol_nbc_universal_184/2764bf45083d07d8de8f8fe4f8024a83",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T14:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-robotics-startup-figure-raises-675-mln-from-microsoft-nvidia-other-big-techs.md",
+      "title": "Robotics startup Figure raises $675 mln from Microsoft, Nvidia, other big techs",
+      "excerpt": "Robotics startup Figure said on Thursday it had raised $675 million in an early-stage funding from investors including Nvidia , Microsoft and Amazon.com founder Jeff Bezos at a valuation of $2.6 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/robotics-startup-figure-raises-675-mln-microsoft-nvidia-other-big-techs-2024-02-29/",
+      "originalUrl": "https://www.reuters.com/technology/robotics-startup-figure-raises-675-mln-microsoft-nvidia-other-big-techs-2024-02-29/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 132,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T12:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-29-nextgen-food-robotics-provides-update-on-its-ai-powered-food-ordering-application-lily.md",
       "title": "NextGen Food Robotics Provides Update on its AI-Powered Food Ordering Application, Lily",
       "excerpt": "VANCOUVER, BC, Feb. 29, 2024 (GLOBE NEWSWIRE) -- NextGen Food Robotics Corp. (the “Company” or ... food ordering and delivery experience through advanced generative artificial intelligence powered by OpenAI’s GPT-4.0 large language model.",
@@ -1245,154 +1375,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-first-human-to-receive-neuralink-chip-can-control-mouse-with-mind-claims-musk.md",
-      "title": "First Human To Receive Neuralink Chip Can Control Mouse With Mind, Claims Musk",
-      "excerpt": "Earlier, in January, Musk revealed that Neuralink had managed to implant its wireless brain chip in a human for the first time. In a post on X, Musk said that \"promising\" brain activity was detected in the human after the procedure and that the person was \"recovering well\".",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.co.uk/first-human-receive-neuralink-chip-can-control-mouse-mind-claims-musk-1723557",
-      "originalUrl": "https://www.ibtimes.co.uk/first-human-receive-neuralink-chip-can-control-mouse-mind-claims-musk-1723557",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.ibtimes.co.uk/en/full/1722345/elon-musk.jpg",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T06:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBTimes UK",
-        "domain": "ibtimes.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-uber-eats-is-launching-a-delivery-service-with-cartkens-sidewalk-robots-in-japan.md",
-      "title": "Uber Eats is launching a delivery service with Cartken’s sidewalk robots in Japan",
-      "excerpt": "Uber, Mitsubishi Electric and autonomous robotics startup Cartken are launching a service in Japan using self-driving sidewalk robots.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/20/uber-eats-is-launching-a-delivery-service-with-cartkens-sidewalk-robots-in-japan/",
-      "originalUrl": "https://techcrunch.com/2024/02/20/uber-eats-is-launching-a-delivery-service-with-cartkens-sidewalk-robots-in-japan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/02/cartken-uber.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/20/uber-eats-is-launching-a-delivery-service-with-cartkens-sidewalk-robots-in-japan/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/20/uber-eats-is-launching-a-delivery-service-with-cartkens-sidewalk-robots-in-japan/amp/",
-      "publishedDateTime": "2024-02-21T06:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-robot-inventor-we-had-to-adapt-to-the-ai-revolution.md",
-      "title": "Robot inventor: 'We had to adapt to the AI revolution'",
-      "excerpt": "Produced, filmed and edited by Dougal Shaw Sandy Enoch of Robotical explains why he had to pivot his educational robot company due to AI. Hovhannes ... shares advice for start-ups for our CEO ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/av/business-68348353",
-      "originalUrl": "https://www.bbc.com/news/av/business-68348353",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/1413F/production/_132693228_p0hcyy8v.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T03:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

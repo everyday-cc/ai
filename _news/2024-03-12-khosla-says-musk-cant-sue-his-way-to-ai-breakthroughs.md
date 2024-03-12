@@ -18,15 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Elon Musk Can’t Sue His Way To AI Breakthroughs, Khosla Says"
-    excerpt: "Billionaire Elon Musk can’t sue his way into artificial general intelligence, fellow billionaire and OpenAI investor Vinod Khosla said in an interview on Bloomberg TV."
-    publishedDateTime: 2024-03-11T18:02:00Z
-    webUrl: "https://www.ndtvprofit.com/business/khosla-says-musk-can-t-sue-his-way-to-ai-breakthroughs"
-    type: article
-    provider:
-      name: ndtvprofit
-      domain: ndtvprofit.com
-    quality: 19
   - title: "Elon Musk can’t sue his way to AI breakthroughs, Vinod Khosla says"
     excerpt: "Musk, who was on the founding team of OpenAI, filed a lawsuit earlier this month against the company, accusing it of straying too far from its mission and becoming beholden to its largest investor, Microsoft Corp."
     publishedDateTime: 2024-03-11T18:42:00Z

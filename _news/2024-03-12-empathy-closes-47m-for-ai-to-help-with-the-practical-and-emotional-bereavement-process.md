@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2024/03/12/empathy-berevement-death-ai/"
 ampWebUrl: "https://techcrunch.com/2024/03/12/empathy-berevement-death-ai/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/empathy-berevement-death-ai/amp/"
 type: article
-quality: 79
-heat: 79
+quality: 81
+heat: 81
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2021/04/15990492171_d21c81e484_k.jpg?resize=1200,655"

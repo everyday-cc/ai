@@ -623,6 +623,50 @@
       ]
     },
     {
+      "path": "_news/2024-03-05-6-aws-execs-who-left-in-2024-so-far-for-microsoft-google-cisco-and-others.md",
+      "title": "6 AWS execs who left in 2024 (so far) for Microsoft, Google, Cisco and others",
+      "excerpt": "CRN US breaks down six AWS executives who left the world’s largest cloud company in 2024 and where they landed. Before jumping into the six executives who left, it’s key to note that Seattle-based AWS is the world’s No. 1 cloud market leading—owning 31 percent share of the global cloud infrastructure services market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com.au/news/6-aws-execs-who-left-in-2024-so-far-for-microsoft-google-cisco-and-others-605772",
+      "originalUrl": "https://www.crn.com.au/news/6-aws-execs-who-left-in-2024-so-far-for-microsoft-google-cisco-and-others-605772",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.nextmedia.com.au/News/media_1cc1c11e9039504f571f1c21793c05f1627244c87.png",
+          "width": 611,
+          "height": 458,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-05T03:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN Australia",
+        "domain": "crn.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-05-aws-to-launch-saudi-arabia-data-centers-as-part-of-5bn-investment.md",
       "title": "AWS to launch Saudi Arabia data centers as part of $5bn investment",
       "excerpt": "Amazon Web Services (AWS) has continued its recent global spending spree by announcing plans to launch a new infrastructure region in Saudi Arabia by 2026 as part of a major investment in the area. The investment, worth a total of around $5.3 billion, aims ...",
@@ -849,41 +893,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-6-aws-execs-who-left-in-2024-so-far-for-microsoft-google-cisco-and-others.md",
-      "title": "6 AWS Execs Who Left In 2024 (So Far) For Microsoft, Google, Cisco And Others",
-      "excerpt": "Saurabh Gupta left AWS this year as head of engineering and product strategy for AWS Sagemaker, the company’s AI and machine learning solution. Gupta lead global organizations of AWS professionals who are building the foundational capabilities for Amazon ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/news/cloud/2024/6-aws-execs-who-left-in-2024-so-far-for-microsoft-google-cisco-and-others",
-      "originalUrl": "https://www.crn.com/news/cloud/2024/6-aws-execs-who-left-in-2024-so-far-for-microsoft-google-cisco-and-others",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-04T16:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     },
     {

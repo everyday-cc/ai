@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Which Florida airports use facial recognition technology?"
+    excerpt: "The next time you’re in a security line at the airport, you may find that instead of a Transportation Security Administration officer checking your ID, a camera and screen will use biometric ..."
+    publishedDateTime: 2024-03-09T18:34:00Z
+    webUrl: "https://www.wfla.com/news/florida/which-florida-airports-use-facial-recognition-technology/"
+    ampWebUrl: "https://www.wfla.com/news/florida/which-florida-airports-use-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://www-wfla-com.cdn.ampproject.org/c/s/www.wfla.com/news/florida/which-florida-airports-use-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: WFLA News Channel 8
+      domain: wfla.com
+    quality: 74
+    images:
+      - url: "https://www.wfla.com/wp-content/uploads/sites/71/2024/03/GettyImages-1139860049.jpg?w=1280"
+        width: 1280
+        height: 815
+        isCached: true
   - title: "Airports using biometric facial recognition in Kansas"
     excerpt: "The next time you’re in a security line at the airport, you may find that instead of a Transportation Security Administration officer checking your ID, a camera and screen will use biometric"
     publishedDateTime: 2024-03-12T15:14:00Z
@@ -38,6 +54,36 @@ related:
     quality: 74
     images:
       - url: "https://www.ksn.com/wp-content/uploads/sites/13/2023/05/facial.jpg?w=1280"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Report highlights civil liberties concerns with facial recognition technology"
+    excerpt: "The report says some agencies now have training policies in place that include explaining how FRT affects civil liberties"
+    publishedDateTime: 2024-03-12T01:44:00Z
+    webUrl: "https://www.wsbtv.com/news/report-highlights-civil-liberties-concerns-with-facial-recognition-technology/OETF3NAPQRCY5H4FGMYXI3DWMM/"
+    ampWebUrl: "https://www.wsbtv.com/news/report-highlights-civil-liberties-concerns-with-facial-recognition-technology/OETF3NAPQRCY5H4FGMYXI3DWMM/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wsbtv-com.cdn.ampproject.org/c/s/www.wsbtv.com/news/report-highlights-civil-liberties-concerns-with-facial-recognition-technology/OETF3NAPQRCY5H4FGMYXI3DWMM/?outputType=amp"
+    type: article
+    provider:
+      name: WSB-TV
+      domain: wsbtv.com
+    quality: 58
+    images:
+      - url: "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/2ujHFkVez5X3CIApIwboBaEkMwU=/1440x810/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/V7Q4DMJL7RDWXAYCVKLFOCEPR4.png"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "TSA Facial Recognition Is Being Rolled Out at More US Airports"
+    excerpt: "Clear, the $189-a-year membership that allows enrolled travelers to cut to the front of airport security lines, has also begun using facial recognition technology at its checkpoints. From how the ..."
+    publishedDateTime: 2024-03-08T00:00:00Z
+    webUrl: "https://www.cntraveler.com/story/tsa-facial-recognition-united-delta"
+    type: article
+    provider:
+      name: Condé Nast Traveler
+      domain: cntraveler.com
+    quality: 54
+    images:
+      - url: "https://media.cntraveler.com/photos/65e93d04cc29445c249fb6a1/16:9/w_1280,c_limit/mark-olsen-K5j1KgecVC8-unsplash.jpeg"
         width: 1280
         height: 720
         isCached: true
@@ -78,6 +124,15 @@ related:
       name: KVIA
       domain: kvia.com
     quality: 34
+  - title: "Stc Bahrain, the first telecom to launch instant mobile SIM Activation using AI Face Recognition Technology"
+    excerpt: "Pioneering technology-driven solutions that empower customers and drive forward Bahrain’s digital transformation"
+    publishedDateTime: 2024-03-12T12:48:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/stc-bahrain-the-first-telecom-to-launch-instant-mobile-sim-activation-using-ai-face-recognition-technology-m1i91v9w"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 16
 
 secured: "FqMGaLIa3C0h9DTNHIDCBP6Emz3t0kAqXl0x5a9Px5sQamqJxHsDoxbzk/BJUCPXVmLA/oU5rz82QRxFj/0cVUHF6jJtb1OylMpgKR37CLRdXqNTd564lMmS6L5ECquY1imgzx4TMTZtUIkRcHWFKakE4BcRG+drJkGQWVziqGvKncYiIgXIycaLl1ZshV5sTnfReSVgHKkXF5cNWva/Ual1JHn3QAshi8kBTRiIhpu91flLcNSWso6gpCnNX6HcVc6uwgCgEpCDvtU9/GRO6kenCaTO4wKJWR0CiEKrb0lPDPKGKMvszmvGQpllfPPWk3pFj7+Ba//Qe4F+IvOp0tE7xHHXqtEF9mppnDvt+GyW4rFE7mwmefvgD/BLyJ/l9er+w2zW/zs9S8lLHZWK8QCcIb0zDolBF7R+9ZGglyJSmqp3B4s+03QcJNWIC0JGrqjSiP4FF1PLPYN+hbvdzgUrOcrufE5we3kCdfg91P3wOWfhrnRctiBDttkBnYZ8K6zU71NSXnGDAZAv2HUx1A==;4Wk30jyxVUjBOYqJosf3ww=="
 ---

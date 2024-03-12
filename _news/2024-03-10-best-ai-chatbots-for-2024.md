@@ -26,19 +26,53 @@ images:
     isCached: true
 
 related:
-  - title: "Inflection AI launches new model for Pi chatbot, nearly matches GPT-4"
-    excerpt: "Inflection AI's latest model, Inflection-2.5, achieved 94% of GPT-4's performance but took only 40% of compute for training."
-    publishedDateTime: 2024-03-07T17:48:00Z
-    webUrl: "https://venturebeat.com/ai/inflection-ai-launches-new-model-for-pi-chatbot-nearly-matches-gpt-4/"
+  - title: "AI showdown: I put 3 chatbots to the test"
+    excerpt: "research the trail, tell someone where we were going, avoid the hottest part of the day and (of course) bring water and first aid. Bonus: It reminded me not to litter in nature. Final score: ChatGPT 2, Gemini 1, Perplexity 0 Listen, if AI can help us ..."
+    publishedDateTime: 2024-03-11T00:01:00Z
+    webUrl: "https://www.komando.com/kims-column/ai-chatbot-showdown-2/901917/"
+    ampWebUrl: "https://www.komando.com/kims-column/ai-chatbot-showdown-2/901917/?amp"
+    cdnAmpWebUrl: "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/kims-column/ai-chatbot-showdown-2/901917/?amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 67
+      name: Kim Komando
+      domain: komando.com
+    quality: 59
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2023/12/DALL·E-2023-12-08-13.35.19-A-person-of-Middle-Eastern-descent-wearing-casual-attire-stands-holding-a-smartphone.-The-smartphone-screen-prominently-displays-the-Greek-symbol-fo.png?w=1200&strip=all"
-        width: 1199
-        height: 685
+      - url: "https://www.komando.com/wp-content/uploads/2024/03/kk-article-20240308-comparison-ai-chatbots-1200x675-1.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Musk says AI start up will open-source chatbot Grok"
+    excerpt: "Proactive Investors - Elon Musk’s xAI, his artificial intelligence firm, is set to open-source ‘Grok’, a chatbot aimed at rivalling OpenAI’s ChatGPT. Grok was released by xAI last year, boasting ‘real-time’ information and holding views which argued against the ‘politically correct’ approach."
+    publishedDateTime: 2024-03-11T10:33:00Z
+    webUrl: "https://ca.investing.com/news/stock-market-news/musk-says-ai-start-up-will-opensource-chatbot-grok-3297555"
+    ampWebUrl: "https://m.ca.investing.com/news/stock-market-news/musk-says-ai-start-up-will-opensource-chatbot-grok-3297555?ampMode=1"
+    cdnAmpWebUrl: "https://m-ca-investing-com.cdn.ampproject.org/c/s/m.ca.investing.com/news/stock-market-news/musk-says-ai-start-up-will-opensource-chatbot-grok-3297555?ampMode=1"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 57
+    images:
+      - url: "https://i-invdn-com.investing.com/news/LYNXNPEB660A4_L.jpg"
+        width: 800
+        height: 534
+        isCached: true
+  - title: "Elon Musk announces that AI startup xAI will open source Grok chatbot"
+    excerpt: "Musk hit ChatGPT-maker OpenAI with a lawsuit filed on February 29, accusing the AI startup and its chief Sam Altman of departing from the “original mission and historical practice of making its technology and knowledge available to the public,” by keeping GPT-4’s internal design largely a secret."
+    publishedDateTime: 2024-03-12T06:55:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/elon-musk-announces-that-ai-startup-xai-will-open-source-grok-chatbot/article67941779.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/elon-musk-announces-that-ai-startup-xai-will-open-source-grok-chatbot/article67941779.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/elon-musk-announces-that-ai-startup-xai-will-open-source-grok-chatbot/article67941779.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 57
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/jlua46/article67941778.ece/alternates/FREE_1200/2024-03-11T170708Z_2138480166_RC2SJ6AQ50EM_RTRMADP_3_MUSK-AI.JPG"
+        width: 1200
+        height: 748
         isCached: true
   - title: "AMD promotes third-party app for running AI chatbots on local hardware"
     excerpt: "The most popular AI services available today run almost exclusively on powerful Nvidia hardware, and they force customers to use an internet connection. AMD is trying"
@@ -76,6 +110,20 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/64084/content/chatbot.jpg"
         width: 708
         height: 365
+        isCached: true
+  - title: "HNW clients demand better tech but do not want AI chatbots"
+    excerpt: "High net worth clients want better technology from their advisers and wealth managers but are not so interested in AI chatbots, a report has found."
+    publishedDateTime: 2024-03-12T11:28:00Z
+    webUrl: "https://www.ftadviser.com/your-industry/2024/03/12/hnw-clients-demand-better-tech-but-do-not-want-ai-chatbots/"
+    type: article
+    provider:
+      name: FTAdviser
+      domain: ftadviser.com
+    quality: 39
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Ffta-ez-prod%2Fez%2Fimages%2F6%2F1%2F0%2F7%2F7627016-5-eng-GB%2Fpexels-tim-samuel-6697306.jpg%3Fv1?source=ftadviser"
+        width: 5896
+        height: 3931
         isCached: true
 
 secured: "5TkWsT+TCIlrwAb7FGXw+prsPC2S1/Ne65la5Gf0l8Hz6XRZw7idSwjdNcG01O//tGYrg3gliZNeguuuUhg8R8curbu1vdJzgGwbiza9+/udS8DZGZfwVkdugKektFPY3ZeMejEjgJYA+s/+BF+TYhzzBaRDhUMY6/5WvdH3e09cf+ZAyAYmnIYfDncMn3vwAINJ/Z1P3NrrjMmyjHUyIaSjOnfF2ncgzspxhAzLxrBQ1wsz6uo+AG24C0H3lxzQ9Pfmdu9nYNc1QXoTXx0oFujxVxbTbYrFnHSGQodQaahOr/M4HQO368FfeqlfzEN+8qj7Qg/VT25k3ZISxdHSjXywUQ5vJAlPKNZrXz0thkgKPP6PfCE0PFPOsXYk0SdqkhhPlTOKp4V4oZ2WIQR1VgY1Ap3uJIhrL5WYFE4oyBsdnl9nmaAduRUn6fCGWKVZ1hLzVC8UGFYTUqDPhhWzCvGVHenEZZgBpaMAV4mfzKyDdGqiKxm2WrBIFlF7JPXrxC2sTaLf1YH8jRn5flJKYQ==;ulzmz2QHQWxReh5v9UYbFw=="

@@ -24,22 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "Absence of AI hospital rules worries nurses"
-    excerpt: "For nurse Judy Schmidt, the beeping monitors hooked up to critical patients at the Community Medical Center in Toms River, New Jersey, were just a normal part of the whirlwind of activity in the intensive care unit."
-    publishedDateTime: 2024-03-07T17:48:00Z
-    webUrl: "https://medicalxpress.com/news/2024-03-absence-ai-hospital-nurses.html"
-    ampWebUrl: "https://medicalxpress.com/news/2024-03-absence-ai-hospital-nurses.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2024-03-absence-ai-hospital-nurses.amp"
+  - title: "Regulate Frontier AI to Avoid Misinformation"
+    excerpt: "There is no progress without public trust in artificial intelligence."
+    publishedDateTime: 2024-03-08T14:52:00Z
+    webUrl: "https://www.wsj.com/articles/regulate-frontier-ai-to-avoid-misinformation-tech-public-trust-486e8bdc"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2021/nurse-1.jpg"
-        width: 2880
-        height: 2135
-        isCached: true
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 47
+  - title: "Navigating the AI Frontier: The Crucial Role of Corporate Governance in Artificial Intelligence"
+    excerpt: "While broad governance concepts regarding AI have been the talk of various government agencies and commissions, no sweeping legislation yet exists in the area of AI and none is expected soon. Therefore,"
+    publishedDateTime: 2024-03-08T17:47:00Z
+    webUrl: "https://www.law.com/thelegalintelligencer/2024/03/08/navigating-the-ai-frontier-the-crucial-role-of-corporate-governance-in-artificial-intelligence/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 20
+  - title: "AI images of Trump with Black voters are just the latest in racist election misinformation"
+    excerpt: "Trump’s supporters have also begun courting this group by making dozens of artificial intelligence (AI) generated images of him surrounded by adoring Black people. Though some of the realistic-looking images contain the tell-tale signs of oddly rendered hands (showing missing,"
+    publishedDateTime: 2024-03-08T13:07:00Z
+    webUrl: "https://www.lgbtqnation.com/2024/03/ai-images-of-trump-with-black-voters-are-just-the-latest-in-racist-election-misinformation/"
+    type: article
+    provider:
+      name: LGBTQ Nation
+      domain: lgbtqnation.com
+    quality: 9
 
 secured: "8GGeA1SRCsCccUhu90llxYr1n3lDD8eMtpb7U8jNDxX5tPSZNVRdhyydjz8n0WqyoeoazY9IdiBDVHcKJUFQcxUKEsIvhb8kYNYDi/EB9wUGJK6IpBP2df5bnxsiimFgtz3Yt2vCC2fDG6faVmlisSLtCNApK5B/3HvqtN8hBlkRicJVEphoKnfAx+F4HYHMLzTEDW43N/0AHHz9koO7Vlusxn6HH+inU46wxRv9YgNR/iWlVha5S1ddpdICO2Dqvo1fEeb1svjKNRXxm+jzEc/wEFGHQVhqhWazXeE8HbjTVwMZ9NWyz+Hgs7Ll2uQmvTpOeM+15UB4tiqbornSb5/drcFoj+LhRGfFHD3OOIw1p/pzJXKEW5BmU4M5cl/9fTwpDIhdmk12bDSN8KvcRCQHj86b8cHMZtEpioNh5ruOGfWRS+HQbVKtL8KQURyue3JUJUYVbnw9nncL+K9itFrPFLpkRO+ndHLMyrFzm+jaDqRfbXJ+p1hcyd4yvsZbyNd8NTs2LH7N/bcwEMAd8w==;XGjK2NvT9u/mHwg9QoQaKQ=="
 ---

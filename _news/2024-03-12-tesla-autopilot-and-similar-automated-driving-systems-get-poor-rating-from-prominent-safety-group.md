@@ -24,6 +24,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "No evidence that automated-driving tech used by Tesla, rivals has real-world safety benefits: study"
+    excerpt: "Tesla’s Autopilot and Full Self Driving technology and other assisted-driving systems marketed by major automakers received “poor” ratings from the US Insurance Institute for"
+    publishedDateTime: 2024-03-12T17:10:00Z
+    webUrl: "https://nypost.com/2024/03/12/business/tesla-most-car-makers-get-poor-ratings-for-automated-driving-tech-study/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 25
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2024/03/porsche-today-introduced-powerful-production-78209061.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+
 secured: "8WCb1QarErjHE+atxcvdKQSXBOjvJOG1YHEnIAQOXaE+SXWdnkv3CEZDkjQC+tzh4VsTl2f59XwTu50Xkhgj9qwvbhYuwfyi/L3bmv+HSJWZ269TSGLE3zQjVHt4k2h8hTWtdjY8h8kKgHrMZz+cI4UKHnN0rWFRQcwEBkbCd4MWd+Pl0Lk1uZcMcJk7gW22j6LtmYXIl9QLbh6xc0Oe27K5RVs/TL1RdaTNnqRs9wAmnQTBUJhEsUjUK8UJZ/mNdb2OuBE2c18OxEvG86LOmyNsQqEsen2MjdH3pbQMPR/e0Gjmqh9DO7g0mzbiDNb4QXZc47+5KiAXJ4DWfRZ6J3fDX2+DbEpNLfPFQ345L3Q=;0TUgV4Dze/mkmQfPtdaALQ=="
 ---
 

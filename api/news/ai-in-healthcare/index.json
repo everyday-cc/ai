@@ -429,49 +429,6 @@
       ]
     },
     {
-      "path": "_news/2024-03-06-the-impact-of-artificial-intelligence-on-our-encounters.md",
-      "title": "The Impact of Artificial Intelligence on Our Encounters",
-      "excerpt": "On February 28, I participated in a seminar on a new book, Encountering Artificial Intelligence, 1 exploring the ethics of artificial intelligence (AI) from within the Catholic intellectual tradition. I was not involved with the book but asked to be a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/za/blog/our-new-discontents/202403/the-impact-of-artificial-intelligence-on-our-encounters",
-      "originalUrl": "https://www.psychologytoday.com/za/blog/our-new-discontents/202403/the-impact-of-artificial-intelligence-on-our-encounters",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-03/andy-kelly-0E_vhMVqL9g-unsplash.jpeg.jpg?itok=zgUvJxp6",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/za/blog/our-new-discontents/202403/the-impact-of-artificial-intelligence-on-our-encounters?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/our-new-discontents/202403/the-impact-of-artificial-intelligence-on-our-encounters?amp",
-      "publishedDateTime": "2024-03-05T17:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-03-05-orlando-health-embraces-cutting-edge-robotics-technology.md",
       "title": "Orlando Health Embraces Cutting-Edge Robotics Technology",
       "excerpt": "Robotic arms of a robotic surgical system demonstrate how doctors at Orlando Health Cancer Institute use the system during procedures for treatment of lung cancer. Orlando Health recognizes the pivotal role of technology in providing high-quality healthcare.",
@@ -1323,6 +1280,49 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-healthcare-startup-abridge-raises-150-mln-for-ai-model-for-clinicians.md",
+      "title": "Healthcare startup Abridge raises $150 mln for AI model for clinicians",
+      "excerpt": "Feb 23 (Reuters) - Abridge, a startup building artificial intelligence-powered clinical documentation tools, has raised $150 million in a Series C round, the company told Reuters, as more investors seek exposure to industry-specific generative AI applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/markets/deals/healthcare-startup-abridge-raises-150-mln-ai-model-clinicians-2024-02-23/",
+      "originalUrl": "https://www.reuters.com/markets/deals/healthcare-startup-abridge-raises-150-mln-ai-model-clinicians-2024-02-23/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-23T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

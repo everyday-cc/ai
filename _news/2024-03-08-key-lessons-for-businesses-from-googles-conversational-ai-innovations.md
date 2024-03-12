@@ -104,6 +104,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "5 reasons fear won’t halt the advancement of artificial intelligence"
+    excerpt: "Artificial intelligence (AI) stands at the forefront of technological advancement, promising to reshape industries, enhance productivity and even redefine the essence of human experience. Despite the mounting concerns and fears about its potential to ..."
+    publishedDateTime: 2024-03-12T00:00:00Z
+    webUrl: "https://rollingout.com/2024/03/12/fear-wont-halt-artificial-intelligence/"
+    type: article
+    provider:
+      name: Rolling Out
+      domain: rollingout.com
+    quality: 41
+    images:
+      - url: "https://rollingout.com/wp-content/uploads/2024/03/shutterstock_2300356051.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Artificial Intelligence is the biggest threat to the 2024 elections"
     excerpt: "Yubico, the leading provider of hardware authentication security keys, and Defending Digital Campaigns (DDC), a nonprofit and nonpartisan organisation committed to bringing free cybersecurity tools and resources to federal election campaigns,"
     publishedDateTime: 2024-03-12T01:01:00Z

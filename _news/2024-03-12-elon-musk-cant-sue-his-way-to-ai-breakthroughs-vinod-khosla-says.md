@@ -7,7 +7,7 @@ originalUrl: "https://economictimes.indiatimes.com/tech/technology/elon-musk-can
 webUrl: "https://economictimes.indiatimes.com/tech/technology/elon-musk-cant-sue-his-way-to-ai-breakthroughs-vinod-khosla-says/articleshow/108409295.cms"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Elon Musk Can’t Sue His Way To AI Breakthroughs, Khosla Says"
-    excerpt: "Billionaire Elon Musk can’t sue his way into artificial general intelligence, fellow billionaire and OpenAI investor Vinod Khosla said in an interview on Bloomberg TV."
-    publishedDateTime: 2024-03-11T18:02:00Z
-    webUrl: "https://www.ndtvprofit.com/business/khosla-says-musk-can-t-sue-his-way-to-ai-breakthroughs"
-    type: article
-    provider:
-      name: ndtvprofit
-      domain: ndtvprofit.com
-    quality: 19
   - title: "Khosla Says Musk Can’t Sue His Way to AI Breakthroughs"
     excerpt: "Billionaire Elon Musk can’t sue his way into artificial general intelligence, fellow billionaire and OpenAI investor Vinod Khosla said in an interview on Bloomberg TV."
     publishedDateTime: 2024-03-11T17:01:00Z

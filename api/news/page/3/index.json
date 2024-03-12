@@ -2,6 +2,327 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-03-11-healthcare-pros-show-interest-in-apples-vision-pro-survey.md",
+      "title": "Healthcare pros show interest in Apple's Vision Pro — survey",
+      "excerpt": "Up to 75% of US healthcare professionals are open to exploring the use of Vision Pro devices at work, survey claims.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3714400/healthcare-pros-show-interest-in-apples-vision-pro-survey.html",
+      "originalUrl": "https://www.computerworld.com/article/3714400/healthcare-pros-show-interest-in-apples-vision-pro-survey.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2024/03/04/20/vision-pro-1-100961865-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3714400/healthcare-pros-show-interest-in-apples-vision-pro-survey.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3714400/healthcare-pros-show-interest-in-apples-vision-pro-survey.amp.html",
+      "publishedDateTime": "2024-03-11T13:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2024-03-11-deepmind-and-stanfords-new-robot-control-model-follow-instructions-from-sketches.md",
+      "title": "DeepMind and Stanford’s new robot control model follow instructions from sketches",
+      "excerpt": "The researchers created RT-Sketch, a model that uses sketches to control robots. It performs on par with language- and image-conditioned agents in normal conditions and outperforms them in situations where language and image goals fall short. While ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/automation/deepmind-and-stanfords-new-robot-control-model-follow-instructions-from-sketches/",
+      "originalUrl": "https://venturebeat.com/automation/deepmind-and-stanfords-new-robot-control-model-follow-instructions-from-sketches/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/03/Screenshot-2024-03-11-at-1.24.45 PM.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 482,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-11T13:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-11-the-importance-of-ethical-ai-mitigating-bias-in-machine-learning-algorithms.md",
+      "title": "The Importance of Ethical AI: Mitigating Bias in Machine Learning Algorithms",
+      "excerpt": "In a world increasingly reliant on artificial intelligence, ensuring ethics and fairness in AI systems is more vital than ever. Join us as we delve into the crucial topic of mitigating bias in machine learning algorithms and explore the importance of ethical AI in shaping a more equitable future for all.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/the-importance-of-ethical-ai-mitigating-bias-in-machine-learning-algorithms/",
+      "originalUrl": "https://techbullion.com/the-importance-of-ethical-ai-mitigating-bias-in-machine-learning-algorithms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2024/03/Artificial-Intelligence.jpg",
+          "width": 1000,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-11T12:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AI Ethics",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2024-03-11-nvidias-ai-chips-cant-be-beaten-even-if-theyre-free.md",
+      "title": "Nvidia’s AI chips can't be beaten, even if they're free",
+      "excerpt": "Jensen Huang gets overenthusiastic. Nvidia boss Jensen Huang has boasted that his firm's chips are \"so good that even when the competitor's chips are free, it's not cheap enough.\" At the 2024 SIEPR Economic Summit,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fudzilla.com/news/graphics/58608-nvidia-s-ai-chips-can-t-be-beaten-even-if-they-re-free",
+      "originalUrl": "https://www.fudzilla.com/news/graphics/58608-nvidia-s-ai-chips-can-t-be-beaten-even-if-they-re-free",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fudzilla.com/media/k2/items/cache/21201184c08d1eb3d16765121aeb3d18_L.jpg",
+          "width": 620,
+          "height": 465,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-11T10:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fudzilla",
+        "domain": "fudzilla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-11-the-3-best-artificial-intelligence-stocks-to-invest-in-for-big-gains-in-2024.md",
+      "title": "The 3 Best Artificial Intelligence Stocks to Invest In for Big Gains in 2024",
+      "excerpt": "Spread the loveArtificial Intelligence (AI) is not just a buzzword; it’s the frontier of technological advancement that is integrating into every aspect of our lives. As AI technology continues to evolve,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thetechedvocate.org/the-3-best-artificial-intelligence-stocks-to-invest-in-for-big-gains-in-2024/",
+      "originalUrl": "https://www.thetechedvocate.org/the-3-best-artificial-intelligence-stocks-to-invest-in-for-big-gains-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thetechedvocate.org/wp-content/uploads/2024/03/7a429bf606918a9401ba8613d1680567.jpg",
+          "width": 563,
+          "height": 322,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-11T09:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "thetechedvocate.org",
+        "domain": "thetechedvocate.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-11-how-to-choose-an-ai-as-a-service-provider.md",
+      "title": "How to choose an AI-as-a-service provider",
+      "excerpt": "AIaaS can help you jumpstart your AI projects, but there are some details you need to know. Here’s what to look for and five leading options to consider.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.html",
+      "originalUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2024/02/dinging-service-bell-in-robot-hand-by-andrey-popov-via-shutterstock-100961475-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html",
+      "publishedDateTime": "2024-03-11T03:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AWS AI",
+        "Natural Language Processing",
+        "Microsoft AI",
+        "Machine Learning",
+        "IBM AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2024-03-11-ai-showdown-i-put-3-chatbots-to-the-test.md",
+      "title": "AI showdown: I put 3 chatbots to the test",
+      "excerpt": "research the trail, tell someone where we were going, avoid the hottest part of the day and (of course) bring water and first aid. Bonus: It reminded me not to litter in nature. Final score: ChatGPT 2, Gemini 1, Perplexity 0 Listen, if AI can help us ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.komando.com/kims-column/ai-chatbot-showdown-2/901917/",
+      "originalUrl": "https://www.komando.com/kims-column/ai-chatbot-showdown-2/901917/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.komando.com/wp-content/uploads/2024/03/kk-article-20240308-comparison-ai-chatbots-1200x675-1.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.komando.com/kims-column/ai-chatbot-showdown-2/901917/?amp",
+      "cdnAmpWebUrl": "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/kims-column/ai-chatbot-showdown-2/901917/?amp",
+      "publishedDateTime": "2024-03-11T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kim Komando",
+        "domain": "komando.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-11-5-ai-predictions-for-the-year-2030.md",
       "title": "5 AI Predictions For The Year 2030",
       "excerpt": "Agents are AI systems that can complete loosely defined tasks: say, planning and booking your upcoming trip. AGI refers to an artificial intelligence system that meets or exceeds human capabilities on every dimension. When people envision the state of AI in 2030, agents and/or AGI are often front and center.",
@@ -10,7 +331,7 @@
       "originalUrl": "https://www.forbes.com/sites/robtoews/2024/03/10/10-ai-predictions-for-the-year-2030/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 198,
+      "heat": 208,
       "tags": null,
       "images": [
         {
@@ -354,6 +675,49 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-10-which-florida-airports-use-facial-recognition-technology.md",
+      "title": "Which Florida airports use facial recognition technology?",
+      "excerpt": "The next time you’re in a security line at the airport, you may find that instead of a Transportation Security Administration officer checking your ID, a camera and screen will use biometric ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfla.com/news/florida/which-florida-airports-use-facial-recognition-technology/",
+      "originalUrl": "https://www.wfla.com/news/florida/which-florida-airports-use-facial-recognition-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wfla.com/wp-content/uploads/sites/71/2024/03/GettyImages-1139860049.jpg?w=1280",
+          "width": 1280,
+          "height": 815,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.wfla.com/news/florida/which-florida-airports-use-facial-recognition-technology/amp/",
+      "cdnAmpWebUrl": "https://www-wfla-com.cdn.ampproject.org/c/s/www.wfla.com/news/florida/which-florida-airports-use-facial-recognition-technology/amp/",
+      "publishedDateTime": "2024-03-09T18:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFLA News Channel 8",
+        "domain": "wfla.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -835,383 +1199,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-09-matrix-multiplication-breakthrough-could-lead-to-faster-more-efficient-ai-models.md",
-      "title": "Matrix multiplication breakthrough could lead to faster, more efficient AI models",
-      "excerpt": "This could eventually accelerate AI models like ChatGPT, which rely heavily on matrix multiplication to function. The findings, presented in two recent papers, have led to what is reported to be the biggest improvement in matrix multiplication efficiency in over a decade.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2024/03/matrix-multiplication-breakthrough-could-lead-to-faster-more-efficient-ai-models/",
-      "originalUrl": "https://arstechnica.com/information-technology/2024/03/matrix-multiplication-breakthrough-could-lead-to-faster-more-efficient-ai-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/matrix_hero_1-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-08T21:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-08-6-ecommerce-trends-to-watch.md",
-      "title": "6 ecommerce trends to watch",
-      "excerpt": "Powerful AI-driven omnichannel experiences are at the heart of business growth. Explore six ecommerce trends making the greatest impact.\nThe post 6 ecommerce trends to watch appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ecommerce-trends/",
-      "originalUrl": "https://www.ibm.com/blog/ecommerce-trends/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-08T19:00:04Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-08-renewable-energy-trends-and-developments-powering-a-cleaner-future.md",
-      "title": "Renewable energy trends and developments powering a cleaner future",
-      "excerpt": "The acceleration in clean, renewable energy power generation comes not a moment too soon for policy-makers concerned with climate change.\nThe post Renewable energy trends and developments powering a cleaner future appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/renewable-energy-trends/",
-      "originalUrl": "https://www.ibm.com/blog/renewable-energy-trends/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-08T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-09-navigating-the-risks-of-ai-weaponization.md",
-      "title": "Navigating The Risks Of AI Weaponization",
-      "excerpt": "As AI continues to advance and become more pervasive, so do its risks. From mass disinformation campaigns and deepfakes to fully autonomous weapon systems, the convergence of AI, technology and “bad intentions” demands priority attention.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/navigating-the-risks-of-ai-weaponization/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/navigating-the-risks-of-ai-weaponization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65eb37f10a2278925e9cdb57/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1456,
-          "height": 864,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/navigating-the-risks-of-ai-weaponization/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/08/navigating-the-risks-of-ai-weaponization/amp/",
-      "publishedDateTime": "2024-03-08T16:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2024-03-08-5g-use-cases-that-are-transforming-the-world.md",
-      "title": "5G use cases that are transforming the world",
-      "excerpt": "A look at the applications and use cases that 5G is enabling to transform the world.\nThe post 5G use cases that are transforming the world appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/5g-use-cases/",
-      "originalUrl": "https://www.ibm.com/blog/5g-use-cases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2024/03/ma74481_blog-lead-space-2x1-1.jpg",
-          "width": 1080,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-08T15:41:37Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-08-the-power-and-peril-of-ai-in-digital-health.md",
-      "title": "The Power (And Peril) Of AI In Digital Health",
-      "excerpt": "Artificial intelligence technologies are rapidly being adopted into all facets of society, and digital health is no exception.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/the-power-and-peril-of-ai-in-digital-health/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/the-power-and-peril-of-ai-in-digital-health/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e9f2643e62634b0affa493/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 843,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/the-power-and-peril-of-ai-in-digital-health/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/08/the-power-and-peril-of-ai-in-digital-health/amp/",
-      "publishedDateTime": "2024-03-08T15:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-08-the-ai-takeover-in-cinema-how-movie-studios-use-artificial-intelligence.md",
-      "title": "The AI Takeover In Cinema: How Movie Studios Use Artificial Intelligence",
-      "excerpt": "The film industry, always at the forefront of technological innovation, is increasingly embracing artificial intelligence (AI) to revolutionize movie production, distribution, and marketing. From script analysis to post-production,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/neilsahota/2024/03/08/the-ai-takeover-in-cinema-how-movie-studios-use-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/neilsahota/2024/03/08/the-ai-takeover-in-cinema-how-movie-studios-use-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e92d973e62634b0affa472/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-08T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-03-08-cambrian-robotics-obtains-seed-funding-to-provide-vision-for-complex-tasks.md",
-      "title": "Cambrian Robotics obtains seed funding to provide vision for complex tasks",
-      "excerpt": "Cambrian will use the funding to continue its mission of giving industrial robots human-level capabilities for complex tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/cambrian-robotics-obtains-seed-funding-to-provide-vision-for-complex-tasks/",
-      "originalUrl": "https://www.therobotreport.com/cambrian-robotics-obtains-seed-funding-to-provide-vision-for-complex-tasks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-08T14:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

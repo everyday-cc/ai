@@ -2,6 +2,135 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2023-11-22-hyundais-robot-heavy-ev-factory-in-singapore-is-fully-operational.md",
+      "title": "Hyundai’s robot-heavy EV factory in Singapore is fully operational",
+      "excerpt": "While a car factory vegetable garden may sound somewhat odd, it actually compliments the Singapore government’s ongoing “ 30 by 30 ” initiative. Due to the region’s rocky geology, Singapore can only utilize about one percent of its land for agriculture—an estimated 90 percent of all food in the area must be imported.",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/technology/hyundai-singapore-factory/",
+      "originalUrl": "https://www.popsci.com/technology/hyundai-singapore-factory/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2023/11/21/Large-57885-NewHyundaiMotorGroupInnovationCenterSingaporeSettoTransformProductionRDandCustomerExperience-scaled.jpg?auto=webp",
+          "width": 2560,
+          "height": 1710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.popsci.com/technology/hyundai-singapore-factory/?amp",
+      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/hyundai-singapore-factory/?amp",
+      "publishedDateTime": "2023-11-21T18:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-21-small-batch-evs-and-plenty-of-robotshyundais-new-innovation-center.md",
+      "title": "Small-batch EVs and plenty of robots—Hyundai’s new innovation center",
+      "excerpt": "Hyundai's Innovation Center has put robots in charge of that entire task. One robot places the dash while another swings in and secures it to the vehicle. An impressive feat, because this task is full of constantly changing variables.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/cars/2023/11/small-batch-evs-and-plenty-of-robots-hyundais-new-innovation-center/",
+      "originalUrl": "https://arstechnica.com/cars/2023/11/small-batch-evs-and-plenty-of-robots-hyundais-new-innovation-center/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/CSC05707-800x534.jpg",
+          "width": 800,
+          "height": 534,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/cars/2023/11/small-batch-evs-and-plenty-of-robots-hyundais-new-innovation-center/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/cars/2023/11/small-batch-evs-and-plenty-of-robots-hyundais-new-innovation-center/amp/",
+      "publishedDateTime": "2023-11-21T15:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-21-new-york-drones-robotics-ai-summit-heralds-growing-automation-industry.md",
+      "title": "New York Drones & Robotics AI Summit Heralds Growing Automation Industry",
+      "excerpt": "Speakers at the Drones & Robotics AI Summit in New York discussed state and federal support of tech startups, as well as opportunities",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/drones-robotics-ai-summit-new-york-heralds-growing-automation-industry/",
+      "originalUrl": "https://www.therobotreport.com/drones-robotics-ai-summit-new-york-heralds-growing-automation-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-21T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-21-polish-company-employs-worlds-first-ever-ai-humanoid-robot-ceo.md",
       "title": "Polish company employs world's first ever AI humanoid robot CEO",
       "excerpt": "During an interview with Fox Business over a video call, it was noted that there was a “significant delay” in Mika’s response time.",

@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/action-plan-long-in-the-making-provides
 webUrl: "https://venturebeat.com/ai/action-plan-long-in-the-making-provides-policy-guidelines-to-avoid-catastrophic-ai-risks/"
 type: article
 quality: 68
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: VentureBeat
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Report Urges Government Action to Prevent Future AI Catastrophes"
+    excerpt: "It's not just sci-fi authors getting jumpy about AI's risks. A report for the State Department weighs in on possible national security risks and a potential \"extinction-level threat to the human species."
+    publishedDateTime: 2024-03-12T16:15:00Z
+    webUrl: "https://www.inc.com/kit-eaton/report-urges-government-action-to-prevent-future-ai-catastrophes.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 39
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1158763612_538370_jrrtd1.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "4CsBYa5zvMFA236J4MwHBRtGvsrA0GjTQGtOZt4TMVmbXevaIrYIqmTN3DSMmRyecQu5a6fqRf3c/PgSRAkNJ7FVJ8zLAVz6fOC0Y4xLVJZJiJCMK8AobZvT+M9MQLtR9n5INaU/YJXmtjfiwNwt/btGbLAsrpNE4OtBOeYf+cevnj62N7qD8igiEOFVXHDVq4N9tHDF2PJ6HgyEKKWm4UsEXYjf+HWEETx43TEzJHM3I1eH9so8IwcVGpslRxe0A2ZgHXuqDWcdc+swRLHmEI++gyk+jkPJjwPUISn5zightQ/nid1b7yga/uZB/SjWUOLLExmbVudgzeu+rptmA80+3KElFYEzkawBgsI+19Q=;i+oBNIkIRd+MZXY+rF8tug=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/cognizant-launches-state-of-the-art-san
 webUrl: "https://venturebeat.com/ai/cognizant-launches-state-of-the-art-san-francisco-lab-to-boost-enterprise-ai-adoption/"
 type: article
 quality: 62
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 2048
         height: 792
         isCached: true
-  - title: "San Francisco Voters Approve Facial Recognition Drones"
-    excerpt: "Voters were projected to approve a ballot measure that will ease restrictions on vehicle pursuits, allowing for the use of more surveillance technology and reducing oversight from the Police Commission."
-    publishedDateTime: 2024-03-07T16:43:00Z
-    webUrl: "https://www.govtech.com/products/san-francisco-voters-approve-facial-recognition-drones"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 19
 
 secured: "VxInC4FgkpL1HxlHzuubIfHV+AVfE/BtuCByFyEk5VR13Npv4vzzm5f/Dnr6TW4usBSO7q0PSXNfVlQq4fc2IjXIYzs33EvdrVLSecc1Lv74bH4GT1xv0A6FFb04NJto936/bPBIv/r2LYFA0S4sgVvXm3Lj/HcUxkCPwtC5T1I8xce/nH4BvQfTpBONmfNbjUlAUP0tRrlSa2CEa2R4GCFYuGd6miqbnxGXxLJEbhkpWhkDRO7k6UYSk45LdiMNWce6D3Up45IJNZj2MhsxWWuFptbOGM6orkO509cLa1xTJUsQGQ+90B3ypmqv/0JHCIVixvcE6aJqEV8fBs3xIQiKq3JEfXgxDCQzClSEQ31cOnaJ2lb/1j6nYXDnSeaayf1wianwl7M+V+ouv2tG/Ed8SI4m4ugDPFSqVmeT+8i4IiR2IJHW+XWF5PwLA727fyzfgM6IgY5ryQ2hxiio5+BKTx1EAh2ZEBTQtyhkn/3/rfZdMpYyRlzGEuZ5fjo1AZpkbUPWohBStZIiUbZfpg==;/yUMQjksymLEW4TSzZIXQA=="
 ---

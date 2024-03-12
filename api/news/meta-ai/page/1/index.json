@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-12-state-dept-backed-report-provides-action-plan-to-avoid-catastrophic-ai-risks.md",
+      "title": "State Dept-backed report provides action plan to avoid catastrophic AI risks",
+      "excerpt": "While providing technical details on the risks of AI, the action plan also introduces policy proposals that can help the U.S. and its allies mitigate these risks.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/action-plan-long-in-the-making-provides-policy-guidelines-to-avoid-catastrophic-ai-risks/",
+      "originalUrl": "https://venturebeat.com/ai/action-plan-long-in-the-making-provides-policy-guidelines-to-avoid-catastrophic-ai-risks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/VB_security-breach-padlock_3_1200x800.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-11T18:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-11-ai-showdown-i-put-3-chatbots-to-the-test.md",
+      "title": "AI showdown: I put 3 chatbots to the test",
+      "excerpt": "research the trail, tell someone where we were going, avoid the hottest part of the day and (of course) bring water and first aid. Bonus: It reminded me not to litter in nature. Final score: ChatGPT 2, Gemini 1, Perplexity 0 Listen, if AI can help us ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.komando.com/kims-column/ai-chatbot-showdown-2/901917/",
+      "originalUrl": "https://www.komando.com/kims-column/ai-chatbot-showdown-2/901917/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.komando.com/wp-content/uploads/2024/03/kk-article-20240308-comparison-ai-chatbots-1200x675-1.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.komando.com/kims-column/ai-chatbot-showdown-2/901917/?amp",
+      "cdnAmpWebUrl": "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/kims-column/ai-chatbot-showdown-2/901917/?amp",
+      "publishedDateTime": "2024-03-11T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kim Komando",
+        "domain": "komando.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-11-5-ai-predictions-for-the-year-2030.md",
       "title": "5 AI Predictions For The Year 2030",
       "excerpt": "Agents are AI systems that can complete loosely defined tasks: say, planning and booking your upcoming trip. AGI refers to an artificial intelligence system that meets or exceeds human capabilities on every dimension. When people envision the state of AI in 2030, agents and/or AGI are often front and center.",
@@ -10,7 +106,7 @@
       "originalUrl": "https://www.forbes.com/sites/robtoews/2024/03/10/10-ai-predictions-for-the-year-2030/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 198,
+      "heat": 208,
       "tags": null,
       "images": [
         {
@@ -168,7 +264,7 @@
       "originalUrl": "https://venturebeat.com/ai/cognizant-launches-state-of-the-art-san-francisco-lab-to-boost-enterprise-ai-adoption/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -1315,84 +1411,6 @@
       "provider": {
         "name": "AOL",
         "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-feature-singapore-embraces-ai-to-solve-everyday-problems.md",
-      "title": "FEATURE – Singapore embraces AI to solve everyday problems",
-      "excerpt": "The booking chatbot is among more than 100 generative AI-based solutions spurred by the AI Trailblazers project",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/digital-transformation-feature-singapore-embraces-ai-to-solve-everyday-problems-3405092/",
-      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-feature-singapore-embraces-ai-to-solve-everyday-problems-3405092/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2024/02/Untitled-design-2024-02-26T111246.396.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-feature-singapore-embraces-ai-to-solve-everyday-problems-3405092/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-feature-singapore-embraces-ai-to-solve-everyday-problems-3405092/lite/",
-      "publishedDateTime": "2024-02-26T05:47:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-what-happens-when-we-outsource-boring-but-important-work-to-ai-research-shows-we-forget-how-to-do-it-ourselves.md",
-      "title": "What happens when we outsource boring but important work to AI? Research shows we forget how to do it ourselves",
-      "excerpt": "AI and smart software make life easier, most of the time. How do you keep your skills up for the times when they fail?",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/what-happens-when-we-outsource-boring-but-important-work-to-ai-research-shows-we-forget-how-to-do-it-ourselves-223981",
-      "originalUrl": "https://theconversation.com/what-happens-when-we-outsource-boring-but-important-work-to-ai-research-shows-we-forget-how-to-do-it-ourselves-223981",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-26T04:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
         "images": null,
         "publishers": null,
         "authors": null

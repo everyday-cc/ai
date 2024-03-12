@@ -9,8 +9,8 @@ ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/el
 cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot/108430382"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: brandequity.economictimes.indiatimes
@@ -27,52 +27,47 @@ images:
     isCached: true
 
 related:
-  - title: "AI startup Hugging Face is looking into open-source robotics"
-    excerpt: "Artificial intelligence startup Hugging Face Inc., best known for operating a hub for hosting open-source machine learning and AI models, is launching a new project focused on robotics under the direction of former Tesla Inc. staff scientist Remi Cadene."
-    publishedDateTime: 2024-03-07T17:19:00Z
-    webUrl: "https://siliconangle.com/2024/03/07/ai-startup-hugging-face-looking-open-source-robotics/"
+  - title: "Elon Musk Gave Himself No Choice but to Open Source His Chatbot Grok"
+    excerpt: "Elon Musk sued OpenAI for keeping its technology secret. Today he promised to give away his own “truth-seeking” chatbot Grok for free."
+    publishedDateTime: 2024-03-11T18:16:00Z
+    webUrl: "https://www.wired.com/story/elon-musk-no-choice-open-chatbot-grok/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 54
+    images:
+      - url: "https://media.wired.com/photos/65ef41a343088cbf6e525d33/191:100/w_1280,c_limit/Musk-Makes-Grok-Open-Source-Business-1695944855.jpg"
+        width: 1280
+        height: 670
+        isCached: true
+  - title: "Elon Musk Can’t Sue His Way To AI Breakthroughs, Khosla Says"
+    excerpt: "Billionaire Elon Musk can’t sue his way into artificial general intelligence, fellow billionaire and OpenAI investor Vinod Khosla said in an interview on Bloomberg TV."
+    publishedDateTime: 2024-03-11T18:02:00Z
+    webUrl: "https://www.ndtvprofit.com/business/khosla-says-musk-can-t-sue-his-way-to-ai-breakthroughs"
+    type: article
+    provider:
+      name: ndtvprofit
+      domain: ndtvprofit.com
+    quality: 19
+  - title: "Elon Musk's Open-Source 'Grok' Takes on ChatGPT"
+    excerpt: "Elon Musk announced that his AI startup xAI will release its ChatGPT competitor 'Grok' as open-source. This move comes shortly after Musk sued OpenAI for veering away from its nonprofit goals."
+    publishedDateTime: 2024-03-11T18:17:00Z
+    webUrl: "https://www.inc.com/reuters/elon-musks-open-source-grok-takes-on-chatgpt.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 19
+  - title: "The OpenAI-Elon Musk battle intensifies and AI trust sinks, but investors aren’t slowing down"
+    excerpt: "The escalation of the fight between OpenAI and Elon Musk over what kind of artificial intelligence company the phenom should be is creating even more uncertainty over who’s going to lead the generative AI era."
+    publishedDateTime: 2024-03-08T19:56:00Z
+    webUrl: "https://siliconangle.com/2024/03/08/openai-elon-musk-battle-intensifies-ai-trust-sinks-investors-arent-slowing/"
     type: article
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 69
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/robot-handshake-human-background-futuristic-digital-age.jpg"
-        width: 3309
-        height: 2206
-        isCached: true
-  - title: "Musk says AI start up will open-source chatbot Grok"
-    excerpt: "Proactive Investors - Elon Musk’s xAI, his artificial intelligence firm, is set to open-source ‘Grok’, a chatbot aimed at rivalling OpenAI’s ChatGPT. Grok was released by xAI last year, boasting ‘real-time’ information and holding views which argued against the ‘politically correct’ approach."
-    publishedDateTime: 2024-03-11T10:33:00Z
-    webUrl: "https://ca.investing.com/news/stock-market-news/musk-says-ai-start-up-will-opensource-chatbot-grok-3297555"
-    ampWebUrl: "https://m.ca.investing.com/news/stock-market-news/musk-says-ai-start-up-will-opensource-chatbot-grok-3297555?ampMode=1"
-    cdnAmpWebUrl: "https://m-ca-investing-com.cdn.ampproject.org/c/s/m.ca.investing.com/news/stock-market-news/musk-says-ai-start-up-will-opensource-chatbot-grok-3297555?ampMode=1"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 57
-    images:
-      - url: "https://i-invdn-com.investing.com/news/LYNXNPEB660A4_L.jpg"
-        width: 800
-        height: 534
-        isCached: true
-  - title: "Elon Musk announces that AI startup xAI will open source Grok chatbot"
-    excerpt: "Musk hit ChatGPT-maker OpenAI with a lawsuit filed on February 29, accusing the AI startup and its chief Sam Altman of departing from the “original mission and historical practice of making its technology and knowledge available to the public,” by keeping GPT-4’s internal design largely a secret."
-    publishedDateTime: 2024-03-12T06:55:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/elon-musk-announces-that-ai-startup-xai-will-open-source-grok-chatbot/article67941779.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/elon-musk-announces-that-ai-startup-xai-will-open-source-grok-chatbot/article67941779.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/elon-musk-announces-that-ai-startup-xai-will-open-source-grok-chatbot/article67941779.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 57
-    images:
-      - url: "https://th-i.thgim.com/public/incoming/jlua46/article67941778.ece/alternates/FREE_1200/2024-03-11T170708Z_2138480166_RC2SJ6AQ50EM_RTRMADP_3_MUSK-AI.JPG"
-        width: 1200
-        height: 748
-        isCached: true
+    quality: 8
 
 secured: "lbfDwne/xBwUCFF6o1G1XQJszyNWSdwXT3cz+PZ/l2SAGIjAUFHknZKZKYQnQFxpjMICC56OOlwNwXBw5g1/dWnyUOk1FGwbw7rV6TxReIRkcsgXsTVrhtPIPXO1S1fT6jLHlFwZZ6Cjmr2NC9vqpqqO8Jrmz858m3XXEnqWkFm7cXWedUbkKYAkjRLjVOp+fVjvluZH77LzdmlrBj7cBuChiSZqPesbX6qreYE71Ms3wZpIsMyCwWxBkHXW5tzNZkKNR8IhVUg+OyfGTOuPwW4JxwPUpoB5CVYIs4i9rMEAsIW707BFsfzbrAw2qDsPvxLh7f6Yf7w4nbVmIr1o3+zclRvGf+mGwM1+3xIhgdg=;8TX9iSPmRvhX+CfNS1K+IA=="
 ---

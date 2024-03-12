@@ -19,15 +19,54 @@ topics:
   - AI
 
 related:
-  - title: "Musk’s Lawsuit Against OpenAI Sparks Heated Debate Over AI Transparency"
-    excerpt: "The controversy began when Musk, the CEO of Tesla and SpaceX, filed a lawsuit against OpenAI, alleging that the company had misused his contributions and violated"
-    publishedDateTime: 2024-03-07T19:38:00Z
-    webUrl: "https://www.forbes.com/sites/jemmagreen/2024/03/07/musks-lawsuit-against-openai-sparks-heated-debate-over-ai-transparency/"
+  - title: "Elon Musk says his AI startup xAI will open-source its Grok chatbot"
+    excerpt: "Musk sued ChatGPT-maker OpenAI and its CEO Sam Altman, saying they had abandoned the startup's original mission to develop artificial intelligence for the benefit of humanity and not for profit."
+    publishedDateTime: 2024-03-12T09:51:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot/108430382"
+    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot/108430382"
+    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot/108430382"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
+      name: brandequity.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-108430382,imgsize-527560,width-1200,height=765,overlay-etbrandequity/digital/elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot.jpg"
+        width: 1200
+        height: 765
+        isCached: true
+  - title: "Elon Musk Gave Himself No Choice but to Open Source His Chatbot Grok"
+    excerpt: "Elon Musk sued OpenAI for keeping its technology secret. Today he promised to give away his own “truth-seeking” chatbot Grok for free."
+    publishedDateTime: 2024-03-11T18:16:00Z
+    webUrl: "https://www.wired.com/story/elon-musk-no-choice-open-chatbot-grok/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 54
+    images:
+      - url: "https://media.wired.com/photos/65ef41a343088cbf6e525d33/191:100/w_1280,c_limit/Musk-Makes-Grok-Open-Source-Business-1695944855.jpg"
+        width: 1280
+        height: 670
+        isCached: true
+  - title: "Elon Musk Can’t Sue His Way To AI Breakthroughs, Khosla Says"
+    excerpt: "Billionaire Elon Musk can’t sue his way into artificial general intelligence, fellow billionaire and OpenAI investor Vinod Khosla said in an interview on Bloomberg TV."
+    publishedDateTime: 2024-03-11T18:02:00Z
+    webUrl: "https://www.ndtvprofit.com/business/khosla-says-musk-can-t-sue-his-way-to-ai-breakthroughs"
+    type: article
+    provider:
+      name: ndtvprofit
+      domain: ndtvprofit.com
+    quality: 19
+  - title: "Elon Musk's Open-Source 'Grok' Takes on ChatGPT"
+    excerpt: "Elon Musk announced that his AI startup xAI will release its ChatGPT competitor 'Grok' as open-source. This move comes shortly after Musk sued OpenAI for veering away from its nonprofit goals."
+    publishedDateTime: 2024-03-11T18:17:00Z
+    webUrl: "https://www.inc.com/reuters/elon-musks-open-source-grok-takes-on-chatgpt.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 19
 
 secured: "/lfTEkB+h1Uqvbl1X2HYM6RvQ622fXFwH9IJR68zvgTM/Dd9Eq/BOYVqfoQGSyt5j/Z/0GS50LbJHVmRO18gatKHu3pQwSLxRxjepOVGFA9E+6+EMsCeStcXrkem0QapJ7xjCEgILCuodprU3xFtmXZclvQ9mdPG/aXyQqYZgA3/1MrbvgTmASOfO8I2oEvB5EicjcvreHcEW5zWT0kKxQ790Qs1qpqXXn6Zs3bfE2i1qeOZWgwNqe8LPOTlXbjHTkhXarUxFxvtVIUfzyssQNsZ3hq2RIRLcZDIr9/1JUtMbJXhioXBH1k9Ae/BKyPz4f+KbLNPHb4BDCeElhXj1JVNPVwBLQhZzB2bC/RNN1s=;ozOnVRgIlaYE537q97Fjng=="
 ---

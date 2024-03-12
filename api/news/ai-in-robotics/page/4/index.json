@@ -2,6 +2,119 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-02-13-chatgpt-maker-openai-ceo-sam-altman-warns-misalignments-could-make-artificial-intelligence-dangerous.md",
+      "title": "ChatGPT-maker OpenAI CEO Sam Altman warns 'misalignments' could make artificial intelligence dangerous",
+      "excerpt": "The CEO of ChatGPT-maker OpenAI said Tuesday that the dangers that keep him awake at night regarding artificial intelligence are the “very subtle societal misalignments” that could make the systems wreak havoc.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/chatgptmaker-openai-ceo-sam-altman-warns-misalignments-could-make-artificial-intelligence-dangerous-71707820386786.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/chatgptmaker-openai-ceo-sam-altman-warns-misalignments-could-make-artificial-intelligence-dangerous-71707820386786.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2024/02/13/1600x900/FILES-SEMICONDUCTORS-OPENAI-semiconductors-US-UAE-_1707821720835_1707821721048.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/chatgptmaker-openai-ceo-sam-altman-warns-misalignments-could-make-artificial-intelligence-dangerous-71707820386786.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/chatgptmaker-openai-ceo-sam-altman-warns-misalignments-could-make-artificial-intelligence-dangerous-71707820386786.html",
+      "publishedDateTime": "2024-02-13T10:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times Tech",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-the-best-presidents-day-roomba-deals-at-amazon-save-up-to-50-on-robot-vacuums-and-mops.md",
+      "title": "The Best Presidents' Day Roomba Deals at Amazon: Save Up to 50% on Robot Vacuums and Mops",
+      "excerpt": "Right now, highly-rated iRobot Roomba robot vacuums and Braava mops are up to 50% off at Amazon. There are even vacuum and mop bundles, including the Roomba i5 and the Roomba j7+, to tackle two chores at the same time. Some models have even been marked down to their lowest prices of the year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.etonline.com/the-best-presidents-day-roomba-deals-at-amazon-save-up-to-50-on-robot-vacuums-and-mops-154274",
+      "originalUrl": "https://www.etonline.com/the-best-presidents-day-roomba-deals-at-amazon-save-up-to-50-on-robot-vacuums-and-mops-154274",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T23:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entertainment Tonight",
+        "domain": "etonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-would-you-be-happy-to-be-operated-on-by-a-surgical-robot-controlled-by-ai.md",
+      "title": "Would you be happy to be operated on by a surgical robot controlled by AI?",
+      "excerpt": "Would you be happy to be operated on by a surgical robot, being controlled solely by artificial intelligence (AI)? Or, how would you feel being stitched up by a robot, which is remotely operated ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itv.com/news/2024-02-12/would-you-be-happy-to-be-operated-on-by-a-surgical-robot-controlled-by-ai?trk=public_post_comment-text",
+      "originalUrl": "https://www.itv.com/news/2024-02-12/would-you-be-happy-to-be-operated-on-by-a-surgical-robot-controlled-by-ai?trk=public_post_comment-text",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T22:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITV",
+        "domain": "itv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-13-sweet-robo-unveils-cutting-edge-robotic-vending-machines-for-treats.md",
       "title": "Sweet Robo Unveils Cutting-Edge Robotic Vending Machines for Treats",
       "excerpt": "BROOKLYN, NY / ACCESSWIRE / February 12, 2024 / Sweet Robo introduces innovative, automated vending machines that redefine the way users experience treats. The company specializes in crafting machines",
@@ -1156,136 +1269,6 @@
       "provider": {
         "name": "Armenpress",
         "domain": "armenpress.am",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-kettybot-pro-will-provide-personalized-customer-service-says-pudu-robotics.md",
-      "title": "KettyBot Pro will provide personalized customer service, says Pudu Robotics",
-      "excerpt": "KettyBot Pro's new features include a larger screen for personalized advertising, cameras for navigation, and smart tray inspection.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/kettybot-pro-will-provide-personalized-customer-service-says-pudu-robotics/",
-      "originalUrl": "https://www.therobotreport.com/kettybot-pro-will-provide-personalized-customer-service-says-pudu-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2024/01/KettyBot_Pro_Pudu.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-31T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-microsoft-and-openai-are-in-talks-to-inject-500-million-into-humanoid-robotics-startup-figure-ai-report-says.md",
-      "title": "Microsoft and OpenAI are in talks to inject $500 million into humanoid robotics startup Figure AI, report says",
-      "excerpt": "Microsoft and OpenAI are said to be exploring options to invest up to $500 million in a humanoid robotics startup, Bloomberg reported. The tech heavyweights are in talks with Figure AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/microsoft-openai-talks-investment-figure-ai-humanoid-robotics-report-2024-1",
-      "originalUrl": "https://www.businessinsider.com/microsoft-openai-talks-investment-figure-ai-humanoid-robotics-report-2024-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65ba1d7eac2de4f17ee61474?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/microsoft-openai-talks-investment-figure-ai-humanoid-robotics-report-2024-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/microsoft-openai-talks-investment-figure-ai-humanoid-robotics-report-2024-1?amp",
-      "publishedDateTime": "2024-01-31T11:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-31-from-artificial-labor-to-artificial-intelligence-human-judgment-keeps-it-real-opinion.md",
-      "title": "From artificial labor to artificial intelligence: Human judgment keeps it real | Opinion",
-      "excerpt": "Philosophers, not chatbots, will grapple with what it all means. We have the capacity to add value to decision-making that electrons can’t replace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/opinion/columnists/2024/01/31/opinion-from-artificial-labor-to-artificial-intelligence/72396206007/",
-      "originalUrl": "https://www.usatoday.com/story/opinion/columnists/2024/01/31/opinion-from-artificial-labor-to-artificial-intelligence/72396206007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-31T10:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,483 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2024-02-23-neuralink-brain-chip-advance-sparks-safety-and-secrecy-concerns.md",
+      "title": "Neuralink brain chip: advance sparks safety and secrecy concerns",
+      "excerpt": "Elon Musk announced this week that his company’s brain implant has allowed a person to move a computer mouse with their mind.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/d41586-024-00550-6",
+      "originalUrl": "https://www.nature.com/articles/d41586-024-00550-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-23T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-razorpay-surpasses-150-bn-in-tpv-unveils-new-payment-gateway-ai-chatbot.md",
+      "title": "Razorpay surpasses $150 bn in TPV, unveils new payment gateway & AI chatbot",
+      "excerpt": "Bengaluru, Feb 23 (IANS) Fintech major Razorpay on Friday announced it has achieved an annualised total payment volume (TPV) of $150 billion, and unveiled several new features including an AI chatbot. The company also launched ‘Payment Gateway 3.0 ...",
+      "sourceUrl": null,
+      "webUrl": "https://glamsham.com/world/technology/razorpay-surpasses-150-bn-in-tpv-unveils-new-payment-gateway-ai-chatbot",
+      "originalUrl": "https://glamsham.com/world/technology/razorpay-surpasses-150-bn-in-tpv-unveils-new-payment-gateway-ai-chatbot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://glamsham.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://glamsham.com/world/technology/razorpay-surpasses-150-bn-in-tpv-unveils-new-payment-gateway-ai-chatbot?amp",
+      "cdnAmpWebUrl": "https://glamsham-com.cdn.ampproject.org/c/s/glamsham.com/world/technology/razorpay-surpasses-150-bn-in-tpv-unveils-new-payment-gateway-ai-chatbot?amp",
+      "publishedDateTime": "2024-02-23T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "glamsham.com",
+        "domain": "glamsham.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-reddit-seals-60m-deal-with-google-to-boost-ai-tools-report-claims.md",
+      "title": "Reddit seals $60M deal with Google to boost AI tools, report claims",
+      "excerpt": "Up to now, most AI models that underpin tools like OpenAI’s ChatGPT or Google’s Gemini (formerly Bard) have been trained mainly on content scraped from the web. But the method has caused alarm ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/reddit-in-60m-deal-with-google-to-boost-ai-tools-report-claims/",
+      "originalUrl": "https://www.digitaltrends.com/computing/reddit-in-60m-deal-with-google-to-boost-ai-tools-report-claims/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2024/02/reddit.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/reddit-in-60m-deal-with-google-to-boost-ai-tools-report-claims/",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/reddit-in-60m-deal-with-google-to-boost-ai-tools-report-claims/",
+      "publishedDateTime": "2024-02-23T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-kawasaki-robotics-partners-with-olis-robotics-to-offer-remote-monitoring-and-control-of-its-industrial-robots-robotics-automation-news.md",
+      "title": "Kawasaki Robotics Partners With Olis Robotics To Offer Remote Monitoring And Control Of Its Industrial Robots Robotics & Automation News",
+      "excerpt": "(MENAFN- Robotics & Automation News) Olis Robotics , a provider of remote error recovery systems for industrial robots, has agreed a new partnership with Kawasaki ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1107889370/Kawasaki-Robotics-Partners-With-Olis-Robotics-To-Offer-Remote-Monitoring-And-Control-Of-Its-Industrial-Robots-Robotics-Automation-News",
+      "originalUrl": "https://menafn.com/1107889370/Kawasaki-Robotics-Partners-With-Olis-Robotics-To-Offer-Remote-Monitoring-And-Control-Of-Its-Industrial-Robots-Robotics-Automation-News",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2024-02/22/R&AN_50b7eimage_story.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-22T23:12:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mena FN",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-ai-is-already-helping-deliver-packages-and-diagnose-patients-heres-what-else-it-can-do.md",
+      "title": "AI Is Already Helping Deliver Packages and Diagnose Patients. Here’s What Else It Can Do.",
+      "excerpt": "Artificial intelligence is everywhere. It's helping discover new planets and detect cancer faster. And it's working in a bunch of places you likely didn't realize, too.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/story/ai-is-already-helping-deliver-packages-and-diagnose-patients-heres-what-else-it-can-do-4027e74d",
+      "originalUrl": "https://www.wsj.com/story/ai-is-already-helping-deliver-packages-and-diagnose-patients-heres-what-else-it-can-do-4027e74d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-928820/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/story/ai-is-already-helping-deliver-packages-and-diagnose-patients-heres-what-else-it-can-do-4027e74d",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/story/ai-is-already-helping-deliver-packages-and-diagnose-patients-heres-what-else-it-can-do-4027e74d",
+      "publishedDateTime": "2024-02-22T22:57:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-hammerspace-introduces-hyperscale-nas-for-ai-hpc.md",
+      "title": "Hammerspace Introduces Hyperscale NAS For AI & HPC",
+      "excerpt": "Hammerspace unveiled its new high-performance NAS architecture, Hyperscale NAS, to cater to the growing demands of enterprise AI, machine learning, deep learning initiatives, and the increasing use of GPU computing both on-premises and in the cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2024/02/22/hammerspace-introduces-hyperscale-nas-for-ai--hpc/",
+      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2024/02/22/hammerspace-introduces-hyperscale-nas-for-ai--hpc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d805bc11a4068e97b82a16/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1049,
+          "height": 699,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2024/02/22/hammerspace-introduces-hyperscale-nas-for-ai--hpc/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2024/02/22/hammerspace-introduces-hyperscale-nas-for-ai--hpc/amp/",
+      "publishedDateTime": "2024-02-22T22:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-nvidias-surge-ripples-across-stock-market-lifting-ai-tech-and-semiconductor-etfs.md",
+      "title": "Nvidia’s surge ripples across stock market — lifting AI, tech and semiconductor ETFs",
+      "excerpt": "For now, Nvidia “has met lofty expectations and that will keep general AI enthusiasm intact and that is a positive for the market, broadly speaking,” said Tom Essaye, founder and president of Sevens Report Research, in a note Thursday. See: Nvidia’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/nvidias-surge-ripples-across-stock-market-lifting-ai-tech-and-semiconductor-etfs-69f6e766",
+      "originalUrl": "https://www.marketwatch.com/story/nvidias-surge-ripples-across-stock-market-lifting-ai-tech-and-semiconductor-etfs-69f6e766",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-89200862/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/nvidias-surge-ripples-across-stock-market-lifting-ai-tech-and-semiconductor-etfs-69f6e766",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidias-surge-ripples-across-stock-market-lifting-ai-tech-and-semiconductor-etfs-69f6e766",
+      "publishedDateTime": "2024-02-22T22:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-this-fintech-startup-is-targeting-a-gap-in-lending-as-banks-tighten-credit.md",
+      "title": "This fintech startup is targeting a gap in lending as banks tighten credit",
+      "excerpt": "“Just because the loans are smaller doesn’t mean they’re not good.” Nvidia earnings send stock rocketing as company cheers AI ‘tipping point’ Nvidia makes Wall Street history as stock surge adds $277 billion in market cap Super Micro’s stock ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/this-fintech-startup-is-targeting-a-gap-in-lending-as-banks-tighten-credit-b27bafae",
+      "originalUrl": "https://www.marketwatch.com/story/this-fintech-startup-is-targeting-a-gap-in-lending-as-banks-tighten-credit-b27bafae",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-26691341/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/this-fintech-startup-is-targeting-a-gap-in-lending-as-banks-tighten-credit-b27bafae",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/this-fintech-startup-is-targeting-a-gap-in-lending-as-banks-tighten-credit-b27bafae",
+      "publishedDateTime": "2024-02-22T22:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-azure-iot-centrals-reported-retirement-plans-remain-mysterious.md",
+      "title": "Azure IoT Central’s reported retirement plans remain mysterious",
+      "excerpt": "News that Microsoft plans to retire its Azure IoT Central platform ... “Now here we are in 2024, and companies are learning what’s working and what’s not working.” Google discontinued its IoT Core platform in favor of a partnership with a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3713162/azure-iot-central-s-reported-retirement-plans-remain-mysterious.html",
+      "originalUrl": "https://www.infoworld.com/article/3713162/azure-iot-central-s-reported-retirement-plans-remain-mysterious.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2014/05/holding-cocktail-on-a-tropical-beach-139494580-100265301-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 735,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3713162/azure-iot-central-s-reported-retirement-plans-remain-mysterious.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3713162/azure-iot-central-s-reported-retirement-plans-remain-mysterious.amp.html",
+      "publishedDateTime": "2024-02-22T21:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-empower-your-technical-staff-with-hands-on-technology-training.md",
+      "title": "Empower your technical staff with hands-on technology training",
+      "excerpt": "Holistic training includes hands-on, real-world experience that teaches your technical staff how to carry out their full mission.\nThe post Empower your technical staff with hands-on technology training appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/empower-your-technical-staff-with-hands-on-technology-training/",
+      "originalUrl": "https://www.ibm.com/blog/empower-your-technical-staff-with-hands-on-technology-training/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-22T20:29:15Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-23-google-is-killing-gmails-basic-html-view-in-2024.md",
       "title": "Google is killing Gmail’s basic HTML view in 2024",
       "excerpt": "Google is currently focusing on infusing AI-powered features into its products, including Gmail. Last month, the company launched a Duet AI feature to help users write emails. Last week, it allowed the Bard chatbot to integrate with Google accounts so you ...",
@@ -761,507 +1238,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-the-nvidia-app-launches-in-beta-form-that-will-merge-several-of-the-companys-gpu-apps.md",
-      "title": "The Nvidia app launches in beta form that will merge several of the company's GPU apps",
-      "excerpt": "The Nvidia app will also have more info on what's been added and what has been fixed for new GPU driver updates. Other changes for the new Nvidia app include improvements in the In-Game Overlay UI, and support for new AI-powered visual filters. One of them ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/the-nvidia-app-launches-in-beta-form-that-will-merge-several-of-the-companys-gpu-apps/",
-      "originalUrl": "https://www.neowin.net/news/the-nvidia-app-launches-in-beta-form-that-will-merge-several-of-the-companys-gpu-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neowin.com/news/images/uploaded/2024/02/1708611177_nvidia-app-key-visual_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/the-nvidia-app-launches-in-beta-form-that-will-merge-several-of-the-companys-gpu-apps/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/the-nvidia-app-launches-in-beta-form-that-will-merge-several-of-the-companys-gpu-apps/",
-      "publishedDateTime": "2024-02-22T14:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-three-event-essentials-for-exhibitors.md",
-      "title": "Three Event Essentials For Exhibitors",
-      "excerpt": "Having a three-stage plan for before, during and after the show will mean you are prepared at every stage of the game.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/22/three-event-essentials-for-exhibitors/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/22/three-event-essentials-for-exhibitors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/654d08e05b675e40b8026d1c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1394,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/22/three-event-essentials-for-exhibitors/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/22/three-event-essentials-for-exhibitors/amp/",
-      "publishedDateTime": "2024-02-22T13:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-stability-announces-stable-diffusion-3-a-next-gen-ai-image-generator.md",
-      "title": "Stability announces Stable Diffusion 3, a next-gen AI image generator",
-      "excerpt": "Larger models also require more VRAM on GPU accelerators to run. Since 2022, we've seen Stability launch a progression of AI image-generation models: Stable Diffusion 1.4, 1.5, 2.0, 2.1, XL, XL Turbo, and now 3. Stability has made a name for itself as ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2024/02/stability-announces-stable-diffusion-3-a-next-gen-ai-image-generator/",
-      "originalUrl": "https://arstechnica.com/information-technology/2024/02/stability-announces-stable-diffusion-3-a-next-gen-ai-image-generator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/sd3_cham_hero_1-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-22T13:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-i-confused-googles-most-advanced-ai-but-dont-laugh-because-programming-is-hard.md",
-      "title": "I confused Google's most advanced AI - but don't laugh because programming is hard",
-      "excerpt": "Just a quick recap. Google's version of ChatGPT (its generative AI) was called Bard and is now called Gemini Advanced. What Gemini is to ChatGPT, Gemini Advanced is to ChatGPT Plus, including the $20/month fee. I went ahead and signed up for Gemini Advanced, adding it to my collection of monthly AI-related bills.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/i-confused-googles-most-advanced-ai-but-dont-laugh-because-programming-is-hard/",
-      "originalUrl": "https://www.zdnet.com/article/i-confused-googles-most-advanced-ai-but-dont-laugh-because-programming-is-hard/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/1f7efc90cbd9cdf1c80293d289f4ba910da9c26d/2024/02/22/1d55c4f9-6841-4699-a0b8-e4e4092a1857/confused-devgettyimages-1560259012.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/i-confused-googles-most-advanced-ai-but-dont-laugh-because-programming-is-hard/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-confused-googles-most-advanced-ai-but-dont-laugh-because-programming-is-hard/",
-      "publishedDateTime": "2024-02-22T12:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-samsung-expands-galaxy-ai-features-across-latest-devices-with-one-ui-61-update.md",
-      "title": "Samsung Expands Galaxy AI Features Across Latest Devices with One UI 6.1 Update",
-      "excerpt": "“Our goal with Galaxy AI is not only to pioneer a new era of mobile ... The features include the ability to adjust message tone and translate messages in 13 different languages using Chat Assist. Galaxy users can experience the power of real-time ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.deccanchronicle.com/technology/new-one-ui-61-update-brings-galaxy-ai-to-more-galaxy-devices-882984",
-      "originalUrl": "https://www.deccanchronicle.com/technology/new-one-ui-61-update-brings-galaxy-ai-to-more-galaxy-devices-882984",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.deccanchronicle.com/h-upload/2024/02/22/1076664-new-one-ui-61-update-brings-galaxy-ai-to-more-galaxy-devices-news-thumb-1440x9601.jpg",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.deccanchronicle.com/amp/technology/new-one-ui-61-update-brings-galaxy-ai-to-more-galaxy-devices-882984",
-      "cdnAmpWebUrl": "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/technology/new-one-ui-61-update-brings-galaxy-ai-to-more-galaxy-devices-882984",
-      "publishedDateTime": "2024-02-22T12:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deccan Chronicle",
-        "domain": "deccanchronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-nonprofits-and-ai-determining-governance-and-corporate-structures.md",
-      "title": "Nonprofits And AI: Determining Governance And Corporate Structures",
-      "excerpt": "When it comes to emerging technologies like AI, innovative governance models are needed to ensure ... Impartial governance boards overseeing and certifying various dimensions like data practices, ethics reviews, model integrity assessments and adherence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/22/nonprofits-and-ai-determining-governance-and-corporate-structures/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/22/nonprofits-and-ai-determining-governance-and-corporate-structures/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/654501b12845116962a18280/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/22/nonprofits-and-ai-determining-governance-and-corporate-structures/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/22/nonprofits-and-ai-determining-governance-and-corporate-structures/amp/",
-      "publishedDateTime": "2024-02-22T12:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-ai-is-getting-to-work-in-the-highly-regulated-investment-management-industry.md",
-      "title": "AI Is Getting To Work In The Highly Regulated Investment Management Industry",
-      "excerpt": "AI hit employment levels among the feted tech giants with 34,000 job losses this year. The AI “safety first” policy is resonating in the investment management industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lawrencewintermeyer/2024/02/22/ai-is-getting-to-work-in-the-highly-regulated-investment-management-industry/",
-      "originalUrl": "https://www.forbes.com/sites/lawrencewintermeyer/2024/02/22/ai-is-getting-to-work-in-the-highly-regulated-investment-management-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d6dac3706cc5efc69fdc66/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lawrencewintermeyer/2024/02/22/ai-is-getting-to-work-in-the-highly-regulated-investment-management-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lawrencewintermeyer/2024/02/22/ai-is-getting-to-work-in-the-highly-regulated-investment-management-industry/amp/",
-      "publishedDateTime": "2024-02-22T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-kawasaki-robotics-partners-with-olis-robotics-to-offer-remote-monitoring-and-control-of-its-industrial-robots.md",
-      "title": "Kawasaki Robotics partners with Olis Robotics to offer remote monitoring and control of its industrial robots",
-      "excerpt": "highlights how Kawasaki robots are built to last for decades, giving end users maximum control of a highly customizable product. “Kawasaki’s commitment to a world-class buying experience and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eagletribune.com/region/kawasaki-robotics-partners-with-olis-robotics-to-offer-remote-monitoring-and-control-of-its-industrial/article_1d0fe802-c1a3-529d-ab71-c13a198fabcb.html",
-      "originalUrl": "https://www.eagletribune.com/region/kawasaki-robotics-partners-with-olis-robotics-to-offer-remote-monitoring-and-control-of-its-industrial/article_1d0fe802-c1a3-529d-ab71-c13a198fabcb.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/e/7b/e7b389dd-1462-572d-a9ab-41ea83e775cb/65d77f4b250db.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-22T11:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eagle-Tribune",
-        "domain": "eagletribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-applying-ai-to-support-the-front-line-of-healthcare.md",
-      "title": "Applying AI To Support The Front Line Of Healthcare",
-      "excerpt": "Artificial intelligence, more commonly referred to as AI, has been around since the 1950s, but the launch of ChatGPT in November 2022 inspired a new wave of AI innovation and investment. The way AI impacts healthcare and other sectors will be one of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/22/applying-ai-to-support-the-front-line-of-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/22/applying-ai-to-support-the-front-line-of-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/615f4f6aef570f61fbfea398/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/22/applying-ai-to-support-the-front-line-of-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/22/applying-ai-to-support-the-front-line-of-healthcare/amp/",
-      "publishedDateTime": "2024-02-22T11:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-how-to-build-ai-capabilities-across-an-enterprise.md",
-      "title": "How To Build AI Capabilities Across An Enterprise",
-      "excerpt": "Businesses rolling AI out across an enterprise can learn from the masters of making the most of disruption – venture investors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stephenwunker/2024/02/22/how-to-build-ai-capabilities-across-an-enterprise/",
-      "originalUrl": "https://www.forbes.com/sites/stephenwunker/2024/02/22/how-to-build-ai-capabilities-across-an-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d508ffcd2e8c866e062f4f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1141,
-          "height": 760,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stephenwunker/2024/02/22/how-to-build-ai-capabilities-across-an-enterprise/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenwunker/2024/02/22/how-to-build-ai-capabilities-across-an-enterprise/amp/",
-      "publishedDateTime": "2024-02-22T11:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

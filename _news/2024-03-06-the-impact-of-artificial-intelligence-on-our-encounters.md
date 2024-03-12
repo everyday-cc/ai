@@ -1,12 +1,12 @@
 ---
 category: news
 title: "The Impact of Artificial Intelligence on Our Encounters"
-excerpt: "On February 28, I participated in a seminar on a new book, Encountering Artificial Intelligence, 1 exploring the ethics of artificial intelligence (AI) from within the Catholic intellectual tradition. I was not involved with the book but asked to be a ..."
-publishedDateTime: 2024-03-05T17:18:00Z
-originalUrl: "https://www.psychologytoday.com/za/blog/our-new-discontents/202403/the-impact-of-artificial-intelligence-on-our-encounters"
-webUrl: "https://www.psychologytoday.com/za/blog/our-new-discontents/202403/the-impact-of-artificial-intelligence-on-our-encounters"
-ampWebUrl: "https://www.psychologytoday.com/za/blog/our-new-discontents/202403/the-impact-of-artificial-intelligence-on-our-encounters?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/our-new-discontents/202403/the-impact-of-artificial-intelligence-on-our-encounters?amp"
+excerpt: "I participated in a seminar on a new book, Encountering Artificial Intelligence, 1 exploring the ethics of artificial intelligence (AI) from within the Catholic intellectual tradition. I was not involved with the book but asked to be a respondent to two of the contributors and offer some reflections on evaluating the impact of AI on our encounters."
+publishedDateTime: 2024-03-05T16:19:00Z
+originalUrl: "https://www.psychologytoday.com/us/blog/our-new-discontents/202403/the-impact-of-artificial-intelligence-on-our-encounters"
+webUrl: "https://www.psychologytoday.com/us/blog/our-new-discontents/202403/the-impact-of-artificial-intelligence-on-our-encounters"
+ampWebUrl: "https://www.psychologytoday.com/us/blog/our-new-discontents/202403/the-impact-of-artificial-intelligence-on-our-encounters?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/our-new-discontents/202403/the-impact-of-artificial-intelligence-on-our-encounters?amp"
 type: article
 
 provider:
@@ -14,7 +14,7 @@ provider:
   domain: psychologytoday.com
 
 topics:
-  - AI in Healthcare
+  - AI in Robotics
   - AI
 
 images:
@@ -23,6 +23,6 @@ images:
     height: 800
     isCached: true
 
-secured: "BAvLTkb/0DsLhHJ+pno3QhZLTrVulj0XbdFR1Ya84Gnp+RAj6Ulo5NvS1K2H0LD/XkYG85AdqI2AV6X7nHBhmGFKS2WJEAQNq86tikgs3k1Velv3Rz127cmp59A/qC4UuVKXQiLRz3fXQ9KbUW5YpJXKW0O5PffTrdl6NXCQNcHasyosEbu7hXg6yuwav0rVu7qvFAoxmRF93p/aTzKH6S/9kEjdmuIzANwnaXuNqCV4y0lQJIJyi81odjYi5UhrYDZvjHds3BC3gW7b89vqQU4DpiftdAm5KuLrCHuWKec08AG3ZiVl9B0DLvqGdRSwasB+UJk3mjfEjNp99lbCphb4hEa9DiyvWTpAYsCTOEk=;eXflPZ49WMKBSnmp9VaZag=="
+secured: "OZ3/VWKgq8uwmOlBnW38Yo2n+u+Vok3lmXQkQAgHzYiEBUY1nNy9rLols38klVqdqQFhbvgEsnaANL0xpvqIkV+Hs9c+jB8Awx7XlGKUxIjyeu4TPgE/OG7Cl6yW8L7svHK8BxbZ9zoxPIU9YWPrgG+a3p3rnix8tl71sMeC1b4PkW6EN3yj0q/Nsj9MqE3SxVE3WxvUY79xdilj2cE9H/80Rw194i7n7AyJxWxkB6UW72vXCCr/WYXPXn2luihF2i77lkN64S8KIRQf76/rhGLZNjNd/nOoZH6KJ1MP/q9UT0zneHqUr4cpI/sIYPDh5TLXNlyqnWyEuvy0WfACwpIhJG9ifJaUj1qNL0+kSYc=;9Y5n4Qjt3DmUpf9Ih41khA=="
 ---
 

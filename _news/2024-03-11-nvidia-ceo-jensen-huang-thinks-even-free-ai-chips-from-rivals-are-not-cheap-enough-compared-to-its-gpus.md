@@ -84,6 +84,20 @@ related:
       name: The Globe and Mail
       domain: theglobeandmail.com
     quality: 36
+  - title: "Vast Data unveils new AI infrastructure with Nvidia and Supermicro partnerships"
+    excerpt: "Artificial intelligence data platform startup VAST Data Inc. today announced new AI cloud architecture in partnership with Nvidia Corp., using the company’s BlueField-3 data pro"
+    publishedDateTime: 2024-03-12T16:20:00Z
+    webUrl: "https://siliconangle.com/2024/03/12/vast-data-unveils-new-ai-infrastructure-nvidia-supermicro-partnerships/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 35
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/earth-8008054_1280.jpg"
+        width: 1280
+        height: 741
+        isCached: true
 
 secured: "M2o4bzcmyVp1g5zQ2OVzlA5NX9BZHKqKrm1HsOXO6Xx0rG6N7ULdxCvtnbP8ukzvtaAeHNkVeQJTdPshkAJVuwOrz1I81Sb8Y3P22yRZCywcjFnaLYHCSeSEjrkcnulHBOdiGmQ8xiH0BNyg2oSj/xpodj9k9WhLvEdvwPiKj6mzn4DWP4Bq70EYpVDPXVoOtVe64fTThuIz2Wb3P9YwP2krOdyHX9LLYA6qMULvGW0ARnxJT06BCOorsX2dkIhgjcjsRHGytVz2qzB4gOY4HXyznNoqGG3SV02T47z1gPEPu9skj0k6iNkBO/UEIlJC2y7Btc+vxTRnw+I+2pz/9OkTHg09YgJwQ8p0zr1B/Jo=;zJppNTqy4+bCNEiEIypZpA=="
 ---

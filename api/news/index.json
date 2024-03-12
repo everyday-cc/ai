@@ -2,6 +2,249 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-13-locus-robotics-success-is-a-tale-of-focusing-on-what-works.md",
+      "title": "Locus Robotics’ success is a tale of focusing on what works",
+      "excerpt": "The new software offering uses AI to process the massive troves of data collected ... Former executives from the robotics startup launched their own Locus competitor, 6 River Systems. That company has struggled in recent years, however, following its ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/03/12/locus-robotics-success-is-a-tale-of-focusing-on-what-works/",
+      "originalUrl": "https://techcrunch.com/2024/03/12/locus-robotics-success-is-a-tale-of-focusing-on-what-works/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/03/IMG_0748.jpg?resize=1200,900",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/03/12/locus-robotics-success-is-a-tale-of-focusing-on-what-works/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/locus-robotics-success-is-a-tale-of-focusing-on-what-works/amp/",
+      "publishedDateTime": "2024-03-12T17:48:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-13-taiwan-chip-powerhouses-see-february-sales-soar-on-ai-demand.md",
+      "title": "Taiwan chip powerhouses see February sales soar on AI demand",
+      "excerpt": "TAIPEI -- Taiwan's tech industry was a study in contrasts in February, as major chipmakers such as TSMC thrived on strong demand for artificial intelligence-related products while companies involved more in consumer electronics dealt with falling sales ...",
+      "sourceUrl": null,
+      "webUrl": "https://asia.nikkei.com/cms/Business/Technology/Taiwan-chip-powerhouses-see-February-sales-soar-on-AI-demand",
+      "originalUrl": "https://asia.nikkei.com/cms/Business/Technology/Taiwan-chip-powerhouses-see-February-sales-soar-on-AI-demand",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F2%2F9%2F9%2F47399925-3-eng-GB%2FCropped-1710256242photo.JPG?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-12T17:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nikkei Asia",
+        "domain": "nikkei.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-4-updates-from-the-2024-google-for-games-developer-summit.md",
+      "title": "4 updates from the 2024 Google for Games Developer Summit",
+      "excerpt": "These new tools help developers build immersive and engaging games that players love.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/google-play/google-for-games-developer-summit-2024/",
+      "originalUrl": "https://blog.google/products/google-play/google-for-games-developer-summit-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ggds4.width-1300.png",
+          "width": 1300,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-12T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-google-paid-10-million-in-bug-bounty-rewards-last-year.md",
+      "title": "Google paid $10 million in bug bounty rewards last year",
+      "excerpt": "Google awarded $10 million to 632 researchers from 68 countries in 2023 for finding and responsibly reporting security flaws in the company's products and services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bleepingcomputer.com/news/google/google-paid-10-million-in-bug-bounty-rewards-last-year/",
+      "originalUrl": "https://www.bleepingcomputer.com/news/google/google-paid-10-million-in-bug-bounty-rewards-last-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bleepstatic.com/content/hl-images/2023/06/16/Google.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bleepingcomputer.com/news/google/google-paid-10-million-in-bug-bounty-rewards-last-year/amp/",
+      "cdnAmpWebUrl": "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/google/google-paid-10-million-in-bug-bounty-rewards-last-year/amp/",
+      "publishedDateTime": "2024-03-12T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bleeping Computer",
+        "domain": "bleepingcomputer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-google-play-will-show-ai-powered-faqs-and-recent-youtube-videos-for-games.md",
+      "title": "Google Play will show AI-powered FAQs and recent YouTube videos for games",
+      "excerpt": "Google announced a number of new features for Google Play listings for games including AI-powered FAQs, displaying the latest YouTube videos, new immersive ad formats, and support for native PC game publishing. The announcements were made at the Google ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/03/12/google-play-store-will-show-ai-powered-faqs-and-latest-youtube-videos-for-games/",
+      "originalUrl": "https://techcrunch.com/2024/03/12/google-play-store-will-show-ai-powered-faqs-and-latest-youtube-videos-for-games/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1240125020.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/03/12/google-play-store-will-show-ai-powered-faqs-and-latest-youtube-videos-for-games/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/google-play-store-will-show-ai-powered-faqs-and-latest-youtube-videos-for-games/amp/",
+      "publishedDateTime": "2024-03-12T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-12-run-an-audience-overlap-analysis-in-aws-clean-rooms.md",
       "title": "Run an audience overlap analysis in AWS Clean Rooms",
       "excerpt": "In this post, we explore what an audience overlap analysis is, discuss the current technical approaches and their challenges, and illustrate how you can run secure audience overlap analysis using AWS Clean Rooms.",
@@ -106,49 +349,6 @@
       ]
     },
     {
-      "path": "_news/2024-03-12-airports-using-biometric-facial-recognition-in-kansas.md",
-      "title": "Airports using biometric facial recognition in Kansas",
-      "excerpt": "The next time you’re in a security line at the airport, you may find that instead of a Transportation Security Administration officer checking your ID, a camera and screen will use biometric",
-      "sourceUrl": null,
-      "webUrl": "https://www.ksn.com/news/airports-using-biometric-facial-recognition-in-kansas/",
-      "originalUrl": "https://www.ksn.com/news/airports-using-biometric-facial-recognition-in-kansas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ksn.com/wp-content/uploads/sites/13/2023/05/facial.jpg?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.ksn.com/news/airports-using-biometric-facial-recognition-in-kansas/amp/",
-      "cdnAmpWebUrl": "https://www-ksn-com.cdn.ampproject.org/c/s/www.ksn.com/news/airports-using-biometric-facial-recognition-in-kansas/amp/",
-      "publishedDateTime": "2024-03-12T15:14:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ksn.com",
-        "domain": "ksn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-03-12-deepgrams-aura-gives-ai-agents-a-voice.md",
       "title": "Deepgram’s Aura gives AI agents a voice",
       "excerpt": "Deepgram has made a name for itself as one of the go-to startups for voice recognition. Today, the well-funded company announced the launch of Aura, its new real-time text-to-speech API. Aura combines highly realistic voice models with a low-latency API to ...",
@@ -210,7 +410,7 @@
       "originalUrl": "https://techcrunch.com/2024/03/12/empathy-berevement-death-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -227,6 +427,58 @@
       "ampWebUrl": "https://techcrunch.com/2024/03/12/empathy-berevement-death-ai/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/empathy-berevement-death-ai/amp/",
       "publishedDateTime": "2024-03-12T13:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-google-wont-let-you-use-its-ai-to-answer-questions-about-an-upcoming-election-in-your-country.md",
+      "title": "Google won’t let you use its AI to answer questions about an upcoming election in your country",
+      "excerpt": "After facing some backlash from global VCs and AI startup founders, the Indian government clarified that the restriction was for “significant” tech companies and not for startups. The advisory followed a mini-scandal over Gemini and the Indian ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/03/12/google-gemini-election-related-queries/",
+      "originalUrl": "https://techcrunch.com/2024/03/12/google-gemini-election-related-queries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/03/google-gemini.jpg?w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/03/12/google-gemini-election-related-queries/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/google-gemini-election-related-queries/amp/",
+      "publishedDateTime": "2024-03-12T12:48:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -678,6 +930,58 @@
       ]
     },
     {
+      "path": "_news/2024-03-12-metas-ceo-disses-apples-vision-pro.md",
+      "title": "Meta’s CEO Disses Apple's Vision Pro",
+      "excerpt": "Despite acknowledging the Vision Pro's entertainment capabilities ... Alternatively, one could buy a multi-use computer, including the early Macintosh, and do word processing. By the 1980s, the word processor had become a much more affordable option.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/timbajarin/2024/03/12/metas-ceo-disses-apples-vision-pro/",
+      "originalUrl": "https://www.forbes.com/sites/timbajarin/2024/03/12/metas-ceo-disses-apples-vision-pro/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ef930982ae384733007dc2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1349,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/timbajarin/2024/03/12/metas-ceo-disses-apples-vision-pro/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2024/03/12/metas-ceo-disses-apples-vision-pro/amp/",
+      "publishedDateTime": "2024-03-12T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-12-bear-robotics-a-robot-waiter-startup-just-picked-up-60m-from-lg.md",
       "title": "Bear Robotics, a robot waiter startup, just picked up $60M from LG",
       "excerpt": "LG Electronics may no longer be a household name in smartphones, but it still sees a big future in gadgets like robots. Today, the company confirmed a $60",
@@ -727,6 +1031,49 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot.md",
+      "title": "Elon Musk says his AI startup xAI will open-source its Grok chatbot",
+      "excerpt": "Musk sued ChatGPT-maker OpenAI and its CEO Sam Altman, saying they had abandoned the startup's original mission to develop artificial intelligence for the benefit of humanity and not for profit.",
+      "sourceUrl": null,
+      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot/108430382",
+      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot/108430382",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-108430382,imgsize-527560,width-1200,height=765,overlay-etbrandequity/digital/elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot.jpg",
+          "width": 1200,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/digital/elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot/108430382",
+      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot/108430382",
+      "publishedDateTime": "2024-03-12T09:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "brandequity.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -873,343 +1220,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-five-ai-crypto-coins-emerging-in-2024.md",
-      "title": "Five AI crypto coins emerging in 2024",
-      "excerpt": "The artificial intelligence industry began booming at the start of 2024, with OpenAI's Sora product generating a new wave of hype within the sector.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/business/india-business/best-ai-cryptos/articleshow/108424368.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/business/india-business/best-ai-cryptos/articleshow/108424368.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-108424765,width-1280,height-720,resizemode-4/108424765.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/business/india-business/best-ai-cryptos/amp_articleshow/108424368.cms",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/business/india-business/best-ai-cryptos/amp_articleshow/108424368.cms",
-      "publishedDateTime": "2024-03-12T06:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-adani-qualcomm-ceo-meet-hints-at-future-collaboration-in-chip-ai-space.md",
-      "title": "Adani, Qualcomm CEO meet hints at future collaboration in chip, AI space",
-      "excerpt": "Adani group chairman Gautam Adani’s meeting with Qualcomm president and CEO Cristiano R Amon on Monday, fuelled speculation about the former trying to understand the semiconductor and artificial intelligence ... solutions for driverless cars, connected ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/digital-transformation-adani-qualcomm-ceo-meet-hints-at-future-collaboration-in-chip-ai-space-3422117/",
-      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-adani-qualcomm-ceo-meet-hints-at-future-collaboration-in-chip-ai-space-3422117/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2024/03/Untitled-design-2024-03-12T104852.547.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-adani-qualcomm-ceo-meet-hints-at-future-collaboration-in-chip-ai-space-3422117/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-adani-qualcomm-ceo-meet-hints-at-future-collaboration-in-chip-ai-space-3422117/lite/",
-      "publishedDateTime": "2024-03-12T05:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-local-falcon-unveils-falcon-assist-the-first-ai-built-exclusively-for-local-seo.md",
-      "title": "Local Falcon Unveils Falcon Assist, the First AI Built Exclusively for Local SEO",
-      "excerpt": "Known for its best-in-class local rank tracking, Local Falcon launched the first-ever AI assistant to help businesses with local SEO, Google",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/local-falcon-unveils-falcon-assist-the-first-ai-built-exclusively-for-local-seo-1033152965",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/local-falcon-unveils-falcon-assist-the-first-ai-built-exclusively-for-local-seo-1033152965",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/mmstudio-images/gallery/G3JKzPU5pNeQCdO4ILXoGZm1xrG2/1709854800729-0.jpg",
-          "width": 800,
-          "height": 310,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-12T05:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-french-startup-nijta-hopes-to-protect-voice-privacy-in-ai-use-cases.md",
-      "title": "French startup Nijta hopes to protect voice privacy in AI use cases",
-      "excerpt": "France-based startup Nijta, whose flagship product Voice Harbor anonimizes voices for AI, raised €2 million in funding from various sources, including deep tech VC fund Elaia.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/03/11/nijta-voice-privacy-ai/",
-      "originalUrl": "https://techcrunch.com/2024/03/11/nijta-voice-privacy-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-525848879.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/03/11/nijta-voice-privacy-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/11/nijta-voice-privacy-ai/amp/",
-      "publishedDateTime": "2024-03-12T05:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-clarity-alignment-and-empowermentleadership-skills-in-the-age-of-ai.md",
-      "title": "Clarity, Alignment, and Empowerment:Leadership Skills in the Age of AI",
-      "excerpt": "Provide clarity, alignment, and empowerment in your team meetings. getty \"Do you have the engagement survey results?\" I asked my new employee, who had just joined the team a few w",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/melissadaimler/2024/03/11/clarity-alignment-and-empowermentleadership-skills-in-the-age-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/melissadaimler/2024/03/11/clarity-alignment-and-empowermentleadership-skills-in-the-age-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65ef62a28230e4ce9b4984a9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1243,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-12T03:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-report-highlights-civil-liberties-concerns-with-facial-recognition-technology.md",
-      "title": "Report highlights civil liberties concerns with facial recognition technology",
-      "excerpt": "The report says some agencies now have training policies in place that include explaining how FRT affects civil liberties",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsbtv.com/news/report-highlights-civil-liberties-concerns-with-facial-recognition-technology/OETF3NAPQRCY5H4FGMYXI3DWMM/",
-      "originalUrl": "https://www.wsbtv.com/news/report-highlights-civil-liberties-concerns-with-facial-recognition-technology/OETF3NAPQRCY5H4FGMYXI3DWMM/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/2ujHFkVez5X3CIApIwboBaEkMwU=/1440x810/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/V7Q4DMJL7RDWXAYCVKLFOCEPR4.png",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.wsbtv.com/news/report-highlights-civil-liberties-concerns-with-facial-recognition-technology/OETF3NAPQRCY5H4FGMYXI3DWMM/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wsbtv-com.cdn.ampproject.org/c/s/www.wsbtv.com/news/report-highlights-civil-liberties-concerns-with-facial-recognition-technology/OETF3NAPQRCY5H4FGMYXI3DWMM/?outputType=amp",
-      "publishedDateTime": "2024-03-12T01:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WSB-TV",
-        "domain": "wsbtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-manipulated-kate-middleton-photo-sparks-royal-frenzy-of-jokes-and-memes.md",
-      "title": "Manipulated Kate Middleton Photo Sparks Royal Frenzy Of Jokes And Memes",
-      "excerpt": "After Kate apologizes for a Photoshopped family picture, the online masses can't resist poking fun at the latest controversy to hit Kensington Palace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lesliekatz/2024/03/11/altered-kate-middleton-photo-sparks-royal-frenzy-of-jokes-and-memes/",
-      "originalUrl": "https://www.forbes.com/sites/lesliekatz/2024/03/11/altered-kate-middleton-photo-sparks-royal-frenzy-of-jokes-and-memes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65efa845bfb4c6bde5d6755b/0x0.jpg?format=jpg&crop=640,360,x25,y57,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lesliekatz/2024/03/11/altered-kate-middleton-photo-sparks-royal-frenzy-of-jokes-and-memes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lesliekatz/2024/03/11/altered-kate-middleton-photo-sparks-royal-frenzy-of-jokes-and-memes/amp/",
-      "publishedDateTime": "2024-03-12T01:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

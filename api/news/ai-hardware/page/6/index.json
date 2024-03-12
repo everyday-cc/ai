@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2024-01-26-opinion-intel-is-struggling-to-gain-traction-in-ai-chips-while-nvidia-and-amd-roar-ahead.md",
+      "title": "Opinion: Intel is struggling to gain traction in AI chips while Nvidia and AMD roar ahead",
+      "excerpt": "If this past quarter’s results offer a lot of optimism for the client side of Intel’s house, then they bring an equal amount of questions for the data-center and AI infrastructure business unit. Revenue dropped year over year by 10% and operating income was down 38%, with an operating margin of 2%.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/intel-is-struggling-to-gain-traction-in-ai-chips-while-nvidia-and-amd-roar-ahead-37b132ff",
+      "originalUrl": "https://www.marketwatch.com/story/intel-is-struggling-to-gain-traction-in-ai-chips-while-nvidia-and-amd-roar-ahead-37b132ff",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-474373/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/intel-is-struggling-to-gain-traction-in-ai-chips-while-nvidia-and-amd-roar-ahead-37b132ff",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/intel-is-struggling-to-gain-traction-in-ai-chips-while-nvidia-and-amd-roar-ahead-37b132ff",
+      "publishedDateTime": "2024-01-26T00:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-26-apple-is-quietly-stockpiling-startups-and-hunting-for-talent-as-it-fights-for-a-slice-of-the-ai-boom.md",
       "title": "Apple is quietly stockpiling startups and hunting for talent as it fights for a slice of the AI boom",
       "excerpt": "Apple has previously taken a cautious approach to the new technology, even as rivals such as Google and Microsoft launched several new AI products.",
@@ -1407,58 +1459,6 @@
         "AI Hardware",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-digitalocean-wants-to-open-the-floodgates-to-ai-for-smaller-enterprises-with-nvidia-h100-access.md",
-      "title": "DigitalOcean wants to open the floodgates to AI for smaller enterprises with Nvidia H100 access",
-      "excerpt": "DigitalOcean has built its cloud business with a focus on developers that cater to SMBs and it’s now growing that business with new support for the industry leading Nvidia H100 GPU AI accelerator. The Nvidia H100 will be available on the Paperspace ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/digitalocean-wants-to-open-the-floodgates-to-ai-for-smaller-enterprises-with-nvidia-h100-access/",
-      "originalUrl": "https://venturebeat.com/ai/digitalocean-wants-to-open-the-floodgates-to-ai-for-smaller-enterprises-with-nvidia-h100-access/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/01/nuneybits_Vector_art_of_a_digital_ocean_c230cf44-8417-42fd-ae3c-73ec14de19d0-transformed.webp?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-18T05:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

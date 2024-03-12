@@ -2,6 +2,436 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2024-02-07-webpt-wins-2024-best-in-klas-recognition.md",
+      "title": "WebPT Wins 2024 Best in KLAS Recognition",
+      "excerpt": "\"This accolade from KLAS Research validates WebPT's commitment to excellence and innovation as we aim to advance Practice Experience Management in outpatient therapy,\" said Ashley",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2024/02/07/9958822.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2024/02/07/9958822.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-07T14:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-07-microsoft-ceo-satya-nadella-in-india-to-meet-with-villagers-helping-develop-microsoft-ai-tools.md",
+      "title": "Microsoft CEO Satya Nadella in India, to meet with villagers helping develop Microsoft AI tools",
+      "excerpt": "Microsoft CEO Satya Nadella is in India to meet with villagers helping develop Microsoft AI tools. Learn how he aims to provide skilling opportunities and make technology accessible in under-resourced languages.",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-ceo-satya-nadella-in-india-developing-microsoft-ai-tools/articleshow_new/107492543.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/microsoft-ceo-satya-nadella-in-india-developing-microsoft-ai-tools/articleshow_new/107492543.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/107492543.cms",
+          "width": 1432,
+          "height": 955,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-07T12:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-07-how-to-build-the-best-ai-pc.md",
+      "title": "How to Build the Best AI PC",
+      "excerpt": "look for at least a mid-tower or even a full tower and select RTX for AI performance. A GeForce RTX 4090 Ti GPU will perform up to 1.7x faster than a prior generation RTX 3090 GPU in AI applications, so it’s worth prioritizing the GPU upgrade over CPU ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/2226887/build-the-best-ai-pc.html",
+      "originalUrl": "https://www.pcworld.com/article/2226887/build-the-best-ai-pc.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pcworld.com/wp-content/uploads/2024/02/Nvidia-CyberPower-AI-PC-1.png?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-07T11:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-07-confirmed-entrust-is-buying-ai-based-id-verification-startup-onfido-sources-say-for-more-than-400m.md",
+      "title": "Confirmed: Entrust is buying AI-based ID verification startup Onfido, sources say for more than $400M",
+      "excerpt": "Onfido, an early mover in the world of identity verification using computer vision, machine learning and other AI tools, is getting acquired, TechCrunch",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/06/confirmed-entrust-is-buying-ai-based-id-verification-startup-onfido-sources-say-for-more-than-400m/",
+      "originalUrl": "https://techcrunch.com/2024/02/06/confirmed-entrust-is-buying-ai-based-id-verification-startup-onfido-sources-say-for-more-than-400m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1199508481.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/06/confirmed-entrust-is-buying-ai-based-id-verification-startup-onfido-sources-say-for-more-than-400m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/06/confirmed-entrust-is-buying-ai-based-id-verification-startup-onfido-sources-say-for-more-than-400m/amp/",
+      "publishedDateTime": "2024-02-07T11:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-07-meta-says-it-will-label-ai-generated-images-on-facebook-and-instagram.md",
+      "title": "Meta says it will label AI-generated images on Facebook and Instagram",
+      "excerpt": "SIGN UP TO CONTINUEPrint Subscriber? Sign Up for Full Access!Please sign up for as low as 36 cents per day to continue viewing our website.Digital subscribers receiveUnlimited access to all stories from nashuatelegraph.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nashuatelegraph.com/news/business/2024/02/07/meta-says-it-will-label-ai-generated-images-on-facebook-and-instagram/",
+      "originalUrl": "https://www.nashuatelegraph.com/news/business/2024/02/07/meta-says-it-will-label-ai-generated-images-on-facebook-and-instagram/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ogden_images.s3.amazonaws.com/www.nashuatelegraph.com/images/2024/02/07052720/Meta_AI_Labels_24037688587142.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-07T11:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Telegraph",
+        "domain": "nashuatelegraph.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-07-doxai-perpetual-corporate-trust-microsoft-team-to-fuel-financial-services.md",
+      "title": "DoxAI, Perpetual Corporate Trust & Microsoft team to fuel financial services",
+      "excerpt": "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space.",
+      "sourceUrl": null,
+      "webUrl": "https://ibsintelligence.com/ibsi-news/doxai-perpetual-corporate-trust-microsoft-team-to-fuel-financial-services/",
+      "originalUrl": "https://ibsintelligence.com/ibsi-news/doxai-perpetual-corporate-trust-microsoft-team-to-fuel-financial-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ibsintelligence.com/wp-content/uploads/2024/01/Launch_MPU.png",
+          "width": 600,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-07T10:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBS",
+        "domain": "ibsintelligence.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-07-researchers-predict-more-autonomous-vehicles-by-2030-better-adas-tech-needed.md",
+      "title": "Researchers predict more autonomous vehicles by 2030, better ADAS tech needed",
+      "excerpt": "ABI Research has reviewed the current state of autonomous driving technology within the automotive industry in conjunction with artificial intelligence (AI), high-performance computing, mapping,",
+      "sourceUrl": null,
+      "webUrl": "https://www.repairerdrivennews.com/2024/02/07/researchers-predict-more-autonomy-use-by-2030-better-adas-tech-needed/",
+      "originalUrl": "https://www.repairerdrivennews.com/2024/02/07/researchers-predict-more-autonomy-use-by-2030-better-adas-tech-needed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.repairerdrivennews.com/wp-content/uploads/2024/02/iStock-1437737518.jpg",
+          "width": 2121,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-07T10:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Repairer Driven News",
+        "domain": "repairerdrivennews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-07-70-fascinating-baidu-statistics-and-facts-2024-trends.md",
+      "title": "70+ Fascinating Baidu Statistics and Facts [2024 Trends]",
+      "excerpt": "Instead of relying on Google and other foreign solutions, the government provided Baidu for its citizens to help them navigate the Chinese web. The question in your mind will probably be ...",
+      "sourceUrl": null,
+      "webUrl": "https://techreport.com/statistics/baidu-statistics/",
+      "originalUrl": "https://techreport.com/statistics/baidu-statistics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techreport.com/wp-content/uploads/2024/01/Baidu-Statistics-and-Facts.png?_t=1707326810",
+          "width": 994,
+          "height": 455,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-07T09:26:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Tech Report",
+        "domain": "techreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-07-3-health-systems-share-their-apple-vision-pro-plans.md",
+      "title": "3 health systems share their Apple Vision Pro plans",
+      "excerpt": "Cedars-Sinai Medical Center, Boston Children’s Hospital and Sharp Healthcare are testing Apple's virtual and augmented reality set.",
+      "sourceUrl": null,
+      "webUrl": "https://www.modernhealthcare.com/digital-health/apple-vision-pro-vr-boston-childrens-cedars-sinai-uc-san-diego",
+      "originalUrl": "https://www.modernhealthcare.com/digital-health/apple-vision-pro-vr-boston-childrens-cedars-sinai-uc-san-diego",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-07T09:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Modern Healthcare",
+        "domain": "modernhealthcare.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-07-new-zealand-telco-2degrees-selects-totogi-charging-as-a-service-to-expedite-market-growth.md",
+      "title": "New Zealand telco 2degrees selects Totogi Charging-as-a-Service to expedite market growth",
+      "excerpt": "Totogi’s Charging-as-a-Service platform will enable the mobile operator to accelerate revenue growth in the MVNO wholesale segment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.telecomtv.com/content/digital-platforms-services/new-zealand-telco-2degrees-selects-totogi-charging-as-a-service-to-expedite-market-growth-49583/",
+      "originalUrl": "https://www.telecomtv.com/content/digital-platforms-services/new-zealand-telco-2degrees-selects-totogi-charging-as-a-service-to-expedite-market-growth-49583/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.telecomtv.com/assets/telecomtv/1920x1080-ttv-website-thumbnail-14435.jpg?w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.telecomtv.com/content/digital-platforms-services/new-zealand-telco-2degrees-selects-totogi-charging-as-a-service-to-expedite-market-growth-49583/amp/",
+      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/digital-platforms-services/new-zealand-telco-2degrees-selects-totogi-charging-as-a-service-to-expedite-market-growth-49583/amp/",
+      "publishedDateTime": "2024-02-07T08:57:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TelecomTV",
+        "domain": "telecomtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-07-meta-to-label-ai-generated-images-on-facebook-instagram-threads.md",
       "title": "Meta to Label AI Generated Images on Facebook Instagram Threads",
       "excerpt": "Meta already labels images generated by its AI as “Imagined with AI” It is working with other AI firms to build a unified detection tool Meta is developing an invisible watermarking tool called Stable",
@@ -654,452 +1084,6 @@
       ],
       "topics": [
         "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-07-instagram-threads-and-facebook-will-start-labeling-ai-generated-content.md",
-      "title": "Instagram, Threads, and Facebook will start labeling AI-generated content",
-      "excerpt": "Meta announced it is working on building the capability to automatically detect signals that tell if a piece of content was made with AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/p-3411262/",
-      "originalUrl": "https://www.androidauthority.com/p-3411262/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2023/09/Meta-logo-on-smartphone-stock-photo-10.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T17:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-07-microsofts-ai-engine-powering-hr-blocks-tax-filing-assistance-product.md",
-      "title": "Microsoft's AI engine powering H&R Block's tax filing assistance product",
-      "excerpt": "Microsoft and H&R Block are partnering to bring generative artificial intelligence (AI) to help simplify the do-it-yourself tax filing process for taxpayers. H&R Block launched its AI Tax Assist ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/technology/microsoft-ai-engine-powering-hr-block-tax-filing-assistance-product",
-      "originalUrl": "https://www.foxbusiness.com/technology/microsoft-ai-engine-powering-hr-block-tax-filing-assistance-product",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/5060fb8c-1698-4084-b413-ea167cc27824/cd51ce3d-3aee-4ee7-a005-4bea8a341e1c/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxbusiness.com/technology/microsoft-ai-engine-powering-hr-block-tax-filing-assistance-product.amp",
-      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/microsoft-ai-engine-powering-hr-block-tax-filing-assistance-product.amp",
-      "publishedDateTime": "2024-02-06T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-07-dutch-intelligence-blames-chinese-state-for-cyber-espionage-in-the-netherlands.md",
-      "title": "Dutch Intelligence Blames Chinese State for Cyber Espionage in the Netherlands",
-      "excerpt": "The Dutch intelligence agency said it uncovered a Chinese-state-backed attempt to use malware to spy on a computer network that’s used by the country’s armed forces.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2024-02-06/dutch-intelligence-blames-chinese-state-for-cyber-espionage-in-the-netherlands",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2024-02-06/dutch-intelligence-blames-chinese-state-for-cyber-espionage-in-the-netherlands",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-5-steps-board-members-and-startup-leaders-can-take-to-prepare-for-a-future-shaped-by-genai.md",
-      "title": "5 steps board members and startup leaders can take to prepare for a future shaped by GenAI",
-      "excerpt": "AI is on the minds of nearly every enterprise and startup leader today, challenging human decision-makers with a constant stream of “what if” scenarios for how we will work and live in the future.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/06/5-steps-board-members-and-startup-leaders-can-take-to-prepare-for-a-future-shaped-by-genai/",
-      "originalUrl": "https://techcrunch.com/2024/02/06/5-steps-board-members-and-startup-leaders-can-take-to-prepare-for-a-future-shaped-by-genai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/03/GettyImages-1074644658.jpg?resize=1200,776",
-          "width": 1200,
-          "height": 776,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T15:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-roblox-launches-real-time-ai-chat-translation-tool-will-support-16-languages.md",
-      "title": "Roblox Launches Real-Time AI Chat Translation Tool, Will Support 16 Languages",
-      "excerpt": "Announcing the new feature in a post, Roblox Chief Technology Officer Daniel Sturman said, “Using AI to automate real-time translations in text chat removes language barriers and brings more people together,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gadgets360.com/games/news/roblox-real-time-ai-chat-translation-tool-launched-support-16-languages-5006768",
-      "originalUrl": "https://www.gadgets360.com/games/news/roblox-real-time-ai-chat-translation-tool-launched-support-16-languages-5006768",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.gadgets360cdn.com/large/roblox_translation_tool_1707232853992.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.gadgets360.com/games/news/roblox-real-time-ai-chat-translation-tool-launched-support-16-languages-5006768/amp",
-      "cdnAmpWebUrl": "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/games/news/roblox-real-time-ai-chat-translation-tool-launched-support-16-languages-5006768/amp",
-      "publishedDateTime": "2024-02-06T15:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gadgets360",
-        "domain": "gadgets360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-amazon-web-services-ceo-dishes-on-bostons-ai-scene-and-harvard-square-pizza.md",
-      "title": "Amazon Web Services CEO dishes on Boston’s AI scene — and Harvard Square pizza",
-      "excerpt": "senior vice president and head scientist for artificial general intelligence, and Raj Aggarwal, general manager of GenAI at AWS. But the area was also hit by deep layoffs in the company’s Alexa ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bostonglobe.com/2024/02/06/business/amazon-web-services-head-dishes-bostons-ai-scene-harvard-square-pizza/",
-      "originalUrl": "https://www.bostonglobe.com/2024/02/06/business/amazon-web-services-head-dishes-bostons-ai-scene-harvard-square-pizza/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/vAVgn87cGxjqvv-ar8qrmZYbJ9k=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/VANIQEJKYUPLKTBKMK5LFILHVE.jpg",
-          "width": 506,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T14:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Boston Globe",
-        "domain": "bostonglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-maine-residents-urged-to-keep-an-eye-out-for-missing-llama.md",
-      "title": "Maine Residents Urged to Keep an Eye Out for Missing Llama",
-      "excerpt": "Authorities suspect that a young llama has been stolen, and are urging Mainers to watch for any signs of its whereabouts.",
-      "sourceUrl": null,
-      "webUrl": "https://seacoastcurrent.com/ixp/490/p/maine-residents-urged-to-keep-an-eye-out-for-missing-llama/",
-      "originalUrl": "https://seacoastcurrent.com/ixp/490/p/maine-residents-urged-to-keep-an-eye-out-for-missing-llama/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://townsquare.media/site/997/files/2020/10/logo-1.png",
-          "width": 711,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T14:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "seacoastcurrent",
-        "domain": "seacoastcurrent.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-ibm-opens-ai-school-for-telcos-a-critical-phase-not-just-of-ai-but-for-all-telecoms.md",
-      "title": "IBM opens AI school for telcos: ‘A critical phase – not just of AI, but for all telecoms’",
-      "excerpt": "IBM explains how its AI tieup with the GSMA is about how telcos engage with the outside world, and make 5G valueable to new customer segments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.rcrwireless.com/20240206/5g/ibm-opens-ai-school-for-telcos-a-critical-phase-not-just-of-ai-but-for-all-telecoms",
-      "originalUrl": "https://www.rcrwireless.com/20240206/5g/ibm-opens-ai-school-for-telcos-a-critical-phase-not-just-of-ai-but-for-all-telecoms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T14:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RCR Wireless News",
-        "domain": "rcrwireless.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-microsoft-makes-azure-openai-service-available-in-government-cloud-platform.md",
-      "title": "Microsoft makes Azure OpenAI service available in government cloud platform",
-      "excerpt": "The service is live on Azure Government Tuesday while the agency pursues FedRAMP authorization for high-impact data.",
-      "sourceUrl": null,
-      "webUrl": "https://fedscoop.com/openai-service-available-government-cloud/",
-      "originalUrl": "https://fedscoop.com/openai-service-available-government-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fedscoop.com/wp-content/uploads/sites/5/2021/09/Microsoft-scaled.jpg",
-          "width": 2560,
-          "height": 1742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-06T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FedScoop",
-        "domain": "fedscoop.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-finally-now-with-10m-adds-ai-for-better-insight-into-small-business-accounting.md",
-      "title": "Finally, now with $10M, adds AI for better insight into small business accounting",
-      "excerpt": "Finally, a fintech startup helping businesses automate ... “The trick for us is really leveraging AI to give more insights and start highlighting what some of these data points mean ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/06/finally-10m-ai-small-business-accounting-fintech/",
-      "originalUrl": "https://techcrunch.com/2024/02/06/finally-10m-ai-small-business-accounting-fintech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/02/finally-expense-management-cards.png?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/06/finally-10m-ai-small-business-accounting-fintech/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/06/finally-10m-ai-small-business-accounting-fintech/amp/",
-      "publishedDateTime": "2024-02-06T13:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

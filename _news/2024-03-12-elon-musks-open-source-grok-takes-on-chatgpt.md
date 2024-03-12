@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Elon Musk says his AI startup xAI will open-source its Grok chatbot"
+    excerpt: "Musk sued ChatGPT-maker OpenAI and its CEO Sam Altman, saying they had abandoned the startup's original mission to develop artificial intelligence for the benefit of humanity and not for profit."
+    publishedDateTime: 2024-03-12T09:51:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot/108430382"
+    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot/108430382"
+    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot/108430382"
+    type: article
+    provider:
+      name: brandequity.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-108430382,imgsize-527560,width-1200,height=765,overlay-etbrandequity/digital/elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "Elon Musk Gave Himself No Choice but to Open Source His Chatbot Grok"
     excerpt: "Elon Musk sued OpenAI for keeping its technology secret. Today he promised to give away his own “truth-seeking” chatbot Grok for free."
     publishedDateTime: 2024-03-11T18:16:00Z
@@ -33,6 +49,24 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "Elon Musk Can’t Sue His Way To AI Breakthroughs, Khosla Says"
+    excerpt: "Billionaire Elon Musk can’t sue his way into artificial general intelligence, fellow billionaire and OpenAI investor Vinod Khosla said in an interview on Bloomberg TV."
+    publishedDateTime: 2024-03-11T18:02:00Z
+    webUrl: "https://www.ndtvprofit.com/business/khosla-says-musk-can-t-sue-his-way-to-ai-breakthroughs"
+    type: article
+    provider:
+      name: ndtvprofit
+      domain: ndtvprofit.com
+    quality: 19
+  - title: "The OpenAI-Elon Musk battle intensifies and AI trust sinks, but investors aren’t slowing down"
+    excerpt: "The escalation of the fight between OpenAI and Elon Musk over what kind of artificial intelligence company the phenom should be is creating even more uncertainty over who’s going to lead the generative AI era."
+    publishedDateTime: 2024-03-08T19:56:00Z
+    webUrl: "https://siliconangle.com/2024/03/08/openai-elon-musk-battle-intensifies-ai-trust-sinks-investors-arent-slowing/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 8
 
 secured: "4PsIg+IUXkVCmTHWx8jwVIXSU5XDkXZWrrWidGvEASmFkblHkmjf8cINwX5wWKU7rGz1Vb3DPiB08z4dDE1jZmdiY1XzrmWmYk0l7/mdakLdmatmA+aoZFnqyaabB5tUGzhBa6MnBZHx2CSK4431ukEq7zBqWVEYNSqEan+TMiKJD8o/sGRXDYoKSYHJ7GLGSOJFK5h0boUUlaireAOS21/chmR5VUDxILHqLiUgQYdOH5iK3h/nuyZaigrS7j8PLi0yicm/oqIgMQh/37T8ioNOlWSmzX6eA0bco3+AiG69YtQguRBgng8Y6Ld5uo2P4pOfTVk0V2s1vsaky1lF8HuFSAebf+/yMBctbayrTKgb2UDADnIaeb4h8cUf6QqU0pym5qKoWq9UByUs14ZHzJIICwl63vVXsvpuvdB9F2K45xffqhg9Le6vQf+GLIrklsAe+6KdjMesItnHNEtSXhomqb++bQR6TSG72CSTdXqRQ44jhznTOM0SmimhxrgdkP8yRtpVyhRSsKtg1vk4kg==;Yu8vQYhSp1kF6kdcH0g0kg=="
 ---

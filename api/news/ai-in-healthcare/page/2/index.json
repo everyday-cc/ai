@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2024-02-23-healthcare-startup-abridge-raises-150-mln-for-ai-model-for-clinicians.md",
-      "title": "Healthcare startup Abridge raises $150 mln for AI model for clinicians",
-      "excerpt": "Feb 23 (Reuters) - Abridge, a startup building artificial intelligence-powered clinical documentation tools, has raised $150 million in a Series C round, the company told Reuters, as more investors seek exposure to industry-specific generative AI applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/markets/deals/healthcare-startup-abridge-raises-150-mln-ai-model-clinicians-2024-02-23/",
-      "originalUrl": "https://www.reuters.com/markets/deals/healthcare-startup-abridge-raises-150-mln-ai-model-clinicians-2024-02-23/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-23T00:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2024-02-23-justice-department-taps-former-kamala-harris-adviser-as-1st-ever-artificial-intelligence-officer.md",
       "title": "Justice Department taps former Kamala Harris adviser as 1st-ever artificial intelligence officer",
       "excerpt": "The Justice Department named its first-ever official focused on artificial intelligence (AI) on Thursday in anticipation of the rapidly evolving technology's impact on the criminal justice system.",
@@ -1372,6 +1329,49 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-during-edmonds-college-talk-virologist-explains-how-ai-is-changing-gene-therapy-research.md",
+      "title": "During Edmonds College talk, virologist explains how AI is changing gene therapy research",
+      "excerpt": "If artificial intelligence can help physicians predict who is more or less likely to get a medical condition, it may also help molecular biologists predict which gene or gene",
+      "sourceUrl": null,
+      "webUrl": "https://myedmondsnews.com/2024/02/during-edmonds-college-talk-virologist-explains-how-ai-is-changing-gene-therapy-research/",
+      "originalUrl": "https://myedmondsnews.com/2024/02/during-edmonds-college-talk-virologist-explains-how-ai-is-changing-gene-therapy-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://myedmondsnews.com/wp-content/uploads/2024/02/IMG_7313.jpg",
+          "width": 1024,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T17:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "My Edmonds News",
+        "domain": "myedmondsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     }
   ],

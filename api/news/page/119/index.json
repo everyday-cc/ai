@@ -2,6 +2,437 @@
   "page": 119,
   "value": [
     {
+      "path": "_news/2023-12-03-1-artificial-intelligence-ai-stock-to-buy-hand-over-fist-and-1-to-make-disappear-from-your-portfolio.md",
+      "title": "1 Artificial Intelligence (AI) Stock to Buy Hand Over Fist and 1 to Make Disappear From Your Portfolio",
+      "excerpt": "Both are using artificial intelligence (AI ... that competes with the Amazon's AWS and Microsoft's Azure. But the vast majority of Alphabet's revenue and profits are derived from advertising ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/1-artificial-intelligence-ai-stock-to-buy-hand-over-fist-and-1-to-make-disappear-from-your",
+      "originalUrl": "https://www.nasdaq.com/articles/1-artificial-intelligence-ai-stock-to-buy-hand-over-fist-and-1-to-make-disappear-from-your",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-02T19:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-03-amazons-290-very-best-cyber-monday-2023-deals-you-cannot-miss.md",
+      "title": "Amazon’s 290+ Very Best Cyber Monday 2023 Deals You Cannot Miss",
+      "excerpt": "Laneige lip masks, Apple AirTags, and more holiday gifts are up to 80 percent off We independently evaluate all recommended products and services. If you click on links we provide, we may receive ...",
+      "sourceUrl": null,
+      "webUrl": "https://people.com/best-amazon-cyber-monday-deals-2023-live-8391275",
+      "originalUrl": "https://people.com/best-amazon-cyber-monday-deals-2023-live-8391275",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-02T17:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "People",
+        "domain": "people.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-03-not-all-generative-ai-highlights-from-aws-reinvent.md",
+      "title": "Not all generative AI: Highlights from AWS re:Invent",
+      "excerpt": "While gen AI certainly stole the spotlight, my vote for the most intriguing news from AWS was its progress extending serverless functionality to various data services, including the Aurora relational database service, the Redshift cloud data warehouse, and the ElastiCache caching service.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2023/12/02/not-generative-ai-highlights-aws-reinvent/",
+      "originalUrl": "https://siliconangle.com/2023/12/02/not-generative-ai-highlights-aws-reinvent/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-02T16:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-03-brfs-center-for-molecular-imaging-and-therapy-to-acquire-states-most-advanced-petct-scanner-by-january.md",
+      "title": "BRF’s Center for Molecular Imaging and Therapy to acquire state’s most advanced PET/CT scanner by January",
+      "excerpt": "SHREVEPORT, La. - Northwest Louisiana is closer to offering the state’s most technologically advanced PET/CT scanner to patients of BRF’s Center for Molecular Imaging and Therapy (CMIT). BRF has relea",
+      "sourceUrl": null,
+      "webUrl": "https://www.ktbs.com/news/brf-s-center-for-molecular-imaging-and-therapy-to-acquire-state-s-most-advanced-pet/article_4c7c084e-9137-11ee-8c5d-233fa7517f2b.html",
+      "originalUrl": "https://www.ktbs.com/news/brf-s-center-for-molecular-imaging-and-therapy-to-acquire-state-s-most-advanced-pet/article_4c7c084e-9137-11ee-8c5d-233fa7517f2b.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/ktbs.com/content/tncms/assets/v3/editorial/7/b3/7b34c022-9137-11ee-b60c-037a81950478/656b682f59fe6.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-02T16:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTBS",
+        "domain": "ktbs.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-02-computer-vision-eastern-africa.md",
+      "title": "Computer Vision - Eastern Africa",
+      "excerpt": "The market size in the Computer Vision market is projected to reach US$48.55m in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 14.98%, resulting in a market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/eastern-africa",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/eastern-africa",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-02T13:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-02-speech-recognition-eastern-africa.md",
+      "title": "Speech Recognition - Eastern Africa",
+      "excerpt": "The market size in the Speech Recognition market is projected to reach US$14.94m in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 18.68%, resulting in a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/speech-recognition/eastern-africa",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/speech-recognition/eastern-africa",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-02T13:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-02-10-best-predictive-analytics-tools-and-software-of-2023.md",
+      "title": "10 Best Predictive Analytics Tools and Software of 2023",
+      "excerpt": "Tableau, TIBCO Data Science and Sisense are among the best software for predictive analytics. Compare their features, pricing, pros and cons.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/best-predictive-analytics-tools/",
+      "originalUrl": "https://www.techrepublic.com/article/best-predictive-analytics-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2022/05/AdobeStock_616977240.jpeg",
+          "width": 1400,
+          "height": 784,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-02T08:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-12-02-montreal-research-hub-spearheads-global-ai-ethics-debate.md",
+      "title": "Montreal Research Hub Spearheads Global AI Ethics Debate",
+      "excerpt": "Rapid developments in artificial intelligence -- and recent turmoil at industry powerhouse OpenAI -- have brought fresh attention to a key hub of ethics research related to the technology in Montreal,",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/montreal-research-hub-spearheads-global-ai-ethics-debate-85a5577c",
+      "originalUrl": "https://www.barrons.com/news/montreal-research-hub-spearheads-global-ai-ethics-debate-85a5577c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.barrons.com/asset/external-media/afp/AFP5124571594622971684184341015126633855344---1.jpg",
+          "width": 768,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/montreal-research-hub-spearheads-global-ai-ethics-debate-85a5577c",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/montreal-research-hub-spearheads-global-ai-ethics-debate-85a5577c",
+      "publishedDateTime": "2023-12-02T05:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-02-surprise-warren-buffett-has-bet-over-176-billion-in-3-artificial-intelligence-ai-growth-stocks.md",
+      "title": "Surprise! Warren Buffett Has Bet Over $176 Billion in 3 Artificial Intelligence (AI) Growth Stocks",
+      "excerpt": "He went on to say, \"We've been doing research across a wide range of AI technologies ... director of market development and spokeswoman for Facebook and sister to Meta Platforms CEO Mark ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/12/02/surprise-warren-buffett-has-bet-over-176-billion-i/",
+      "originalUrl": "https://www.fool.com/investing/2023/12/02/surprise-warren-buffett-has-bet-over-176-billion-i/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/756245/buffett1-tmf.jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-02T05:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-02-meta-ai-unveils-seamless-translator-for-real-time-communication-across-languages.md",
+      "title": "Meta AI unveils ‘Seamless’ translator for real-time communication across languages",
+      "excerpt": "Meta AI researchers have developed a new artificial intelligence model called 'Seamless' that enables more natural, real-time translation across languages while preserving vocal style and emotion.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/meta-ai-unveils-seamless-translator-for-real-time-communication-across-languages/",
+      "originalUrl": "https://venturebeat.com/ai/meta-ai-unveils-seamless-translator-for-real-time-communication-across-languages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/12/nuneybits_Abstract_painting_of_two_people_with_speech_bubbles_c_b2457dfd-af1e-4d7f-b81d-70bef4a9307f.webp?w=1200&strip=all",
+          "width": 1200,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-02T04:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-02-bipartisan-senate-bill-to-ban-tsa-use-of-facial-recognition-technology-gains-support-of-civil-rights-groups.md",
       "title": "Bipartisan Senate bill to ban TSA use of facial recognition technology gains support of civil rights groups",
       "excerpt": "The bill aims to tackle TSA’s proposed plan to implement facial recognition scans at over 430 U.S. airports within the next several years.",
@@ -627,420 +1058,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-02-how-microsoft-and-nuance-empower-radiologists-with-ai-powered-solutions.md",
-      "title": "How Microsoft and Nuance empower radiologists with AI-powered solutions",
-      "excerpt": "Microsoft and Nuance are committed to creating outcomes-focused AI solutions that streamline radiology workflows. Learn more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.microsoft.com/en-us/industry/blog/healthcare/2023/12/01/how-microsoft-and-nuance-empower-radiologists-with-ai-powered-solutions/",
-      "originalUrl": "https://www.microsoft.com/en-us/industry/blog/healthcare/2023/12/01/how-microsoft-and-nuance-empower-radiologists-with-ai-powered-solutions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.microsoft.com/en-us/industry/blog/wp-content/uploads/2023/12/GettyImages-1320844652-1.jpg",
-          "width": 942,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-01T16:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-02-svvsd-to-host-day-of-ai-event.md",
-      "title": "SVVSD to host ‘Day of AI’ event",
-      "excerpt": "As part of Computer Science Education Week, the Innovation Center of St. Vrain Valley Schools will host a ‘Day of AI’ on Dec. 2 from 2-5 p.m. Computer Science Education Week is “an annual call to action to inspire K-12 students to learn computer science,",
-      "sourceUrl": null,
-      "webUrl": "https://www.longmontleader.com/schools/svvsd-to-host-day-of-ai-event-7907623",
-      "originalUrl": "https://www.longmontleader.com/schools/svvsd-to-host-day-of-ai-event-7907623",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.vmcdn.ca/f/files/longmontleader/images/stock-photos/pexels-tara-winstead-8386440.jpg;w=1200;h=800;mode=crop",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-01T16:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Longmont Leader",
-        "domain": "longmontleader.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-lenovos-ai-powered-sign-language-translation-solution-empowers-signers-in-brazil.md",
-      "title": "Lenovo’s AI-Powered Sign Language Translation Solution Empowers Signers in Brazil",
-      "excerpt": "A camera captured the precise movements of Gabriel’s hands while an original AI engine created a real-time text and voice translation. The language barrier between Gabriel and YY dissolved almost instantly, creating seamless and personal connection.",
-      "sourceUrl": null,
-      "webUrl": "https://www.csrwire.com/press_releases/789831-lenovos-ai-powered-sign-language-translation-solution-empowers-signers-brazil",
-      "originalUrl": "https://www.csrwire.com/press_releases/789831-lenovos-ai-powered-sign-language-translation-solution-empowers-signers-brazil",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://back.3blmedia.com/sites/default/files/inline-images/gabriel-libras_lenovo_103023.png",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-01T15:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CSR Wire",
-        "domain": "csrwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-aftas-2023-most-innovative-third-party-technology-vendor-ai-machine-learninggeoquant.md",
-      "title": "AFTAs 2023: Most innovative third-party technology vendor (AI & machine learning)—GeoQuant",
-      "excerpt": "Innovation at GeoQuant At GeoQuant, part of BMI Research, a Fitch Solutions company, innovation is woven into every aspect of the business. The firm uses",
-      "sourceUrl": null,
-      "webUrl": "https://www.waterstechnology.com/awards-rankings/7951513/aftas-2023-most-innovative-third-party-technology-vendor-ai-machine-learning-geoquant",
-      "originalUrl": "https://www.waterstechnology.com/awards-rankings/7951513/aftas-2023-most-innovative-third-party-technology-vendor-ai-machine-learning-geoquant",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-01T14:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WatersTechnology",
-        "domain": "waterstechnology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-natural-language-processing-mena.md",
-      "title": "Natural Language Processing - MENA",
-      "excerpt": "The market size in the Natural Language Processing market is projected to reach 0.00 in 2023. The market size is expected to show an annual growth rate (CAGR 2023-0) of 0, resulting in a market ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/mena",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/mena",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-01T14:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-researchers-develop-novel-deep-learning-based-detection-system-for-autonomous-vehicles.md",
-      "title": "Researchers develop novel deep learning-based detection system for autonomous vehicles",
-      "excerpt": "Autonomous vehicles require object detection systems to navigate traffic and avoid obstacles on the road. However, current detection methods often suffer from diminished detection capabilities due to bad weather,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/11/231130113233.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/11/231130113233.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-01T14:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-qa-how-artificial-intelligence-could-transform-health-care.md",
-      "title": "Q&A: How artificial intelligence could transform health care",
-      "excerpt": "Health care has historically been slow to adopt new technologies that involve wholesale changes to the nature of the work. Witness the slow and checkered roll-out of electronic health records and the utter failure of prior efforts to implement artificial intelligence tools,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-12-qa-artificial-intelligence-health.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-12-qa-artificial-intelligence-health.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/how-artificial-intelli-2.jpg",
-          "width": 1280,
-          "height": 693,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-12-qa-artificial-intelligence-health.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-12-qa-artificial-intelligence-health.amp",
-      "publishedDateTime": "2023-12-01T13:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-seattle-is-an-artificial-intelligence-hub-in-a-rapidly-changing-field.md",
-      "title": "Seattle is an artificial intelligence hub in a rapidly changing field",
-      "excerpt": "AI continues to grow in power and use across the economy. You're probably using it now, whether you know it or not. Jon Talton considers if we're letting AI unleash a Terminator future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/business/seattle-is-an-artificial-intelligence-hub-in-a-rapidly-changing-field/",
-      "originalUrl": "https://www.seattletimes.com/business/seattle-is-an-artificial-intelligence-hub-in-a-rapidly-changing-field/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-01T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-deepmind-exec-ai-assesses-climate-issues-falls-short-of-full-solution.md",
-      "title": "DeepMind exec: AI assesses climate issues, falls short of full solution",
-      "excerpt": "Google DeepMind’s Climate Action Lead, Sims Witherspoon, highlights AI’s potential to address climate challenges. She suggests a three-step framework: Understand, Optimize, Accelerate.",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/deep-mind-exec-ai-assesses-climate-issues-falls-short-full-solution",
-      "originalUrl": "https://cointelegraph.com/news/deep-mind-exec-ai-assesses-climate-issues-falls-short-full-solution",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-01T12:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-agi-development-explained-by-deepmind-founder.md",
-      "title": "AGI development explained by DeepMind Founder",
-      "excerpt": "Learn more about the development of Artificial General Intelligence AGI from the founder of DeepMind. Learn how artificial intelligence will",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/artificial-general-intelligence-deepmind/",
-      "originalUrl": "https://www.geeky-gadgets.com/artificial-general-intelligence-deepmind/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/DeepMind-Artificial-General-Intelligence.jpg",
-          "width": 1280,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-01T12:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

@@ -48,15 +48,6 @@ related:
       name: Search Engine Land
       domain: searchengineland.com
     quality: 18
-  - title: "Transforming Risk Management: Quantifind's Innovative Approach to Precision Language Models Sets New Industry Standards"
-    excerpt: "John Stockton, Co-founder of Quantifind, commented, \"As the landscape of AI continues to evolve, organizations must harness the power of Precise Language Models responsibly and strategically. Our white paper offers valuable insights into navigating the omplexities and maximizing the benefits of integrating LLMs into risk assessment frameworks.\""
-    publishedDateTime: 2024-03-07T16:32:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/03/07/9974948.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "sWdbLRr1mChY9ZosjkIEVtaYtK23Xb9QaON1QcSVq7qwVfQNI0PK5erFRfOwKudTwZh07NjxegndTmrMFtHS8BLeq7f74g1GVj1uGNtHZb5+IBVUjAHNTi+1Es2c/4MtaUC/G6M994DGb7gJFViyes3eUfmQAyWhmSh2YpmDaAg62x2c2iPL7cL17fQ+b2TE8e1iBpE5QEUiewJes6d0HDCjxNT2vo2ODWWw/LzCh0FodmknhgZcF5H0iVorrqt+cBSJGsOP25SLnl2Z2piAOWKzuWLHtlf/B5rh6HdXm3STpTtn6AmxWYuU59VXyWmnxQD1dvaG7pij/tEy19LNG9fc7EeKNvpSFRE7FyTUdHUdt3B+PS+JFyonToSRJpOy/zpL9NBUBgHdOMKgOfb4BeB1RJNsHFX+QKaUBJ3veaq9gENN8oXwR4/Z7hZWywHNoxcBE4NE+lYGUZeDrqmQJpGLbICGccwCH9TJMceefFcEQGm5j2XX1s5uO4DDEoM06vuMcMMCeUWSdxkdq4dDOQ==;OYjS5b1WA29PYo8J5SN9Og=="
 ---

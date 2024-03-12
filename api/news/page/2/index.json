@@ -2,6 +2,299 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-03-12-five-ai-crypto-coins-emerging-in-2024.md",
+      "title": "Five AI crypto coins emerging in 2024",
+      "excerpt": "The artificial intelligence industry began booming at the start of 2024, with OpenAI's Sora product generating a new wave of hype within the sector.",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/business/india-business/best-ai-cryptos/articleshow/108424368.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/business/india-business/best-ai-cryptos/articleshow/108424368.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-108424765,width-1280,height-720,resizemode-4/108424765.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/business/india-business/best-ai-cryptos/amp_articleshow/108424368.cms",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/business/india-business/best-ai-cryptos/amp_articleshow/108424368.cms",
+      "publishedDateTime": "2024-03-12T06:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-adani-qualcomm-ceo-meet-hints-at-future-collaboration-in-chip-ai-space.md",
+      "title": "Adani, Qualcomm CEO meet hints at future collaboration in chip, AI space",
+      "excerpt": "Adani group chairman Gautam Adani’s meeting with Qualcomm president and CEO Cristiano R Amon on Monday, fuelled speculation about the former trying to understand the semiconductor and artificial intelligence ... solutions for driverless cars, connected ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/digital-transformation-adani-qualcomm-ceo-meet-hints-at-future-collaboration-in-chip-ai-space-3422117/",
+      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-adani-qualcomm-ceo-meet-hints-at-future-collaboration-in-chip-ai-space-3422117/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2024/03/Untitled-design-2024-03-12T104852.547.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-adani-qualcomm-ceo-meet-hints-at-future-collaboration-in-chip-ai-space-3422117/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-adani-qualcomm-ceo-meet-hints-at-future-collaboration-in-chip-ai-space-3422117/lite/",
+      "publishedDateTime": "2024-03-12T05:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-local-falcon-unveils-falcon-assist-the-first-ai-built-exclusively-for-local-seo.md",
+      "title": "Local Falcon Unveils Falcon Assist, the First AI Built Exclusively for Local SEO",
+      "excerpt": "Known for its best-in-class local rank tracking, Local Falcon launched the first-ever AI assistant to help businesses with local SEO, Google",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/local-falcon-unveils-falcon-assist-the-first-ai-built-exclusively-for-local-seo-1033152965",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/local-falcon-unveils-falcon-assist-the-first-ai-built-exclusively-for-local-seo-1033152965",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/mmstudio-images/gallery/G3JKzPU5pNeQCdO4ILXoGZm1xrG2/1709854800729-0.jpg",
+          "width": 800,
+          "height": 310,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-12T05:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-french-startup-nijta-hopes-to-protect-voice-privacy-in-ai-use-cases.md",
+      "title": "French startup Nijta hopes to protect voice privacy in AI use cases",
+      "excerpt": "France-based startup Nijta, whose flagship product Voice Harbor anonimizes voices for AI, raised €2 million in funding from various sources, including deep tech VC fund Elaia.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/03/11/nijta-voice-privacy-ai/",
+      "originalUrl": "https://techcrunch.com/2024/03/11/nijta-voice-privacy-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-525848879.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/03/11/nijta-voice-privacy-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/11/nijta-voice-privacy-ai/amp/",
+      "publishedDateTime": "2024-03-12T05:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-clarity-alignment-and-empowermentleadership-skills-in-the-age-of-ai.md",
+      "title": "Clarity, Alignment, and Empowerment:Leadership Skills in the Age of AI",
+      "excerpt": "Provide clarity, alignment, and empowerment in your team meetings. getty \"Do you have the engagement survey results?\" I asked my new employee, who had just joined the team a few w",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/melissadaimler/2024/03/11/clarity-alignment-and-empowermentleadership-skills-in-the-age-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/melissadaimler/2024/03/11/clarity-alignment-and-empowermentleadership-skills-in-the-age-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ef62a28230e4ce9b4984a9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1243,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-12T03:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-manipulated-kate-middleton-photo-sparks-royal-frenzy-of-jokes-and-memes.md",
+      "title": "Manipulated Kate Middleton Photo Sparks Royal Frenzy Of Jokes And Memes",
+      "excerpt": "After Kate apologizes for a Photoshopped family picture, the online masses can't resist poking fun at the latest controversy to hit Kensington Palace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lesliekatz/2024/03/11/altered-kate-middleton-photo-sparks-royal-frenzy-of-jokes-and-memes/",
+      "originalUrl": "https://www.forbes.com/sites/lesliekatz/2024/03/11/altered-kate-middleton-photo-sparks-royal-frenzy-of-jokes-and-memes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65efa845bfb4c6bde5d6755b/0x0.jpg?format=jpg&crop=640,360,x25,y57,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lesliekatz/2024/03/11/altered-kate-middleton-photo-sparks-royal-frenzy-of-jokes-and-memes/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lesliekatz/2024/03/11/altered-kate-middleton-photo-sparks-royal-frenzy-of-jokes-and-memes/amp/",
+      "publishedDateTime": "2024-03-12T01:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-12-microsoft-insiders-worry-the-company-has-become-just-it-for-openai.md",
       "title": "Microsoft insiders worry the company has become just 'IT for OpenAI'",
       "excerpt": "Microsoft's AI strategy has increasingly focused on OpenAI. The shift has led to some executive departures and less focus on Microsoft's own services.",
@@ -207,7 +500,7 @@
       "originalUrl": "https://www.digitaltrends.com/computing/how-to-use-google-gemini/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 248,
+      "heat": 268,
       "tags": null,
       "images": [
         {
@@ -404,6 +697,59 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-state-dept-backed-report-provides-action-plan-to-avoid-catastrophic-ai-risks.md",
+      "title": "State Dept-backed report provides action plan to avoid catastrophic AI risks",
+      "excerpt": "While providing technical details on the risks of AI, the action plan also introduces policy proposals that can help the U.S. and its allies mitigate these risks.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/action-plan-long-in-the-making-provides-policy-guidelines-to-avoid-catastrophic-ai-risks/",
+      "originalUrl": "https://venturebeat.com/ai/action-plan-long-in-the-making-provides-policy-guidelines-to-avoid-catastrophic-ai-risks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/VB_security-breach-padlock_3_1200x800.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-11T18:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Meta AI"
       ]
     },
     {
@@ -924,335 +1270,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2024-03-11-healthcare-pros-show-interest-in-apples-vision-pro-survey.md",
-      "title": "Healthcare pros show interest in Apple's Vision Pro — survey",
-      "excerpt": "Up to 75% of US healthcare professionals are open to exploring the use of Vision Pro devices at work, survey claims.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3714400/healthcare-pros-show-interest-in-apples-vision-pro-survey.html",
-      "originalUrl": "https://www.computerworld.com/article/3714400/healthcare-pros-show-interest-in-apples-vision-pro-survey.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2024/03/04/20/vision-pro-1-100961865-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3714400/healthcare-pros-show-interest-in-apples-vision-pro-survey.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3714400/healthcare-pros-show-interest-in-apples-vision-pro-survey.amp.html",
-      "publishedDateTime": "2024-03-11T13:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-03-11-deepmind-and-stanfords-new-robot-control-model-follow-instructions-from-sketches.md",
-      "title": "DeepMind and Stanford’s new robot control model follow instructions from sketches",
-      "excerpt": "The researchers created RT-Sketch, a model that uses sketches to control robots. It performs on par with language- and image-conditioned agents in normal conditions and outperforms them in situations where language and image goals fall short. While ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/automation/deepmind-and-stanfords-new-robot-control-model-follow-instructions-from-sketches/",
-      "originalUrl": "https://venturebeat.com/automation/deepmind-and-stanfords-new-robot-control-model-follow-instructions-from-sketches/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/03/Screenshot-2024-03-11-at-1.24.45 PM.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-11T13:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-11-the-importance-of-ethical-ai-mitigating-bias-in-machine-learning-algorithms.md",
-      "title": "The Importance of Ethical AI: Mitigating Bias in Machine Learning Algorithms",
-      "excerpt": "In a world increasingly reliant on artificial intelligence, ensuring ethics and fairness in AI systems is more vital than ever. Join us as we delve into the crucial topic of mitigating bias in machine learning algorithms and explore the importance of ethical AI in shaping a more equitable future for all.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/the-importance-of-ethical-ai-mitigating-bias-in-machine-learning-algorithms/",
-      "originalUrl": "https://techbullion.com/the-importance-of-ethical-ai-mitigating-bias-in-machine-learning-algorithms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2024/03/Artificial-Intelligence.jpg",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-11T12:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AI Ethics",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2024-03-11-how-the-telecom-industry-can-accelerate-growth-from-generative-ai.md",
-      "title": "How The Telecom Industry Can Accelerate Growth From Generative AI",
-      "excerpt": "This article focuses on how the telecom industry can accelerate growth from generative AI and provides use cases relevant to the telco industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2024/03/11/how-the-telecom-industry-can-accelerate-growth-from-generative-ai/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2024/03/11/how-the-telecom-industry-can-accelerate-growth-from-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65eeea8b74594bca5ee3fccb/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-11T11:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-11-nvidias-ai-chips-cant-be-beaten-even-if-theyre-free.md",
-      "title": "Nvidia’s AI chips can't be beaten, even if they're free",
-      "excerpt": "Jensen Huang gets overenthusiastic. Nvidia boss Jensen Huang has boasted that his firm's chips are \"so good that even when the competitor's chips are free, it's not cheap enough.\" At the 2024 SIEPR Economic Summit,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fudzilla.com/news/graphics/58608-nvidia-s-ai-chips-can-t-be-beaten-even-if-they-re-free",
-      "originalUrl": "https://www.fudzilla.com/news/graphics/58608-nvidia-s-ai-chips-can-t-be-beaten-even-if-they-re-free",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fudzilla.com/media/k2/items/cache/21201184c08d1eb3d16765121aeb3d18_L.jpg",
-          "width": 620,
-          "height": 465,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-11T10:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fudzilla",
-        "domain": "fudzilla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-11-the-3-best-artificial-intelligence-stocks-to-invest-in-for-big-gains-in-2024.md",
-      "title": "The 3 Best Artificial Intelligence Stocks to Invest In for Big Gains in 2024",
-      "excerpt": "Spread the loveArtificial Intelligence (AI) is not just a buzzword; it’s the frontier of technological advancement that is integrating into every aspect of our lives. As AI technology continues to evolve,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thetechedvocate.org/the-3-best-artificial-intelligence-stocks-to-invest-in-for-big-gains-in-2024/",
-      "originalUrl": "https://www.thetechedvocate.org/the-3-best-artificial-intelligence-stocks-to-invest-in-for-big-gains-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thetechedvocate.org/wp-content/uploads/2024/03/7a429bf606918a9401ba8613d1680567.jpg",
-          "width": 563,
-          "height": 322,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-11T09:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "thetechedvocate.org",
-        "domain": "thetechedvocate.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-11-how-to-choose-an-ai-as-a-service-provider.md",
-      "title": "How to choose an AI-as-a-service provider",
-      "excerpt": "AIaaS can help you jumpstart your AI projects, but there are some details you need to know. Here’s what to look for and five leading options to consider.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.html",
-      "originalUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2024/02/dinging-service-bell-in-robot-hand-by-andrey-popov-via-shutterstock-100961475-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html",
-      "publishedDateTime": "2024-03-11T03:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AWS AI",
-        "Natural Language Processing",
-        "Microsoft AI",
-        "Machine Learning",
-        "IBM AI",
-        "AI in Finance"
       ]
     }
   ],

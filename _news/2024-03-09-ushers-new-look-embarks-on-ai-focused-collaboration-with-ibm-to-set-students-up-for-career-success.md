@@ -39,20 +39,6 @@ related:
         width: 1000
         height: 525
         isCached: true
-  - title: "Ex-Google Engineer Charged With Stealing AI trade Secrets for Chinese Companies"
-    excerpt: "A former software engineer at Google has been charged with stealing artificial intelligence trade secrets from the company while secretly working with two companies based in China, the Justice Department said Wednesday."
-    publishedDateTime: 2024-03-07T17:32:00Z
-    webUrl: "https://www.inc.com/associated-press/ex-google-engineer-charged-with-stealing-ai-trade-secrets-for-chinese-companies.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 33
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/google-ai-1240718346_538223_shl4pt.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Google Engineer Allegedly Stole AI Secrets Then Became CEO Of A Chinese Startup: Here’s How"
     excerpt: "In October 2022, he allegedly traveled to China where he was soon named chief technology officer for an AI startup in the country. By May 2023, Ding even conducted an investor meeting to try to raise capital for the new company he founded and named himself ..."
     publishedDateTime: 2024-03-07T18:22:00Z

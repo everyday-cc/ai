@@ -2,6 +2,136 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-01-31-kettybot-pro-will-provide-personalized-customer-service-says-pudu-robotics.md",
+      "title": "KettyBot Pro will provide personalized customer service, says Pudu Robotics",
+      "excerpt": "KettyBot Pro's new features include a larger screen for personalized advertising, cameras for navigation, and smart tray inspection.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/kettybot-pro-will-provide-personalized-customer-service-says-pudu-robotics/",
+      "originalUrl": "https://www.therobotreport.com/kettybot-pro-will-provide-personalized-customer-service-says-pudu-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2024/01/KettyBot_Pro_Pudu.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-31T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-31-microsoft-and-openai-are-in-talks-to-inject-500-million-into-humanoid-robotics-startup-figure-ai-report-says.md",
+      "title": "Microsoft and OpenAI are in talks to inject $500 million into humanoid robotics startup Figure AI, report says",
+      "excerpt": "Microsoft and OpenAI are said to be exploring options to invest up to $500 million in a humanoid robotics startup, Bloomberg reported. The tech heavyweights are in talks with Figure AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/microsoft-openai-talks-investment-figure-ai-humanoid-robotics-report-2024-1",
+      "originalUrl": "https://www.businessinsider.com/microsoft-openai-talks-investment-figure-ai-humanoid-robotics-report-2024-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65ba1d7eac2de4f17ee61474?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/microsoft-openai-talks-investment-figure-ai-humanoid-robotics-report-2024-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/microsoft-openai-talks-investment-figure-ai-humanoid-robotics-report-2024-1?amp",
+      "publishedDateTime": "2024-01-31T11:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-31-from-artificial-labor-to-artificial-intelligence-human-judgment-keeps-it-real-opinion.md",
+      "title": "From artificial labor to artificial intelligence: Human judgment keeps it real | Opinion",
+      "excerpt": "Philosophers, not chatbots, will grapple with what it all means. We have the capacity to add value to decision-making that electrons can’t replace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/opinion/columnists/2024/01/31/opinion-from-artificial-labor-to-artificial-intelligence/72396206007/",
+      "originalUrl": "https://www.usatoday.com/story/opinion/columnists/2024/01/31/opinion-from-artificial-labor-to-artificial-intelligence/72396206007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-31T10:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-31-elon-musk-says-neuralink-has-implanted-its-first-brain-chip-in-human.md",
       "title": "Elon Musk says Neuralink has implanted its first brain chip in human",
       "excerpt": "Patient recovering well with signs of ‘promising neuron spike detection’, says startup’s founder",
@@ -1250,136 +1380,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-01-20-your-childs-next-playmate-could-be-an-ai-toy-powered-by-chatgpt.md",
-      "title": "Your Child’s Next Playmate Could Be An AI Toy Powered By ChatGPT",
-      "excerpt": "A host of startups are building robots and stuffed toys that can have full-fledged conversations with children, thanks to generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rashishrivastava/2024/01/20/your-childs-next-playmate-could-be-an-ai-toy-powered-by-chatgpt/",
-      "originalUrl": "https://www.forbes.com/sites/rashishrivastava/2024/01/20/your-childs-next-playmate-could-be-an-ai-toy-powered-by-chatgpt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65aadd6296b587d48f7882dd/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-20T10:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-01-20-this-ai-robot-was-made-to-help-seniors-combat-loneliness.md",
-      "title": "This AI robot was made to help seniors combat loneliness",
-      "excerpt": "One in 3 adults ages 50 to 80 reported feeling isolated from others in the past year, according to the 2023 National Poll on Healthy Aging.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kshb.com/this-ai-robot-was-made-to-help-seniors-combat-loneliness",
-      "originalUrl": "https://www.kshb.com/this-ai-robot-was-made-to-help-seniors-combat-loneliness",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T20:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KSHB Kansas City",
-        "domain": "kshb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-19-figure-01-humanoid-robot-learns-to-make-coffee-by-watching-videos.md",
-      "title": "Figure-01: Humanoid Robot Learns to Make Coffee By Watching Videos",
-      "excerpt": "The Figure-01 robot, equipped with artificial intelligence (AI), showcased its ability to watch and learn from human actions during a demonstration at Figure's San Francisco headquarters. Responding to a human request for coffee, the robot, having ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techtimes.com/articles/300808/20240119/figure-01-humanoid-robot-learns-make-coffee-watching-videos.htm",
-      "originalUrl": "https://www.techtimes.com/articles/300808/20240119/figure-01-humanoid-robot-learns-make-coffee-watching-videos.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://1734811051.rsc.cdn77.org/data/images/full/442710/figure-01-humanoid-robot-learns-to-make-coffee-by-watching-videos.png",
-          "width": 467,
-          "height": 305,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.techtimes.com/amp/articles/300808/20240119/figure-01-humanoid-robot-learns-make-coffee-watching-videos.htm",
-      "cdnAmpWebUrl": "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/300808/20240119/figure-01-humanoid-robot-learns-make-coffee-watching-videos.htm",
-      "publishedDateTime": "2024-01-19T14:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techtimes",
-        "domain": "techtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

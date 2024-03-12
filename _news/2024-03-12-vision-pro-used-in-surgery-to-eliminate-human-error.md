@@ -6,8 +6,8 @@ publishedDateTime: 2024-03-12T12:48:00Z
 originalUrl: "https://9to5mac.com/2024/03/12/vision-pro-used-in-surgery/"
 webUrl: "https://9to5mac.com/2024/03/12/vision-pro-used-in-surgery/"
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "QQnb72Jo9vRYIBxMO8Lsri5KnyIhpsApYqKp4oObJjlx08AWjEEcz05Zj5Ml9Fz76xJEiy9r0Q2iID1V3CUT2MM51AdJh4KOo3M7xSmCpK94JqzLxUpXImomexVURFL7V/RFO5SsGpdapAXflEsStddR3rfCUpFpa2+m2gjXyUNKVLyb2kRSR7Dh+ZCkqmiLjWjo9F+tASKmB9pYnyRqXlHnFz7aXC2WogfheEg8o4izZ/N7Cnc5EiExjz7Orp175RP/8I7PD6lBrau1FZUH4ndhYWySFx/m9sEIWFOSJVU3p8MvnAVO52LA/i3ymiZW6WBnj0u7alhJj5KsuGKftO7n0+8eYhH4LdTllbcR1l0=;cvIPBl3LoOzr7jSl9XwtaQ=="
+images:
+  - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/03/Vision-Pro-used-in-surgery.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+    width: 1200
+    height: 628
+    isCached: true
+
+secured: "EAGXh8ud2IU5kRF9TkjODAejjWRGp2MEvO1W8vqKo6iRwwgRw3kmIOaVY5dLf3OZ65rVdea5aiCiOt4alwtMIGHn3TXv/35dODVhVwYXNj9/WXBoZBKnxBtyGH4vRGfMOnxJa8+1cZVLbjL+1iPRY/atMZTRwXe63MdW8IAwophZh+QwWTc8yCIFLpO2N5QQ/yUsTBxBio7ZXBU/4BAaxphHK3YWn2LGMLcrx9sJtvSbdjA07inzkYbRAITxKcK1btb5f1g+xF9GzXo/t8YoZsYvtdiFyzKmfNywY1N21YRYjkR2Dg2NWDtDP2v0sK1oQZ2hjh3qGwIt7p701rr38ZOgbbmXfv/27JC0nOHp6ck=;5bgG5sRIBVmuKMW+NCjIfQ=="
 ---
 

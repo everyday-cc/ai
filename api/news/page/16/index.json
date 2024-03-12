@@ -2,6 +2,515 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2024-02-28-deepmind-uses-ai-to-tackle-neglected-deadly-diseases.md",
+      "title": "DeepMind uses AI to tackle neglected deadly diseases",
+      "excerpt": "Artificial intelligence is to be used to tackle the most deadly parasitic diseases in the developing world, tech company DeepMind has announced. The London-based Alphabet-owned lab will work with the Drugs for Neglected Diseases initiative (DNDI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/technology-57582183?_hsenc=p2ANqtz-_VO1RavpYLA9NyC8VPMRLxLSCmRcwZxtQD8bLNxkYV6PHFEWLFX4hxgbXflccaEtQ-UpZC",
+      "originalUrl": "https://www.bbc.com/news/technology-57582183?_hsenc=p2ANqtz-_VO1RavpYLA9NyC8VPMRLxLSCmRcwZxtQD8bLNxkYV6PHFEWLFX4hxgbXflccaEtQ-UpZC",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/D36C/production/_119042145_hi066638536.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/technology-57582183.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57582183.amp",
+      "publishedDateTime": "2024-02-28T12:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-rethinking-ai-in-the-context-of-sustainability.md",
+      "title": "Rethinking AI In The Context Of Sustainability",
+      "excerpt": "Large language models (LLMs), natural language processing (NLP), machine learning (ML), cognitive AI and a litany of other “hot” artificial intelligence technologies have flooded our discussions since early 2023. From media coverage to overzealous CEOs ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/rethinking-ai-in-the-context-of-sustainability/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/rethinking-ai-in-the-context-of-sustainability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65de0c271287e45e3434069a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1501,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/rethinking-ai-in-the-context-of-sustainability/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/28/rethinking-ai-in-the-context-of-sustainability/amp/",
+      "publishedDateTime": "2024-02-28T11:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-baidu-revenue-grows-6-in-fourth-quarter-as-ai-and-advertising-boost-business.md",
+      "title": "Baidu revenue grows 6% in fourth quarter as AI and advertising boost business",
+      "excerpt": "The U.S.-listed shares of the company rose by 0.4% in trading before the bell. Baidu's online marketing revenue grew 6% to 19.2 billion yuan. For the quarter, its adjusted profit was 21.86 yuan ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/02/28/baidu-q4-earnings-2023.html",
+      "originalUrl": "https://www.cnbc.com/2024/02/28/baidu-q4-earnings-2023.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107295593-1693900544756-gettyimages-1251294603-PGONCHAR_7724.jpeg?v=1709119383",
+          "width": 5000,
+          "height": 3333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/02/28/baidu-q4-earnings-2023.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/28/baidu-q4-earnings-2023.html",
+      "publishedDateTime": "2024-02-28T11:24:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-baidu-posts-record-revenue-amid-search-for-new-growth-engines.md",
+      "title": "Baidu Posts Record Revenue Amid Search for New Growth Engines",
+      "excerpt": "Chinese search-engine giant Baidu posted record quarterly revenue and higher adjusted profit, helped by higher ad spending and the rising profile of its ChatGPT-rival chatbot. The Beijing-based ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/business/earnings/baidus-fourth-quarter-net-profit-fell-despite-higher-revenue-273dde19",
+      "originalUrl": "https://www.wsj.com/business/earnings/baidus-fourth-quarter-net-profit-fell-despite-higher-revenue-273dde19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T11:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-how-ai-will-spur-the-democratization-of-technology-in-2024.md",
+      "title": "How AI Will Spur The Democratization Of Technology In 2024",
+      "excerpt": "A future-proof approach, with consideration for how AI will continue to change and mature, is what will unlock transformational business outcomes in the years ahead.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/how-ai-will-spur-the-democratization-of-technology-in-2024/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/how-ai-will-spur-the-democratization-of-technology-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65299ef3b71b98caddf7c4c1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1478,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/how-ai-will-spur-the-democratization-of-technology-in-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/28/how-ai-will-spur-the-democratization-of-technology-in-2024/amp/",
+      "publishedDateTime": "2024-02-28T10:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-rip-apple-car-this-is-why-it-died.md",
+      "title": "RIP Apple Car. This Is Why It Died",
+      "excerpt": "Any tech company moving into the auto space needs a manufacturing partner. But Apple’s EV died as it lived: alone.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/rip-apple-car-this-is-why-it-died/",
+      "originalUrl": "https://www.wired.com/story/rip-apple-car-this-is-why-it-died/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/65de3f5c8f177b35ceaa4d78/191:100/w_1280,c_limit/Death-Of-The-Apple-Car-Gear-AP19148216961071.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T10:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-ai-takes-over-davos-the-promise-the-risk-and-the-way-forward.md",
+      "title": "AI Takes Over Davos: The Promise, The Risk And The Way Forward",
+      "excerpt": "As the AI conversation shifts focus from its potential to perceived risks, what does the way forward look like, and will regulation stifle innovation or stimulate it?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/ai-takes-over-davos-the-promise-the-risk-and-the-way-forward/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/ai-takes-over-davos-the-promise-the-risk-and-the-way-forward/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65de07c5838ea55f72854821/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/28/ai-takes-over-davos-the-promise-the-risk-and-the-way-forward/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/28/ai-takes-over-davos-the-promise-the-risk-and-the-way-forward/amp/",
+      "publishedDateTime": "2024-02-28T10:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-the-most-popular-neural-network-styles-and-how-they-work.md",
+      "title": "The most popular neural network styles and how they work",
+      "excerpt": "Understanding the basics of neural networks also helps us address deeper questions about the nature of consciousness and what artificial intelligence (in its current incarnation) means for it. Fortunately, the fundamental ideas of neural networks are not ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3713023/the-most-popular-neural-network-styles-and-how-they-work.html",
+      "originalUrl": "https://www.infoworld.com/article/3713023/the-most-popular-neural-network-styles-and-how-they-work.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/11/11/10/brain_mind_neural_network_connections_artificial_intelligence_machine_learning_by_metamorworks_gettyimages-916414870_1200x800-100767999-large-100934453-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3713023/the-most-popular-neural-network-styles-and-how-they-work.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3713023/the-most-popular-neural-network-styles-and-how-they-work.amp.html",
+      "publishedDateTime": "2024-02-28T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-10-best-graphics-cards-of-2024-finding-the-best-gpu-for-gaming.md",
+      "title": "10 best graphics cards of 2024: finding the best GPU for gaming",
+      "excerpt": "The previous GPU champion, the RTX 3090 Ti ... On top of that, the card also supports Intel's XeSS upscaling feature, which uses AI to upscale your games and improve performance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/best-graphics-cards/",
+      "originalUrl": "https://www.digitaltrends.com/computing/best-graphics-cards/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/01/12gb-rtx-3080-review-07.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/best-graphics-cards/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/best-graphics-cards/?amp",
+      "publishedDateTime": "2024-02-28T09:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-is-it-too-late-to-buy-soundhound-ai-stock-now.md",
+      "title": "Is It Too Late to Buy SoundHound AI Stock Now?",
+      "excerpt": "SoundHound AI develops voice-based recognition software, a market the company estimates is worth $160 billion in annual revenues. Nvidia is a small investor in SoundHound AI, a move that may not ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/02/28/is-it-too-late-to-buy-soundhound-ai-stock-now/",
+      "originalUrl": "https://www.fool.com/investing/2024/02/28/is-it-too-late-to-buy-soundhound-ai-stock-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/766726/amazon-alexa-voice-remote-being-used-by-person-on-tv.png",
+          "width": 2000,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T09:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-28-deepsig-announces-commercial-release-of-industrys-first-neural-receiver-software-for-open-ran-5g-networks.md",
       "title": "DeepSig Announces Commercial Release of Industry's First Neural Receiver Software for Open RAN 5G Networks",
       "excerpt": "This press release features multimedia. View the full release here:  The OmniPHY 5G software transforms 5G Physical Uplink Shared Channel (PUSCH) processing in an Open Distributed Unit (O-DU), replacing conventional algorithms with a Deep Neural Network (DNN),",
@@ -699,490 +1208,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-nebraska-company-gets-fda-approval-for-commercial-use-of-robotic-surgery-system.md",
-      "title": "Nebraska company gets FDA approval for commercial use of robotic surgery system",
-      "excerpt": "The Lincoln company that makes a surgical robot moved into a new office in April ... Farritor said the company will roll out commercial use of the device in a controlled way. That means the first surgeries are still months away and will be done by selected ...",
-      "sourceUrl": null,
-      "webUrl": "https://columbustelegram.com/news/state-regional/business/nebraska-company-gets-fda-approval-for-commercial-use-of-robotic-surgery-system/article_8867c1e8-e804-5e13-af52-c76d225bb504.html",
-      "originalUrl": "https://columbustelegram.com/news/state-regional/business/nebraska-company-gets-fda-approval-for-commercial-use-of-robotic-surgery-system/article_8867c1e8-e804-5e13-af52-c76d225bb504.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/columbustelegram.com/content/tncms/assets/v3/editorial/8/86/8867c1e8-e804-5e13-af52-c76d225bb504/65de01d573f17.preview.jpg?crop=960%2C504%2C0%2C17&resize=960%2C504&order=crop%2Cresize",
-          "width": 960,
-          "height": 504,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-27T21:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Columbus Telegram",
-        "domain": "columbustelegram.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-openai-seeks-to-dismiss-parts-of-the-new-york-timess-lawsuit.md",
-      "title": "OpenAI Seeks to Dismiss Parts of The New York Times’s Lawsuit",
-      "excerpt": "The artificial intelligence start-up argued that its online chatbot, ChatGPT, is not a substitute for a New York Times subscription.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2024/02/27/technology/openai-new-york-times-lawsuit.html",
-      "originalUrl": "https://www.nytimes.com/2024/02/27/technology/openai-new-york-times-lawsuit.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2024/02/27/multimedia/27openai-suit-blpk/27openai-suit-blpk-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-27T20:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-infor-nexus-is-taking-an-interesting-approach-to-generative-ai.md",
-      "title": "Infor Nexus Is Taking An Interesting Approach To Generative AI",
-      "excerpt": "ChatGPT has generated a blizzard of publicity. But the use cases for generative AI in business software applications have been disappointing. Infor Nexus is an exception.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevebanker/2024/02/27/infor-nexus-is-taking-an-interesting-approach-to-generative-ai/",
-      "originalUrl": "https://www.forbes.com/sites/stevebanker/2024/02/27/infor-nexus-is-taking-an-interesting-approach-to-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65de51100005a30e849a28e6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 396,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevebanker/2024/02/27/infor-nexus-is-taking-an-interesting-approach-to-generative-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevebanker/2024/02/27/infor-nexus-is-taking-an-interesting-approach-to-generative-ai/amp/",
-      "publishedDateTime": "2024-02-27T20:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-mwc-barcelona-2024-humane-demonstrates-its-wearable-ai-pin.md",
-      "title": "MWC Barcelona 2024: Humane Demonstrates Its Wearable Ai Pin",
-      "excerpt": "See highlights of enterprise news from Mobile World Congress 2024, including novel AI and 5G capabilities and new interconnectivity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/mwc-2024-trends-roundup/",
-      "originalUrl": "https://www.techrepublic.com/article/mwc-2024-trends-roundup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.techrepublic.com/uploads/2024/02/humane-ai-pin-fig-a-feb-24.png",
-          "width": 1400,
-          "height": 788,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-27T19:12:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-humanes-wearable-ai-pin-hints-at-a-phone-free-future.md",
-      "title": "Humane's Wearable AI Pin Hints At A Phone-Free Future",
-      "excerpt": "Humane announced the AI Pin back in November of 2023, and it's currently available for pre-order in the US for $699 (as well as increasingly with a number of operator partners around the world). On top of this, there's a $24 monthly subscription fee to pay that covers connectivity, secure data storage and access to Humane's AI service.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/mobile/humanes-wearable-ai-pin-hints-at-a-phone-free-future/",
-      "originalUrl": "https://www.cnet.com/tech/mobile/humanes-wearable-ai-pin-hints-at-a-phone-free-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/4a3937be74c328af2fbc0e3ca6d855c741648feb/hub/2024/02/27/f3cc8097-dd93-4174-bf53-42d027d8f9f3/humane-ai-pin-mwc-2024-04.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-27T18:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-b-tech-in-robotics-ai-among-new-courses-at-noidas-gautam-buddha-university.md",
-      "title": "B-Tech in robotics, AI among new courses at Noida's Gautam Buddha University",
-      "excerpt": "BTech in robotics and artificial intelligence are among the 16 new courses along with 139 existing ones at the state-run Gautam Buddha University here for which admissions opened on Tuesday, officials said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.devdiscourse.com/article/education/2842299-b-tech-in-robotics-ai-among-new-courses-at-noidas-gautam-buddha-university",
-      "originalUrl": "https://www.devdiscourse.com/article/education/2842299-b-tech-in-robotics-ai-among-new-courses-at-noidas-gautam-buddha-university",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/23_02_2024_16_53_01_7211857.png?width=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.devdiscourse.com/article/education/2842299-b-tech-in-robotics-ai-among-new-courses-at-noidas-gautam-buddha-university?amp",
-      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/education/2842299-b-tech-in-robotics-ai-among-new-courses-at-noidas-gautam-buddha-university?amp",
-      "publishedDateTime": "2024-02-27T18:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "devdiscourse",
-        "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-27-how-axfood-enables-accelerated-machine-learning-throughout-the-organization-using-amazon-sagemaker.md",
-      "title": "How Axfood enables accelerated machine learning throughout the organization using Amazon SageMaker",
-      "excerpt": "This is a guest post written by Axfood AB.&nbsp; In this post, we share how Axfood, a large Swedish food retailer, improved operations and scalability of their existing artificial intelligence (AI) and machine learning (ML) operations by prototyping in close collaboration with AWS experts and using Amazon",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-axfood-enables-accelerated-machine-learning-throughout-the-organization-using-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-axfood-enables-accelerated-machine-learning-throughout-the-organization-using-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/16/ML-15027-model-build-pipeline-2.jpg",
-          "width": 1253,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-27T17:51:48Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-intel-aims-to-deliver-chips-for-100-million-ai-pcs-by-2025.md",
-      "title": "Intel aims to deliver chips for 100 million AI PCs by 2025",
-      "excerpt": "Intel Vice President of Client Computing Group David Feng said his company expects to deliver 40 million AI PCs this year and 60 million next year -- more than 20% of the projected total global PC market in 2025.",
-      "sourceUrl": null,
-      "webUrl": "https://asia.nikkei.com/cms/Business/Technology/Intel-aims-to-deliver-chips-for-100-million-AI-PCs-by-2025",
-      "originalUrl": "https://asia.nikkei.com/cms/Business/Technology/Intel-aims-to-deliver-chips-for-100-million-AI-PCs-by-2025",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F8%2F8%2F4%2F47334888-1-eng-GB%2F2024-01-08T220541Z_1510761602_RC2YD5ADZUKN_RTRMADP_3_TECH-AI+%281%29.jpg?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-27T17:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nikkei Asia",
-        "domain": "nikkei.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-k-state-social-media-week-to-feature-events-in-artificial-intelligence-content-creation.md",
-      "title": "K-State Social Media Week to feature events in artificial intelligence, content creation",
-      "excerpt": "including key themes of AI-powered personalization, user privacy and data security, content moderation and ethics, misinformation, and future trends and innovations. “AI is making a major impact in many areas of life, including social media,” said ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wibw.com/2024/02/27/k-state-social-media-week-feature-events-artificial-intelligence-content-creation/",
-      "originalUrl": "https://www.wibw.com/2024/02/27/k-state-social-media-week-feature-events-artificial-intelligence-content-creation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wibw-prod.cdn.arcpublishing.com/resizer/v2/PMKOXL746BBJBHH42WDQK34DLI.jpg?auth=b29d71430cac1bfc561d468e22bb9990b63a0d9b63215e1c4ba5fe4f25c6c768&width=800&height=450&smart=true",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.wibw.com/2024/02/27/k-state-social-media-week-feature-events-artificial-intelligence-content-creation/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wibw-com.cdn.ampproject.org/c/s/www.wibw.com/2024/02/27/k-state-social-media-week-feature-events-artificial-intelligence-content-creation/?outputType=amp",
-      "publishedDateTime": "2024-02-27T17:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WIBW",
-        "domain": "wibw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-please-include-csiro-ai-and-australia-in-the-title-and-any-other-relevant-brands-if-it-makes-sense.md",
-      "title": "Please include CSIRO, AI, and Australia in the Title and any other relevant brands if it makes sense.",
-      "excerpt": "Australia’s CSIRO, with Google and Stone & Chalk, has launched a $500,000 competition to support the development of AI apps in Australia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/csiro-ai-commercialisation-program-australia/",
-      "originalUrl": "https://www.techrepublic.com/article/csiro-ai-commercialisation-program-australia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.techrepublic.com/uploads/2024/02/AdobeStock_625988548.jpeg",
-          "width": 1400,
-          "height": 784,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-27T16:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
         "AI"
       ]
     }

@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "A look at Waymo’s driverless cars"
+    excerpt: "Waymo’s self-driving cars do not require human drivers, instead relying on the public’s trust in technology. Waymo has accumulated over 7 million miles of driving data on public roads and has discovered that their driverless cars are three times less likely to be involved in any type of crash or accident reported to the police,"
+    publishedDateTime: 2024-03-12T16:50:00Z
+    webUrl: "https://lavozdeanza.com/uncategorized/2024/03/12/a-look-at-waymos-driverless-cars/"
+    type: article
+    provider:
+      name: De Anza College La Voz Weekly
+      domain: lavozdeanza.com
+    quality: 54
+    images:
+      - url: "https://lavozdeanza.com/wp-content/uploads/2024/03/Screenshot-2024-03-10-at-5.09.11 PM.png"
+        width: 2001
+        height: 1086
+        isCached: true
 
 secured: "zHSR9S3HyN/Y9v9wUcLJiFDL1b9gS1KuDUK1/YSoUcehLwmFB60FFwGQL+tfSRVz+sw0rNwW7ONkubh0ObnpC+ca7ApNSosQKoi03jvZUm7AZlO7+pniSLkYZ6aGL8LjKMHfbVOcXm/KFpaz43tk9oOATrNRrzkoTdh87NUCdpawngSMqe6/uiK4pigDT9VYirqqzBpliRXC6W4Rw50eKkO29UIdjVjAo3B86BRFA8qSsDIn/74L/iw4Yh/BhrBrTEYKZza7ewGgOPeJpm2+d8nnEe4yJLl++5yl8ZJnE+nBW+QyaIBKgW6ApZBN516jNpvWuz9X0l39hQ+RLWIjvSb3I8KRq8RQ6epK9KiV9QA=;H1gRwFDk6GpHgHPL2t5vcQ=="
 ---

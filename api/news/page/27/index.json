@@ -2,6 +2,501 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2024-02-21-first-human-to-receive-neuralink-chip-can-control-mouse-with-mind-claims-musk.md",
+      "title": "First Human To Receive Neuralink Chip Can Control Mouse With Mind, Claims Musk",
+      "excerpt": "Earlier, in January, Musk revealed that Neuralink had managed to implant its wireless brain chip in a human for the first time. In a post on X, Musk said that \"promising\" brain activity was detected in the human after the procedure and that the person was \"recovering well\".",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.co.uk/first-human-receive-neuralink-chip-can-control-mouse-mind-claims-musk-1723557",
+      "originalUrl": "https://www.ibtimes.co.uk/first-human-receive-neuralink-chip-can-control-mouse-mind-claims-musk-1723557",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.ibtimes.co.uk/en/full/1722345/elon-musk.jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T06:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBTimes UK",
+        "domain": "ibtimes.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-assert-ai-unveils-pratham-worlds-first-no-code-computer-vision-platform.md",
+      "title": "Assert AI Unveils Pratham: World's First No-code Computer Vision Platform",
+      "excerpt": "NewsVoir Mumbai Maharashtra [India] February 21 In a pioneering move Assert AI proudly announces the launch of Pratham a groundbreaking platform that is patented for its innovative approach to democra",
+      "sourceUrl": null,
+      "webUrl": "https://www.bignewsnetwork.com/news/274132779/assert-ai-unveils-pratham-world-first-no-code-computer-vision-platform",
+      "originalUrl": "https://www.bignewsnetwork.com/news/274132779/assert-ai-unveils-pratham-world-first-no-code-computer-vision-platform",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.bignewsnetwork.com/ZDU1MWViMGUtOGU.jpg",
+          "width": 630,
+          "height": 473,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T06:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Big News Network.com",
+        "domain": "bignewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-uber-eats-is-launching-a-delivery-service-with-cartkens-sidewalk-robots-in-japan.md",
+      "title": "Uber Eats is launching a delivery service with Cartken’s sidewalk robots in Japan",
+      "excerpt": "Uber, Mitsubishi Electric and autonomous robotics startup Cartken are launching a service in Japan using self-driving sidewalk robots.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/20/uber-eats-is-launching-a-delivery-service-with-cartkens-sidewalk-robots-in-japan/",
+      "originalUrl": "https://techcrunch.com/2024/02/20/uber-eats-is-launching-a-delivery-service-with-cartkens-sidewalk-robots-in-japan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/02/cartken-uber.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/20/uber-eats-is-launching-a-delivery-service-with-cartkens-sidewalk-robots-in-japan/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/20/uber-eats-is-launching-a-delivery-service-with-cartkens-sidewalk-robots-in-japan/amp/",
+      "publishedDateTime": "2024-02-21T06:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-3-artificial-intelligence-ai-stocks-billionaires-sold-way-too-early.md",
+      "title": "3 Artificial Intelligence (AI) Stocks Billionaires Sold Way Too Early",
+      "excerpt": "It designs central processing units (CPUs), and major chip companies pay Arm for the right to use its designs. It's a fantastic gig that generates incredibly high margins. A number of major AI players, including Nvidia (which has invested directly in Arm ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/02/21/3-ai-stocks-billionaires-sold-way-too-early/",
+      "originalUrl": "https://www.fool.com/investing/2024/02/21/3-ai-stocks-billionaires-sold-way-too-early/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/765866/artificial-intelligence-ai-machine-learning-facial-recogniition-getty.jpg",
+          "width": 4000,
+          "height": 3000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T05:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-robot-inventor-we-had-to-adapt-to-the-ai-revolution.md",
+      "title": "Robot inventor: 'We had to adapt to the AI revolution'",
+      "excerpt": "Produced, filmed and edited by Dougal Shaw Sandy Enoch of Robotical explains why he had to pivot his educational robot company due to AI. Hovhannes ... shares advice for start-ups for our CEO ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/av/business-68348353",
+      "originalUrl": "https://www.bbc.com/news/av/business-68348353",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/1413F/production/_132693228_p0hcyy8v.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T03:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-galaxy-ai-will-soon-power-intelligent-health-experiences-on-samsungs-wearables.md",
+      "title": "Galaxy AI will soon power 'intelligent health experiences' on Samsung's Wearables",
+      "excerpt": "Samsung has announced that Galaxy AI will soon power intelligent health features on its wearables. Here's what's new.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/samsung-galaxy-ai-galaxy-watch-3417284/",
+      "originalUrl": "https://www.androidauthority.com/samsung-galaxy-ai-galaxy-watch-3417284/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2023/09/Samsung-Galaxy-Watch-6-Wear-OS-4-scaled.jpg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T03:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-meet-the-chip-that-uses-light-not-electricity-to-power-ai.md",
+      "title": "Meet the Chip That Uses Light, Not Electricity, to Power AI",
+      "excerpt": "The new chip operates on an entirely different principle, performing calculations at the unparalleled speed of light.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2024/02/21/chip-uses-light-for-ai/",
+      "originalUrl": "https://www.gizmochina.com/2024/02/21/chip-uses-light-for-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2024/02/compare-fibre-PAOv9-7VBMI-unsplash-scaled.jpg",
+          "width": 2560,
+          "height": 1793,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T02:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-uber-eats-to-begin-self-driving-robot-deliveries-in-japan.md",
+      "title": "Uber Eats to begin self-driving robot deliveries in Japan",
+      "excerpt": "Uber announced that its Uber Eats business is partnering with Mitsubishi Electric and delivery robotics company Cartken to begin transporting food using self-driving robots in Japan. The sidewalk ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/02/20/uber-eats-to-begin-self-driving-robot-deliveries-in-japan.html",
+      "originalUrl": "https://www.cnbc.com/2024/02/20/uber-eats-to-begin-self-driving-robot-deliveries-in-japan.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107375734-1708453458974-cut10_043.jpg?v=1708453538",
+          "width": 2400,
+          "height": 1601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/02/20/uber-eats-to-begin-self-driving-robot-deliveries-in-japan.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/20/uber-eats-to-begin-self-driving-robot-deliveries-in-japan.html",
+      "publishedDateTime": "2024-02-21T02:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-opinion-openais-sam-altman-has-plans-for-ai-that-could-mean-big-money-for-intel.md",
+      "title": "Opinion: OpenAI’s Sam Altman has plans for AI that could mean big money for Intel",
+      "excerpt": "Open AI CEO Sam Altman drew widespread attention recently when he appealed for up to $7 trillion to develop silicon-chip manufacturing capacity that can power artificial intelligence. The unprecedented scope of this vision, equal to more than 20% of U.S ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/openais-sam-altman-has-plans-for-ai-that-could-mean-big-money-for-intel-b73ba0c9",
+      "originalUrl": "https://www.marketwatch.com/story/openais-sam-altman-has-plans-for-ai-that-could-mean-big-money-for-intel-b73ba0c9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-806855/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/openais-sam-altman-has-plans-for-ai-that-could-mean-big-money-for-intel-b73ba0c9",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/openais-sam-altman-has-plans-for-ai-that-could-mean-big-money-for-intel-b73ba0c9",
+      "publishedDateTime": "2024-02-21T01:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-google-bard-now-called-gemini-vs-chatgpt-updated-february-2024.md",
+      "title": "Google Bard (now called Gemini) vs ChatGPT – Updated February 2024",
+      "excerpt": "[Updated Feb 21st, 2024: Google Bard had been renamed to Gemini. There are three different versions of Gemini, and one is called Gemini Pro. This is the version that replaced Bard. The core ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/google-bard-vs-chatgpt.html",
+      "originalUrl": "https://www.androidheadlines.com/google-bard-vs-chatgpt.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidheadlines.com/wp-content/uploads/2023/05/Bard-and-OpenAI-Logo.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.androidheadlines.com/google-bard-vs-chatgpt.html?amp",
+      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/google-bard-vs-chatgpt.html?amp",
+      "publishedDateTime": "2024-02-21T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-21-harnessing-the-power-of-ai-and-gen-ai-in-the-fintech-industry.md",
       "title": "Harnessing the Power of AI and Gen AI in the Fintech Industry",
       "excerpt": "Skilled AI consultants have played a pivotal role in guiding Fintech firms in the implementation and optimization of AI solutions, ensuring that these technologies are effectively leveraged to ...",
@@ -728,488 +1223,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-viral-career-trend-takes-place-of-interview-small-talk-plus-eyelash-robot-enters-ai-beauty-space.md",
-      "title": "Viral career trend takes place of interview small talk, plus eyelash robot enters AI beauty space",
-      "excerpt": "The Fox News Lifestyle Newsletter brings you trending stories on family, travel, food, neighbors helping neighbors, pets, autos, military veterans, heroes, faith and American values.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/lifestyle/viral-career-trend-takes-place-interview-small-talk-eyelash-robot-enters-ai-beauty-space",
-      "originalUrl": "https://www.foxnews.com/lifestyle/viral-career-trend-takes-place-interview-small-talk-eyelash-robot-enters-ai-beauty-space",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/02/1200/675/job-interview-newsletter-split.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/lifestyle/viral-career-trend-takes-place-interview-small-talk-eyelash-robot-enters-ai-beauty-space.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/lifestyle/viral-career-trend-takes-place-interview-small-talk-eyelash-robot-enters-ai-beauty-space.amp",
-      "publishedDateTime": "2024-02-20T20:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-climate-change-predictions-anticipating-and-adapting-to-a-warming-world.md",
-      "title": "Climate change predictions: Anticipating and adapting to a warming world",
-      "excerpt": "In an era of accelerating climate change, evolving technologies can help people predict the near-future and adapt.\nThe post Climate change predictions: Anticipating and adapting to a warming world appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/climate-change-predictions-anticipating-and-adapting-to-a-warming-world/",
-      "originalUrl": "https://www.ibm.com/blog/climate-change-predictions-anticipating-and-adapting-to-a-warming-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-20T20:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-elemental-cognition-sets-new-standard-for-generative-ai-achieves-100-accuracy-in-complex-reasoning-scenarios.md",
-      "title": "Elemental Cognition Sets New Standard for Generative AI, Achieves 100% Accuracy in Complex Reasoning Scenarios",
-      "excerpt": "Elemental Cognition (EC) is the next wave of enterprise AI that delivers the reliability, accuracy, and transparency businesses need. EC combines the fluency of large language models with the rigor of formal reasoning to create a neuro-symbolic AI architecture that can solve complex problems when businesses can't afford to be wrong.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/274132235/elemental-cognition-sets-new-standard-for-generative-ai-achieves-100-accuracy-in-complex-reasoning-scenarios",
-      "originalUrl": "https://www.bignewsnetwork.com/news/274132235/elemental-cognition-sets-new-standard-for-generative-ai-achieves-100-accuracy-in-complex-reasoning-scenarios",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/cus1709350515787.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-20T18:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-discussion-on-draft-ai-framework-by-july-mos-it-rajeev-chandrasekhar.md",
-      "title": "Discussion on draft AI framework by July: MoS IT Rajeev Chandrasekhar",
-      "excerpt": "India aims to combat deepfakes with new regulations and promote trust in technology through talent-driven innovation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/news/india/discussion-on-draft-ai-framework-by-july-mos-it-rajeev-chandrasekhar-11708439257763.html",
-      "originalUrl": "https://www.livemint.com/news/india/discussion-on-draft-ai-framework-by-july-mos-it-rajeev-chandrasekhar-11708439257763.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2024/02/20/1600x900/PTI09-05-2023-000257B-0_1694712861521_1708439367943.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/news/india/discussion-on-draft-ai-framework-by-july-mos-it-rajeev-chandrasekhar/amp-11708439257763.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/discussion-on-draft-ai-framework-by-july-mos-it-rajeev-chandrasekhar/amp-11708439257763.html",
-      "publishedDateTime": "2024-02-20T18:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-streamline-diarization-using-ai-as-an-assistive-technology-zoo-digitals-story.md",
-      "title": "Streamline diarization using AI as an assistive technology: ZOO Digital’s story",
-      "excerpt": "ZOO Digital provides end-to-end localization and media services to adapt original TV and movie content to different languages, regions, and cultures. It makes globalization easier for the world’s best content creators. Trusted by the biggest names in entertainment, ZOO Digital delivers high-quality localization",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/streamline-diarization-using-ai-as-an-assistive-technology-zoo-digitals-story/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/streamline-diarization-using-ai-as-an-assistive-technology-zoo-digitals-story/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-20T18:18:25Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-adobes-ai-assistant-can-summarize-pdfs-powerpoints-for-you.md",
-      "title": "Adobe's AI Assistant Can Summarize PDFs, PowerPoints for You",
-      "excerpt": "Adobe promises customer data won't be used to train its latest AI model, which can quickly read and pull key takeaways from PDFs, Microsoft Word docs, and PowerPoint presentations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/adobes-ai-assistant-can-summarize-pdfs-powerpoints-for-you",
-      "originalUrl": "https://www.pcmag.com/news/adobes-ai-assistant-can-summarize-pdfs-powerpoints-for-you",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/04FOeQe1PQMSVO52EUTBJk2-1.fit_lim.size_1200x630.v1708450480.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-20T17:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-alex-wissner-gross-on-the-origin-of-ai-in-our-venture-class-this-week.md",
-      "title": "Alex Wissner-Gross On The Origin Of AI In Our Venture Class This Week",
-      "excerpt": "In our MIT AI Venture Studio class this week, we had Alex Wissner-Gross, a computer scientist with a lot of experience in innovation who can claim MIT as his alma",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnwerner/2024/02/20/alex-wissner-gross-on-the-origin-of-ai-in-our-venture-class-this-week/",
-      "originalUrl": "https://www.forbes.com/sites/johnwerner/2024/02/20/alex-wissner-gross-on-the-origin-of-ai-in-our-venture-class-this-week/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d4e6ce6dbc4ba4fbb4a575/0x0.jpg?format=jpg&crop=959,539,x0,y192,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2024/02/20/alex-wissner-gross-on-the-origin-of-ai-in-our-venture-class-this-week/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2024/02/20/alex-wissner-gross-on-the-origin-of-ai-in-our-venture-class-this-week/amp/",
-      "publishedDateTime": "2024-02-20T17:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-the-ai-party-is-just-getting-started-heres-what-wall-street-expects-from-nvidias-4th-quarter-earnings.md",
-      "title": "'The AI party is just getting started': Here's what Wall Street expects from Nvidia's 4th-quarter earnings",
-      "excerpt": "Wall Street analysts are laser focused on the company's demand outlook for its AI-enabled H100 GPU chips, which can sell for upwards of $40,000, as well as its planned product roadmap over the ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/nvidia-earnings-preview-what-wall-street-expects-nvda-ai-2024-2",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/nvidia-earnings-preview-what-wall-street-expects-nvda-ai-2024-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/64e756f852bc2d00199111e9?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-20T17:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-streamline-workflows-with-devops-solutions-from-github-and-azure.md",
-      "title": "Streamline workflows with DevOps solutions from GitHub and Azure",
-      "excerpt": "The joint solution of GitHub and Azure, combined with the power of Visual Studio, can create order for previously staggered workflows and delayed deployments.\nThe post Streamline workflows with DevOps solutions from GitHub and Azure appeared first on Microsoft Azure Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/blog/streamline-workflows-with-devops-solutions-from-github-and-azure/",
-      "originalUrl": "https://azure.microsoft.com/en-us/blog/streamline-workflows-with-devops-solutions-from-github-and-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/02/MSFT_Azure_FEB14_316903_Blog_Blogheader_240213_V01.png",
-          "width": 1260,
-          "height": 708,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-20T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-bioptimus-raises-35-million-seed-round-to-develop-ai-foundational-model-focused-on-biology.md",
-      "title": "Bioptimus raises $35 million seed round to develop AI foundational model focused on biology",
-      "excerpt": "There’s a new generative AI startup based in Paris. But what makes Bioptimus interesting is that it plans to apply everything we’ve collectively learned about AI models over the past few years with a narrow, exclusive focus on biology. The reason why ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/20/bioptimus-raises-35-million-seed-round-to-develop-ai-foundational-model-focused-on-biology/",
-      "originalUrl": "https://techcrunch.com/2024/02/20/bioptimus-raises-35-million-seed-round-to-develop-ai-foundational-model-focused-on-biology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1362476720.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/20/bioptimus-raises-35-million-seed-round-to-develop-ai-foundational-model-focused-on-biology/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/20/bioptimus-raises-35-million-seed-round-to-develop-ai-foundational-model-focused-on-biology/amp/",
-      "publishedDateTime": "2024-02-20T16:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

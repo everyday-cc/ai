@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-12-google-play-will-show-ai-powered-faqs-and-recent-youtube-videos-for-games.md",
+      "title": "Google Play will show AI-powered FAQs and recent YouTube videos for games",
+      "excerpt": "Google announced a number of new features for Google Play listings for games including AI-powered FAQs, displaying the latest YouTube videos, new immersive ad formats, and support for native PC game publishing. The announcements were made at the Google ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/03/12/google-play-store-will-show-ai-powered-faqs-and-latest-youtube-videos-for-games/",
+      "originalUrl": "https://techcrunch.com/2024/03/12/google-play-store-will-show-ai-powered-faqs-and-latest-youtube-videos-for-games/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1240125020.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/03/12/google-play-store-will-show-ai-powered-faqs-and-latest-youtube-videos-for-games/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/google-play-store-will-show-ai-powered-faqs-and-latest-youtube-videos-for-games/amp/",
+      "publishedDateTime": "2024-03-12T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-12-deepgrams-aura-gives-ai-agents-a-voice.md",
       "title": "Deepgram’s Aura gives AI agents a voice",
       "excerpt": "Deepgram has made a name for itself as one of the go-to startups for voice recognition. Today, the well-funded company announced the launch of Aura, its new real-time text-to-speech API. Aura combines highly realistic voice models with a low-latency API to ...",
@@ -50,6 +102,58 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-empathy-closes-47m-for-ai-to-help-with-the-practical-and-emotional-bereavement-process.md",
+      "title": "Empathy closes $47M for AI to help with the practical and emotional bereavement process",
+      "excerpt": "Although there have been a lot of efforts made in the area of considering what role AI can play in empathy (with a little “e”) the startup Empathy, Gura said, remains focused on keeping a human team in place for that aspect of its service, focusing ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/03/12/empathy-berevement-death-ai/",
+      "originalUrl": "https://techcrunch.com/2024/03/12/empathy-berevement-death-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/04/15990492171_d21c81e484_k.jpg?resize=1200,655",
+          "width": 1200,
+          "height": 655,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/03/12/empathy-berevement-death-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/empathy-berevement-death-ai/amp/",
+      "publishedDateTime": "2024-03-12T13:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI",
         "AI Ethics"
       ]
@@ -1341,102 +1445,6 @@
         "name": "Computerworld",
         "domain": "computerworld.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-feature-singapore-embraces-ai-to-solve-everyday-problems.md",
-      "title": "FEATURE – Singapore embraces AI to solve everyday problems",
-      "excerpt": "The booking chatbot is among more than 100 generative AI-based solutions spurred by the AI Trailblazers project",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/digital-transformation-feature-singapore-embraces-ai-to-solve-everyday-problems-3405092/",
-      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-feature-singapore-embraces-ai-to-solve-everyday-problems-3405092/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2024/02/Untitled-design-2024-02-26T111246.396.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-feature-singapore-embraces-ai-to-solve-everyday-problems-3405092/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-feature-singapore-embraces-ai-to-solve-everyday-problems-3405092/lite/",
-      "publishedDateTime": "2024-02-26T05:47:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-nvidia-boss-jensen-huang-says-children-shouldnt-learn-to-code-as-ai-can-do-all-the-work.md",
-      "title": "Nvidia boss Jensen Huang says children shouldn't learn to code as AI can do all the work",
-      "excerpt": "Read our ethics statement. A hot potato ... The Nvidia boss believes that AI has made the need to learn programming redundant, and humans should instead focus on more important skills such as biology, education, manufacturing, or farming.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/102020-nvidia-boss-jensen-huang-children-shouldnt-learn-code.html",
-      "originalUrl": "https://www.techspot.com/news/102020-nvidia-boss-jensen-huang-children-shouldnt-learn-code.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2022/12/2022-12-29-image-2.jpg",
-          "width": 2000,
-          "height": 1042,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-26T05:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

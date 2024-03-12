@@ -2,6 +2,489 @@
   "page": 104,
   "value": [
     {
+      "path": "_news/2023-12-13-how-to-build-a-successful-procurement-strategy.md",
+      "title": "How to build a successful procurement strategy",
+      "excerpt": "Here are ten steps for building a procurement strategy to achieve operational efficiency, faster procurement cycles and greater cost savings.\nThe post How to build a successful procurement strategy appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/procurement-strategy/",
+      "originalUrl": "https://www.ibm.com/blog/procurement-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-13T15:17:25Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-13-the-three-main-types-of-cryptography.md",
+      "title": "The three main types of cryptography",
+      "excerpt": "A look at three main categories of encryption—symmetric cryptography algorithms, asymmetric cryptography algorithms, and hash functions.\nThe post The three main types of cryptography appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/cryptography-types/",
+      "originalUrl": "https://www.ibm.com/blog/cryptography-types/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-13T15:14:26Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-13-gemini-pro-api-and-more-new-ai-tools-for-developers-and-enterprises.md",
+      "title": "Gemini Pro API and more new AI tools for developers and enterprises",
+      "excerpt": "Launching Gemini Pro API and four more AI tools: Imagen 2, MedLM, and Duet AI for Developers and Duet AI in Security Operations.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/google-gemini-pro-imagen-duet-ai-update/",
+      "originalUrl": "https://blog.google/technology/ai/google-gemini-pro-imagen-duet-ai-update/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GeminiProAPI.width-1300.jpg",
+          "width": 1201,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/google-gemini-pro-imagen-duet-ai-update/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/google-gemini-pro-imagen-duet-ai-update/amp/",
+      "publishedDateTime": "2023-12-13T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-13-google-debuts-imagen-2-with-text-and-logo-generation.md",
+      "title": "Google debuts Imagen 2 with text and logo generation",
+      "excerpt": "Called Imagen 2, Google’s enhanced model — which was quietly launched in preview at the tech giant’s I/O conference in May — was developed using technology from Google DeepMind ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/12/13/google-debuts-imagen-2-with-text-and-logo-generation/",
+      "originalUrl": "https://techcrunch.com/2023/12/13/google-debuts-imagen-2-with-text-and-logo-generation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-944347618.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/12/13/google-debuts-imagen-2-with-text-and-logo-generation/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/13/google-debuts-imagen-2-with-text-and-logo-generation/amp/",
+      "publishedDateTime": "2023-12-13T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-13-google-unveils-medlm-a-family-of-healthcare-focused-generative-ai-models.md",
+      "title": "Google unveils MedLM, a family of healthcare-focused generative AI models",
+      "excerpt": "AI in healthcare, historically, has been met with mixed success. Babylon Health, an AI startup backed by the U.K.’s National Health Service, has found itself under repeated scrutiny for making claims that its disease-diagnosing tech can perform better ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/12/13/google-unveils-medlm-a-family-of-healthcare-focused-generative-ai-models/",
+      "originalUrl": "https://techcrunch.com/2023/12/13/google-unveils-medlm-a-family-of-healthcare-focused-generative-ai-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1337404332-1.jpg?resize=1200,802",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/12/13/google-unveils-medlm-a-family-of-healthcare-focused-generative-ai-models/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/13/google-unveils-medlm-a-family-of-healthcare-focused-generative-ai-models/amp/",
+      "publishedDateTime": "2023-12-13T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-12-13-lightning-ai-debuts-iphone-approach-to-new-ai-dev-platform.md",
+      "title": "Lightning AI debuts ‘iPhone approach’ to new AI dev platform",
+      "excerpt": "Lightning AI, the company behind PyTorch Lightning, launched a new cloud-based desktop platform to build and deploy AI products at scale.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/lightning-ai-debuts-iphone-approach-to-new-ai-dev-platform/",
+      "originalUrl": "https://venturebeat.com/ai/lightning-ai-debuts-iphone-approach-to-new-ai-dev-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/12/DALL·E-2023-12-12-17.07.44-A-stunning-scene-of-lightning-striking-a-platform-captured-in-a-16_9-scale.-The-sky-is-dark-and-stormy-filled-with-heavy-clouds-while-the-lightning.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-13T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-13-ai-in-2024-more-than-a-marketing-buzzword.md",
+      "title": "AI In 2024: More Than A Marketing Buzzword",
+      "excerpt": "In 2024, the smartest businesses will leverage AI’s power to reap its benefits, improve marketing initiatives and drive business success.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-2024-more-than-a-marketing-buzzword/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-2024-more-than-a-marketing-buzzword/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64922417c26877e186b3466b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1510,
+          "height": 849,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-2024-more-than-a-marketing-buzzword/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/13/ai-in-2024-more-than-a-marketing-buzzword/amp/",
+      "publishedDateTime": "2023-12-13T14:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2023-12-13-oracle-announces-the-general-availability-of-oracle-databaseazure.md",
+      "title": "Oracle Announces the General Availability of Oracle Database@Azure",
+      "excerpt": "Oracle database services running on Oracle Cloud Infrastructure are deployed directly in Microsoft Azure datacenters AUSTIN, Texas, Dec. 13, 2023",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/oracle-announces-the-general-availability-of-oracle-database-azure-1032896879",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/oracle-announces-the-general-availability-of-oracle-database-azure-1032896879",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-13T13:26:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-13-microsoft-and-oracle-announce-that-oracle-databaseazure-is-now-generally-available.md",
+      "title": "Microsoft and Oracle announce that Oracle Database@Azure is now generally available",
+      "excerpt": "We are excited to share that Oracle Database@Azure is generally available in the Azure United States East region, with more regions coming in 2024. You can now use Oracle database services running on Oracle Cloud Infrastructure (OCI) hardware deployed in Azure data centers. This streamlines the migration",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/blog/microsoft-and-oracle-announce-that-oracle-databaseazure-is-now-generally-available/",
+      "originalUrl": "https://azure.microsoft.com/en-us/blog/microsoft-and-oracle-announce-that-oracle-databaseazure-is-now-generally-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 193,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/12/MSC24-India-business-Adobe-550638570-rgb-scaled.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-13T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-13-indonesia-to-regulate-ai-balancing-innovation-and-ethics.md",
+      "title": "Indonesia to regulate AI, balancing innovation and ethics",
+      "excerpt": "The Indonesian government will soon issue a regulation on the utilization of artificial intelligence (AI), Minister of Communication and Informatics Budi Arie",
+      "sourceUrl": null,
+      "webUrl": "https://en.antaranews.com/news/301002/indonesia-to-regulate-ai-balancing-innovation-and-ethics",
+      "originalUrl": "https://en.antaranews.com/news/301002/indonesia-to-regulate-ai-balancing-innovation-and-ethics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.antaranews.com/cache/800x533/2023/07/05/antarafoto-teknologi-kecerdasan-buatan-untuk-mengurai-kemacetan-jakarta-050723-riv-3.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://en.antaranews.com/amp/news/301002/indonesia-to-regulate-ai-balancing-innovation-and-ethics",
+      "cdnAmpWebUrl": "https://en-antaranews-com.cdn.ampproject.org/c/s/en.antaranews.com/amp/news/301002/indonesia-to-regulate-ai-balancing-innovation-and-ethics",
+      "publishedDateTime": "2023-12-13T12:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Antara News",
+        "domain": "antaranews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-13-13-ways-ai-can-help-accelerate-your-startup-part-ii.md",
       "title": "13 Ways AI Can Help Accelerate Your Startup, Part II",
       "excerpt": "Continuing our list of 13, here are five more ways AI can help you accelerate the growth of your business: Computationsometimes, I find working with a calculator or",
@@ -692,473 +1175,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-ezviz-now-offers-consumers-a-full-smart-home-solution-with-the-introduction-of-its-affordable-yet-feature-packed-re4-and-re4-plus-smart-robot.md",
-      "title": "Ezviz Now Offers Consumers a Full Smart Home Solution With the Introduction of Its Affordable Yet Feature Packed RE4 and RE4 Plus Smart Robot Vacuums",
-      "excerpt": "EZVIZ, a global leader in smart home technology, known previously for its indoor and outdoor security cameras, is now set to offer consumers a fully comprehensive smart home solution.",
-      "sourceUrl": null,
-      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=14531",
-      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=14531",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_14531_1702445923552312.png",
-          "width": 778,
-          "height": 835,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-13T05:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Azorobotics",
-        "domain": "azorobotics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-artificial-intelligence-summit-pm-modi-calls-for-global-framework-on-ethical-use-warns-against-misuse.md",
-      "title": "Artificial Intelligence Summit: PM Modi Calls For Global Framework On Ethical Use, Warns Against Misuse",
-      "excerpt": "Speaking at the Global Partnership on Artificial Intelligence Summit, PM Narendra Modi said India is firmly committed to responsible and ethical use of AI. He also also emphasised on the need for a global framework for ethical use of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.outlookindia.com/national/artificial-intelligence-summit-pm-modi-calls-for-global-framework-on-ethical-use-warns-against-misuse-news-336130",
-      "originalUrl": "https://www.outlookindia.com/national/artificial-intelligence-summit-pm-modi-calls-for-global-framework-on-ethical-use-warns-against-misuse-news-336130",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_1/IMAGE_1646301380.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.outlookindia.com/national/artificial-intelligence-summit-pm-modi-calls-for-global-framework-on-ethical-use-warns-against-misuse-news-336130/amp",
-      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/national/artificial-intelligence-summit-pm-modi-calls-for-global-framework-on-ethical-use-warns-against-misuse-news-336130/amp",
-      "publishedDateTime": "2023-12-13T05:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Outlookindia",
-        "domain": "outlookindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-patient-prism-unveils-revolutionary-ai-driven-healthcare-platform-with-new-website-launch.md",
-      "title": "Patient Prism Unveils Revolutionary AI-Driven Healthcare Platform with New Website Launch",
-      "excerpt": "A cutting-edge conversational intelligence tool that interprets patient communication with unprecedented depth, offering actionable insights for healthcare providers. Tailored KPIs: Our platform provides specific,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/patient-prism-unveils-revolutionary-ai-driven-healthcare-platform-with-new-website-launch-1032895318",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/patient-prism-unveils-revolutionary-ai-driven-healthcare-platform-with-new-website-launch-1032895318",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/mmstudio-images/gallery/featured/pr-patient-prism-unveil-1702401307.png",
-          "width": 600,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-13T04:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-gpai-should-help-frame-sustainable-ai-rules-pm.md",
-      "title": "GPAI should help frame sustainable AI rules: PM",
-      "excerpt": "The prime minister emphasized that a large part of the course of AI development will come through “human and democratic values”",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/ai/artificial-intelligence/gpai-should-help-frame-sustainable-ai-rules-pm-11702401229429.html",
-      "originalUrl": "https://www.livemint.com/ai/artificial-intelligence/gpai-should-help-frame-sustainable-ai-rules-pm-11702401229429.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2023/12/12/1600x900/PTI12-12-2023-000248B-0_1702401366273_1702401381608.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/ai/artificial-intelligence/gpai-should-help-frame-sustainable-ai-rules-pm/amp-11702401229429.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/artificial-intelligence/gpai-should-help-frame-sustainable-ai-rules-pm/amp-11702401229429.html",
-      "publishedDateTime": "2023-12-13T04:48:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-hays-county-approves-ai-facial-recognition-technology-for-sheriffs-office.md",
-      "title": "Hays County approves AI facial recognition technology for sheriff’s office",
-      "excerpt": "HAYS COUNTY, Texas (KXAN) — A facial recognition software could come to the Hays County Sheriff’s Office in the future. County commissioners recently approved for the sheriff’s office to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kxan.com/news/local/hays/hays-county-approves-ai-facial-recognition-technology-for-sheriffs-office/",
-      "originalUrl": "https://www.kxan.com/news/local/hays/hays-county-approves-ai-facial-recognition-technology-for-sheriffs-office/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kxan.com/wp-content/uploads/sites/40/2016/05/haysheriffs_37206290_ver1.0-1.jpg?w=1280",
-          "width": 1280,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.kxan.com/news/local/hays/hays-county-approves-ai-facial-recognition-technology-for-sheriffs-office/amp/",
-      "cdnAmpWebUrl": "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/local/hays/hays-county-approves-ai-facial-recognition-technology-for-sheriffs-office/amp/",
-      "publishedDateTime": "2023-12-13T03:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KXAN",
-        "domain": "kxan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-tesla-unveils-optimus-gen-2-its-next-generation-humanoid-robot.md",
-      "title": "Tesla unveils Optimus Gen 2: its next generation humanoid robot",
-      "excerpt": "Tesla has unveiled “Optimus Gen 2”, a new generation of its humanoid robot that should be able to take over repetitive tasks from humans. Optimus, also known as Tesla Bot, has not been taken seriously by many outside of the more hardcore Tesla fans,",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2023/12/12/tesla-unveils-optimus-gen-2-next-generation-humanoid-robot/?extended-comments=1",
-      "originalUrl": "https://electrek.co/2023/12/12/tesla-unveils-optimus-gen-2-next-generation-humanoid-robot/?extended-comments=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2023/12/Screenshot-2023-12-12-at-9.45.06-PM.jpg?quality=82&strip=all&w=639",
-          "width": 639,
-          "height": 1023,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-13T03:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-ai-generated-news-anchors-show-off-superhuman-abilities.md",
-      "title": "AI-generated news anchors show off superhuman abilities",
-      "excerpt": "There's a new global news network launching in 2024 which completely ditches humans for AI-generated newsreaders – and they're showing off some superhuman capabilities that make it very clear: the days of the human news presenter are numbered.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/home-entertainment/ai-generated-news-anchors/",
-      "originalUrl": "https://newatlas.com/home-entertainment/ai-generated-news-anchors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/e4d9007/2147483647/strip/true/crop/1060x707+0+17/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F1f%2F54%2F3377995f4ac19af24de6a4f90e95%2Fscreenshot-2023-12-13-at-1.33.59%20pm.png",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/home-entertainment/ai-generated-news-anchors/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/home-entertainment/ai-generated-news-anchors/?amp=true",
-      "publishedDateTime": "2023-12-13T02:47:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-artificial-intelligence-quantum-computing-and-space-are-3-tech-areas-to-watch-in-2024.md",
-      "title": "Artificial Intelligence, Quantum Computing, and Space are 3 Tech areas to Watch in 2024",
-      "excerpt": "There is much to explore! In this article, I focus on three evolving technology areas that are already impacting our future but are only at the early stages of true potential: artificial intelligence, quantum computing, and space systems. In addition to my ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/chuckbrooks/2023/12/12/artificial-intelligence-quantum-computing-and-space-are-3-tech-areas-to-watch-in-2024/",
-      "originalUrl": "https://www.forbes.com/sites/chuckbrooks/2023/12/12/artificial-intelligence-quantum-computing-and-space-are-3-tech-areas-to-watch-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/657915b857ba3a8c688cb64c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1447,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/chuckbrooks/2023/12/12/artificial-intelligence-quantum-computing-and-space-are-3-tech-areas-to-watch-in-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckbrooks/2023/12/12/artificial-intelligence-quantum-computing-and-space-are-3-tech-areas-to-watch-in-2024/amp/",
-      "publishedDateTime": "2023-12-13T02:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-this-mind-reading-cap-can-translate-thoughts-to-text-thanks-to-ai.md",
-      "title": "This Mind-Reading Cap Can Translate Thoughts to Text Thanks to AI",
-      "excerpt": "The system could give voice to people who can no longer communicate or be used to direct machines, like walking robots or robotic arms, with thoughts alone.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2023/12/12/this-mind-reading-cap-can-translate-thoughts-to-text-thanks-to-ai/",
-      "originalUrl": "https://singularityhub.com/2023/12/12/this-mind-reading-cap-can-translate-thoughts-to-text-thanks-to-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2023/12/dewave-ai-eeg-thought-reading-device.jpeg",
-          "width": 1408,
-          "height": 792,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2023/12/12/this-mind-reading-cap-can-translate-thoughts-to-text-thanks-to-ai/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/12/12/this-mind-reading-cap-can-translate-thoughts-to-text-thanks-to-ai/?amp=1",
-      "publishedDateTime": "2023-12-13T00:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark.md",
-      "title": "Apple Silicon M3 Pro blows away Nvidia RTX 4090 GPU in AI benchmark",
-      "excerpt": "In contrast, a MacBook with 16 M1 GPU cores shows a much smaller increase in power usage when active compared to its idle state, with a difference of just 38 watts. The results highlight Apple's gains in AI and machine learning capabilities and could be ...",
-      "sourceUrl": null,
-      "webUrl": "https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark",
-      "originalUrl": "https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://photos5.appleinsider.com/gallery/57700-117522-graph-xl.jpg",
-          "width": 1312,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark/amp/",
-      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/12/13/apple-silicon-m3-pro-blows-away-nvidia-rtx-4090-gpu-in-ai-benchmark/amp/",
-      "publishedDateTime": "2023-12-13T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AppleInsider",
-        "domain": "appleinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

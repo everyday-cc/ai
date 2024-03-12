@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Plug and Play to launch fintech, enterprise programs in McKinney"
+    excerpt: "Colby joined Community Impact in July 2022. He covers transportation and real estate for the Dallas-Fort Worth metro. Prior to joining CI, he worked for student newspapers at Del Mar College and The University of Texas at Arlington while attending school. In his spare time, Colby enjoys playing guitar, writing music and camping."
+    publishedDateTime: 2024-03-12T05:00:00Z
+    webUrl: "https://communityimpact.com/dallas-fort-worth/mckinney/business/2024/03/12/plug-and-play-to-launch-fintech-enterprise-programs-in-mckinney/"
+    type: article
+    provider:
+      name: Community Impact Newspaper
+      domain: communityimpact.com
+    quality: 24
+    images:
+      - url: "https://communityimpact.com/uploads/images/2024/03/12/299555.jpeg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Skyro takes lead in addressing industry challenges to propel growth of PH’s fintech market"
     excerpt: "The Philippine fintech sector faces hurdles, dealing with challenges that impede its progress. These obstacles include the absence of a centralized database, reliance on outdated technology, and various other industry-specific barriers."
     publishedDateTime: 2024-03-12T10:02:00Z

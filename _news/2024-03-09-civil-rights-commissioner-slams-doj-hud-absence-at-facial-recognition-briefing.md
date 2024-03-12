@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Report highlights civil liberties concerns with facial recognition technology"
-    excerpt: "The report says some agencies now have training policies in place that include explaining how FRT affects civil liberties"
-    publishedDateTime: 2024-03-12T01:44:00Z
-    webUrl: "https://www.wsbtv.com/news/report-highlights-civil-liberties-concerns-with-facial-recognition-technology/OETF3NAPQRCY5H4FGMYXI3DWMM/"
-    ampWebUrl: "https://www.wsbtv.com/news/report-highlights-civil-liberties-concerns-with-facial-recognition-technology/OETF3NAPQRCY5H4FGMYXI3DWMM/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wsbtv-com.cdn.ampproject.org/c/s/www.wsbtv.com/news/report-highlights-civil-liberties-concerns-with-facial-recognition-technology/OETF3NAPQRCY5H4FGMYXI3DWMM/?outputType=amp"
-    type: article
-    provider:
-      name: WSB-TV
-      domain: wsbtv.com
-    quality: 58
-    images:
-      - url: "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/2ujHFkVez5X3CIApIwboBaEkMwU=/1440x810/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/V7Q4DMJL7RDWXAYCVKLFOCEPR4.png"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "Civil Rights commission digs into government use of facial recognition"
     excerpt: "The tech poses “serious threats to our fundamental rights,” the chair of the commission said during a Friday briefing."
     publishedDateTime: 2024-03-11T20:30:00Z
@@ -55,6 +39,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "UK’s £230 million plan to implement police facial recognition and drones"
+    excerpt: "The UK government is setting aside £230 million to give police advanced technology, including facial recognition, to make their operations more efficient."
+    publishedDateTime: 2024-03-07T21:46:00Z
+    webUrl: "https://www.biometricupdate.com/202403/uks-230-million-plan-to-implement-police-facial-recognition-and-drones"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 38
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2024/01/15132608/london-met-police-1-scaled.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Everyone in facial recognition wants to impress US civil rights commission"
     excerpt: "More than a dozen people met this week with the U.S. Civil Rights Commission to talk about how facial recognition can impact the core lives of Americans."
     publishedDateTime: 2024-03-08T22:38:00Z
@@ -68,6 +66,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/14134710/facial-recogntiion-street-crowd-scaled.jpg"
         width: 2048
         height: 1152
+        isCached: true
+  - title: "CP Foods Earns Recognition for Rights Protection and Gender Equality on International Women's Day"
+    excerpt: "Charoen Pokphand Foods Public Company Limited (CP Foods) has received two awards in recognition as the private organization's dedication to rights protection and the promotion of gender equality throughout the organization on International Women's Day 2024."
+    publishedDateTime: 2024-03-11T08:42:00Z
+    webUrl: "https://www.newswit.com/en/iff7wztqnmtj26ygh9l2azbw24z6l1tk"
+    type: article
+    provider:
+      name: academy
+      domain: newswit.com
+    quality: 11
+    images:
+      - url: "https://www.newswit.com/storage/images/iqqa/0pr/77yqcv34oxudtcmgzcf1engkd/0-CP.jpg.webp"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "1mqbw8+8G79uT7ZOJ9D6BGfZJSxGizOa1EINGvEz9LkF0RBepJJNnYO812t0hNNPdlVzGYV9EJg+bQDhMrWgeXqNseTpAK+HAhkOgagXLzrvs9ypeeASKQ0mLVRqvytnAmtTC46qnvyYUbOLYUO/MnqwNT5sQ70IkImlYiqmpaFILzlh+HMVXz5Z3etZRttq94ESTZipfzkOrlVlqlZEJ/fCYiJERheQbSNEZ0Gk92baDc3a+idKg18+eYXLn0ZofXzMrFLrt6i4FjPnRT2UxS31Fm5mnNlkCJqpfG5ur8z37Lp6MTd96zEi136O05RKo7rsYimQtF5ZRjT1OyBBQl/+6l8lGCcZ/00QOECoAc9AhvOw5UmDNBgJwAJt6fXQX5kbfEiOs3kgE+8GRDjNI0azJYjge8PVBs464jWY1kO33kr/wa1eN7rRYqWCWBWBD5eC+S3tpVjzjqBzVUwvpzJX+MnTLgIRgwSxa4vKOYXLMPm2V1Z9ljnpdebR8uxHGC3k1Hx9yJxCSXrE8WehBw==;gEu0r3nTOYiLSVxvrHdBGw=="

@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/randybean/2024/03/07/the-necessity-of
 webUrl: "https://www.forbes.com/sites/randybean/2024/03/07/the-necessity-of-building-strong-data--ai-executive-leadership-for-an-ai-future/"
 type: article
 quality: 62
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: Forbes
@@ -26,6 +26,22 @@ images:
     width: 1350
     height: 900
     isCached: true
+
+related:
+  - title: "How executive leaders can manage the impacts of the US executive order on AI"
+    excerpt: "The EO sets forth new mandates, directives and guidance to ensure that developers and users of AI, including gen AI, proactively weigh AI value against AI harms to certain rights throughout the AI lifecycle."
+    publishedDateTime: 2024-03-12T14:11:00Z
+    webUrl: "https://siliconangle.com/2024/03/12/executive-leaders-can-manage-impacts-us-executive-order-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/02/ai-generated-8563259_1280.jpg"
+        width: 1280
+        height: 717
+        isCached: true
 
 secured: "5Z3V/0xXUlTwpKAQqj3aV3e+BrDjyk2mR4TxACSTMxsdhwBh+KyYtxOGOj+OY5FGUqTwXY48X+u3zJZimW3h3V3e4dErDhwe2FffeVmWdtdLbW8qFK2ZeWE8zLUQ9MTm9o1u75waoclPrvF0yEWiNsGg7B4G+60ey4TzXgbmOgJlYsj3r930sXvSH0FQx6AlE7EAxKoJRlFav36XwpYsecooJJGOL2CG+h/hrmwqexL5yTTMcsQ9WFC+wCq0dWww5ILNjkmMgdIRWXWb8eBsWjJBDYV4y2m7nAGsVJlgGFeg4ujURT5OeyuMvy0E4X4X1S4xTTlokMwM2s63WXwdfsL3Hkhl7DaZApxXkfdp2GCZxqKhgq6PFgEiZvu94iYKwPI89NiasknIMLyq2OSt+CTW++EZc6U/USekOnmCiQIVCtE/UYq+pTe0MhOQfqI+Z870b5oH7pqQHVrHikFOHPmOEmq75lNco85qAtD4pTVGax5OLTlEcTxsLbSb+LnQy8WDjiJNRV79gmiYAOeWeQ==;F4Nwr7UgGegsB1w+OcX0Mw=="
 ---

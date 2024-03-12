@@ -26,35 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI startup Hugging Face is looking into open-source robotics"
-    excerpt: "Artificial intelligence startup Hugging Face Inc., best known for operating a hub for hosting open-source machine learning and AI models, is launching a new project focused on robotics under the direction of former Tesla Inc. staff scientist Remi Cadene."
-    publishedDateTime: 2024-03-07T17:19:00Z
-    webUrl: "https://siliconangle.com/2024/03/07/ai-startup-hugging-face-looking-open-source-robotics/"
+  - title: "AI showdown: I put 3 chatbots to the test"
+    excerpt: "research the trail, tell someone where we were going, avoid the hottest part of the day and (of course) bring water and first aid. Bonus: It reminded me not to litter in nature. Final score: ChatGPT 2, Gemini 1, Perplexity 0 Listen, if AI can help us ..."
+    publishedDateTime: 2024-03-11T00:01:00Z
+    webUrl: "https://www.komando.com/kims-column/ai-chatbot-showdown-2/901917/"
+    ampWebUrl: "https://www.komando.com/kims-column/ai-chatbot-showdown-2/901917/?amp"
+    cdnAmpWebUrl: "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/kims-column/ai-chatbot-showdown-2/901917/?amp"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 69
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/robot-handshake-human-background-futuristic-digital-age.jpg"
-        width: 3309
-        height: 2206
-        isCached: true
-  - title: "Elon Musk says his AI startup xAI will open-source its Grok chatbot"
-    excerpt: "Musk sued ChatGPT-maker OpenAI and its CEO Sam Altman, saying they had abandoned the startup's original mission to develop artificial intelligence for the benefit of humanity and not for profit."
-    publishedDateTime: 2024-03-12T09:51:00Z
-    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot/108430382"
-    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot/108430382"
-    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot/108430382"
-    type: article
-    provider:
-      name: brandequity.economictimes.indiatimes
-      domain: indiatimes.com
+      name: Kim Komando
+      domain: komando.com
     quality: 59
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-108430382,imgsize-527560,width-1200,height=765,overlay-etbrandequity/digital/elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot.jpg"
+      - url: "https://www.komando.com/wp-content/uploads/2024/03/kk-article-20240308-comparison-ai-chatbots-1200x675-1.jpg"
         width: 1200
-        height: 765
+        height: 675
         isCached: true
   - title: "Musk says AI start up will open-source chatbot Grok"
     excerpt: "Proactive Investors - Elon Musk’s xAI, his artificial intelligence firm, is set to open-source ‘Grok’, a chatbot aimed at rivalling OpenAI’s ChatGPT. Grok was released by xAI last year, boasting ‘real-time’ information and holding views which argued against the ‘politically correct’ approach."
@@ -71,6 +57,71 @@ related:
       - url: "https://i-invdn-com.investing.com/news/LYNXNPEB660A4_L.jpg"
         width: 800
         height: 534
+        isCached: true
+  - title: "AMD promotes third-party app for running AI chatbots on local hardware"
+    excerpt: "The most popular AI services available today run almost exclusively on powerful Nvidia hardware, and they force customers to use an internet connection. AMD is trying"
+    publishedDateTime: 2024-03-08T13:55:00Z
+    webUrl: "https://www.techspot.com/news/102187-amd-promotes-third-party-app-solution-running-ai.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 49
+  - title: "Best AI Chatbots for 2024"
+    excerpt: "Spread the loveAs artificial intelligence continues to revolutionize the way we interact with technology, AI chatbots have become an integral part of this transformation. In 2024, a variety of sophisticated chatbots are leading the way in customer service,"
+    publishedDateTime: 2024-03-10T06:42:00Z
+    webUrl: "https://www.thetechedvocate.org/best-ai-chatbots-for-2024/"
+    type: article
+    provider:
+      name: thetechedvocate.org
+      domain: thetechedvocate.org
+    quality: 41
+    images:
+      - url: "https://www.thetechedvocate.org/wp-content/uploads/2024/03/101-5.jpg"
+        width: 1548
+        height: 776
+        isCached: true
+  - title: "AMD's AI chatbot released"
+    excerpt: "Uses third party app AMD has just launched its own local and GPT-based LLM-powered AI chatbot, that works on Ryzen AI processors and Radeon RX 7000 series GPUs. AMD's new LLM-based GPT chatbot can work on many different Ryzen AI platforms,"
+    publishedDateTime: 2024-03-08T11:05:00Z
+    webUrl: "https://www.fudzilla.com/news/pc-hardware/58602-amd-s-ai-chatbot-released"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/9d13e7b7c52f66d31db2f880938f4426_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
+  - title: "AMD Says It's Super Easy To Set Up Your Own AI Chatbot, Here's How"
+    excerpt: "Don't forget to enable GPU Offload if your system has a fast GPU. AMD also talks about using LM Studio on a \"Ryzen AI PC\". It's true; you can run LM Studio on a system with a Phoenix or Hawk Point processor. However, on those machines it will run on either ..."
+    publishedDateTime: 2024-03-08T20:00:00Z
+    webUrl: "https://hothardware.com/news/amd-guide-lm-studio"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 39
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/64084/content/chatbot.jpg"
+        width: 708
+        height: 365
+        isCached: true
+  - title: "HNW clients demand better tech but do not want AI chatbots"
+    excerpt: "High net worth clients want better technology from their advisers and wealth managers but are not so interested in AI chatbots, a report has found."
+    publishedDateTime: 2024-03-12T11:28:00Z
+    webUrl: "https://www.ftadviser.com/your-industry/2024/03/12/hnw-clients-demand-better-tech-but-do-not-want-ai-chatbots/"
+    type: article
+    provider:
+      name: FTAdviser
+      domain: ftadviser.com
+    quality: 39
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Ffta-ez-prod%2Fez%2Fimages%2F6%2F1%2F0%2F7%2F7627016-5-eng-GB%2Fpexels-tim-samuel-6697306.jpg%3Fv1?source=ftadviser"
+        width: 5896
+        height: 3931
         isCached: true
 
 secured: "uFeZaYtmSdGb7QzAptEO/79OMvfztp/nP1l85d60N6U13axXtY5zX5pwaY706K7Hm2U4IsIPluMZeMSRQscI1CZGU7Y4Q4RfI4OPp7TsU//gh531jhlsEFAaUtQy5P5CmYqDcfCqnnQey+9hRyoYONb+I5Wmz25p1yRoIHmgrC0OqaF87wwVHKnZ7vuFCo23FUby5Cmlx4PVFDkZ8tQtT9ttat2TB7y76AjtPDh8qLkCav/lEUzN99ZV0NiTrgx6x5TirRFgm2/21YBuHjSRyDY1BOuamCiU+TV5JVVVFzmVA71bAlnxAxAsuxQctikqSlIQrdFUy29NbzkazQXB/nl/DgGY7x5d5szR24UPqmc=;kE+7QPMltqoYpXWCwAKRAQ=="

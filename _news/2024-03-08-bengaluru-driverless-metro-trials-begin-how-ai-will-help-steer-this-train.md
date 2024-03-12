@@ -9,7 +9,7 @@ ampWebUrl: "https://www.firstpost.com/explainers/bengaluru-driverless-metro-tria
 cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/explainers/bengaluru-driverless-metro-trials-begin-how-ai-will-help-steer-this-train-13746522.html/amp"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "A look at Waymo’s driverless cars"
+    excerpt: "Waymo’s self-driving cars do not require human drivers, instead relying on the public’s trust in technology. Waymo has accumulated over 7 million miles of driving data on public roads and has discovered that their driverless cars are three times less likely to be involved in any type of crash or accident reported to the police,"
+    publishedDateTime: 2024-03-12T16:50:00Z
+    webUrl: "https://lavozdeanza.com/uncategorized/2024/03/12/a-look-at-waymos-driverless-cars/"
+    type: article
+    provider:
+      name: De Anza College La Voz Weekly
+      domain: lavozdeanza.com
+    quality: 54
+    images:
+      - url: "https://lavozdeanza.com/wp-content/uploads/2024/03/Screenshot-2024-03-10-at-5.09.11 PM.png"
+        width: 2001
+        height: 1086
+        isCached: true
   - title: "This Bengaluru-based AI Startup is Helping Enterprise Productionize Generative AI Apps Reliably"
     excerpt: "Portkey.ai, a bengaluru based startup boosts enterprise AI app deployments, simplifying integration in the LLMOps landscape."
     publishedDateTime: 2024-03-08T05:04:00Z

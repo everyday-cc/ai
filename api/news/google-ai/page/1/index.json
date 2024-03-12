@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-12-4-updates-from-the-2024-google-for-games-developer-summit.md",
+      "title": "4 updates from the 2024 Google for Games Developer Summit",
+      "excerpt": "These new tools help developers build immersive and engaging games that players love.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/google-play/google-for-games-developer-summit-2024/",
+      "originalUrl": "https://blog.google/products/google-play/google-for-games-developer-summit-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ggds4.width-1300.png",
+          "width": 1300,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-12T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-google-paid-10-million-in-bug-bounty-rewards-last-year.md",
+      "title": "Google paid $10 million in bug bounty rewards last year",
+      "excerpt": "Google awarded $10 million to 632 researchers from 68 countries in 2023 for finding and responsibly reporting security flaws in the company's products and services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bleepingcomputer.com/news/google/google-paid-10-million-in-bug-bounty-rewards-last-year/",
+      "originalUrl": "https://www.bleepingcomputer.com/news/google/google-paid-10-million-in-bug-bounty-rewards-last-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bleepstatic.com/content/hl-images/2023/06/16/Google.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bleepingcomputer.com/news/google/google-paid-10-million-in-bug-bounty-rewards-last-year/amp/",
+      "cdnAmpWebUrl": "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/google/google-paid-10-million-in-bug-bounty-rewards-last-year/amp/",
+      "publishedDateTime": "2024-03-12T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bleeping Computer",
+        "domain": "bleepingcomputer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-12-this-startup-says-it-can-beat-deepminds-gamechanging-protein-ai.md",
       "title": "This Startup Says It Can Beat Deepmind’s Gamechanging Protein AI",
       "excerpt": "Basecamp Research says its software platform can better predict the way proteins behave — not with better algorithms, but with higher-quality data.",
@@ -114,7 +209,7 @@
       "originalUrl": "https://www.digitaltrends.com/computing/how-to-use-google-gemini/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 248,
+      "heat": 268,
       "tags": null,
       "images": [
         {
@@ -156,6 +251,59 @@
         "Google AI",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-state-dept-backed-report-provides-action-plan-to-avoid-catastrophic-ai-risks.md",
+      "title": "State Dept-backed report provides action plan to avoid catastrophic AI risks",
+      "excerpt": "While providing technical details on the risks of AI, the action plan also introduces policy proposals that can help the U.S. and its allies mitigate these risks.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/action-plan-long-in-the-making-provides-policy-guidelines-to-avoid-catastrophic-ai-risks/",
+      "originalUrl": "https://venturebeat.com/ai/action-plan-long-in-the-making-provides-policy-guidelines-to-avoid-catastrophic-ai-risks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/VB_security-breach-padlock_3_1200x800.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-11T18:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Meta AI"
       ]
     },
     {
@@ -1312,164 +1460,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-google-goes-open-ai-with-gemma-a-free-open-weights-chatbot-family.md",
-      "title": "Google goes “open AI” with Gemma, a free, open-weights chatbot family",
-      "excerpt": "Developed by Google DeepMind and other Google AI teams, Gemma pulls from techniques learned during the development of Gemini, which is the family name for Google's most capable (public-facing) commercial LLMs, including the ones that power its Gemini AI assistant. Google says the name comes from the Latin gemma, which means \"precious stone.\"",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2024/02/google-goes-open-ai-with-gemma-a-free-open-weights-chatbot-family/",
-      "originalUrl": "https://arstechnica.com/information-technology/2024/02/google-goes-open-ai-with-gemma-a-free-open-weights-chatbot-family/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/gemma_header_1-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T22:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-first-gemini-now-gemma-googles-new-open-ai-models-target-developers.md",
-      "title": "First Gemini, now Gemma: Google's new, open AI models target developers",
-      "excerpt": "On Wednesday, Google unveiled Gemma, a family of lightweight, open models developed by DeepMind and other teams across Google that are charged with AI development and research. Introducing Gemma: a family of lightweight, state-of-the-art open models for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/first-gemini-now-gemma-googles-new-open-ai-models-target-developers/",
-      "originalUrl": "https://www.zdnet.com/article/first-gemini-now-gemma-googles-new-open-ai-models-target-developers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 461,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/19d439c154585632ba0a2af6f0b59b09165842fc/2024/02/21/99f54a4d-e622-4973-bb1d-68f9ce9f9971/woman-glkasses3gettyimages-1469706451.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/first-gemini-now-gemma-googles-new-open-ai-models-target-developers/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/first-gemini-now-gemma-googles-new-open-ai-models-target-developers/",
-      "publishedDateTime": "2024-02-21T17:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-google-deepmind-forms-a-new-org-focused-on-ai-safety.md",
-      "title": "Google DeepMind forms a new org focused on AI safety",
-      "excerpt": "This morning, Google DeepMind, the AI R&D division behind Gemini and many of Google’s more recent GenAI projects, announced the formation of a new organization, AI Safety and Alignment — made up of existing teams working on AI safety but also broadened ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/21/google-deepmind-forms-a-new-org-focused-on-ai-safety/",
-      "originalUrl": "https://techcrunch.com/2024/02/21/google-deepmind-forms-a-new-org-focused-on-ai-safety/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/10/deepmind.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/21/google-deepmind-forms-a-new-org-focused-on-ai-safety/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/21/google-deepmind-forms-a-new-org-focused-on-ai-safety/amp/",
-      "publishedDateTime": "2024-02-21T15:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

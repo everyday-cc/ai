@@ -46,15 +46,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Quisitive Awarded the AI and Machine Learning in Microsoft Azure Specialization"
-    excerpt: "announced it has earned the prestigious AI and Machine Learning in Microsoft Azure Specialization. The AI and Machine Learning specialization recognizes partners who demonstrate expertise in the ..."
-    publishedDateTime: 2024-03-07T16:32:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/QUIS-X/pressreleases/24624555/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 62
   - title: "Microsoft is making lots of money from LinkedIn Premium — and users like its AI tools"
     excerpt: "LinkedIn generated $1.7 billion in revenue from premium subscriptions last year and says many users are taking advantage of its AI features."
     publishedDateTime: 2024-03-08T13:03:00Z
@@ -109,15 +100,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 44
-  - title: "Microsoft Chief Accessibility Officer Jenny Lay-Flurrie Talks This Year’s Ability Summit, Responsible AI In Interview"
-    excerpt: "Flurrie and I reconnected via videoconference earlier this week to discuss this year’s edition of Microsoft’s Ability Summit."
-    publishedDateTime: 2024-03-07T16:15:00Z
-    webUrl: "https://www.forbes.com/sites/stevenaquino/2024/03/07/microsoft-chief-accessibility-officer-jenny-lay-flurrie-talks-this-years-ability-summit-responsible-ai-in-interview/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 41
   - title: "Microsoft scientist gets AI to play DOOM but then issued a warning"
     excerpt: "A Microsoft researcher managed to get OpenAI's GPT-4V large language model to 'successfully' play 1993's DOOM, but then issued a warning."
     publishedDateTime: 2024-03-12T12:45:00Z
@@ -150,15 +132,6 @@ related:
         width: 1328
         height: 927
         isCached: true
-  - title: "Veeam announces strategic partnership with Microsoft to integrate Copilot and AI services"
-    excerpt: "Within the value-add AI use cases, he added, it’s also focused on elements ... tools to assist customers in safeguarding and restoring Microsoft 365 and Microsoft Azure data, including: Russell thinks there’s an element of democratization at play ..."
-    publishedDateTime: 2024-03-07T16:17:00Z
-    webUrl: "https://siliconangle.com/2024/03/07/veeam-announces-strategic-partnership-microsoft-integrate-copilot-ai-services/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 25
 
 secured: "EVCk1BQ2qlFykJTWD7jBBjOvWfF+54j7PmOybqyjIch6QA3KuzKFleKMEwgui/u8B8T6uLI1lICJFEN1rkbntDd2zqPDUZWQ54ZYFbm24fOPkaPXgoF5AsUhzul8wq9Jpw0yOiUEIKsP5vi82VDj246oLJ7zPVC4rtqNteccFAX8phzE8ua/UCd9UX4f8V+e6J8bL+vtYnk8/oMdLIO05RMq33vi6t59sVo7Zh5W697DvHOFuYHpSz14QC9eOnslifIvDeHpv+mBB2OgpRft0vTgJOS2WWwd1E2Yn/r5IJY1e/wcp/heVxbDNxD9dF8e87W0ztDdQg19+d0T7u6BKHK/DvI4GGGK2KREG51S2fs=;TQFFV7uneC2WDAvr+1xvcg=="
 ---

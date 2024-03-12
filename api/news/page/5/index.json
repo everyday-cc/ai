@@ -2,6 +2,473 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-03-08-cognizant-launches-state-of-the-art-san-francisco-lab-to-boost-enterprise-ai-adoption.md",
+      "title": "Cognizant launches state-of-the-art San Francisco lab to boost enterprise AI adoption",
+      "excerpt": "Cognizant launches Advanced AI Lab in San Francisco to drive innovation and research in AI systems and technologies, as part of its $1 billion investment in generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/cognizant-launches-state-of-the-art-san-francisco-lab-to-boost-enterprise-ai-adoption/",
+      "originalUrl": "https://venturebeat.com/ai/cognizant-launches-state-of-the-art-san-francisco-lab-to-boost-enterprise-ai-adoption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/03/nuneybits_Vector_art_of_a_San_Francisco_labratory_for_artificia_a849076e-45df-47e4-9cf0-3080b0c86784-transformed.webp?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-07T20:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-automate-the-process-to-change-image-backgrounds-using-amazon-bedrock-and-aws-step-functions.md",
+      "title": "Automate the process to change image backgrounds using Amazon Bedrock and AWS Step Functions",
+      "excerpt": "Many customers, including those in creative advertising, media and entertainment, ecommerce, and fashion, often need to change the background in a large number of images. Typically, this involves manually editing each image with photo software. This can take a lot of effort, especially for large batches",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-the-process-to-change-image-backgrounds-using-amazon-bedrock-and-aws-step-functions/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-the-process-to-change-image-backgrounds-using-amazon-bedrock-and-aws-step-functions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/03/07/ML-16177-social.jpg",
+          "width": 766,
+          "height": 328,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-07T18:46:26Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-08-inflection-ai-launches-new-model-for-pi-chatbot-nearly-matches-gpt-4.md",
+      "title": "Inflection AI launches new model for Pi chatbot, nearly matches GPT-4",
+      "excerpt": "Inflection AI's latest model, Inflection-2.5, achieved 94% of GPT-4's performance but took only 40% of compute for training.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/inflection-ai-launches-new-model-for-pi-chatbot-nearly-matches-gpt-4/",
+      "originalUrl": "https://venturebeat.com/ai/inflection-ai-launches-new-model-for-pi-chatbot-nearly-matches-gpt-4/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/12/DALL·E-2023-12-08-13.35.19-A-person-of-Middle-Eastern-descent-wearing-casual-attire-stands-holding-a-smartphone.-The-smartphone-screen-prominently-displays-the-Greek-symbol-fo.png?w=1200&strip=all",
+          "width": 1199,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-07T17:48:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-08-ai-startup-hugging-face-is-looking-into-open-source-robotics.md",
+      "title": "AI startup Hugging Face is looking into open-source robotics",
+      "excerpt": "Artificial intelligence startup Hugging Face Inc., best known for operating a hub for hosting open-source machine learning and AI models, is launching a new project focused on robotics under the direction of former Tesla Inc. staff scientist Remi Cadene.",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2024/03/07/ai-startup-hugging-face-looking-open-source-robotics/",
+      "originalUrl": "https://siliconangle.com/2024/03/07/ai-startup-hugging-face-looking-open-source-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/03/robot-handshake-human-background-futuristic-digital-age.jpg",
+          "width": 3309,
+          "height": 2206,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-07T17:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2024-03-08-whats-up-with-ai-chip-rd-netomnia-telecom-italia.md",
+      "title": "What’s up with… AI chip R&D, Netomnia, Telecom Italia",
+      "excerpt": "In today’s industry news roundup: South Korean scientists claim to have developed an AI chip that uses 625 times less power than Nvidia’s technology; UK fibre access altnet Netomnia accesses additional rollout funds; Telecom Italia has a new post-NetCo plan; and much more!",
+      "sourceUrl": null,
+      "webUrl": "https://www.telecomtv.com/content/digital-platforms-services/what-s-up-with-ai-chip-r-d-netomnia-telecom-italia-49866/",
+      "originalUrl": "https://www.telecomtv.com/content/digital-platforms-services/what-s-up-with-ai-chip-r-d-netomnia-telecom-italia-49866/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.telecomtv.com/assets/telecomtv/south-korea-flag-adobestock-17995.jpeg?w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.telecomtv.com/content/digital-platforms-services/what-s-up-with-ai-chip-r-d-netomnia-telecom-italia-49866/amp/",
+      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/digital-platforms-services/what-s-up-with-ai-chip-r-d-netomnia-telecom-italia-49866/amp/",
+      "publishedDateTime": "2024-03-07T16:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TelecomTV",
+        "domain": "telecomtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-08-paralympian-lex-gillettes-top-7-ai-tools-for-accessibility.md",
+      "title": "Paralympian Lex Gillette’s top 7 AI tools for accessibility",
+      "excerpt": "Lex Gillette discusses the potential of technology in the lives of individuals with visual impairments with 7 Microsoft AI tools for accessibility.",
+      "sourceUrl": null,
+      "webUrl": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2024/03/07/paralympian-lex-gillettes-top-7-ai-tools-for-accessibility/",
+      "originalUrl": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2024/03/07/paralympian-lex-gillettes-top-7-ai-tools-for-accessibility/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/wp-content/uploads/2024/03/MSFT_Cloud_MAR04_111117_Blog_Blogheader_240303_V01.png",
+          "width": 1260,
+          "height": 708,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-07T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-ai-outperforms-pathologists-in-predicting-cancer-spread-to-brain.md",
+      "title": "AI Outperforms Pathologists in Predicting Cancer Spread to Brain",
+      "excerpt": "A new scientific study published on Monday in The Journal of Pathology reveals that AI deep learning can predict if a patient’s non-small cell lung cancer (NSCLC) will spread to the brain within five years of diagnosis better than expert pathologists.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202403/ai-outperforms-pathologists-in-predicting-cancer-spread-to-brain",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202403/ai-outperforms-pathologists-in-predicting-cancer-spread-to-brain",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-03/pic9105.jpg?itok=gRgAKG7k",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202403/ai-outperforms-pathologists-in-predicting-cancer-spread-to-brain?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202403/ai-outperforms-pathologists-in-predicting-cancer-spread-to-brain?amp",
+      "publishedDateTime": "2024-03-07T15:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-reshape-automation-aims-to-reduce-barriers-of-robotics-adoption.md",
+      "title": "Reshape Automation aims to reduce barriers of robotics adoption",
+      "excerpt": "Reshape Automation is launching an end-to-end platform for customers to discover, design, purchase, and get support for automation projects.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/reshape-automation-aims-to-reduce-barriers-of-robotics-adoption/",
+      "originalUrl": "https://www.therobotreport.com/reshape-automation-aims-to-reduce-barriers-of-robotics-adoption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-07T14:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization.md",
+      "title": "Quisitive Awarded the AI and Machine Learning in Microsoft Azure Specialization",
+      "excerpt": "Quisitive Technology Solutions Inc. (“Quisitive” or the “Company”) (TSXV: QUIS, OTCQX: QUISF), a premier Microsoft solutions provider, announced it has earned the prestigious AI and Machine Learning in Microsoft Azure Specialization.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization-1033142131",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization-1033142131",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-07T14:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-hugging-face-is-launching-an-open-source-robotics-project-led-by-former-tesla-scientist.md",
+      "title": "Hugging Face is launching an open source robotics project led by former Tesla scientist",
+      "excerpt": "Remi Cadene's move signals an ambitious expansion for Hugging Face, which until now, has primarily focused on software, not hardware.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/hugging-face-is-launching-an-open-source-robotics-project-led-by-former-tesla-scientist/",
+      "originalUrl": "https://venturebeat.com/ai/hugging-face-is-launching-an-open-source-robotics-project-led-by-former-tesla-scientist/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/03/cfr0z3n_interior_of_an_industrial_assembly_line_manufacturing_t_5c2d1f37-2f10-41ef-addf-7f2dfdd77d21.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-07T14:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2024-03-07-can-you-spot-ai-generated-images-take-our-quiz-to-test-your-skills.md",
       "title": "Can You Spot AI-Generated Images? Take Our Quiz to Test Your Skills",
       "excerpt": "Determining whether or not an image was created by generative AI is harder than ever, but it's still possible if you know the telltale signs to look for.",
@@ -703,492 +1170,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-ai-watermarks-arent-just-easy-to-defeatthey-could-make-disinformation-worse.md",
-      "title": "AI watermarks aren’t just easy to defeat—they could make disinformation worse",
-      "excerpt": "Whose AI outrage matters? The recent controversy around Google Gemini ... I spoke with Gebru and Margaret Mitchell, her former Google counterpart who now works as a researcher and chief ethics scientist at Hugging Face, about this exact topic and their ...",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/2024/03/07/ai-watermarks-arent-just-easy-to-defeat-they-could-make-disinformation-worse/",
-      "originalUrl": "https://fortune.com/2024/03/07/ai-watermarks-arent-just-easy-to-defeat-they-could-make-disinformation-worse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.fortune.com/wp-content/uploads/2024/03/GettyImages-2035485482-e1709829839183.jpg?w=840",
-          "width": 840,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/2024/03/07/ai-watermarks-arent-just-easy-to-defeat-they-could-make-disinformation-worse/amp/",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2024/03/07/ai-watermarks-arent-just-easy-to-defeat-they-could-make-disinformation-worse/amp/",
-      "publishedDateTime": "2024-03-07T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization.md",
-      "title": "Quisitive Awarded the AI and Machine Learning in Microsoft Azure Specialization",
-      "excerpt": "The AI and Machine Learning specialization recognizes ... use of the Company’s services for improper or illegal purposes; global economic and financial market conditions; uninsurable risks; changes in project parameters as plans continue to be evaluated ...",
-      "sourceUrl": null,
-      "webUrl": "https://financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization",
-      "originalUrl": "https://financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dcs-static.gprod.postmedia.digital/15.6.0/websites/images/canada/fallback.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization/wcm/ba3e0bf0-f7ce-4c4a-9213-b5d8012c4cd3/amp/",
-      "cdnAmpWebUrl": "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization/wcm/ba3e0bf0-f7ce-4c4a-9213-b5d8012c4cd3/amp/",
-      "publishedDateTime": "2024-03-07T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Post",
-        "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-sahm-capital-showcases-latest-fintech-ai-solutions-at-leap.md",
-      "title": "Sahm Capital showcases latest fintech, AI solutions at LEAP",
-      "excerpt": "featuring an AI presenter named 'Aliyah', at LEAP 2024. The cirm also showcased its all-in-one comprehensive trading solutions at the four-day event. With focus on fintech innovation, the company provides comprehensive trading solutions, including the Sahm ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/business/fintech/sahm-capital-showcases-latest-fintech-ai-solutions-at-leap-k0i5s1lc",
-      "originalUrl": "https://www.zawya.com/en/business/fintech/sahm-capital-showcases-latest-fintech-ai-solutions-at-leap-k0i5s1lc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/NjgwY2Q3NjMtZTY2NC00/38/1463605211.jpeg?f=3%3A2",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/business/fintech/sahm-capital-showcases-latest-fintech-ai-solutions-at-leap-k0i5s1lc?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/business/fintech/sahm-capital-showcases-latest-fintech-ai-solutions-at-leap-k0i5s1lc?amp=1",
-      "publishedDateTime": "2024-03-07T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-scientists-develop-new-machine-learning-method-for-modeling-chemical-reactions.md",
-      "title": "Scientists develop new machine learning method for modeling chemical reactions",
-      "excerpt": "Researchers from Carnegie Mellon University and Los Alamos National Laboratory have used machine learning to create a model that can simulate reactive processes in a diverse set of organic materials and conditions. \"It's a tool that can be used to ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2024-03-scientists-machine-method-chemical-reactions.html",
-      "originalUrl": "https://phys.org/news/2024-03-scientists-machine-method-chemical-reactions.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2024/scientists-develop-new-2.jpg",
-          "width": 1759,
-          "height": 1659,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2024-03-scientists-machine-method-chemical-reactions.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2024-03-scientists-machine-method-chemical-reactions.amp",
-      "publishedDateTime": "2024-03-07T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-5-years-after-san-francisco-banned-face-recognition-voters-ask-for-more-surveillance.md",
-      "title": "5 Years After San Francisco Banned Face Recognition, Voters Ask for More Surveillance",
-      "excerpt": "On Tuesday the country’s techiest city backed a ballot proposition that tapped into concerns about crime, giving the police more freedom to use drones and other surveillance technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/san-francisco-banned-face-recognition-voters-ask-for-more-surveillance/",
-      "originalUrl": "https://www.wired.com/story/san-francisco-banned-face-recognition-voters-ask-for-more-surveillance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/65e8d5adf50e43ba3169369b/191:100/w_1280,c_limit/facialrecognition-SF_biz_GettyImages-1215395483.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-06T23:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-salesforce-unveils-low-code-ai-toolkit-for-crm.md",
-      "title": "Salesforce unveils low-code AI toolkit for CRM",
-      "excerpt": "Einstein 1 Studio allows Salesforce admins and developers to customize the Einstein Copilot conversational AI assistant and embed AI functionality into CRM apps.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3714260/salesforce-unveils-low-code-ai-toolkit-for-crm.html",
-      "originalUrl": "https://www.infoworld.com/article/3714260/salesforce-unveils-low-code-ai-toolkit-for-crm.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/12/01/17/salesforce-sign-100935102-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3714260/salesforce-unveils-low-code-ai-toolkit-for-crm.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3714260/salesforce-unveils-low-code-ai-toolkit-for-crm.amp.html",
-      "publishedDateTime": "2024-03-06T23:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-meta-is-building-a-giant-ai-model-to-power-its-entire-video-ecosystem-exec-says.md",
-      "title": "Meta is building a giant AI model to power its 'entire video ecosystem,' exec says",
-      "excerpt": "Tom Alison, the head of Facebook, said on Wednesday that the company is working on an artificial intelligence model to \"power our entire video ecosystem.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/03/06/facebook-working-on-single-ai-model-to-power-all-video-recommendations.html",
-      "originalUrl": "https://www.cnbc.com/2024/03/06/facebook-working-on-single-ai-model-to-power-all-video-recommendations.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107279979-1690906950125-gettyimages-1569404479-Omarques_01082023_techPOL_3_of_21.jpeg?v=1709761960",
-          "width": 5000,
-          "height": 3327,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/03/06/facebook-working-on-single-ai-model-to-power-all-video-recommendations.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/03/06/facebook-working-on-single-ai-model-to-power-all-video-recommendations.html",
-      "publishedDateTime": "2024-03-06T21:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-this-startup-figures-the-best-way-to-control-drones-is-talking-to-them.md",
-      "title": "This Startup Figures the Best Way to Control Drones Is Talking to Them",
-      "excerpt": "Connecticut-based Primordial Labs has developed a voice-based interface for small UAVs. A soldier simply speaks into a radio and tells the drone what to do.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/erictegler/2024/03/06/this-startup-figures-the-best-way-to-control-drones-is-talking-to-them/",
-      "originalUrl": "https://www.forbes.com/sites/erictegler/2024/03/06/this-startup-figures-the-best-way-to-control-drones-is-talking-to-them/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e762c19846017fcb7bb89d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1215,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/erictegler/2024/03/06/this-startup-figures-the-best-way-to-control-drones-is-talking-to-them/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/erictegler/2024/03/06/this-startup-figures-the-best-way-to-control-drones-is-talking-to-them/amp/",
-      "publishedDateTime": "2024-03-06T21:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-tenstorrent-founder-and-engineers-say-taalas-ai-chip-outperforms-a-small-gpu-data-center.md",
-      "title": "Tenstorrent Founder and Engineers Say Taalas AI Chip Outperforms a Small GPU Data Center",
-      "excerpt": "AI chip startup Taalas Inc., has announced it has exited stealth mode and raised $50 million over two rounds of funding led by Pierre Lamond and Quiet Capital. Taalas was founded by Tenstorrent founder Ljubisa Bajic,",
-      "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/2024/03/tenstorrent-founder-and-engineers-say-their-taalas-ai-chip-outperforms-a-small-gpu-data-center/",
-      "originalUrl": "https://insidehpc.com/2024/03/tenstorrent-founder-and-engineers-say-their-taalas-ai-chip-outperforms-a-small-gpu-data-center/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidehpc.com/wp-content/uploads/2024/03/Taalas-logo-2-1-0324.png",
-          "width": 646,
-          "height": 334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-06T21:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-linkedin-learning-unlocks-250-free-ai-courses-for-a-limited-time.md",
-      "title": "LinkedIn Learning Unlocks 250 Free AI Courses for a Limited Time",
-      "excerpt": "LinkedIn Learning is offering 250 AI courses for free through April 5. Get the details about the offer and LinkedIn's new Workplace Learning Report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/linkedin-learning-ai-courses/",
-      "originalUrl": "https://www.techrepublic.com/article/linkedin-learning-ai-courses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.techrepublic.com/uploads/2024/03/AdobeStock_353163602_Editorial_Use_Only.jpeg",
-          "width": 1400,
-          "height": 931,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-06T20:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Meta AI"
       ]
     }
   ],

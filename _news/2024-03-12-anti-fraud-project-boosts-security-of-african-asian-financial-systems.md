@@ -25,6 +25,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "African American English, Black ASL are stigmatized. Experts say they deserve recognition"
+    excerpt: "While some parts of Black language have been appropriated and exploited, Black people still face discrimination based on how they communicate, and researchers and native speakers across the country are working to reduce this stigma by studying ..."
+    publishedDateTime: 2024-03-12T10:02:00Z
+    webUrl: "https://www.tennessean.com/story/news/nation/2024/03/12/researchers-spotlight-african-american-english-black-asl/72351278007/"
+    type: article
+    provider:
+      name: Tennessean
+      domain: tennessean.com
+    quality: 0
+
 secured: "tIBs1i0ifGtlArFVSGND+JpnGo8NWPoOJUXds/CoqNqVvczDqt85lZq6C5gwsL3S65G++9MVJ4S0Vsh94hlhkSWRvIIbe7xvutixH7BWnIkco4VA0tTz8sRdhvLTPlxwEaiueP+KjIT75OHTuUPMm4eb3fMbYkLahcpvYdrEACbEvQNfLZjeFlIwdhS84smziLweQVHvV3WjCpQZbjIpXAkYO8u/QHAQJ7oflCh1w+SxkB+ieina4I8YzD2GrYwOzo1exdm9NJ+FV2+A3Fy5Rwbyw/yC+Wy6znD5yOtftYUP9NNBRbu60p2w+BzvlUOhQKPZzMSQkDZ0FeqnoQpgY9zfkCdBiZ64EpJ8+EL4Sp7yo7QClBIFk1jXXGs5O+6RuWMhHPIQbQ+CjwU9CdNCb97Dd9kEuhhmBBQLhb0H9VCCDtved2iK4hd0PygIfxE1a+jpvs7Muj8D9N9AwCGhymcmTY+SOMf7+1ZzMf4THiBOaLtqP1o2AsQU+fcdaepEdzIk//OcPR2ZfUGapmMypQ==;DZLPk57k5AVYhCXks1LBnQ=="
 ---
 

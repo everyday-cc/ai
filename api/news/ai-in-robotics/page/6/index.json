@@ -2,6 +2,136 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2024-01-20-your-childs-next-playmate-could-be-an-ai-toy-powered-by-chatgpt.md",
+      "title": "Your Child’s Next Playmate Could Be An AI Toy Powered By ChatGPT",
+      "excerpt": "A host of startups are building robots and stuffed toys that can have full-fledged conversations with children, thanks to generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rashishrivastava/2024/01/20/your-childs-next-playmate-could-be-an-ai-toy-powered-by-chatgpt/",
+      "originalUrl": "https://www.forbes.com/sites/rashishrivastava/2024/01/20/your-childs-next-playmate-could-be-an-ai-toy-powered-by-chatgpt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65aadd6296b587d48f7882dd/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-20T10:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2024-01-20-this-ai-robot-was-made-to-help-seniors-combat-loneliness.md",
+      "title": "This AI robot was made to help seniors combat loneliness",
+      "excerpt": "One in 3 adults ages 50 to 80 reported feeling isolated from others in the past year, according to the 2023 National Poll on Healthy Aging.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kshb.com/this-ai-robot-was-made-to-help-seniors-combat-loneliness",
+      "originalUrl": "https://www.kshb.com/this-ai-robot-was-made-to-help-seniors-combat-loneliness",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-19T20:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KSHB Kansas City",
+        "domain": "kshb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-19-figure-01-humanoid-robot-learns-to-make-coffee-by-watching-videos.md",
+      "title": "Figure-01: Humanoid Robot Learns to Make Coffee By Watching Videos",
+      "excerpt": "The Figure-01 robot, equipped with artificial intelligence (AI), showcased its ability to watch and learn from human actions during a demonstration at Figure's San Francisco headquarters. Responding to a human request for coffee, the robot, having ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techtimes.com/articles/300808/20240119/figure-01-humanoid-robot-learns-make-coffee-watching-videos.htm",
+      "originalUrl": "https://www.techtimes.com/articles/300808/20240119/figure-01-humanoid-robot-learns-make-coffee-watching-videos.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1734811051.rsc.cdn77.org/data/images/full/442710/figure-01-humanoid-robot-learns-to-make-coffee-by-watching-videos.png",
+          "width": 467,
+          "height": 305,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.techtimes.com/amp/articles/300808/20240119/figure-01-humanoid-robot-learns-make-coffee-watching-videos.htm",
+      "cdnAmpWebUrl": "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/300808/20240119/figure-01-humanoid-robot-learns-make-coffee-watching-videos.htm",
+      "publishedDateTime": "2024-01-19T14:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techtimes",
+        "domain": "techtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-19-if-not-ai-then-what-exploring-investor-interests-in-2024.md",
       "title": "If Not AI, Then What? Exploring Investor Interests In 2024",
       "excerpt": "As 2024 approaches, the spotlight is on AI development and the growth of sectors like agtech, proptech, and healthtech. While it may not be the peak year for fundraising, the emphasis is shifting towards quality over quantity, signaling a significant reset in the venture capital landscape.",
@@ -1179,137 +1309,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-14-is-this-the-chatgpt-moment-for-robots-and-will-they-soon-be-walking-among-us.md",
-      "title": "Is this the ‘ChatGPT moment’ for robots – and will they soon be walking among us?",
-      "excerpt": "On 5 January, a robot placed a capsule into a coffee ... referring to the viral AI chatbot that brought generative artificial intelligence into the mainstream.",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/tech/robots-ai-figure-chatgpt-video-b2477227.html",
-      "originalUrl": "https://www.independent.co.uk/tech/robots-ai-figure-chatgpt-video-b2477227.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.independent.co.uk/2024/01/11/18/robot%20chatgpt%20figure%20ai.png?quality=75&width=1200&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-14T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-13-check-it-out-read-up-on-artificial-intelligence.md",
-      "title": "Check It Out: Read up on artificial intelligence",
-      "excerpt": "Stories about artificial intelligence have been all over the news. On one hand, it sounds amazing. AI is already being used in medicine to help with diagnosing patients, transcribing medical documents",
-      "sourceUrl": null,
-      "webUrl": "https://www.columbian.com/news/2024/jan/13/check-it-out-read-up-on-artificial-intelligence/",
-      "originalUrl": "https://www.columbian.com/news/2024/jan/13/check-it-out-read-up-on-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pcdn.columbian.com/wp-content/uploads/2016/04/930101_johnston_063-768x512.jpg",
-          "width": 768,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-13T13:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Columbian",
-        "domain": "columbian.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-01-13-nvidia-isaac-ai-robot-platform-announces-many-partners.md",
-      "title": "Nvidia Isaac AI Robot Platform Announces Many Partners",
-      "excerpt": "It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge technologies, he is currently a Co-Founder of a startup and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextbigfuture.com/2024/01/nvidia-isaac-ai-robot-platform-announces-many-partners.html",
-      "originalUrl": "https://www.nextbigfuture.com/2024/01/nvidia-isaac-ai-robot-platform-announces-many-partners.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nextbigfuture.s3.amazonaws.com/uploads/2024/01/Screen-Shot-2024-01-13-at-1.05.38-PM.jpg",
-          "width": 1802,
-          "height": 1114,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-13T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NextBigFuture",
-        "domain": "nextbigfuture.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
