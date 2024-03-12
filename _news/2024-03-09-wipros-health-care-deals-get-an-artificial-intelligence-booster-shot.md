@@ -87,13 +87,13 @@ related:
         height: 630
         isCached: true
   - title: "AI, Telehealth and Communications - IDTechEx Explores Digital Healthcare"
-    excerpt: "Software reading scans and online management of mental health are examples of digital healthcare that keep up with the modernization of"
-    publishedDateTime: 2024-03-12T07:31:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/ai-telehealth-and-communications--idtechex-explores-digital-healthcare-302086147.html"
+    excerpt: "IDTechEx provides trusted independent research on emerging technologies and their markets. Since 1999, we have been helping our clients to understand new technologies, their supply chains, market requirements, opportunities and forecasts. For more information, contact research@IDTechEx.com or visit www.IDTechEx.com ."
+    publishedDateTime: 2024-03-12T08:30:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/12/9976365.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
+      name: TMCnet
+      domain: tmcnet.com
     quality: 33
 
 secured: "4EUzcOF+VVOg0uVifL2bRI+Wn0TvlPfyfYlVohEdnqXxu11Zli16UxlhhXuYTFa5Y4k5HZzqn2bLjnDJ9EG5VQvKM058gJGSMma5WnINmvcysXFGLnpT5aoPfjhgEw4aVmPVTeFw2DNjBgkpRv8yecvup0qEaJbLgs8Vcx2q3+R6Qr8c1kWBGe9uLOmJVoSSfVrQmh+DKIulKUwhitrs3SfKfl5+nGk5b3Oi7mAU4sN/SguWROl6VXXdtdyEpIpl/um5ZeHgPFY2CuLFkN/EItcb7LYEktPo6f58sGgzv+rHaDfAGb8WBVzUqVuvpPXjQ+gudzQqdEe8qQGy8EUtkIHK4bQKjKsHOKBJJkTEqPMbL2hSwrPMQooMJkCn5zuhV5ky9pEZhm8iYnQucA2/VNZI/P9k+idQdD+SqpgxYi9x7no2iYP5OqXMTL75++5Gmd7/Msn1rS7BIRfuHgcsMQAJxRx9El0lhZHqclDwCHZyN4NSR4sYYM/vieIX3UjnQOWliq2D071KHpFFaNgEmw==;UKGuPsaLJ58D+gEjLw2tJA=="

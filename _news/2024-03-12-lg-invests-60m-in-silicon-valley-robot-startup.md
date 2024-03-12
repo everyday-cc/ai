@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Bear Robotics, a robot waiter startup, just picked up $60M from LG"
+    excerpt: "LG Electronics may no longer be a household name in smartphones, but it still sees a big future in gadgets like robots. Today, the company confirmed a $60"
+    publishedDateTime: 2024-03-12T09:52:00Z
+    webUrl: "https://techcrunch.com/2024/03/12/bear-robotics-a-robot-waiter-startup-just-picked-up-60m-from-lg/"
+    ampWebUrl: "https://techcrunch.com/2024/03/12/bear-robotics-a-robot-waiter-startup-just-picked-up-60m-from-lg/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/bear-robotics-a-robot-waiter-startup-just-picked-up-60m-from-lg/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 119
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/08/Screen-Shot-2019-08-30-at-3.00.42-PM.png?resize=1200,927"
+        width: 1200
+        height: 927
+        isCached: true
   - title: "LG Electronics to Invest $60 Million in Bear Robotics"
     excerpt: "LG Electronics will invest $60 million in Silicon Valley startup Bear Robotics, stepping up its push for new growth engines. The South"
     publishedDateTime: 2024-03-12T05:20:00Z
@@ -66,7 +82,21 @@ related:
         width: 1200
         height: 857
         isCached: true
+  - title: "LG invests $60 million in US startup Bear Robotics"
+    excerpt: "LG Electronics said on Tuesday it has made a $60 million strategic investment in Silicon Valley-based startup Bear Robotics in a move to strengthen its business capabilities in the booming"
+    publishedDateTime: 2024-03-12T09:18:00Z
+    webUrl: "https://www.thehansindia.com/business/lg-invests-60-million-in-us-startup-bear-robotics-864378"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 54
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2024/03/12/1429616-lg.jpg"
+        width: 1200
+        height: 720
+        isCached: true
 
-secured: "t6Y6X9WRmItDZxzil7qfcznU6g8Nl2YpxHGPOnAPmOauS907GsI6l4+lEy2ufP0i16ekJcIPTLuwMdsncQCOE6+TIs5tTsKsHZKq+hszzGE/r4C3h1BcqXr7nqOVU4rCwfis/KPRsB8JIrR/YI9lx4x0130XC21YWorgU79RziKJ93LNHzSl3QxfsveOhcMAi8esmmy2iy6sbw9Voq4duE1rbKlj01SXG6iLV8m/sV9QLaET+RySEfLqaNZEBgeKE3BYbn0H64qqwqK3IDjmtFB43/WwwG35PRY5CU+G8hKh+XSRcdv95xkiNNCIM8Pf8p+k69BJgaFRVIJrebcSSiZy4lttQB+ehyqGoU/xYDM=;HeoPnKxFhLLA6+biikAu4Q=="
+secured: "QHzQYry9qmW4I/aw/+ul53hiSp/thQ9lhIfuIq16CR2Bmgrt/L/mW/GMlD+09tlCeBhCDx0E/OXsEI6ZamCZBw+w+ydQFtfYDIAjsDSNb4bj0ErMCDevlFDWz/X4yft3QRSXhJmQAKcra5v236HH16vayxJ02k62Tbt3eVFT4DQj+Zvb3LulcqVzGAVzdULFLutYTecwoudqloJYkPA2WqOFqlyIAp9J/0wrrXpmVD+MBaO1+mhMP5in6UIiryy6UPQa5OcfLXJJfUUho1eSseN+YSfZpkqusjb8vaTRNnIQCY663yLs+iwL21V8auLmsT8bQUdpjbT1ABz6Sc4Ggg+fghxROHcP7mR4QyjhyTH4ehUH9Yv8uyQQAajEldfiacoWszf4olLkcHpGMfq2IWUn0q7bcwnwN5FBBybe7ieEFh/RSc4qjv7EJjhE3/uZwEBPayzJWl+/ifJHBAqDt1Rn5yauwM6IcJBndcsEuOmz5TMx26qn2rD1bnwu8UJe8SEz1ZW3iNeWywCi0gQFCA==;0Ug8zCIYi1xRmJAMx41DgQ=="
 ---
 

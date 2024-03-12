@@ -1,0 +1,35 @@
+---
+category: news
+title: "Manipulated Kate Middleton Photo Sparks Royal Frenzy Of Jokes And Memes"
+excerpt: "After Kate apologizes for a Photoshopped family picture, the online masses can't resist poking fun at the latest controversy to hit Kensington Palace."
+publishedDateTime: 2024-03-12T01:18:00Z
+originalUrl: "https://www.forbes.com/sites/lesliekatz/2024/03/11/altered-kate-middleton-photo-sparks-royal-frenzy-of-jokes-and-memes/"
+webUrl: "https://www.forbes.com/sites/lesliekatz/2024/03/11/altered-kate-middleton-photo-sparks-royal-frenzy-of-jokes-and-memes/"
+ampWebUrl: "https://www.forbes.com/sites/lesliekatz/2024/03/11/altered-kate-middleton-photo-sparks-royal-frenzy-of-jokes-and-memes/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lesliekatz/2024/03/11/altered-kate-middleton-photo-sparks-royal-frenzy-of-jokes-and-memes/amp/"
+type: article
+quality: 74
+heat: 74
+published: true
+
+provider:
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Google AI
+  - AI
+
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/65efa845bfb4c6bde5d6755b/0x0.jpg?format=jpg&crop=640,360,x25,y57,safe&height=900&width=1600&fit=bounds"
+    width: 1600
+    height: 900
+    isCached: true
+
+secured: "U+5BNacQ9nERK5096bTbNy1U1Y6hrFdRd6ily4vdgMzmbyFmpDh6RWo42MxRnYWJzGXDmZTXiiixaJfygPamOUGNYDS/ErF+zR5QyLMs4XsM4FMasGfehDRSA+6UmCnAzlrUdUC30cIqYod2k2j+mO+mVeJayZAmTtGmu1lLXTOyJrwBJbttFMZZfXzLIpiVXDyCwiHEowPhAgLESaGHp8bLZDy8kBbHvKhe5MVrds2TmNGRHzYnnq1u29OscDnCcc/fKQkNKwaeIjy2AZlKtVTZkpJeRymtg0Wwu62yFxKp9gfmLngxJxiWKJ6oOmII/TEV9aJc9YVH6tG/hAIx/vI5fNIn/UsWHv2R8bOFVRo=;uCbTys3LDKo+Ohdn1/OxPg=="
+---
+

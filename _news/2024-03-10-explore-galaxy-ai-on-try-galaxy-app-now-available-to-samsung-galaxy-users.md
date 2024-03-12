@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "How to try Samsung’s Galaxy AI on any iPhone or Android phone"
-    excerpt: "Galaxy AI is a major selling point for the Galaxy S24. Now, you can take Galaxy AI for a test drive on any Android phone or iPhone. Here's how."
-    publishedDateTime: 2024-03-07T09:59:00Z
-    webUrl: "https://www.digitaltrends.com/mobile/how-to-try-samsung-galaxy-ai-on-any-iphone-or-android-phone/"
-    ampWebUrl: "https://www.digitaltrends.com/mobile/how-to-try-samsung-galaxy-ai-on-any-iphone-or-android-phone/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/how-to-try-samsung-galaxy-ai-on-any-iphone-or-android-phone/?amp"
+  - title: "Samsung eyes opportunity in AI chip manufacturing market amid TSMC dominance"
+    excerpt: "As companies strive to establish themselves in the AI era, the South Korean industry is monitoring whether Samsung Electronics can capitalize on the AI chip orders."
+    publishedDateTime: 2024-03-11T04:27:00Z
+    webUrl: "https://www.digitimes.com/news/a20240311PD201/samsung-ai-chip-manufacturing-tsmc.html"
     type: article
     provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 87
+      name: Digi Times
+      domain: digitimes.com
+    quality: 51
     images:
-      - url: "https://www.digitaltrends.com/wp-content/uploads/2024/01/galaxy-s24-ultra-chat-assist.jpg?resize=1200%2C630&p=1"
-        width: 1200
-        height: 630
+      - url: "https://img.digitimes.com/newsshow/20240311pd201_files/1_2b.jpg"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "tx39UeHp4RENbZtUFF8UpDuiSDek5QyAg0fJ8VasV7QFRqbotZXey8s68mfJG++aDdq3+Xme4FSHKwK8Ps5sZmdrEw3obe9CtuOJyziOHmg4wfBctbXsNuC69jjSKDNYqnBPXbSsE4iob/wWqAQiP8t1oyflWV6TpJUMn++pATCEcWP/xXXYv7i/IgkoCX5KIV6WA0LfDM2x7z1HYEYvmBhsT3OU8nHnWT/VOUXpvWKVPTV5WiB9BkVGmlghH6cF1r9mNr/VAAeWiqnN7fLI+ElQHE6QYijI2jaWJvpNIofrBNh0Wm/AoIOfLlQknvxdpnxyEv24pTzLclSCvLqt6locw+AAPPUyAPI3TKSWufI=;GAwm3Q2Og6+wFCd5jiucig=="

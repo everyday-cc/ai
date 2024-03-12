@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2024-03-12-lg-electronics-to-invest-60-million-in-bear-robotics.md",
-      "title": "LG Electronics to Invest $60 Million in Bear Robotics",
-      "excerpt": "LG Electronics will invest $60 million in Silicon Valley startup Bear Robotics, stepping up its push for new growth engines. The South",
+      "path": "_news/2024-03-12-bear-robotics-a-robot-waiter-startup-just-picked-up-60m-from-lg.md",
+      "title": "Bear Robotics, a robot waiter startup, just picked up $60M from LG",
+      "excerpt": "LG Electronics may no longer be a household name in smartphones, but it still sees a big future in gadgets like robots. Today, the company confirmed a $60",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/lg-electronics-to-invest-60-million-in-bear-robotics-0b7041cf",
-      "originalUrl": "https://www.marketwatch.com/story/lg-electronics-to-invest-60-million-in-bear-robotics-0b7041cf",
+      "webUrl": "https://techcrunch.com/2024/03/12/bear-robotics-a-robot-waiter-startup-just-picked-up-60m-from-lg/",
+      "originalUrl": "https://techcrunch.com/2024/03/12/bear-robotics-a-robot-waiter-startup-just-picked-up-60m-from-lg/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 169,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "url": "https://techcrunch.com/wp-content/uploads/2019/08/Screen-Shot-2019-08-30-at-3.00.42-PM.png?resize=1200,927",
           "width": 1200,
-          "height": 630,
+          "height": 927,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/lg-electronics-to-invest-60-million-in-bear-robotics-0b7041cf",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/lg-electronics-to-invest-60-million-in-bear-robotics-0b7041cf",
-      "publishedDateTime": "2024-03-12T05:20:00Z",
+      "ampWebUrl": "https://techcrunch.com/2024/03/12/bear-robotics-a-robot-waiter-startup-just-picked-up-60m-from-lg/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/bear-robotics-a-robot-waiter-startup-just-picked-up-60m-from-lg/amp/",
+      "publishedDateTime": "2024-03-12T09:52:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,8 +49,8 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {

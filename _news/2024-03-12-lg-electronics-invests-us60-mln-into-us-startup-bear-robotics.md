@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Bear Robotics, a robot waiter startup, just picked up $60M from LG"
+    excerpt: "LG Electronics may no longer be a household name in smartphones, but it still sees a big future in gadgets like robots. Today, the company confirmed a $60"
+    publishedDateTime: 2024-03-12T09:52:00Z
+    webUrl: "https://techcrunch.com/2024/03/12/bear-robotics-a-robot-waiter-startup-just-picked-up-60m-from-lg/"
+    ampWebUrl: "https://techcrunch.com/2024/03/12/bear-robotics-a-robot-waiter-startup-just-picked-up-60m-from-lg/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/bear-robotics-a-robot-waiter-startup-just-picked-up-60m-from-lg/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 119
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/08/Screen-Shot-2019-08-30-at-3.00.42-PM.png?resize=1200,927"
+        width: 1200
+        height: 927
+        isCached: true
   - title: "LG Electronics to Invest $60 Million in Bear Robotics"
     excerpt: "LG Electronics will invest $60 million in Silicon Valley startup Bear Robotics, stepping up its push for new growth engines. The South"
     publishedDateTime: 2024-03-12T05:20:00Z
@@ -65,6 +81,20 @@ related:
       - url: "https://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2024%2F03%2F12%2F20240312050618_0.jpg"
         width: 630
         height: 449
+        isCached: true
+  - title: "LG invests $60 million in US startup Bear Robotics"
+    excerpt: "LG Electronics said on Tuesday it has made a $60 million strategic investment in Silicon Valley-based startup Bear Robotics in a move to strengthen its business capabilities in the booming"
+    publishedDateTime: 2024-03-12T09:18:00Z
+    webUrl: "https://www.thehansindia.com/business/lg-invests-60-million-in-us-startup-bear-robotics-864378"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 54
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2024/03/12/1429616-lg.jpg"
+        width: 1200
+        height: 720
         isCached: true
 
 secured: "KDQW1ndgl55eTORj616u4/8F96zc0mEd19dxzRAS2TT19f9xFyabhaC3tvmT1r8hEEI6gy8w1V8i1a4ODVtIWyPAVvRPa6qyK/2BUWGNSlevKMFo0B4i+clDbJOGEEsrduJUIY0XVUiRWrwkfNdAEugslWl1CWS4bHfgA+HdNZZXKbG101SrNHjSFvF4geG5Uy8QmaGQLvDNTJhqZr30aI/qFlsUKm7me2jmRnbXSjPsPJueCot+B4a15f9xGIakALP+DL49ZuykcydYvMW/83jrGiE0kRmEGNsUyZdOS5K0U0PdGEW6exBZjIUzgvv1nIZxiwMMTVqe4P3uaovp0SyzxEx65Bml/bd7vc+lG0s=;X1/10CnSI2aPQidy8n+5Cw=="

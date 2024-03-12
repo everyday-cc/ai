@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "A World Divided Over Artificial Intelligence"
-    excerpt: "In November 2023, a number of countries issued a joint communique promising strong international cooperation in reckoning with the challenges of artificial intelligence. Startlingly for states often at odds on regulatory matters,"
-    publishedDateTime: 2024-03-11T04:21:00Z
-    webUrl: "https://www.foreignaffairs.com/united-states/world-divided-over-artificial-intelligence"
-    type: article
-    provider:
-      name: Foreign Affairs
-      domain: foreignaffairs.com
-    quality: 37
-    images:
-      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2024/03/07/RTSWGMSK.JPG?itok=wW0VNQi8"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The OpenAI-Elon Musk battle intensifies and AI trust sinks, but investors aren’t slowing down"
     excerpt: "The escalation of the fight between OpenAI and Elon Musk over what kind of artificial intelligence company the phenom should be is creating even more uncertainty over who’s going to lead the generative AI era."
     publishedDateTime: 2024-03-08T19:56:00Z

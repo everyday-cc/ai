@@ -1,18 +1,18 @@
 ---
 category: news
 title: "AI, Telehealth and Communications - IDTechEx Explores Digital Healthcare"
-excerpt: "Software reading scans and online management of mental health are examples of digital healthcare that keep up with the modernization of"
-publishedDateTime: 2024-03-12T07:31:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/ai-telehealth-and-communications--idtechex-explores-digital-healthcare-302086147.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/ai-telehealth-and-communications--idtechex-explores-digital-healthcare-302086147.html"
+excerpt: "IDTechEx provides trusted independent research on emerging technologies and their markets. Since 1999, we have been helping our clients to understand new technologies, their supply chains, market requirements, opportunities and forecasts. For more information, contact research@IDTechEx.com or visit www.IDTechEx.com ."
+publishedDateTime: 2024-03-12T08:30:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2024/03/12/9976365.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2024/03/12/9976365.htm"
 type: article
 quality: 33
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
@@ -96,6 +96,6 @@ related:
       domain: rediff.com
     quality: 19
 
-secured: "c686PcLXZZa9hGjeuFuRmYxA/feYNKH0Bj4NUh1cP1XiyNSXutuYMfOmdh3X8aC62k+VJ8ysoyneZux7yYpFKxxOuNHQD1Ga5hBfylysDstlPNR+eTj0D5VIrhCgljsEpOn5Ky4CoA9+2yt7uLjQFMjMLNI99Ed/w6FEWxEKGq0+wE4rYfPGgkZ7wDljPtE2F9mGonElprmNvWSIKyVz09qrdBPnbweP1EKaVFGqXXd8Z6nu8G3KUeMqg0gFKhA+rghnARy9D+NYAUNwJq9hYoiZyG6D+KvRIyfc9XuaLaQVeoXHpNAfrH7QN25/D7cHkkZkmLcHeVBH8hIQJwnTiLH1Hq/ZfZGSwC05sl7v/qU=;0vCsZMFzajj5+5VkXc5jPQ=="
+secured: "13Tgfzcx9xg8MXltScx5zpqfxhqOjJQYOuL8RUvYLb/Gk2SzY80lc8bz5vBPZoo9061YPj4/CgTxr3TXlSqUExRnuzgzBIhUFr/8jbVETFkjRZfV4jxkUEe+1YLb25wGGVDMIKT+5mR4PPu4h8SsWwHgd4CP62wMe4WGwkj0LSPSorU+fVdgeJrFbcEorMYJkf53Ngziy5YNwh/DUN74E9QomLisKfzXDAL1YUb3WEGEJuX5sju5A4KKts2cJsDquQzjOX3+NYFfyyZH2ZjWITmmYvFflAWPzXCndsZ7ootzMfw+PuUHXxsOFvHvJKYoU+MAXUxYgNEpsmKvnf3K4hXs+hicpL783FHNfVnjXx4=;gyr5A+vNCRy08SLlYZBcHg=="
 ---
 

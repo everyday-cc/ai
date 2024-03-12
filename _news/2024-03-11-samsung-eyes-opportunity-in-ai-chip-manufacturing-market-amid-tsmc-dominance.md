@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20240311PD201/samsung-ai-chip-manu
 webUrl: "https://www.digitimes.com/news/a20240311PD201/samsung-ai-chip-manufacturing-tsmc.html"
 type: article
 quality: 51
-heat: 51
+heat: 61
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1280
     height: 853
     isCached: true
+
+related:
+  - title: "Explore Galaxy AI on Try Galaxy App, Now Available to Samsung Galaxy Users"
+    excerpt: "The era of mobile AI has come, and early adopters are already riding the waves of the latest innovation. To fuel the conversation, Samsung has made s"
+    publishedDateTime: 2024-03-10T07:24:00Z
+    webUrl: "https://menafn.com/1107956899/Explore-Galaxy-AI-on-Try-Galaxy-App-Now-Available-to-Samsung-Galaxy-Users"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/updates/pr/2024-03/10/pr_9143_d963e8e0_image_story.jpg"
+        width: 1440
+        height: 1080
+        isCached: true
 
 secured: "lPpaU0++nFe+oFatcsiGnlMq9/Ah6aSVtIq8LvVStnc0EWvUnDwDWwnw72dJt2Lz4JcBZQHCz0liGQIxCKw8gLouuOW2V/DqRzCJgytJW/ia/+DO1mJI1WFBQyWUgmV6ozv8PxnvAwh7tpQfnOSkC/CU6GAVU6z+dD/6azEOqNCT9embEomSmnioT4xQ8xf5mPPMhcQAXRGjCCWdV5hqHJowmos+oA6Cf71r2P4NLjYXW2UMJhDE3slyozd0mJfGD5ByTVlmTqKQ7ufgrGjU38W0ZLraSX0ZHGVwT7k7UIRssTy/T7A/g0H3Jj1tWjFTT/vAV1KWcP1+arJ477Ns/1c+yXzcRC4RUX2IHlKFVN2UxDhFCk6wQpPvrpNWK8pVOinYhLX6pda8Vk9RQXz0bSP2eAn55SmNxjJJ7SdXhcqzYcNf0h79/oGrR5TP/HhoZn5kQ7zGndK3aTZKHW4aYHb8r96UdzOSYUs2Jt8DfCGOVhUowXoXiOWVWPxJAzNF1P2uBEgq/1tn/AS31LFblQ==;P+RwqBYZMkEMciitd0n3zQ=="
 ---

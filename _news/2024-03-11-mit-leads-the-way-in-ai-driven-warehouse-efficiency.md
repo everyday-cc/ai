@@ -24,6 +24,17 @@ images:
     height: 240
     isCached: true
 
+related:
+  - title: "New AI logistics tool enhances warehouse efficiency"
+    excerpt: "The new AI functionality unlocks the next level of intelligence in DexoryView. The platform combines the use of autonomous robots to scan warehouses of one million square feet (approx 93,000m 2) and more than 100,000 pallets in a day, providing accurate, instant, real time information on goods and assets across the sites it operates in."
+    publishedDateTime: 2024-03-12T09:13:00Z
+    webUrl: "https://www.imveurope.com/article/new-ai-logistics-tool-enhances-warehouse-efficiency"
+    type: article
+    provider:
+      name: imveurope.com
+      domain: imveurope.com
+    quality: 19
+
 secured: "yTNoqgPqUfwaSOyl/UB83W30GLAFaFx6Bz6bKyyJNtCXl4MAvjV7vk8Ju6uRCabtE9KC2iluQfKbkeJaMz5lJNK9iQ9UOK/tyPRgg54NAMB0m2XTPHmFM150zgaIa+KPZ2Bh2tOjZX1ase2impsf1PozbHNNtWbE3wamBNH8VLH9dwbkqEhh7P0mK1sstajajMcVbqhg3wD4pp/Ay0h5Ho6rHF5UIj4HT22SufC6w5IyCGCi7UXiUf4sLY91G81uAsBrb9h4PCE8Nlo/7UYf3CcBRS9HDr7WbNKZP1zD4VGgOzyRFyj0JwruiOrGTN/FbpBiVBa0z9YgE15s1lJqbd13Ws/qcFoVg65LqUWFCRE=;ZOfEo9CA0QzNDlYGq+vQTA=="
 ---
 

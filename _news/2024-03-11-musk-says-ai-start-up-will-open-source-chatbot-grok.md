@@ -40,6 +40,22 @@ related:
         width: 1199
         height: 685
         isCached: true
+  - title: "Elon Musk says his AI startup xAI will open-source its Grok chatbot"
+    excerpt: "Musk sued ChatGPT-maker OpenAI and its CEO Sam Altman, saying they had abandoned the startup's original mission to develop artificial intelligence for the benefit of humanity and not for profit."
+    publishedDateTime: 2024-03-12T09:51:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot/108430382"
+    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot/108430382"
+    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot/108430382"
+    type: article
+    provider:
+      name: brandequity.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-108430382,imgsize-527560,width-1200,height=765,overlay-etbrandequity/digital/elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "Elon Musk announces that AI startup xAI will open source Grok chatbot"
     excerpt: "Musk hit ChatGPT-maker OpenAI with a lawsuit filed on February 29, accusing the AI startup and its chief Sam Altman of departing from the “original mission and historical practice of making its technology and knowledge available to the public,” by keeping GPT-4’s internal design largely a secret."
     publishedDateTime: 2024-03-12T06:55:00Z

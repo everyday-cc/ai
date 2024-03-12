@@ -9,8 +9,8 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/lg-electronics-to-invest-60-mi
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/lg-electronics-to-invest-60-million-in-bear-robotics-0b7041cf"
 type: article
 quality: 104
-heat: 134
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Bear Robotics, a robot waiter startup, just picked up $60M from LG"
+    excerpt: "LG Electronics may no longer be a household name in smartphones, but it still sees a big future in gadgets like robots. Today, the company confirmed a $60"
+    publishedDateTime: 2024-03-12T09:52:00Z
+    webUrl: "https://techcrunch.com/2024/03/12/bear-robotics-a-robot-waiter-startup-just-picked-up-60m-from-lg/"
+    ampWebUrl: "https://techcrunch.com/2024/03/12/bear-robotics-a-robot-waiter-startup-just-picked-up-60m-from-lg/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/bear-robotics-a-robot-waiter-startup-just-picked-up-60m-from-lg/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 119
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/08/Screen-Shot-2019-08-30-at-3.00.42-PM.png?resize=1200,927"
+        width: 1200
+        height: 927
+        isCached: true
   - title: "LG Acquires Stake In Bear Robotics For $60 Mln"
     excerpt: "(RTTNews) - LG Electronics Inc. (LG) said it has executed a stock purchase agreement to acquire a stake in Bear Robotics, a prominent Silicon Valley-based startup specializing in AI-driven autonomous service robots, through an investment of $60 million."
     publishedDateTime: 2024-03-12T03:38:00Z
@@ -70,7 +86,21 @@ related:
         width: 1200
         height: 857
         isCached: true
+  - title: "LG invests $60 million in US startup Bear Robotics"
+    excerpt: "LG Electronics said on Tuesday it has made a $60 million strategic investment in Silicon Valley-based startup Bear Robotics in a move to strengthen its business capabilities in the booming"
+    publishedDateTime: 2024-03-12T09:18:00Z
+    webUrl: "https://www.thehansindia.com/business/lg-invests-60-million-in-us-startup-bear-robotics-864378"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 54
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2024/03/12/1429616-lg.jpg"
+        width: 1200
+        height: 720
+        isCached: true
 
-secured: "w4xSJBOdxR9i2OtA0G8YMusqLO5+jWtBcKB+UO7IPs8Cd0jgWrmmaK98kyY7QdT7PwMUcIazdqQ3svLiZbts4sKCkEI1oB+SJt+mP4kUKPwdSE3kwuubcmjA6xT8YKOrfWszEnLm/EnwQvIVarnfda2ptt3jrtrzixa86A+eMk8St8HZWYYHSwQOnYg0m4xwKoOFwq+ZRDv3+LZFm1Sf/pD9U87ZNZhRxlqyq4lnTIgJ4dWkBkeirYBN3aGHuHo67zonMFntyKvUA484n05HHX/nYhuw+JgQHv2kqPj++ulcJBZetKfDQnabH+Bsgi+6Or6EEUBX3d6sed1QNAjCbTtU1Rn8EF/EK7jlKl5k1pE=;miy1Nepu4oQe4m7fkWPK/g=="
+secured: "PBmJNKZMbxLItOPXZsN1lL9Y1jjCs87OJMCTs8HIO6B42Llt3exjFA4tun/XjVbjAeI9se8Kcxde2hjErsqyk+NSct5QqQi2AkPvOrkv3wimcqBlIgyase9FZeuSjRXZsP4ac1iSL7Lusym0QNQ3sZdVe8RxWswFDcpyzczNhbK0Lobm96nd3ZfXaclwKDjZkMUHNeRIJ2HHk/pYGPiD+MwLDnpMRIF6ZsgO/pgwh02G7HL3066WADc4y37dmNQCtlt2cT8TBPaCjFEYNCq1mm50ImYglNwuuimjCyRd1m9vfwCB/yDufTjquQl1bd9qDiBq3/TrQAoeFlr7chEOxZdyGtq4mJpfbyzuj7swfHM=;/Xp954Wed9m9AB0zIQfAuQ=="
 ---
 

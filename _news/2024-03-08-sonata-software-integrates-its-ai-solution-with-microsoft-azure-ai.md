@@ -29,7 +29,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 92
+    quality: 94
   - title: "After leaks, Microsoft confirms Surface, Windows AI event for March"
     excerpt: "Consumers may have their eyes out for new laptops and tablets, but it seems like Microsoft only has eyes for AI."
     publishedDateTime: 2024-03-07T14:43:00Z
@@ -164,6 +164,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 25
+  - title: "Hexaware Technologies Ltd.: Hexaware unveils tensai GPT, a secure AI web app using Microsoft Azure Open AI Service to advance internal innovation"
+    excerpt: "Hexaware, a global IT services and digital solutions leader, announced the launch of tensai GPT, an AI web app, in collaboration with Microsoft. Using"
+    publishedDateTime: 2024-03-12T09:44:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-03/61651147-hexaware-technologies-ltd-hexaware-unveils-tensai-gpt-a-secure-ai-web-app-using-microsoft-azure-open-ai-service-to-advance-internal-innovation-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 12
 
 secured: "hfD9kpl5PLPf53I2DI07pYVxEKbGZRAmb8FuSOZtecxSr+pPiHdu7Uk2e9/PaNJyxjncNpAXQDApuNAj4+Q/YmtYLrtdSbCf0b6o/Zbn060FPNJXsFamnEHL2SvdqUaQCVNHa3fY8rsbKYWwnn7Gz6X3n0BiRKXAKblCMdDCyrjrxfbLpB+SAndZoABT5PdhJ5i4oepiWl3JbI/9vkIvDTwkOghmcoOCxe4q9Bq1iiijM5JqcF9WOReXRujPDOHSlaVTPBQbNmNqLJWaU/MMpqX3n6SrADLhXEl1DPGU24Q14ax09BDJTuPNin+DHZy95A+h1I9+ClMipYmwigBhIjcl2uNdqcB8jvuTab1+dzQu5woGFRaeJiTWNXLQNdin3uRZpoyDE0iWb7xfjWnKw5OSaabmtX1a19gdIsTikTHXO6XGN28S6VeGsREg8gSpZvvLfDAAIzs2sJ21ut3jtXbTv13rTeePhMCiPRTLfH1UvPMFla2GDgFAk1seH3itE7BFaYNIXBezD6TubwwaDA==;oCLH8YjcR81jekBYIH1yYg=="
 ---

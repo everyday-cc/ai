@@ -6,8 +6,8 @@ publishedDateTime: 2024-03-07T14:30:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization-1033142131"
 webUrl: "https://markets.businessinsider.com/news/stocks/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization-1033142131"
 type: article
-quality: 92
-heat: 222
+quality: 94
+heat: 234
 published: true
 
 provider:
@@ -22,6 +22,7 @@ topics:
   - Microsoft AI
   - AI
   - Machine Learning
+  - AI in Finance
 
 related:
   - title: "Sonata Software integrates its AI solution with Microsoft Azure AI"
@@ -169,6 +170,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 25
+  - title: "Hexaware Technologies Ltd.: Hexaware unveils tensai GPT, a secure AI web app using Microsoft Azure Open AI Service to advance internal innovation"
+    excerpt: "Hexaware, a global IT services and digital solutions leader, announced the launch of tensai GPT, an AI web app, in collaboration with Microsoft. Using"
+    publishedDateTime: 2024-03-12T09:44:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-03/61651147-hexaware-technologies-ltd-hexaware-unveils-tensai-gpt-a-secure-ai-web-app-using-microsoft-azure-open-ai-service-to-advance-internal-innovation-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 12
 
 secured: "sQ/3xEZ+vbIe8om5PBLLJ023yKRZ3bHvAjnpYPMcC9M4pVKgnZHCyUoRZgQ615IR/4fMXR5yYvTCf3f6H6pZePUUUw7PEqP8wpZY9b4E/3+hFzidmlCBgX53bBxDkqGdi9e1/9qIvOK7hWyqh46Ku/J/RiUKkZ6aHSN1ixT/s1aiowZzJyNlrWLm/CqINLlkoWrSMY6jV7Nh8J9x1YR0YfNxSu/05LDQ8KDI2xgnrCsnJ8Xk7VxYHZ4YOopKzguqJXIIL8aht51dY/esetSmymKM5wnxqDlaKLgmvZJeiQSra280DSIKSzt2C9mRClb0abSCnA4YZ242lJ7Yz5J7535YTWmQ66DLV4jMvZGnfok=;YABF7aTfFOkw8MjY9v2W3g=="
 ---

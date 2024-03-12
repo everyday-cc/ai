@@ -28,20 +28,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "A World Divided Over Artificial Intelligence"
-    excerpt: "In November 2023, a number of countries issued a joint communique promising strong international cooperation in reckoning with the challenges of artificial intelligence. Startlingly for states often at odds on regulatory matters,"
-    publishedDateTime: 2024-03-11T04:21:00Z
-    webUrl: "https://www.foreignaffairs.com/united-states/world-divided-over-artificial-intelligence"
-    type: article
-    provider:
-      name: Foreign Affairs
-      domain: foreignaffairs.com
-    quality: 37
-    images:
-      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2024/03/07/RTSWGMSK.JPG?itok=wW0VNQi8"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "/lfTEkB+h1Uqvbl1X2HYM6RvQ622fXFwH9IJR68zvgTM/Dd9Eq/BOYVqfoQGSyt5j/Z/0GS50LbJHVmRO18gatKHu3pQwSLxRxjepOVGFA9E+6+EMsCeStcXrkem0QapJ7xjCEgILCuodprU3xFtmXZclvQ9mdPG/aXyQqYZgA3/1MrbvgTmASOfO8I2oEvB5EicjcvreHcEW5zWT0kKxQ790Qs1qpqXXn6Zs3bfE2i1qeOZWgwNqe8LPOTlXbjHTkhXarUxFxvtVIUfzyssQNsZ3hq2RIRLcZDIr9/1JUtMbJXhioXBH1k9Ae/BKyPz4f+KbLNPHb4BDCeElhXj1JVNPVwBLQhZzB2bC/RNN1s=;ozOnVRgIlaYE537q97Fjng=="
 ---

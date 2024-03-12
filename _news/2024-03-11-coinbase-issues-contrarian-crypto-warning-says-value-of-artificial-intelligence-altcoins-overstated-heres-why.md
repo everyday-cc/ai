@@ -42,6 +42,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Top AI crypto: These newly emerging AI tokens packed with AI technology are primed for 2024 growth"
+    excerpt: "OpenAI's release of Sora has sparked interest in emerging AI tokens like Scotty the AI, eTukTuk, and Nosana. Alongside heavyweight giants Fetch.ai and SingularityNET, these projects offer AI-powered solutions and growth potential for 2024."
+    publishedDateTime: 2024-03-12T08:03:00Z
+    webUrl: "https://economictimes.indiatimes.com/markets/top-ai-crypto-these-newly-emerging-ai-tokens-packed-with-ai-technology-are-primed-for-2024-growth/articleshow/108428137.cms"
+    ampWebUrl: "https://m.economictimes.com/markets/top-ai-crypto-these-newly-emerging-ai-tokens-packed-with-ai-technology-are-primed-for-2024-growth/amp_articleshow/108428137.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/markets/top-ai-crypto-these-newly-emerging-ai-tokens-packed-with-ai-technology-are-primed-for-2024-growth/amp_articleshow/108428137.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 45
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-2160815,msid-108428199/image1.jpg"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "F88Ma215YSiR0m+tI6/6pYk4N8qWDlH/IHzk5O0OoA/M6y1d2nbeWP3rvz2WOnVG9FvgUQwMLVuABSbCpXsyF2K89QzPdEP+MtGPAIRVUUaQN3NvPwX3HpTN1JstS2dCndHqR1kfYE1VJvgzNDDLoF4OWt1Ocd3pB8NBz/RFcaSDtEAzuAMU1FDT/oBf7aSCdq9BylXHE8UtoJ3vLe6nCztys4CBwjF+di6mvvRVCYZDr0WaIsVHs2ObRZ1d18Wgc+GCYldlW7RH/aT9Ftfgg2MViz4oSKIM7L82Xmu5EVx9I91qJr+y4iCTfVNoxp0A7tM9VnQhwyTuv9mVaQ4BAu6qDIWGHN2tdLCB/EuJ2RiHXXmkrkPBkEI8zNZ7Y8TmGK2vnTY6XI+aeqchK9MXOK9nUB6a56vGZACLXsCiwQv/5hLZvKcMWNUumOiheP+EwSQjjiATcQt6icNkwwPqIsIkcVlG/M2cqu9RATAMpx80ZUxN+/jidPKNeKz2mCrvmyMgfRPZDAD67bcKhN6kbw==;+Yq5oQSt9T84jAIN6lCnGw=="
 ---

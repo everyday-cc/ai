@@ -108,6 +108,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Hornets vs. Cavaliers March 25 Tickets & Start Time"
+    excerpt: "The Charlotte Hornets (16-49), on Monday, March 25, 2024 at Rocket Mortgage Fieldhouse, battle the Cleveland Cavaliers (41-24). The game starts at 7:00 PM ET on BSOH and BSSE. If you're looking to catch this game in person, head to Ticketmaster to purchase your tickets!"
+    publishedDateTime: 2024-03-12T09:18:00Z
+    webUrl: "https://www.live5news.com/sports/betting/2024/03/25/hornets-vs-cavaliers-buy-nba-tickets/"
+    type: article
+    provider:
+      name: Live 5 News
+      domain: live5news.com
+    quality: 22
+    images:
+      - url: "https://gray-wcsc-prod.cdn.arcpublishing.com/resizer/v2/LPTOQGDBGZJWNC5A6NLKZZPADU.jpg?auth=70d58ae110c9453a2bf9d806793300733e535251712fb078179823431b2352c9&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Texas vs. Kansas Big 12 Tournament Women's Basketball Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. The No. 2 seed Texas Longhorns (27-4 ... UAB AAC Tournament Women's Basketball Tickets & Start Time UT Rio Grande Valley vs. Southern Utah March 9 Women's Basketball Tickets & Start Time Abilene Christian vs."
     publishedDateTime: 2024-03-09T18:07:00Z

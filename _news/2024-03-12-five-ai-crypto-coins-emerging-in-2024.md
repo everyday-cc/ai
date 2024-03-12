@@ -9,8 +9,8 @@ ampWebUrl: "https://timesofindia.indiatimes.com/business/india-business/best-ai-
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/business/india-business/best-ai-cryptos/amp_articleshow/108424368.cms"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Indiatimes
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Top AI crypto: These newly emerging AI tokens packed with AI technology are primed for 2024 growth"
+    excerpt: "OpenAI's release of Sora has sparked interest in emerging AI tokens like Scotty the AI, eTukTuk, and Nosana. Alongside heavyweight giants Fetch.ai and SingularityNET, these projects offer AI-powered solutions and growth potential for 2024."
+    publishedDateTime: 2024-03-12T08:03:00Z
+    webUrl: "https://economictimes.indiatimes.com/markets/top-ai-crypto-these-newly-emerging-ai-tokens-packed-with-ai-technology-are-primed-for-2024-growth/articleshow/108428137.cms"
+    ampWebUrl: "https://m.economictimes.com/markets/top-ai-crypto-these-newly-emerging-ai-tokens-packed-with-ai-technology-are-primed-for-2024-growth/amp_articleshow/108428137.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/markets/top-ai-crypto-these-newly-emerging-ai-tokens-packed-with-ai-technology-are-primed-for-2024-growth/amp_articleshow/108428137.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 45
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-2160815,msid-108428199/image1.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "Coinbase Issues ‘Contrarian’ Crypto Warning, Says Value of Artificial Intelligence Altcoins Overstated – Here’s Why"
     excerpt: "The biggest crypto exchange in the US is giving a warning in regards to the artificial intelligence (AI) narrative within the digital asset space."
     publishedDateTime: 2024-03-11T16:56:00Z

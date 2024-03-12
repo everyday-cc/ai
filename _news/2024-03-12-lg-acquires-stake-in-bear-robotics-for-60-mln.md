@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Bear Robotics, a robot waiter startup, just picked up $60M from LG"
+    excerpt: "LG Electronics may no longer be a household name in smartphones, but it still sees a big future in gadgets like robots. Today, the company confirmed a $60"
+    publishedDateTime: 2024-03-12T09:52:00Z
+    webUrl: "https://techcrunch.com/2024/03/12/bear-robotics-a-robot-waiter-startup-just-picked-up-60m-from-lg/"
+    ampWebUrl: "https://techcrunch.com/2024/03/12/bear-robotics-a-robot-waiter-startup-just-picked-up-60m-from-lg/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/bear-robotics-a-robot-waiter-startup-just-picked-up-60m-from-lg/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 119
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/08/Screen-Shot-2019-08-30-at-3.00.42-PM.png?resize=1200,927"
+        width: 1200
+        height: 927
+        isCached: true
   - title: "LG Electronics to Invest $60 Million in Bear Robotics"
     excerpt: "LG Electronics will invest $60 million in Silicon Valley startup Bear Robotics, stepping up its push for new growth engines. The South"
     publishedDateTime: 2024-03-12T05:20:00Z
@@ -64,6 +80,20 @@ related:
       - url: "https://img9.yna.co.kr/etc/inner/EN/2024/03/12/AEN20240312004600320_01_i_P4.jpg"
         width: 1200
         height: 857
+        isCached: true
+  - title: "LG invests $60 million in US startup Bear Robotics"
+    excerpt: "LG Electronics said on Tuesday it has made a $60 million strategic investment in Silicon Valley-based startup Bear Robotics in a move to strengthen its business capabilities in the booming"
+    publishedDateTime: 2024-03-12T09:18:00Z
+    webUrl: "https://www.thehansindia.com/business/lg-invests-60-million-in-us-startup-bear-robotics-864378"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 54
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2024/03/12/1429616-lg.jpg"
+        width: 1200
+        height: 720
         isCached: true
 
 secured: "Kkl/dOajEmaWTZp9XT47/cA2SNB44pbJb41WodWkSS7r2fbC5/H7+gBQutKJWWK5QBkPmEJGHtHYqx8dmvIPg6Kp8WtZrMa8m9+LiGHw9vggP8BCR2klU45Qnegu17AMZozTBYKLO5RKJ1ZghRq8E6CpoiOHOspuegW1T/voWGHp0jR+7e0AO72NVXBjJZ02+F/RSVprlJDC0/4zpWLGwZbgqe3Ys9c4K9YCAXnTAKhcT1j9w70FP0VhY1Q6hd0uWlJPNJicOq0n3sDvGGib7P/DZ5heE1RGmzchDSraiM7R7F/ZaL4NHKhYFSlCms/pK3iU2bH6aOwOViSZTAnmWbUFujyk5wJCHH+bo5/oSRM=;47IK1WEknXcK7y4rIGlszg=="

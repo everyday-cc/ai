@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Nicholls vs. SE Louisiana Southland Tournament Women's Basketball Tickets & Start Time"
+    excerpt: "Preview the Southland Tournament Nicholls Colonels vs. SE Louisiana Lions women's basketball game with ticket info, start time, stats, odds and TV channel."
+    publishedDateTime: 2024-03-12T09:04:00Z
+    webUrl: "https://www.kplctv.com/sports/betting/2024/03/12/nicholls-vs-se-louisiana-buy-southland-tournament-womens-college-basketball-tickets/"
+    type: article
+    provider:
+      name: KPLC
+      domain: kplctv.com
+    quality: 14
+    images:
+      - url: "https://gray-kplc-prod.cdn.arcpublishing.com/resizer/v2/VW2D2SOCIZOPPB4UIM5NNOUSWE.jpg?auth=0946f06ad696e1d7552ec930a88498d501eb36bc753ae22452bfa5a5a5ce9715&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Furman vs. Samford SoCon Tournament Tickets & Start Time"
     excerpt: "Preview the SoCon Tournament Furman Paladins vs. Samford Bulldogs game with ticket info, start time, stats, odds and TV channel."
     publishedDateTime: 2024-03-10T13:22:00Z

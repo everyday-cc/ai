@@ -18,15 +18,24 @@ topics:
   - AI
 
 related:
-  - title: "The Future Of Financial Oversight: AI's Pivotal Role In Monitoring, Compliance And Fraud Prevention"
-    excerpt: "The ongoing development and adoption of AI in financial systems is having a transformative effect on the intricacies of regulation and efforts to combat money laundering."
-    publishedDateTime: 2024-03-08T19:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/08/the-future-of-financial-oversight-ais-pivotal-role-in-monitoring-compliance-and-fraud-prevention/"
+  - title: "Regulate Frontier AI to Avoid Misinformation"
+    excerpt: "There is no progress without public trust in artificial intelligence."
+    publishedDateTime: 2024-03-08T14:52:00Z
+    webUrl: "https://www.wsj.com/articles/regulate-frontier-ai-to-avoid-misinformation-tech-public-trust-486e8bdc"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 33
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 47
+  - title: "AI images of Trump with Black voters are just the latest in racist election misinformation"
+    excerpt: "Trump’s supporters have also begun courting this group by making dozens of artificial intelligence (AI) generated images of him surrounded by adoring Black people. Though some of the realistic-looking images contain the tell-tale signs of oddly rendered hands (showing missing,"
+    publishedDateTime: 2024-03-08T13:07:00Z
+    webUrl: "https://www.lgbtqnation.com/2024/03/ai-images-of-trump-with-black-voters-are-just-the-latest-in-racist-election-misinformation/"
+    type: article
+    provider:
+      name: LGBTQ Nation
+      domain: lgbtqnation.com
+    quality: 9
 
 secured: "ZLU7Lvb/IyURmgLEvZZSecFg8mmbGvHCfj8A7FLzk/2cdA0IN/lxJaaU9CPv2xh1pr/yoU0nrDlJsOnsPYRjTN5Ytkx1wSRHJFndlM9wGIo92WAx7XvbAhjixdbxP7a5W1Kby183D7FKtuaTQ0ZXY7JuXFi4nTQyVqpvHekLwP0Ygd5DLQX/mbTEJ+ZpFoVhrOfwzpgFSPhXFXqgSasyzC1USmWjdHxtqKPYW5FsQHAWOWQV6ZSvLOBYQ+IuCJQxwwF+GC3EVdmf5IH7d1W+L8LfqqN0W7vKGvjDB+d+3wttAnTnhQd3EItGZdLLGq3XlgiF2xm/oJGHYgzWqUO8YitZ6HpKiLt3PyLB4xkyyk3nmKkUoxQ85IaIaP6n2nDUW/Azsel2iTJ+Tjzls1NjdPgvZpAWO4DJzixsK44+7Zglc7x5t77g47spuusW7DZGQtUyyqDUlRPLOGaW2NV5gOj+Ez9GcP+GiYJEeGKKWP0VRLHWoCJJTVOdnXlDrHYntZVe1q1wkWuRSrz+pTmF4A==;zf/TxFnKPKvrejaebNSYBw=="
 ---

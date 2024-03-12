@@ -28,7 +28,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 92
+    quality: 94
   - title: "Sonata Software integrates its AI solution with Microsoft Azure AI"
     excerpt: "Sonata Software has announced the integration of its Harmoni.AI with Microsoft Azure AI service. Sonata’s AI offering provides industry solutions, service delivery platforms, and accelerators. Using Microsoft Azure AI services, Sonata Harmoni.AI will ..."
     publishedDateTime: 2024-03-08T06:14:00Z
@@ -165,6 +165,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 25
+  - title: "Hexaware Technologies Ltd.: Hexaware unveils tensai GPT, a secure AI web app using Microsoft Azure Open AI Service to advance internal innovation"
+    excerpt: "Hexaware, a global IT services and digital solutions leader, announced the launch of tensai GPT, an AI web app, in collaboration with Microsoft. Using"
+    publishedDateTime: 2024-03-12T09:44:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-03/61651147-hexaware-technologies-ltd-hexaware-unveils-tensai-gpt-a-secure-ai-web-app-using-microsoft-azure-open-ai-service-to-advance-internal-innovation-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 12
 
 secured: "dilr9pIlJqAbswq7zzlOutk0KGz9QaGJ/WoUg0c7KqOqY8WwcaSYzpjbPUVq9Qa+a4KgOjeTxOKg2lDgXcA3aN5+wFx5kmIc9OBjUHdXzDZIQCxBy/xqjtTZKg4KGwfDKS9s+0bdp2DymoJt/Ud+ES89u+GljuG3OaPZID8+VwHnWJHEjJ/xfqH7DRG0ZIaVDooAake6vStNP/b748zJuWPCaTZyeV2BX1IyK2+wuS0tu//cziQ7TApKGQ7cfuGMxCRz2QgwivDZQ5gX26nWbkPbC/KACJWqHck2wR8WW496Wz8wRnSfJiHzoc8qnpcBiyc/oplbpFp2/wrn2Dfl5XVhCBk+qOCYwVHpkRC/wJg=;1btT48eQh0VhB1fc1W1wkg=="
 ---

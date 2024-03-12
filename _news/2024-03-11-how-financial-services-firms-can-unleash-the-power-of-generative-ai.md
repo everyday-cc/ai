@@ -40,6 +40,22 @@ related:
       name: IBM
       domain: ibm.com
     quality: 99
+  - title: "Why generative AI systems are stupid"
+    excerpt: "Generative AI systems for business are alarmingly inaccurate. Data needs some serious attention to avoid wrong info, bias, or legal trouble."
+    publishedDateTime: 2024-03-12T09:10:00Z
+    webUrl: "https://www.infoworld.com/article/3714362/why-your-genai-systems-are-stupid.html"
+    ampWebUrl: "https://www.infoworld.com/article/3714362/why-your-genai-systems-are-stupid.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3714362/why-your-genai-systems-are-stupid.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
+    images:
+      - url: "https://images.idgesg.net/images/article/2024/03/shutterstock_1951501180-100962448-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Is Using Browbeating Or Bullying Prompts In Generative AI A Worthy Prompt Engineering Technique Or Just A Bunch Of Hot Air"
     excerpt: "Do prompts that browbeat or bully generative AI produce better results? This is a topic of heated debate in the field of prompt engineering. Here's the details."
     publishedDateTime: 2024-03-10T11:30:00Z
