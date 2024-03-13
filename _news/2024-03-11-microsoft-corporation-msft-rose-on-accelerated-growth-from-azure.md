@@ -45,6 +45,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 57
+  - title: "US pushes to weaken international human rights treaty on use of AI software"
+    excerpt: "The Council of Europe, of which the US is an observer, is drafting a treaty that will call on its member states to ensure that AI systems respect international obligations to protect human rights."
+    publishedDateTime: 2024-03-12T17:44:00Z
+    webUrl: "https://www.computerworld.com/article/3714289/us-pushes-to-weaken-international-human-rights-treaty-on-use-of-ai-software.html"
+    ampWebUrl: "https://www.computerworld.com/article/3714289/us-pushes-to-weaken-international-human-rights-treaty-on-use-of-ai-software.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3714289/us-pushes-to-weaken-international-human-rights-treaty-on-use-of-ai-software.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 55
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/03/13/16/sw-blog-image-getty-1170x600-2-100938438-large.jpg?auto=webp&quality=85,70"
+        width: 1199
+        height: 615
+        isCached: true
   - title: "Better Artificial Intelligence (AI) Stock: Nvidia vs. Microsoft"
     excerpt: "Nvidia and Microsoft are both promising plays on the AI market, but Nvidia's simpler business model, higher growth rates, and more reasonable valuations make it the better buy. Nvidia's investors should keep an eye on the competitive and regulatory headwinds, but it could be years before any of those challenges limit its growth."
     publishedDateTime: 2024-03-10T13:59:00Z

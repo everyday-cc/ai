@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2024-03-recognition-mirror-spurred.am
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2024-03-recognition-mirror-spurred.amp"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Profit or research? Google may not shake all claims over facial recognition data theft"
-    excerpt: "A judge indicated she will allow plaintiffs some time for discovery to back up their claims that Google used their data for profit, not just research."
-    publishedDateTime: 2024-03-07T22:12:00Z
-    webUrl: "https://www.courthousenews.com/google-unlikely-to-shake-all-claims-in-facial-recognition-data-theft-lawsuit/"
+  - title: "First Recognition of Self in the Mirror Is Spurred by Touch"
+    excerpt: "Jeffrey Lockman of The University of Texas at Austin with colleagues at the University of Houston and Tulane discovered how touch and self-recognition relate."
+    publishedDateTime: 2024-03-12T23:27:00Z
+    webUrl: "https://cns.utexas.edu/news/research/first-recognition-self-mirror-spurred-touch"
     type: article
     provider:
-      name: Courthouse News Service
-      domain: courthousenews.com
-    quality: 46
+      name: Journalism in the Americas
+      domain: utexas.edu
+    quality: 24
     images:
-      - url: "https://imagedelivery.net/wKQ19LTSBT0ARz08tkssqQ/www.courthousenews.com/2021/06/GoogleCampusMountainView9-24-19AP.jpg/w=2500"
-        width: 2500
-        height: 1667
+      - url: "https://cns.utexas.edu/sites/default/files/uploads/images/default/baby_feature-16-9.jpeg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "fUb2qpFSS3xO6mzemCglpgMgjvZM4btCyIXzOB+yeGIv45uvtrEA49B2noociCeHqZi44bWis49CToXgQUD2T48qTpf3LtCZjS/iIOb4xeXdYFv4GrvSz+ayZM0b2Lae3qGsZmkB3a2qTazU7noOeJlIsPjPPe/l0dbvJKymzNNr04QiXFobhl72vAqUbgxEovFbYv0dUfK2M2D6h6BRghc8kw1XhaT4uZCWWulsxWEoD2Wmk+PueNFqXhFSzE5mJy/PM+3OxktT84BGpf8FpLx21sR9iVJcsAtm87yIYLLsfBY93RSpli4jYyL/FCHKe1iP0koBQNv0/Y1hNZyIZ1U34Xdkv982yAJbbQu2q9Y=;Dk7il8FCU2qbZUdjj1Wzjw=="

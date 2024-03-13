@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/microsoft-insiders-worry-company-h
 webUrl: "https://www.businessinsider.com/microsoft-insiders-worry-company-has-become-just-it-for-openai-2024-3"
 type: article
 quality: 84
-heat: 104
+heat: 105
 published: true
 
 provider:

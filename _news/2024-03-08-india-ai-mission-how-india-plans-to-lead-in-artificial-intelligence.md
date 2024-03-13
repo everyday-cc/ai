@@ -44,20 +44,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 61
-  - title: "India Spending Billions on AI"
-    excerpt: "for India’s AI ecosystem over the next five years. The IndiaAI Mission includes standing up a 10,000-GPU AI supercomputer (no system details were released) to support such initiatives as: The IndiaAI Innovation Centre (IAIC), an academic institution ..."
-    publishedDateTime: 2024-03-08T00:00:00Z
-    webUrl: "https://insidehpc.com/2024/03/india-spending-billions-on-ai/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 39
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2024/01/generic-AI-shutterstock-2-1-2198551419.jpg"
-        width: 500
-        height: 250
-        isCached: true
 
 secured: "x3TnTqexDcE3soVkcFo/jN0NxII9mrX7DY13q8j4zPyShiyN4Zb0tdZDxlKR7UHjxQyZVVEV9anm6yIhE8SzevDEuw56jmIlhzsAqkPtNTqB0bQnrVv20R0SmtQc+nTANQik9X/+guHo9gCyKK68x0tJS+W+HHdrhVBewhk71aGuTZF2OAsD1fIo7QQIkWjqNR3fsclTYbZOQ0lfbZ4FmJRAw3TaweF4RsBjb93A0MHXxT0/FI2BJiMfPz0+uxizTVu2sdBanqzsXTAx0zM7I/WQGiGoubqQ9Doe89/kCAKgpNNSR0eGYzsq7106ma/JMPR4lfSClDyHNWZk9hu/YVX6GbMG/FCjbcRTyyn9SJ0HKqtM1w6yCApUL6MC+3SN2RZ1h7r9uWDtGedXiWRThSAmFeSh/TQNDVXtCz8k3ykY5UnBFNvScPsrlpm8+S1voTYt8/hNuEQgS4vVz1xuzd4CpgMifCVlbrx5xvIoWZhqYtu+SQ6WI8Z52K5pLS9W4umD1AgQZh6Y+bsIynFRsQ==;tOUvRRdGYPYaeEoS4GS/aw=="
 ---

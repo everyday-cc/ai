@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "No Exceptions for AI: The FTC Hosts a Tech Summit to Discuss the Impacts of AI on Consumers and Competition"
-    excerpt: "According to the panelists, one primary obstacle to AI marketplace competition is the high concentration of a small number of established companies that create and support the silicon and cloud layers (e.g., chip designers, manufacturers, and lithographers ..."
-    publishedDateTime: 2024-03-08T00:00:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/no-exceptions-for-ai-the-ftc-hosts-a-7745179/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 21
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.13283_5741.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "U.S. Consumers Strongly Support Government Regulation on AI Content: HarrisX Survey"
     excerpt: "Software-generated video, audio and photos are a key concern for respondents, as is protection from tech displacing jobs."
     publishedDateTime: 2024-03-08T13:00:00Z

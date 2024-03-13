@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-01-06-ces-2024-eys3ds-new-edge-ai-chips-transforming-computer-vision-for-robotics.md",
+      "title": "CES 2024: eYs3D's New Edge AI Chips Transforming Computer Vision for Robotics",
+      "excerpt": "Set to launch its eCV series SoCs later in 2024, eYs3D is embracing its concept of \"AI+\" and expanding its offering from USB-based controllers to full-fledged, edge-based SoCs. Built around on-core CPUs with ARM-based Cortex M and Cortex A architectures, the series provides top efficiency and next-level processing power.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2024/01/05/9941319.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2024/01/05/9941319.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/tmc/world.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-05T16:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2024-01-05-ces-2024-eys3ds-new-edge-ai-chips-transforming-computer-vision-for-robotics.md",
       "title": "CES 2024: eYs3D's New Edge AI Chips Transforming Computer Vision for Robotics",
       "excerpt": "and TAIPEI, Jan. 5, 2024 /PRNewswire/ -- Known as a leader in 3D sensing and computer vision semiconductors under Etron Technology, eYs3D Microelectronics Corp. is announcing ahead of CES 2024 ...",
@@ -1365,49 +1409,6 @@
         "Computer Vision",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-revolutionising-retail-the-power-of-ai-and-computer-vision.md",
-      "title": "Revolutionising Retail: The Power of AI and Computer Vision",
-      "excerpt": "By Iu Ayala, Founder and CEO of Gradient Insight Introduction: Beyond Buzzwords to Game-Changing Impact In the ever-evolving landscape of retail, the integration of artificial intelligence (AI) has transcended the realm of buzzwords to become a formidable game-changer.",
-      "sourceUrl": null,
-      "webUrl": "https://businessmondays.co.uk/revolutionising-retail-the-power-of-ai-and-computer-vision/",
-      "originalUrl": "https://businessmondays.co.uk/revolutionising-retail-the-power-of-ai-and-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.businessmondays.co.uk/wp-content/uploads/2023/12/pwxesdwrwde-scaled.jpg",
-          "width": 1068,
-          "height": 714,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T16:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "businessmondays",
-        "domain": "businessmondays.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

@@ -2,49 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2023-12-15-ai-machine-learning-to-lead-the-way-to-achieve-net-zero-experts.md",
-      "title": "AI, machine learning to lead the way to achieve Net Zero: Experts",
-      "excerpt": "At the event, Rupesh Umtol, co-founder and Director, Electro-Mech Consultants showcased a digital twin model creation concept called Btrlyf -- a culmination of AI/ML that analyses older buildings with respect to energy efficiency.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/cities/ahmedabad/ai-machine-learning-to-lead-the-way-to-achieve-net-zero-experts-9068876/",
-      "originalUrl": "https://indianexpress.com/article/cities/ahmedabad/ai-machine-learning-to-lead-the-way-to-achieve-net-zero-experts-9068876/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2023/12/ai_1200_gettyimages.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/cities/ahmedabad/ai-machine-learning-to-lead-the-way-to-achieve-net-zero-experts-9068876/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/ahmedabad/ai-machine-learning-to-lead-the-way-to-achieve-net-zero-experts-9068876/lite/",
-      "publishedDateTime": "2023-12-14T18:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-12-14-3-machine-learning-stocks-to-turn-10000-into-1-million-december-2023.md",
       "title": "3 Machine Learning Stocks to Turn $10,000 Into $1 Million: December 2023",
       "excerpt": "The post 3 Machine Learning Stocks to Turn $10,000 Into $1 Million: December 2023 appeared first on InvestorPlace.",
@@ -1277,6 +1234,49 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2023-12-05T11:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-05-deep-learning-and-machine-learning-prognostic-models-for-chronic-obstructive-pulmonary-disease.md",
+      "title": "Deep learning and machine learning prognostic models for chronic obstructive pulmonary disease",
+      "excerpt": "The quality and performance of deep learning and machine learning models for long-term chronic obstructive pulmonary disease.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20231205/Deep-learning-and-machine-learning-prognostic-models-for-chronic-obstructive-pulmonary-disease.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20231205/Deep-learning-and-machine-learning-prognostic-models-for-chronic-obstructive-pulmonary-disease.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_766219_17017687329829560.jpg",
+          "width": 2000,
+          "height": 1076,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-05T09:35:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "News Medical",

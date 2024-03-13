@@ -7,8 +7,8 @@ originalUrl: "https://www.scmp.com/news/china/science/article/3254793/chinese-re
 webUrl: "https://www.scmp.com/news/china/science/article/3254793/chinese-researchers-hope-create-real-ai-scientists-through-informed-machine-learning"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: scmp.com
@@ -23,20 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Former Google engineer charged with stealing AI trade secrets for Chinese startups"
-    excerpt: "as well as those chips’ software. Other records contained data about the graphics cards in the company’s AI infrastructure. Ding was also charged with stealing information about Google’s cluster management system. That’s a software platform ..."
-    publishedDateTime: 2024-03-07T22:44:00Z
-    webUrl: "https://siliconangle.com/2024/03/07/former-google-engineer-charged-stealing-ai-trade-secrets-chinese-startups/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 33
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/03/IMG_3819-800x533-1.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Chinese Researchers on the Brink of Developing 'Real AI Scientists' Capable of Conducting Experiments, Solving Scientific Problems"
     excerpt: "Chinese researchers are on the brink of pioneering a groundbreaking approach to developing 'AI scientists capable of conducting experiments and solving scientific problems. Recent advances in deep learning models have revolutionized scientific research ..."
     publishedDateTime: 2024-03-10T09:03:00Z

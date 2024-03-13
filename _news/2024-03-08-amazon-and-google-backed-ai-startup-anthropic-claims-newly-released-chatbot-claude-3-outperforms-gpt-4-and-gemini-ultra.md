@@ -261,20 +261,29 @@ related:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
     quality: 34
-  - title: "Google confirms Gemini Nano will not come to the Pixel 8"
-    excerpt: "Google has confirmed that the Pixel 8 will not get Gemini Nano, which the more powerful Pixel 8 Pro already has"
-    publishedDateTime: 2024-03-07T22:05:00Z
-    webUrl: "https://www.androidpolice.com/gemini-nano-not-coming-pixel-8/"
+  - title: "Google Gemini bugs enable prompt leaks, injection via Workspace plugin"
+    excerpt: "Google’s Gemini large language model (LLM) is vulnerable to leaking system instructions and indirect prompt injection attacks via the Gemini Advanced Google Workspace plugin, researchers say."
+    publishedDateTime: 2024-03-12T21:10:00Z
+    webUrl: "https://www.scmagazine.com/news/google-gemini-bugs-enable-prompt-leaks-injection-via-workspace-plugin"
     type: article
     provider:
-      name: Android Police
-      domain: androidpolice.com
+      name: SC Media
+      domain: scmagazine.com
     quality: 24
     images:
-      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/12/google-gemini-1-ap-hero.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://files.scmagazine.com/wp-content/uploads/2024/03/AdobeStock_689923493_Editorial_Use_Only.jpg"
+        width: 800
+        height: 533
         isCached: true
+  - title: "Google's Gemini AI chatbot restricted from election speak"
+    excerpt: "Google restricts AI chatbot Gemini from answering questions about the global elections set to happen this year."
+    publishedDateTime: 2024-03-12T19:32:00Z
+    webUrl: "https://cybernews.com/news/google-gemini-ai-chatbot-election-restrictions/"
+    type: article
+    provider:
+      name: cybernews
+      domain: cybernews.com
+    quality: 19
 
 secured: "D5UssJQ/nrRtj2jpC1YkuFRMcku9O2iQxwhXKv04tIuI7Aq4B4IL39EpATgDt9uAkF4xfJdHnKs+xpi2oFgV+HSSMGDgYmoayUtFpSzpWnwopYCUCQxFs4aJ9gC6C0OSgH3ZtZTIArdygsU/70aoDca2kqz29bHCfboxy28R3R14tODir2o/2wqi3RjWBxjkwvTiCpEYTrH0lcDf7BJdKKJp1fEhLLGv+YpbPy5fkzikSLHZ9a5AhRWDJyK2qMxKfELf0ClPzbz3/Gk/OfPSvnO34h3kT+3iWfQNDxuZGL8Icie+BFaehsGeAeUXeTj8UL62nAPyjC1iyDNWUsUhwuNHL7Z7j9d7N+CMnPpaO/zPhYwF8xilomiZrQg9nma0f6gNmxKI59jJphKQcLkINPSSL9+igTuDrpBw5wfL9Ze2VBhT1ibDNXQpV+XAB6xqVGCzclRGtDNSLLEdvnabhgdnUpv+291Wg2eD86FuBtw+EO+9Qw2FfBMmDso+K/PHrk7gup0htESHA9bPYZaVig==;zSRmvMwT1+m2yCdxE23EoQ=="
 ---

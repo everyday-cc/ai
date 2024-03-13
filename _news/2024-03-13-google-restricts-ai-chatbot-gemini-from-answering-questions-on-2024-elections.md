@@ -251,20 +251,29 @@ related:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
     quality: 34
-  - title: "Google confirms Gemini Nano will not come to the Pixel 8"
-    excerpt: "Google has confirmed that the Pixel 8 will not get Gemini Nano, which the more powerful Pixel 8 Pro already has"
-    publishedDateTime: 2024-03-07T22:05:00Z
-    webUrl: "https://www.androidpolice.com/gemini-nano-not-coming-pixel-8/"
+  - title: "Google Gemini bugs enable prompt leaks, injection via Workspace plugin"
+    excerpt: "Google’s Gemini large language model (LLM) is vulnerable to leaking system instructions and indirect prompt injection attacks via the Gemini Advanced Google Workspace plugin, researchers say."
+    publishedDateTime: 2024-03-12T21:10:00Z
+    webUrl: "https://www.scmagazine.com/news/google-gemini-bugs-enable-prompt-leaks-injection-via-workspace-plugin"
     type: article
     provider:
-      name: Android Police
-      domain: androidpolice.com
+      name: SC Media
+      domain: scmagazine.com
     quality: 24
     images:
-      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/12/google-gemini-1-ap-hero.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://files.scmagazine.com/wp-content/uploads/2024/03/AdobeStock_689923493_Editorial_Use_Only.jpg"
+        width: 800
+        height: 533
         isCached: true
+  - title: "Google's Gemini AI chatbot restricted from election speak"
+    excerpt: "Google restricts AI chatbot Gemini from answering questions about the global elections set to happen this year."
+    publishedDateTime: 2024-03-12T19:32:00Z
+    webUrl: "https://cybernews.com/news/google-gemini-ai-chatbot-election-restrictions/"
+    type: article
+    provider:
+      name: cybernews
+      domain: cybernews.com
+    quality: 19
   - title: "Amazon and Google-backed AI startup Anthropic claims newly released chatbot Claude 3 outperforms GPT-4 and Gemini Ultra"
     excerpt: "Amazon and Google-backed AI startup Anthropic claims newly released chatbot Claude 3 outperforms GPT-4 and Gemini Ultra"
     publishedDateTime: 2024-03-08T06:31:00Z
@@ -280,6 +289,6 @@ related:
         height: 427
         isCached: true
 
-secured: "yNEPCejGg5FHHfyN1wkkwMpuiep2r7O6L01R0sNVOJzeWpH0eWEV6zP6qCcbIbtGNAQ9JqouAgXLQEs+iZJyBv7UoWJW8ikPJ96kTHATOhWyQhNYw23+XjdsSaE/sHsSlXqrYblc0QJYqHnrkJNpAmHXcW+mfFolps8qM6ZoxHILnHu92oYVtDLfbrBLzqSp0Qf/vSMwFiYYzbON63hRr28Fs22Vvz6z8xV9KSiIoIidNPWW3aoVg2bye+1j2VCj80+7I+GDvRN6CbtQF1csiBW56v8XmoSEozlTxIeuKaV73U9VCaaUoJfqF5pLP3B1kDRQfLhyBTxBhCUta8Vw3H/davEnhpMROkC+HlEOzmY=;ovPhUEagA05O4xwBdWtBiA=="
+secured: "cJFNVz8jjbASI9IXlmxGEbNXaAq8RJN2lJNRlDoxxx9ofLUjtiU5UZ/lxZ/ffqKabI7zQg0jyom1J4o8uzll7hEMHq25R3m+5aYYx2tsv4tYOOs8hSYo+/yJNO2z0z/kivlK56SB+M/U1g1kNbKxUPuack5EtHl+2JOU0gcdNrTwFAXNLGH3j5BB1LR2oTFwhN9WfGc4fE8xD1Sh2My8C/LIOd0xY0TLbyMk46CmgiZ3soYEXgr9x/teLyD1T25jUxknyQuvNYy0P9TBdEjVG0nbqgUfpjjzfjBfl6WiUc+dHkiRXspjF8+2VuTUohQhs0AQ6juVem1wlFl0HITnBrsWtvZWM+cns6noJTPAMu9OgGuCzZfE92eRQ3OuvHWEahFyRX4PwqDtVuK7K97lcdv1mtkCDT/bvOlPyF4CHu6L2WJNarQ4SlKT5IG0NYjr/CDtuoCCOQDzB5SI5vTgbvapvW1jzRTwgRwv7C5oUFU7G7+ydHxVvHkD2gB1LQbl6C6niinOa+f4rBgihgUAZw==;uaFRN5buD5sfAwKcoRdWbw=="
 ---
 

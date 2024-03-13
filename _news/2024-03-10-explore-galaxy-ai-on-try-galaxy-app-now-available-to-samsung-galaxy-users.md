@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Samsung to use chipmaking tech favoured by SK Hynix as AI chip race heats up: sources"
+    excerpt: "SAMSUNG Electronics plans to use a chipmaking technology championed by rival SK Hynix, five sources said, as the world’s top memory chipmaker seeks to catch up in the race to produce high-end chips used to power artificial intelligence (AI)."
+    publishedDateTime: 2024-03-12T23:21:00Z
+    webUrl: "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/samsung-use-chipmaking-tech-favoured-sk-hynix-ai-chip-race-heats-sources"
+    type: article
+    provider:
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 47
+    images:
+      - url: "https://static1.businesstimes.com.sg/s3fs-public/styles/article_metatag/public/articles/2024/03/13/2024-01-10t004416z913214778rc2me5afbx32rtrmadp3tech-ces.jpg"
+        width: 880
+        height: 587
+        isCached: true
 
 secured: "tx39UeHp4RENbZtUFF8UpDuiSDek5QyAg0fJ8VasV7QFRqbotZXey8s68mfJG++aDdq3+Xme4FSHKwK8Ps5sZmdrEw3obe9CtuOJyziOHmg4wfBctbXsNuC69jjSKDNYqnBPXbSsE4iob/wWqAQiP8t1oyflWV6TpJUMn++pATCEcWP/xXXYv7i/IgkoCX5KIV6WA0LfDM2x7z1HYEYvmBhsT3OU8nHnWT/VOUXpvWKVPTV5WiB9BkVGmlghH6cF1r9mNr/VAAeWiqnN7fLI+ElQHE6QYijI2jaWJvpNIofrBNh0Wm/AoIOfLlQknvxdpnxyEv24pTzLclSCvLqt6locw+AAPPUyAPI3TKSWufI=;GAwm3Q2Og6+wFCd5jiucig=="
 ---

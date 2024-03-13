@@ -54,21 +54,21 @@
       ]
     },
     {
-      "path": "_news/2024-03-12-adani-qualcomm-ceo-meet-hints-at-future-collaboration-in-chip-ai-space.md",
-      "title": "Adani, Qualcomm CEO meet hints at future collaboration in chip, AI space",
-      "excerpt": "Adani group chairman Gautam Adani’s meeting with Qualcomm president and CEO Cristiano R Amon on Monday, fuelled speculation about the former trying to understand the semiconductor and artificial intelligence ... solutions for driverless cars, connected ...",
+      "path": "_news/2024-03-12-new-ai-and-5g-advancements-will-usher-in-the-era-of-edge-computing-on-smartphones-autonomous-cars-and-more.md",
+      "title": "New AI and 5G advancements will usher in the era of edge computing on smartphones, autonomous cars, and more",
+      "excerpt": "The edge-computing boom could reduce costs and the environmental impact of powering AI — and it's just getting started.",
       "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/digital-transformation-adani-qualcomm-ceo-meet-hints-at-future-collaboration-in-chip-ai-space-3422117/",
-      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-adani-qualcomm-ceo-meet-hints-at-future-collaboration-in-chip-ai-space-3422117/",
+      "webUrl": "https://www.businessinsider.com/ai-edge-computing-5g-cloud-artificial-intelligence-2024-3",
+      "originalUrl": "https://www.businessinsider.com/ai-edge-computing-5g-cloud-artificial-intelligence-2024-3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 70,
       "tags": null,
       "images": [
         {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2024/03/Untitled-design-2024-03-12T104852.547.jpg",
-          "width": 1200,
-          "height": 675,
+          "url": "https://i.insider.com/65ef131d90413ab8e1db559d?width=750&format=jpeg&auto=webp",
+          "width": 750,
+          "height": 500,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,14 +76,23 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-adani-qualcomm-ceo-meet-hints-at-future-collaboration-in-chip-ai-space-3422117/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-adani-qualcomm-ceo-meet-hints-at-future-collaboration-in-chip-ai-space-3422117/lite/",
-      "publishedDateTime": "2024-03-12T05:45:00Z",
+      "ampWebUrl": "https://www.businessinsider.com/ai-edge-computing-5g-cloud-artificial-intelligence-2024-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-edge-computing-5g-cloud-artificial-intelligence-2024-3?amp",
+      "publishedDateTime": "2024-03-11T20:41:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -93,8 +102,7 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI",
-        "AI Hardware"
+        "AI"
       ]
     },
     {

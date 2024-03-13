@@ -2,6 +2,99 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-03-08-ayushmann-khurrana-need-to-develop-certain-laws-related-to-artificial-intelligence.md",
+      "title": "Ayushmann Khurrana: 'Need to develop certain laws related to artificial intelligence'",
+      "excerpt": "Actor Ayushmann Khurrana on Thursday said while filmmaking and technology go hand-in-hand, there is a need to regulate the use of artificial intelligence (AI). Khurrana was speaking on the third day of FICCI Frames 2024 here at the session titled \"From ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraphindia.com/entertainment/ayushmann-khurrana-need-to-develop-certain-laws-related-to-artificial-intelligence/cid/2005506",
+      "originalUrl": "https://www.telegraphindia.com/entertainment/ayushmann-khurrana-need-to-develop-certain-laws-related-to-artificial-intelligence/cid/2005506",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.telegraphindia.com/telegraph/2023/Apr/1681115561_ayushmann-khurrana.jpeg",
+          "width": 900,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.telegraphindia.com/amp/entertainment/ayushmann-khurrana-need-to-develop-certain-laws-related-to-artificial-intelligence/cid/2005506",
+      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/entertainment/ayushmann-khurrana-need-to-develop-certain-laws-related-to-artificial-intelligence/cid/2005506",
+      "publishedDateTime": "2024-03-08T04:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Telegraph",
+        "domain": "telegraphindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-08-the-necessity-of-building-strong-data-ai-executive-leadership-for-an-ai-future.md",
+      "title": "The Necessity Of Building Strong Data & AI Executive Leadership For An AI Future",
+      "excerpt": "Much has been written recently about the impact that AI will have on global organizations — companies, governments, non-profits – and how organizations must prepare",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/randybean/2024/03/07/the-necessity-of-building-strong-data--ai-executive-leadership-for-an-ai-future/",
+      "originalUrl": "https://www.forbes.com/sites/randybean/2024/03/07/the-necessity-of-building-strong-data--ai-executive-leadership-for-an-ai-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ea2cfdacdb5dd5eb110ac0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-07T21:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-07-the-diversity-dividend-how-inclusive-businesses-gain-competitive-advantage.md",
       "title": "The diversity dividend: How inclusive businesses gain competitive advantage",
       "excerpt": "Companies with diverse workforces are better positioned to deliver truly customer-centric experiences to all consumers.\nThe post The diversity dividend: How inclusive businesses gain competitive advantage appeared first on IBM Blog.\n",
@@ -453,7 +546,8 @@
       "topics": [
         "Microsoft AI",
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI in Finance"
       ]
     },
     {
@@ -557,6 +651,40 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-airports-using-biometric-facial-recognition-in-california.md",
+      "title": "Airports using biometric facial recognition in California",
+      "excerpt": "The TSA's initial rollout covered 16 airports of various sizes across the country, including Baltimore; Boston; Dallas; Detroit; Orlando, Florida; Phoenix; Salt Lake City; San Jose, California; and Gulfport-Biloxi in Mississippi. States with busy international airports have continued to add the technology as the TSA's pilot expands.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theintelligencer.com/news/article/airports-using-biometric-facial-recognition-in-18709540.php",
+      "originalUrl": "https://www.theintelligencer.com/news/article/airports-using-biometric-facial-recognition-in-18709540.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-07T14:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Edwardsville Intelligencer",
+        "domain": "theintelligencer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -1031,143 +1159,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-former-google-engineer-arrested-for-alleged-theft-of-ai-trade-secrets-for-chinese-firms.md",
-      "title": "Former Google engineer arrested for alleged theft of AI trade secrets for Chinese firms",
-      "excerpt": "The trade secrets Ding allegedly copied contained \"detailed information about the architecture and functionality of GPU and TPU chips and systems ... at the cutting edge of machine learning and AI technology,\" according to the indictment.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/tech-policy/2024/03/former-google-engineer-arrested-for-alleged-theft-of-ai-trade-secrets-for-chinese-firms/",
-      "originalUrl": "https://arstechnica.com/tech-policy/2024/03/former-google-engineer-arrested-for-alleged-theft-of-ai-trade-secrets-for-chinese-firms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/google_datacenter_1-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-07T08:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-sahm-capital-showcases-latest-fintech-and-ai-solutions-at-leap-2024.md",
-      "title": "Sahm Capital Showcases latest Fintech and AI Solutions at LEAP 2024",
-      "excerpt": "RIYADH, SAUDI ARABIA - Media OutReach Newswire - 7 March 2024 - Sahm Capital Financial Company, a leading brokerage firm licensed by the Saudi Capital Market Authority (No: 22251-25), showcased its all-in-one comprehensive trading solutions at",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/sahm-capital-showcases-latest-fintech-and-ai-solutions-leap-2024",
-      "originalUrl": "https://www.asiaone.com/business/sahm-capital-showcases-latest-fintech-and-ai-solutions-leap-2024",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Mar2024/464663-Screenshot-2024-01-18-225.jpeg?h=bde28bee&itok=Hgla7csP",
-          "width": 600,
-          "height": 316,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-07T07:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-elon-musk-sues-open-ai-and-co-founder-over-alleged-switch-to-for-profit.md",
-      "title": "Elon Musk sues Open AI and co-founder over alleged switch to for-profit",
-      "excerpt": "Elon Musk has sued the non-profit Open AI and it's co-founder Sam Altman over the company allegedly moving to a for-profit company. Open AI responded to the claims by releasing e-mails between the company and Musk.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/now/video/elon-musk-sues-open-ai-and-co-founder-over-alleged-switch-to-for-profit-205623365638",
-      "originalUrl": "https://www.nbcnews.com/now/video/elon-musk-sues-open-ai-and-co-founder-over-alleged-switch-to-for-profit-205623365638",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/mpx/2704722219/2024_03/1709782067597_now_topstory_musk_open_ai_240306_1920x1080-na2ess.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo205623365638",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo205623365638",
-      "publishedDateTime": "2024-03-07T03:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

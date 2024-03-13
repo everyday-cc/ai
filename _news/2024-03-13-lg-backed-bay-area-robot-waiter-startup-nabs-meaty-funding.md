@@ -118,6 +118,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "LG-backed Bay Area robot waiter startup nabs meaty plate of funding"
+    excerpt: "This Redwood City robot waiter startup just raised a sizable Series C round that was led by LG Electronics. It's one of many robotics startups in the Bay Area scooping up capital."
+    publishedDateTime: 2024-03-12T16:36:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2024/03/12/bear-robotics-raises-funding-lg-electronics.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
   - title: "Bear Robotics Lands $60 Million in Series C Funding from Tech Giant LG Electronics"
     excerpt: "Bear Robotics, a Silicon Valley trailblazer in service robotics and artificial intelligence solutions, today announced the completion of a $60 million Series C funding round. This round is exclusively led by LG Electronics,"
     publishedDateTime: 2024-03-12T13:25:00Z

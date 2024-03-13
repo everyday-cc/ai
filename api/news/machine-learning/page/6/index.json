@@ -2,58 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2024-01-08-the-year-of-hallucinating-artificial-intelligence-and-arrogant-human-ingenuity.md",
-      "title": "The Year Of Hallucinating Artificial Intelligence And Arrogant Human Ingenuity",
-      "excerpt": "The “godfathers” of the current dominant version of AI expressed in 2023 alarm, awe, and humility about what they helped create.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2024/01/07/the-year-of-hallucinating-artificial-intelligence-and-arrogant-human-ingenuity/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2024/01/07/the-year-of-hallucinating-artificial-intelligence-and-arrogant-human-ingenuity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/659ad27da9403a382e07d87f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2024/01/07/the-year-of-hallucinating-artificial-intelligence-and-arrogant-human-ingenuity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2024/01/07/the-year-of-hallucinating-artificial-intelligence-and-arrogant-human-ingenuity/amp/",
-      "publishedDateTime": "2024-01-07T16:37:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-01-05-neurons-and-networks-how-ai-networks-are-like-neurodiverse-brains.md",
       "title": "Neurons and networks: How AI networks are like neurodiverse brains",
       "excerpt": "Neural networks mimic the structure of a human brain. But as Connective3’s Tom Lanaway argues, not all human brains are ‘structured’ the same. So what happens when AI meets neurodiversity?",
@@ -1310,6 +1258,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-15-ai-machine-learning-to-lead-the-way-to-achieve-net-zero-experts.md",
+      "title": "AI, machine learning to lead the way to achieve Net Zero: Experts",
+      "excerpt": "At the event, Rupesh Umtol, co-founder and Director, Electro-Mech Consultants showcased a digital twin model creation concept called Btrlyf -- a culmination of AI/ML that analyses older buildings with respect to energy efficiency.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/cities/ahmedabad/ai-machine-learning-to-lead-the-way-to-achieve-net-zero-experts-9068876/",
+      "originalUrl": "https://indianexpress.com/article/cities/ahmedabad/ai-machine-learning-to-lead-the-way-to-achieve-net-zero-experts-9068876/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2023/12/ai_1200_gettyimages.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/cities/ahmedabad/ai-machine-learning-to-lead-the-way-to-achieve-net-zero-experts-9068876/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/ahmedabad/ai-machine-learning-to-lead-the-way-to-achieve-net-zero-experts-9068876/lite/",
+      "publishedDateTime": "2023-12-14T18:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

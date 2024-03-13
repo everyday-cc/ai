@@ -58,20 +58,6 @@ related:
         width: 1280
         height: 1139
         isCached: true
-  - title: "Intelligence service: how schools are managing AI"
-    excerpt: "Artificial intelligence is everywhere. Since ChatGPT launched in November 2022, it seems a day hasn't gone by without a shouty headline about robots taking over our jobs and schools. While much of the press has been predictably negative with lurid stories ..."
-    publishedDateTime: 2024-03-08T00:00:00Z
-    webUrl: "https://theweek.com/education/ai-in-schools-machine-learning"
-    type: article
-    provider:
-      name: THE WEEK
-      domain: theweek.com
-    quality: 39
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/jKrZd6NChLayZULiivHRj4-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Local tech company brings AI to TCC's career services program"
     excerpt: "He said a lot of WriteSea's research shows that many job seekers don't know what they excel at, so this AI will act as a coach and guide them to well-matched opportunities."
     publishedDateTime: 2024-03-11T18:07:00Z

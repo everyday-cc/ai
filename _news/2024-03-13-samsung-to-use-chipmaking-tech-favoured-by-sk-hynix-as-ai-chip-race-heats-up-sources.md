@@ -1,0 +1,59 @@
+---
+category: news
+title: "Samsung to use chipmaking tech favoured by SK Hynix as AI chip race heats up: sources"
+excerpt: "SAMSUNG Electronics plans to use a chipmaking technology championed by rival SK Hynix, five sources said, as the world’s top memory chipmaker seeks to catch up in the race to produce high-end chips used to power artificial intelligence (AI)."
+publishedDateTime: 2024-03-12T23:21:00Z
+originalUrl: "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/samsung-use-chipmaking-tech-favoured-sk-hynix-ai-chip-race-heats-sources"
+webUrl: "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/samsung-use-chipmaking-tech-favoured-sk-hynix-ai-chip-race-heats-sources"
+type: article
+quality: 47
+heat: -1
+published: false
+
+provider:
+  name: Business Times
+  domain: businesstimes.com.sg
+
+topics:
+  - AI Hardware
+  - AI
+
+images:
+  - url: "https://static1.businesstimes.com.sg/s3fs-public/styles/article_metatag/public/articles/2024/03/13/2024-01-10t004416z913214778rc2me5afbx32rtrmadp3tech-ces.jpg"
+    width: 880
+    height: 587
+    isCached: true
+
+related:
+  - title: "Samsung eyes opportunity in AI chip manufacturing market amid TSMC dominance"
+    excerpt: "As companies strive to establish themselves in the AI era, the South Korean industry is monitoring whether Samsung Electronics can capitalize on the AI chip orders."
+    publishedDateTime: 2024-03-11T04:27:00Z
+    webUrl: "https://www.digitimes.com/news/a20240311PD201/samsung-ai-chip-manufacturing-tsmc.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 51
+    images:
+      - url: "https://img.digitimes.com/newsshow/20240311pd201_files/1_2b.jpg"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "Explore Galaxy AI on Try Galaxy App, Now Available to Samsung Galaxy Users"
+    excerpt: "The era of mobile AI has come, and early adopters are already riding the waves of the latest innovation. To fuel the conversation, Samsung has made s"
+    publishedDateTime: 2024-03-10T07:24:00Z
+    webUrl: "https://menafn.com/1107956899/Explore-Galaxy-AI-on-Try-Galaxy-App-Now-Available-to-Samsung-Galaxy-Users"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/updates/pr/2024-03/10/pr_9143_d963e8e0_image_story.jpg"
+        width: 1440
+        height: 1080
+        isCached: true
+
+secured: "y2yYRu3SkcWi5yUBMFojQFcTG9a9MWJKVAqAc2nRXRbjx+Bzsmcz6LsNqgBBwMVBLUC6PgVJyaPCLOBOSVeBtjldUb122z+Z3RFwAxhQLym1x+YGMiUIir9/0Q/0zk1sICg29ZYHTgoWoK7ZkWCiWliJinD/7aiVpYfkE9pC5zemS+mQhfq4A0FMTJy0EWT62xVkU/WKLFb+TXnVorZA2AOkphaYZFqMGwmcYqPUcI5AWNomNixfBcvOt9LfjXypmBJLAZolX4UOI6sUvK0j6q2cCAhGozZ4yqI6tPaikseLc7Dh7kPBOlAF7QYVMYEAgd/zPuv9bf6M8EFY4eoig4z4eqv7oUWHcB4fqkEdsYo=;jBr56LY2ivpClDDk1kAjjA=="
+---
+

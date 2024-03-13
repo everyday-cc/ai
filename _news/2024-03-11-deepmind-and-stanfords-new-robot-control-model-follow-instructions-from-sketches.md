@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/automation/deepmind-and-stanfords-new-robo
 webUrl: "https://venturebeat.com/automation/deepmind-and-stanfords-new-robot-control-model-follow-instructions-from-sketches/"
 type: article
 quality: 81
-heat: 91
+heat: 92
 published: true
 
 provider:

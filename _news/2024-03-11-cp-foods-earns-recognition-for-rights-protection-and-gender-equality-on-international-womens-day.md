@@ -81,15 +81,22 @@ related:
         width: 506
         height: 337
         isCached: true
-  - title: "US government assailed for its facial recognition policies"
-    excerpt: "The critics say the departments of Justice and Homeland Security are hiding use cases behind overly broad disclosure requirements."
-    publishedDateTime: 2024-03-12T19:17:00Z
-    webUrl: "https://www.biometricupdate.com/202403/us-government-assailed-for-its-facial-recognition-policies"
+  - title: "Cortland Student Government Association overturns decision, grants Turning Point USA recognition as official club"
+    excerpt: "“The College’s recognition of Turning Point as an official club sends a huge message that universities cannot pick and choose which views are appropriate to allow on campus,” Legal Council at Alliance Defending Freedom Mathew Hoffmann said. “All students should have the freedom to express those views on campus.”"
+    publishedDateTime: 2024-03-12T21:40:00Z
+    webUrl: "https://www.wbng.com/2024/03/12/cortland-student-government-association-overturns-decision-grants-turning-point-usa-recognition-official-club/"
+    ampWebUrl: "https://www.wbng.com/2024/03/12/cortland-student-government-association-overturns-decision-grants-turning-point-usa-recognition-official-club/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wbng-com.cdn.ampproject.org/c/s/www.wbng.com/2024/03/12/cortland-student-government-association-overturns-decision-grants-turning-point-usa-recognition-official-club/?outputType=amp"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 34
+      name: wbng
+      domain: wbng.com
+    quality: 23
+    images:
+      - url: "https://gray-wbng-prod.cdn.arcpublishing.com/resizer/v2/4FZE4NBTTFABRGZEDZSID2TSHE.jpg?auth=eb605c2746bff1f46f7c919359f4df239dd51efb7aad13e7f5f5f706de6d3fa3&width=800&height=450&smart=true"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "8JqZmKjqOyKT8Y+2OmKQi+l3tXUNNFtlsyKnNxtBEPlAAtPKmuBg6WzA13aGX5jVdmQUT2Oh8WZ0m99oY50plbwLyxYEx8z0heiSVR9cjLVkE5ekQpRU0V+KfJUfGQUaxgbRroia83jeYXT2lKK6O3BzZFdjDE+hX5yWK5QLllr2ntWQUUkJ95EXGKR5FeukaPO+QSE53R9Y3OS8XTVDZ+zksG8EolSgk2qgRXD0Gu1kdXaGytgqz9/kRPMdAlJLPX1qxekzn+7RknWJzX5nyvTVPtbnJNQK5t45a/EpJx21dh36vIy+x7MWNjybd4qBrZwtNubqTSW00/R9W5bJVxnVyuksm6LVk91gB24pDYh5O5ua3khhXhO4afFjeqFO4H2+dWNiiGRf9iN3bCtpnrH04m+O9hNSkACsXbCF53mK0nRZxqxgoz0dXGDZ5jSXNYFVDFvdRtH7Bir0W5UiieION6ozTOWIeKTVLr5FrCbXVagUlZr7EOJmyKUnpsdr4zA8/o9Ynjg8dLvimlkC7g==;4GNAl6THYoskqqCGXsIzHQ=="
 ---

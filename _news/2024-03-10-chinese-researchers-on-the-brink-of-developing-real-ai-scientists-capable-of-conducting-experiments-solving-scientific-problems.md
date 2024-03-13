@@ -36,20 +36,6 @@ related:
       name: scmp.com
       domain: scmp.com
     quality: 54
-  - title: "Former Google engineer charged with stealing AI trade secrets for Chinese startups"
-    excerpt: "as well as those chips’ software. Other records contained data about the graphics cards in the company’s AI infrastructure. Ding was also charged with stealing information about Google’s cluster management system. That’s a software platform ..."
-    publishedDateTime: 2024-03-07T22:44:00Z
-    webUrl: "https://siliconangle.com/2024/03/07/former-google-engineer-charged-stealing-ai-trade-secrets-chinese-startups/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 33
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/03/IMG_3819-800x533-1.jpg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "lXpqh/rlJY8CTbV5yGRcE2PBa5jHve/hfwra1gsRvVDmRp8pGJpbxo4SZHB7xYzzv7r+5qYkbyH2JdBsShdb74n81GTJMQQ5/LN2ZRjoMHHL9/N+8sd+Ue5L8dbYY3JAlvio8Ug51ncYny8CdsqvCDmgExL/LU4qfKxsxX2MEeDZc4qI4yGvXUzk16Oz80e6b9JJXcd4kUz23gBEG9BpG18wCtw21WFmTd0hhve9zU+LhgjR+F7rDKRBb6LxBLWO2G5EPFG7M4eomwSMyNdHtGgOeELCMV186n4FRUoW6yJkZp0EZIR6n+09aDYQKIZr9m+ph4olD/PuLdpne/ZokgvgmQCD+YiaTpUAZPTsm4dgn6ud7BtHUp/iQsu556njKDfEzYhmo1mAIAnSA4Fe+Ftagm2TUS+4ZtGiOxag21ZypiKzSOUIcvx8gSArGgi9i4JOKRYV59NcuAzXrOU3tECrVsEJ6lb9Q+T7y/olPb0d5QZrzE2TUTiH0bSeKZEd8l3+ZLGDMy0EZFjnyzvqdA==;XHNdw/m6jhOMsJkwp5FGtw=="
 ---

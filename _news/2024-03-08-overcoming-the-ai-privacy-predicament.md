@@ -155,15 +155,6 @@ related:
         width: 2000
         height: 1500
         isCached: true
-  - title: "First-in-the-Nation Artificial Intelligence Framework for District Leaders"
-    excerpt: "The ILO Group this week announced the release of its Framework for Implementing Artificial Intelligence in K-12 Education–a first-of-its-kind AI framework for school district and state education leaders–providing them with the tools, resources ..."
-    publishedDateTime: 2024-03-08T00:00:00Z
-    webUrl: "https://www.eschoolnews.com/uncategorized/2024/03/08/ai-for-district-leaders/"
-    type: article
-    provider:
-      name: eSchool News
-      domain: eschoolnews.com
-    quality: 15
 
 secured: "yXOW7OoPYakEvhFIGdMGxLJVwG7Gckjy4i2/AIhAH/nTb7fsLOUWpWsWcqiknZWkSPVyAR7P+eYVyICqLPHfDsjPqlznp+whO99WEf+HlkHAAr9xatC3l8X/kZFjXmqm9nMSR7juaYkmfGJXJ8+Lng4/3wmMTHhcwK4Pms3yv/6nEPNx8f0yUjIYYUtiCNN+M3h9XgLZm0HeVJIjyA+ABFGTeYNs7xkNfqpofHCgIIOISTVz6NrlZoC+PTOuvU+D1OR9QtxNaqdW8sM5zTWzbbquVdiciu+5Yv+eKxZji7h2dMPYZBNbsB6bKoNy8j7/HNjrMtK41aSZ8BrkaO4bLwLB+uo0FOgxiLSJMh6S1t7V1BIdctgEpBxcaa7jB1n7QK4MLXwJoyZ/USxuFs6c0zgzX3mo6XEUfnXixdpY19jDKjwRDWGidxQK4tpLuyaY0OWMrcGqsT+PY+HHBg6CYynMqckEJmkwtR+XeoE4vxICsaa0VgXRdgZ5Fo5ZU1B8OfK2ZpXVoF608KmUCU/XiA==;yOTKd210gzViUCUx6QFMeg=="
 ---

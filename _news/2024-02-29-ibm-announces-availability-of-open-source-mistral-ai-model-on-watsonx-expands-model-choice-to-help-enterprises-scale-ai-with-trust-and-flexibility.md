@@ -1,20 +1,26 @@
 ---
 category: news
 title: "IBM Announces Availability of Open-Source Mistral AI Model on watsonx, Expands Model Choice to Help Enterprises Scale AI with Trust and Flexibility"
-excerpt: "IBM (NYSE: IBM) today announced the availability of the popular open-source Mixtral-8x7B large language model (LLM), developed by Mistral"
-publishedDateTime: 2024-02-29T12:00:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/ibm-announces-availability-of-open-source-mistral-ai-model-on-watsonx-expands-model-choice-to-help-enterprises-scale-ai-with-trust-and-flexibility-302075685.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/ibm-announces-availability-of-open-source-mistral-ai-model-on-watsonx-expands-model-choice-to-help-enterprises-scale-ai-with-trust-and-flexibility-302075685.html"
+excerpt: "ARMONK, N.Y., Feb. 29, 2024 /PRNewswire/ -- IBM (NYSE: IBM) today announced the availability of the popular open-source Mixtral-8x7B large language model (LLM), developed by Mistral AI, on its watsonx AI and data platform, as it continues to expand ..."
+publishedDateTime: 2024-02-28T23:59:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2024/02/29/ibm-announces-availability-of-open-source-mistral-ai-model-on-watsonx-expands"
+webUrl: "https://stockhouse.com/news/press-releases/2024/02/29/ibm-announces-availability-of-open-source-mistral-ai-model-on-watsonx-expands"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - IBM AI
   - AI
 
-secured: "kQp6U4YHmlCWPo0uZd7kL3nSdU6HZ7DhfKmtwuhHiLDOWXvBU0KzLbLyHBDoBXtPrnG9426JiBu+xDd3uFsA9ZGaW3CfYBlXYZbCsmFBIxoJwFOfNXcbntV3p4fkhMxVnMuEeOTYjPjFN2XbLo16iEJd5FDEGWCgZgL09KQ0LFg37M074ClXnz8QvvnViwsJcvx9f5A9FeQoX7JNuHBPRRowenNA7k0do/yDeCCkjcoxCxRyY/1yvOWkYU99YsX6yryD8oSZkiNmXDlLi+zF+6/XB/U14lnDy0H6lOJPSHDN68U5CxOLM3AtgZZBYyvUsyIwYJo1XF/VTMZ+wUXOgVJhFmyppz/Fo5RVQ09MZkuaTfy1iywpAgArcyN0fAoZooI4fJeKgGf4inTmPoYv3Ql/gPY0VQl+81YxRYQOemGBfsIU0/5yCcf0NKpaocuw6d3DK1HkF9gmGVc58njFBNP14j1VrG3XX/yuxE8NoVYqoBu8tlLSdOM/bMwkyXGDSeNXVb2U9jJ+qD1r5htPbA==;iRr1fCM0quINMCtGXMjLvw=="
+images:
+  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
+    width: 400
+    height: 209
+    isCached: true
+
+secured: "IKU3yS7yztgDispLl6CAsHJ7sc8DoA7H/LogOHgcK9kHUEoLpjpQiDWQta/BO8KC6KdNOYyzBrhMEetvZH38LKV207Tr++OPGTd0/IibQE+Kojoipg7TzpCyipBhr52rdnnWHNQMHDPyQTp5ZB2qCVf2AhDWe+a3DsSgSZwXbLj/NiYpX3kpcYixtvLJhX9fhNa7aRHbqBxQ4GfOq/0IcY3AV29gEm0RnGgEwyUGMSj2kGfRxWRxpgDHDeSjHQqrEu6XbnjDoR7LsmkXZfIYfTm4NdZ4Gwm8G1XuwRTgk6aFKI+bMqiWujyi9C3COQmjS8UMbERGkkQCcwfbtY6LbgJ2Z7zaKu0ndOPXsdXXKaI=;Q1SKbX0N2snXW2JS1dWukw=="
 ---
 

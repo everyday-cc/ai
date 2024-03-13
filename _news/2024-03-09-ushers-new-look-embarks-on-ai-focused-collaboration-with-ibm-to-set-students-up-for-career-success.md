@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Google Engineer Steals AI Trade Secrets for Chinese Companies"
-    excerpt: "a China-based company focused on developing a CMS that promised to accelerate ML workloads and speed up AI model training. Shortly thereafter, Ding, acting as CEO of his startup, applied for and got acceptance to a China-based incubation program for high ..."
-    publishedDateTime: 2024-03-08T00:00:00Z
-    webUrl: "https://www.darkreading.com/insider-threats/google-engineer-steals-ai-trade-secrets-chinese-companies"
+  - title: "Usher’s New Look And IBM Unite To Educate Underserved Youth On AI"
+    excerpt: "Youth learners will gain access to over 1,000 IBM SkillsBuild courses spanning AI fundamentals, ethics, machine learning, and more."
+    publishedDateTime: 2024-03-08T21:45:00Z
+    webUrl: "https://www.blackenterprise.com/ushers-new-look-ibm-youth-ai/"
     type: article
     provider:
-      name: Dark Reading
-      domain: darkreading.com
+      name: Black Enterprise
+      domain: blackenterprise.com
     quality: 39
     images:
-      - url: "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt896917cb42a083dc/65eb7998e12481040a898328/tradesecret_kenary820_shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop"
-        width: 1000
-        height: 525
+      - url: "https://www.blackenterprise.com/wp-content/blogs.dir/1/files/2024/03/IMG_8758.jpg"
+        width: 1284
+        height: 800
         isCached: true
 
 secured: "S06ESUAEvu98ezumwsmB5t9ZSSk+Zgr1RCidVlQbDfD5erH9BpNEIbL7s1ItqEu1WCLFB+oUxIQtUbeSep1E7qCBYfmGour/nB9UUVY7Gt084ifo8TvwTBzHn+rFplHTdlutUm0einBjdShWyf6WUATUZCxoZQNv9rbX4Z1Rq9SMuL1+4UkJIy/kCtbvW9g+twWpJMb6RAWNdPKkIhXmDleeMAEZgfxkh2vOACbxGsM2zApO+eBn/4UdgMLKq+C01BwHJk6QKGFYDXmn/QTodG5uUpg/O0+iuB8zQVc39TmVvqm2ROODJmIdftlN7NZ4cNGWuBQeGYlRw6dXTvdCOyFcmMU6EaCdrEnhHOyoQOUkqX/FTJClorx2eEYNsUxrlGvN1RWsl/lnK3mCSKfC9Xnv0ngwgqkLaat/HvZjtUpNFQKvT3yh35yUIolz2YTI+gHU8fuuvb0g9+aShM1asXQO4PYT5ZLFwqp1nQ/TOyGCK9kwtODgRlhKXRXgcZKJyka6VdYxIrVC8zd9sqUNJQ==;5zYg0hRpoMuvlbnt31/wxg=="

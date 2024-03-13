@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Male AI robot in Saudi Arabia sparks outrage for appearing to grope female reporter"
-    excerpt: "A video clip just seven seconds long shows a moment that caused quite a stir about artificial intelligence. The clip, shot at DeepFest in Riyadh, Saudi Arabia, captured an AI robot named Mohammad making an improper gesture towards reporter Rawya Kassem."
-    publishedDateTime: 2024-03-08T00:00:00Z
-    webUrl: "https://www.washingtontimes.com/news/2024/mar/8/male-ai-robot-in-saudi-arabia-sparks-outrage-for-a/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 48
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2023/07/10/shutterstock_638342005_c0-250-6000-3750_s1200x700.jpeg?2cb823f519263a3e55a419724463fd44fb7f7c61"
-        width: 1200
-        height: 700
-        isCached: true
 
 secured: "rn/leqvVR/zewnCJhtrsE6a5fPT+BJ49AHAcCH8LqOdyDnNxg8mmllQw6vraxa1Os2BQ9r8cUIf5VY4VW5tphOGWqH+i6BqTLF1Iw/mYV6qZGDdW3lVvBk1NCLbKB34keucthNq70lEtJ9pOx+9bFJ5zTDka44/56eVq7cIGnHB7sWPoT6c3ITN/nV3NmfitexLnEpd6TuaUFU5gofKIbE8voxa40MXBcuodAQZ8vDjZfPxwULqDFWb084meszzN85+4ZQlzHmyMYqxutrGQvBuTw8LgnQgb9D0rk/2VOERv/wiaMKsacXLdpQgu1TnPcJxYuTYhrmOGJ3NJgwKob7/QPzkMeke0KA6jI3LxVvXzasaWt/7Fu6EGqbzywU/9nvUTGYP29luQi1hVSadmr/Dj19AZhGfPo7I2KxNSdh2PoWlLJ8DGkIwQx+Nz3XO+4uL/Z4ZLlQMRuyUKm4mCL0wsUjjXWYX4NCJoXHiTMy2E64EDOwVGnDuXXyORkehvgPk8wlj4gX+pvFKOP+BPcg==;UOBdYFjQn+XufvyVLAiDYA=="
 ---

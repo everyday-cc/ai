@@ -110,6 +110,15 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "LG-backed Bay Area robot waiter startup nabs meaty plate of funding"
+    excerpt: "This Redwood City robot waiter startup just raised a sizable Series C round that was led by LG Electronics. It's one of many robotics startups in the Bay Area scooping up capital."
+    publishedDateTime: 2024-03-12T16:36:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/fundings/2024/03/12/bear-robotics-raises-funding-lg-electronics.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
   - title: "LG-backed Bay Area robot waiter startup nabs meaty funding"
     excerpt: "Last month, Sunnyvale-based humanoid robot developer Figure AI announced a $675 million round that included investors such as the OpenAI Startup Fund, Nvidia, Microsoft and Jeff Bezos. In Pescadero, Hippo Harvest is developing automated produce-harvesting ..."
     publishedDateTime: 2024-03-12T19:37:00Z
@@ -129,6 +138,6 @@ related:
       domain: afp.com
     quality: 28
 
-secured: "M2oSikJIW4fV2hwEsBAckvDhsnKA6Oycdu7udghg63O/5b+MiJWUoxIuQlJU3TBX6G2F3fQ86KjbbvM8m3wxZnCzAH2QicZWEV/qMAiM8/0ucFkHbTAB377m2wxUFI8aRLHcVgjL/6HHLeT7U3EcOc5l2xCMnmAWsHQGU59K8sh5SiO8t2O64kRsDdGjOai9cpIfjLqDEfW+V/i5TIXf/OLbNvPlSCBc9cxqyJ6s0iIbcfNqmxLZICMzqQbnDhrsjhm8BK8T4Qrt2obMLufRFupUduCPC/pi2yLa54T3eyPz6w9sqC5nrErO8GywlHMDHWIdSYABvDRli5Ksi71iiq0lcV7nkDxr6CjSxUofQaE=;wOtSoSeHuJSt6cH6GynkOg=="
+secured: "Hc/OUlQ0tVwqc4dQ/BE0abCoomOAWydk/vFuRQszLZOekLdrdi9XJzGgGr2kj7isu0/hVKw2ocndf+IsfdN2r5fDWXduIxz3Q8GLf0hNtG4GF+qeVJFs/JgSqZ1zYpBX3358m4bKZpgIkLERgs1c2qB9WhEIkykNOlZLdaCHQdrg5nCgOtK8rbeKOelr8R7oQMxOgXPXMZx/s0vkHH61J90NfIObIh6pm4X2pnfi601Epjc9hKoAGczF9oDCliKbO9/kl2cMLVu0Mh6RCgIGfRwTIFd4e/59G1k8JpajJ3RBtHRXx5foeT55qsc+YnBGyQGwE50ujL1oPRvT/SpMyTvuQwkNmPuMaA4JeH6x1hPFw01uWUuY5Z2bP/yPxVhvpLjtLPnOFmuMidgXA8taFiimjPnJy/wdU/WRco4NEDvIbctC1XpI1eqr7hWCgVZhHwDgCQPMmohOIWbyKAh/IfcpIzt4FwS/DoSGZ778+xl5IyAh6vWb6uVyHZVpjeJSmEGSM2B9itWiMKH39/2Ajw==;Rv7xiyat3FNCAvRsmwwytA=="
 ---
 

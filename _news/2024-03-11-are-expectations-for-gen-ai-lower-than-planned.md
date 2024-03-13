@@ -158,15 +158,6 @@ related:
       name: Infosecurity-magazine.com
       domain: infosecurity-magazine.com
     quality: 19
-  - title: "First-in-the-Nation Artificial Intelligence Framework for District Leaders"
-    excerpt: "The ILO Group this week announced the release of its Framework for Implementing Artificial Intelligence in K-12 Education–a first-of-its-kind AI framework for school district and state education leaders–providing them with the tools, resources ..."
-    publishedDateTime: 2024-03-08T00:00:00Z
-    webUrl: "https://www.eschoolnews.com/uncategorized/2024/03/08/ai-for-district-leaders/"
-    type: article
-    provider:
-      name: eSchool News
-      domain: eschoolnews.com
-    quality: 15
 
 secured: "UiNXHMEb1d0qioIy/zvFTpOJ1ScCGEapRQJ50U49pvsBW+OeAgfYVAR0817XssyIhUV43zHdQEQfa//7EwkpNGLFn955kV7Pt6sr9Q9zGMqXpkfPYVcb87MYbhScFVEMNs045jKL8tBVMzCs+CiovZ34wnpD8xm7bD/Fz0tpCeb/jcL46sPe/xJZwmiXGZGkYKuOwYXX5flbdRCPYoShcKRbnJOpAfshsTf1li4XkNI6/NspkfXGPPUU3MNvxlNh0x3eaw1TXphi1EddPyC8a5QMERHSSclm+K6TbQb8fdYUx8Zsgp72wn/+0uAjVSKIKlvVra3B3FfaTjCW1gHWDSxWuj6H/vAZTy6n367nkYl7JX4fYPpl1HQ/v5bK3vZmGwg9VhxeM3isMN3QrUTBuPwgh7plrCnPZ1CnOHu/EFS0KIc8BTHgp2VHAsUCdIWnzsttDn6vOLRJRu16HLuywNhRkIF/1si/6WrWFxqNdUhRiv1arvPB2OGu3ut3RpCyRaALBtTiAzMbRwDRHBl3jA==;quAeIKYWWbviLpI4j/S8Zg=="
 ---

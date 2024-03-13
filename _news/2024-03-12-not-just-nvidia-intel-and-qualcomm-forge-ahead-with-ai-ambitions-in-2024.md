@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Adani, Qualcomm CEO meet hints at future collaboration in chip, AI space"
-    excerpt: "Adani group chairman Gautam Adani’s meeting with Qualcomm president and CEO Cristiano R Amon on Monday, fuelled speculation about the former trying to understand the semiconductor and artificial intelligence ... solutions for driverless cars, connected ..."
-    publishedDateTime: 2024-03-12T05:45:00Z
-    webUrl: "https://www.financialexpress.com/business/digital-transformation-adani-qualcomm-ceo-meet-hints-at-future-collaboration-in-chip-ai-space-3422117/"
-    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-adani-qualcomm-ceo-meet-hints-at-future-collaboration-in-chip-ai-space-3422117/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-adani-qualcomm-ceo-meet-hints-at-future-collaboration-in-chip-ai-space-3422117/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 75
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2024/03/Untitled-design-2024-03-12T104852.547.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Gautam Adani, Qualcomm CEO Discuss India's Potential In Chips, AI"
     excerpt: "Billionaire Gautam Adani met Cristiano Amon, the Chief Executive Officer (CEO) of Qualcomm Ltd and had a detailed discussion around semiconductors and Artificial Intelligence (AI)."
     publishedDateTime: 2024-03-11T07:30:00Z
@@ -70,15 +54,6 @@ related:
       name: SiliconIndia
       domain: siliconindia.com
     quality: 27
-  - title: "VSBLTY to Launch AI-Driven Retail Solutions Powered by Qualcomm"
-    excerpt: "(OTCQB: VSBGF) (CSE: VSBY) (Frankfurt 5VS) (“VSBLTY”), a leading AI software provider of security and retail analytics technology, is launching a retail solutions suite utilizing enhanced computer vision solutions that are powered by the Qualcomm® QRB5165 platform."
-    publishedDateTime: 2024-03-12T12:18:00Z
-    webUrl: "https://www.thenewswire.com/press-releases/1B2aF7Gvv-vsblty-to-launch-ai-driven-retail-solutions-powered-by-qualcomm.html"
-    type: article
-    provider:
-      name: thenewswire.ca
-      domain: thenewswire.com
-    quality: 19
 
 secured: "sMA46X2z2tsTIbiuAKDEWbeVUAERsmPpPhdBbzLIPZL/88dkNLPl0tZDPaar6REIjdWtBYXxS1sbQgu9zrKppw40UbIpW0VeCHIh15U+cp/WTbEKAroQ3Gaxxvn1GNRg6vMDyPWuypKeBvpuYwkqIBCGVRVA+7VFZ9FF6APfVbBjo2PQmQvMKBmsjdtyuGtKq9ZR7CU8F2xlCuPeCbOVSC6udrysjIjS41BwC6V4ZcELgWhN4cgAVXc2CvgrBNQkclbOr3pLu/qZZdUAg5j0lFoDiZSaseVrUi0JfD/jaYuTNddcE79LCvQySNNsslCJKadh3nfUEfgFVoFShneTZ59oB7EEQNRWkRol7zA2rlQ=;7VRbmpYBl9Q+z/ImTkVQSQ=="
 ---

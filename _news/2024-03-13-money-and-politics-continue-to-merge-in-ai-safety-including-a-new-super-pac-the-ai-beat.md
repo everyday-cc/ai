@@ -6,8 +6,8 @@ publishedDateTime: 2024-03-12T18:15:00Z
 originalUrl: "https://venturebeat.com/ai/money-and-politics-continue-to-merge-in-ai-safety-including-a-new-super-pac-the-ai-beat/"
 webUrl: "https://venturebeat.com/ai/money-and-politics-continue-to-merge-in-ai-safety-including-a-new-super-pac-the-ai-beat/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - Meta AI
+  - Google AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2024/03/Untitled-design-2024-03-12T130222.475.png?w=1200&strip=all"
@@ -28,6 +29,6 @@ images:
     height: 750
     isCached: true
 
-secured: "TgvLsScJzYCeTQrVAzl6ETG9/E3m/DvFdgUlLOJ7JD9TV8o3qujrZHK8bn4XbrFQYho46FB2fjJJCRmdRNQwz0Bb5ARGSfczzLnxfSPMz0f+ZmketXpTk9kcX+Ad315IurvovtMJhrY0jFysZpI0KnvA347mcFs+T0tg9rf0/6r1Xxtyc+uPbJ1Yl6IpF7VdWmuAx8PGgPidz5iHRVA+adjeHFino+uUflzFLAOtWP/QTVxNuB1LPWqVFSrzl4RMtVewcd23rsaVMkfTmkdOd/FmO+cMS2W3lvoq6Au9BcQg6+Xg6sMHS9OBxrJMvgY5e2tUBBOrwyWk2SJLNLFYLU/qdR7RVe0TeNPy4YE27QQ=;EK3xrERJj/W9b4iWxvNdxQ=="
+secured: "l8rRTrkssjsC+0KyKHF1t+ml3d/a1DRyoneaEP0IBq6PK06tsmjDBRJsFWemk5ifjEANIONgBj6Qy00jiPPNUQdpn/8ntZ78BviEWj+uhGk6VZj/N65rPxCfnOy/CW0QBmU/BfItSXzio8DDTy95dBKADI4m2h6XvbbA+xueTSZYMLS2BVPjaEOBzvmiqfDPaT8lKkL3tahlw9TXj3XfvFTikv7VQvUVOuUFqmuTHGweAfw3wUe53waTGAKwtzxS+tO5QcB7lJTA52xc+OUecl2OfxSzcqyjmI0Tr8GDpGnpnb4XlzdnnWgwy6gzQKHaS2FPU8fctxHyRAmtgXI8uoceXQr1yYE0ynHBh0OaPHU3MHrJNYOrjzjHft03QuRwEF9ehx9jkHVVBjwfsgrFzXNGJNBNHCI5qGy50h51EgfvxfVy8BSWAGCQyhjt1VgTQtKQBCJGeUzWN+aE4WDVMre+NXwa373BAM04S+pijGhhL0TlEmRul2QxgMOzl+cOtRQiLsEdc9PvLNI8Qp2U8Q==;OSGoamwvCKuMxmF8m12e4w=="
 ---
 

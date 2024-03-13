@@ -334,15 +334,6 @@ related:
       name: TelecomTV
       domain: telecomtv.com
     quality: 19
-  - title: "NVIDIA and HP Supercharge Data Science and Generative AI on Workstations"
-    excerpt: "NVIDIA and HP Inc. today announced that NVIDIA CUDA-X data processing libraries will be integrated with HP AI workstation"
-    publishedDateTime: 2024-03-08T00:02:00Z
-    webUrl: "https://www.datanami.com/this-just-in/nvidia-and-hp-supercharge-data-science-and-generative-ai-on-workstations/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 18
   - title: "NRG Media Has Embraced AI-Based Tools"
     excerpt: "Headquartered in the Midwest, NRG provides content and digital marketing services through 36 radio stations to listeners and advertisers in Nebraska, Iowa, Illinois and Wisconsin. One way NRG uses AI is to create videos for clients using Waymark technology."
     publishedDateTime: 2024-03-11T17:45:00Z
@@ -362,6 +353,6 @@ related:
       domain: usatoday.com
     quality: 13
 
-secured: "RrxU5PODMDCd9L2hPlgRPQEb1CH/WUfoqeL/+dmSpgDJZ8DmIurIw+hIOOlyHMGH2bLpfvwh/mrP4SSd5uJZu6/fgZwGb4LysXowNASq68U2kAJxka2jGEx1J5Ro0kUVnXmVr5F2pAdT/YqFlInuiWlkru2F7WxPkk/1wkCW4qCTdP0sreGSIcaPWo8cDgnbpu3OPu8WtyNVYUjmBU5Ux6XAOrg4NUdZ2CLWOHs+fPvs7j2uQ4vTVOyAd5efywVHjVrwDJKIrVYKVjN4eF50xYbXTmRftS3g7wDYcemo3PIT3li0HCaYfuG9EbPEXyterZ8UtZzMi/iZG0pg+roagOsPy9yJF1xhV7epAuVl/Hw=;QxS8z62E4Enm1gvFlXeMvQ=="
+secured: "8G8NE5V9IGPI0meyQd9mrm2sZI+SdqtSeHAhg64g5XInbO5ajpK/u3+nvhhKfqZo/P6CwPNjEbzaBsdIOCHlx5gMh8qc9B8JzXizlm8gm+4aLSYiEP8umHMiNcJjrQ5U0vkTh8pXVrB713DAL9++RHLyghhFdb//2AqNwsLeQO3bxBlNWwonKX+/X8qEisWNWNJwP29dI1TAx4FuWVQdTcTCGd+OLKZyx2pv3AVh/KAE6BpQrSJ0Gzhy7i+P3yiC+ERl7VE4gBckriSIBw/l0G2xcbidI/DF8oV8xdm3YyB77Xy1umnzgeZP2GdpCgJxzVzVWU+aKk4t7gvUBEiGbbNi5x8UQ7wSczvS655+EFmpEuTAvjHSdl/w+JO5FDCQEo4Q0tIWZF2tKa9Ng/StICD56f9cPSD2cTvwcRsmLRjP+HRf+pTxqAAeVaH5k3+r3ncczxI+LNHWgGEkYJUrnMnOkyBlI6EfHKrLLmi5ZYtv84Wfdd8b/rlBpTt62VQcOTRxVxQVYEeEIjtbDHhVmA==;7kT6IZW0CnzvQXPfIK4U4w=="
 ---
 

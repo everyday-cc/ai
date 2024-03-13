@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gadgets360.com/cryptocurrency/news/india-blockchain-ai-r
 cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/cryptocurrency/news/india-blockchain-ai-research-npci-iisc-mou-5205973/amp"
 type: article
 quality: 59
-heat: 62
+heat: 59
 published: false
 
 provider:

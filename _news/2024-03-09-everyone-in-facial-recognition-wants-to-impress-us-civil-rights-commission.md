@@ -67,15 +67,22 @@ related:
         width: 506
         height: 337
         isCached: true
-  - title: "US government assailed for its facial recognition policies"
-    excerpt: "The critics say the departments of Justice and Homeland Security are hiding use cases behind overly broad disclosure requirements."
-    publishedDateTime: 2024-03-12T19:17:00Z
-    webUrl: "https://www.biometricupdate.com/202403/us-government-assailed-for-its-facial-recognition-policies"
+  - title: "Cortland Student Government Association overturns decision, grants Turning Point USA recognition as official club"
+    excerpt: "“The College’s recognition of Turning Point as an official club sends a huge message that universities cannot pick and choose which views are appropriate to allow on campus,” Legal Council at Alliance Defending Freedom Mathew Hoffmann said. “All students should have the freedom to express those views on campus.”"
+    publishedDateTime: 2024-03-12T21:40:00Z
+    webUrl: "https://www.wbng.com/2024/03/12/cortland-student-government-association-overturns-decision-grants-turning-point-usa-recognition-official-club/"
+    ampWebUrl: "https://www.wbng.com/2024/03/12/cortland-student-government-association-overturns-decision-grants-turning-point-usa-recognition-official-club/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wbng-com.cdn.ampproject.org/c/s/www.wbng.com/2024/03/12/cortland-student-government-association-overturns-decision-grants-turning-point-usa-recognition-official-club/?outputType=amp"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 34
+      name: wbng
+      domain: wbng.com
+    quality: 23
+    images:
+      - url: "https://gray-wbng-prod.cdn.arcpublishing.com/resizer/v2/4FZE4NBTTFABRGZEDZSID2TSHE.jpg?auth=eb605c2746bff1f46f7c919359f4df239dd51efb7aad13e7f5f5f706de6d3fa3&width=800&height=450&smart=true"
+        width: 800
+        height: 450
+        isCached: true
   - title: "CP Foods Earns Recognition for Rights Protection and Gender Equality on International Women's Day"
     excerpt: "Charoen Pokphand Foods Public Company Limited (CP Foods) has received two awards in recognition as the private organization's dedication to rights protection and the promotion of gender equality throughout the organization on International Women's Day 2024."
     publishedDateTime: 2024-03-11T08:42:00Z

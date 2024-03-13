@@ -35,22 +35,6 @@ related:
         width: 1456
         height: 864
         isCached: true
-  - title: "Navigating the balance: GPU-based solutions in AI implementation"
-    excerpt: "To embed our video on your website copy and paste the code below: Richard McQuaide, business development manager at HPE, provides insights into the complexities surrounding GPU-based solutions in AI implementation. The conversation focuses on striking a ..."
-    publishedDateTime: 2024-03-08T00:00:00Z
-    webUrl: "https://www.telecomtv.com/content/spotlight-on-5g-partner-insights/navigating-the-balance-gpu-based-solutions-in-ai-implementation-49874/"
-    ampWebUrl: "https://www.telecomtv.com/content/spotlight-on-5g-partner-insights/navigating-the-balance-gpu-based-solutions-in-ai-implementation-49874/amp/"
-    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/spotlight-on-5g-partner-insights/navigating-the-balance-gpu-based-solutions-in-ai-implementation-49874/amp/"
-    type: article
-    provider:
-      name: TelecomTV
-      domain: telecomtv.com
-    quality: 74
-    images:
-      - url: "https://assets.telecomtv.com/assets/telecomtv/24081-hpe-int-demo-richard-mcquaide-v1-10-18000.jpg?w=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Renewing Corporate Gifting: The Impact Of AI On Personalization"
     excerpt: "AI algorithms and machine learning capabilities empower businesses to enhance personalization processes at scale and across geographic divides. It can source and recommend gifts based on recipient preferences, automate the ordering and delivery process, and also help with customizing and manufacturing personalized gifts at scale."
     publishedDateTime: 2024-03-08T12:45:00Z
@@ -60,15 +44,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
-  - title: "Could AI-designed proteins be weaponized? Scientists lay out safety guidelines"
-    excerpt: "AI tools that can come up with protein structures at the push of a button should be used safely and ethically, say researchers in the field."
-    publishedDateTime: 2024-03-08T00:00:00Z
-    webUrl: "https://www.nature.com/articles/d41586-024-00699-0"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 13
   - title: "Navigating the Intersection of Intellectual Property and Artificial Intelligence"
     excerpt: "In today's digital landscape, the convergence of intellectual property (IP) and artificial intelligence (AI) presents both unparalleled opportunities and unique challenges for businesses across industries. As AI continues to revolutionize how companies ..."
     publishedDateTime: 2024-03-11T00:01:00Z

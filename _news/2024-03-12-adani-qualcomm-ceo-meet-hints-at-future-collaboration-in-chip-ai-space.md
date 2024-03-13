@@ -9,8 +9,8 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ada
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-adani-qualcomm-ceo-meet-hints-at-future-collaboration-in-chip-ai-space-3422117/lite/"
 type: article
 quality: 75
-heat: 125
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Financial Express
@@ -28,49 +28,22 @@ images:
     isCached: true
 
 related:
-  - title: "Gautam Adani, Qualcomm CEO Discuss India's Potential In Chips, AI"
-    excerpt: "Billionaire Gautam Adani met Cristiano Amon, the Chief Executive Officer (CEO) of Qualcomm Ltd and had a detailed discussion around semiconductors and Artificial Intelligence (AI)."
-    publishedDateTime: 2024-03-11T07:30:00Z
-    webUrl: "https://www.ndtv.com/india-news/gautam-adani-qualcomm-ceo-discuss-indias-potential-in-chips-ai-5216932"
-    ampWebUrl: "https://www.ndtv.com/india-news/gautam-adani-qualcomm-ceo-discuss-indias-potential-in-chips-ai-5216932/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/gautam-adani-qualcomm-ceo-discuss-indias-potential-in-chips-ai-5216932/amp/1"
+  - title: "Qualcomm On-Device AI Powers Future Products From Phones To PCs"
+    excerpt: "Goodson provides details on Qualcomm's newest products designed to enable on-device AI as announced at the Mobile World Congress Barcelona event."
+    publishedDateTime: 2024-03-12T23:54:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2024/03/12/qualcomm-on-device-ai-powers-future-products-from-phones-to-pcs/"
+    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2024/03/12/qualcomm-on-device-ai-powers-future-products-from-phones-to-pcs/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2024/03/12/qualcomm-on-device-ai-powers-future-products-from-phones-to-pcs/amp/"
     type: article
     provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 54
-  - title: "Not just Nvidia: Intel and Qualcomm forge ahead with AI ambitions in 2024"
-    excerpt: "Mobile World Congress (MWC), a noticeable trend emerged among US-based chip manufacturers, highlighting a heightened focus on AI integration. Companies like Qualcomm and Intel demonstrated their strong commitment to incorporating AI more extensively into their product lines."
-    publishedDateTime: 2024-03-12T07:31:00Z
-    webUrl: "https://www.digitimes.com/news/a20240311PD214/intel-qualcomm-ai-2024-nvidia.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 38
+      name: Forbes
+      domain: forbes.com
+    quality: 91
     images:
-      - url: "https://img.digitimes.com/newsshow/20240311pd214_files/1_b.jpg"
-        width: 640
-        height: 427
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65f0e7cb13f206a9b1de458c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1008
+        height: 566
         isCached: true
-  - title: "Gautam Adani, Qualcomm CEO Discuss India’S Potential Around Chips, AI, Mobility"
-    excerpt: "Adani Group Founder and Chairman Gautam Adani on Monday said he met chip maker Qualcomm's President and CEO Cristiano Amon"
-    publishedDateTime: 2024-03-11T07:10:00Z
-    webUrl: "https://menafn.com/1107959060/Gautam-Adani-Qualcomm-CEO-Discuss-IndiaS-Potential-Around-Chips-AI-Mobility"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 30
-  - title: "Gautam Adani and Qualcomm CEO Delve into India's Potential in Chips, AI, and Mobility"
-    excerpt: "Gautam Adani and Qualcomm CEO Delve into India's Potential in Chips, AI, and Mobility - India is making significant strides in the fields of semiconductors, AI, mobility, and edge appliances,"
-    publishedDateTime: 2024-03-11T06:34:00Z
-    webUrl: "https://www.siliconindia.com/news/business/gautam-adani-and-qualcomm-ceo-delve-into-indias-potential-in-chips-ai-and-mobility-nid-228351-cid-3.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 27
   - title: "VSBLTY to Launch AI-Driven Retail Solutions Powered by Qualcomm"
     excerpt: "(OTCQB: VSBGF) (CSE: VSBY) (Frankfurt 5VS) (“VSBLTY”), a leading AI software provider of security and retail analytics technology, is launching a retail solutions suite utilizing enhanced computer vision solutions that are powered by the Qualcomm® QRB5165 platform."
     publishedDateTime: 2024-03-12T12:18:00Z

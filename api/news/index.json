@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-13-qualcomm-on-device-ai-powers-future-products-from-phones-to-pcs.md",
+      "title": "Qualcomm On-Device AI Powers Future Products From Phones To PCs",
+      "excerpt": "Goodson provides details on Qualcomm's newest products designed to enable on-device AI as announced at the Mobile World Congress Barcelona event.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2024/03/12/qualcomm-on-device-ai-powers-future-products-from-phones-to-pcs/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2024/03/12/qualcomm-on-device-ai-powers-future-products-from-phones-to-pcs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65f0e7cb13f206a9b1de458c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1008,
+          "height": 566,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2024/03/12/qualcomm-on-device-ai-powers-future-products-from-phones-to-pcs/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2024/03/12/qualcomm-on-device-ai-powers-future-products-from-phones-to-pcs/amp/",
+      "publishedDateTime": "2024-03-12T23:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2024-03-13-mia-shah-dands-race-to-bridge-the-ai-gender-gap-for-a-human-centred-world.md",
       "title": "Mia Shah-Dand’s Race To Bridge The AI Gender Gap For A Human-Centred World",
       "excerpt": "Mia Shah-Dand is building a counter narrative to give voice and due credit to incredible women that shape technology– despite the stagnation in STEM, the gender pay gap, and the disproportionate funding gap.",
@@ -218,7 +271,7 @@
       "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2024/03/12/vast-datas-nvidia-dpu-based-ai-cloud-architecture/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 349,
+      "heat": 339,
       "tags": null,
       "images": [
         {
@@ -817,6 +870,58 @@
       ]
     },
     {
+      "path": "_news/2024-03-12-science-offers-a-new-way-to-save-birds-from-the-jaws-of-wind-turbines.md",
+      "title": "Science Offers A New Way To Save Birds From The Jaws Of Wind Turbines",
+      "excerpt": "Many migratory birds die each year flying into the blades of our wind farms. Weather radar data is showing us how we can be nicer to our sky-fairing friends.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/scotttravers/2024/03/12/science-offers-a-new-way-to-save-birds-from-the-jaws-of-wind-turbines/",
+      "originalUrl": "https://www.forbes.com/sites/scotttravers/2024/03/12/science-offers-a-new-way-to-save-birds-from-the-jaws-of-wind-turbines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e9e260d2b8171cfa7a3de2/0x0.jpg?format=jpg&crop=2751,1290,x0,y171,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/scotttravers/2024/03/12/science-offers-a-new-way-to-save-birds-from-the-jaws-of-wind-turbines/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/scotttravers/2024/03/12/science-offers-a-new-way-to-save-birds-from-the-jaws-of-wind-turbines/amp/",
+      "publishedDateTime": "2024-03-12T12:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-12-how-utilities-can-prepare-for-extreme-weather-with-data-and-ai.md",
       "title": "How utilities can prepare for extreme weather with data and AI",
       "excerpt": "Today, utilities are meeting these challenges and risks with innovation by leaning on data and AI to prepare for the next event.\nThe post How utilities can prepare for extreme weather with data and AI appeared first on IBM Blog.\n",
@@ -1153,110 +1258,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-metas-ceo-disses-apples-vision-pro.md",
-      "title": "Meta’s CEO Disses Apple's Vision Pro",
-      "excerpt": "Despite acknowledging the Vision Pro's entertainment capabilities ... Alternatively, one could buy a multi-use computer, including the early Macintosh, and do word processing. By the 1980s, the word processor had become a much more affordable option.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/timbajarin/2024/03/12/metas-ceo-disses-apples-vision-pro/",
-      "originalUrl": "https://www.forbes.com/sites/timbajarin/2024/03/12/metas-ceo-disses-apples-vision-pro/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65ef930982ae384733007dc2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1349,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/timbajarin/2024/03/12/metas-ceo-disses-apples-vision-pro/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2024/03/12/metas-ceo-disses-apples-vision-pro/amp/",
-      "publishedDateTime": "2024-03-12T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-bear-robotics-a-robot-waiter-startup-just-picked-up-60m-from-lg.md",
-      "title": "Bear Robotics, a robot waiter startup, just picked up $60M from LG",
-      "excerpt": "LG Electronics may no longer be a household name in smartphones, but it still sees a big future in gadgets like robots. Today, the company confirmed a $60",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/03/12/bear-robotics-a-robot-waiter-startup-just-picked-up-60m-from-lg/",
-      "originalUrl": "https://techcrunch.com/2024/03/12/bear-robotics-a-robot-waiter-startup-just-picked-up-60m-from-lg/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/08/Screen-Shot-2019-08-30-at-3.00.42-PM.png?resize=1200,927",
-          "width": 1200,
-          "height": 927,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/03/12/bear-robotics-a-robot-waiter-startup-just-picked-up-60m-from-lg/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/bear-robotics-a-robot-waiter-startup-just-picked-up-60m-from-lg/amp/",
-      "publishedDateTime": "2024-03-12T09:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

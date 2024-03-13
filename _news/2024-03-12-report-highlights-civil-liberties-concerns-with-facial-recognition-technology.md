@@ -74,20 +74,6 @@ related:
         width: 700
         height: 394
         isCached: true
-  - title: "TSA Facial Recognition Is Being Rolled Out at More US Airports"
-    excerpt: "Clear, the $189-a-year membership that allows enrolled travelers to cut to the front of airport security lines, has also begun using facial recognition technology at its checkpoints. From how the ..."
-    publishedDateTime: 2024-03-08T00:00:00Z
-    webUrl: "https://www.cntraveler.com/story/tsa-facial-recognition-united-delta"
-    type: article
-    provider:
-      name: Condé Nast Traveler
-      domain: cntraveler.com
-    quality: 54
-    images:
-      - url: "https://media.cntraveler.com/photos/65e93d04cc29445c249fb6a1/16:9/w_1280,c_limit/mark-olsen-K5j1KgecVC8-unsplash.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Airports using biometric facial recognition in Arizona"
     excerpt: "(Stacker) - The next time you’re in a security line at the airport, you may find that instead of a Transportation Security Administration officer checking your ID, a camera and screen will use biometric facial recognition to confirm your face and photo ..."
     publishedDateTime: 2024-03-10T23:39:00Z
