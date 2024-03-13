@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-13-a-comprehensive-list-of-2023-2024-tech-layoffs.md",
+      "title": "A comprehensive list of 2023 & 2024 tech layoffs",
+      "excerpt": "Momentum for a tech sector rebound remains slow to build, outside of bright spots within artificial intelligence and adjacent companies ... Announced March 1, Alphabet’s Waymo issued a second round of layoffs this year. Combined with the initial cuts ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/03/13/tech-layoffs-2023-list/",
+      "originalUrl": "https://techcrunch.com/2024/03/13/tech-layoffs-2023-list/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/02/layoffs.jpg?resize=1200,645",
+          "width": 1200,
+          "height": 645,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/03/13/tech-layoffs-2023-list/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/13/tech-layoffs-2023-list/amp/",
+      "publishedDateTime": "2024-03-13T16:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-13-tesla-remains-wall-streets-bearish-betting-chip-among-large-caps-but-a-hot-ai-plays-short-interest-also-surges.md",
       "title": "Tesla Remains Wall Street's Bearish Betting Chip Among Large-Caps, But A Hot AI Play's Short Interest Also Surges",
       "excerpt": "High short interest indicates investor pessimism towards a stock. Tesla has been on a broader downtrend since its November 2021 peak of $413.29.",
@@ -588,6 +640,40 @@
       "provider": {
         "name": "WGN Radio",
         "domain": "wgnradio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-fcc-commissioner-on-broadband-spectrum-authority-and-artificial-intelligence.md",
+      "title": "FCC Commissioner on Broadband, Spectrum Authority and Artificial Intelligence",
+      "excerpt": "Federal Communications Commission Commissioner Anna Gomez (D) discussed broadband implementation, FCC spectrum authority, and artificial intelligence during the INCOMPAS Policy Summit. Javascript must be enabled in order to access C-SPAN videos.",
+      "sourceUrl": null,
+      "webUrl": "https://www.c-span.org/video/?534017-3/fcc-commissioner-broadband-spectrum-authority-artificial-intelligence#!",
+      "originalUrl": "https://www.c-span.org/video/?534017-3/fcc-commissioner-broadband-spectrum-authority-artificial-intelligence#!",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-05T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "c-span",
+        "domain": "c-span.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1256,83 +1342,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-baidu-ai-profiteer-positioned-for-long-term-growth.md",
-      "title": "Baidu: AI Profiteer Positioned For Long-Term Growth",
-      "excerpt": "Baidu is still trading for extremely low valuation multiples and seems to be undervalued. Although Baidu stock declined 8% following Q4 earnings and investors were clearly disappointed, Baidu ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4674744-baidu-ai-profiteer-positioned-for-long-term-growth",
-      "originalUrl": "https://seekingalpha.com/article/4674744-baidu-ai-profiteer-positioned-for-long-term-growth",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1650781819/image_1650781819.jpg?io=getty-c-w1536",
-          "width": 1536,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T14:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-live-news-man-group-profits-plunge-as-investment-returns-disappoint.md",
-      "title": "Live news: Man Group profits plunge as investment returns disappoint",
-      "excerpt": "The world’s largest listed hedge fund Man Group said pre-tax profits fell 56 per cent last year as clients paid less in fees due to lacklustre investment returns. Core performance fees, which clients pay when investment strategies perform well,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/64a86f5c-70ae-4b13-9d98-e2ab56afac56",
-      "originalUrl": "https://www.ft.com/content/64a86f5c-70ae-4b13-9d98-e2ab56afac56",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T07:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

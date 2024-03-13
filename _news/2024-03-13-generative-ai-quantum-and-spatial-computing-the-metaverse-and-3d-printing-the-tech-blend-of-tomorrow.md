@@ -25,29 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Revolutionizing Computing: Inside Princeton’s Trailblazing AI Chip Technology"
-    excerpt: "Princeton's advanced AI chip project, backed by DARPA and EnCharge AI, promises significant improvements in energy efficiency and computing power, aiming to revolutionize AI's accessibility and application."
-    publishedDateTime: 2024-03-08T18:37:00Z
-    webUrl: "https://scitechdaily.com/revolutionizing-computing-inside-princetons-trailblazing-ai-chip-technology/"
+  - title: "Metasphere Labs and Bluesphere Ventures Unveil Research Paper on Leveraging Bitcoin, AI, and the Metaverse for Sustainability"
+    excerpt: "Metasphere Labs Inc. ( formerly Looking Glass Labs Inc., “Metasphere”, or the “Company”) (Cboe Canada: LABZ) (OTC: LABZF) (FRA: H1N), in partnership with impact venture studio Bluesphere Ventures Inc."
+    publishedDateTime: 2024-03-12T12:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/metasphere-labs-and-bluesphere-ventures-unveil-research-paper-on-leveraging-bitcoin-ai-and-the-metaverse-for-sustainability-1033154536"
     type: article
     provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 31
-  - title: "KCF Technologies Unveils Piezo Sensing: A Revolutionary Machine Health Solution for Low and High-Speed Machines"
-    excerpt: "KCF Technologies, a leader in machine health solutions, is proud to announce the launch of its latest innovation, Piezo Sensing, as part of its SMARTsensing suite of hardware products. This new offering revolutionizes machine health monitoring by providing unmatched precision and reliability across a vast spectrum of industrial applications."
-    publishedDateTime: 2024-03-12T11:36:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/03/12/9976461.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
-    images:
-      - url: "https://mma.prnewswire.com/media/1593807/KCF_Technologies_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 22
 
 secured: "fAYH64XR6b87nRur+EFweDfmZ8ibR/YWqbYFXVx4otC42WCjerxxa+44kL2SBUknjVWdnFcv8lxG3elNMerZhhxugyrjsqGPIAnkciTs6/gFpmZDWCnRjAgq0KfRqrQHV0NTZbwKuuwoBf9pgv8WEvE3ZzfVprVK4JB26tCcfXAASELECIBrvybDlREeahbSFJPcc9/L1miAVZWnzAnH3PLAUwVx7n7GmK/xEkAan87aYN6UUz4KX73RPW0zi4O/D2BhRIgFNoNVio/+615NegRP+Gf8ylhlTouAfLSpKVoQ2r3if630s2OOkGVjBLqXRehjPzqceAv+feCBHkJ+y05OlaHMhISop8+Up3RYcm8=;c40iR/KXLtQG4Tv0vQ4Iyg=="
 ---

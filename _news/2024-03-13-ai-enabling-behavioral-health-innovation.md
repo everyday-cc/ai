@@ -80,6 +80,20 @@ related:
       name: SourceSecurity
       domain: sourcesecurity.com
     quality: 32
+  - title: "USPTO’s New Guidance on AI-Assisted Inventions: The Impact on the Use of AI in the Life Sciences"
+    excerpt: "On February 12, 2024, the US Patent Office and Trademark Office (USPTO) released the Inventorship Guidance for AI-assisted Inventions (the Guidance). We previously discussed the Guidance here. Following up on the Guidance, the USPTO released two examples ..."
+    publishedDateTime: 2024-03-13T16:23:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/uspto-s-new-guidance-on-ai-assisted-9775656/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 26
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15363_1913.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Advancing Equitable AI in the US Social Sector"
     excerpt: "How thoughtfully designed AI-powered applications can drive stronger and more equitable outcomes for nonprofits."
     publishedDateTime: 2024-03-12T12:38:00Z
@@ -108,6 +122,6 @@ related:
       domain: jdsupra.com
     quality: 12
 
-secured: "nfTBXogcHXr2QSopc7mDyaYVe+zSPETBAeG++q//9cILU+2pr7lfdoKvdhnh/1Hq90tjqHRjgynmJWVhsppyq1+qjFqdRKLp5FQ+OqAYWXgQn4o4jyf9RyhYd0EClEU/twvuxNQxSQD9Gnk4kPTCyL7ga6j9Urhdb4B8/enFgDCMvNdTS/ecOtshxO4B9ejDbHEF8UARRXg3YenZRwaAzETjFD0p5q3VSm3shCSvDjcZDDPhgx59sl76a+PRVF76JYvWSmX/UhsAx0mthn3DHd/5TkNwjk9P/7/ljmOAsRFU21lJ3ntJFyjqrdNCq5fFFdzY/8tcxgFBa+scvmJ5namb8ibh3T0W+roN8yufgcM=;YKzAUo6LOz08Oi5wsWGQnA=="
+secured: "UehBiumsAAFGZkZZ43vHHvW0BpUlBMwgnqvgbauSbvmdFevs+YG97NEP7tRE7aDjpdSyU8yIrgznI0bCVCw+FsUyeLmSmDDxxQJbYSJhIaLCCDsYVn3ylBCmsq6VWJN+t4Ay7Soet9pu1XTpHSYvgNLFApjxFcs7zqJqUT9is16g5qoc0KZ4w0JRJcUIqcUcpJ7CUri5EAS6WXBkL+94BYCeds21j39dbkYpNGs6chi1wSePrp78d4GgGqkwV6D8kg2ZocHp8cVzfynKwrMo8mW+6X99FV+jBRq5KnhaNoStE+OWKs6U1nFCfshi4Uz9zNSERryf4mSj6bQSQBjj4+iKSUJrA6a09BgaZce32N6XPWoV/chVmo8CPnxWvtfjxr1BKxwAX/qVvvmtN3Tms/r3KuJnE/lCKXIInCAZysRK8DFXS+ckb1caCbqTnx4H9o1OMw0d15V95QerlX1OMgrOcLyzNlLQ3GCfzvAQ8Ch2kSZVGREppx1kSHQvQTb+gBCoFCTv57M5VVGniVgUqQ==;8HS63n4BdGgli1dz+qiUgw=="
 ---
 

@@ -6,8 +6,8 @@ publishedDateTime: 2024-03-12T00:00:00Z
 originalUrl: "https://www.eweek.com/artificial-intelligence/ai-productivity-tools/"
 webUrl: "https://www.eweek.com/artificial-intelligence/ai-productivity-tools/"
 type: article
-quality: 69
-heat: 99
+quality: 71
+heat: 101
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.eweek.com/wp-content/uploads/2024/03/ew_20240312-ai-productivity-tools.png"

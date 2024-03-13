@@ -1,0 +1,147 @@
+---
+category: news
+title: "The sibling entrepreneurs' AI-powered credit-underwriting platform, Worth AI, aims to standardize business credit scores."
+excerpt: "The sibling entrepreneurs' AI-powered credit-underwriting platform, Worth AI, aims to standardize business credit scores."
+publishedDateTime: 2024-03-13T16:33:00Z
+originalUrl: "https://www.inc.com/ali-donaldson/after-scaling-stax-unicorn-status-co-founders-suneera-sal-madhani-unveil-new-fintech-business.html"
+webUrl: "https://www.inc.com/ali-donaldson/after-scaling-stax-unicorn-status-co-founders-suneera-sal-madhani-unveil-new-fintech-business.html"
+type: article
+quality: 0
+heat: -1
+published: false
+
+provider:
+  name: Inc
+  domain: inc.com
+
+topics:
+  - AI in Finance
+  - AI
+
+related:
+  - title: "Glacier is training AI-powered recycling robots"
+    excerpt: "The future of recycling is here, and of course, it involves robots and artificial intelligence. Rebecca Hu, the co-founder of the robotics company Glacier, creates robots that help recycling plants separate and, well, recycle material. Before, sorting ..."
+    publishedDateTime: 2024-03-12T00:00:00Z
+    webUrl: "https://techcrunch.com/2024/03/12/glacier-is-training-ai-powered-recycling-robots/"
+    ampWebUrl: "https://techcrunch.com/2024/03/12/glacier-is-training-ai-powered-recycling-robots/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/glacier-is-training-ai-powered-recycling-robots/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 104
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/05/found-2022-featured.jpg?resize=1200,675"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The Future Of Learning: Reskilling And Rethinking In The AI Age"
+    excerpt: "The rise of AI presents a paradigm shift for the business world, demanding a complete reimagining of both education and the future of work."
+    publishedDateTime: 2024-03-12T03:30:00Z
+    webUrl: "https://www.forbes.com/sites/timothypapandreou/2024/03/11/the-future-of-learning-reskilling-and-rethinking-in-the-ai-age/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65efca1945b0f1fb09e168dc/0x0.jpg?format=jpg&crop=1797,1011,x0,y92,safe&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Akamai, Neural Magic Partner To Deploy High-powered Deep Learning AI Software"
+    excerpt: "Cloud company Akamai Technologies Inc. (AKAM) announced Tuesday a strategic partnership with Neural Magic, a developer of software"
+    publishedDateTime: 2024-03-12T11:44:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/akamai-neural-magic-partner-to-deploy-high-powered-deep-learning-ai-software-1033154430"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
+  - title: "Apple is Reportedly Experimenting With an AI-Powered Ad Performance Tool"
+    excerpt: "Apple is reportedly experimenting with a new artificial intelligence (AI)-powered tool that will help advertisers promote their apps on its App Store. The new AI ad performance to"
+    publishedDateTime: 2024-03-12T07:27:00Z
+    webUrl: "https://www.gadgets360.com/ai/news/apple-ai-ad-performance-tool-experimenting-report-5223398"
+    ampWebUrl: "https://www.gadgets360.com/ai/news/apple-ai-ad-performance-tool-experimenting-report-5223398/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/ai/news/apple-ai-ad-performance-tool-experimenting-report-5223398/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 58
+    images:
+      - url: "https://i.gadgets360cdn.com/large/app_store_pexels_1710228296554.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "How AI is shaping the music listening habits of Gen Z"
+    excerpt: "For four years, we've been teaching a class on music and the mind. We've asked the students at the start of each semester to complete a short, informal survey on their music education and favorite songs and artists."
+    publishedDateTime: 2024-03-13T16:30:00Z
+    webUrl: "https://techxplore.com/news/2024-03-ai-music-habits-gen.html"
+    ampWebUrl: "https://techxplore.com/news/2024-03-ai-music-habits-gen.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2024-03-ai-music-habits-gen.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/spotify.jpg"
+        width: 1920
+        height: 1281
+        isCached: true
+  - title: "Covariant develops video-generating AI model for powering warehouse robots"
+    excerpt: "The artificial intelligence model also lends itself to other tasks. According to Covariant, RFM-1 can generate short videos that depict industrial robots performing tasks such as moving merchandise between boxes. Those videos, the startup claims, can be used to equip industrial robots with the ability to plan their actions."
+    publishedDateTime: 2024-03-11T19:48:00Z
+    webUrl: "https://siliconangle.com/2024/03/11/covariant-develops-video-generating-llm-powering-warehouse-robots/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 52
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/03/covariant.png"
+        width: 718
+        height: 400
+        isCached: true
+  - title: "The Future of Work: How Artificial Intelligence Training is Reshaping Industries"
+    excerpt: "Introduction: In the rapidly evolving landscape of the professional world, the future of work is being significantly influenced by the transformative power of Artificial Intelligence (AI) training. As industries seek innovative solutions to stay competitive,"
+    publishedDateTime: 2024-03-13T05:19:00Z
+    webUrl: "https://techbullion.com/the-future-of-work-how-artificial-intelligence-training-is-reshaping-industries/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 47
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2024/03/The-Future-of-Work-How-Artificial-Intelligence-Training-is-Reshaping-Industries.jpg"
+        width: 650
+        height: 450
+        isCached: true
+  - title: "Harnessing the Power of Cloud Computing for Scalable Artificial Intelligence Training"
+    excerpt: "Introduction: In today’s fast-paced digital landscape, the intersection of cloud computing and artificial intelligence (AI) is revolutionizing the way organizations approach AI training. The scalability and flexibility offered by cloud platforms have transformed AI training from a resource-intensive endeavor to a streamlined and efficient process."
+    publishedDateTime: 2024-03-13T06:08:00Z
+    webUrl: "https://techbullion.com/harnessing-the-power-of-cloud-computing-for-scalable-artificial-intelligence-training/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 45
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2024/03/Harnessing-the-Power-of-Cloud-Computing-for-Scalable-Artificial-Intelligence-Training.jpg"
+        width: 650
+        height: 450
+        isCached: true
+  - title: "Fighting AI-Driven Cybercrime Requires AI-Powered Data Security"
+    excerpt: "For chief information security officers, the greatest cyber threat is ransomware, which criminals can now weaponize with AI to find weak points faster and wreak havoc in real time. In the face of ever-evolving cybersecurity challenges,"
+    publishedDateTime: 2024-03-12T18:50:00Z
+    webUrl: "https://hbr.org/sponsored/2024/03/fighting-ai-driven-cybercrime-requires-ai-powered-data-security-2"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 34
+
+secured: "quiQBmdgf3XBlqKL0gVWEySNRW9bGQ7UBfh+kDKGXdN3PMN9vxOilp++o7QIq9VuXRmTTfDQajMJs4jSYOtpPGN24Lp+zz7Vl4HAJC5RPxOgKzqvsAlJzpooLnTzmum5HMt5cPq44swCC/ZtKiLRUceqJ2agRiscYQEOFrWNml73B6eQ5eAMV0ejRXoOm9lJ5Dlwn75aJ+/4TdwE22Ex37zNiDaHyyTggEO3E4YEo0RRrUr0iI4wlHJvUkSTWqfFSBnd2XP0AyieDyKRePXqO8IxmHR7nKT1MLYXFaafuKTs8eEP0xqp53q9/okTZWfPHOr79WnM+lj8hgojDkOGvFJCx+heVPffVor+oD7a1Hy/ZwN1FmGCYIhSNpJGEBf6fii4PwoAkB5OQr5+qPp8C1gc2jYz+QtNK31PqUtTibmDAWZkTFLxc8u4iecdVFHuHxmjQk7U21qWznHAKwmsrG7c4DcLMC7aUQ3fkKDdHhRzr4pgjabFwrrM3o11RF3BC9jbPR6GTcmDRyHcaMTe1A==;n/QAOrlXZxvUeggD49PvQQ=="
+---
+

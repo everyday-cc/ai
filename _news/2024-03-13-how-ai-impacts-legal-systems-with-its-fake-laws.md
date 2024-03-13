@@ -28,18 +28,20 @@ images:
 
 related:
   - title: "AI is creating fake legal cases and making its way into real courtrooms, with disastrous results"
-    excerpt: "Weve seen deepfake, explicit images of celebrities, created by artificial intelligence (AI). AI has also played a hand in creating music, driverless race cars and spreading misinformation, among other things."
-    publishedDateTime: 2024-03-13T10:47:00Z
-    webUrl: "https://www.econotimes.com/AI-is-creating-fake-legal-cases-and-making-its-way-into-real-courtrooms-with-disastrous-results-1673389"
+    excerpt: "We've seen deepfake, explicit images of celebrities, created by artificial intelligence (AI). AI has also played a hand in creating music, driverless race cars and spreading misinformation, among other things."
+    publishedDateTime: 2024-03-13T16:50:00Z
+    webUrl: "https://techxplore.com/news/2024-03-ai-fake-legal-cases-real.html"
+    ampWebUrl: "https://techxplore.com/news/2024-03-ai-fake-legal-cases-real.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2024-03-ai-fake-legal-cases-real.amp"
     type: article
     provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 26
+      name: techxplore
+      domain: techxplore.com
+    quality: 48
     images:
-      - url: "https://f1.econotimes.com/2024/03/waj0i9ram6_th_1024x0.jpg"
-        width: 496
-        height: 330
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2023/lawyer.jpg"
+        width: 2880
+        height: 1920
         isCached: true
 
 secured: "fHOfZdvE4Bv7LH4BlvUyTUKbgUY8dcbH+d6vTwNZGBj6VIyb7kjU4SboWw2QfFdhqurg0tshOdPGf5cJw64FWVOLJ4uF6qYPED+6AdAW2O4/0R616sDh/1cOUfYhUfEzeJVhWm9pSA4lpwIuW/L4ZUlcJ7bDzNSzVpizeYeXF56h0zQbDw5jC/BVmkUDP4Sk+IXS6PGZnmC8WoXw8piv/pylMfMEPk/8g6ROVkGITnMtd8FAwI7rJBSQNbomg7IMSpRNwExinpHjatyK0yo3UholRu5s0oUhho4pRwoneYi5xSmjXt3OorBR6QoUmhtO839bvBUBbsc+lyCUaGQ3S84X5DyS0zq5eOFoTVRXotcialCX7Aa8JJUvdYKndjhDOJ82yS4ku3r/LUziIYDSKDchCSrB5rvVXHVFULJYW3aU4Th+oVh9N+4WQfi9v9WmXlxWjtKVwT9ZwvA/8xKNY62+2CvU1iyZqJePamjtPtOS0eVtSNKtHQeW4lC/ohJka14dxCLT6CPc4BqEMjy3dA==;p7ZjtfCH43yAPnnkQbHn/w=="

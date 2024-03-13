@@ -104,6 +104,33 @@ related:
         width: 1024
         height: 577
         isCached: true
+  - title: "Europe passes world’s first major act to regulate AI"
+    excerpt: "The European Union Parliament made history on Wednesday by approving the world's inaugural comprehensive regulatory framework for artificial intelligence."
+    publishedDateTime: 2024-03-13T13:10:00Z
+    webUrl: "https://invezz.com/news/2024/03/13/europe-passes-worlds-first-major-act-to-regulate-ai/"
+    type: article
+    provider:
+      name: Invezz
+      domain: invezz.com
+    quality: 19
+  - title: "New regulations on artificial intelligence, including free statewide training, clears CT committee"
+    excerpt: "HARTFORD — A key legislative committee on Tuesday approved a framework for regulating the nascent artificial intelligence industry in an attempt to make the technology more transparent and accountable. It also outlines criminal consequences for those who ..."
+    publishedDateTime: 2024-03-13T00:00:00Z
+    webUrl: "https://www.newstimes.com/politics/article/ai-ct-new-rules-free-training-legislation-18964353.php"
+    type: article
+    provider:
+      name: The News-Times
+      domain: newstimes.com
+    quality: 18
+  - title: "New regulations on artificial intelligence, including free statewide training, clears CT committee"
+    excerpt: "The legislative General Law Committee on Tuesday recommended new rules for CT's fast-moving artificial intelligence landscape."
+    publishedDateTime: 2024-03-13T17:54:00Z
+    webUrl: "https://www.stamfordadvocate.com/politics/article/ai-ct-new-rules-free-training-legislation-18964353.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 18
   - title: "Europe’s world-first AI rules get final approval from lawmakers. Here’s what happens next"
     excerpt: "The AI Act is expected to officially become law by May or June, after a few final formalities, including a blessing from EU member countries. Provisions will start taking effect in stages, with countries required to ban prohibited AI systems six months after the rules enter the lawbooks."
     publishedDateTime: 2024-03-13T08:30:00Z

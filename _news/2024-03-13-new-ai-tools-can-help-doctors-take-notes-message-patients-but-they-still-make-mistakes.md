@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/us/new-ai-tools-help-doctors-take-notes-mess
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/new-ai-tools-help-doctors-take-notes-message-patients-still-make-mistakes.amp"
 type: article
 quality: 78
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://wwwcache.wral.com/asset/lifestyles/healthteam/2024/03/13/21326716/65f1336aab595-media_86a7222f9f1b4c55a1678a68673af435-DMID1-6291d71sa-640x480.jpg"
         width: 640
         height: 480
+        isCached: true
+  - title: "New AI tools can record your medical appointment or draft a message from your doctor"
+    excerpt: "Your next check-up could be recorded by an AI-powered smartphone app that listens, documents and instantly organizes everything into a note you can read later."
+    publishedDateTime: 2024-03-13T19:58:00Z
+    webUrl: "https://www.wthr.com/article/news/nation-world/new-ai-tools-for-doctors/507-59ef852d-6fc0-4f58-b9c4-a119f992f205"
+    type: article
+    provider:
+      name: WTHR
+      domain: wthr.com
+    quality: 30
+    images:
+      - url: "https://media.tegna-media.com/assets/CCT/images/caf1355f-8f8a-464c-9371-fec12b6d5684/caf1355f-8f8a-464c-9371-fec12b6d5684_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
 
 secured: "TVmIALBY6JWjXcMK/yfkUm8rre9SboAOuxe+Nu9KjcL1Ex13Tb5zpkx/1BBWpByXIJ6DiWhcmAyzhE9ACKmOvCy9DVqpLSniYmva6lssep9ci4lW2jGmKUOUEgLWimaIaIGVp8vYrANWK+vkC2mVW841keD/uTc5tyPaxYuTbyIKb9LyIntdNyGDc8/GojZ0uvq621DcNNYn5Pa2Ps9ZkqrUxylOdLM2Mp+wtfebTD+HaCm7eI4oiJu588MidVtOaHxDHkgpdnw9OE2a5x0Pe+/SXKHlppCwxf88tGDQXH54+AkJYdfpBdojONTFu0hJJ+ACtDD4Uw44Rk5wTApVi/DP3ivlH77ZMTYyq36ODQM=;eqSaKAC/q4vYokHa7EsACA=="

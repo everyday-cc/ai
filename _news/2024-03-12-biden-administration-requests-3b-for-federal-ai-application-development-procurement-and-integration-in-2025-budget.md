@@ -44,6 +44,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 48
+  - title: "Future-Proofing Frontier AI Regulation"
+    excerpt: "The amount of computation (compute) used to train frontier AI models could increase significantly in the next decade. By the late 2020s or early 2030s, the amount of compute used to train frontier AI models could be approximately 1,"
+    publishedDateTime: 2024-03-13T16:02:00Z
+    webUrl: "https://www.cnas.org/publications/reports/future-proofing-frontier-ai-regulation"
+    type: article
+    provider:
+      name: CNAS
+      domain: cnas.org
+    quality: 19
   - title: "GetResponse launches AI email writing assistant: latest addition to its AI-powered solution suite"
     excerpt: "GetResponse, a leading global all-in-one email marketing platform, has announced the newest addition to its AI-powered toolset – an AI email writing assistant. It's the ideal solution for people struggling with a lack of time,"
     publishedDateTime: 2024-03-12T16:29:00Z

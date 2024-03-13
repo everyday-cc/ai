@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-copilot-for-secur
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-copilot-for-security-will-be-general-availability-on-april-1/"
 type: article
 quality: 121
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -33,6 +33,15 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft’s AI Copilot for Security launches next month with pay-as-you-go pricing"
+    excerpt: "Powered by OpenAI’s GPT-4 and Microsoft’s own security-specific model, Copilot for Security is essentially a chatbot where cybersecurity workers can get the latest information on security incidents, summaries of threats,"
+    publishedDateTime: 2024-03-13T16:59:00Z
+    webUrl: "https://www.theverge.com/2024/3/13/24099670/microsoft-copilot-for-security-pricing-launch-date-features"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 77
   - title: "Microsoft Faces Pressure to Deliver on AI Integration for Windows"
     excerpt: "Microsoft's AI roadmap, the industry watches with bated breath, hoping for a breakthrough to propel AI-enabled computing into the mainstream."
     publishedDateTime: 2024-03-13T10:35:00Z

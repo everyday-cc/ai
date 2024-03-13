@@ -96,6 +96,33 @@ related:
         width: 1024
         height: 577
         isCached: true
+  - title: "Europe passes world’s first major act to regulate AI"
+    excerpt: "The European Union Parliament made history on Wednesday by approving the world's inaugural comprehensive regulatory framework for artificial intelligence."
+    publishedDateTime: 2024-03-13T13:10:00Z
+    webUrl: "https://invezz.com/news/2024/03/13/europe-passes-worlds-first-major-act-to-regulate-ai/"
+    type: article
+    provider:
+      name: Invezz
+      domain: invezz.com
+    quality: 19
+  - title: "New regulations on artificial intelligence, including free statewide training, clears CT committee"
+    excerpt: "HARTFORD — A key legislative committee on Tuesday approved a framework for regulating the nascent artificial intelligence industry in an attempt to make the technology more transparent and accountable. It also outlines criminal consequences for those who ..."
+    publishedDateTime: 2024-03-13T00:00:00Z
+    webUrl: "https://www.newstimes.com/politics/article/ai-ct-new-rules-free-training-legislation-18964353.php"
+    type: article
+    provider:
+      name: The News-Times
+      domain: newstimes.com
+    quality: 18
+  - title: "New regulations on artificial intelligence, including free statewide training, clears CT committee"
+    excerpt: "The legislative General Law Committee on Tuesday recommended new rules for CT's fast-moving artificial intelligence landscape."
+    publishedDateTime: 2024-03-13T17:54:00Z
+    webUrl: "https://www.stamfordadvocate.com/politics/article/ai-ct-new-rules-free-training-legislation-18964353.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 18
   - title: "The world’s first piece of AI regulation has been approved. Here’s what it means"
     excerpt: "European lawmakers on Wednesday voted in approval of the European Union's landmark Artificial Intelligence Act, the world's first legislative answer to the rapid, unchecked growth of the AI industry. The legislation will ban certain applications of AI outright, specifically those that \"threaten citizens' rights.\""
     publishedDateTime: 2024-03-13T13:53:00Z
@@ -115,6 +142,6 @@ related:
       domain: apnews.com
     quality: 8
 
-secured: "VTQeyOlED2Na2nZAJU3DRyAPICoT6P7l4gOR1uZYmTyGhZgd7zQvTb8qlPzJyASPsZyWxgE5WIL6ER4q32Usi1OwGu0HieD59kZ+XmtyanBBWIbSHEIAXxcaBf+rlNTKHzdU8IHBcLZzaWGkkuLJWKDm4w+nG4LfxLPnKIOovvLOqVD7Wj0xiXJzi2n1QMnMc4cYze4KHLkhhO3WFGfH59480V2467slhI+X8V95vxtuh+8WpoGWUO3g02mB5Eo6J5H1SuttszAD2z9xpGivRUH2yxhGczSLxJ4bRBm1V2764V1ZzTzDxnnVJC/F6yn9rWL2qGL2WcqY/Xep//uVVhp9tDQH0P7dYKJTSagcgU4=;nfmjFPQC7xQ/lDUdQfdA1Q=="
+secured: "+0KlxESvrqNwAQUeJPfd4fn347CPnk/t6p+3PuflbyDrEnnZpyZw0W3NcK4tnONrOYo3h5rw+YuO1t+gMiFx7na5fqMThWcgWWQYoRIDuiKIoDLqPRjkVO/i8u4t4gmPX2ONJjXSHB2gT2Q9K/vrFcDrFxa4k+j2Xpj7E7XCSns1dzTOCVLm20hnYK+BP5HxR6EDvTzv1BbO/0pCfNmFzWBLf6aBX5/qwTqZAI/RD8+uIhjOC6+tXYno0OMeYdfKsFrvcH2sFIv1cOPC6n+22tV2BrOeeHOb7++LQr2z3YUaVL+DZVqek5wOSKg3y+Cx8JyH0j7ILK8aqJWfSAaamhWLC2qWJpTGdiIm7OYJZ8OnVNDwMuDRtwqgs3zrm5Npa9krMtGMEFHvXasyUV80SSEAgFr11lReiE0caTdkyjJWX0Q6n9eQNZN5KYO/qlLKaou4IFDrOz2+ONU19hjKXaYo6R6MlapsSEYhuZUPW6W+cMg7Q+p7N9bRfNcZUofb+zseYJH1VdubWBONwfTStA==;jIhx1OV2emcMNWiIa2Z8Uw=="
 ---
 

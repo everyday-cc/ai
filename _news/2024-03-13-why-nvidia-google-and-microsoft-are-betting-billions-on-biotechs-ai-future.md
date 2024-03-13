@@ -205,15 +205,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 49
-  - title: "3 AI Stocks That Nvidia Should Buy Next"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Nvidia (NASDAQ:NVDA) started the current artificial intelligence boom."
-    publishedDateTime: 2024-03-08T20:37:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/3-ai-stocks-that-nvidia-should-buy-next-1033147633"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
   - title: "Nvidia: We Were Right About Data Center And AI"
     excerpt: "Nvidia Corporation's commitment to innovation in the data center drives strong revenue growth, surpassing competitors. Find out why NVDA stock is a Strong Buy."
     publishedDateTime: 2024-03-11T19:24:00Z
@@ -227,20 +218,6 @@ related:
       - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1494623399/image_1494623399.jpg?io=getty-c-w1536"
         width: 1536
         height: 1034
-        isCached: true
-  - title: "Nvidia, HP give data science a GPU boost"
-    excerpt: "The two tech companies will infuse enterprise AI workstations with GPU-powered data processing and model building software."
-    publishedDateTime: 2024-03-08T21:08:00Z
-    webUrl: "https://www.ciodive.com/news/nvidia-hp-ai-pc-workstations-data-science-gpu/709798/"
-    type: article
-    provider:
-      name: CIO Dive
-      domain: ciodive.com
-    quality: 39
-    images:
-      - url: "https://www.ciodive.com/static/img/article-signup.png?320916100822"
-        width: 822
-        height: 822
         isCached: true
   - title: "Nvidia, Databricks Hit With Suits From Authors Over AI Training"
     excerpt: "Chipmaker Nvidia Corp. and software firm Databricks Inc. are facing copyright infringement lawsuits from a group of authors alleging the companies’ respective AI models are trained on their books without permission."
@@ -340,6 +317,15 @@ related:
         width: 1280
         height: 741
         isCached: true
+  - title: "ZutaCore cools Nvidia AI GPUs with energy, carbon savings"
+    excerpt: "“By adding support for the Nvidia GPU, ZutaCore is now paving the way toward a more sustainable AI future where upcoming AI servers can be deployed in an energy-efficient, cost-effective and reliable way.”"
+    publishedDateTime: 2024-03-13T00:00:00Z
+    webUrl: "https://www.sdxcentral.com/articles/news/zutacore-cools-nvidia-ai-gpus-with-energy-carbon-savings/2024/03/"
+    type: article
+    provider:
+      name: SDxCentral
+      domain: sdxcentral.com
+    quality: 34
   - title: "Nvidia Faces Lawsuit for Alleged Copyright Infringement in AI Training"
     excerpt: "Nvidia is being sued by three authors who claim their copyrighted books were used without permission to train its NeMo AI platform."
     publishedDateTime: 2024-03-11T10:10:00Z

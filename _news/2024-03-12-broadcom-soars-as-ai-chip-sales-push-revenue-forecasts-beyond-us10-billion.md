@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20240311PD213/broadcom-ai-chips-re
 webUrl: "https://www.digitimes.com/news/a20240311PD213/broadcom-ai-chips-revenue-nvidia-google.html"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "Broadcom Gains Analyst Confidence As AI Innovations and Strategic Acquisitions Set to Propel Growth"
+    excerpt: "Broadcom advances in AI optical interconnect solutions with new 200G/lane EML, VCSEL, and CW laser, expecting $10B AI chip sales in 2024."
+    publishedDateTime: 2024-03-13T17:52:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/broadcom-gains-analyst-confidence-as-ai-innovations-and-strategic-acquisitions-set-to-propel-growth-1033160927"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
   - title: "Broadcom: AI Saves The Day"
     excerpt: "Broadcom reported strong Q1'24 with 34% YoY revenue growth, driven by data center and hyperscaler demand for AI infrastructure. Learn more on AVGO stock here."
     publishedDateTime: 2024-03-11T21:21:00Z

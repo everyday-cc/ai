@@ -44,6 +44,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 48
+  - title: "Future-Proofing Frontier AI Regulation"
+    excerpt: "The amount of computation (compute) used to train frontier AI models could increase significantly in the next decade. By the late 2020s or early 2030s, the amount of compute used to train frontier AI models could be approximately 1,"
+    publishedDateTime: 2024-03-13T16:02:00Z
+    webUrl: "https://www.cnas.org/publications/reports/future-proofing-frontier-ai-regulation"
+    type: article
+    provider:
+      name: CNAS
+      domain: cnas.org
+    quality: 19
   - title: "Biden administration requests $3B for federal AI application development, procurement and integration in 2025 budget"
     excerpt: "The President’s budget looks to fund the National AI Research Resource pilot, agencies’ establishment of Chief AI Officers, the AI talent surge and more AI development across agencies."
     publishedDateTime: 2024-03-11T19:28:00Z

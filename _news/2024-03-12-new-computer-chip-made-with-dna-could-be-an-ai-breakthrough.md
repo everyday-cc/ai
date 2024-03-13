@@ -7,7 +7,7 @@ originalUrl: "https://bgr.com/science/new-computer-chip-made-with-dna-could-be-a
 webUrl: "https://bgr.com/science/new-computer-chip-made-with-dna-could-be-an-ai-breakthrough/"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 2400
     height: 1350
     isCached: true
-
-related:
-  - title: "Matrix multiplication breakthrough could lead to faster, more efficient AI models"
-    excerpt: "This could eventually accelerate AI models like ChatGPT, which rely heavily on matrix multiplication to function. The findings, presented in two recent papers, have led to what is reported to be the biggest improvement in matrix multiplication efficiency in over a decade."
-    publishedDateTime: 2024-03-08T21:08:00Z
-    webUrl: "https://arstechnica.com/information-technology/2024/03/matrix-multiplication-breakthrough-could-lead-to-faster-more-efficient-ai-models/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 62
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/03/matrix_hero_1-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
 
 secured: "J821jkKNWDGvL6JMbmsxG65f8lL8Zde9WLYmV6g+uCMVMZzrrNT5Gzhhl5RjXeSvVY3rojF9nHZ0K7ldeIVyq8cKETI/XgVc/MPAyYHAoQQWJEOD0bZ9YjytULFy5eUXke+qe9w4fHFq5GxrMzlrZau6PUCXNgjmh5QxBYhXKav7q2Q0V6yiXJ7xBxSmiR78vGgLTI6KedM7KUCzJ1P1LmB0XNEJ8u+Om4GFc110iL3dokSK7sU7SgJIKCwTCanGqFuWED3Mmk4NLZvgVptKXSBV1hyilq/KQm6hSKCPrxJ3xrBxPTLiBg7ZnbS0rdLx9FXoExB2gWptiY1DjuAOm2i+Zg48csMCzeccSZIgVOzUyqPhhtN0Sr6kOaoUA0nxcjG68/KTrsPPJmtuv8uA4gtCr2tfDMSlHl9iF8wEwiAhtcxwwYlE8xKWDFu92swo2+pVkiVCdG6DqbR6o38iixmOYjk6nwO/XcDGB8tDpP/0Vs/APDh5/aQzBm7g5Sezlm3Yj3j04v6AROY/kQ/8DQ==;6ggrpQ5pwSMOWVZawAlhJA=="
 ---

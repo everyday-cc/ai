@@ -9,7 +9,7 @@ ampWebUrl: "https://zn.ua/amp/eng/supporting-the-development-and-containing-the-
 cdnAmpWebUrl: "https://zn-ua.cdn.ampproject.org/c/s/zn.ua/amp/eng/supporting-the-development-and-containing-the-danger-of-artificial-intelligence-a-guide-to-state-policy-part-two.html"
 type: article
 quality: 52
-heat: 52
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 630
     height: 360
     isCached: true
+
+related:
+  - title: "Strengthening the partnership between humans and AI: The case of translators"
+    excerpt: "ChatGPT and its ability to hold conversations and produce written content have been the focus of a lot of attention in the last year in the field of technology and artificial intelligence. However, AI has been around for some time,"
+    publishedDateTime: 2024-03-13T18:33:00Z
+    webUrl: "https://techxplore.com/news/2024-03-partnership-humans-ai-case.html"
+    ampWebUrl: "https://techxplore.com/news/2024-03-partnership-humans-ai-case.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2024-03-partnership-humans-ai-case.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 56
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2024/translators.jpg"
+        width: 1920
+        height: 1440
+        isCached: true
 
 secured: "uqZL47Srf/2EdwaS9fApCBEcA2fEuPRogK03crJYHMUxMTZ2sewoL5jZMJ8uJTnawcZmoihmgsWqaW+PKUm3FtQ7oxBf2G30sf5Lln7aSZH8gGpiX/2pdHnn1dljug5gXr+4lGFkAR6sKWQqgYXbyXPJU5yBXJ/bSiRM5rVrUtKebzdhtqynxBCAj1FLkY3Ud2yytZgiKUl72D+6yX4R0r7xwVcWDk7fXEqEsFvdvii5vJod73fMU5oaqxveHna5Onrh1WbYaTnZd4Ro/8u3GdutYwvSYJHBqiMOyIRjzA7IptTLMZsUn9DIuyAQEJ3ezWKS/LyirTB7Z+4eYTvVy56V8kyIspm3XkN/eelZCurP8RJXnGa/syLwlBfULF4ajoEWPkde5ocrwNF9Qc6ul8NoTlazbpIfX0MKorwlAtJ1o+FpaiWdYnPF/9zFCTJ3bLIp//u88GE4bGrBQr8ZnTv+YpU5X+uJoLxUdxq4o9aPTGXXKXpbTlJ95EI1RwbgaPl3Wc/HuUcEjdXiaRkGjw==;ggIGsFBd9FuUUrs3KuYcVA=="
 ---

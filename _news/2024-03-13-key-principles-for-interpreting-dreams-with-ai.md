@@ -51,6 +51,15 @@ related:
         width: 1600
         height: 1066
         isCached: true
+  - title: "Quantexa Decision Intelligence Platform to Help Enterprises with Getting Data Ready for AI"
+    excerpt: "Quantexa, a firm focused on decision intelligence solutions for the public and private sectors reveals its Decision Intelligence Platform roadmap."
+    publishedDateTime: 2024-03-13T16:27:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/03/222606-quantexa-decision-intelligence-platform-to-help-enterprises-with-getting-data-ready-for-ai/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 11
 
 secured: "YY50VcEwTocp/6rSmvUYiInTy1s59KhUoSni8kQC6lc/ZYMnXGrgnjnYiaF9zzaTq3Q2oU3FpTNry/dp7aE7W3W7OWxtjRSqCjgAIaGGRWa9d7mCeQyPy3Sf61Scc3CZW+R/5OZUEIvCLvGgFQkO6qeTV+Ed7HvExEG0GrG8DClClMLUzscEunnUzkigRAzhsgnjSfe1e1nf4MRNGKafJWVkVTX4kTdORe+k9GSWlmV5PzPf+6fga7Ovsz4g/i+IYdyRvyeecAIQlvAL3MS+rWt+gUJD8mpBykREDxOguuHwNZtnNdiiA1b+kbsbmCajGVtK02AgUjgmsnja/rK0AaKyXiyq5kJzRwwQ5Ur3BP8=;BgzVEd6k/MrHVt9CSU4a2Q=="
 ---

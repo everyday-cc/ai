@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/03/12/glacier-is-training-ai-powered-rec
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/glacier-is-training-ai-powered-recycling-robots/amp/"
 type: article
 quality: 104
-heat: 184
+heat: 194
 published: true
 
 provider:
@@ -137,6 +137,15 @@ related:
       name: Harvard Business Review
       domain: hbr.org
     quality: 34
+  - title: "The sibling entrepreneurs' AI-powered credit-underwriting platform, Worth AI, aims to standardize business credit scores."
+    excerpt: "The sibling entrepreneurs' AI-powered credit-underwriting platform, Worth AI, aims to standardize business credit scores."
+    publishedDateTime: 2024-03-13T16:33:00Z
+    webUrl: "https://www.inc.com/ali-donaldson/after-scaling-stax-unicorn-status-co-founders-suneera-sal-madhani-unveil-new-fintech-business.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 0
 
 secured: "tb8ngKkvck469PTHBLGU0LInK99plPzPNnvTAuEidIn9PnsZCzCnHbRidU+qExdGoJqND9xohfoNBrvjXigzpPTqowPby+pNNeOFtVYqLUp3oiLbCiX/OH2fsA0KGQ670zPx5ZnCPcugc4ezpdOSraH7LK+Yo/T0NdZsRUGK7RfYIoo/gkSaUYz8bvp5vMrxEonbVtHWHJCUOQh8boBd6Yb7UGsXIQ4irsNOi3UoK+/O6HDCXLFb4QBoCJs+JUvkvrKJ2BV6WyBkjdPnrreL1XmR+YbH1JKrMnnTRFb+kQBjrCSIhGphXlfa8i3i+QhCgeD8thyTzrMAfQwkSH2i0pUBzUEOEoW0MU+elW+UWLA=;bRYRLaWmAjqXrhCvsbWgjA=="
 ---

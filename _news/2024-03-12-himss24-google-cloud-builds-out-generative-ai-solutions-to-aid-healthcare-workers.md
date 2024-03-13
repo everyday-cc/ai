@@ -189,6 +189,20 @@ related:
         width: 1280
         height: 716
         isCached: true
+  - title: "Generative AI Hallucinations and the Risks of Fact-Free Certainty for Tax Research"
+    excerpt: "Tax law research, for example, is an area that demands accuracy in content and sources. In “The Rise of Generative AI in Tax Research,” an article published by Tax Notes, the authors warned that “ChatGPT has significant limitations when used for tax ..."
+    publishedDateTime: 2024-03-13T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/generative-ai-hallucinations-and-the-6405829/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 33
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.13283_5741.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "5VtVszaYuQkZoEiuSOEN7A8NWR9k8ffZ+gl/Oc0bfCxTCGPDGfFi/LId70+l0A68p/BQhLyhJqXJR8u5ImljwyBc6E0RGagYxzrnbyZvhlE/PnJD53EChjXkuJhBYbNsNd/hQBBgBqcBZFCGANJpYG7Q8WIfiHgJ92tZSb9VYqv/iGTwja498pMg0sY3mAnEvqM+10Z/Ndwu+CZINhLpSryfO9ccn955sHsiRn0J0hsFkqCT6UmULLeXBscCGU/8jeEF/HAePMqcovIoiIuf8WV2/nmi0ZYf0hUGhdqWBURK1Km8mFPjFibRt2eKrKv0MmzcZZWy2th3tyXouzXFKSlvx2ET5KLrkROO/5yNSamwaSpvOWdpDxTGX+++dvsxYIr61I9avUaXV7H2xHpJg9LGHc1JhFpceTmojXhmLk0ZDrFYnVuz1WzvDMZp4KH4roNXT1OoCSALDyDgl0fK15HI4J7CeyvHiChNs/+svDV7cfx7Wo/eN0Iv0hueryibOV/b/W5r/iOal/sjSVxWlg==;eMMz3l72wsn3VwQq30hX7Q=="
 ---

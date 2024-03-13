@@ -132,6 +132,15 @@ related:
       name: Harvard Business Review
       domain: hbr.org
     quality: 34
+  - title: "The sibling entrepreneurs' AI-powered credit-underwriting platform, Worth AI, aims to standardize business credit scores."
+    excerpt: "The sibling entrepreneurs' AI-powered credit-underwriting platform, Worth AI, aims to standardize business credit scores."
+    publishedDateTime: 2024-03-13T16:33:00Z
+    webUrl: "https://www.inc.com/ali-donaldson/after-scaling-stax-unicorn-status-co-founders-suneera-sal-madhani-unveil-new-fintech-business.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 0
 
 secured: "kSHfhNPFGUJm+k4RinwDoOzRKAdHeTBzcQCkUK038pmfxRnowdWzyXq3KwZimTW2HKZNRdt7CHGhtvAb8UkkwRD74mSwNTR4GMDpPxT9UDseiVwutGFyRD0AEyn1n/OJe/HaCipANXwK0VBlXHZcWiRTdVgBYuDfeLBKkKD0Ge1MfL51aASRbbAuCaCwfJdNQcN9iAeiICaegjhkBvMfSo5l3Zx0135z1v6UMAQeZ3DYJKfBDRuxauyX3o5b8dsao4/IlW/5Af0+WZb5CEj8Gx3oGSnvHYVYUeWnFnuJM7eVjH0fwA8pxfQIy7IWFsJUvytz3e8ZL8BgzgEZ0SuW58e1cKghA1H6p1LXGpeid7g=;S2paaBXVUrRGsI50MInnfw=="
 ---

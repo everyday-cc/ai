@@ -48,6 +48,15 @@ related:
       name: Santa Rosa Press Democrat
       domain: pressdemocrat.com
     quality: 36
+  - title: "California 'Waymo' bill aims to give cities more authority over self-driving car companies"
+    excerpt: "California Senate Bill 915 proposes to empower cities to issue their own local permits for self-driving car companies."
+    publishedDateTime: 2024-03-13T12:50:00Z
+    webUrl: "https://www.ktvu.com/news/california-waymo-bill-aims-to-give-cities-more-authority-over-self-driving-car-companies"
+    type: article
+    provider:
+      name: KTVU
+      domain: ktvu.com
+    quality: 24
 
 secured: "jHPeVJZOx5G8SPJN58a1aOnjbHGPQuz4ymZJd3AY1PhxNrlSIj5dXXIjhv9B15eT41OEgh+RSGWfHan5imEP53/tFxzuIuJHBRmGO/5+9W9XKBaRx9COIs+TxBuw2x/M+sIDKgGt+HItCSAZOccgNoL0b6/JlpfQKYNOaS+4m1ujlgLPjfOuD/ePIqtlSdrf96KakjgUFHDISrqMuxSQ7zyMygXlFzxrH5PPeq8rMyytysgCim7Hg38i26DbzUYeFpUomcYbaxemTbhXZ+4oainquAOwiam8dqStFKJJt4TdBg0Qvl51ITgymiRNMleXAiPuoB0ueGkxZaA1RZJr/mmORdZb0OfpJ5Lp9fuW9nw38IC6m5795rno/3GdU9vqvfPIohPypyZd0Wu6SlxqubSv3Z3Z1k65i76R715a/iEegEdEBDNOIstl5RgSIiiKEXl2jwFbY6U2Rttz0SX82qJqZsMsDub7inTHp1vbFWR6Roi3Oo8QynPjJrdDMz1E7ZOWRwI7FMbVi1aWQYAmWg==;JiXqXYqi5lh2IXi/+g5gtw=="
 ---

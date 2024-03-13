@@ -67,20 +67,6 @@ related:
         width: 2048
         height: 1152
         isCached: true
-  - title: "Civil rights commissioner slams DOJ, HUD absence at facial recognition briefing"
-    excerpt: "Mondaire Jones, a Democratic appointee on the U.S. Commission on Civil Rights, said he would have urged the use of subpoenas if the panel was given “adequate notice” of the agencies’ refusal to cooperate."
-    publishedDateTime: 2024-03-08T21:58:00Z
-    webUrl: "https://fedscoop.com/commissioner-slams-doj-hud-facial-recognition-briefing-absence/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 35
-    images:
-      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2024/02/GettyImages-1219135449.jpg?w=506"
-        width: 506
-        height: 337
-        isCached: true
   - title: "Cortland Student Government Association overturns decision, grants Turning Point USA recognition as official club"
     excerpt: "“The College’s recognition of Turning Point as an official club sends a huge message that universities cannot pick and choose which views are appropriate to allow on campus,” Legal Council at Alliance Defending Freedom Mathew Hoffmann said. “All students should have the freedom to express those views on campus.”"
     publishedDateTime: 2024-03-12T21:40:00Z

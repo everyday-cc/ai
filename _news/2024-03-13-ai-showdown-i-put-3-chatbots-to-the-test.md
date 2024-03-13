@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/ai-showdown-put-chatbots-test.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-showdown-put-chatbots-test.amp"
 type: article
 quality: 87
-heat: 161
+heat: 151
 published: true
 
 provider:
@@ -91,20 +91,6 @@ related:
       - url: "https://www.thetechedvocate.org/wp-content/uploads/2024/03/101-5.jpg"
         width: 1548
         height: 776
-        isCached: true
-  - title: "AMD Says It's Super Easy To Set Up Your Own AI Chatbot, Here's How"
-    excerpt: "Don't forget to enable GPU Offload if your system has a fast GPU. AMD also talks about using LM Studio on a \"Ryzen AI PC\". It's true; you can run LM Studio on a system with a Phoenix or Hawk Point processor. However, on those machines it will run on either ..."
-    publishedDateTime: 2024-03-08T20:00:00Z
-    webUrl: "https://hothardware.com/news/amd-guide-lm-studio"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 39
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/64084/content/chatbot.jpg"
-        width: 708
-        height: 365
         isCached: true
   - title: "HNW clients demand better tech but do not want AI chatbots"
     excerpt: "High net worth clients want better technology from their advisers and wealth managers but are not so interested in AI chatbots, a report has found."

@@ -48,15 +48,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 46
-  - title: "AI Funding Continued its Hot Streak in February in an Otherwise Dim VC Market"
-    excerpt: "The report says that $4.7 billion was invested in AI companies in February, which is 20% of the total VC outlay of $21.5 billion for the month. That's a more than 50 percent uptick over the $2.2 billion spent on AI companies in January"
-    publishedDateTime: 2024-03-08T19:42:00Z
-    webUrl: "https://www.inc.com/sam-blum/ai-funding-continued-its-hot-streak-in-february-in-an-otherwise-dim-vc-market.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 14
 
 secured: "ai97+7l/R2RmE4K4+aVGkScifd62Y7g9wvAoy2woQ0/F41yZiyOWrQ+84lPsThuZmsFy4PrpEOj38uuuV8YXV6057dwGkshfeZpDDwuuRGZaUPKmvbO6YbGjDcYwG2rceHblub+x2przyr9AUIW8r3WCQ3gyP+YA7D5NTEe1ZKTpLtupN2y3mvOmVSKMIuLzuh/xjScS24qdEdp5pqgdzJTtg0IqEZERkO5AuQsPnWGdDmIgPc+Q5lS+0ZwijL4itHRmp34xpTU1WvhedajQ0oTQ6ic0tb8vFfVLHSCsLMfzZ3KH+FFlE/TqhgMxvSVdF/1LEe7KcUTKITsDEiywEDhaqKdi60XIgYWSM1IwsRY=;QgiT0VYDvgBRwvmhAsh9Gw=="
 ---

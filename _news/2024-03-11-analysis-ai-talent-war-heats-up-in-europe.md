@@ -32,6 +32,20 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "EU votes to ban riskiest forms of AI and impose restrictions on others"
+    excerpt: "The AI Act was supported by 523 members of the European Parliament (MEPs), while 46 voted against and 49 abstained. The legislation classifies AI into four categories of risk: unacceptable risk, high risk, limited risk, and minimal or no risk."
+    publishedDateTime: 2024-03-13T17:32:00Z
+    webUrl: "https://arstechnica.com/tech-policy/2024/03/eu-votes-to-ban-riskiest-forms-of-ai-and-impose-restrictions-on-others/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 67
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/03/europe-flag-digital-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Europe Set To Adopt World’s First Artificial Intelligence Law"
     excerpt: "The world’s first law governing artificial intelligence (AI) was today adopted by European lawmakers — a move that could have significant impact on film and TV production. The Artificial Intelligence Act are an attempt to government how companies and ..."
     publishedDateTime: 2024-03-13T08:52:00Z
@@ -82,6 +96,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 18
+  - title: "Europe Set To Adopt World’s First Artificial Intelligence Act"
+    excerpt: "The world’s first law governing artificial intelligence (AI) was today adopted by European lawmakers — a move that could have significant impact on film and TV production. The Artificial Intelligence Act are an attempt to government how companies and ..."
+    publishedDateTime: 2024-03-13T08:52:00Z
+    webUrl: "https://deadline.com/2024/03/artificial-intelligence-act-european-union-1235857218/#!"
+    type: article
+    provider:
+      name: Deadline.com
+      domain: deadline.com
+    quality: 17
 
 secured: "GE/JZVaFSS8D2gljLd/3AowmIqP5UC1Xyl7LUqiWr2VZJhQeZa/T6w6jxGMMyD6wvyr8gpuZuIpK2ol8N4Ctw2W0+ciYm8Z6l0KCYMeTt+uKs8DiHoaug484fJ6NXrtZK40Uy4AqLyhQgRzE9kzqK3TRf8RlzDW28wGCHCje6d3e2Pu95tNt2TJ4gzHXQIaEbL437iQx5ro6/Vc3uyUzpDNY/SwgsJzKpg++5cZn/TYnx/5GczW7G5/VYbQyOFsmpFUkaHSlvhUkzprrN/W5UdiN9Jh4hNXKunli3O1X744N3izijl6lWeeV6aqlDR8TdG83/32CjE6HfWTmkC0pUdTwJGb+Oh2sKrqUAebYCA3i2iGkWX/NTs+U43aVuVtCtJU9RMpLPVa34GGQBZyPBH11V3/VZcwGJI19dVMhsinBa/LkLcZw2uDqz4mCn+Zqq0fUyQJVSy6IesVviQq1uLzgr50gYu7o0fkE0S9dSr4rhFpVePXHm7AdCWQL32ITJasMx8VdTJO2NAOkrvpacA==;Ye6pinBuJ60fYo/GfmTUtA=="
 ---

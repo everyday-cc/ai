@@ -37,6 +37,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Anne Boden on supporting female fintech founders"
+    excerpt: "The book contains contributions from leading women in fintech including June Angelides ... phase will be focused far more on technologies like artificial intelligence (AI) and deep learning, she comments: “We've also got the additional change that ..."
+    publishedDateTime: 2024-03-11T02:03:00Z
+    webUrl: "https://www.finextra.com/the-long-read/972/anne-boden-on-supporting-female-fintech-founders"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/finextra-images/oped/972.jpg"
+        width: 799
+        height: 449
+        isCached: true
 
 secured: "YJewbXgviRz0sXIEt3xiFk8ks60CXU15Xa1Lfns6NExhXOwOoVS6tEl9pFXr0WC8BuWtcK5rdTwhinz9/COknCGBi8c+ibqyO3gy+HtLBvQZi/cEstC1jRvjASP9Z4TMA6MQwryhsarzLFgSnuUx1sGHsXdZc/gNOQlFEkwju40KRMeoTk4zk767rqSGo5y03xuPXabiEkLLdM67/90Obl6TRkXEbFwlLRcqjCIaYOxRPEOfm1+URdpC3ZlQN1/tzRwFuF2r4/DCIYt/xr7IZ6KyUm6E9LPfV7ckkIeMaQryThMmzp3GvcjHQ1yCqQStbjy8qfBwQejU8GscyYyuHTAy2L/Bn39S9FY/xpAetMLl7RfnbE5/aBB/NVg/bREZ8HR6GFhjDMa9PXT4m2tvZDUAZ7QyzW6ILBwjklSabEU18ENM18hojLlkaBy1e+noe/T6v5fdsX2AoacjrR+bfZv+3rRr/PXpoLVRv1YNR0lh5dvdYMU0CTf3wqQcDhFEKEiTkUpDroJt7P8vkYN5+Q==;slUfB/mTjX8YvFW2lOKdPw=="
 ---

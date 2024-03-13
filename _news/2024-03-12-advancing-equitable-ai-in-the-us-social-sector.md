@@ -88,6 +88,20 @@ related:
       name: SourceSecurity
       domain: sourcesecurity.com
     quality: 32
+  - title: "USPTO’s New Guidance on AI-Assisted Inventions: The Impact on the Use of AI in the Life Sciences"
+    excerpt: "On February 12, 2024, the US Patent Office and Trademark Office (USPTO) released the Inventorship Guidance for AI-assisted Inventions (the Guidance). We previously discussed the Guidance here. Following up on the Guidance, the USPTO released two examples ..."
+    publishedDateTime: 2024-03-13T16:23:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/uspto-s-new-guidance-on-ai-assisted-9775656/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 26
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15363_1913.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Epistemological Vertigo in the Age of AI"
     excerpt: "It's tempting, perhaps even easy, to view AI emotions through the lens of human feelings, to anthropomorphize these complex systems and attribute them to the same kinds of inner e"
     publishedDateTime: 2024-03-09T19:33:00Z

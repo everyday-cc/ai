@@ -9,8 +9,8 @@ ampWebUrl: "https://www.psychologytoday.com/us/blog/the-neuroscience-of-eating-d
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-neuroscience-of-eating-disorders/202402/eating-disorders-chatbot-therapy-and-the-uncanny?amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 89
+published: true
 
 provider:
   name: Psychology Today
@@ -27,6 +27,26 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft says new AI security chatbot pricing model lets customers ‘buy what they need'"
+    excerpt: "Microsoft charges for use of its Azure OpenAI Service based on the number of tokens a ... Other security software companies dabbling in generative AI include CrowdStrike, which has a chatbot called Charlotte that costs $20 a year per device."
+    publishedDateTime: 2024-03-13T00:00:00Z
+    webUrl: "https://www.nbclosangeles.com/news/national-international/microsoft-says-new-ai-security-chatbot-pricing-model-lets-customers-buy-what-they-need/3362433/"
+    type: article
+    provider:
+      name: NBC Los Angeles
+      domain: nbclosangeles.com
+    quality: 42
+  - title: "Eating Disorders, Chatbot Therapy, and the Uncanny Valley"
+    excerpt: "Chatbots are computer programs that use artificial intelligence to \"interact\" with humans. Source: Alexandra Koch/Pixabay The human-like conversational abilities of chatbots position them to be useful and affordable agents in mental health therapy ..."
+    publishedDateTime: 2024-03-12T00:00:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/the-neuroscience-of-eating-disorders/202402/eating-disorders-chatbot-therapy-and-the-uncanny"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-neuroscience-of-eating-disorders/202402/eating-disorders-chatbot-therapy-and-the-uncanny?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-neuroscience-of-eating-disorders/202402/eating-disorders-chatbot-therapy-and-the-uncanny?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 39
   - title: "U of T researchers are developing a chatbot to help people stop smoking"
     excerpt: "An artificial intelligence-driven chatbot being developed by U of T researchers could soon deliver therapy that will help people in Canada quit smoking. In the medium term, the chatbot could help reduce the 45,"
     publishedDateTime: 2024-03-13T13:09:00Z

@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft’s AI Copilot for Security launches next month with pay-as-you-go pricing"
+    excerpt: "Powered by OpenAI’s GPT-4 and Microsoft’s own security-specific model, Copilot for Security is essentially a chatbot where cybersecurity workers can get the latest information on security incidents, summaries of threats,"
+    publishedDateTime: 2024-03-13T16:59:00Z
+    webUrl: "https://www.theverge.com/2024/3/13/24099670/microsoft-copilot-for-security-pricing-launch-date-features"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 77
   - title: "Microsoft Corporation (MSFT) Rose on Accelerated Growth from Azure"
     excerpt: "Carillon Tower Advisers, an investment management company, released its “Carillon Eagle Growth & Income Fund” fourth quarter 2023 investor letter. A copy of the same can be downloaded here."
     publishedDateTime: 2024-03-11T06:23:00Z

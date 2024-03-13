@@ -51,15 +51,6 @@ related:
         width: 640
         height: 426
         isCached: true
-  - title: "AI Funding Continued its Hot Streak in February in an Otherwise Dim VC Market"
-    excerpt: "The report says that $4.7 billion was invested in AI companies in February, which is 20% of the total VC outlay of $21.5 billion for the month. That's a more than 50 percent uptick over the $2.2 billion spent on AI companies in January"
-    publishedDateTime: 2024-03-08T19:42:00Z
-    webUrl: "https://www.inc.com/sam-blum/ai-funding-continued-its-hot-streak-in-february-in-an-otherwise-dim-vc-market.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 14
 
 secured: "waymIMzMbyWxNmPAgtkZpa8xH92fD6U914OOqc3R9wMBU4p4dXzDCIsuaUj3mNhLLFZLdRnA7YpsAWM8cOO8ZM9aHiprlY/uTzqRgNye6Svxzbb2/cdK/RAw2bFvtTPq2FM3TrN8acNE2vXKJoDmuy8DLGf3jtSUYuGTB1/3uGHe/or3ZscbXaVSo3prdAra/3TM3OmeQR8pnRstLpxR+K1Tf/BnFmMKjHU0yQgMw6hMwle0dGoG2HLE7pa1Qwo2K3CQsb0OuA37E/WQm8D2JmiMq6ajp7nXsPwSjfOokeUnHAp3XO5jTIqd44HGGP37dwwOmAvcTByqiLDF9nKpJVcLP7kyV8TvAVrWE0gslbNRX1U17TnPWp9wUacXkzWATNQRjwzpuCD1Xz+OvJ7kpff0iVLYkwiM+aN5RPaTiMiN80Mzyjh9cfKZl8C9v/jJMpzrxQMwCrn2/gWgti73t8NUE5c9iTdwma2JSU034cXRFAyMUdaRD12mTc0SB02PD68fTemZQDF8mG0ciivdzw==;U0Dq5rMqOI6P4IHgxWaXfQ=="
 ---

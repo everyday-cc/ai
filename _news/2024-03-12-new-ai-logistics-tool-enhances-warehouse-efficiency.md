@@ -19,19 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "MIT Leads the Way in AI-Driven Warehouse Efficiency"
-    excerpt: "In an era increasingly defined by automation and efficiency, robotics has become a cornerstone of warehouse operations across various sectors, ranging from e-commerce to automotive production. The vision of hundreds of robots swiftly navigating colossal warehouse floors,"
-    publishedDateTime: 2024-03-11T02:14:00Z
-    webUrl: "https://www.unite.ai/mit-leads-the-way-in-ai-driven-warehouse-efficiency/"
+  - title: "AMD Is Optimistic on AI PCs Bringing Greater Efficiency to Enterprise"
+    excerpt: "AMD CEO Lisa Su and VP of Product Management Jason Banta expressed optimism about the hot on-device AI market."
+    publishedDateTime: 2024-03-13T20:17:00Z
+    webUrl: "https://www.techrepublic.com/article/amd-ai-pcs-sxsw-2024/"
     type: article
     provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 69
     images:
-      - url: "https://www.unite.ai/wp-content/uploads/2024/02/alex_mc9997_a_robotic_flying_insect_in_nature_4f742cc4-0f5e-456d-9b1f-479e6bf0a829-400x240.png"
-        width: 400
-        height: 240
+      - url: "https://assets.techrepublic.com/uploads/2024/03/AdobeStock_627078046_Editorial_Use_Only.jpg"
+        width: 1400
+        height: 933
         isCached: true
 
 secured: "U+zvDoX/Mo8bcW6wMfHp1H23dlSUsIoLd8P08DTBZhiT42BDAB94DkYSytZccnjDoHyC3I+XBqfIbnWTiHUFOFpupd5gA4LntWZaO0Deuy40Mfi4mp5N8BdUBaXhPGCXZEXlQg5tnm/0K5aFJVsDMZvpq4IaffVa5DkX2D7Zjibdl/W1EW+8VxN8RAiwPH0Ou5m7Ekn9uanYqipITK5Age+lVU0Qj3qwK2lqlUReojLN0OT3bsscvPCvM9g3RBJvHClRn7RpMZNqBnygy8Pu5S6P8tN+HNYVwxcgRdgAm1WDNMM4O8nOdajBvicmJApl2LVpgXOLQdyilOlzNSexUwK6c3lWNxRyWYTDuAMDhkE=;OyATBuJuO5mcMUI6O0ZYpg=="

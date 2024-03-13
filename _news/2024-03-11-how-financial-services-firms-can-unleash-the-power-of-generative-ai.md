@@ -185,6 +185,20 @@ related:
         width: 1280
         height: 716
         isCached: true
+  - title: "Generative AI Hallucinations and the Risks of Fact-Free Certainty for Tax Research"
+    excerpt: "Tax law research, for example, is an area that demands accuracy in content and sources. In “The Rise of Generative AI in Tax Research,” an article published by Tax Notes, the authors warned that “ChatGPT has significant limitations when used for tax ..."
+    publishedDateTime: 2024-03-13T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/generative-ai-hallucinations-and-the-6405829/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 33
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.13283_5741.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "HIMSS24: Google Cloud builds out generative AI solutions to aid healthcare workers"
     excerpt: "Generative AI continues to be a big buzzword in 2024 as tech companies see the potential to use the technology to alleviate administrative drudgery for healthcare workers. | Google Cloud is using its tech muscle to build out generative AI capabilities for healthcare and life sciences companies to help offload administrative burden and support assistive technology for clinicians."
     publishedDateTime: 2024-03-12T12:00:00Z

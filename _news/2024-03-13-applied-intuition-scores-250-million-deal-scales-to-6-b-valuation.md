@@ -56,15 +56,6 @@ related:
         width: 933
         height: 517
         isCached: true
-  - title: "Applied Intuition valued at $6 billion in new funding round"
-    excerpt: "Applied Intuition said Tuesday it has raised a funding round that will allow the company to speed development of new products related to generative artificial intelligence."
-    publishedDateTime: 2024-03-12T11:49:00Z
-    webUrl: "https://www.autonews.com/technology/applied-intuition-valued-6-billion-new-funding-round"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 4
 
 secured: "T6nYVah3JSdaYyjvBul4Gk2Jz38ga3f0TD49YcK6aLzcxGFPCfSd4lIAv4ZUZx0WX9N2U43g20XmLbotLmkWWlf9h1s48qvSLTLtKWNb2pyqjk9WdtHCum2pTALdUHEAsyFHOqK4ZyysMt0PP+y9chaRDgd3VgxRZsDIGHzR3NV8Y5YauhIRZdQwibOHzgmQ0uIqYHibV+yYXlONkaJhyx1H+U9TU05Hp20z3M1CwCcjlv0KWqumfF6j0QtrGxf3p83lQctCny8aImDvMJbgCT3WLuzhO1eiF6IbdlPy/w/tIeRDezGNwvfvU6JS2C6ekKLBd48oLPZ+8vlMBYnB2qRfi0pTszlqdGh9GLy9RSwrv3s+Saqw2xv8VmWuFc7sMGSOBlC17A1mJ7hb9M7TMYO5raBQP5ISYhLb1uf7unrBFxnNZK8hKfWTfBQaPspKprjtIWbQPFPOmwi7VcsSSDO2gC27EuKy54YASi+cJ6veyQeIYP0bcphzyeHfFPIgRn5L95FHZ2Fd62Vwu5G0Vw==;mMjVwynbzHRy3f1KFCpHvw=="
 ---

@@ -56,6 +56,20 @@ related:
         width: 1024
         height: 825
         isCached: true
+  - title: "Microsoft's complicated partnership with OpenAI concerns insiders claiming it's become \"a glorified IT department for the hot startup\""
+    excerpt: "Will Microsoft and OpenAI's multi-billion dollar partnership be beneficial in the long term? Insiders certainly don't think so, \"but it's a good business strategy.\""
+    publishedDateTime: 2024-03-13T20:05:00Z
+    webUrl: "https://www.windowscentral.com/microsoft/microsoft-partnership-with-openai-raises-concern-among-insiders"
+    type: article
+    provider:
+      name: Windows Central
+      domain: windowscentral.com
+    quality: 22
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/WscjnqGnqJgjmiiQqaKxfM-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "kRDZXTA/6wkZR4idkq9Yprg3slVycFgIfjPvQlanUyPH0Z5y3hjXsK4rL2lC9qO3CalgfNTSFxEnE+C9475Hj7Rb6CfpQ3p3kZyXEhdq5GAxr7ZNoU+1/hsHAU3/euHuBSL6ditJ7bMYkUyTtfo5qsqsdE8rCgggsmsEMj707rJvwc/o/nOpUHrXipNWHKvBIu8c20l6HZpwb6UKq67TB4avFSdIdY6LvsiHLoEV7NRjbwEDHp52u0fHTLNsHAn28JN7FzN2ST83tSmgn7jot9np3Np3qO1vn6tQoklKnp06kdrwvADBxYJwH4t/UwUVyHb8B+naGK4gvs8tymIHo6tCbmK6P4R7W1quKrzUu8w=;BqRhK/tb20WGtoEn3Vc4PQ=="
 ---

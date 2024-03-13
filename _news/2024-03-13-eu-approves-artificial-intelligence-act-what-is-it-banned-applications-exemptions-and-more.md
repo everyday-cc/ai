@@ -26,6 +26,17 @@ images:
     height: 720
     isCached: true
 
+related:
+  - title: "EU Parliament passes landmark AI Act — here’s what to expect"
+    excerpt: "The EU Parliament greenlights the world's first major AI law, the EU AI Act, which categorizes AI risks, bans harmful practices and promotes transparency. It aims to ensure AI development safeguards human rights and fosters trustworthy AI for the EU."
+    publishedDateTime: 2024-03-13T11:57:00Z
+    webUrl: "https://cointelegraph.com/news/eu-parliament-passes-landmark-ai-act"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 19
+
 secured: "mydni6h2uJqESfHy8PDkGIODAgehkbfP5gSOe1x1vl0XBrmQWR3fq6K81z97byYUkMUJAyKYigv5bPvFC0mmybocuqMcN6yj0Ckz7Vqlt/5xSO1+0tewgJ1T7kYvnXDvKOnngC3Jlrcqmn7RVuay9bl7XW77mFadqwH54PxhslLDebuUbj4w1VvMIS1iFer2pG85pinpnwgPp5E0aevH3zgpPP2u4PF5ptpTmug0UPu7MQdfCBYuAt0vCA1/+eViKijn9cM/C0mhopEGW4gSY0S8wndFe/4z2wMuuEiKMlEkK2bZiwSLTNWLm53oVQFu0aHLoRiq0O1FNKbN5c2+xQZTS/8LK7scY+h2uVj2bLU=;wH3D7TlDFoNA2RgIjLGXYg=="
 ---
 

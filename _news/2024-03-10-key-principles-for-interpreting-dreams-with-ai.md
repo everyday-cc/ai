@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/za/blog/dreaming-in-the-digital-age/
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/dreaming-in-the-digital-age/202403/key-principles-for-interpreting-dreams-with-ai?amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -52,6 +52,15 @@ related:
       name: Psychology Today
       domain: psychologytoday.com
     quality: 39
+  - title: "Quantexa Decision Intelligence Platform to Help Enterprises with Getting Data Ready for AI"
+    excerpt: "Quantexa, a firm focused on decision intelligence solutions for the public and private sectors reveals its Decision Intelligence Platform roadmap."
+    publishedDateTime: 2024-03-13T16:27:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/03/222606-quantexa-decision-intelligence-platform-to-help-enterprises-with-getting-data-ready-for-ai/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 11
 
 secured: "+kyQYkPcGBsNVHOZx+wtTshXFog5wL9GQ8vXbp1PTmWIMqgONQSlAghEbZmnMLsg85bpiyPq94+Gp6UNdxxuj+oIIYHH/TiUpbhZk8/PaFSGSGfH0xwsRE4I2SCNqAkfUWaHbNvHbAhXjm5RyDmjXMSPCnHv3gKl52MwlUK/VykuZrGSuSleTxJUYYY7WlGIZ43fAoJDzNpptzcop4bZBIUMXtP0g2lUOzBYOfVuYQAjKTkijVd88ZdqLZ7CPGmCkbG5QZRUkLzFdSTKsV9ttcLewxpaEgT7T/bgub+ZzgCiLNB+YSnxhc8lOEgXq9u3t4WjgGwAw5Kwly7FwM0TTU2IRP/6MmiabV3roLbhs3E=;z1BbWkSXx7X7R4AjFxdRAQ=="
 ---

@@ -55,6 +55,15 @@ related:
         width: 1600
         height: 726
         isCached: true
+  - title: "Cerebras unveils four trillion-transistor giant chip, targets generative AI"
+    excerpt: "Cerebras Systems has introduced the latest version of its wafer-sized semiconductor. The Wafer Scale Engine 3 boasts four trillion transistors and 900,000 'AI cores,' alongside 44GB of on-chip SRAM."
+    publishedDateTime: 2024-03-13T18:37:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/cerebras-unveils-four-trillion-transistor-giant-chip-targets-generative-ai/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 32
 
 secured: "yHGwjPVXH6dbYIg9wsA5ydp6xesXGED3CNUElBS2aj4DmpHNSVahi9gydo4XLZfJ4wc4BUQV4c3kAKaxCv0UFUBeYG/K0YoMlM1Ki0PGw75mrvu4dUaHkOrIrEK2ArFhIhadsCFqRlAuP/DMgPfIcfMXV7j/cwF3abuuiGQMH+PxnXKnOb+010w3Iuf1+Yim/1FxNL013ATFny7cmc5jI3trHNtU39WKnRg9G3s7bg4Uax1xADGNCUFEUFb0v5/D2w6OfA4IvRir8VTaqUxH+po8rXPtcA3Rara1RaGBAzRvU1dXomOZT7RB9CB/6BKB/ZEl7eJbDbv8MSLaTVZV6Jrad3jeVJvi+VoXv8U/DMQ=;DWuUxTNUjLS17b2mImBLZw=="
 ---

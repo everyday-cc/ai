@@ -38,6 +38,22 @@ related:
         width: 1350
         height: 900
         isCached: true
+  - title: "New Study Claims AI, Robots, New Tech in Workplace Deteriorates Quality of Life"
+    excerpt: "A United Kingdom study of nearly 5000 workers reportedly found that AI, robots, trackers, and other new technology are bad for people's well-being while laptops, computers, and other long-established technologies prove to improve people's health."
+    publishedDateTime: 2024-03-13T03:11:00Z
+    webUrl: "https://www.techtimes.com/articles/302511/20240312/new-study-claims-ai-robots-tech-workplace-deteriorates-quality-life.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/302511/20240312/new-study-claims-ai-robots-tech-workplace-deteriorates-quality-life.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/302511/20240312/new-study-claims-ai-robots-tech-workplace-deteriorates-quality-life.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 70
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/443655/china-technology-ai-romace.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "India’s AI leap: bridging the gap"
     excerpt: "The just announced National Mission on AI ensures that all the necessary building blocks needed by India to shape the future of AI for India and the world are in place."
     publishedDateTime: 2024-03-11T07:20:00Z

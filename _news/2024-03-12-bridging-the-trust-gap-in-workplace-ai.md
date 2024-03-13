@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/12/bridging-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/12/bridging-the-trust-gap-in-workplace-ai/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "New Study Claims AI, Robots, New Tech in Workplace Deteriorates Quality of Life"
+    excerpt: "A United Kingdom study of nearly 5000 workers reportedly found that AI, robots, trackers, and other new technology are bad for people's well-being while laptops, computers, and other long-established technologies prove to improve people's health."
+    publishedDateTime: 2024-03-13T03:11:00Z
+    webUrl: "https://www.techtimes.com/articles/302511/20240312/new-study-claims-ai-robots-tech-workplace-deteriorates-quality-life.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/302511/20240312/new-study-claims-ai-robots-tech-workplace-deteriorates-quality-life.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/302511/20240312/new-study-claims-ai-robots-tech-workplace-deteriorates-quality-life.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 70
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/443655/china-technology-ai-romace.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "The women in AI making a difference"
     excerpt: "Many had no training or education, formal or otherwise, in AI. Contrary to the Times’ suggestion, the AI craze didn’t start with Musk sitting adjacent to Page at a mansion in the Bay. It began long before that, with academics, regulators, ethicists and ..."
     publishedDateTime: 2024-03-09T19:10:00Z

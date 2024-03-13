@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-startup-cerebras-unveils
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/"
 type: article
 quality: 101
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -56,7 +56,16 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 64
+  - title: "Cerebras unveils four trillion-transistor giant chip, targets generative AI"
+    excerpt: "Cerebras Systems has introduced the latest version of its wafer-sized semiconductor. The Wafer Scale Engine 3 boasts four trillion transistors and 900,000 'AI cores,' alongside 44GB of on-chip SRAM."
+    publishedDateTime: 2024-03-13T18:37:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/cerebras-unveils-four-trillion-transistor-giant-chip-targets-generative-ai/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 32
 
-secured: "89YCbNQJOoS9pPXqafOKdbMjXIEXE5Jp2MMS8VmGQfkhvz78uJDSc8UaqP29ujv8dI0ALqdi/Pfi5v8dCnpiPpT0SrPf1eLTjjR3mqCS1eBbSr11+RaJypJx9IyhxLxmILP0RT2w5oAH9u7s1iHOevyaWHg9nxP0uS2ylHgrtdZ8PG71tKdPkzzdDMHqC6vnXTtLG4IVq8DelgrTjIeruoB8GNbCQLQ48mNmsH9eeEkBhRqdowxNYHVnTF5vWJMrulqJaaMurEIiD2HA0EL6fMUpUkuJX5ozlMVQxmq/5gsChSMWITZj0NjhbHKYymBHB0R/M4KdICq/Dw9qbhVD5S5GH6ljEroKQIGnNg3ZGnk=;Q5mIOAG6qFxqDMslXB29xA=="
+secured: "l40M5wMiMJzM/RsU3uA9YPLWGwJAGuKbp3fNFnlYsrxXA8ZOrOYyhO+WnzcEv290Oh0o1eJNKJ4qeh4HC80txy7sNtI6zUm5UQ3zfzn5MxCiLx4acehZtvTEMNh+FRdSgxUD6YOwqPEQefkXB47OpvMiRXBmII6wQbutP+y8gI6/mFA67lmImwUn60pTEFVuyFOdRBhmQvYScyK7K782PQZAQGsz7rP7cCrW5EHZnp2EVe9CjxVqRgIbfe0SHSiJSMXLrZBzRh4441xbUfWu0+7sZnLpTY5edNWoZ2W5XRMqSqqEQKAV3gdvqPzTyUsIC6+E2oQ4gXHbt+LHiwlMrHTFqHtE90rXxOJmLCLJHWVUMfgVXkTYyFw4kvm8dODYURc+LVIEJ9G39lXqDFGYXsWcl+fzWcF5Ff6aCtUIWzvL2MExJY1IZ2saZaVeVpV+QwDsAFLDVZjyshXpfOdMbtgNFTA6O9gzO0ck5FAuU1ebKDn2W6+e02lWZtBq+aZD5E4WWPc+VXxotiyM0R9TOA==;Wo/xTxeqsTN2ro75/apLRA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://asia.nikkei.com/cms/Business/Technology/Taiwan-chip-powerh
 webUrl: "https://asia.nikkei.com/cms/Business/Technology/Taiwan-chip-powerhouses-see-February-sales-soar-on-AI-demand"
 type: article
 quality: 71
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -49,15 +49,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 46
-  - title: "AI Funding Continued its Hot Streak in February in an Otherwise Dim VC Market"
-    excerpt: "The report says that $4.7 billion was invested in AI companies in February, which is 20% of the total VC outlay of $21.5 billion for the month. That's a more than 50 percent uptick over the $2.2 billion spent on AI companies in January"
-    publishedDateTime: 2024-03-08T19:42:00Z
-    webUrl: "https://www.inc.com/sam-blum/ai-funding-continued-its-hot-streak-in-february-in-an-otherwise-dim-vc-market.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 14
 
 secured: "Uf/nVXQjO0u/kxLb6reKGovpQaNwkYk7DdIwC6VfcJuGMDD3WGCuuyUxS9+ClCUw37n8Hp3XhSNnt9SpimsstA518SfiIAP5usp8Clt7FIMnbUBzV86alIEPnDgTK2akWM0HouqzwoedNc7kFR1x6vGqbs3injvG1IrLNYlU3nLEI1r1yx890ZlW0T8Ycwiy4WLYJKpixy4gceMyryFC6npkBJVUsVIs0f1vh8Gj/v3z2ffz4XV0U589RWpkU95nj6jR7xTg3qrl+NpQlSFw/J6XZNujCff+Ou9mk6hob9JjdRjJygtEyTfx/iwfSOwt79Q01uris78bkkaRqX1FEIzUDyt6YoBe0dKvM0By8hA=;v+bkIBqRl3A2ilW/eqsPgQ=="
 ---

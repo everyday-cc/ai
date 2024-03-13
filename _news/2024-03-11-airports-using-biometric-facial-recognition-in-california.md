@@ -48,6 +48,15 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "California 'Waymo' bill aims to give cities more authority over self-driving car companies"
+    excerpt: "California Senate Bill 915 proposes to empower cities to issue their own local permits for self-driving car companies."
+    publishedDateTime: 2024-03-13T12:50:00Z
+    webUrl: "https://www.ktvu.com/news/california-waymo-bill-aims-to-give-cities-more-authority-over-self-driving-car-companies"
+    type: article
+    provider:
+      name: KTVU
+      domain: ktvu.com
+    quality: 24
 
 secured: "5P/VzFRmERiGlhoZPEIswPTcAi9B0K4AhY8LJYVxAUKGn5tzD8skhxEgYYh0Z96t+XnkKnnZlc+xpB9apiFckiByIQksLp4Rn4VPeeVpaO6p8RWFJi+hnzf+DlRg1jpnIlO+PgFpDEml4XFHL4d1SGlFx+p+zZkkSGIvBCOQ3oPIMpBAWeqUSfB3+1nz5tkDPxgYTX2NsXJZwqtPjhLkUD8J275Y742937LNOsB8BWq0rrg09IRr8ARSYiD6Tp6WZd0jwqYhm3jhTsBWsTsndNRWxF2L1Sj333FUP2AJJdV867KpoYlVH/SWZvYALaVm/J0DEU6jN4+7Rpzxyo3GAMhgimGudN22zdu0U9VbSf4jHFf4+CyhE0Px+cNUima/MzhJR6WgtAv8wnHR9dCJQVPtewLy5BLLPY64ahfatTSQdv6bAp5UhwJyDhcJHly9Z3UFW7GPt1zCrNNUqJicTAOSd/PTdbJGHNYztOuf45kVJzruXWkdJK7W1PyewmLDamXHy3gFkjTcZwSg0sCDtg==;Wg+ubCoveEvd0h5dU9dYhg=="
 ---

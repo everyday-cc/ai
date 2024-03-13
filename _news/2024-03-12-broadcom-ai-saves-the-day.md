@@ -33,6 +33,15 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Broadcom Gains Analyst Confidence As AI Innovations and Strategic Acquisitions Set to Propel Growth"
+    excerpt: "Broadcom advances in AI optical interconnect solutions with new 200G/lane EML, VCSEL, and CW laser, expecting $10B AI chip sales in 2024."
+    publishedDateTime: 2024-03-13T17:52:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/broadcom-gains-analyst-confidence-as-ai-innovations-and-strategic-acquisitions-set-to-propel-growth-1033160927"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
 
 secured: "8jGhOYlYukwdWu0HC0B9AfDg77wdFM+HeMz4KbTf6mLZMK1wmlD27o/AgMvdc7Z8BlNfQa1KptGcYOu+vjY5YMWuZA65pqUKwrxSaOwGLA+pSC4WkHE+HPAqL/SPD1Prb/fS48ialaHLkTgZk4i6ew3dem+3G0PUDDqmhBiKuc8saLL1c5NHj6Je4+WDnEh/H7RiOZKXjefv806HWAY/w1Q+jP1nky/l08YrYbn97lrBOODIoue9SBisayPFlc4tY/4Bn4k4qoN0/I7SdVlEPH+ZXVvjn5bsJb0UivNceb63ocxmevTTgNTXF1A7XS/jSry1dW4XTwN/WSTaI2AlFnf07zbEml4p4qWxfemVpwFyHnrw6WtN4jQ2JiGooslOvUxLAHAGRXuTD4acxkQeln4/r1sOQRQQN2Bo/m6XzjytBXvdOB0Sa6pYEtApKgztHknEnehD2wwh2yEiP75/5hIrSz44Hq4Po7ROAQBDUqeRvh0Yj6E1GWYXRABEZHwCLwLjJSIMN6ygXJu2JtY2qA==;YNURZho4pgAfi2sCRRIAmA=="
 ---

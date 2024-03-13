@@ -103,20 +103,6 @@ related:
         width: 1548
         height: 776
         isCached: true
-  - title: "AMD Says It's Super Easy To Set Up Your Own AI Chatbot, Here's How"
-    excerpt: "Don't forget to enable GPU Offload if your system has a fast GPU. AMD also talks about using LM Studio on a \"Ryzen AI PC\". It's true; you can run LM Studio on a system with a Phoenix or Hawk Point processor. However, on those machines it will run on either ..."
-    publishedDateTime: 2024-03-08T20:00:00Z
-    webUrl: "https://hothardware.com/news/amd-guide-lm-studio"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 39
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/64084/content/chatbot.jpg"
-        width: 708
-        height: 365
-        isCached: true
   - title: "How AI Chatbots Can Help You Finally Learn a New Language"
     excerpt: "Language learning has undergone a revolution over the last few decades. Gone are the days of learn-in-your-car cassettes or phonetic phrasebooks. Apps like iTalki or Verbling that pair users with inexpensive contract tutors have made it possible to learn an entire language from your phone or computer for very little money."
     publishedDateTime: 2024-03-13T08:52:00Z

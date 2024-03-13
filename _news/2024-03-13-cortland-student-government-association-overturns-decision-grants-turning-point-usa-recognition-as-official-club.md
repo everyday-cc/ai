@@ -83,20 +83,6 @@ related:
         width: 2048
         height: 1152
         isCached: true
-  - title: "Civil rights commissioner slams DOJ, HUD absence at facial recognition briefing"
-    excerpt: "Mondaire Jones, a Democratic appointee on the U.S. Commission on Civil Rights, said he would have urged the use of subpoenas if the panel was given “adequate notice” of the agencies’ refusal to cooperate."
-    publishedDateTime: 2024-03-08T21:58:00Z
-    webUrl: "https://fedscoop.com/commissioner-slams-doj-hud-facial-recognition-briefing-absence/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 35
-    images:
-      - url: "https://fedscoop.com/wp-content/uploads/sites/5/2024/02/GettyImages-1219135449.jpg?w=506"
-        width: 506
-        height: 337
-        isCached: true
   - title: "CP Foods Earns Recognition for Rights Protection and Gender Equality on International Women's Day"
     excerpt: "Charoen Pokphand Foods Public Company Limited (CP Foods) has received two awards in recognition as the private organization's dedication to rights protection and the promotion of gender equality throughout the organization on International Women's Day 2024."
     publishedDateTime: 2024-03-11T08:42:00Z
@@ -112,6 +98,6 @@ related:
         height: 800
         isCached: true
 
-secured: "IOdt9MtVS3+SMKU0RylhicNzvavQrZ7cEaNg+OCwn0By9G2L0dkz35jKkRzya5WXTUZtHKiIfRxb1gvz3t2RvquiXPfxzC41vDpJFtQRHKh6jlH4/TS5n6uuMiRQMnhHqDQV5ZtURA9PFGxL19XDD0gkp+ZkYiaFDm9KTP/NTP6W7sspqqwBxqFG9boPNPXChNtjYgHq8wNyIgwOOKh+B4EhZfO+tF1YObPLhWvPB1A0M9GMpfFlLrZh9Ph1CANNKvgXrwGhy8cF4tlXaaxvIQq5+gemL3i9dmuxyJOzA0sMsNYr2bQ+BP/NhsHjPOzWDAuYJuueXd8fHmJj5IXqntSm50LOUdulZYlefVhF2ys=;mWGFZdfhPazcq9Ni2fAugw=="
+secured: "e/KFZkCrVR0MlMHQcONaQ9MC5m/rk4m2ndAok/KDmCe6ttabsfiZS8/+HzcGlEsvByI1y4uI9SEaV0wP2FW/bnNA3SHKUvfBgbrariE7JR9VW/2a/RABHntm2qt9QwFTFtiOBX+g8FekXNNvOgFiRp5JX81gl/y2o9t3NgyE8UqpUqDoMHwWaaKiZ4nZY2rc1KJGfqsMMiWN/BvaNkaOqaMe7goYawRdfgF8ezbwXCzhyt9HUk7e8BQaFPEVBBCZypsToGFnqKHbeOqO5TC15myu3B6cI1hmPfdzy3C+4SWo7+BAOePuhaSjqdD+DMlQl0mzUYSkVcqGIZkteRp9mkCZpUYIwExP0X52fi90ZThuKBlX6Tp4PFtKfjjFjKW+DU3dRG9LD6wMUr/AWmfMDbSP7Xj31vj7l5tzoqRDfV1JjJcxGP37sF8qonO0KDUGi/OSl7vVig4bIp0dS2Qp65NTKvSH2iINfvod4HmNUhAA0S3juURvfom6YMF85+5QGzcjt32dquK+m9zJiMe6ew==;hvMlG/dmuCMXaMm0EbnUXg=="
 ---
 

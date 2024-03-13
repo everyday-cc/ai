@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "New AI tools can record your medical appointment or draft a message from your doctor"
+    excerpt: "Your next check-up could be recorded by an AI-powered smartphone app that listens, documents and instantly organizes everything into a note you can read later."
+    publishedDateTime: 2024-03-13T19:58:00Z
+    webUrl: "https://www.wthr.com/article/news/nation-world/new-ai-tools-for-doctors/507-59ef852d-6fc0-4f58-b9c4-a119f992f205"
+    type: article
+    provider:
+      name: WTHR
+      domain: wthr.com
+    quality: 30
+    images:
+      - url: "https://media.tegna-media.com/assets/CCT/images/caf1355f-8f8a-464c-9371-fec12b6d5684/caf1355f-8f8a-464c-9371-fec12b6d5684_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
 
 secured: "HL3oYADtploxX/JdunTJVE74nBJZfCnIDQu02i8FfohOY4FpGjE3dwPPd0C7c5UlLT8Hm52xLA6qmupQ95TvU1KI+Z4btFZuQC2cPTiw9Q3VS3Wts5lbP1TLAGjfcjWVV0ChtO8tm6umb8MD/AuzVLrBMTgRFtFgazayU+mQIPsXl9aGEzLArbACCmmA09ueFBqlvPa233cLa55WI5YBjWGD3ol8ke+EoYZS65jqY4vuF0CvOIvg1he2Tm0lS4lOMnd0/UwiirXyWJGYgSOint0kJFfxldDKg/QxxdHtMLdphm5NZmPxs+lmp2cdfHS3m5RFImdwTlmRkT+THp5GRLYfC+5zXA7T0NETNhqs8c8=;/iHARFFk5Lvm5KoC2Olu5A=="
 ---

@@ -58,6 +58,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 46
+  - title: "Chatbot AI makes racist judgements on the basis of dialect"
+    excerpt: "an AI researcher focusing on ethics at Hugging Face, a New York City-based company that aims to expand access to AI. Efforts to tackle racism after the model has been trained, rather than before, “make it harder to identify models that are going to ..."
+    publishedDateTime: 2024-03-13T00:00:00Z
+    webUrl: "https://www.nature.com/articles/d41586-024-00779-1"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 39
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-024-00779-1/d41586-024-00779-1_26846306.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Elon Musk Can’t Sue His Way To AI Breakthroughs, Khosla Says"
     excerpt: "Billionaire Elon Musk can’t sue his way into artificial general intelligence, fellow billionaire and OpenAI investor Vinod Khosla said in an interview on Bloomberg TV."
     publishedDateTime: 2024-03-11T18:02:00Z
@@ -76,15 +90,15 @@ related:
       name: CoinTelegraph
       domain: cointelegraph.com
     quality: 17
-  - title: "The OpenAI-Elon Musk battle intensifies and AI trust sinks, but investors aren’t slowing down"
-    excerpt: "The escalation of the fight between OpenAI and Elon Musk over what kind of artificial intelligence company the phenom should be is creating even more uncertainty over who’s going to lead the generative AI era."
-    publishedDateTime: 2024-03-08T19:56:00Z
-    webUrl: "https://siliconangle.com/2024/03/08/openai-elon-musk-battle-intensifies-ai-trust-sinks-investors-arent-slowing/"
+  - title: "China Revolutionizes Surgical Assistance with AI Chatbot Powered by Meta's Llama 2.0"
+    excerpt: "Dubbed the CARES Copilot 1.0, this entity operates under the auspices of China's leading state-supported scientific institution, the Chinese Academy of Sciences."
+    publishedDateTime: 2024-03-12T02:34:00Z
+    webUrl: "https://www.techtimes.com/articles/302486/20240311/china-revolutionizes-surgical-assistance-ai-chatbot-powered-metas-llama-2-0.htm"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 8
+      name: techtimes
+      domain: techtimes.com
+    quality: 12
 
 secured: "4PsIg+IUXkVCmTHWx8jwVIXSU5XDkXZWrrWidGvEASmFkblHkmjf8cINwX5wWKU7rGz1Vb3DPiB08z4dDE1jZmdiY1XzrmWmYk0l7/mdakLdmatmA+aoZFnqyaabB5tUGzhBa6MnBZHx2CSK4431ukEq7zBqWVEYNSqEan+TMiKJD8o/sGRXDYoKSYHJ7GLGSOJFK5h0boUUlaireAOS21/chmR5VUDxILHqLiUgQYdOH5iK3h/nuyZaigrS7j8PLi0yicm/oqIgMQh/37T8ioNOlWSmzX6eA0bco3+AiG69YtQguRBgng8Y6Ld5uo2P4pOfTVk0V2s1vsaky1lF8HuFSAebf+/yMBctbayrTKgb2UDADnIaeb4h8cUf6QqU0pym5qKoWq9UByUs14ZHzJIICwl63vVXsvpuvdB9F2K45xffqhg9Le6vQf+GLIrklsAe+6KdjMesItnHNEtSXhomqb++bQR6TSG72CSTdXqRQ44jhznTOM0SmimhxrgdkP8yRtpVyhRSsKtg1vk4kg==;Yu8vQYhSp1kF6kdcH0g0kg=="
 ---
