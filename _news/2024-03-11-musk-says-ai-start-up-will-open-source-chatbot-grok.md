@@ -74,15 +74,6 @@ related:
         width: 1200
         height: 748
         isCached: true
-  - title: "AMD promotes third-party app for running AI chatbots on local hardware"
-    excerpt: "The most popular AI services available today run almost exclusively on powerful Nvidia hardware, and they force customers to use an internet connection. AMD is trying"
-    publishedDateTime: 2024-03-08T13:55:00Z
-    webUrl: "https://www.techspot.com/news/102187-amd-promotes-third-party-app-solution-running-ai.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 49
   - title: "Best AI Chatbots for 2024"
     excerpt: "Spread the loveAs artificial intelligence continues to revolutionize the way we interact with technology, AI chatbots have become an integral part of this transformation. In 2024, a variety of sophisticated chatbots are leading the way in customer service,"
     publishedDateTime: 2024-03-10T06:42:00Z

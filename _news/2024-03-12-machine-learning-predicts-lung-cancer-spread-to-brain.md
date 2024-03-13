@@ -7,8 +7,8 @@ originalUrl: "https://www.technologynetworks.com/tn/news/machine-learning-predic
 webUrl: "https://www.technologynetworks.com/tn/news/machine-learning-predicts-lung-cancer-spread-to-brain-384684"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: technologynetworks
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Deep learning tool predicts brain metastasis in lung cancer patients"
+    excerpt: "A new deep learning approach utilizes histopathology images to forecast whether a patient’s lung cancer will eventually spread to the brain."
+    publishedDateTime: 2024-03-13T13:00:00Z
+    webUrl: "https://healthitanalytics.com/news/deep-learning-tool-predicts-brain-metastasis-in-lung-cancer-patients"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 54
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/2020-09-18-GettyImages-1154235081.jpg"
+        width: 690
+        height: 400
+        isCached: true
   - title: "AI method can predict brain metastasis in lung cancer patients"
     excerpt: "Physicians treating patients with early-stage lung cancer face a conundrum: choosing potentially helpful yet toxic therapies such as chemotherapy, radiation or immunotherapy to knock out the cancer and lessen the risk of it spreading to the brain,"
     publishedDateTime: 2024-03-12T17:23:00Z

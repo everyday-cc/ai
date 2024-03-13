@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/news/india/lightspeed-ventures-to-ramp-up-i
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/lightspeed-ventures-to-ramp-up-investments-in-climate-change-and-ai/amp-11710134071305.html"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Mint
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "AI And Satellites Fight Climate Change And Restore Rainforests"
+    excerpt: "The rainforests may represent serenity for some. But for those protecting them, it’s tantamount to a war zone. Enter AI and satellites."
+    publishedDateTime: 2024-03-13T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/kensilverstein/2024/03/13/ai-and-satellites-fight-climate-change-and-restore-rainforests/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "Raleigh startup wants to fight climate change with AI, robots"
     excerpt: "A Raleigh startup using AI and robotics to change the world of farming is hiring as it plans a high stakes expansion in the Triangle. AgEye CEO Nick Gentry said the company, which announced its acquisition of the HYVE brand from DASCOM Americas this week, is scaling up."
     publishedDateTime: 2024-03-12T12:00:00Z

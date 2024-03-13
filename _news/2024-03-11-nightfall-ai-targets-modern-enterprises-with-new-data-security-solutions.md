@@ -33,6 +33,20 @@ related:
         width: 970
         height: 545
         isCached: true
+  - title: "A better way to manage hybrid or multicloud deployments"
+    excerpt: "Cloud-native strategies notwithstanding, workloads running on-premise or in private clouds will continue to present management challenges."
+    publishedDateTime: 2024-03-11T04:00:00Z
+    webUrl: "https://www.computerweekly.com/feature/A-better-way-to-manage-hybrid-or-multicloud-deployments"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 24
+    images:
+      - url: "https://cdn.ttgtmedia.com/visuals/ComputerWeekly/HeroImages/cloud-computing-speed-Tierney-adobe.jpg"
+        width: 1200
+        height: 400
+        isCached: true
 
 secured: "zXC7PFo95SXG091dbJflweJCCmv/uOgUuL+kZnSqxAA8Vn7s4VPzxPwo5QPAsjueVlEOvqzXF2GZsGOjAoq8NRsU5vBKMsqyCb4109smIkL/UVI5J2SwwouOt7rixxa8cpbb13vmkUdKMZl2EVTD6/AjZtlpeykUaEVst0MiaUhes5MU1mOWEI/BtcQ2qP7odnwThGdqQDDGkmEcder4KoHuIgn6sddtkc2Zb7rcOeS6XBFsRpfSkokLuiN+1ZZWAUrvlf+hK53IYiVljMhmBzXhmt5Ue6RWD+XwE0zdTSX5DgY8KcNvCNrfBmJ/XtJ+S9C9z6ZWAgU5HDYLaJFnH0kgByZ4DZbydyZt3XwBabylmgZvcajxhBiaxxPiyP6gdOdhgA8rpTzKLVoMmd5Swf9uEnfIebJrtdA1RbBsFVgIZW6J4uRpmE9zZTxGj0BnmdUXOj3uptV28WPhSA/K97comPnlKDzSDmsBzhPvSIoOR0UIlfXmYYKf5RvFH+MlODpD76cQKz9DcK/1JyObCg==;JMAgGpLen2j/NBzd6wV8Ag=="
 ---

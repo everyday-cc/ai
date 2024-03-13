@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telecomlead.com/semiconductor/samsung-may-use-sk-hynixs-
 cdnAmpWebUrl: "https://www-telecomlead-com.cdn.ampproject.org/c/s/www.telecomlead.com/semiconductor/samsung-may-use-sk-hynixs-technology-to-compete-in-ai-chip-race-115331?amp=1"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Samsung to use chip-making tech favoured by SK Hynix as AI race heats up, sources say"
+    excerpt: "Samsung has fallen behind in the AI chip race, while SK Hynix was the first vendor to produce highly sought-after HBM3 chips for Nvidia."
+    publishedDateTime: 2024-03-13T12:05:00Z
+    webUrl: "https://www.scmp.com/tech/tech-trends/article/3255175/samsung-use-chip-making-tech-favoured-sk-hynix-ai-race-heats-sources-say?module=latest&pgtype=homepage"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 57
   - title: "Samsung eyes opportunity in AI chip manufacturing market amid TSMC dominance"
     excerpt: "As companies strive to establish themselves in the AI era, the South Korean industry is monitoring whether Samsung Electronics can capitalize on the AI chip orders."
     publishedDateTime: 2024-03-11T04:27:00Z
@@ -84,6 +93,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "riPbbzY92/+NZHVRaXi1Z+pNJ6cTlRfyVnAI8dED8/x46VKoO0jB36ovtUCjTEkDj9PsXE13sc6we6O7dSRZcTH6OA39p0vLC+hrKvjY+LNohnj1h40hSiRDw/StzGqiedhJRupBndzMG3y+YyM9moc6pHzFfgu47k/Ev75GuXzZXoIJA7pDV8KPXXMzXhO7E8sI+pZ4ajc6Wx1oTTwI6jalAIEnsbgmua9YbJnnG5I7/h19N+0y6Y9f0e0b/DX75K+HAippksUb75q1YK/Te74nhLbK8fu+IYUHzij2nmFjSQW+QZQYIJqGwdSP+W2PhPHkA0jyGETpwMtqJmjE9ZLt6HiYIKKxagDanCoSATw=;5Q/LKhXvpoDlaoRuxDGvWg=="
+secured: "wkmbYXFPy3nY2WiBsKfpoJA1OMc7BOeqrni5+CPKQCAoWWMMMmAvnqCHvHvkhmIZ5EfGuF1Q3YMf03l2wk42FSMgWE7wgwDzvI/EmKmLtM5Nzbr9NQae1DRWgkBaX+xj6vZ3xu8JB379devf/NpjitlHhf36gyZS64TiRKP07s7LE3XOLhzNS5+czYXBsPz663Z4WoqCW/iZ9kHN17inNtMZK9Lfh95MS8tfHKxHsry5/A5KL8xlRUWOYrf4hfXQ4W5MmxEw5FI8+wn/AOxnOpy/EOaSHio4T4djyyEwU5X8xKBOzFFh8VO4hlOjs3nnAYMOrATT9MoCJAkEh0j9f+Pvs7P/AdEgiDmCI7wG+bqRqFj89+8UkpS416aHJiodqKgY6jONcEkJIedHke/Nt2Mv7jIjjlYFcQwrk45xJ2B2Bqg9Skl/GDiLCqfJuwFTSoXARfCKSLbL8ShX5WLYWQqbvRNUUR91amVPCPVus0/LI1SZ+9q2yKh1Pe20MOtXMMFwy5l2UcUdjU2uHxnTSA==;YlBvonJDvuJT7DnZU2EZwA=="
 ---
 

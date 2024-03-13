@@ -45,22 +45,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Using Generative AI To Help Cope With That Exploding Trend Of People Doing Abundant Ranting And Trauma Dumping On Others"
-    excerpt: "There is a rise in so-called trauma dumping. This involves people dumping out their expressed trauma. Generative AI can aid in coping with this in these sensible ways."
-    publishedDateTime: 2024-03-08T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/08/using-generative-ai-to-help-cope-with-that-exploding-trend-of-people-doing-abundant-ranting-and-trauma-dumping-on-others/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/08/using-generative-ai-to-help-cope-with-that-exploding-trend-of-people-doing-abundant-ranting-and-trauma-dumping-on-others/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/03/08/using-generative-ai-to-help-cope-with-that-exploding-trend-of-people-doing-abundant-ranting-and-trauma-dumping-on-others/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65ea5df29887bd7e668e400d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Akamai, Neural Magic Partner To Deploy High-powered Deep Learning AI Software"
     excerpt: "Cloud company Akamai Technologies Inc. (AKAM) announced Tuesday a strategic partnership with Neural Magic, a developer of software"
     publishedDateTime: 2024-03-12T11:44:00Z
@@ -127,6 +111,20 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2024/03/Harnessing-the-Power-of-Cloud-Computing-for-Scalable-Artificial-Intelligence-Training.jpg"
         width: 650
         height: 450
+        isCached: true
+  - title: "How AI is shaping the music listening habits of Gen Z"
+    excerpt: "In the past, adolescents’ musical palettes were dominated by the Top-40 artists, creating a widely shared – if perhaps narrow – repertoire of musical knowledge."
+    publishedDateTime: 2024-03-13T12:38:00Z
+    webUrl: "https://theconversation.com/how-ai-is-shaping-the-music-listening-habits-of-gen-z-224053"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 39
+    images:
+      - url: "https://images.theconversation.com/files/581018/original/file-20240311-22-us2x6s.jpg?ixlib=rb-1.1.0&rect=0%2C701%2C5234%2C2613&q=45&auto=format&w=1356&h=668&fit=crop"
+        width: 1356
+        height: 668
         isCached: true
   - title: "Fighting AI-Driven Cybercrime Requires AI-Powered Data Security"
     excerpt: "For chief information security officers, the greatest cyber threat is ransomware, which criminals can now weaponize with AI to find weak points faster and wreak havoc in real time. In the face of ever-evolving cybersecurity challenges,"

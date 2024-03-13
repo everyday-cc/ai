@@ -1,27 +1,27 @@
 ---
 category: news
 title: "AI is creating fake legal cases and making its way into real courtrooms, with disastrous results"
-excerpt: "Weve seen deepfake, explicit images of celebrities, created by artificial intelligence (AI). AI has also played a hand in creating music, driverless race cars and spreading misinformation, among other things."
-publishedDateTime: 2024-03-13T10:47:00Z
-originalUrl: "https://www.econotimes.com/AI-is-creating-fake-legal-cases-and-making-its-way-into-real-courtrooms-with-disastrous-results-1673389"
-webUrl: "https://www.econotimes.com/AI-is-creating-fake-legal-cases-and-making-its-way-into-real-courtrooms-with-disastrous-results-1673389"
+excerpt: "Generative AI can be a useful tool, but it can also create inaccurate information. Here’s how to safeguard Australian courts against fake cases, like we’ve already seen overseas."
+publishedDateTime: 2024-03-12T19:15:00Z
+originalUrl: "https://theconversation.com/ai-is-creating-fake-legal-cases-and-making-its-way-into-real-courtrooms-with-disastrous-results-225080"
+webUrl: "https://theconversation.com/ai-is-creating-fake-legal-cases-and-making-its-way-into-real-courtrooms-with-disastrous-results-225080"
 type: article
 quality: 26
 heat: -1
 published: false
 
 provider:
-  name: EconoTimes
-  domain: econotimes.com
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
-  - AI in Autos
+  - Meta AI
   - AI
 
 images:
-  - url: "https://f1.econotimes.com/2024/03/waj0i9ram6_th_1024x0.jpg"
-    width: 496
-    height: 330
+  - url: "https://images.theconversation.com/files/581132/original/file-20240312-16-84kk3r.jpg?ixlib=rb-1.1.0&rect=0%2C370%2C4107%2C2053&q=45&auto=format&w=1356&h=668&fit=crop"
+    width: 1356
+    height: 668
     isCached: true
 
 related:
@@ -41,16 +41,7 @@ related:
         width: 1280
         height: 768
         isCached: true
-  - title: "Expanding The Limits Of AI With Identity"
-    excerpt: "We are right at the start of seeing all that AI can offer, and I believe we are also only scraping the surface of what can be achieved with identity-centric data veracity."
-    publishedDateTime: 2024-03-08T14:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/expanding-the-limits-of-ai-with-identity/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
-secured: "ZBuGRCqVWRAcCfRLMocq6aJCTbRo1j+UA3iEMmJLRWPc5Imi1YgLfeIk0Ib5CoV5njfTze2pD/maMT5onpBe5ytcOoXYhHZusmXydK8Iaaj/Q9qkThUd40k1SvXFPA33FYvm5ni6fGeEifuB4SGNruQgRnV0m2pfbwwzSUbzBpg+OaFZld1yiQP5jw2ORKoW1x/UhYemum4Ze2p9KM6mMZAQjJXnXePbn3on4jYOhpD+APwDiIL+TkaO7cz9RrVBFhd3VA3GMVDGSsqU9q3a+TWSypAhrXgmTRjB7oIn28AlGiga11dluVlYXmzhLiv2+00ItvrqH1SuGLPZfSJSxXMgO8UKRenSX8+h9avF/7A=;v56zZiDyWTX+B2noUjX1uA=="
+secured: "GKOgPwjTP2w7Vqfs2MMCYk1DNzyRDvZxv5e3TYOvNqz031aF9yu7Ag4N1l5Z5QDSdFKpWcWk92QHJdziNRABEyNVECygekDFCrRjsqz/tD3hpt1kCuUcL57/daY00ZoFmHf9TZruwVAvAiQTMiPbdlPzhGRHURq379Uoz2cMvg0TlOUNeYNGFISmTVoGBEzjVC8yIH/Y9v1vXp6mLj6eG/Kcs2r4mnVzNWkIW0/bRaO2yYBiqBQJwMZ3D3MNT2Iw927mVDGhJcoSCNipSgzz8h8CEEBaHPzyxgPScG5CqDUsgc04RGDYF0dxNx/i5ghRvzRjPJbMl6MQ+5l5ti4uTutW420N0DmMRH+JHIUR6ac=;2+lqguZjV1M4u56s0upBfA=="
 ---
 

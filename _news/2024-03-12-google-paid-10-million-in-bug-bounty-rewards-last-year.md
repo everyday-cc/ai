@@ -9,8 +9,8 @@ ampWebUrl: "https://www.bleepingcomputer.com/news/google/google-paid-10-million-
 cdnAmpWebUrl: "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/google/google-paid-10-million-in-bug-bounty-rewards-last-year/amp/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: Bleeping Computer
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google paid out $10 million in bug bounties to security researchers in 2023"
+    excerpt: "and Kai's \"Hacking Google Bard - From Prompt Injection to Data Exfiltration\" and Roni, Justin, and Joseph's \"We Hacked Google A.I. for $50,000.\" The $10 million that Google paid in bug bounties in 2023 was lower than the $12 million the company spent in 2022."
+    publishedDateTime: 2024-03-13T15:36:00Z
+    webUrl: "https://www.zdnet.com/article/google-paid-out-10-million-in-bug-bounties-to-security-researchers-in-2023/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-paid-out-10-million-in-bug-bounties-to-security-researchers-in-2023/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-paid-out-10-million-in-bug-bounties-to-security-researchers-in-2023/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/d8405430cab212c3dfdcecd7ab9634be11f49abb/2024/03/13/b6f0cadc-6954-44b7-8866-151e0a2e31de/gettyimages-1972337683.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google Paid Out $10 Million via Bug Bounty Programs in 2023"
     excerpt: "Google paid out $10 million via its bug bounty programs in 2023, bringing the total to nearly $60 million since 2010."
     publishedDateTime: 2024-03-12T16:00:00Z

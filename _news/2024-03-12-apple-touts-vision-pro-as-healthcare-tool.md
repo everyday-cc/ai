@@ -45,6 +45,15 @@ related:
       name: Android Authority
       domain: androidauthority.com
     quality: 34
+  - title: "Hands-on Apple Vision Pro: Amazing but expensive"
+    excerpt: "After some thorough hands-on time with the Apple Vision Pro, here’s my review, as originally shared in the Rich on Tech Newsletter. This is the first product I’m at the same time in love"
+    publishedDateTime: 2024-03-13T11:58:00Z
+    webUrl: "https://ktla.com/news/hands-on-apple-vision-pro-amazing-but-expensive/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 4
 
 secured: "POfPkdRoB7KJLiVTDqApOIhWJcM1ytLfi8m3Xi7iZxZewT947f/S1PYLX0YT0eapJe3xoZ3FU9KY4VYE1Br0s1g5dqzpJiL8F5jhfPJE69/skxFqzSqDp/WApHrae5Q+kzc9xhvKABiNQ3uBQnDBAdkeEoOQZmZ/GBPZ0MSlUhuXksxX4V78YEew+G9N/+gUN/WE9x2IeRqUtux8L1ERVs50YEe/e6IG9lgqK8nAR92JmGoj4aoSzM8m6p+/2gM8K08rc7wL0cjh4iyp3vOtzVHL1g16Pbc4vqLQbKhGUbBbdw6IQp70SuNQArZSDpC9kbugcN4+LcM+62DgLMvE9z1vlYdRSESR1WHyBnusHu8=;oZCQjPreDdQ8zTifL+IKjg=="
 ---

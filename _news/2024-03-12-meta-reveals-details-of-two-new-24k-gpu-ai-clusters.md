@@ -3,8 +3,8 @@ category: news
 title: "Meta reveals details of two new 24k GPU AI clusters"
 excerpt: "Developed to support AI research and development in areas such as natural language processing, speech recognition, and image generation, the newly announced clusters both contain 24,576 Nvidia Tensor Core H100 GPUs. This is a significant increase over the original clusters, which contained 16,000 Nvidia A100 GPUs."
 publishedDateTime: 2024-03-12T15:12:00Z
-originalUrl: "https://www.datacenterdynamics.com/en/news/meta-reveals-details-of-two-new-24k-gpu-ai-clusters/?ref=biztoc.com"
-webUrl: "https://www.datacenterdynamics.com/en/news/meta-reveals-details-of-two-new-24k-gpu-ai-clusters/?ref=biztoc.com"
+originalUrl: "https://www.datacenterdynamics.com/en/news/meta-reveals-details-of-two-new-24k-gpu-ai-clusters/"
+webUrl: "https://www.datacenterdynamics.com/en/news/meta-reveals-details-of-two-new-24k-gpu-ai-clusters/"
 type: article
 quality: 54
 heat: 64
@@ -40,6 +40,6 @@ related:
         height: 2000
         isCached: true
 
-secured: "JtUME0g+iyc+a2sMrL8iYpPmKmSNcmbexifcJjbKxQl3XHuOt5c8misbioLSO2dybTh8jJi849VPoMU6vLbNRmqf75iE35vcfjLBNdt7Bur5iwUhEgcIarLM9rz5Nc43K40PVV12a9+p/ajf9XkCuIrCZowgBMlpC8bjSVdPJtmoIc1liYeAgPELv3hYN9Cb9B7JmlPJ6HjoWgyeAgDays1sTPk2GgO9NXdpPlWN3EFjNlHsu26jgPzlagkgcyh6z3QydRc4wRhB5hj8p+jnjxotePyZJ+mkkn171FRTWwkushIopLXtN7FoewJSP9jfXSKey9pxMfOcHMspPd1i3dIDLmzIGbS5T/UPwi5YaIY=;0sk/qeqH96h8No3hAGbjYg=="
+secured: "5KRudWDCO0MYLydwXkDQi0OOuSEcqzRmx0Z0MQtFEskIPwOhGZ36Wqe+l1Mt2inLuwD2+BbgUQmHMSWzVxjGR7DGWkqWFwQLDE2Z7ZUV73/O/njn8F+lm35yEY/a2RaBZvfEY0o2R2EJ698NxSvblUjjwU5mzEXTzbOv8eTrAGXV+3SIOJaINlkOQNNh7+Mv/zHRz4J8Or5mGrfsYKBhI7J90K8i4hIktbVEu/JMZzjY+OKi3ARuuKQG1b4mHFZsMtLoQrBBMK4yXQZwAklf85bZvvGsmdF8QcDAq9wiFPQ7ELNkD2FyeO3JaSskV6N41kRSHCI0/22OjhVAqY9muUih/dsXtdApe8BoA7Ye+Yc=;Z+gHdjM0jmWKLJebh98CCA=="
 ---
 

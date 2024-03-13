@@ -47,6 +47,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "AI will change the world—the terms are up to us"
+    excerpt: "AI was featured in the G7 Ministerial Meeting in Verona, Italy, and in conversations in the Business Federations gatherings, or B7.\nThe post AI will change the world—the terms are up to us appeared first on IBM Blog.\n"
+    publishedDateTime: 2024-03-13T14:00:00Z
+    webUrl: "https://www.ibm.com/blog/b7-eu-ai-act/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 99
   - title: "How generative AI will change low-code development"
     excerpt: "AI copilots and code generators offer similar benefits to low-code platforms, but they're not the same. Here's what industry leaders are saying about the future of low-code development."
     publishedDateTime: 2024-03-11T09:00:00Z

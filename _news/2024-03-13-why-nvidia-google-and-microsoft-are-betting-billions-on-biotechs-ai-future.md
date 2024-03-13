@@ -6,7 +6,7 @@ publishedDateTime: 2024-03-13T10:30:00Z
 originalUrl: "https://www.forbes.com/sites/richardnieva/2024/03/13/why-nvidia-google-and-microsoft-are-betting-billions-on-biotechs-ai-future/"
 webUrl: "https://www.forbes.com/sites/richardnieva/2024/03/13/why-nvidia-google-and-microsoft-are-betting-billions-on-biotechs-ai-future/"
 type: article
-quality: 83
+quality: 85
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ topics:
   - Google AI
   - AI
   - Microsoft AI
+  - AWS AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/65f0f81fab4ec72de094a838/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&height=900&width=1600&fit=bounds"
@@ -186,6 +187,24 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
+  - title: "VAST Data Unveils New Data Platform Architecture for the AI Factory"
+    excerpt: "VAST Data, the AI data platform company, today unveiled a new AI cloud architecture designed to deliver unprecedented levels of performance, quality of service, zero-trust security and space/cost/power efficiency for the AI factory."
+    publishedDateTime: 2024-03-12T14:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/vast-data-unveils-new-data-platform-architecture-for-the-ai-factory-1033154962"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "AMD Rally Looks More Fragile Than Nvidia’s as Traders Bid Up AI"
+    excerpt: "Advanced Micro Devices Inc. has kept pace with Nvidia Corp.’s furious ascent of late, but the factors underpinning its rally look less certain."
+    publishedDateTime: 2024-03-13T11:53:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2024-03-13/amd-rally-looks-more-fragile-than-nvidia-s-as-traders-bid-up-ai"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 49
   - title: "3 AI Stocks That Nvidia Should Buy Next"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Nvidia (NASDAQ:NVDA) started the current artificial intelligence boom."
     publishedDateTime: 2024-03-08T20:37:00Z
@@ -208,20 +227,6 @@ related:
       - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1494623399/image_1494623399.jpg?io=getty-c-w1536"
         width: 1536
         height: 1034
-        isCached: true
-  - title: "This AI token is being called the Nvidia of crypto"
-    excerpt: "With the reinvigorated interest in AI, decentralized platforms that offer related services are facing increased demand, including Render."
-    publishedDateTime: 2024-03-08T12:23:00Z
-    webUrl: "https://finbold.com/this-ai-token-is-being-called-the-nvidia-of-crypto/"
-    type: article
-    provider:
-      name: Finbold | Finance in Bold
-      domain: finbold.com
-    quality: 39
-    images:
-      - url: "https://assets.finbold.com/uploads/2024/03/This-AI-token-is-being-called-the-Nvidia-of-crypto.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Nvidia, HP give data science a GPU boost"
     excerpt: "The two tech companies will infuse enterprise AI workstations with GPU-powered data processing and model building software."
@@ -293,20 +298,6 @@ related:
         width: 1232
         height: 928
         isCached: true
-  - title: "VAST Data Unveils New Data Platform Architecture for the AI Factory"
-    excerpt: "NEW YORK CITY, New York– March 11, 2024 – VAST Data, the AI data platform company, today unveiled a new AI cloud architecture designed to deliver"
-    publishedDateTime: 2024-03-12T15:45:00Z
-    webUrl: "https://www.datanami.com/this-just-in/vast-data-unveils-new-data-platform-architecture-for-the-ai-factory/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2023/06/CCCLV24_Property_Image-4-scaled.jpg"
-        width: 2560
-        height: 1336
-        isCached: true
   - title: "Vast Data Annouces AI Cloud Architecture Built on Nvidia DPUs"
     excerpt: "AI data platform company VAST Data today announced a AI cloud architecture designed to deliver space/cost/power efficiency that buildson Nvidia BlueField-3 data processing unit (DPU) technology. The architecture makes it possible to"
     publishedDateTime: 2024-03-12T19:58:00Z
@@ -320,6 +311,20 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2024/03/Vast-logo-2-1-0124.png"
         width: 714
         height: 422
+        isCached: true
+  - title: "VAST Data Unveils New Data Platform Architecture For The AI Factory"
+    excerpt: "Designed in collaboration with NVIDIA and being deployed at CoreWeave, the new infrastructure unleashes VAST's parallel data services architecture on"
+    publishedDateTime: 2024-03-13T15:44:00Z
+    webUrl: "https://menafn.com/1107972275/VAST-Data-Unveils-New-Data-Platform-Architecture-For-The-AI-Factory"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2024-03/13/M_0e391image_story.jpg"
+        width: 825
+        height: 1237
         isCached: true
   - title: "Vast Data unveils new AI infrastructure with Nvidia and Supermicro partnerships"
     excerpt: "Artificial intelligence data platform startup VAST Data Inc. today announced new AI cloud architecture in partnership with Nvidia Corp., using the company’s BlueField-3 data pro"
@@ -372,6 +377,6 @@ related:
       domain: usatoday.com
     quality: 13
 
-secured: "sAI6HRDaL7ciaxuCYJEZKKpAJL1m5juOVZBXkofLEH19rPectrgs6/+qvYThye4IGmzrzJaDbs1mKA7AijhxUtVdRJ3HhaQ/tqGTpGLdomHkV2lHQn0GymNhG709tdRNwlVZvyvaPjxuPlKflD0fgvxFUSTnn1tMlxlO32HainJ9y0PauQegvKxD0u6dkNnEK24+qR8u6AF4nxV/TX2E1XGG8fHx9aNQp3bDqpnvr1Z6MNA4AXxOdJePeMLkRH/FVSlKfjOR5HxRyl49Ha5gPuCbCL9Yn7PDj6kpK20a177/pZu0QD0zXQ9mrSSlLE+tBz+B6aaN+ibs1UUr31b+RNp810EGrEAorKAvLA7MT18=;s1IrCYG+E8PlHDSe3vyBQA=="
+secured: "eHVyxuPbshLJxcbTg5xqs8btZylgBYHxGZwk4Dfs0T7JmLU0puQM+zfLrm269TAMAgvh5Fn6w6djMTlpM+19a1fQdQe4wf05VTq/nn/91YPAMiFBD+iD54AyynPV1wwgERHFgDS2XZOEL0Q63AvveOWXtSBuFhvDURXXE+iT+kqZczzK+pxDvlzOwKwk85KYW2OZUCMWjms5jI1m01vthHTxcmUN+Y7ph1CNMNqWam80bMpOHEyVTvLa2mwVAkr5xLoWElXjQoNpUflUr1I6L8OkN5Lb7VOIICO0YKBrDMfnTEET0TaqdLZzzaniX1ZwvtCjdsJuqFy4cJuM5I1XJx7k/VvdR5cE5SSUsFUGnNDQRNHwwwAnZhDgexmD3ziVkjFOJaO/K8Su9dOjtzKh1FoU6AVErre0hYYfvxAq5vURlXMaRoAviFt5zdpqL01lXtrgWbZjnsFCT1lU2+QezU3vP4S3CROGUAzfkpS71p1OHa6FctWV56F20aZIPUKJwuRf4Xbt0c9gQAZKq+1XAg==;raS00DfkyedaxdcgwkpNcA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://lavozdeanza.com/uncategorized/2024/03/12/a-look-at-waymos-
 webUrl: "https://lavozdeanza.com/uncategorized/2024/03/12/a-look-at-waymos-driverless-cars/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 2001
     height: 1086
     isCached: true
-
-related:
-  - title: "What does the future of driverless taxi service in Los Angeles look like? It’s already here"
-    excerpt: "Los Angeles commuters: Don’t be alarmed, but driverless taxis may soon become a more common site on local streets. On March 1, state regulators gave Waymo, the self-driving taxi company owned by ..."
-    publishedDateTime: 2024-03-08T16:06:00Z
-    webUrl: "https://www.latimes.com/california/story/2024-03-08/what-does-the-future-of-driverless-taxi-service-in-los-angeles-look-like-its-already-here"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 29
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/85a75ba/2147483647/strip/true/crop/3900x2048+0+132/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ffb%2F66%2F11858c7b47c39047cccddf81fdf1%2F1257451-fi-waymo-self-driving-car-0370-ajs.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "EvS8mbVRjUgEg7LqzZZqNzzfHHtERt4rc0QSELbrBFW7hfs06mvEm/1gK8R4FRAFNbJZqEnELvf2rcnhUnxOkPKPv0wKj3cwMHwB6a8ScHMQSxs0aty4qX31i8dehnrrltWdjqFoox2MQxc9EYggaC3gDo387Uqkx65iU5aCoRUPIJrgijbObhLwgwkY8JFSrEJweY24dpAc7j0hJ+iBlZRW6qbgnGCcW3PTAFAA8BCli5KSJi5sjjtPoZhchSrlJC2w8axTDTfRzxOAiSvABWQZ8jfIJngNeWA1kuSK3TzPuUrMmahdkyWGPlBLKDuDnbQtfmq8NZCLbhzeoS02juEHMvQzOmcQHyxSed9jWNHUIaV+b/V3KEwLG/W5e8HQWXVK6635qvOk4gHYK19qeKcvky7xEB1fjkL70sErPGa8OVeRKP2B6A3h1DGn7P93GkAW89nTntdGHFndE8G1x9zx/PJ3lwvb/Vufptf86m4Q38QzsrNxEbJrrwOl/79FIF4lgnt5WTfm1vm7kxOy2A==;tB7JLFfRyq3F/J2QX300tQ=="
 ---

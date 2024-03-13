@@ -25,49 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "AI talent war heats up in Europe"
-    excerpt: "An influx of artificial intelligence (AI) startups is heating up the battle for technical talent in Europe, leaving companies like Google DeepMind to choose between paying big or losing out on the region's best minds."
-    publishedDateTime: 2024-03-11T05:03:00Z
-    webUrl: "https://www.reuters.com/technology/ai-talent-war-heats-up-europe-2024-03-11/"
+  - title: "UK chips in $44M for a piece of Europe’s $1.4B pot for semiconductors"
+    excerpt: "Chips are an essential — and thus very valuable — building block for the development of the future of technology, whether it’s for advances in AI that require massive computing power, or the development of new consumer electronics, or the next ..."
+    publishedDateTime: 2024-03-13T15:08:00Z
+    webUrl: "https://techcrunch.com/2024/03/13/uk-europe-semiconductors-chips/"
+    ampWebUrl: "https://techcrunch.com/2024/03/13/uk-europe-semiconductors-chips/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/13/uk-europe-semiconductors-chips/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 49
-  - title: "What the fierce AI talent war in Europe means for IT professionals as well as IT companies like Google and others"
-    excerpt: "A surge of artificial intelligence (AI) startups is intensifying competition for skilled workers in Europe, forcing established players like Google De."
-    publishedDateTime: 2024-03-11T10:48:00Z
-    webUrl: "https://timesofindia.indiatimes.com/technology/tech-news/what-the-fierce-ai-talent-war-in-europe-means-for-it-professionals-as-well-as-it-companies-like-google-and-others/articleshow/108394935.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/technology/tech-news/what-the-fierce-ai-talent-war-in-europe-means-for-it-professionals-as-well-as-it-companies-like-google-and-others/amp_articleshow/108394935.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/technology/tech-news/what-the-fierce-ai-talent-war-in-europe-means-for-it-professionals-as-well-as-it-companies-like-google-and-others/amp_articleshow/108394935.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 38
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
     images:
-      - url: "https://static.toiimg.com/thumb/msid-108394920,width-1280,height-720,resizemode-4/108394920.jpg"
-        width: 1280
-        height: 720
+      - url: "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1359446412.jpg?resize=1200,800"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "High conviction stocks with exposure to AI in European data centers - MS"
-    excerpt: "Artificial intelligence data center energy use is expected to rise from 1% to 4% of total power consumption by 2035, according to Morgan Stanley’s Utility team."
-    publishedDateTime: 2024-03-12T18:39:00Z
-    webUrl: "https://seekingalpha.com/news/4078549-high-conviction-stocks-with-exposure-to-ai-in-european-data-centers-ms?feed_item_type=news"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 18
-  - title: "Analysis-AI talent war heats up in Europe"
-    excerpt: "An influx of artificial intelligence (AI) startups is heating up the battle for technical talent in Europe, leaving companies like Google DeepMind to choose between paying big or losing out on the region's best minds."
-    publishedDateTime: 2024-03-11T13:03:00Z
-    webUrl: "https://www.aol.com/news/analysis-ai-talent-war-heats-060345305.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 17
 
 secured: "L7kevVzXmP1kttjD8q1wJfCC1hWJE+ci/pUZw3mEHMNGLg14zha1IQe64WPHPhEvqry3zzzOXGv9k7/71YToaEDrFSM6QdD04ra3qHTi07yVWhzTmCSvaqxuBVG2ys8pufQvHdsrLklEM+YXLz+KFaUJJEgOGcf6Mn60Y9VEP3Wl4IigerkTLpijYzjvXyKNGHgbj/hh9hVfusfw3VbD2vzo/uWxc+0izFDB8chpn9dEveHHFqxxIQKusH1zr06ypP5USM/iKsCb2PNa7cfsaMv0OBqVv9szJ9XZoVunHXgujJaq61gSpKRSApmfGIS+Hb+gXhQcHoaXDVJao10Q+zny0Is57dxhZDfySOo9+ZYAnpoV7uZ2WzUthNPv5UJx8MnGpvGd9csVKRS+kFmstmrg6xpG82I8KEj4lMk9V1Ae1LGOImQ5jUFIp22L0JvGCH5GJ4xo6ksNYNfIl0ryoQNZOUdAbzChx9AqtU94GvFWXdbuTHGvC8sIdQ5bJh2QHVA/umRf7i293zOeqRU1mw==;0juMkPZiTC/HXJk7nkIZrw=="
 ---

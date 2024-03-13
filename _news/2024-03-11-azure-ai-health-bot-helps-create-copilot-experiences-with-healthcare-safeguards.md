@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/blog/azure-ai-health-bot-helps-c
 webUrl: "https://azure.microsoft.com/en-us/blog/azure-ai-health-bot-helps-create-copilot-experiences-with-healthcare-safeguards/"
 type: article
 quality: 117
-heat: 207
+heat: 197
 published: true
 
 provider:
@@ -131,15 +131,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 33
-  - title: "Wipro's health care deals get an artificial intelligence booster shot"
-    excerpt: "Information technology (IT) giant Wipro has a strong pipeline of large artificial intelligence (AI)-led deals in the health care vertical, according to a senior company executive. Health care stands as the third-largest vertical for Wipro,"
-    publishedDateTime: 2024-03-08T16:16:00Z
-    webUrl: "https://www.rediff.com/business/report/wipros-health-care-deals-get-an-artificial-intelligence-booster-shot/20240308.htm"
-    type: article
-    provider:
-      name: rediff.com
-      domain: rediff.com
-    quality: 19
 
 secured: "YJeni5hqE0omhqYGBSPrQ/2JW/t/n/cppC4TC/8eIDGisuz/vPZE4ZA0bqcdKKTiOmHIWiewNeVJW+TY+DApKXgV3LSoZ6nKS+P5zv+yzjyJO092e0crzBq0zSJ9kVnLo9NLU5G2r+IzIy9LhKCXqrIb1trlCSK8P7UtbiecjJXytJLL7UkXC8kcEL/YhyapAfQpDTLZ/xGWzom+YJu6c2bawWYBt8cDkkGa2TjcKyfJymSvBT9+iRUJhI0y1SSyQHSjW1ji1M3z6x7ZrdYMCb2NYdYa4hvxuvGzf97M9AicaRjk/SVk7JIU2zigWPxEalAr0SstE6Bt4mTx4axA9MHpyGXPYu0KJGHQVc1jpOE=;VKwTxJy4HOJY+5sTiy5iyA=="
 ---

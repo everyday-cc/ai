@@ -26,6 +26,17 @@ images:
     height: 300
     isCached: true
 
+related:
+  - title: "Artificial Intelligence Technology Solutions gives financial update"
+    excerpt: "Artificial Intelligence Technology Solutions (OTCPK:AITX) said that as of March 11, 2024, the company has billed in excess of $349,000 for the month (but not collected), marking a 465% growth increase. This compares to the first month of the last fiscal ..."
+    publishedDateTime: 2024-03-13T08:26:00Z
+    webUrl: "https://seekingalpha.com/news/4078707-artificial-intelligence-technology-solutions-gives-financial-update"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 17
+
 secured: "Q6+iueHE3Rr3jBBxPv3reB9EVVZvf8sVFX94HEclJ9SR64y3U4aBNLtZbfvTecO1+jYmLW79sdEhLE6w73ncrsIdVP7N1U2YI1cABMbVHgXww2KmJa6/u43fnTtunXk7ezv7+xqg3Tbtd3NRJ+oz7K9bOIZ/N/ibcMz3XxIpKC4ZBigYoBublkKUrfksCg6SkvAJvlP+kETo/NPx44S65XrBNj2cC0dAt0e/8i9LE03ou1glxtBFqiapO8wpXXVBkX3ks+SEibOYa4obhGixbPly+Vizx3N0sLPPbJG8UhezQodoV1fs7N9jE5R5mhN0qvpTSSjRMF26D1s9Jy881IDUtrv+RHVg7VyjO3m3C5M=;bPV4j6Rc7Dw7T2BUN4s/gw=="
 ---
 

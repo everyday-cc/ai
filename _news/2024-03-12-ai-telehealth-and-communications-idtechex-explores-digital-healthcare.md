@@ -125,15 +125,6 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 34
-  - title: "Wipro's health care deals get an artificial intelligence booster shot"
-    excerpt: "Information technology (IT) giant Wipro has a strong pipeline of large artificial intelligence (AI)-led deals in the health care vertical, according to a senior company executive. Health care stands as the third-largest vertical for Wipro,"
-    publishedDateTime: 2024-03-08T16:16:00Z
-    webUrl: "https://www.rediff.com/business/report/wipros-health-care-deals-get-an-artificial-intelligence-booster-shot/20240308.htm"
-    type: article
-    provider:
-      name: rediff.com
-      domain: rediff.com
-    quality: 19
 
 secured: "13Tgfzcx9xg8MXltScx5zpqfxhqOjJQYOuL8RUvYLb/Gk2SzY80lc8bz5vBPZoo9061YPj4/CgTxr3TXlSqUExRnuzgzBIhUFr/8jbVETFkjRZfV4jxkUEe+1YLb25wGGVDMIKT+5mR4PPu4h8SsWwHgd4CP62wMe4WGwkj0LSPSorU+fVdgeJrFbcEorMYJkf53Ngziy5YNwh/DUN74E9QomLisKfzXDAL1YUb3WEGEJuX5sju5A4KKts2cJsDquQzjOX3+NYFfyyZH2ZjWITmmYvFflAWPzXCndsZ7ootzMfw+PuUHXxsOFvHvJKYoU+MAXUxYgNEpsmKvnf3K4hXs+hicpL783FHNfVnjXx4=;gyr5A+vNCRy08SLlYZBcHg=="
 ---

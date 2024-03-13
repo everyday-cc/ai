@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Apple Vision Pro might be getting a new video app — VLC readies its spatial computing debut after passing 5 billion downloads elsewhere"
+    excerpt: "That platform is of course one that VLC isn't the only one to have skipped on so far. The Apple Vision Pro is new, to say the least, and its costly starting price of $3,499 makes it a relatively niche product."
+    publishedDateTime: 2024-03-13T15:05:00Z
+    webUrl: "https://www.imore.com/vision-pro/the-apple-vision-pro-might-be-getting-a-new-video-app-vlc-readies-its-spatial-computing-debut-after-passing-5-billion-downloads-elsewhere"
+    type: article
+    provider:
+      name: iMore
+      domain: imore.com
+    quality: 0
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/EqQzsPBKvRXPni4wwqGUkn-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "BafQvwzdvCTh0s5oLwx8vQ5q3bxCUUgHKc+6Xa6H9VA8AlzEi7hpkgfqkclKyJQuX01+U5GGl/WFbqEhjCIhtYn1FkGBpUUYiXUHJS1yWi7KRb1Ik3ka+6W4EOHbIJIoebl+shxQcfEPsS391aeIR91tZ65zFwdxkeQ+efOfcxURpQSue9jJvGKQuc5w0YbIwQjHxJXJ95EZercDOBKAYEt1/DVJVFiILqd+WY26oVP9pSaMiQ+RCoXSa89sVrsYnyND2613nog6T6cgwWX7GOF98o5Ox3JVtyJpFF342vgswleGgN1iI6uEURDu1FDXEAQP9pXMrj/Kj7lBDrVBGdKGUlAg10JgLRY8dZVsRMcGInSFdiBZzeFlXpnScdoswmdzSiJZASiHOKw208tUBHRCs4R6oszrdptyPtHFSrFIhs5/km9+xjB6srwF+XWyXAjT05FswA4p4rXa+/F8eQybIdhNgtC8Ltb9iHMJxfS1DBTlo8TPLk2BpBwb1cPm4PpF1D0fNAJxnqmToTjXjA==;0Np3ZdNSfUAyvmYmNucr8Q=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/03/1
 webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/03/12/generative-ai-in-action-transforming-workforce-learning-and-development/"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -23,22 +23,31 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence In Cancer Detection: How Is AI Contributing To The Diagnostic Industry and Impacting Early Detection?"
-    excerpt: "\"Artificial Intelligence (AI) is drastically changing the diagnostic industry, especially in the domain of early cancer detection\", says Mr. Hariharan Subramanian, the Managing Director of Siemens Healthcare Private Limited."
-    publishedDateTime: 2024-03-12T10:05:00Z
-    webUrl: "https://www.thehealthsite.com/diseases-conditions/artificial-intelligence-in-cancer-detection-how-is-ai-contributing-to-the-diagnostic-industry-and-impacting-early-detection-1071193/"
-    ampWebUrl: "https://www.thehealthsite.com/diseases-conditions/artificial-intelligence-in-cancer-detection-how-is-ai-contributing-to-the-diagnostic-industry-and-impacting-early-detection-1071193/amp/"
-    cdnAmpWebUrl: "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/diseases-conditions/artificial-intelligence-in-cancer-detection-how-is-ai-contributing-to-the-diagnostic-industry-and-impacting-early-detection-1071193/amp/"
+  - title: "Tackling deforestation and forest degradation with AI and remote sensing"
+    excerpt: "Deforestation and forest degradation are both significant conservation issues. But charities around the world are starting to use advanced technologies, such as AI and remote sensing, to get on top of the challenge."
+    publishedDateTime: 2024-03-13T09:12:00Z
+    webUrl: "https://diginomica.com/tackling-deforestation-and-forest-degradation-ai-and-remote-sensing"
+    ampWebUrl: "https://diginomica.com/tackling-deforestation-and-forest-degradation-ai-and-remote-sensing?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/tackling-deforestation-and-forest-degradation-ai-and-remote-sensing?amp"
     type: article
     provider:
-      name: TheHealthSite
-      domain: thehealthsite.com
-    quality: 47
+      name: Diginomica
+      domain: diginomica.com
+    quality: 58
     images:
-      - url: "https://st1.thehealthsite.com/wp-content/uploads/2024/03/neurological-doctor-cheking-eeg-headset-explaining-patient-diagnosis-disease-treatment-nervous-system-scientist-researcher-analysing-brain-scan-tomography-monitor-lab.jpg"
-        width: 1200
-        height: 900
+      - url: "https://diginomica.com/sites/default/files/images/2024-03/IMG_2082.jpeg"
+        width: 640
+        height: 427
         isCached: true
+  - title: "GetResponse launches AI email writing assistant: latest addition to its AI-powered solution suite"
+    excerpt: "GetResponse, a leading global all-in-one email marketing platform, has announced the newest addition to its AI-powered toolset – an AI email writing assistant. It's the ideal solution for people struggling with a lack of time,"
+    publishedDateTime: 2024-03-12T16:29:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/12/9977092.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 6
   - title: "Biden administration requests $3B for federal AI application development, procurement and integration in 2025 budget"
     excerpt: "The President’s budget looks to fund the National AI Research Resource pilot, agencies’ establishment of Chief AI Officers, the AI talent surge and more AI development across agencies."
     publishedDateTime: 2024-03-11T19:28:00Z

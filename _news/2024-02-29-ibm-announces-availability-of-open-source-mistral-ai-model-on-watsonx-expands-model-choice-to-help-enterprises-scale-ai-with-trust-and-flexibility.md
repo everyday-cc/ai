@@ -1,26 +1,20 @@
 ---
 category: news
 title: "IBM Announces Availability of Open-Source Mistral AI Model on watsonx, Expands Model Choice to Help Enterprises Scale AI with Trust and Flexibility"
-excerpt: "ARMONK, N.Y., Feb. 29, 2024 /PRNewswire/ -- IBM (NYSE: IBM) today announced the availability of the popular open-source Mixtral-8x7B large language model (LLM), developed by Mistral AI, on its watsonx AI and data platform, as it continues to expand ..."
-publishedDateTime: 2024-02-28T23:59:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2024/02/29/ibm-announces-availability-of-open-source-mistral-ai-model-on-watsonx-expands"
-webUrl: "https://stockhouse.com/news/press-releases/2024/02/29/ibm-announces-availability-of-open-source-mistral-ai-model-on-watsonx-expands"
+excerpt: "IBM (NYSE: IBM) today announced the availability of the popular open-source Mixtral-8x7B large language model (LLM), developed by Mistral"
+publishedDateTime: 2024-02-29T12:00:00Z
+originalUrl: "https://www.prnewswire.co.uk/news-releases/ibm-announces-availability-of-open-source-mistral-ai-model-on-watsonx-expands-model-choice-to-help-enterprises-scale-ai-with-trust-and-flexibility-302075685.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/ibm-announces-availability-of-open-source-mistral-ai-model-on-watsonx-expands-model-choice-to-help-enterprises-scale-ai-with-trust-and-flexibility-302075685.html"
 type: article
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: PR Newswire
+  domain: prnewswire.co.uk
 
 topics:
   - IBM AI
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-    width: 400
-    height: 209
-    isCached: true
-
-secured: "hoaOe26eKjs0thVERWJsRj3p4YIjv0ZYSDK3TXM8sV+SEz+6wIx5mrzrqK8m4vf/7QAgp7AdyQ32bWubp5J3guvaNxh8mFf9nfSvBkiZszfmo12VN84+IoBZVUffwzt01jIH9oESo1Kwha5/QjXMFh42nsLjoBnZQbJhVFcx4Tif0O4GMKdemNnabCiOyNcHakz7PkZGe3RvfxdjXFREmKN4cIKZ1gOMTiCqlRCEiaAvI038BpJQt9Jm1hFAVhRgWR1FiN9DyB6afCWo2gSObsrhw4VeCg1QY0aMzFskd8pUaa7+/idE0Q2gsSfsVDplN50+FmhoMqr4kebdxxdb3GdIhuem50D4CF+vEEvUTlg=;xkHWr0puz4qxZ2PguGAoyw=="
+secured: "kv66om9BtGw+cED6tE8mB3OVGlScwowHSDp5tRNjkcHfHS3DWtxvG+2QPLI+qFTl0ikTVFZ4iVIRjUtCyOM3r2xhlVJW7oVNepoTOkW2wWtDiH9jm3hL8HQ/lI4WSeHP02+mt6Ln6brm9iG4polWGfmeXmU+HeEAVdJcFydvMFcOOc1q0H53lv/w2PdDAZTPvOoyDYIzj/JCa/ww99010Nem6pm+L1ZZchymMyL5mUUPE6Ozp5BC1NFJFl/d1UlOtzMRWfyGRbYExo9DrgsmdZleWBM2zGIa2WzXBb/bDjKbhtlNpsYpcbcVX5fyCBTsdjKP4hbz9U3l4CXURlnJB+J7ambc7zwaZffYcoX82B5Tak3+AbY/kptaNXdQqkeaQzDqUmKTRo8aH1Sz8cTK6y57NgKLmy5BXYSXSgItNHT0kR5ER86OPjA1SQ+wGT63oc6JkdtcsgYsSUMo1DuUTbOBwQcEiiTDYKsP2TKJXFoRsMQg5Mb9/NJlRxm4SHLShgDckct9kLGZwzdoLjKewA==;ThiA8ZcCOQneAsWvHyhPgg=="
 ---
 

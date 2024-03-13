@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/12/bridging-t
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/12/bridging-the-trust-gap-in-workplace-ai/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 117
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Human Creativity in the Age of Artificial Intelligence"
-    excerpt: "In 2015, my friend, Jim Clark, invited me to attend what was then a groundbreaking conversation at the World Summit on Technological Unemployment, hosted at the TIME magazine Conference Center. Jim laid it out pretty clearly: the tech revolution was set to ..."
-    publishedDateTime: 2024-03-11T02:11:00Z
-    webUrl: "https://www.rollingstone.com/culture-council/articles/human-creativity-the-age-of-artificial-intelligence-1234983648/"
-    ampWebUrl: "https://www.rollingstone.com/culture-council/articles/human-creativity-the-age-of-artificial-intelligence-1234983648/amp/"
-    cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/culture-council/articles/human-creativity-the-age-of-artificial-intelligence-1234983648/amp/"
-    type: article
-    provider:
-      name: Rolling Stone
-      domain: rollingstone.com
-    quality: 57
-    images:
-      - url: "https://www.rollingstone.com/wp-content/uploads/2024/03/human_creativity_in_the_age_of_artificial_intelligence-.jpg?w=1600&h=900&crop=1"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "The women in AI making a difference"
     excerpt: "Many had no training or education, formal or otherwise, in AI. Contrary to the Times’ suggestion, the AI craze didn’t start with Musk sitting adjacent to Page at a mansion in the Bay. It began long before that, with academics, regulators, ethicists and ..."
     publishedDateTime: 2024-03-09T19:10:00Z
@@ -66,29 +50,20 @@ related:
       name: Mint
       domain: livemint.com
     quality: 39
-  - title: "Safeguarding the future of artificial intelligence"
-    excerpt: "In recent years, the development of artificial intelligence (AI) has been viewed as a “double-edged sword,” where some do find it beneficial, yet others are more skeptical about the problems it may create."
-    publishedDateTime: 2024-03-13T08:55:00Z
-    webUrl: "https://www.thejakartapost.com/business/2024/03/13/safeguarding-the-future-of-artificial-intelligence.html"
+  - title: "Google AI learns to play open-world video games by watching them"
+    excerpt: "An artificial intelligence from Google DeepMind can play nine open-world video games like a human, by watching video from a screen and controlling a keyboard and mouse"
+    publishedDateTime: 2024-03-13T14:38:00Z
+    webUrl: "https://www.newscientist.com/article/2422101-google-ai-learns-to-play-open-world-video-games-by-watching-them/"
     type: article
     provider:
-      name: The Jakarta Post
-      domain: thejakartapost.com
+      name: New Scientist
+      domain: newscientist.com
     quality: 39
     images:
-      - url: "https://img.jakpost.net/c/2024/03/13/2024_03_13_148255_1710319236._large.jpg"
-        width: 1360
-        height: 765
+      - url: "https://images.newscientist.com/wp-content/uploads/2024/03/13135436/SEI_195854788.jpg"
+        width: 1350
+        height: 899
         isCached: true
-  - title: "Advancing Equitable AI in the US Social Sector"
-    excerpt: "How thoughtfully designed AI-powered applications can drive stronger and more equitable outcomes for nonprofits."
-    publishedDateTime: 2024-03-12T12:38:00Z
-    webUrl: "https://ssir.org/articles/entry/advancing-equitable-ai-us-social-sector"
-    type: article
-    provider:
-      name: ssir.org
-      domain: ssir.org
-    quality: 19
 
 secured: "eTWdrY/7MuielFk+OF5SGmsJ0sLGiq25SE+kmUF3LZF1DoCDy3/10frpFSYv4aHuYJGB/THhzwQ/XitYwk5BIDGuXVDPa3OodVtqf1XFHXRdA0O0OzbQsPTFShfm00UKSOqHmN0+4jgy5s992YZEViPP/dQBNWD2Iw5CoOIVKmlGt7NBozl+h2KsqXFPPlSHHUnLyGPes6a0cVlubZZ5waMmxVOZfgcYpBPNH+erE7on30ooSjFxKOTYcBB3NRl72542B87UMhxfIjHIb/IaFtGMTck2DhbOkFfzH/BBPrtvG+Td2v56FuenHL0ELf/k2GWkd9N7gbjuwDk+E1piHWb8yQXAvL8atwWUwB+CWSY=;Wk+cwiIWlm7zdVEEpHMZFA=="
 ---

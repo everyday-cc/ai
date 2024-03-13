@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/safeguardi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/13/safeguarding-data-privacy-in-the-age-of-ai-innovation/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 149
+published: true
 
 provider:
   name: Forbes
@@ -31,56 +31,63 @@ images:
     isCached: true
 
 related:
-  - title: "Navigating The Risks Of AI Weaponization"
-    excerpt: "As AI continues to advance and become more pervasive, so do its risks. From mass disinformation campaigns and deepfakes to fully autonomous weapon systems, the convergence of AI, technology and “bad intentions” demands priority attention."
-    publishedDateTime: 2024-03-08T16:08:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/navigating-the-risks-of-ai-weaponization/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/navigating-the-risks-of-ai-weaponization/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/08/navigating-the-risks-of-ai-weaponization/amp/"
+  - title: "Human Creativity in the Age of Artificial Intelligence"
+    excerpt: "In 2015, my friend, Jim Clark, invited me to attend what was then a groundbreaking conversation at the World Summit on Technological Unemployment, hosted at the TIME magazine Conference Center. Jim laid it out pretty clearly: the tech revolution was set to ..."
+    publishedDateTime: 2024-03-11T02:11:00Z
+    webUrl: "https://www.rollingstone.com/culture-council/articles/human-creativity-the-age-of-artificial-intelligence-1234983648/"
+    ampWebUrl: "https://www.rollingstone.com/culture-council/articles/human-creativity-the-age-of-artificial-intelligence-1234983648/amp/"
+    cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/culture-council/articles/human-creativity-the-age-of-artificial-intelligence-1234983648/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Rolling Stone
+      domain: rollingstone.com
+    quality: 57
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65eb37f10a2278925e9cdb57/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1456
-        height: 864
+      - url: "https://www.rollingstone.com/wp-content/uploads/2024/03/human_creativity_in_the_age_of_artificial_intelligence-.jpg?w=1600&h=900&crop=1"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "Tackling deforestation and forest degradation with AI and remote sensing"
-    excerpt: "Deforestation and forest degradation are both significant conservation issues. But charities around the world are starting to use advanced technologies, such as AI and remote sensing, to get on top of the challenge."
-    publishedDateTime: 2024-03-13T09:12:00Z
-    webUrl: "https://diginomica.com/tackling-deforestation-and-forest-degradation-ai-and-remote-sensing"
-    ampWebUrl: "https://diginomica.com/tackling-deforestation-and-forest-degradation-ai-and-remote-sensing?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/tackling-deforestation-and-forest-degradation-ai-and-remote-sensing?amp"
+  - title: "Safeguarding the future of artificial intelligence"
+    excerpt: "In recent years, the development of artificial intelligence (AI) has been viewed as a “double-edged sword,” where some do find it beneficial, yet others are more skeptical about the problems it may create."
+    publishedDateTime: 2024-03-13T08:55:00Z
+    webUrl: "https://www.thejakartapost.com/business/2024/03/13/safeguarding-the-future-of-artificial-intelligence.html"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 58
+      name: The Jakarta Post
+      domain: thejakartapost.com
+    quality: 39
     images:
-      - url: "https://diginomica.com/sites/default/files/images/2024-03/IMG_2082.jpeg"
-        width: 640
-        height: 427
+      - url: "https://img.jakpost.net/c/2024/03/13/2024_03_13_148255_1710319236._large.jpg"
+        width: 1360
+        height: 765
         isCached: true
-  - title: "Renewing Corporate Gifting: The Impact Of AI On Personalization"
-    excerpt: "AI algorithms and machine learning capabilities empower businesses to enhance personalization processes at scale and across geographic divides. It can source and recommend gifts based on recipient preferences, automate the ordering and delivery process, and also help with customizing and manufacturing personalized gifts at scale."
-    publishedDateTime: 2024-03-08T12:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/08/renewing-corporate-gifting-the-impact-of-ai-on-personalization/"
+  - title: "IDS joins the Innovation Park Artificial Intelligence (IPAI)"
+    excerpt: "The Innovation Park Artificial Intelligence (IPAI) is probably the most ambitious project for applied artificial intelligence in Europe. Its home will be a large, circular campus in Heilbronn,"
+    publishedDateTime: 2024-03-12T11:04:00Z
+    webUrl: "https://www.sourcesecurity.com/news/ids-joins-innovation-park-artificial-intelligence-ipai-co-12175-ga.1710229356.html?ref=nav"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Preventing the weaponization of AI-designed proteins"
-    excerpt: "A new online marketplace called aRukon is set to launch globally this year to help researchers sell unused animal samples to other labs. The idea is to potentially reduce waste, save money, and prevent the unnecessary death of animals."
-    publishedDateTime: 2024-03-11T12:51:00Z
-    webUrl: "https://www.statnews.com/2024/03/11/biotech-news-amylyx-alumis-lundbeck-als-psoriasis-arukon-msa-relyvrio/"
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 32
+  - title: "Advancing Equitable AI in the US Social Sector"
+    excerpt: "How thoughtfully designed AI-powered applications can drive stronger and more equitable outcomes for nonprofits."
+    publishedDateTime: 2024-03-12T12:38:00Z
+    webUrl: "https://ssir.org/articles/entry/advancing-equitable-ai-us-social-sector"
     type: article
     provider:
-      name: STAT
-      domain: statnews.com
+      name: ssir.org
+      domain: ssir.org
     quality: 19
+  - title: "Epistemological Vertigo in the Age of AI"
+    excerpt: "It's tempting, perhaps even easy, to view AI emotions through the lens of human feelings, to anthropomorphize these complex systems and attribute them to the same kinds of inner e"
+    publishedDateTime: 2024-03-09T19:33:00Z
+    webUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202403/epistemological-vertigo-in-the-age-of-ai"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 17
   - title: "Navigating the Intersection of Intellectual Property and Artificial Intelligence"
     excerpt: "In today's digital landscape, the convergence of intellectual property (IP) and artificial intelligence (AI) presents both unparalleled opportunities and unique challenges for businesses across industries. As AI continues to revolutionize how companies ..."
     publishedDateTime: 2024-03-11T00:01:00Z
@@ -91,6 +98,6 @@ related:
       domain: jdsupra.com
     quality: 12
 
-secured: "1oMwDVDOhjvfGbe42jbXWBV/L2hlzn5yxHQ9m1vNnzQXhU6o0/cI1tQZt2mrtmhGbV0vpzc1/jphxyEtLXzFz01ZON0laDk6f+v05XuVNT+GyMm9dUySD9QnyMwfMzqmcje9HuiUvz7/aBSwgaOcVRRAzSXdzUaBAMZVLvX+EHyO7UOM5rwel2Y4g19fnD4CyCACFnRYP7k0xOSLa4cmwA1XT+UpxU6VJVeD0owdID9o+UXGdnfrIERAY072GN0scBKHg8C/a8cZA422Cmq0qgDd8RC4J832w06NJEZh0TupOalnT4QM+W32LPpq1tAKdiUjI20bLnXcSC0W9lS+YZm/+lQ8d8EvDtjse0O1SjE=;qDEgghO0JV/cCVGGo/w8qw=="
+secured: "ctyFiVNK4OLvbJL65/673FCgNW400UJB9gsxrdlG/Zqf6yKDnhft2hRab7Ng+r7ohRyMeZ7Y9kHXDMO+KXFc1Xjih/nJuBC92jcWB5HFPQDxM17ebQ51RhcevbhDHpF/i/WkvnXh3rT3naii6BhXyxsT2090Kx5sMM3rDLFdsEEzdaPG15OM5J7InZqktYNEBYBTwgdCteEkCzIFcFlkBPvBC97N/wBh9BkVXLqbPjFhoDZDwUIWH7Fs8aB+A7WlHi1sD2AtAPabjt8iJw9ODTE3JPsdOkhu+CYqY/Qb9eDLJuZ+3GaU5pScKouVMApe82k0G9Mxk4K4zAy0hGeQ3y/EzMcy6r3tYU4S85eE+hlSvqShPByQlYk0D05sR+YSZke++5h0JqcsNZ6lMutzF8r6xB13K4J6xF14tGh8C0ND6NrxsVsAXyUa1Lyybb1Mvs5xdXkj8CK6Ddys8IcBXVFeig4/VIXp9quReLIOb8RPgylD5TZnmEXFaPytSc0PaPIFpKfuByRJAhLa8/n7sQ==;aqkvrFhQ+qiwHOkGRKpGxw=="
 ---
 

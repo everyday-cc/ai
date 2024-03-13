@@ -19,20 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Bridging The Trust Gap In Workplace AI"
-    excerpt: "A key element of the AI trust gap is not so much about technology but about whether the motivations around its appeal are mutually aligned and beneficial."
-    publishedDateTime: 2024-03-12T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/12/bridging-the-trust-gap-in-workplace-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/12/bridging-the-trust-gap-in-workplace-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/12/bridging-the-trust-gap-in-workplace-ai/amp/"
+  - title: "Safeguarding Data Privacy In The Age Of AI Innovation"
+    excerpt: "The Amazon Bedrock platform allows for the creation and deployment of machine learning models within a protected ... Furthermore, cloud service providers like Microsoft Azure and Google Cloud offer specialized tools and services for building private ..."
+    publishedDateTime: 2024-03-13T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/safeguarding-data-privacy-in-the-age-of-ai-innovation/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/safeguarding-data-privacy-in-the-age-of-ai-innovation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/13/safeguarding-data-privacy-in-the-age-of-ai-innovation/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 87
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65ef584cbe564485962092d2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c2ae560f07ba1a1fade19d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1330
         height: 900
         isCached: true
   - title: "Human Creativity in the Age of Artificial Intelligence"
@@ -51,26 +51,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "The women in AI making a difference"
-    excerpt: "Many had no training or education, formal or otherwise, in AI. Contrary to the Times’ suggestion, the AI craze didn’t start with Musk sitting adjacent to Page at a mansion in the Bay. It began long before that, with academics, regulators, ethicists and ..."
-    publishedDateTime: 2024-03-09T19:10:00Z
-    webUrl: "https://techcrunch.com/2024/03/09/the-women-in-ai-making-a-difference/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
-  - title: "India’s AI leap: bridging the gap"
-    excerpt: "The just announced National Mission on AI ensures that all the necessary building blocks needed by India to shape the future of AI for India and the world are in place."
-    publishedDateTime: 2024-03-11T07:20:00Z
-    webUrl: "https://www.livemint.com/ai/indias-ai-leap-bridging-the-gap-11710140690633.html"
-    ampWebUrl: "https://www.livemint.com/ai/indias-ai-leap-bridging-the-gap/amp-11710140690633.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/indias-ai-leap-bridging-the-gap/amp-11710140690633.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 39
   - title: "Safeguarding the future of artificial intelligence"
     excerpt: "In recent years, the development of artificial intelligence (AI) has been viewed as a “double-edged sword,” where some do find it beneficial, yet others are more skeptical about the problems it may create."
     publishedDateTime: 2024-03-13T08:55:00Z
@@ -85,6 +65,33 @@ related:
         width: 1360
         height: 765
         isCached: true
+  - title: "IDS joins the Innovation Park Artificial Intelligence (IPAI)"
+    excerpt: "The Innovation Park Artificial Intelligence (IPAI) is probably the most ambitious project for applied artificial intelligence in Europe. Its home will be a large, circular campus in Heilbronn,"
+    publishedDateTime: 2024-03-12T11:04:00Z
+    webUrl: "https://www.sourcesecurity.com/news/ids-joins-innovation-park-artificial-intelligence-ipai-co-12175-ga.1710229356.html?ref=nav"
+    type: article
+    provider:
+      name: SourceSecurity
+      domain: sourcesecurity.com
+    quality: 32
+  - title: "Epistemological Vertigo in the Age of AI"
+    excerpt: "It's tempting, perhaps even easy, to view AI emotions through the lens of human feelings, to anthropomorphize these complex systems and attribute them to the same kinds of inner e"
+    publishedDateTime: 2024-03-09T19:33:00Z
+    webUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202403/epistemological-vertigo-in-the-age-of-ai"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 17
+  - title: "Navigating the Intersection of Intellectual Property and Artificial Intelligence"
+    excerpt: "In today's digital landscape, the convergence of intellectual property (IP) and artificial intelligence (AI) presents both unparalleled opportunities and unique challenges for businesses across industries. As AI continues to revolutionize how companies ..."
+    publishedDateTime: 2024-03-11T00:01:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/navigating-the-intersection-of-5064154/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 12
 
 secured: "ri1O4F4HqCurdav14vSmZhJwwZLlQX62W/5qEh0FD5N/O2knTDtUydXyjYYtlDX+HyZ7gSMXREzqC+azBHJGzoM/+3x+8M2O/9JO/PCYXr2GDMWA/QP0yan5UakeLzOqhC+vBv88bJ68TeUawhZkvHKpFnIvhdN0ZKXG/geGlvJ1TCX6dV9P6FnCUB8OKg2LBaUsrXauHspQOzDzKn9k1B/wEVsgXKZHjq6XnMiV/TIpbk1tdN+cMCjuGaFCSA3lRIyiwufU8L7libqX0g/ctUaj+aeGTBz8sCL1zpuaSjfeJRNqn//kfzJ4vqaM2S+9JBfhPSgRyRbfSQ+RQ1S/MOfGPcN+OnwPN/dTwWKGVP45cMMqj+1/IIlIM5McvtiHqzlCSSEAyR0HJo6qJo3Ao0HmQvZqsILU0FznwFGDZa549V6o89uvA/IUrsH7AZxVChN62yjJBDEIs39uGHqEayQsfRnrgs9KtYQNOzMG0YyKlhxYP3oDq6ieS2NfWT5XOlD3m+gbbOSIBj2cDEvUmw==;6VmDHdDE3Qsx71nRIHesTQ=="
 ---

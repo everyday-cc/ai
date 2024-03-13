@@ -7,7 +7,7 @@ originalUrl: "https://www.ktbs.com/news/national/trump-mark-zuckerberg-s-faceboo
 webUrl: "https://www.ktbs.com/news/national/trump-mark-zuckerberg-s-facebook-is-worse-than-tiktok-because-of-zuckerbucks/article_841a031b-9b72-553b-b643-e8d7be3034de.html"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - Meta AI
   - AI
-
-related:
-  - title: "Facebook videos will be recommended by AI, as it takes on TikTok"
-    excerpt: "That’s intended to suck you in, and the social media platform wants to get even better at this … Engadget reports that the Facebook videos feed will in future be driven by AI. Meta is revamping how Facebook recommends videos across Reels, Groups ..."
-    publishedDateTime: 2024-03-08T14:02:00Z
-    webUrl: "https://9to5mac.com/2024/03/08/facebook-videos-feed-ai/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 39
-    images:
-      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/03/Facebook-videos-will-be-recommended-by-AI.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "7GGEjwA4NINGIuruMgKSGFCv1S9kKkMhcrpPgVz9z6oPFHoc423Q3Nw/OQD7naW7S/bnDD8WXqmKItt4gVBrk7VgMUZDl/2eaXeVmUh+a8H+Xsss00s1uReav+X2n8fsZhG+MWPyJ3oDVdG7AgwDFIVBan1FobvdcD/7f292Y1XUn0+LnAfqFp+toe2fZyXlAcqo9XehcclA39Gmi+iDBI0pGwuaGXjpItv+9p/zvH52XMHd4Uh45mbTc3dXy+fWMVQVX1xXBWSEz04Zi/1/wWJjy73qtQVw7Xg65b8Hw6CkYiMGL0fnri90XImWCdGjDiRrkjOuEkueXTryQVpdmVBeAynUwiu5GiJyCHGl5NZsnYj6sXQSDRQ1+9txLU985aKAT4dyYkRNLrw68F981iWfS5f/xeVR8joX8dm8EZEotVwbF0JimY3uHZeG4BxX9Ns/3tHSPyz3498iO3k+mBaxIdOfykVpMdnWZT2DDmEFw/s6+uRMMfeFU6aruWcgX5BOSFsdnn5NlZYo+RX5lQ==;pk+jj5GCxOz0rt2qMrbjSw=="
 ---

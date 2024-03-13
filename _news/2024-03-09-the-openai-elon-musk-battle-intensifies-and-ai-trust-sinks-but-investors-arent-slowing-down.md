@@ -49,6 +49,15 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "Your AI chatbot just got smarter thanks to this free tool from Anthropic"
+    excerpt: "Anthropic, best known for its Claude chatbot, has a free prompt library, which includes prompts for various use cases, ranging from very technical to lighthearted and fun. All you have to do is click on the use case you are interested in and then copy and paste the prompt into your chatbot of choice."
+    publishedDateTime: 2024-03-13T02:30:00Z
+    webUrl: "https://www.zdnet.com/article/your-ai-chatbot-just-got-smarter-thanks-to-this-free-tool-from-anthropic/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 46
   - title: "Elon Musk Can’t Sue His Way To AI Breakthroughs, Khosla Says"
     excerpt: "Billionaire Elon Musk can’t sue his way into artificial general intelligence, fellow billionaire and OpenAI investor Vinod Khosla said in an interview on Bloomberg TV."
     publishedDateTime: 2024-03-11T18:02:00Z
@@ -67,6 +76,15 @@ related:
       name: Inc
       domain: inc.com
     quality: 19
+  - title: "Elon Musk makes Grok AI open source amid ongoing OpenAI lawsuit"
+    excerpt: "In a move likely fueled by his lawsuit against OpenAI, Elon Musk is open-sourcing his own AI chatbot, Grok, which rivals ChatGPT. Grok boasts real-time information access and tackles tough topics, unlike many AI systems."
+    publishedDateTime: 2024-03-11T11:09:00Z
+    webUrl: "https://cointelegraph.com/news/elon-musk-open-source-grok-ai"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 17
 
 secured: "/lfTEkB+h1Uqvbl1X2HYM6RvQ622fXFwH9IJR68zvgTM/Dd9Eq/BOYVqfoQGSyt5j/Z/0GS50LbJHVmRO18gatKHu3pQwSLxRxjepOVGFA9E+6+EMsCeStcXrkem0QapJ7xjCEgILCuodprU3xFtmXZclvQ9mdPG/aXyQqYZgA3/1MrbvgTmASOfO8I2oEvB5EicjcvreHcEW5zWT0kKxQ790Qs1qpqXXn6Zs3bfE2i1qeOZWgwNqe8LPOTlXbjHTkhXarUxFxvtVIUfzyssQNsZ3hq2RIRLcZDIr9/1JUtMbJXhioXBH1k9Ae/BKyPz4f+KbLNPHb4BDCeElhXj1JVNPVwBLQhZzB2bC/RNN1s=;ozOnVRgIlaYE537q97Fjng=="
 ---

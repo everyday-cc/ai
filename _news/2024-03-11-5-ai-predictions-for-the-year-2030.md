@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2024/03/10/10-ai-predictions-f
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2024/03/10/10-ai-predictions-for-the-year-2030/amp/"
 type: article
 quality: 93
-heat: 183
+heat: 173
 published: true
 
 provider:
@@ -139,15 +139,6 @@ related:
         width: 375
         height: 375
         isCached: true
-  - title: "Overcoming the AI Privacy Predicament"
-    excerpt: "The IAPP's Müge Fazlioglu says organizations must address consumers' privacy concerns to realize the full potential of AI"
-    publishedDateTime: 2024-03-08T12:30:00Z
-    webUrl: "https://www.infosecurity-magazine.com/opinions/overcoming-ai-privacy-predicament/"
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 19
 
 secured: "XdRFHqMwkh89t8IeBu+9wKYlkUCFvZ4pURoO+gC4jGV7Nx+pjqhOHVHbYGWQX5mXEeUnQAm6lyMvHDTRfGXol7YiCFGt8v7Bszilud9IvEBnhoEBNp+Qsdc40q+/3W9nPaLd556ZmyCFs0yhjHIpzahP/Isg/2DP1lBOwaspMO9zIwlYUc6KLBnFQ0+rwYnwWgvOozou1N/S3bDJxoS1S43SHDcodmSJYCpf78k0ylJwP2C0S+rcoeFGEOpFQ8FekWKrExMUUsh5TO6rSih1d0vBh3niPYnlpM6gGjV5mhKu3ASI3Scpz8FfXlSbK2bKw0/d4JRHh6F4dyAs45ui621HouMe/IK3JfV6f+pBYlKclwbXibmrG/k6GpzcJ7gNnMLhYJ1qTMChkobGYLloV9T169rQHourOzT0MT4H+hoNDEHQzsSrnoJaZXR9mR1IoOFo3QsBK3vIyBJRmcXK3YjYHuWErlZpnjkCog8EOK4b4vaOn1MkpRxKLKyIR8/fq6qXLoub/tY9gGaH7NlpVA==;eEPG2J4iPcdxPF4FZadugQ=="
 ---

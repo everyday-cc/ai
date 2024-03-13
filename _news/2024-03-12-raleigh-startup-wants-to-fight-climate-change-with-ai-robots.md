@@ -35,6 +35,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "AI And Satellites Fight Climate Change And Restore Rainforests"
+    excerpt: "The rainforests may represent serenity for some. But for those protecting them, it’s tantamount to a war zone. Enter AI and satellites."
+    publishedDateTime: 2024-03-13T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/kensilverstein/2024/03/13/ai-and-satellites-fight-climate-change-and-restore-rainforests/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "gv5GmFYj8eixXfK5AlW/NKCBpa6f/lNHkRSbQcG0GTa4/L/WQA+pKYvBd8TXLq2v05KOSj6nDvhB10lSpVd80hGMYKMi22l0L3rB/jhwMXGIG0XhjAIRsnbCbOMegnhB3cWmBV8sOW8uNy0ANvzNY0IgLmc8NRKdFsiQ/Q+dlj+EbdWNzq+m//WOiAX4mbqhBO+fHcODbG5bKtcbnGJppw4NFpq79LPMXRrrk58geanAtd18L1rAjEGkzN+DGu5eWiCo1fTdCY/7YHBswLr0kyJvmIEZvxYvUf0nyIZm6aq3jdeTVgykK4DatcarV5SYrTCu0It31NDZdhvrxxuo0AFoiARyLwdMjIQQUraMXOW6C44ZpqDk+XjBFPKpo7drRCuH03mKVAbRsCgSRUtE9AMSEZ/B7k1f+V/uyZSsXEI5qT8+PJnXmYeBb8kWvDE3qTOvGDrpoT6MX5WczNtriepqp21DdWKF27GecLqcPtnKm/+PahHxMsClZj1zt3mPAL6DyvGXNOotTqeSWn7Lug==;lfYzTVGtnCJV99/zzzd3IA=="
 ---

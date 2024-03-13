@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/opinion/articles/2024-03-12/the-ai-revol
 webUrl: "https://www.bloomberg.com/opinion/articles/2024-03-12/the-ai-revolution-needs-chips-software-and-gas-pipelines"
 type: article
 quality: 64
-heat: 66
+heat: 64
 published: false
 
 provider:

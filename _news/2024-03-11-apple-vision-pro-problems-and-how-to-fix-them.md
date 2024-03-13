@@ -48,6 +48,15 @@ related:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
     quality: 21
+  - title: "Hands-on Apple Vision Pro: Amazing but expensive"
+    excerpt: "After some thorough hands-on time with the Apple Vision Pro, here’s my review, as originally shared in the Rich on Tech Newsletter. This is the first product I’m at the same time in love"
+    publishedDateTime: 2024-03-13T11:58:00Z
+    webUrl: "https://ktla.com/news/hands-on-apple-vision-pro-amazing-but-expensive/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 4
 
 secured: "0P6GYanNPsiFKkGbOGRULwMkvR3eiYR8TBT6e1Ozl32feQvkuS+RV59UWVfqkQ7/e9IUlksNuwgud6nJUwQJgdDmHcTepp8WGfo4ST2bR0RFDVmkAiK9MCGEfanpSSnlnR3JM0CI801Uo1ptkJeFGaD5lvxBmE9OgXhaMktNnoAYxT35cir5WDi1hekU18xRuuLDtZNnR4TbH0dHLc+VYLxpmef+/ztBXXedcPL63Bwc/4fef+w37FZjr3iH7JKKh384KrSk9Lj4MmuEx6xCPlEFKB/04q/W3cZLYqoXog6f9BvBZJQkG7ogzEFeXk+/j7Xhu1jbCmnL5go3e5cfQLpMm8xv9bYWGTnMpcxr5x6rvEqEuYXd7VPD+KCx0acjRpHPDTfqNu6MOvBl+jHRdYVsysa/9DP8qsGjInJWFwGNKII0RcU9xrvN7QLutoG6L0sxqh+IBhrQfcVIRigAJFVr+eNqPzETiZ4PQgyekoecwOhgqD4Qb8QnWThcUpIaKKti4wocHPOJ9QCShLNVTw==;lSUV5kKKdzfu8+VJrXpkZw=="
 ---

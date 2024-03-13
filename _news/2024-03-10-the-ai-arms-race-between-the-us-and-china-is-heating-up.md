@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/ai-arms-race-between-us-160000867.html"
 webUrl: "https://www.aol.com/ai-arms-race-between-us-160000867.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 1200
     height: 801
     isCached: true
-
-related:
-  - title: "How AI is helping advance women’s health around the world"
-    excerpt: "For International Women’s day, we’re highlighting AI solutions that can improve early diagnosis, quality and access to care for women’s health worldwide."
-    publishedDateTime: 2024-03-08T14:00:00Z
-    webUrl: "https://blog.google/technology/health/how-ai-is-helping-advance-womens-health-around-the-world/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 69
 
 secured: "j+0rhC/Mz3ODS9XlTvNvoyPiWRd4VXU6B+SX52g8m3b1PNaESRSoyAy/cOL/7gRVI9x0LvFKexfICw+eZJNWNj5k1O/naqTQb0A9AHPuTys3Z2ngoi10ijLILTi0oCJT0JjyQmYp1IbVTCHH7oEA6QziYQnX7/0OvgMiQeUJgrTdaoe4pEytqrTAg+G0oGrVa+FJRXxhjP8iM5MB1FYFUeyprirpXSh/je7A2YS/JFInaiO5DbYBN8hvSHhY4LMFAlZqpHSf34GdgKCnQvSdn6bbGdzuJiSOE7fucJX0bGOVbK78ItQlasb8Dn32bUhCGNRpHTcxph/9Pl3w3InwX91NqmofHtmw9ItJs6ZqNTA=;CLOfNvBP1qtPw2W3AZyS9w=="
 ---

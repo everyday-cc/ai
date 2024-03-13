@@ -49,6 +49,15 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "Your AI chatbot just got smarter thanks to this free tool from Anthropic"
+    excerpt: "Anthropic, best known for its Claude chatbot, has a free prompt library, which includes prompts for various use cases, ranging from very technical to lighthearted and fun. All you have to do is click on the use case you are interested in and then copy and paste the prompt into your chatbot of choice."
+    publishedDateTime: 2024-03-13T02:30:00Z
+    webUrl: "https://www.zdnet.com/article/your-ai-chatbot-just-got-smarter-thanks-to-this-free-tool-from-anthropic/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 46
   - title: "Elon Musk's Open-Source 'Grok' Takes on ChatGPT"
     excerpt: "Elon Musk announced that his AI startup xAI will release its ChatGPT competitor 'Grok' as open-source. This move comes shortly after Musk sued OpenAI for veering away from its nonprofit goals."
     publishedDateTime: 2024-03-11T18:17:00Z
@@ -58,6 +67,15 @@ related:
       name: Inc
       domain: inc.com
     quality: 19
+  - title: "Elon Musk makes Grok AI open source amid ongoing OpenAI lawsuit"
+    excerpt: "In a move likely fueled by his lawsuit against OpenAI, Elon Musk is open-sourcing his own AI chatbot, Grok, which rivals ChatGPT. Grok boasts real-time information access and tackles tough topics, unlike many AI systems."
+    publishedDateTime: 2024-03-11T11:09:00Z
+    webUrl: "https://cointelegraph.com/news/elon-musk-open-source-grok-ai"
+    type: article
+    provider:
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 17
   - title: "The OpenAI-Elon Musk battle intensifies and AI trust sinks, but investors aren’t slowing down"
     excerpt: "The escalation of the fight between OpenAI and Elon Musk over what kind of artificial intelligence company the phenom should be is creating even more uncertainty over who’s going to lead the generative AI era."
     publishedDateTime: 2024-03-08T19:56:00Z

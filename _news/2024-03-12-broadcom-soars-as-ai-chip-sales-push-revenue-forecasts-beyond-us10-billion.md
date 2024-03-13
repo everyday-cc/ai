@@ -7,8 +7,8 @@ originalUrl: "https://www.digitimes.com/news/a20240311PD213/broadcom-ai-chips-re
 webUrl: "https://www.digitimes.com/news/a20240311PD213/broadcom-ai-chips-revenue-nvidia-google.html"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Digi Times
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Broadcom sees US$10 billion in AI chip sales in 2024, but shares dip"
-    excerpt: "Broadcom said on Thursday it expects US$10 billion in revenue from chips related to artificial intelligence this year, but its stock dipped after the tech company’s full-year forecast failed to impress investors."
-    publishedDateTime: 2024-03-08T12:21:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3254609/broadcom-sees-us10-billion-ai-chip-sales-2024-shares-dip"
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 101
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/03/08/aca0ec53-7b33-408f-8d3d-d58d1e8781fb_31b6e3d9.jpg?itok=M-6jUhF_&v=1709871585"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Broadcom: AI Saves The Day"
     excerpt: "Broadcom reported strong Q1'24 with 34% YoY revenue growth, driven by data center and hyperscaler demand for AI infrastructure. Learn more on AVGO stock here."
     publishedDateTime: 2024-03-11T21:21:00Z

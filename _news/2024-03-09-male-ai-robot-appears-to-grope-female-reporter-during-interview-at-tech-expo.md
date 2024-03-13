@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nydailynews.com/2024/03/08/ai-robot-gropes-female-report
 cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/2024/03/08/ai-robot-gropes-female-reporter-deepfest-tech-expo/amp/"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 81
+published: true
 
 provider:
   name: New York Daily News
@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Robo cop-a-feel: Cheeky AI robot touches shocked woman's bottom at Saudi artificial intelligence event"
-    excerpt: "A cheeky male AI robot was caught touching a woman on the bottom in front of an audience while she reported from an artificial intelligence event. In hilarious fotage, reporter Rawya Kassem can be ..."
-    publishedDateTime: 2024-03-08T12:43:00Z
-    webUrl: "https://www.dailymail.co.uk/news/article-13173229/Robo-cop-feel-Cheeky-AI-robot-touches-shocked-womans-bottom-Saudi-artificial-intelligence-event.html"
-    ampWebUrl: "https://www.dailymail.co.uk/news/article-13173229/amp/Robo-cop-feel-Cheeky-AI-robot-touches-shocked-womans-bottom-Saudi-artificial-intelligence-event.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-13173229/amp/Robo-cop-feel-Cheeky-AI-robot-touches-shocked-womans-bottom-Saudi-artificial-intelligence-event.html"
+  - title: "AI company responds to outrage of male humanoid robot 'groping' female reporter"
+    excerpt: "A robotics company called QSS unveiled its 'Muhammad the Humanoid Robot,' and it appears the humanoid robot groped a female news reporter."
+    publishedDateTime: 2024-03-12T10:02:00Z
+    webUrl: "https://www.tweaktown.com/news/96798/ai-company-responds-to-outrage-of-male-humanoid-robot-groping-female-reporter/index.html"
     type: article
     provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 73
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 50
     images:
-      - url: "https://i.dailymail.co.uk/1s/2024/03/08/12/82207659-0-image-m-14_1709899954043.jpg"
-        width: 1200
-        height: 675
+      - url: "https://static.tweaktown.com/news/9/6/96798_615651_ai-company-responds-to-claims-its-first-humanoid-robot-groped-female-reporter_full.png"
+        width: 1500
+        height: 876
         isCached: true
 
 secured: "rn/leqvVR/zewnCJhtrsE6a5fPT+BJ49AHAcCH8LqOdyDnNxg8mmllQw6vraxa1Os2BQ9r8cUIf5VY4VW5tphOGWqH+i6BqTLF1Iw/mYV6qZGDdW3lVvBk1NCLbKB34keucthNq70lEtJ9pOx+9bFJ5zTDka44/56eVq7cIGnHB7sWPoT6c3ITN/nV3NmfitexLnEpd6TuaUFU5gofKIbE8voxa40MXBcuodAQZ8vDjZfPxwULqDFWb084meszzN85+4ZQlzHmyMYqxutrGQvBuTw8LgnQgb9D0rk/2VOERv/wiaMKsacXLdpQgu1TnPcJxYuTYhrmOGJ3NJgwKob7/QPzkMeke0KA6jI3LxVvXzasaWt/7Fu6EGqbzywU/9nvUTGYP29luQi1hVSadmr/Dj19AZhGfPo7I2KxNSdh2PoWlLJ8DGkIwQx+Nz3XO+4uL/Z4ZLlQMRuyUKm4mCL0wsUjjXWYX4NCJoXHiTMy2E64EDOwVGnDuXXyORkehvgPk8wlj4gX+pvFKOP+BPcg==;UOBdYFjQn+XufvyVLAiDYA=="

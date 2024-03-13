@@ -138,15 +138,6 @@ related:
         width: 375
         height: 375
         isCached: true
-  - title: "Overcoming the AI Privacy Predicament"
-    excerpt: "The IAPP's Müge Fazlioglu says organizations must address consumers' privacy concerns to realize the full potential of AI"
-    publishedDateTime: 2024-03-08T12:30:00Z
-    webUrl: "https://www.infosecurity-magazine.com/opinions/overcoming-ai-privacy-predicament/"
-    type: article
-    provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
-    quality: 19
 
 secured: "th77bNOdCd/CVbO3OrQJgX8rmah5FnBJI9vk6ySCdM2xjsmBrcS6KfONPtwJPSIKeMGHWGzx9jpx6B3X6slfh9wkIJD3D8c+dM6/mMqPLwqxD21kHlXzCx/LodBfYfGUX9/Xy/sH2VToTlKGnfvnfJ65wd2RPqHQT8HcSb+FL5SJxhqGOKlPRuB6qcnEUqJNDlkmRhtaGvWT5GpxRsB6sHmGkSwrvlF7BQe5H8a2L/6I7yJZm/OCHaJX2Fbae2hf9j5f4JYaHiFy6l+RexzusN9W5muYviAW/3BcyPizLUiA2Y/OZb6JAGRHnTG5MOCE8Eexkozvi++fKWLVA6HWjjRWnujOp+kwETbjLl1d4QRLg65DvWf/tOtvc3tQiDbEbWViPjmhHzeZEWusavLxWzOznti9sa6hBk27KIw9Nf+Gbj9IEVk2CZfm9261+62m4hW+KFRzxMRBbIIH0Hh+O0PnSvfw9uQ+iq9/dihDJlOZsrEiLuXpzXX+SUlFGYxi4NKJh58HecTxsjx0naHhCw==;X5o9DAPy75G2xMPAMlYC3g=="
 ---

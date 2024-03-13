@@ -62,20 +62,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "These 6 prompt engineering courses can you optimize your use of ChatGPT and other generative AI tools"
-    excerpt: "Google Cloud’s free introductory training on generative AI seeks to guide users through the fundamentals of the technology—from large language models to responsible ... just analyze data but understand it, translate it, and incorporate it into strategy ..."
-    publishedDateTime: 2024-03-08T14:58:00Z
-    webUrl: "https://fortune.com/education/articles/prompt-engineering-courses/"
-    type: article
-    provider:
-      name: Fortune
-      domain: fortune.com
-    quality: 71
-    images:
-      - url: "https://content.fortune.com/wp-content/uploads/2024/03/Prompt-engineering-courses-GettyImages-1498577422-e1709762465348.jpg?resize=1200,600"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "How the A.I. That Drives ChatGPT Will Move Into the Physical World"
     excerpt: "In a move aimed at addressing fears that A.I. could be used to create bioweapons, over 90 biologists and other scientists have signed an agreement that seeks to ensure that their research will move forward without exposing the world to serious harm."
     publishedDateTime: 2024-03-11T16:00:00Z
@@ -178,18 +164,18 @@ related:
         height: 372
         isCached: true
   - title: "Google restricts election-related queries for its Gemini chatbot"
-    excerpt: "Google's Gemini rebrand, app rollouts and feature expansions were a first step to \"building a true AI assistant,\" Sissie Hsiao, a vice president at Google and general manager for Google Assistant and Bard, told reporters on a call in February."
-    publishedDateTime: 2024-03-12T00:00:00Z
-    webUrl: "https://www.nbcbayarea.com/news/national-international/google-restricts-election-related-queries-for-its-gemini-chatbot/3479291/"
-    ampWebUrl: "https://www.nbcbayarea.com/news/business/money-report/google-restricts-election-related-queries-for-its-gemini-chatbot/3479291/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/business/money-report/google-restricts-election-related-queries-for-its-gemini-chatbot/3479291/?amp=1"
+    excerpt: "Google on Tuesday announced it will begin restricting the types of election-related questions that users can ask its Gemini chatbot."
+    publishedDateTime: 2024-03-12T09:05:00Z
+    webUrl: "https://www.nbcdfw.com/news/national-international/google-restricts-election-related-queries-for-its-gemini-chatbot/3486602/"
+    ampWebUrl: "https://www.nbcdfw.com/news/business/money-report/google-restricts-election-related-queries-for-its-gemini-chatbot/3486602/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/business/money-report/google-restricts-election-related-queries-for-its-gemini-chatbot/3486602/?amp=1"
     type: article
     provider:
-      name: NBC Bay Area
-      domain: nbcbayarea.com
+      name: NBC DFW
+      domain: nbcdfw.com
     quality: 44
     images:
-      - url: "https://media.nbcbayarea.com/2023/12/107328777-16990343932020-01-20t120454z_160733568_rc2oje9w6izp_rtrmadp_0_google-eu-1.jpeg?quality=85&strip=all&resize=1200%2C675"
+      - url: "https://media.nbcdfw.com/2023/12/107328777-16990343932020-01-20t120454z_160733568_rc2oje9w6izp_rtrmadp_0_google-eu-1.jpeg?quality=85&strip=all&resize=1200%2C675"
         width: 1200
         height: 675
         isCached: true
@@ -206,20 +192,6 @@ related:
       - url: "https://barchart-news-media-prod.aws.barchart.com/EXCLSV/1a830998fe4498d786760d9c6b1e1031/htmurw024cx5droq.png"
         width: 1045
         height: 707
-        isCached: true
-  - title: "Siri creator says it’s about to become a ‘real force’ in the AI race against ChatGPT, Copilot and Gemini"
-    excerpt: "Dag Kittlause is the co-founder of the AI startup acquired by Apple in 2010 that led to the voice assistant we know today. He says big things are coming for Apple's assistant and that it is a “dark horse” in the large language model space."
-    publishedDateTime: 2024-03-08T15:51:00Z
-    webUrl: "https://www.tomsguide.com/ai/siri-creator-says-its-about-to-become-a-real-force-in-the-ai-race-against-chatgpt-copilot-and-gemini"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 39
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/MYUB7fRQmfB3AZN2r6asJW-1200-80.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Google's Gemini AI Vulnerable to Content Manipulation"
     excerpt: "Like ChatGPT and other GenAI tools, Gemini is susceptible to attacks that can cause it to divulge system prompts, reveal sensitive information, and execute potentially malicious actions."
@@ -258,6 +230,15 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Google to Restrict Election-Related Answers on AI Chatbot Gemini"
+    excerpt: "The new restriction to Google’s AI chatbot was first implemented in India, which holds elections in April, before being rolled across other nations"
+    publishedDateTime: 2024-03-13T12:30:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/google-restrict-election-answers/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 19
   - title: "Google's Gemini AI chatbot restricted from election speak"
     excerpt: "Google restricts AI chatbot Gemini from answering questions about the global elections set to happen this year."
     publishedDateTime: 2024-03-12T19:32:00Z

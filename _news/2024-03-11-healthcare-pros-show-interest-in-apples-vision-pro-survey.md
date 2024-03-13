@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3714400/healthcare-pros-show-i
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3714400/healthcare-pros-show-interest-in-apples-vision-pro-survey.amp.html"
 type: article
 quality: 61
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
     quality: 21
+  - title: "Hands-on Apple Vision Pro: Amazing but expensive"
+    excerpt: "After some thorough hands-on time with the Apple Vision Pro, here’s my review, as originally shared in the Rich on Tech Newsletter. This is the first product I’m at the same time in love"
+    publishedDateTime: 2024-03-13T11:58:00Z
+    webUrl: "https://ktla.com/news/hands-on-apple-vision-pro-amazing-but-expensive/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 4
 
 secured: "umDQ6MkgSnJQOgIVvWVMrP7bwosglHQIhM5eNddqCl5qleI4diTqHfJTd/4aXdpGlMVqwwUqO83oxV8rbBPeuQDfFkQZsKSfyDogXU0QA+z2RkGMDmdUv/X9g13EIU74kT3OpmJdmSmvrGEAIRrieb4+Zl/xL2ieSxorEyfk46pPauytsamfu8p856DC8BIJDH3OxuC+UlSkAdlQQ9F8fgbYhL6mTKwjDiFEXebk5YQkTK7yLwhyWtGK9dGY/poamZ2ZNlyvy73sgkvHcdlG8vzrrnfXd52tvjQnnrQvw2G/07jWYWEV1F1hJYtshlh+elbE+xt4HreyLZp7G3iUKwX55rc7AwDrpqjstcD3S4dgunMlreS0moEOCdknz5uSwp/+BARkX5+kBmXUZlqXMM7OQ6OEQt712ksVLisKzpvvn4rduiBgBxCes6joK015xFGFpGLIpW1lx2ncMnwq/SqOmNE0OZo2N/udRxLH14ryO02XoEDeo1brdUzXcXBtsTnpnrl7Rsu0RwsdzgroBg==;4IGvax8+OWPyR5iS3WUY9A=="
 ---

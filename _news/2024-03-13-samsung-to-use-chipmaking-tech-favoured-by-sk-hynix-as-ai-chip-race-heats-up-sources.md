@@ -41,6 +41,15 @@ related:
         width: 640
         height: 402
         isCached: true
+  - title: "Samsung to use chip-making tech favoured by SK Hynix as AI race heats up, sources say"
+    excerpt: "Samsung has fallen behind in the AI chip race, while SK Hynix was the first vendor to produce highly sought-after HBM3 chips for Nvidia."
+    publishedDateTime: 2024-03-13T12:05:00Z
+    webUrl: "https://www.scmp.com/tech/tech-trends/article/3255175/samsung-use-chip-making-tech-favoured-sk-hynix-ai-race-heats-sources-say?module=latest&pgtype=homepage"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 57
   - title: "Samsung eyes opportunity in AI chip manufacturing market amid TSMC dominance"
     excerpt: "As companies strive to establish themselves in the AI era, the South Korean industry is monitoring whether Samsung Electronics can capitalize on the AI chip orders."
     publishedDateTime: 2024-03-11T04:27:00Z

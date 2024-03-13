@@ -1,28 +1,26 @@
 ---
 category: news
 title: "VAST Data Unveils New Data Platform Architecture for the AI Factory"
-excerpt: "NEW YORK CITY, New York– March 11, 2024 – VAST Data, the AI data platform company, today unveiled a new AI cloud architecture designed to deliver"
-publishedDateTime: 2024-03-12T15:45:00Z
-originalUrl: "https://www.datanami.com/this-just-in/vast-data-unveils-new-data-platform-architecture-for-the-ai-factory/"
-webUrl: "https://www.datanami.com/this-just-in/vast-data-unveils-new-data-platform-architecture-for-the-ai-factory/"
+excerpt: "VAST Data, the AI data platform company, today unveiled a new AI cloud architecture designed to deliver unprecedented levels of performance, quality of service, zero-trust security and space/cost/power efficiency for the AI factory."
+publishedDateTime: 2024-03-12T14:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/vast-data-unveils-new-data-platform-architecture-for-the-ai-factory-1033154962"
+webUrl: "https://markets.businessinsider.com/news/stocks/vast-data-unveils-new-data-platform-architecture-for-the-ai-factory-1033154962"
 type: article
-quality: 39
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: datanami.com
-  domain: datanami.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://www.datanami.com/wp-content/uploads/2023/06/CCCLV24_Property_Image-4-scaled.jpg"
-    width: 2560
-    height: 1336
-    isCached: true
 
 related:
   - title: "VAST Data’s NVIDIA DPU-BASED AI Cloud Architecture"
@@ -49,7 +47,7 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 83
+    quality: 85
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65f0f81fab4ec72de094a838/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&height=900&width=1600&fit=bounds"
         width: 1600
@@ -195,6 +193,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 51
+  - title: "AMD Rally Looks More Fragile Than Nvidia’s as Traders Bid Up AI"
+    excerpt: "Advanced Micro Devices Inc. has kept pace with Nvidia Corp.’s furious ascent of late, but the factors underpinning its rally look less certain."
+    publishedDateTime: 2024-03-13T11:53:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2024-03-13/amd-rally-looks-more-fragile-than-nvidia-s-as-traders-bid-up-ai"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 49
   - title: "3 AI Stocks That Nvidia Should Buy Next"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Nvidia (NASDAQ:NVDA) started the current artificial intelligence boom."
     publishedDateTime: 2024-03-08T20:37:00Z
@@ -217,20 +224,6 @@ related:
       - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1494623399/image_1494623399.jpg?io=getty-c-w1536"
         width: 1536
         height: 1034
-        isCached: true
-  - title: "This AI token is being called the Nvidia of crypto"
-    excerpt: "With the reinvigorated interest in AI, decentralized platforms that offer related services are facing increased demand, including Render."
-    publishedDateTime: 2024-03-08T12:23:00Z
-    webUrl: "https://finbold.com/this-ai-token-is-being-called-the-nvidia-of-crypto/"
-    type: article
-    provider:
-      name: Finbold | Finance in Bold
-      domain: finbold.com
-    quality: 39
-    images:
-      - url: "https://assets.finbold.com/uploads/2024/03/This-AI-token-is-being-called-the-Nvidia-of-crypto.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Nvidia, HP give data science a GPU boost"
     excerpt: "The two tech companies will infuse enterprise AI workstations with GPU-powered data processing and model building software."
@@ -316,6 +309,20 @@ related:
         width: 714
         height: 422
         isCached: true
+  - title: "VAST Data Unveils New Data Platform Architecture For The AI Factory"
+    excerpt: "Designed in collaboration with NVIDIA and being deployed at CoreWeave, the new infrastructure unleashes VAST's parallel data services architecture on"
+    publishedDateTime: 2024-03-13T15:44:00Z
+    webUrl: "https://menafn.com/1107972275/VAST-Data-Unveils-New-Data-Platform-Architecture-For-The-AI-Factory"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2024-03/13/M_0e391image_story.jpg"
+        width: 825
+        height: 1237
+        isCached: true
   - title: "Vast Data unveils new AI infrastructure with Nvidia and Supermicro partnerships"
     excerpt: "Artificial intelligence data platform startup VAST Data Inc. today announced new AI cloud architecture in partnership with Nvidia Corp., using the company’s BlueField-3 data pro"
     publishedDateTime: 2024-03-12T16:20:00Z
@@ -367,6 +374,6 @@ related:
       domain: usatoday.com
     quality: 13
 
-secured: "RiDonINDOIzvY462Fwu2zKYpBv9IfDPIva6rbUSiU676dL/ctKGnugQT/3B//oqO/zXvlYvRHUMsGKL8xurGkKPQuhaEREdTfHG0RYZKFVUBfVXYVU+CB8+1l/VkQyj9a6siUy9XrShMvLVX0ccm6uwu0PwthOuZrA2HofK7m5ZLr3ZlWgJcFXyjo3ziiRZURajzi0C8oTLRjVGAjpwzig61UAGMDeO/OT6KcRMoX1XVw0o/gvsG2lzOnHap9QcvhJg3YdMTIxIOeJItqLiwV1WkxJZE8J3cDzDOjBz9IHL9cMzcSAcWcNIgqIf3NsnvXMOq5dhUg3H0Is47W0CIwO5X0IC2zgNDT7NNS6hSjEKjmHw/yHH4Fo9t2LxZ23odbkdu5MAR2mOgvm1IVjrm5eP5yNc1jZfLCDZCLJ9PfFU3wpHoYwgcA241SEVLjox5UKMXw9KMuqlv7ulhvOBfX09g/KRaAFH1sdvOjZXBzK4qPF6xS/22lR6foqPrLYNBw033EY46sqgUPM3/dANITg==;Ryg5SKvnBorPlfwbyPFHzQ=="
+secured: "P76ANnidGKx5Ownug7998moXQxRoFFyinuJYJb5dLUemV7y/ttilfVsmIiaO7FgoOQ3cO9ADsuZuaQup0kMwI4V+4gUaP1Tgt6NJj7ZFW1Czg1WHFlFvhf5hOzbCC7yF6cdEDFGiEPPLHZ83G9T5B78fRdf9fas+ebRJZMxorUneCmiWZNbir9077aHsJ6S9wSy3lHB9LRM1a3V7F8/3o+L4ZKTOrx1RAyNhiMUYhnJmQQ2ey0DhEn5CzidkNCok5y5tRxmeBdNEJnYhEgWGWvCChtg7fuVCufkj+iGXyR71jpX5UEBxnEJ8rYRyyu2iBkM6XRdq80LcXUHVs15uGPRE1jz09ZmyskbfdGKuy48=;9ReWA0AUgHOVddZlJm8bzg=="
 ---
 

@@ -45,20 +45,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 46
-  - title: "AI Bias In the Spotlight On International Women’s Day"
-    excerpt: "What impact does AI bias have on women and girls? What can people do to increase female participation in the AI field? These are some of the questions the"
-    publishedDateTime: 2024-03-08T16:00:00Z
-    webUrl: "https://www.datanami.com/2024/03/08/ai-bias-in-the-spotlight-on-international-womens-day/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2024/03/break_the_bias_shutterstock_NStafeeva.jpg"
-        width: 1000
-        height: 513
-        isCached: true
 
 secured: "gGHF9cQdezC5A13UGrqWeQopMmWAKjydfoOTPRrKkHhyB/rK5zela/hXLj9+Hc6WCe653yEGGcF1s/jQjiYpd4XRol20mjCeQX/jDZlPvFGpEoRnMbLuBZR+wcjqtAbnhS5QCpbYWFybk+WYULMuafWhLp4jN7xXVkXNOwViFjN2k0BaDvdH07pHwn55d2M+x7orux296U2KXq3f/DOOccKyNrXbrDgWiTbkEId8NVMfkn/9D9BzM5V0dYVjiZJ4AxtTCxt0l7p45GqFNIo/HZr3BOdpDPb1chuDj/gkGG39X9xVjc/eFYqyDpGctsg9qT0hTDgR386hs15YFAL1PQMyg3Y3Sj6R4JMZicxyTl0HKyOHC9lauHexKGKFAJ9ic3JPoC2rpsGdKFbgix/jn5zC0b07uMJ9JyOftSQW/iqmCD7kIdQ5aEPHl0OgSyJQP0oH31JYAvIoNC5dJ0qMogzkhNYarBYn9sc3xynjcLsGtj0Bs56OLzx4fXTx/ViKgHP0fgZ828CQO8RmxyFe7A==;NvDVVW4E2V9edq+EuK0NOA=="
 ---

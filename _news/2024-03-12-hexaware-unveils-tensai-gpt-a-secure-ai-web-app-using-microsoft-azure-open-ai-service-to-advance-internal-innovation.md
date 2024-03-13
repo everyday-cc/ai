@@ -37,20 +37,6 @@ related:
         width: 1199
         height: 615
         isCached: true
-  - title: "AI Bias In the Spotlight On International Women’s Day"
-    excerpt: "What impact does AI bias have on women and girls? What can people do to increase female participation in the AI field? These are some of the questions the"
-    publishedDateTime: 2024-03-08T16:00:00Z
-    webUrl: "https://www.datanami.com/2024/03/08/ai-bias-in-the-spotlight-on-international-womens-day/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://www.datanami.com/wp-content/uploads/2024/03/break_the_bias_shutterstock_NStafeeva.jpg"
-        width: 1000
-        height: 513
-        isCached: true
   - title: "On AI treaty, US wants an opt-out"
     excerpt: "The U.S. is a non-voting observer at the council, but the Europeans crave its signature on the treaty because of the United States’ importance in the development of AI."
     publishedDateTime: 2024-03-11T18:00:00Z

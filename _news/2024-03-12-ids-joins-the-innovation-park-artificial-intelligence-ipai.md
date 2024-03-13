@@ -7,7 +7,7 @@ originalUrl: "https://www.sourcesecurity.com/news/ids-joins-innovation-park-arti
 webUrl: "https://www.sourcesecurity.com/news/ids-joins-innovation-park-artificial-intelligence-ipai-co-12175-ga.1710229356.html?ref=nav"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,81 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Safeguarding Data Privacy In The Age Of AI Innovation"
+    excerpt: "The Amazon Bedrock platform allows for the creation and deployment of machine learning models within a protected ... Furthermore, cloud service providers like Microsoft Azure and Google Cloud offer specialized tools and services for building private ..."
+    publishedDateTime: 2024-03-13T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/safeguarding-data-privacy-in-the-age-of-ai-innovation/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/safeguarding-data-privacy-in-the-age-of-ai-innovation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/13/safeguarding-data-privacy-in-the-age-of-ai-innovation/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c2ae560f07ba1a1fade19d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1330
+        height: 900
+        isCached: true
+  - title: "Human Creativity in the Age of Artificial Intelligence"
+    excerpt: "In 2015, my friend, Jim Clark, invited me to attend what was then a groundbreaking conversation at the World Summit on Technological Unemployment, hosted at the TIME magazine Conference Center. Jim laid it out pretty clearly: the tech revolution was set to ..."
+    publishedDateTime: 2024-03-11T02:11:00Z
+    webUrl: "https://www.rollingstone.com/culture-council/articles/human-creativity-the-age-of-artificial-intelligence-1234983648/"
+    ampWebUrl: "https://www.rollingstone.com/culture-council/articles/human-creativity-the-age-of-artificial-intelligence-1234983648/amp/"
+    cdnAmpWebUrl: "https://www-rollingstone-com.cdn.ampproject.org/c/s/www.rollingstone.com/culture-council/articles/human-creativity-the-age-of-artificial-intelligence-1234983648/amp/"
+    type: article
+    provider:
+      name: Rolling Stone
+      domain: rollingstone.com
+    quality: 57
+    images:
+      - url: "https://www.rollingstone.com/wp-content/uploads/2024/03/human_creativity_in_the_age_of_artificial_intelligence-.jpg?w=1600&h=900&crop=1"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Safeguarding the future of artificial intelligence"
+    excerpt: "In recent years, the development of artificial intelligence (AI) has been viewed as a “double-edged sword,” where some do find it beneficial, yet others are more skeptical about the problems it may create."
+    publishedDateTime: 2024-03-13T08:55:00Z
+    webUrl: "https://www.thejakartapost.com/business/2024/03/13/safeguarding-the-future-of-artificial-intelligence.html"
+    type: article
+    provider:
+      name: The Jakarta Post
+      domain: thejakartapost.com
+    quality: 39
+    images:
+      - url: "https://img.jakpost.net/c/2024/03/13/2024_03_13_148255_1710319236._large.jpg"
+        width: 1360
+        height: 765
+        isCached: true
+  - title: "Advancing Equitable AI in the US Social Sector"
+    excerpt: "How thoughtfully designed AI-powered applications can drive stronger and more equitable outcomes for nonprofits."
+    publishedDateTime: 2024-03-12T12:38:00Z
+    webUrl: "https://ssir.org/articles/entry/advancing-equitable-ai-us-social-sector"
+    type: article
+    provider:
+      name: ssir.org
+      domain: ssir.org
+    quality: 19
+  - title: "Epistemological Vertigo in the Age of AI"
+    excerpt: "It's tempting, perhaps even easy, to view AI emotions through the lens of human feelings, to anthropomorphize these complex systems and attribute them to the same kinds of inner e"
+    publishedDateTime: 2024-03-09T19:33:00Z
+    webUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202403/epistemological-vertigo-in-the-age-of-ai"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 17
+  - title: "Navigating the Intersection of Intellectual Property and Artificial Intelligence"
+    excerpt: "In today's digital landscape, the convergence of intellectual property (IP) and artificial intelligence (AI) presents both unparalleled opportunities and unique challenges for businesses across industries. As AI continues to revolutionize how companies ..."
+    publishedDateTime: 2024-03-11T00:01:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/navigating-the-intersection-of-5064154/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 12
 
 secured: "GIhzm0OHdayxNGNLnBW8Lzq/FDEQwCmP5ajwMQdmtcWCW6jROei6IEv/SzsM5cxZiwZJomkipI8xd6fjj8gih76KPQ/qqGdoPVXJ3eTWIYzXaJzERUNi+93SjD9xi6O+fqfQ6mx+lc4u6VA1ns/1n6ocwEcgKl2yLAs4tIWcHgpd9u0D2svCBCvvRWdT+JW3WtSRQ5DQGJTZKRap/g6WZtQwfhJnpTQKDPcm123wP0Im8QYqjvLX/BNLBZLG2UltkD0RsTCEC7E5VZR9rWWz1c440ys/5eLB44Ez0aqQygwCY6qg1J+N56J9qTl7Oo+8iunSiAdsQDsxZRdezV3Kan4qsQ61HdJTVQdSuTfBkKinfKfXSFDFBTj/FhrFK1zDeaUDxEBhaCnJqvaXmy523I2Co33B21MU+CA+RhmlNj9YwDDpsCkgWjTVvpl28YJiJVFkwPV4ZmUDIP7L179y+QwkqZoCcMAcClcsrSLpD5yQPZGh/Vck6HPBfoJ5Y7n3YiMQ1oEyely4B0c19a2CEg==;ogw+RyhHtJOVAYKgcZD7tw=="
 ---

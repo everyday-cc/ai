@@ -35,6 +35,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "AI will change the world—the terms are up to us"
+    excerpt: "AI was featured in the G7 Ministerial Meeting in Verona, Italy, and in conversations in the Business Federations gatherings, or B7.\nThe post AI will change the world—the terms are up to us appeared first on IBM Blog.\n"
+    publishedDateTime: 2024-03-13T14:00:00Z
+    webUrl: "https://www.ibm.com/blog/b7-eu-ai-act/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 99
   - title: "How Financial Services Firms Can Unleash The Power Of Generative AI"
     excerpt: "To unlock the full value of gen AI, banks, and insurers first need to establish essential building blocks around their data, culture and responsible AI."
     publishedDateTime: 2024-03-11T13:59:00Z

@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Broadcom sees US$10 billion in AI chip sales in 2024, but shares dip"
-    excerpt: "Broadcom said on Thursday it expects US$10 billion in revenue from chips related to artificial intelligence this year, but its stock dipped after the tech company’s full-year forecast failed to impress investors."
-    publishedDateTime: 2024-03-08T12:21:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3254609/broadcom-sees-us10-billion-ai-chip-sales-2024-shares-dip"
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 101
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/03/08/aca0ec53-7b33-408f-8d3d-d58d1e8781fb_31b6e3d9.jpg?itok=M-6jUhF_&v=1709871585"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Broadcom soars as AI chip sales push revenue forecasts beyond US$10 billion"
     excerpt: "Nvidia's rising profitability amid the AI surge has captivated attention from around the globe. However, regarding AI chip revenue, SemiAnalysis analysts have highlighted that Broadcom might be considered the world's second-largest firm."
     publishedDateTime: 2024-03-12T01:50:00Z

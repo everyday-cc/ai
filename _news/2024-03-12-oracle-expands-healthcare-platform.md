@@ -126,15 +126,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 33
-  - title: "Wipro's health care deals get an artificial intelligence booster shot"
-    excerpt: "Information technology (IT) giant Wipro has a strong pipeline of large artificial intelligence (AI)-led deals in the health care vertical, according to a senior company executive. Health care stands as the third-largest vertical for Wipro,"
-    publishedDateTime: 2024-03-08T16:16:00Z
-    webUrl: "https://www.rediff.com/business/report/wipros-health-care-deals-get-an-artificial-intelligence-booster-shot/20240308.htm"
-    type: article
-    provider:
-      name: rediff.com
-      domain: rediff.com
-    quality: 19
 
 secured: "mNrTp7U7SFgW8mMoEz6v3akh42Xa8bHyzgAUFkCP/QnxOB+9YhhBo9PkqCXF6dr5HtJbpDw4haEPm5N3s0RpqiwM6YPIKsWdndGId++BMpHbjFvzuzvohCWW7PPN7hDam9POMCQ5AkxkDAFlFyi/fRfZIKQ28YQCWEcdXcvCONuRap+pzV5XRY9wts+0HhTuHwkB76tRx/22YxZo173pTt1t33b0kMcT2GQ3pNbCIYIpNiZkYTDTJ6dRXMOlhfvdhjtTIMEz/oFdkyWqhnFCWBJezG7bed+0mQFeXtXTrS3iIcLQdDlMUfCv9Rj7X8PyMDNGR/JWVy4bnLJjTUFjh65jLgIF+RAuTwJWWEMZAUI=;kADiImE7S48YQdXLd4dK5w=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.statnews.com/2024/03/11/biotech-news-amylyx-alumis-lun
 webUrl: "https://www.statnews.com/2024/03/11/biotech-news-amylyx-alumis-lundbeck-als-psoriasis-arukon-msa-relyvrio/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,74 +17,6 @@ provider:
 topics:
   - AI Ethics
   - AI
-
-related:
-  - title: "Navigating The Risks Of AI Weaponization"
-    excerpt: "As AI continues to advance and become more pervasive, so do its risks. From mass disinformation campaigns and deepfakes to fully autonomous weapon systems, the convergence of AI, technology and “bad intentions” demands priority attention."
-    publishedDateTime: 2024-03-08T16:08:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/navigating-the-risks-of-ai-weaponization/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/navigating-the-risks-of-ai-weaponization/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/08/navigating-the-risks-of-ai-weaponization/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65eb37f10a2278925e9cdb57/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1456
-        height: 864
-        isCached: true
-  - title: "Safeguarding Data Privacy In The Age Of AI Innovation"
-    excerpt: "The Amazon Bedrock platform allows for the creation and deployment of machine learning models within a protected ... Furthermore, cloud service providers like Microsoft Azure and Google Cloud offer specialized tools and services for building private ..."
-    publishedDateTime: 2024-03-13T11:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/safeguarding-data-privacy-in-the-age-of-ai-innovation/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/safeguarding-data-privacy-in-the-age-of-ai-innovation/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/13/safeguarding-data-privacy-in-the-age-of-ai-innovation/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/64c2ae560f07ba1a1fade19d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1330
-        height: 900
-        isCached: true
-  - title: "Tackling deforestation and forest degradation with AI and remote sensing"
-    excerpt: "Deforestation and forest degradation are both significant conservation issues. But charities around the world are starting to use advanced technologies, such as AI and remote sensing, to get on top of the challenge."
-    publishedDateTime: 2024-03-13T09:12:00Z
-    webUrl: "https://diginomica.com/tackling-deforestation-and-forest-degradation-ai-and-remote-sensing"
-    ampWebUrl: "https://diginomica.com/tackling-deforestation-and-forest-degradation-ai-and-remote-sensing?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/tackling-deforestation-and-forest-degradation-ai-and-remote-sensing?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 58
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2024-03/IMG_2082.jpeg"
-        width: 640
-        height: 427
-        isCached: true
-  - title: "Renewing Corporate Gifting: The Impact Of AI On Personalization"
-    excerpt: "AI algorithms and machine learning capabilities empower businesses to enhance personalization processes at scale and across geographic divides. It can source and recommend gifts based on recipient preferences, automate the ordering and delivery process, and also help with customizing and manufacturing personalized gifts at scale."
-    publishedDateTime: 2024-03-08T12:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/08/renewing-corporate-gifting-the-impact-of-ai-on-personalization/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
-  - title: "Navigating the Intersection of Intellectual Property and Artificial Intelligence"
-    excerpt: "In today's digital landscape, the convergence of intellectual property (IP) and artificial intelligence (AI) presents both unparalleled opportunities and unique challenges for businesses across industries. As AI continues to revolutionize how companies ..."
-    publishedDateTime: 2024-03-11T00:01:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/navigating-the-intersection-of-5064154/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 12
 
 secured: "QueT1X2qO+qgqjJn20O1ef2gco6+6EK6hgYCiZPYrVXaXXT6VF7FsMk7v6RZfNwXonQqig4XmDUOyvAU8TlNQ4OUenrcx0EZD5SskC1FHJ2QhNbzv4uf8sOwrG4NmhMYzT6mM++DBOSxzDhSdqeeC/oAr7y0Um2L3qMA2ABkLVpeZncpEk/9tnSR7sjA9ee3CwD8FmBup9bzLNF/eMFUPLo4orfY/BUC0nZsoQ+w9hEYfBgWzs1W/YWXTQ7TwQn9htN/o/LXfRAfYjaSdnaj2LJ38VIcVU2imj56kO9mE4JhGfzjVOQAIX69zHpMIuqByIBnWudpmVbLk2CpAXfS/1b1HJQxxP7Q/KfSk6MJZhIrZ3JnAi2UTJA4abUipjuSkv+35hiX86tPcQPszzZbCvzys0KfLzmxVCqXtysLEWw4xAqavtF23aMAGRlXQd6kY/sMAQ92usTKN/p37e3Dmhx5n3+NkOl7ge/mQvuvGmfxyO8uKoV3rPrJ6kiS2aNqxnTtoJVkec+iIXx7eQEMBQ==;cK2tb73KOwVRf7l7fdvY5A=="
 ---

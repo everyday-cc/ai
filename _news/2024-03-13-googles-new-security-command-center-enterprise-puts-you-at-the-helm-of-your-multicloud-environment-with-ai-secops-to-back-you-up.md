@@ -7,8 +7,8 @@ originalUrl: "https://www.techradar.com/pro/googles-new-security-command-center-
 webUrl: "https://www.techradar.com/pro/googles-new-security-command-center-enterprise-puts-you-at-the-helm-of-your-multicloud-environment-with-ai-secops-to-back-you-up"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: TechRadar
@@ -39,6 +39,20 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 33
+  - title: "A better way to manage hybrid or multicloud deployments"
+    excerpt: "Cloud-native strategies notwithstanding, workloads running on-premise or in private clouds will continue to present management challenges."
+    publishedDateTime: 2024-03-11T04:00:00Z
+    webUrl: "https://www.computerweekly.com/feature/A-better-way-to-manage-hybrid-or-multicloud-deployments"
+    type: article
+    provider:
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 24
+    images:
+      - url: "https://cdn.ttgtmedia.com/visuals/ComputerWeekly/HeroImages/cloud-computing-speed-Tierney-adobe.jpg"
+        width: 1200
+        height: 400
+        isCached: true
 
 secured: "mVW+qbHnmLmTPuGl8GQvun6nfQDnoM7OUOo1EWohiF0jmgvzvgCmnRqzoMciOyvq+EkkQBl7o/sb0QWWGpMS9WyeSgmgcTeeDcDBJoSva5OF4Z+5Okw84W7L/tNa0fyViSfbRQTGZSbqqgbPJ7WZeY5YlrdFl9PwFD6VDSvv1Joda7MTgNrxFlHoNEpXLVemeeuD1EWN8CORPkIPus7Q1ur/zXvEvmZUA8FgYn4SoGuNwLYyvSNDaFjLb3Hjj47gLgRfOKJKhsjl+1NZ+0YBIB7lXL2I5MR3llJOlIcjwKiyEFXMsyztQqLEPaSg6RnvQAx8rI0UsMyIuvHppTTUew+BqU5roOA0iAnGtORCkKQ=;C2+w9/cgBng7bW94F1DmHQ=="
 ---

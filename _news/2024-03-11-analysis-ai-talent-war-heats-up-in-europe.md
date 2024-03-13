@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "Europe Passes AI Act to Ban Riskiest Tools, Force Copyright Compliance"
+    excerpt: "The legislation will require AI firms to notify customers if they're speaking with an AI and bans AI from using human biometric data in most cases, among other rules."
+    publishedDateTime: 2024-03-13T15:30:00Z
+    webUrl: "https://www.pcmag.com/news/europe-passes-ai-act-to-ban-riskiest-tools-force-copyright-compliance"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/05EEvCkyXHT7tmPSKhqw4gl-1.fit_lim.size_1200x630.v1710339867.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "AI talent war heats up in Europe"
     excerpt: "An influx of artificial intelligence (AI) startups is heating up the battle for technical talent in Europe, leaving companies like Google DeepMind to choose between paying big or losing out on the region's best minds."
     publishedDateTime: 2024-03-11T05:03:00Z
@@ -27,20 +41,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
-  - title: "The Battle for AI Talent Heats Up in Europe"
-    excerpt: "The European scene is witnessing a heated battle for AI talent as an influx of startups intensifies the competition among tech giants."
-    publishedDateTime: 2024-03-12T00:30:00Z
-    webUrl: "https://techreport.com/news/the-battle-for-ai-talent-heats-up-in-europe/"
-    type: article
-    provider:
-      name: The Tech Report
-      domain: techreport.com
-    quality: 39
-    images:
-      - url: "https://techreport.com/wp-content/uploads/2024/03/Elon-Musk-Set-To-Create-A-Dedicated-Smart-TV-App-For-X-300x225.jpeg"
-        width: 300
-        height: 225
-        isCached: true
   - title: "What the fierce AI talent war in Europe means for IT professionals as well as IT companies like Google and others"
     excerpt: "A surge of artificial intelligence (AI) startups is intensifying competition for skilled workers in Europe, forcing established players like Google De."
     publishedDateTime: 2024-03-11T10:48:00Z

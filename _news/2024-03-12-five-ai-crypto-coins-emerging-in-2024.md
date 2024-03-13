@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/business/india-business/best-ai-
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/business/india-business/best-ai-cryptos/amp_articleshow/108424368.cms"
 type: article
 quality: 59
-heat: 79
+heat: 82
 published: true
 
 provider:

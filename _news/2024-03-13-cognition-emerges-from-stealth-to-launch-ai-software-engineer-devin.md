@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/cognition-emerges-from-stealth-to-launc
 webUrl: "https://venturebeat.com/ai/cognition-emerges-from-stealth-to-launch-ai-software-engineer-devin/"
 type: article
 quality: 67
-heat: 91
+heat: 93
 published: true
 
 provider:

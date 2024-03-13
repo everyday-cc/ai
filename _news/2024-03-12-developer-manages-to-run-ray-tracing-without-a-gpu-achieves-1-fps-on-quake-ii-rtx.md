@@ -7,8 +7,8 @@ originalUrl: "https://www.techspot.com/news/102207-developer-manages-run-ray-tra
 webUrl: "https://www.techspot.com/news/102207-developer-manages-run-ray-tracing-without-gpu-achieves.html"
 type: article
 quality: 63
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: TechSpot
@@ -27,17 +27,6 @@ images:
     width: 2560
     height: 1440
     isCached: true
-
-related:
-  - title: "Mesa's Vulkan Driver Adds CPU Ray Tracing Quake RTX But Don't Toss Your GPU"
-    excerpt: "In the screenshot, Quake II RTX is only using some 34% of the developer's CPU, so it doesn't look like it's very multi-threaded at all."
-    publishedDateTime: 2024-03-08T15:47:00Z
-    webUrl: "https://hothardware.com/news/mesa-lavapipe-cpu-raytracing"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 17
 
 secured: "VoGd9Vw5uVQz49vLU7g2W9Wd8ryWd2V+GlbxiNIGYYr0Y2qCF+Nz+DcLW/7lIkf8CJi3WPe7kf4vcSbtmH2kaXzulFnVt8p70MVsULhOf8RGksZv0Qokp+AF3QX84okDCIDWfNbRxWBeQ5BPg8ktqB1TlbCKpXyizQZrPYCDG9flDuV3aDfMwdpxhOYTmTedL+VnC0XJoy7YIADnkzoeoGRQQGbFzL0OA15xNZF8wMglNFnzJ6lF986J1xDfnF4sHu+dqYwQTeD8XmP5/wIUdJONZT604IpgdUEF2y3pMxdhDq4CHwKOFJeWm6IHmNBaJ6GpwBehnRdsBuMmQeUTa/qbvO0ekr8b1WQPGsRuF5Q=;qpcHc6iA3dHENgT4zfg/ng=="
 ---
