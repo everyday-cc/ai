@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-01-26-uspto-contributes-patent-and-trademark-data-to-help-launch-national-ai-research-resource-pilot-program.md",
+      "title": "USPTO Contributes Patent and Trademark Data to Help Launch National AI Research Resource Pilot Program",
+      "excerpt": "This week, the U.S. National Science Foundation (NSF) alongside public and private sector collaborators launched the National Artificial Intelligence Research Resource (NAIRR) pilot program. NAIRR seeks to advance AI discovery and innovation by making ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.jdsupra.com/legalnews/uspto-contributes-patent-and-trademark-5578753/",
+      "originalUrl": "https://www.jdsupra.com/legalnews/uspto-contributes-patent-and-trademark-5578753/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://jdsupra-static.s3.amazonaws.com/profile-images/og.9342_1744.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-26T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "JD Supra",
+        "domain": "jdsupra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-26-hugging-face-teams-up-with-google-to-accelerate-open-ai-development.md",
       "title": "Hugging Face teams up with Google to accelerate open AI development",
       "excerpt": "Hugging Face users training AI models will also be able to tap hardware capabilities offered with Google Cloud, including TPUs, A3 VMs, powered by Nvidia H100 Tensor Core GPUs and C3 VMs.",
@@ -1313,49 +1356,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-25-llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate.md",
-      "title": "Llama drama: California troopers corral ‘Challenger,’ who trotted across interstate",
-      "excerpt": "Maybe this llama was hoping to join Santa and his reindeer. Challenger, wearing a festive red harness, broke free from his owner’s property and trotted across the snow-covered lanes of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsbradio.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/",
-      "originalUrl": "https://www.wsbradio.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cmg-cmg-rd-20021-prod.cdn.arcpublishing.com/resizer/6ySYDDrLbtX9NQuiL5amgPtEhRo=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/7VCYJE2PORBCJHCOAA6YY3RJEQ.jpg",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.wsbradio.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wsbradio-com.cdn.ampproject.org/c/s/www.wsbradio.com/news/trending/llama-drama-california-troopers-corral-challenger-who-trotted-across-interstate/OUJTTEYA4ZE6BMD4NHYXPUF5PQ/?outputType=amp",
-      "publishedDateTime": "2023-12-25T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WSB Radio",
-        "domain": "wsbradio.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

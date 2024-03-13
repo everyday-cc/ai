@@ -2,6 +2,40 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2024-01-13-autonomous-driving-innovation-slower-than-expected.md",
+      "title": "Autonomous Driving innovation: ‘Slower than Expected’",
+      "excerpt": "The much-anticipated autonomous car revolution is making significant progress, as evidenced by the multitude of displays at the Consumer Electronics Show (CES) in Las Vegas. Despite the negative headlines surrounding the industry,",
+      "sourceUrl": null,
+      "webUrl": "https://manilastandard.net/wheels-more-motoring-quarterly/314406984/autonomous-driving-innovation-slower-than-expected.html",
+      "originalUrl": "https://manilastandard.net/wheels-more-motoring-quarterly/314406984/autonomous-driving-innovation-slower-than-expected.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-13T13:24:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manilastandard",
+        "domain": "manilastandard.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-13-how-ai-development-fostered-a-digital-sweatshop-and-why-it-matters-for-the-technologys-future.md",
       "title": "How AI development fostered a digital ‘sweatshop’, and why it matters for the technology’s future",
       "excerpt": "The development of artificial intelligence has created opportunities for educated workers in the Philippines and other developing countries. But they are poorly paid and lack training.",
@@ -1248,49 +1282,6 @@
       "provider": {
         "name": "RTE Online",
         "domain": "www.rte.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-03-lexisnexis-av-going-mainstream-still-on-distant-horizon.md",
-      "title": "LexisNexis: AV going mainstream still on ‘distant horizon’",
-      "excerpt": "UK Transport Minister Mark Harper has said self-driving cars could be on some British roadways by 2026, but a recent report from LexisNexis lays out why mainstream adoption of autonomous vehicles",
-      "sourceUrl": null,
-      "webUrl": "https://www.repairerdrivennews.com/2024/01/03/lexisnexis-av-going-mainstream-still-on-distant-horizon/",
-      "originalUrl": "https://www.repairerdrivennews.com/2024/01/03/lexisnexis-av-going-mainstream-still-on-distant-horizon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.repairerdrivennews.com/wp-content/uploads/2023/12/iStock-1322056314.jpg",
-          "width": 2121,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-03T10:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Repairer Driven News",
-        "domain": "repairerdrivennews.com",
         "images": null,
         "publishers": null,
         "authors": null

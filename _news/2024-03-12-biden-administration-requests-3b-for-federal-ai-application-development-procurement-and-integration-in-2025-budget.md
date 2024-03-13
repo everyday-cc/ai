@@ -19,15 +19,31 @@ topics:
   - AI
 
 related:
-  - title: "Biden's $1.67 trillion budget boosts tech, AI"
-    excerpt: "The Biden administration’s FY2025 budget request provides agencies with $3 billion “to responsibly develop, test, procure and integrate transformative AI applications across the federal government.”"
-    publishedDateTime: 2024-03-12T19:55:00Z
-    webUrl: "https://washingtontechnology.com/contracts/2024/03/bidens-167-trillion-budget-boosts-tech-ai/394873/"
+  - title: "Generative AI In Action: Transforming Workforce Learning And Development"
+    excerpt: "To develop an L&D curriculum that is beneficial to employees, I believe organizations should leverage GenAI to create impactful, scalable training opportunities."
+    publishedDateTime: 2024-03-12T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/03/12/generative-ai-in-action-transforming-workforce-learning-and-development/"
     type: article
     provider:
-      name: Washington Technology
-      domain: washingtontechnology.com
-    quality: 19
+      name: Forbes
+      domain: forbes.com
+    quality: 48
+  - title: "Artificial Intelligence In Cancer Detection: How Is AI Contributing To The Diagnostic Industry and Impacting Early Detection?"
+    excerpt: "\"Artificial Intelligence (AI) is drastically changing the diagnostic industry, especially in the domain of early cancer detection\", says Mr. Hariharan Subramanian, the Managing Director of Siemens Healthcare Private Limited."
+    publishedDateTime: 2024-03-12T10:05:00Z
+    webUrl: "https://www.thehealthsite.com/diseases-conditions/artificial-intelligence-in-cancer-detection-how-is-ai-contributing-to-the-diagnostic-industry-and-impacting-early-detection-1071193/"
+    ampWebUrl: "https://www.thehealthsite.com/diseases-conditions/artificial-intelligence-in-cancer-detection-how-is-ai-contributing-to-the-diagnostic-industry-and-impacting-early-detection-1071193/amp/"
+    cdnAmpWebUrl: "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/diseases-conditions/artificial-intelligence-in-cancer-detection-how-is-ai-contributing-to-the-diagnostic-industry-and-impacting-early-detection-1071193/amp/"
+    type: article
+    provider:
+      name: TheHealthSite
+      domain: thehealthsite.com
+    quality: 47
+    images:
+      - url: "https://st1.thehealthsite.com/wp-content/uploads/2024/03/neurological-doctor-cheking-eeg-headset-explaining-patient-diagnosis-disease-treatment-nervous-system-scientist-researcher-analysing-brain-scan-tomography-monitor-lab.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "NNSPWO0uDzRDexdsZnJ/Ke8K5ZMD9i9Xsmmm59HA6eM14TS3Z4SISefrgWfrnsFDdXC+fnYW/aeI76GkOisqDItcaRECj4G6H/t/Oa9CMxx5efCmzgy5ezRcaR98wuEXrBUQ8G5HiVw8WNta9NGZWVr3IYOdhZHUZQ8L1jpv8pBy17JTGdt+HEwQgvrLYykUn9Yu8PSnLWhE7wwcS9ATT1HtAr67ef+l8n/d8GN6wN2Jm1ieUt9z/HhgeTFEdwHagZEqdURuSvbxg0ObUQykGzr6Txs0q1Q7Ri1umVnb/U8dHg9X0nilt2sHVx9otaSgn7YTR/g8xLDjNvjPBua7YcZoLSJKmCbSImBP77q+qVmXs2sRNGuNg8shiPEVkpitQPEOgRsu/sQ2rmM6XC5AUJAXI2mFvpG74qKtR8GRYS8PtshDBlz19dAyLfGBfOofg+h2TFDZeGFV99q9OULbyV2B//HrQwszII2eafX0TwrQl5HyvVT16opsiEvW4gCnuNFBoKHwJNVgw3+qUUDRjA==;ibdpSdt7IvhyGXizJFPEmA=="
 ---

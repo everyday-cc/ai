@@ -31,15 +31,38 @@ images:
     isCached: true
 
 related:
-  - title: "No silver bullet: Closing the gender gap in the era of generative AI"
-    excerpt: "Closing the gender gap won't happen overnight. It’s a puzzle, and we need all the pieces to come together. Generative AI can help.\nThe post No silver bullet: Closing the gender gap in the era of generative AI appeared first on IBM Blog.\n"
-    publishedDateTime: 2024-03-08T11:00:00Z
-    webUrl: "https://www.ibm.com/blog/no-silver-bullet-closing-the-gender-gap-in-the-era-of-generative-ai/"
+  - title: "How Generative AI Will Change The Jobs Of Doctors And Healthcare Professionals"
+    excerpt: "Generative AI is set to transform healthcare by aiding in diagnostics, automating administrative tasks, and accelerating drug discovery."
+    publishedDateTime: 2024-03-13T06:27:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/03/13/how-generative-ai-will-change-the-jobs-of-doctors-and-healthcare-professionals/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/03/13/how-generative-ai-will-change-the-jobs-of-doctors-and-healthcare-professionals/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/03/13/how-generative-ai-will-change-the-jobs-of-doctors-and-healthcare-professionals/amp/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
+      name: Forbes
+      domain: forbes.com
+    quality: 100
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65f14707aa26f8af0e584249/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "How generative AI will change low-code development"
+    excerpt: "AI copilots and code generators offer similar benefits to low-code platforms, but they're not the same. Here's what industry leaders are saying about the future of low-code development."
+    publishedDateTime: 2024-03-11T09:00:00Z
+    webUrl: "https://www.infoworld.com/article/3713500/how-generative-ai-impacts-low-code-development.html"
+    ampWebUrl: "https://www.infoworld.com/article/3713500/how-generative-ai-impacts-low-code-development.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3713500/how-generative-ai-impacts-low-code-development.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/10/shutterstock_2248315255-100947624-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 691
+        isCached: true
   - title: "Why generative AI systems are stupid"
     excerpt: "Generative AI systems for business are alarmingly inaccurate. Data needs some serious attention to avoid wrong info, bias, or legal trouble."
     publishedDateTime: 2024-03-12T09:10:00Z
@@ -56,6 +79,36 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Generative AI will change customer service forever. Here's how we get there"
+    excerpt: "and that the customer service processes they design can be successful using generative AI. Start small, start where there is measurable value and benefit, start simple, start with clean data, and invite a small number of loyal customers into your design ..."
+    publishedDateTime: 2024-03-12T11:05:00Z
+    webUrl: "https://www.zdnet.com/article/generative-ai-will-change-customer-service-forever-heres-how-we-get-there/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-will-change-customer-service-forever-heres-how-we-get-there/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-will-change-customer-service-forever-heres-how-we-get-there/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 85
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/ea7e9436c5b7404b91662cea16c7a61a199fe5ec/2024/03/11/ec6e84d9-cca6-46e1-911b-965b865afe35/gettyimages-1681144648.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "ChatGPT And Generative AI Innovations Are Creating Sustainability Havoc"
+    excerpt: "This article discusses the risks of ChatGPT and Generative AI innovations are having on sustainability goals and highlights the energy and water consumption risks."
+    publishedDateTime: 2024-03-12T10:52:00Z
+    webUrl: "https://www.forbes.com/sites/cindygordon/2024/03/12/chatgpt-and-generative-ai-innovations-are-creating-sustainability-havoc/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65f031a4a360eaa0853ec14c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1351
+        height: 900
+        isCached: true
   - title: "Opening up Generative AI"
     excerpt: "Generative AI has huge potential to revolutionize business, create new opportunities and make employees more efficient in how they work. According to McKinsey, more than a quarter of company leaders say that generative AI is a board level agenda item while 79 percent of those surveyed have already used generative AI."
     publishedDateTime: 2024-03-12T15:20:00Z
@@ -70,22 +123,38 @@ related:
         width: 970
         height: 545
         isCached: true
-  - title: "Is Using Browbeating Or Bullying Prompts In Generative AI A Worthy Prompt Engineering Technique Or Just A Bunch Of Hot Air"
-    excerpt: "Do prompts that browbeat or bully generative AI produce better results? This is a topic of heated debate in the field of prompt engineering. Here's the details."
-    publishedDateTime: 2024-03-10T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/10/is-using-browbeating-or-bullying-prompts-in-generative-ai-a-worthy-prompt-engineering-technique-or-just-a-bunch-of-hot-air/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/10/is-using-browbeating-or-bullying-prompts-in-generative-ai-a-worthy-prompt-engineering-technique-or-just-a-bunch-of-hot-air/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/03/10/is-using-browbeating-or-bullying-prompts-in-generative-ai-a-worthy-prompt-engineering-technique-or-just-a-bunch-of-hot-air/amp/"
+  - title: "OpenAI's Head of ChatGPT Says AI Will Make Us More Creative--and More Human"
+    excerpt: "At a SXSW panel, Peter Deng says OpenAI is committed to keeping the basic version of ChatGPT free; evades question over paying artists for using their work."
+    publishedDateTime: 2024-03-11T20:40:00Z
+    webUrl: "https://www.inc.com/jennifer-conrad/openais-head-of-chatgpt-says-ai-will-make-humans-more-creative.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 52
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1311390274_538341_tenhg1.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Generative AI Is A Game Changer For Talent Transformation"
+    excerpt: "One of generative AI's most significant implications is giving talent management professionals the ability to communicate information to executives and their board of directors. It helps leadership look around corners, rather than just in the rearview mirror, when shaping strategy or making decisions."
+    publishedDateTime: 2024-03-11T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/03/11/generative-ai-is-a-game-changer-for-talent-transformation/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 63
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65ed25c4b5d0c50dfbcaf3e6/0x0.jpg?format=jpg&crop=3180,2382,x114,y0,safe&height=900&width=1600&fit=bounds"
-        width: 1202
-        height: 900
-        isCached: true
+    quality: 47
+  - title: "HIMSS24: Google Cloud builds out generative AI solutions to aid healthcare workers"
+    excerpt: "Generative AI continues to be a big buzzword in 2024 as tech companies see the potential to use the technology to alleviate administrative drudgery for healthcare workers. | Google Cloud is using its tech muscle to build out generative AI capabilities for healthcare and life sciences companies to help offload administrative burden and support assistive technology for clinicians."
+    publishedDateTime: 2024-03-12T12:00:00Z
+    webUrl: "https://www.fiercehealthcare.com/ai-and-machine-learning/himss24-google-cloud-builds-out-generative-ai-solutions-aid-healthcare"
+    type: article
+    provider:
+      name: Fierce Healthcare
+      domain: fiercehealthcare.com
+    quality: 28
 
 secured: "gZMeOdgp1jF5yZuHXbvQqN79NZEyMm/DbUcyE86AM+pSIKQlQmX3jJ9wzFbUN0Ktf/ty4JDUwCADxTrNvp6KGuArjXpw6Ih4Qv5dB1Wih0UEq99E+JOXIy+8xdbNGiqFKVLigB7VHqiXnRxSOwtWrBIgT7lmrZO/4/QusgGmZKUH8o8qU/QLXp7A8BWi/84UzaVgubIkILh2THJ90MmirFNEf7AXgKX06JNB2uNkFI3ikw32ydWNjgP/5EtNJcT1XnHzaesBBUtgM60J5SoNTIByM6hZYewAohQX2LvGaWkPn9W0VlNjHHdOmSPl6QRm/2XJywoP4lsRTw35ex8gLq8taNManpoWe7MktB9A1Gyvr5zRkcR5X5Shva09fGXqsoUH7PJMLOEvBAYpQr9FYSfMjjBWBaibDzXv62c/zo7n8R+foa3X28Jsly/1ADkHAQ8xQJrTBSeI68U1iviMHjC5FiXxFRUoM5CGrlR/pVRWKGoaXltJWc1+WhyOawHGlRJzSWPjUw3O9zTi0BOh0g==;Dt95cUwVEhqY2KihGx7RUQ=="
 ---

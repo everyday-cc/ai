@@ -2,6 +2,275 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2024-03-06-anthropic-aws-google-set-to-outpace-microsoft-openai-duo.md",
+      "title": "Anthropic & AWS-Google Set to Outpace Microsoft-OpenAI Duo",
+      "excerpt": "While Amazon seems to have strategically integrated powerful AI models into its Bedrock umbrella, catering to enterprise customers, Microsoft and Google are upping their small language models game with Phi-2 and Gemma, fueling both startups and developers and giving Meta’s Llama 2 a fight.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/anthropic-aws-google-set-to-outpace-microsoft-openai-duo/",
+      "originalUrl": "https://analyticsindiamag.com/anthropic-aws-google-set-to-outpace-microsoft-openai-duo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://analyticsindiamag.com/wp-content/uploads/2024/03/Will-Anthropic-Change-AWS-and-Google-Cloud-Fortunes-1.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T10:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-06-designing-equitable-ocean-technology-generative-ai-and-ocean-technologies-meet-environmental-justice.md",
+      "title": "Designing Equitable Ocean Technology: Generative AI and Ocean Technologies Meet Environmental Justice",
+      "excerpt": "In Designing Equitable Ocean Technology, we need to emphasize each country’s own technical capacity development. This is especially true today for marine artificial intelligence research like what Matt is doing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/calendar-event/designing-equitable-ocean-technology-generative-ai-and-ocean-technologies-meet-environmental-justice/",
+      "originalUrl": "https://www.geekwire.com/calendar-event/designing-equitable-ocean-technology-generative-ai-and-ocean-technologies-meet-environmental-justice/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2024/03/OceanNexus_Webinar_poster_w_qr_print.png",
+          "width": 5400,
+          "height": 7200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T07:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-06-china-doubles-down-on-emerging-tech-in-push-for-self-sufficiency.md",
+      "title": "China Doubles Down on Emerging Tech in Push for Self-Sufficiency",
+      "excerpt": "Report stated that China plans to \"launch major science and technology programs\" to meet key strategic goals and bolster development.",
+      "sourceUrl": null,
+      "webUrl": "https://techreport.com/news/china-doubles-down-on-emerging-tech-in-push-for-self-sufficiency/",
+      "originalUrl": "https://techreport.com/news/china-doubles-down-on-emerging-tech-in-push-for-self-sufficiency/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T07:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Tech Report",
+        "domain": "techreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-06-open-ai-says-elon-musk-demanded-absolute-control-of-the-company-or-a-merger-with-tesla.md",
+      "title": "Open AI says Elon Musk demanded \"absolute control\" of the company or a merger with Tesla",
+      "excerpt": "OpenAI has responded to Elon Musk's lawsuit, stating that Musk himself backed for-profit plans and at one point wanted “absolute control” of the company or a merger with Tesla.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/open-ai-says-elon-musk-demanded-absolute-control-of-the-company-or-a-merger-with-tesla/",
+      "originalUrl": "https://www.neowin.net/news/open-ai-says-elon-musk-demanded-absolute-control-of-the-company-or-a-merger-with-tesla/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2023/01/1672878896_chatgpt-openai_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/open-ai-says-elon-musk-demanded-absolute-control-of-the-company-or-a-merger-with-tesla/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/open-ai-says-elon-musk-demanded-absolute-control-of-the-company-or-a-merger-with-tesla/",
+      "publishedDateTime": "2024-03-06T06:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2024-03-06-nvidia-microsoft-and-jeff-bezos-invested-in-a-26-billion-robotics-start-up-heres-why-thats-good-news-for-tesla.md",
+      "title": "Nvidia, Microsoft, and Jeff Bezos Invested in a $2.6 Billion Robotics Start-Up. Here's Why That's Good News for Tesla.",
+      "excerpt": "The deal with Figure AI is just another stat-line showing that there is a big interest in this area of robotics. Furthermore, given the number of artificial intelligence (AI) businesses fueling ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/03/06/nvidia-microsoft-and-jeff-bezos-invested-in-a/",
+      "originalUrl": "https://www.fool.com/investing/2024/03/06/nvidia-microsoft-and-jeff-bezos-invested-in-a/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T06:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-06-watad-energy-communications-unveils-mulhem-first-locally-trained-arabic-language-large-language-model-in-saudi-arabia.md",
+      "title": "Watad Energy & Communications Unveils \"Mulhem,\" First Locally Trained Arabic-Language Large Language Model in Saudi Arabia",
+      "excerpt": "In a significant development for the Arabic-speaking AI sector, Watad Energy & Communications today announced the launch of \"Mulhem,\" the",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/watad-energy--communications-unveils-mulhem-first-locally-trained-arabic-language-large-language-model-in-saudi-arabia-302080084.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/watad-energy--communications-unveils-mulhem-first-locally-trained-arabic-language-large-language-model-in-saudi-arabia-302080084.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2355087/Watad.jpg?p=facebook",
+          "width": 1599,
+          "height": 838,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T05:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-06-us-blocks-amd-from-selling-ai-chip-tailored-for-china-without-licence-sources.md",
       "title": "US blocks AMD from selling AI chip tailored for China without licence: sources",
       "excerpt": "The US company had hoped to get Washington’s approval to sell to Chinese customers its MI309 processor, which performs at a lower level than what the company sells globally.",
@@ -931,284 +1200,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-ecs-awarded-190m-aiml-contract-from-devcom-army-research-lab.md",
-      "title": "ECS Awarded $190M AI/ML Contract from DEVCOM Army Research Lab",
-      "excerpt": "ECS, a leader in advanced technology, science, and engineering solutions and an ASGN (NYSE: ASGN) brand, received a three-year, $190 million contract from the United States Army Combat Capabilities Development Command (DEVCOM) Army Research Lab (ARL).",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-ecs-awarded-190m-aiml-contract-from-devcom-army-/2024/03/05/9972612.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-ecs-awarded-190m-aiml-contract-from-devcom-army-/2024/03/05/9972612.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T13:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-orlando-health-embraces-cutting-edge-robotics-technology.md",
-      "title": "Orlando Health Embraces Cutting-Edge Robotics Technology",
-      "excerpt": "Robotic arms of a robotic surgical system demonstrate how doctors at Orlando Health Cancer Institute use the system during procedures for treatment of lung cancer. Orlando Health recognizes the pivotal role of technology in providing high-quality healthcare.",
-      "sourceUrl": null,
-      "webUrl": "https://www.orlandomagazine.com/orlando-health-embraces-cutting-edge-robotics-technology/",
-      "originalUrl": "https://www.orlandomagazine.com/orlando-health-embraces-cutting-edge-robotics-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.orlandomagazine.com/content/uploads/2024/02/a/p/orlandohealthcancerinstitute-roboticsurgeryinterior-scaled.jpg",
-          "width": 2560,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.orlandomagazine.com/orlando-health-embraces-cutting-edge-robotics-technology/",
-      "cdnAmpWebUrl": "https://www-orlandomagazine-com.cdn.ampproject.org/c/s/www.orlandomagazine.com/orlando-health-embraces-cutting-edge-robotics-technology/",
-      "publishedDateTime": "2024-03-05T13:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Orlando",
-        "domain": "orlandomagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-crowdstrike-and-dell-unleash-an-ai-powered-unified-security-vision.md",
-      "title": "CrowdStrike and Dell unleash an AI-powered, unified security vision",
-      "excerpt": "By adding CrowdStrike's Falcon XDR platform to its current Managed Detection and Response (MDR) service, Dell provides its global base of resellers with AI-based technologies their customers need to battle back against attacks.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/crowdstrike-and-dell-unleash-an-ai-powered-unified-security-vision/",
-      "originalUrl": "https://venturebeat.com/security/crowdstrike-and-dell-unleash-an-ai-powered-unified-security-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/03/hero-16-9-crowdstrike-dell-partnership-.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-cycode-acquires-bearer-to-accelerate-its-move-into-ai-enhanced-security-remediation.md",
-      "title": "Cycode acquires Bearer to accelerate its move into AI-enhanced security remediation",
-      "excerpt": "startup that focuses on making the developer experience as smooth as possible while still providing them with essential security feedback. With its recently launched AI assistant, Bearer also bet on generative AI to suggest code fixes and explain ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/03/05/cycode-acquires-bearer-to-accelerate-its-move-into-ai-enhanced-security-remediation/",
-      "originalUrl": "https://techcrunch.com/2024/03/05/cycode-acquires-bearer-to-accelerate-its-move-into-ai-enhanced-security-remediation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-i-tried-tripadvisors-free-ai-tool-to-plan-trips-to-maui-and-montreal-it-was-useful-in-some-ways-but-i-wont-stop-doing-my-own-trip-research.md",
-      "title": "I tried Tripadvisor's free AI tool to plan trips to Maui and Montreal. It was useful in some ways, but I won't stop doing my own trip research.",
-      "excerpt": "Before I got a 9-to-5, I spent a good chunk of my 20s freelancing while traveling out of a van or working on farms abroad so that I could stay for free weeks at a time. These days, my travel time ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/tripadvisor-free-ai-planning-tool-pros-cons-2024-2",
-      "originalUrl": "https://www.businessinsider.com/tripadvisor-free-ai-planning-tool-pros-cons-2024-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65e68d376080194819fc6fa6?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/tripadvisor-free-ai-planning-tool-pros-cons-2024-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tripadvisor-free-ai-planning-tool-pros-cons-2024-2?amp",
-      "publishedDateTime": "2024-03-05T12:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-the-future-of-ai-skill-and-talent-development-in-the-workforce.md",
-      "title": "The Future Of AI Skill And Talent Development In The Workforce",
-      "excerpt": "Those who embrace AI and invest in developing AI-related competencies can have a competitive edge in the workforce of tomorrow. The time to start preparing for the future of AI is now. Will you be ready?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/05/the-future-of-ai-skill-and-talent-development-in-the-workforce/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/05/the-future-of-ai-skill-and-talent-development-in-the-workforce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e5cbef9ba1e31484287ea1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1271,
-          "height": 847,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T12:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/cindygordon/2024/03/12/chatgpt-and-ge
 webUrl: "https://www.forbes.com/sites/cindygordon/2024/03/12/chatgpt-and-generative-ai-innovations-are-creating-sustainability-havoc/"
 type: article
 quality: 84
-heat: 124
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -29,19 +29,99 @@ images:
     isCached: true
 
 related:
-  - title: "Pros & Cons of Claude 3 AI compared to ChatGPT"
-    excerpt: "In the competitive landscape of artificial intelligence, the emergence of new large language models (LLMs) continuously reshapes the boundaries of"
-    publishedDateTime: 2024-03-10T11:03:00Z
-    webUrl: "https://www.geeky-gadgets.com/claude-3-vs-chatgpt/"
+  - title: "How Generative AI Will Change The Jobs Of Doctors And Healthcare Professionals"
+    excerpt: "Generative AI is set to transform healthcare by aiding in diagnostics, automating administrative tasks, and accelerating drug discovery."
+    publishedDateTime: 2024-03-13T06:27:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/03/13/how-generative-ai-will-change-the-jobs-of-doctors-and-healthcare-professionals/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/03/13/how-generative-ai-will-change-the-jobs-of-doctors-and-healthcare-professionals/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/03/13/how-generative-ai-will-change-the-jobs-of-doctors-and-healthcare-professionals/amp/"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 56
+      name: Forbes
+      domain: forbes.com
+    quality: 100
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/03/chatgpt-vs-claude-3-Pros-and-Cons-compared.jpg"
-        width: 1280
-        height: 710
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65f14707aa26f8af0e584249/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "How Financial Services Firms Can Unleash The Power Of Generative AI"
+    excerpt: "To unlock the full value of gen AI, banks, and insurers first need to establish essential building blocks around their data, culture and responsible AI."
+    publishedDateTime: 2024-03-11T13:59:00Z
+    webUrl: "https://www.forbes.com/sites/davidparker/2024/03/11/how-financial-services-firms-can-unleash-the-power-of-generative-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/davidparker/2024/03/11/how-financial-services-firms-can-unleash-the-power-of-generative-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidparker/2024/03/11/how-financial-services-firms-can-unleash-the-power-of-generative-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65e9b33440c6fe9eb6e8cf6d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1513
+        height: 900
+        isCached: true
+  - title: "How generative AI will change low-code development"
+    excerpt: "AI copilots and code generators offer similar benefits to low-code platforms, but they're not the same. Here's what industry leaders are saying about the future of low-code development."
+    publishedDateTime: 2024-03-11T09:00:00Z
+    webUrl: "https://www.infoworld.com/article/3713500/how-generative-ai-impacts-low-code-development.html"
+    ampWebUrl: "https://www.infoworld.com/article/3713500/how-generative-ai-impacts-low-code-development.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3713500/how-generative-ai-impacts-low-code-development.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/10/shutterstock_2248315255-100947624-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 691
+        isCached: true
+  - title: "Why generative AI systems are stupid"
+    excerpt: "Generative AI systems for business are alarmingly inaccurate. Data needs some serious attention to avoid wrong info, bias, or legal trouble."
+    publishedDateTime: 2024-03-12T09:10:00Z
+    webUrl: "https://www.infoworld.com/article/3714362/why-your-genai-systems-are-stupid.html"
+    ampWebUrl: "https://www.infoworld.com/article/3714362/why-your-genai-systems-are-stupid.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3714362/why-your-genai-systems-are-stupid.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
+    images:
+      - url: "https://images.idgesg.net/images/article/2024/03/shutterstock_1951501180-100962448-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Generative AI will change customer service forever. Here's how we get there"
+    excerpt: "and that the customer service processes they design can be successful using generative AI. Start small, start where there is measurable value and benefit, start simple, start with clean data, and invite a small number of loyal customers into your design ..."
+    publishedDateTime: 2024-03-12T11:05:00Z
+    webUrl: "https://www.zdnet.com/article/generative-ai-will-change-customer-service-forever-heres-how-we-get-there/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-will-change-customer-service-forever-heres-how-we-get-there/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-will-change-customer-service-forever-heres-how-we-get-there/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 85
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/ea7e9436c5b7404b91662cea16c7a61a199fe5ec/2024/03/11/ec6e84d9-cca6-46e1-911b-965b865afe35/gettyimages-1681144648.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Opening up Generative AI"
+    excerpt: "Generative AI has huge potential to revolutionize business, create new opportunities and make employees more efficient in how they work. According to McKinsey, more than a quarter of company leaders say that generative AI is a board level agenda item while 79 percent of those surveyed have already used generative AI."
+    publishedDateTime: 2024-03-12T15:20:00Z
+    webUrl: "https://www.techradar.com/pro/opening-up-generative-ai"
+    type: article
+    provider:
+      name: TechRadar
+      domain: techradar.com
+    quality: 69
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/2UMvPDp3snEwaGbRuCivjE-1200-80.jpg"
+        width: 970
+        height: 545
         isCached: true
   - title: "OpenAI's Head of ChatGPT Says AI Will Make Us More Creative--and More Human"
     excerpt: "At a SXSW panel, Peter Deng says OpenAI is committed to keeping the basic version of ChatGPT free; evades question over paying artists for using their work."
@@ -57,29 +137,24 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "One simple ChatGPT hack makes AI responses sound like a human instead of a robot"
-    excerpt: "I talk to ChatGPT for research, I do it when I have to “google” something, and sometimes I do it for the lols. Since I’m on ChatGPT Plus, I also get to experience OpenAI’s best generative AI features as soon as they’re available in Europe ..."
-    publishedDateTime: 2024-03-08T17:10:00Z
-    webUrl: "https://bgr.com/tech/one-simple-chatgpt-hack-makes-ai-responses-sound-like-a-human-instead-of-a-robot/"
+  - title: "Generative AI Is A Game Changer For Talent Transformation"
+    excerpt: "One of generative AI's most significant implications is giving talent management professionals the ability to communicate information to executives and their board of directors. It helps leadership look around corners, rather than just in the rearview mirror, when shaping strategy or making decisions."
+    publishedDateTime: 2024-03-11T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/03/11/generative-ai-is-a-game-changer-for-talent-transformation/"
     type: article
     provider:
-      name: BGR
-      domain: bgr.com
-    quality: 48
-  - title: "ChainGPT unveils $1M grant scheme for startups supercharging Web3-AI innovation"
-    excerpt: "ChainGPT, the AI-powered Web3 infrastructure providing a diverse suite of tools and services, announces the launch of a grant program to help facilitate innovation at the crossroads of AI and blockchain."
-    publishedDateTime: 2024-03-11T14:17:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/03/11/9976043.htm"
+      name: Forbes
+      domain: forbes.com
+    quality: 47
+  - title: "HIMSS24: Google Cloud builds out generative AI solutions to aid healthcare workers"
+    excerpt: "Generative AI continues to be a big buzzword in 2024 as tech companies see the potential to use the technology to alleviate administrative drudgery for healthcare workers. | Google Cloud is using its tech muscle to build out generative AI capabilities for healthcare and life sciences companies to help offload administrative burden and support assistive technology for clinicians."
+    publishedDateTime: 2024-03-12T12:00:00Z
+    webUrl: "https://www.fiercehealthcare.com/ai-and-machine-learning/himss24-google-cloud-builds-out-generative-ai-solutions-aid-healthcare"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 33
-    images:
-      - url: "https://api.blockchainwire.io/uploads/Proleoio/editor_image/21724a85-1a37-4732-8abb-ca588aa7938d.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: Fierce Healthcare
+      domain: fiercehealthcare.com
+    quality: 28
 
 secured: "558ZFOhQgi6+cT81A+p9k7RADHSrGPmIcGnhyX7BALgqBfxeKSHu9LuHDJPC6kbg9H2BWPlVEdcafXWQyLQupMmqOszpF5kPpzZxQ4aW5zFwpIdOpq+dt//GOXaebdnOiCwat7totmZaxscuLNDgmxUruMY3VT76fSjTMiu1LLudo0q4RV5ZMEEpO4hUXNOOHWHJ7MtFO3KFSPOVDfkjXXHZ4Mms3lwUdTnhd7hE2rO5Px2YdERZa0CHOKwbLmT9gw0Q+roY6jx8bFcVFuwY/s3P7CihkNGgL4XpESeTKKi3FqbXoFTqysP8yVDI9WSFjdMxZU34NQlzs5oWf3Ycjw5UmP8f6JhXXr7C8VBRcxM=;u81DZ+vsbjmnfycFuSo2iA=="
 ---

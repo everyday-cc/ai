@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2024-01-23-3-ways-you-can-help-your-student-navigate-artificial-intelligence.md",
+      "title": "3 ways you can help your student navigate artificial intelligence",
+      "excerpt": "Artificial Intelligence (AI) is changing the world as we know it. OpenAI’s ChatGPT became the fastest-growing consumer application in history, after reaching 100 million monthly active users ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/3-ways-you-can-help-your-student-navigate-artificial-intelligence",
+      "originalUrl": "https://www.foxnews.com/opinion/3-ways-you-can-help-your-student-navigate-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-23T07:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-23-report-alphabets-x-lab-letting-go-dozens-of-employees-as-part-of-restructuring.md",
       "title": "Report: Alphabet’s X lab letting go dozens of employees as part of restructuring",
       "excerpt": "Alphabet Inc.’s X research lab, which incubated Waymo and the Wing delivery drone venture, is reportedly letting go of dozens of employees.",
@@ -1184,40 +1227,6 @@
       "provider": {
         "name": "Sydney Morning Herald",
         "domain": "smh.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-13-autonomous-driving-innovation-slower-than-expected.md",
-      "title": "Autonomous Driving innovation: ‘Slower than Expected’",
-      "excerpt": "The much-anticipated autonomous car revolution is making significant progress, as evidenced by the multitude of displays at the Consumer Electronics Show (CES) in Las Vegas. Despite the negative headlines surrounding the industry,",
-      "sourceUrl": null,
-      "webUrl": "https://manilastandard.net/wheels-more-motoring-quarterly/314406984/autonomous-driving-innovation-slower-than-expected.html",
-      "originalUrl": "https://manilastandard.net/wheels-more-motoring-quarterly/314406984/autonomous-driving-innovation-slower-than-expected.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-13T13:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "manilastandard",
-        "domain": "manilastandard.net",
         "images": null,
         "publishers": null,
         "authors": null

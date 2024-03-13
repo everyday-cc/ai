@@ -2,6 +2,359 @@
   "page": 132,
   "value": [
     {
+      "path": "_news/2023-11-23-occupations-impacted-by-ai-in-2024-umpires-really.md",
+      "title": "Occupations Impacted By AI In 2024. Umpires? Really?",
+      "excerpt": "Economists make projections and fools make predictions. I know I'm not the former and hope I'm not the latter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/eliamdur/2023/11/22/occupations-impacted-by-ai-in-2024-umpires-really/",
+      "originalUrl": "https://www.forbes.com/sites/eliamdur/2023/11/22/occupations-impacted-by-ai-in-2024-umpires-really/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/655e7325d68ab15e48876286/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1353,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/eliamdur/2023/11/22/occupations-impacted-by-ai-in-2024-umpires-really/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/eliamdur/2023/11/22/occupations-impacted-by-ai-in-2024-umpires-really/amp/",
+      "publishedDateTime": "2023-11-22T21:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-23-nvidias-geforce-gpus-are-selling-well-but-its-ai-gpu-sales-are-ridiculous.md",
+      "title": "Nvidia’s GeForce GPUs are selling well, but its AI GPU sales are ridiculous",
+      "excerpt": "Most Ars readers still probably know Nvidia best for its decades-old GeForce graphics cards for gaming PCs, but these days Nvidia's server GPU business makes GeForce look like a hobby project.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2023/11/nvidias-earnings-are-up-206-from-last-year-as-it-continues-riding-the-ai-wave/",
+      "originalUrl": "https://arstechnica.com/gadgets/2023/11/nvidias-earnings-are-up-206-from-last-year-as-it-continues-riding-the-ai-wave/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/11/nvidia-ai-gpu-800x407.jpeg",
+          "width": 800,
+          "height": 407,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/gadgets/2023/11/nvidias-earnings-are-up-206-from-last-year-as-it-continues-riding-the-ai-wave/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/gadgets/2023/11/nvidias-earnings-are-up-206-from-last-year-as-it-continues-riding-the-ai-wave/amp/",
+      "publishedDateTime": "2023-11-22T19:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2023-11-22-winning-the-cloud-game-phoning-the-right-friend-to-answer-the-cloud-optimization-question.md",
+      "title": "Winning the cloud game: Phoning the right friend to answer the cloud optimization question",
+      "excerpt": "By embracing new technologies, organizations improve efficiency, enhance customer experience and remain competitive.\nThe post Winning the cloud game: Phoning the right friend to answer the cloud optimization question appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/winning-the-cloud-game-phoning-the-right-friend-to-answer-the-cloud-optimization-question/",
+      "originalUrl": "https://www.ibm.com/blog/winning-the-cloud-game-phoning-the-right-friend-to-answer-the-cloud-optimization-question/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2023/11/90aeeede-ffda-4f77-8bd18923788d72bd.blog-lead-space-40x21-1-1.jpg",
+          "width": 2400,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-22T19:24:33Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-23-chatgpt-everything-you-need-to-know-about-the-ai-powered-chatbot.md",
+      "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
+      "excerpt": "The app is also integrated with Whisper, OpenAI’s open source speech recognition system ... said that individuals in “certain jurisdictions” (such as the EU) can object to the processing of their personal information by its AI models by filling ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2023/11/22/chatgpt-everything-to-know-about-the-ai-chatbot/",
+      "originalUrl": "https://techcrunch.com/2023/11/22/chatgpt-everything-to-know-about-the-ai-chatbot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1462188043.jpg?resize=1200,798",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2023/11/22/chatgpt-everything-to-know-about-the-ai-chatbot/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/11/22/chatgpt-everything-to-know-about-the-ai-chatbot/amp/",
+      "publishedDateTime": "2023-11-22T19:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-23-why-ponyais-autonomous-driving-progress-is-bad-for-tesla-tsla-stock.md",
+      "title": "Why Pony.ai’s Autonomous Driving Progress Is Bad for Tesla (TSLA) Stock",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The future of autonomous driving (AD) is quickly taking shape. Pony.ai, one of",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/why-pony-ais-autonomous-driving-progress-is-bad-for-tesla-tsla-stock-1032843921",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/why-pony-ais-autonomous-driving-progress-is-bad-for-tesla-tsla-stock-1032843921",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-22T18:48:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-23-14-ways-ai-can-help-business-and-industry-boost-sustainability.md",
+      "title": "14 Ways AI Can Help Business And Industry Boost Sustainability",
+      "excerpt": "Business leaders are starting to think about ways AI can help them with a critical consideration for organizations of all stripes: reducing their carbon footprint.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/14-ways-ai-can-help-business-and-industry-boost-sustainability/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/14-ways-ai-can-help-business-and-industry-boost-sustainability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/655e31014bea042307fae41e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/22/14-ways-ai-can-help-business-and-industry-boost-sustainability/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/22/14-ways-ai-can-help-business-and-industry-boost-sustainability/amp/",
+      "publishedDateTime": "2023-11-22T17:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-23-adobe-reportedly-acquires-text-to-video-ai-platform-rephrase.md",
+      "title": "Adobe reportedly acquires text-to-video AI platform Rephrase",
+      "excerpt": "With the acquisition, the product capabilities and a majority of the Rephrase team will go to Adobe, building the company’s efforts for generative AI videos.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/adobe-reportedly-acquires-text-to-video-ai-platform-rephrase/",
+      "originalUrl": "https://venturebeat.com/ai/adobe-reportedly-acquires-text-to-video-ai-platform-rephrase/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/10/DALL·E-2023-10-25-10.37.16-Photo-of-a-person-of-Hispanic-descent-engrossed-in-a-video-chat-with-a-futuristic-robot-on-the-laptop.-The-laptop-creates-a-mild-illusion-of-echoing--e1700668881535.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-22T17:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-23-nvidia-q3-earnings-explode-on-surging-data-center-ai-and-gaming-demand.md",
       "title": "Nvidia Q3 Earnings Explode On Surging Data Center AI And Gaming Demand",
       "excerpt": "There’s no stopping Nvidia from this level of growth for the foreseeable future. The company continues to execute like a finely tuned machine.",
@@ -864,333 +1217,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-22-how-vizai-uses-artificial-intelligence-to-treat-stroke-patients-faster.md",
-      "title": "How Viz.ai Uses Artificial Intelligence To Treat Stroke Patients Faster",
-      "excerpt": "At the time, artificial intelligence wasn’t as popular a process as it is ... in cases and increase the chance that the patient gets the best guideline-directed therapy.” That’s a bigger and potentially riskier bet. “Care coordination is an interme ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/amyfeldman/2023/11/22/how-vizai-uses-artificial-intelligence-to-speed-help-to-stroke-patients/",
-      "originalUrl": "https://www.forbes.com/sites/amyfeldman/2023/11/22/how-vizai-uses-artificial-intelligence-to-speed-help-to-stroke-patients/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/655befc25c58c309b24c36c0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-22T11:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-22-sam-altman-returns-as-openai-ceo-after-days-of-infighting-at-ai-startup.md",
-      "title": "Sam Altman returns as OpenAI CEO after days of infighting at AI startup",
-      "excerpt": "The move should quell an all-out employee revolt at the startup behind ChatGPT. Altman will report to a new board that includes former White House adviser Larry Summers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/tech-news/sam-altman-returns-openai-ceo-infighting-ai-startup-rcna126214",
-      "originalUrl": "https://www.nbcnews.com/tech/tech-news/sam-altman-returns-openai-ceo-infighting-ai-startup-rcna126214",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 339,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2023-08/230828-sam-altman-se-146p-e2b224.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna126214",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna126214",
-      "publishedDateTime": "2023-11-22T11:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-22-independent-industry-self-regulation-a-path-forward-for-governing-artificial-intelligence.md",
-      "title": "Independent Industry Self-Regulation: A Path Forward For Governing Artificial Intelligence?",
-      "excerpt": "Industry self-regulation through agreed-upon voluntary standards and guidelines should be part of the mix from the very start, especially when it comes to AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesnonprofitcouncil/2023/11/22/independent-industry-self-regulation-a-path-forward-for-governing-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/forbesnonprofitcouncil/2023/11/22/independent-industry-self-regulation-a-path-forward-for-governing-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/655cccefaa7306673434cb37/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesnonprofitcouncil/2023/11/22/independent-industry-self-regulation-a-path-forward-for-governing-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesnonprofitcouncil/2023/11/22/independent-industry-self-regulation-a-path-forward-for-governing-artificial-intelligence/amp/",
-      "publishedDateTime": "2023-11-22T11:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-22-using-ai-to-improve-your-luxury-brand.md",
-      "title": "Using AI To Improve Your Luxury Brand",
-      "excerpt": "More than a trend, AI is a powerful tool that can amplify every aspect of luxury service, from operational efficiency to client engagement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/11/22/using-ai-to-improve-your-luxury-brand/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/11/22/using-ai-to-improve-your-luxury-brand/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/655d0db30245b747da8222b0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1103,
-          "height": 735,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2023/11/22/using-ai-to-improve-your-luxury-brand/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2023/11/22/using-ai-to-improve-your-luxury-brand/amp/",
-      "publishedDateTime": "2023-11-22T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-22-aws-to-offer-free-ai-training-courses-to-two-million-people-by-2025.md",
-      "title": "AWS to offer free AI training courses to two million people by 2025",
-      "excerpt": "Amazon Web Services (AWS) has outlined its commitment to providing two million people around the world with access to free artificial intelligence (AI) skills training by 2025, as part of its ongoing work to make it easier for businesses to access the tech expertise they need.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/366560676/AWS-to-offer-free-AI-training-to-two-million-people-by-2025",
-      "originalUrl": "https://www.computerweekly.com/news/366560676/AWS-to-offer-free-AI-training-to-two-million-people-by-2025",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ttgtmedia.com/rms/computerweekly/CWE-211123-cover-500px.jpg",
-          "width": 500,
-          "height": 354,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-22T09:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-22-hyundai-singapore-plant-rolling-out-robotaxis-for-us-market.md",
-      "title": "Hyundai Singapore plant rolling out robotaxis for US market",
-      "excerpt": "It is also equipping these electric crossovers with driverless technology to be ... with a team in an artificial intelligence-powered nerve centre overlooking the assembly area.",
-      "sourceUrl": null,
-      "webUrl": "https://www.straitstimes.com/singapore/transport/hyundai-singapore-plant-rolling-out-robotaxis-for-us-market",
-      "originalUrl": "https://www.straitstimes.com/singapore/transport/hyundai-singapore-plant-rolling-out-robotaxis-for-us-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2023/11/21/WJ1134.jpg",
-          "width": 860,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-22T09:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Straits Times",
-        "domain": "straitstimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-22-cyber-security-in-robotics-market-surges-ahead-with-a-striking-projected-value-of-us-116-billion-by-2033.md",
-      "title": "Cyber Security in Robotics Market Surges Ahead with a Striking Projected Value of US$ 11.6 Billion by 2033",
-      "excerpt": "The Cyber security in robotics market is poised for substantial growth, with a consistent Compound Annual Growth Rate (CAGR) of 11.7% expected during the forecasted period. In 2023, the market is projected to generate revenues of approximately US$ 3.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fmiblog.com/2023/11/22/cyber-security-in-robotics-market-surges-ahead-with-a-striking-projected-value-of-us-11-6-billion-by-2033/",
-      "originalUrl": "https://www.fmiblog.com/2023/11/22/cyber-security-in-robotics-market-surges-ahead-with-a-striking-projected-value-of-us-11-6-billion-by-2033/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fmiblog.com/wp-content/uploads/2023/11/Cyber-Security-in-Robotics-Market.jpg",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-22T02:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Future Market Insights",
-        "domain": "fmiblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

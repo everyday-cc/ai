@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/ai-showdown-put-chatbots-test.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-showdown-put-chatbots-test.amp"
 type: article
 quality: 87
-heat: 169
+heat: 170
 published: true
 
 provider:

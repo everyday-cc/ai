@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-08-google-bard-ai-officially-becomes-gemini.md",
+      "title": "Google Bard AI Officially Becomes Gemini",
+      "excerpt": "Exactly a year after Google announced Bard — its first conversational chatbot — the search giant has given it the first major makeover. As part of a new update, the now-famous name \"Google Bard” has been retired in favor of its new name; \"Google ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/1512770/google-bard-ai-renamed-to-gemini/",
+      "originalUrl": "https://www.slashgear.com/1512770/google-bard-ai-renamed-to-gemini/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-08T15:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-08-google-changes-bards-name-to-gemini-unveils-new-android-app-and-advanced-ai-model.md",
       "title": "Google changes Bard's name to Gemini: unveils new Android app and advanced AI model",
       "excerpt": "Google's announcement confirms weeks of rumors that Bard was being renamed. The company unveiled the Gemini AI large language model, a direct competitor to OpenAI's GPT",
@@ -1357,58 +1400,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-29-google-update-reveals-ai-will-read-all-your-private-messages.md",
-      "title": "Google Update Reveals AI Will Read All Your Private Messages",
-      "excerpt": "Google has just unveiled a game-changing AI upgrade for Android. But it has a darker side. Google’s AI will read and analyze your private messages, going back forever. So what does this mean for you, how do you maintain privacy, and when does it begin.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/zakdoffman/2024/01/28/new-details-free-ai-upgrade-for-google-and-samsung-android-users-leaks/",
-      "originalUrl": "https://www.forbes.com/sites/zakdoffman/2024/01/28/new-details-free-ai-upgrade-for-google-and-samsung-android-users-leaks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b41420a2b346798e66d370/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/zakdoffman/2024/01/28/new-details-free-ai-upgrade-for-google-and-samsung-android-users-leaks/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/zakdoffman/2024/01/28/new-details-free-ai-upgrade-for-google-and-samsung-android-users-leaks/amp/",
-      "publishedDateTime": "2024-01-29T02:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

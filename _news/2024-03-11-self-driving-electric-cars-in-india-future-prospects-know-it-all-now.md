@@ -9,7 +9,7 @@ ampWebUrl: "https://m.news24online.com/article/auto/self-driving-electric-cars-i
 cdnAmpWebUrl: "https://m-news24online-com.cdn.ampproject.org/c/s/m.news24online.com/article/auto/self-driving-electric-cars-in-india-future-prospects-know-it-all-now/236488/amp"
 type: article
 quality: 58
-heat: 68
+heat: 58
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 800
     height: 450
     isCached: true
-
-related:
-  - title: "Use of Indian languages key for increasing internet access in India: Report"
-    excerpt: "The report also shows that in the recent past, the use of the internet in Indian languages is increasing. It shows that 57 per cent of internet users prefer to access the internet in Indian languages, with Hindi topping the chart."
-    publishedDateTime: 2024-03-10T13:23:00Z
-    webUrl: "https://www.business-standard.com/india-news/use-of-indian-languages-key-for-increasing-internet-access-in-india-report-124031000395_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 2
 
 secured: "qs9N6k/f++SiU8B4NMWsLB2chuXrgmHJV1QXF4XA5bCzwPI+95NHnl5b31MV1jwNyNfABIwbSRFtPEFLl/Tm4sZNM8W2YyEij0cPsaVlSto3RwmP0MMwuejZsaXZsnvQJz8sg9wz1v61uIY72tUByN/UPvRUDoMt4DBD/USErXmwCQwH5REQ82WORep5Y5rSmNdmHmusMaJdi28+pFxK3oSZ7tHYltrrXnvlbAOsOXaiI4rQC06jZJXpcyimbceWVglOe0vGzCjkHAXm6f0dZbocnsC28XZ2nsM+7udZlPAtlK5Go185rgVfBKIXnv+GuhffLWgm2bKM+BVIMUllbuG9R5sAa/o1vJ6ZGLQqJwM9DAPOHVgFihmzKv25gODo+QGxe4AeKkTlhUNFKkZ/7PcG0+jks9TnSN4fSHUEeSaVg9bNG2iaB1QEqU7Mwi2IgUVrcgjZ9kSHatsbn5o6e58e/kQwH+qtu+krp+9dC/hr2w7I2ecc2tMI4hBp1OYmoCBoTo4xzxX66iF7h478QQ==;gcP+Xx4KleYIgHkB8wO7HQ=="
 ---

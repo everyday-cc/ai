@@ -2,6 +2,144 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-13-how-ai-impacts-legal-systems-with-its-fake-laws.md",
+      "title": "How AI Impacts Legal Systems With Its Fake Laws",
+      "excerpt": "The legal regulators and courts around the world are emphasising the need for responsible adoption of AI tools by lawyers and the establishment of clear guidelines to uphold the integrity of",
+      "sourceUrl": null,
+      "webUrl": "https://www.boomlive.in/explainers/how-ai-impacts-legal-systems-with-its-fake-laws-24603",
+      "originalUrl": "https://www.boomlive.in/explainers/how-ai-impacts-legal-systems-with-its-fake-laws-24603",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.boomlive.in/h-upload/2024/03/13/1023195-robotic-01.jpg",
+          "width": 1280,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.boomlive.in/amp/explainers/how-ai-impacts-legal-systems-with-its-fake-laws-24603",
+      "cdnAmpWebUrl": "https://www-boomlive-in.cdn.ampproject.org/c/s/www.boomlive.in/amp/explainers/how-ai-impacts-legal-systems-with-its-fake-laws-24603",
+      "publishedDateTime": "2024-03-13T07:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BOOM",
+        "domain": "boomlive.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-13-how-generative-ai-will-change-the-jobs-of-doctors-and-healthcare-professionals.md",
+      "title": "How Generative AI Will Change The Jobs Of Doctors And Healthcare Professionals",
+      "excerpt": "Generative AI is set to transform healthcare by aiding in diagnostics, automating administrative tasks, and accelerating drug discovery.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2024/03/13/how-generative-ai-will-change-the-jobs-of-doctors-and-healthcare-professionals/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2024/03/13/how-generative-ai-will-change-the-jobs-of-doctors-and-healthcare-professionals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65f14707aa26f8af0e584249/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2024/03/13/how-generative-ai-will-change-the-jobs-of-doctors-and-healthcare-professionals/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/03/13/how-generative-ai-will-change-the-jobs-of-doctors-and-healthcare-professionals/amp/",
+      "publishedDateTime": "2024-03-13T06:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-13-visa-joins-dubai-fintech-summit-as-founding-partner-co-host.md",
+      "title": "Visa joins Dubai FinTech Summit as Founding Partner & Co-Host",
+      "excerpt": "The collaboration reinforces Dubai FinTech Summit and Visa’s shared commitment to nurture and strengthen the global financial ecosystem through innovation, meaningful discussions and connections. Dubai: Visa, a global leader in digital payments ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zawya.com/en/press-release/events-and-conferences/visa-joins-dubai-fintech-summit-as-founding-partner-and-co-host-ud3mw8yk",
+      "originalUrl": "https://www.zawya.com/en/press-release/events-and-conferences/visa-joins-dubai-fintech-summit-as-founding-partner-and-co-host-ud3mw8yk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.zawya.com/view/acePublic/alias/contentid/M2MzOTY1NjAtNWE4Yi00/0/mousigningpicture3-jpg.jpeg?f=3%3A2",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zawya.com/en/press-release/events-and-conferences/visa-joins-dubai-fintech-summit-as-founding-partner-and-co-host-ud3mw8yk?amp=1",
+      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/events-and-conferences/visa-joins-dubai-fintech-summit-as-founding-partner-and-co-host-ud3mw8yk?amp=1",
+      "publishedDateTime": "2024-03-13T05:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Zawya",
+        "domain": "zawya.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-13-cognition-emerges-from-stealth-to-launch-ai-software-engineer-devin.md",
       "title": "Cognition emerges from stealth to launch AI software engineer Devin",
       "excerpt": "In the SWE-bench test, Devin was able to correctly resolve 13.86% of GitHub issues without any assistance, performing far better than GPT-4.",
@@ -10,7 +148,7 @@
       "originalUrl": "https://venturebeat.com/ai/cognition-emerges-from-stealth-to-launch-ai-software-engineer-devin/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -61,7 +199,7 @@
       "originalUrl": "https://venturebeat.com/ai/at-venturebeats-ai-impact-tour-microsoft-explores-the-risks-and-rewards-of-gen-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -376,7 +514,7 @@
       "originalUrl": "https://www.foxnews.com/tech/ai-showdown-put-chatbots-test",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 170,
       "tags": null,
       "images": [
         {
@@ -468,6 +606,58 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-13-oracle-adds-automation-ai-to-globally-distributed-database.md",
+      "title": "Oracle Adds Automation & AI To Globally Distributed Database",
+      "excerpt": "Oracle announced the general availability of its Globally Distributed Autonomous Database, marking a significant enhancement in its database technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2024/03/12/oracle-adds-automation--ai-to-globally-distributed-database/",
+      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2024/03/12/oracle-adds-automation--ai-to-globally-distributed-database/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65f0aaf13b0b0ca2103344f1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1349,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2024/03/12/oracle-adds-automation--ai-to-globally-distributed-database/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2024/03/12/oracle-adds-automation--ai-to-globally-distributed-database/amp/",
+      "publishedDateTime": "2024-03-12T19:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -850,6 +1040,58 @@
       ]
     },
     {
+      "path": "_news/2024-03-12-techcrunch-minute-reddits-ipo-success-may-hinge-on-ai-boom.md",
+      "title": "TechCrunch Minute: Reddit’s IPO success may hinge on AI boom",
+      "excerpt": "Reddit's IPO signals an end to our long-running dearth of IPOs, and the success of its stock could depend on its ability to leverage AI.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/03/12/techcrunch-minute-reddits-ipo-success-may-hinge-on-ai-boom/",
+      "originalUrl": "https://techcrunch.com/2024/03/12/techcrunch-minute-reddits-ipo-success-may-hinge-on-ai-boom/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/03/TC-M-Reddit-IPO.jpg?w=850",
+          "width": 850,
+          "height": 492,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/03/12/techcrunch-minute-reddits-ipo-success-may-hinge-on-ai-boom/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/techcrunch-minute-reddits-ipo-success-may-hinge-on-ai-boom/amp/",
+      "publishedDateTime": "2024-03-12T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-12-run-an-audience-overlap-analysis-in-aws-clean-rooms.md",
       "title": "Run an audience overlap analysis in AWS Clean Rooms",
       "excerpt": "In this post, we explore what an audience overlap analysis is, discuss the current technical approaches and their challenges, and illustrate how you can run secure audience overlap analysis using AWS Clean Rooms.",
@@ -1004,257 +1246,6 @@
         "Natural Language Processing",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-empathy-closes-47m-for-ai-to-help-with-the-practical-and-emotional-bereavement-process.md",
-      "title": "Empathy closes $47M for AI to help with the practical and emotional bereavement process",
-      "excerpt": "Although there have been a lot of efforts made in the area of considering what role AI can play in empathy (with a little “e”) the startup Empathy, Gura said, remains focused on keeping a human team in place for that aspect of its service, focusing ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/03/12/empathy-berevement-death-ai/",
-      "originalUrl": "https://techcrunch.com/2024/03/12/empathy-berevement-death-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/04/15990492171_d21c81e484_k.jpg?resize=1200,655",
-          "width": 1200,
-          "height": 655,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/03/12/empathy-berevement-death-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/empathy-berevement-death-ai/amp/",
-      "publishedDateTime": "2024-03-12T13:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-google-wont-let-you-use-its-ai-to-answer-questions-about-an-upcoming-election-in-your-country.md",
-      "title": "Google won’t let you use its AI to answer questions about an upcoming election in your country",
-      "excerpt": "After facing some backlash from global VCs and AI startup founders, the Indian government clarified that the restriction was for “significant” tech companies and not for startups. The advisory followed a mini-scandal over Gemini and the Indian ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/03/12/google-gemini-election-related-queries/",
-      "originalUrl": "https://techcrunch.com/2024/03/12/google-gemini-election-related-queries/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/03/google-gemini.jpg?w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/03/12/google-gemini-election-related-queries/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/google-gemini-election-related-queries/amp/",
-      "publishedDateTime": "2024-03-12T12:48:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-science-offers-a-new-way-to-save-birds-from-the-jaws-of-wind-turbines.md",
-      "title": "Science Offers A New Way To Save Birds From The Jaws Of Wind Turbines",
-      "excerpt": "Many migratory birds die each year flying into the blades of our wind farms. Weather radar data is showing us how we can be nicer to our sky-fairing friends.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/scotttravers/2024/03/12/science-offers-a-new-way-to-save-birds-from-the-jaws-of-wind-turbines/",
-      "originalUrl": "https://www.forbes.com/sites/scotttravers/2024/03/12/science-offers-a-new-way-to-save-birds-from-the-jaws-of-wind-turbines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e9e260d2b8171cfa7a3de2/0x0.jpg?format=jpg&crop=2751,1290,x0,y171,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/scotttravers/2024/03/12/science-offers-a-new-way-to-save-birds-from-the-jaws-of-wind-turbines/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/scotttravers/2024/03/12/science-offers-a-new-way-to-save-birds-from-the-jaws-of-wind-turbines/amp/",
-      "publishedDateTime": "2024-03-12T12:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-how-utilities-can-prepare-for-extreme-weather-with-data-and-ai.md",
-      "title": "How utilities can prepare for extreme weather with data and AI",
-      "excerpt": "Today, utilities are meeting these challenges and risks with innovation by leaning on data and AI to prepare for the next event.\nThe post How utilities can prepare for extreme weather with data and AI appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/how-utilities-can-prepare-for-extreme-weather-with-data-and-ai/",
-      "originalUrl": "https://www.ibm.com/blog/how-utilities-can-prepare-for-extreme-weather-with-data-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-12T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-why-enterprises-are-learning-to-love-nanonets-automation.md",
-      "title": "Why Enterprises Are Learning To Love Nanonets’ Automation",
-      "excerpt": "Nanonets has raised $29 million in a Series B round that will support the growth of the machine learning and automation specialist",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidprosser/2024/03/12/why-enterprises-are-learning-to-love-nanonets-automation/",
-      "originalUrl": "https://www.forbes.com/sites/davidprosser/2024/03/12/why-enterprises-are-learning-to-love-nanonets-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65ef20424217d681add18649/0x0.jpg?format=jpg&crop=2324,1088,x0,y139,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 749,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-12T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

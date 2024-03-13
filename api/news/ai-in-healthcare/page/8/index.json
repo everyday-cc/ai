@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-11-21-how-ai-is-used-in-healthcare.md",
+      "title": "How AI Is Used in Healthcare",
+      "excerpt": "In this discussion of artificial intelligence in healthcare, we'll examine where AI is today and then explore several of the top uses for AI in healthcare. AI is generally understood as the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-healthcare/",
+      "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/ai-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.foolcdn.com/media/dubs/images/woman-doctors-office-treatment.width-600.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-20T16:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-20-integrating-healthcare-apps-and-data-with-fhir-hl7.md",
       "title": "Integrating healthcare apps and data with FHIR + HL7",
       "excerpt": "HL7 has provided a standard set of patient attributes and clinical events to improve interoperability in healthcare.\nThe post Integrating healthcare apps and data with FHIR + HL7 appeared first on IBM Blog.\n",

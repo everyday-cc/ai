@@ -2,6 +2,335 @@
   "page": 120,
   "value": [
     {
+      "path": "_news/2023-12-02-computer-vision-eastern-africa.md",
+      "title": "Computer Vision - Eastern Africa",
+      "excerpt": "The market size in the Computer Vision market is projected to reach US$48.55m in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 14.98%, resulting in a market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/eastern-africa",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/eastern-africa",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-02T13:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-02-speech-recognition-eastern-africa.md",
+      "title": "Speech Recognition - Eastern Africa",
+      "excerpt": "The market size in the Speech Recognition market is projected to reach US$14.94m in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 18.68%, resulting in a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/speech-recognition/eastern-africa",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/computer-vision/speech-recognition/eastern-africa",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-02T13:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-02-10-best-predictive-analytics-tools-and-software-of-2023.md",
+      "title": "10 Best Predictive Analytics Tools and Software of 2023",
+      "excerpt": "Tableau, TIBCO Data Science and Sisense are among the best software for predictive analytics. Compare their features, pricing, pros and cons.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/best-predictive-analytics-tools/",
+      "originalUrl": "https://www.techrepublic.com/article/best-predictive-analytics-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2022/05/AdobeStock_616977240.jpeg",
+          "width": 1400,
+          "height": 784,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-02T08:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2023-12-02-montreal-research-hub-spearheads-global-ai-ethics-debate.md",
+      "title": "Montreal Research Hub Spearheads Global AI Ethics Debate",
+      "excerpt": "Rapid developments in artificial intelligence -- and recent turmoil at industry powerhouse OpenAI -- have brought fresh attention to a key hub of ethics research related to the technology in Montreal,",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/montreal-research-hub-spearheads-global-ai-ethics-debate-85a5577c",
+      "originalUrl": "https://www.barrons.com/news/montreal-research-hub-spearheads-global-ai-ethics-debate-85a5577c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.barrons.com/asset/external-media/afp/AFP5124571594622971684184341015126633855344---1.jpg",
+          "width": 768,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/montreal-research-hub-spearheads-global-ai-ethics-debate-85a5577c",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/montreal-research-hub-spearheads-global-ai-ethics-debate-85a5577c",
+      "publishedDateTime": "2023-12-02T05:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-02-surprise-warren-buffett-has-bet-over-176-billion-in-3-artificial-intelligence-ai-growth-stocks.md",
+      "title": "Surprise! Warren Buffett Has Bet Over $176 Billion in 3 Artificial Intelligence (AI) Growth Stocks",
+      "excerpt": "He went on to say, \"We've been doing research across a wide range of AI technologies ... director of market development and spokeswoman for Facebook and sister to Meta Platforms CEO Mark ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/12/02/surprise-warren-buffett-has-bet-over-176-billion-i/",
+      "originalUrl": "https://www.fool.com/investing/2023/12/02/surprise-warren-buffett-has-bet-over-176-billion-i/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/756245/buffett1-tmf.jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-02T05:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-02-meta-ai-unveils-seamless-translator-for-real-time-communication-across-languages.md",
+      "title": "Meta AI unveils ‘Seamless’ translator for real-time communication across languages",
+      "excerpt": "Meta AI researchers have developed a new artificial intelligence model called 'Seamless' that enables more natural, real-time translation across languages while preserving vocal style and emotion.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/meta-ai-unveils-seamless-translator-for-real-time-communication-across-languages/",
+      "originalUrl": "https://venturebeat.com/ai/meta-ai-unveils-seamless-translator-for-real-time-communication-across-languages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/12/nuneybits_Abstract_painting_of_two_people_with_speech_bubbles_c_b2457dfd-af1e-4d7f-b81d-70bef4a9307f.webp?w=1200&strip=all",
+          "width": 1200,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-02T04:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-02-bipartisan-senate-bill-to-ban-tsa-use-of-facial-recognition-technology-gains-support-of-civil-rights-groups.md",
+      "title": "Bipartisan Senate bill to ban TSA use of facial recognition technology gains support of civil rights groups",
+      "excerpt": "The bill aims to tackle TSA’s proposed plan to implement facial recognition scans at over 430 U.S. airports within the next several years.",
+      "sourceUrl": null,
+      "webUrl": "https://fedscoop.com/bipartisan-senate-bill-to-ban-tsa-use-of-facial-recognition-technology-gains-support-of-civil-rights-groups/",
+      "originalUrl": "https://fedscoop.com/bipartisan-senate-bill-to-ban-tsa-use-of-facial-recognition-technology-gains-support-of-civil-rights-groups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fedscoop.com/wp-content/uploads/sites/5/2019/01/GettyImages-183628592.jpg",
+          "width": 1920,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-02T00:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FedScoop",
+        "domain": "fedscoop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-02-unpacking-fresh-signals-from-aws-on-storage-processing-and-llm-strategy.md",
       "title": "Unpacking fresh signals from AWS on storage, processing and LLM strategy",
       "excerpt": "The key unveiling on storage is the new Amazon S3 Express One Zone storage class. It’s been designed to deliver up to 10x better performance than the standard class, all while handling requests in the hundreds of thousands per second and maintaining single-digit millisecond latency, according to Thurai.",
@@ -758,290 +1087,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-natural-language-processing-mena.md",
-      "title": "Natural Language Processing - MENA",
-      "excerpt": "The market size in the Natural Language Processing market is projected to reach 0.00 in 2023. The market size is expected to show an annual growth rate (CAGR 2023-0) of 0, resulting in a market ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/mena",
-      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/mena",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-01T14:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statista",
-        "domain": "statista.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-researchers-develop-novel-deep-learning-based-detection-system-for-autonomous-vehicles.md",
-      "title": "Researchers develop novel deep learning-based detection system for autonomous vehicles",
-      "excerpt": "Autonomous vehicles require object detection systems to navigate traffic and avoid obstacles on the road. However, current detection methods often suffer from diminished detection capabilities due to bad weather,",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2023/11/231130113233.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2023/11/231130113233.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-01T14:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-qa-how-artificial-intelligence-could-transform-health-care.md",
-      "title": "Q&A: How artificial intelligence could transform health care",
-      "excerpt": "Health care has historically been slow to adopt new technologies that involve wholesale changes to the nature of the work. Witness the slow and checkered roll-out of electronic health records and the utter failure of prior efforts to implement artificial intelligence tools,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2023-12-qa-artificial-intelligence-health.html",
-      "originalUrl": "https://medicalxpress.com/news/2023-12-qa-artificial-intelligence-health.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2023/how-artificial-intelli-2.jpg",
-          "width": 1280,
-          "height": 693,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2023-12-qa-artificial-intelligence-health.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2023-12-qa-artificial-intelligence-health.amp",
-      "publishedDateTime": "2023-12-01T13:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-seattle-is-an-artificial-intelligence-hub-in-a-rapidly-changing-field.md",
-      "title": "Seattle is an artificial intelligence hub in a rapidly changing field",
-      "excerpt": "AI continues to grow in power and use across the economy. You're probably using it now, whether you know it or not. Jon Talton considers if we're letting AI unleash a Terminator future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.seattletimes.com/business/seattle-is-an-artificial-intelligence-hub-in-a-rapidly-changing-field/",
-      "originalUrl": "https://www.seattletimes.com/business/seattle-is-an-artificial-intelligence-hub-in-a-rapidly-changing-field/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-01T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seattle Times",
-        "domain": "seattletimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-deepmind-exec-ai-assesses-climate-issues-falls-short-of-full-solution.md",
-      "title": "DeepMind exec: AI assesses climate issues, falls short of full solution",
-      "excerpt": "Google DeepMind’s Climate Action Lead, Sims Witherspoon, highlights AI’s potential to address climate challenges. She suggests a three-step framework: Understand, Optimize, Accelerate.",
-      "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/news/deep-mind-exec-ai-assesses-climate-issues-falls-short-full-solution",
-      "originalUrl": "https://cointelegraph.com/news/deep-mind-exec-ai-assesses-climate-issues-falls-short-full-solution",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-01T12:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-agi-development-explained-by-deepmind-founder.md",
-      "title": "AGI development explained by DeepMind Founder",
-      "excerpt": "Learn more about the development of Artificial General Intelligence AGI from the founder of DeepMind. Learn how artificial intelligence will",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/artificial-general-intelligence-deepmind/",
-      "originalUrl": "https://www.geeky-gadgets.com/artificial-general-intelligence-deepmind/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/DeepMind-Artificial-General-Intelligence.jpg",
-          "width": 1280,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-01T12:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-01-redefining-communication-in-the-age-of-ai.md",
-      "title": "Redefining Communication In The Age Of AI",
-      "excerpt": "Artificial Intelligence (AI) has revolutionized the translation industry, moving it from human-centric to technology-driven solutions. The integration of AI, particularly in Natural Language Processing (NLP), has enhanced the accuracy and efficiency of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/general/23/12/36047676/redefining-communication-in-the-age-of-ai",
-      "originalUrl": "https://www.benzinga.com/general/23/12/36047676/redefining-communication-in-the-age-of-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2023/12/01/screenshot_2023-12-01_at_10.32.59_pm.png?width=1200&height=800&fit=crop",
-          "width": 1188,
-          "height": 792,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/36047676",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36047676",
-      "publishedDateTime": "2023-12-01T12:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

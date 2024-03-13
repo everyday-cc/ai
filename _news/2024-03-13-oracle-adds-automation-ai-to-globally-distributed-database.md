@@ -5,10 +5,12 @@ excerpt: "Oracle announced the general availability of its Globally Distributed 
 publishedDateTime: 2024-03-12T19:23:00Z
 originalUrl: "https://www.forbes.com/sites/stevemcdowell/2024/03/12/oracle-adds-automation--ai-to-globally-distributed-database/"
 webUrl: "https://www.forbes.com/sites/stevemcdowell/2024/03/12/oracle-adds-automation--ai-to-globally-distributed-database/"
+ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2024/03/12/oracle-adds-automation--ai-to-globally-distributed-database/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2024/03/12/oracle-adds-automation--ai-to-globally-distributed-database/amp/"
 type: article
-quality: 47
-heat: 47
-published: false
+quality: 89
+heat: 89
+published: true
 
 provider:
   name: Forbes
@@ -20,7 +22,14 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
-secured: "yrTj2svd0y1OiACQ1MurwUCPCSIQxcRPfjgtsRURsYpuPys1ly1zKv/0eTsmyTxWTBLttXFTiJ39MzrUtEk7CtL4NeN/vqFhCrQcN/Eq0z+DkhMHRUY8W9Z2/uxCLKd99k81CGHAqt1U+VhEsPrVv15DM+AacX+jNlrODsviiDSBGkIeq+0dgcVQXlsnUJMfCrN1ywFLaFs6V9F/31j/ikGPS0A6Zr6FEOXtEJi+fINzK4u4+Cuyrk/PaY0n9BlyQKfZIO7PswM3sVY5A2eEizEDE6HgE5rV6kWk2khgRypSwNcJyISNbOsoznaICGDtrrZePauN8Pgt+bfLe6wPuYE+E/o10HbuD1OusMDX39fVkQ5cAssHCe2sr4S1QVqjk7DssHhzgk/xESVF0nQUxOs8BlRgsAH7J3gnMWuGJCJTam+bkPL2Gcqd1flTnrtaEH1Kba+HbDw7Hf9UzF2G2PjXv1kM+lAY/mrhVza3wZJ/r6lVBGt04CZy8aEu9DeG+Rth6aY/xsWSZ/uav143bA==;NOf9sD/xDtiOrW3PZdhU2A=="
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/65f0aaf13b0b0ca2103344f1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+    width: 1349
+    height: 900
+    isCached: true
+
+secured: "icKftgskYBzEe7MxzgtE3pvnXNmwlDc9iKbovDYm85CiTXV85Nb+iaEOZ8bLRAV6yp/vdvvvUdmrGAHDNfLt5eLi2nT4eKDlmx9+e2hjM/9iWheNL8zNrw05qwwXyEBclf9nkbaKk8HYUJgE2ixv0ndStkdLy0M24FqA7b+VkpcLRZWhr9FtHjcHVM8U+0sT8r2DCRO6l3iZfzpxk5Xm6BwAOnrPzu8f1GUmO4zpT6ufq2Emuee3TkwkEzmQO27Evbg1uWeD8ySlQCu66wkWbaPBLDfeBmCwDK7q5H2dn0U0uOBboyjoWXLVDvYOFL39q9uHAJxn+bu72ppk6N8N4X6wLszxFIHwh/TWufV08wg=;lvILCt257MtF3uofA12XXg=="
 ---
 

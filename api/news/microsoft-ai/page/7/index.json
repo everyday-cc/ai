@@ -2,40 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2024-01-10-reply-launches-accelerator-365-a-new-offering-for-microsoft-365-modern-work-solutions.md",
-      "title": "Reply Launches Accelerator 365, a New Offering for Microsoft 365 Modern Work Solutions",
-      "excerpt": "Reply, a leading network of highly specialised companies active in the fields of digital transformation and innovation, announced the launch of Accelerator 365, a new product that delivers innovative applications for intranets and digital workplaces.",
-      "sourceUrl": null,
-      "webUrl": "https://www.afp.com/es/news/1314/reply-launches-accelerator-365-new-offering-microsoft-365-modern-work-solutions-202401108175971",
-      "originalUrl": "https://www.afp.com/es/news/1314/reply-launches-accelerator-365-new-offering-microsoft-365-modern-work-solutions-202401108175971",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-10T09:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AFP",
-        "domain": "afp.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-01-10-the-10-most-in-demand-tech-skills-in-2024-with-skill-tests.md",
       "title": "The 10 most in-demand tech skills in 2024 (with skill tests)",
       "excerpt": "Here is a list of the top tech skills to have on your resume this year, as well as a list of skill tests you can use to gauge your current proficiency.",
@@ -1406,6 +1372,58 @@
         "name": "The Indian Express",
         "domain": "indianexpress.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-20-2-red-hot-artificial-intelligence-ai-stocks-to-buy-in-2023-and-beyond.md",
+      "title": "2 Red-Hot Artificial Intelligence (AI) Stocks to Buy in 2023 and Beyond",
+      "excerpt": "The AI revolution has just started and is powering the growth of several high-quality stocks. Tech powerhouse Microsoft sees its Azure cloud computing business as a key growth catalyst.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/12/20/2-red-hot-artificial-intelligence-ai-stocks-to-buy/",
+      "originalUrl": "https://www.fool.com/investing/2023/12/20/2-red-hot-artificial-intelligence-ai-stocks-to-buy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/758380/analyst_with_a_calculator__studying_stock_chart_on_desktop_screen.jpg",
+          "width": 4000,
+          "height": 2667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-20T07:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

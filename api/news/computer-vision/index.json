@@ -382,6 +382,40 @@
       ]
     },
     {
+      "path": "_news/2024-03-07-airports-using-biometric-facial-recognition-in-new-york.md",
+      "title": "Airports using biometric facial recognition in New York",
+      "excerpt": "The TSA started piloting this system in 2020 at Ronald Reagan Washington National Airport in Virginia, but this is not its first foray into using biometrics. Since the mid-'00s, foreign nationals entering the U.S. have given biometric data at customs for identification verification.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theintelligencer.com/news/article/airports-using-biometric-facial-recognition-in-18709539.php",
+      "originalUrl": "https://www.theintelligencer.com/news/article/airports-using-biometric-facial-recognition-in-18709539.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-07T14:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Edwardsville Intelligencer",
+        "domain": "theintelligencer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-07-airports-using-biometric-facial-recognition-in-tennessee.md",
       "title": "Airports using biometric facial recognition in Tennessee",
       "excerpt": "Spokeo looked at which airports are using facial recognition software in Tennessee for security screenings, according to Customs and Border Protection.",
@@ -1304,58 +1338,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-24-serco-ordered-to-stop-using-facial-recognition-technology-to-monitor-staff.md",
-      "title": "Serco ordered to stop using facial recognition technology to monitor staff",
-      "excerpt": "Biometric data of more than 2,000 staff at 38 leisure centres was unlawfully processed to check attendance, watchdog finds Britain’s data watchdog has ordered a Serco subsidary to stop using ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/business/2024/feb/23/serco-ordered-to-stop-using-facial-recognition-technology-to-monitor-staff-leisure-centres-biometric-data",
-      "originalUrl": "https://www.theguardian.com/business/2024/feb/23/serco-ordered-to-stop-using-facial-recognition-technology-to-monitor-staff-leisure-centres-biometric-data",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/f3eb9064c7eebda6ad4ccb3ba8cbbb086373408d/0_254_2510_1506/master/2510.jpg?width=620&quality=85&auto=format&fit=max&s=4413607da87aca8a8593db9e01911b28",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/business/2024/feb/23/serco-ordered-to-stop-using-facial-recognition-technology-to-monitor-staff-leisure-centres-biometric-data",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2024/feb/23/serco-ordered-to-stop-using-facial-recognition-technology-to-monitor-staff-leisure-centres-biometric-data",
-      "publishedDateTime": "2024-02-23T18:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

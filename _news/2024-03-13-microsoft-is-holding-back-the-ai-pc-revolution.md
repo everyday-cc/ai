@@ -8,7 +8,7 @@ webUrl: "https://www.computerworld.com/article/3714440/microsoft-is-holding-back
 ampWebUrl: "https://www.computerworld.com/article/3714440/microsoft-is-holding-back-the-ai-pc-revolution.amp.html"
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3714440/microsoft-is-holding-back-the-ai-pc-revolution.amp.html"
 type: article
-quality: 74
+quality: 76
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - Microsoft AI
+  - AI Hardware
 
 images:
   - url: "https://images.idgesg.net/images/article/2024/03/samsung-galaxy-book-100962432-large.jpg?auto=webp&quality=85,70"
@@ -41,17 +42,6 @@ related:
         width: 1198
         height: 537
         isCached: true
-  - title: "Sonata Software integrates its AI solution with Microsoft Azure AI"
-    excerpt: "Sonata Software has announced the integration of its Harmoni.AI with Microsoft Azure AI service. Sonata’s AI offering provides industry solutions, service delivery platforms, and accelerators. Using Microsoft Azure AI services, Sonata Harmoni.AI will ..."
-    publishedDateTime: 2024-03-08T06:14:00Z
-    webUrl: "https://www.thehindubusinessline.com/markets/stock-markets/sonata-software-integrates-its-ai-solution-with-microsoft-azure-ai/article67927950.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/markets/stock-markets/sonata-software-integrates-its-ai-solution-with-microsoft-azure-ai/article67927950.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/markets/stock-markets/sonata-software-integrates-its-ai-solution-with-microsoft-azure-ai/article67927950.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 69
   - title: "Microsoft scientist gets AI to play DOOM but then issued a warning"
     excerpt: "A Microsoft researcher managed to get OpenAI's GPT-4V large language model to 'successfully' play 1993's DOOM, but then issued a warning."
     publishedDateTime: 2024-03-12T12:45:00Z
@@ -71,6 +61,6 @@ related:
       domain: modernhealthcare.com
     quality: 34
 
-secured: "wESXcp930UQAs4H6D8AT4PJZif0mHwce05DUBRf2BlMfv7p0xDqMKAEihCQ7Z75X20soTgj4CWM/NBMSVnUEgnpzEkpe+dG9CYQabXk5OQgMXNQr2/zT5KRryhB5E2Ymkt4yHVbY8BGyAaibYperZQ1D8Ml79NvpEtESVQf5EaQXHZTgoFt+2718ySka4cvs6qy7s/Q9Q1JHQyRcy1tHIAgPmrQ2fVzGA4j2WeB/gPa33EMqU1ScI6lW7qihTNHVbA4qICH17KQe7Xx4T5fsQD741sMfQRcrRa+36zw45MGs/y0bZIZqGE+wx/tN+Fpmh5GnHbUeFpbH9BDLSYKCGW1KxdgWuFdSA/HrVEGvt9E=;zxKLpE0jCa1PmNllILE/sQ=="
+secured: "5Lg/IMNNA0AodQecnvu1j6rBdkWQM/lXODaxtX2S2gmXw3XKvhnq0ziWG9ob5wRDWL018t4L15QtQ001YvjzgArEj9NlGMq4zz/XXw7Z/yyX3/0TnKni8CCQUuDxoJ9iBFzIY3k1etpaBgscFeb/sNfjx5cftoSrAq6KI00yCpFIrxbQdqMRV00wNDgKT3jl5YWEqZc+BtQAtCuHlqvJsb8C+GUky7XfSFoa6kf7HffiuVyeUtsAY8ZxDIgNKLJAsCirCpEvcDCMjyHNTlWRQqZywtvF7+3mtt5KX3pDk1gZmHh90nECG8uJSgfF/h7SbZmElV1MCiNeIuI/dYoHRpxakTVqK/FTBbunlsbydeuC6sDnQs9uYTpyuBDkAZ4Nij+TdGJDODWxZWux1lZ/NiQgDL3En/a6PfzK7JgLksruiw2a3DGze+NkOIwIricPbnIcjf/Noi3Q9Ns6Xe3tO68G0v07nT/jmT7XbMN6nYrDJ7rqnG9gQ/1zOiuncyG04pepj59Pmm7y69kuSxA5Jg==;Acfq1mkeqxoNVAMBnbVxSw=="
 ---
 

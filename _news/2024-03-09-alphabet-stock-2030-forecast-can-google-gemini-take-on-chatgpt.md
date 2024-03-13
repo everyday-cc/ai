@@ -272,20 +272,6 @@ related:
       name: cybernews
       domain: cybernews.com
     quality: 19
-  - title: "Amazon and Google-backed AI startup Anthropic claims newly released chatbot Claude 3 outperforms GPT-4 and Gemini Ultra"
-    excerpt: "Amazon and Google-backed AI startup Anthropic claims newly released chatbot Claude 3 outperforms GPT-4 and Gemini Ultra"
-    publishedDateTime: 2024-03-08T06:31:00Z
-    webUrl: "https://www.digitimes.com/news/a20240307PD209/anthropic-claude-3-chatbot-ai-amazon-google.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 13
-    images:
-      - url: "https://img.digitimes.com/newsshow/20240307pd209_files/1_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
 
 secured: "zxyqFnjkLwA/Ry+UdkSsbHQN9NNnxk68hn1rX+ASPBnx93hXTRhAUOK8Qk9OxPyn0ezAaMltuRfSdmyhuNZJYar+3T9j/gGxQAbY4iRKsRX3ZUqXNNGRKpBXQF/UI5j4k+9+DXlUUXkDHAz7sVBNXQoeYTSnczyuFQewJdoAGvYeJhBcsbeD0AAIrbc2dkPNBAFQawOz66pXz6W4wnLbQW2gCxQ1jqJ748KCshWbYZ+w9zVwJ6lZGNh942w78MwqF0929NJ5/41DcLeq2IOu1RzRkqL6gIY5K1eP8OGjFVwuKocm5WXZlUc79R84/FqFF9mLqwiXdcl0Esm9wOsQlCfpcQbI1njT2nrg3Y+4Fyg=;MXZiDg2L+SxQ11KKGl/Q7w=="
 ---

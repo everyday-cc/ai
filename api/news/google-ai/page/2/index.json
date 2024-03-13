@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-23-reddit-seals-60m-deal-with-google-to-boost-ai-tools-report-claims.md",
+      "title": "Reddit seals $60M deal with Google to boost AI tools, report claims",
+      "excerpt": "Up to now, most AI models that underpin tools like OpenAI’s ChatGPT or Google’s Gemini (formerly Bard) have been trained mainly on content scraped from the web. But the method has caused alarm ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/reddit-in-60m-deal-with-google-to-boost-ai-tools-report-claims/",
+      "originalUrl": "https://www.digitaltrends.com/computing/reddit-in-60m-deal-with-google-to-boost-ai-tools-report-claims/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2024/02/reddit.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/reddit-in-60m-deal-with-google-to-boost-ai-tools-report-claims/",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/reddit-in-60m-deal-with-google-to-boost-ai-tools-report-claims/",
+      "publishedDateTime": "2024-02-23T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-23-google-is-killing-gmails-basic-html-view-in-2024.md",
       "title": "Google is killing Gmail’s basic HTML view in 2024",
       "excerpt": "Google is currently focusing on infusing AI-powered features into its products, including Gmail. Last month, the company launched a Duet AI feature to help users write emails. Last week, it allowed the Bard chatbot to integrate with Google accounts so you ...",
@@ -1380,49 +1432,6 @@
         "Google AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-google-bard-ai-officially-becomes-gemini.md",
-      "title": "Google Bard AI Officially Becomes Gemini",
-      "excerpt": "Exactly a year after Google announced Bard — its first conversational chatbot — the search giant has given it the first major makeover. As part of a new update, the now-famous name \"Google Bard” has been retired in favor of its new name; \"Google ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/1512770/google-bard-ai-renamed-to-gemini/",
-      "originalUrl": "https://www.slashgear.com/1512770/google-bard-ai-renamed-to-gemini/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T15:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

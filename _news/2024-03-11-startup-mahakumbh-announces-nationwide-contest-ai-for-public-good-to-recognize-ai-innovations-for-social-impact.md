@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Startup Mahakumbh announces ‘AI for Public Good’ contest"
+    excerpt: "Using AI for public good? A contest at Startup Mahakumbh aims to recognise and support innovators using AI to address some of the most pressing challenges facing our society today."
+    publishedDateTime: 2024-03-13T06:59:00Z
+    webUrl: "https://yourstory.com/2024/03/startup-mahakumbh-announces-ai-public-good-contest"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 37
+    images:
+      - url: "https://images.yourstory.com/cs/2/21ccd920843c11ec88170b5512a0f9d5/Imagewufs-1710242246984.jpg?fm=png&auto=format"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Startup Mahakumbh: ‘AI for Public Good’ Contest To Recognise Innovators Using AI To Create Social Impact"
     excerpt: "AI for Public Good’ contest by Startup Mahakumbh is inviting startups, researchers & more to showcase AI solutions for social impact."
     publishedDateTime: 2024-03-12T11:07:00Z

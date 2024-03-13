@@ -2,6 +2,316 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2024-02-06-successfully-implementing-natural-language-processing-and-genai-with-knowledge-management.md",
+      "title": "Successfully implementing natural language processing and GenAI with knowledge management",
+      "excerpt": "Experts from Datavid joined KMWorld's webinar, Integrating LLMs With a Private Knowledge Platform, to discuss the benefits, latest advancements, and best practices for integrating AI/LLMs into private knowledge platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=162456",
+      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=162456",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/Images/OtherImages/151196-2023-Cover-Images-ORG.png",
+          "width": 772,
+          "height": 594,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T17:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KMWorld Magazine",
+        "domain": "kmworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-inmoment-named-a-leader-in-the-2024-gartner-magic-quadrant-for-voice-of-the-customer.md",
+      "title": "InMoment Named a Leader in the 2024 Gartner® Magic Quadrant™ for Voice of the Customer",
+      "excerpt": "InMoment®, the leading provider of Experience Improvement solutions, has been named a Leader in the 2024 Gartner® Magic Quadrant™ for Voice of the Customer. The company is confident that this recognition solidifies its position as a top choice for organizations considering an investment in customer experience (CX) software .",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2024/02/05/9957349.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2024/02/05/9957349.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/tmc/world.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T16:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-roblox-releases-real-time-ai-chat-translator.md",
+      "title": "Roblox releases real-time AI chat translator",
+      "excerpt": "Other companies are also developing AI translator models. Meta released its speech-to-text and text-to-text translator, SeamlessM4T, which handles nearly 100 languages. Google’s Universal Speech ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2024/2/5/24061495/roblox-generative-ai-chat-translator",
+      "originalUrl": "https://www.theverge.com/2024/2/5/24061495/roblox-generative-ai-chat-translator",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/PtHKyazl1pdxtbTV6SEGyLpqg_U=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24785213/STK146_Roblox_New.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T16:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-artificial-intelligence-ai-in-healthcare-market-worth-1484-billion-by-2029-exclusive-report-by-marketsandmarkets.md",
+      "title": "Artificial Intelligence (AI) in Healthcare Market worth $148.4 billion by 2029 - Exclusive Report by MarketsandMarkets",
+      "excerpt": "id=54679303 Browse in-depth TOC on \"Artificial Intelligence (AI) in Healthcare Market\" 250 - Tables 65 - Figures 280 - Pages Artificial Intelligence (AI) in Healthcare Market Report Scope ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2024-02/61321446-artificial-intelligence-ai-in-healthcare-market-worth-dollar-148-4-billion-by-2029-exclusive-report-by-marketsandmarkets-008.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2024-02/61321446-artificial-intelligence-ai-in-healthcare-market-worth-dollar-148-4-billion-by-2029-exclusive-report-by-marketsandmarkets-008.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T16:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-the-vr-doctor-is-in-cedars-sinai-adds-ai-powered-therapy-app-to-apple-vision-pro-headset.md",
+      "title": "The VR doctor is in: Cedars-Sinai adds AI-powered therapy app to Apple Vision Pro headset",
+      "excerpt": "An app developed by Cedars-Sinai for use with Apple’s new spatial computing headset is putting a new spin on the concept of virtual care. | An app developed by Cedars-Sinai for use with Apple’s new spatial computing headset is putting a new spin on the concept of virtual care.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fiercebiotech.com/medtech/vr-doctor-cedars-sinai-adds-ai-powered-therapy-app-apple-vision-pro-headset",
+      "originalUrl": "https://www.fiercebiotech.com/medtech/vr-doctor-cedars-sinai-adds-ai-powered-therapy-app-apple-vision-pro-headset",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://qtxasset.com/quartz/qcloud5/media/image/cedars-xaia.png?VersionId=jR0pYbaTGXubspINs1ODGmBEBo0_F6dX",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FierceBiotech",
+        "domain": "fiercebiotech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-05-93-have-concerns-about-self-driving-cars-according-to-new-forbes-legal-survey.md",
+      "title": "93% Have Concerns About Self-Driving Cars According to New Forbes Legal Survey",
+      "excerpt": "Vehicles equipped with auto-drive are on the roads today in increasing numbers. While some believe autonomous vehicles will reduce the risk of an auto accident, many others have concerns. To better understand attitudes toward self-driving cars,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/advisor/legal/auto-accident/perception-of-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/advisor/legal/auto-accident/perception-of-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.forbes.com/advisor/wp-content/uploads/2024/02/960x0.jpg",
+          "width": 958,
+          "height": 539,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T15:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-05-a-baby-llama-has-possibly-been-stolen-from-maine-farm.md",
+      "title": "A baby llama has possibly been stolen from Maine farm",
+      "excerpt": "Mainers should be on the lookout for a baby llama that was possibly stolen from a farm in Acton. Acton Animal Control Officer Jim Driscoll was notified Sunday about a possibly stolen llama. He is asking farmers and neighbors in the area of Foxes Ridge and County roads to look out for the animal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bangordailynews.com/2024/02/05/york/york-police-courts/acton-baby-llama-stolen/",
+      "originalUrl": "https://www.bangordailynews.com/2024/02/05/york/york-police-courts/acton-baby-llama-stolen/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bdn-data.s3.amazonaws.com/uploads/2024/02/Acton-Llama-Missing.jpeg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-05T15:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bangor Daily News",
+        "domain": "bangordailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-05-artificial-intelligence-ai-in-healthcare-market-worth-1484-billion-by-2029-exclusive-report-by-marketsandmarkets.md",
       "title": "Artificial Intelligence (AI) in Healthcare Market worth $148.4 billion by 2029 - Exclusive Report by MarketsandMarkets™",
       "excerpt": "AI plays a pivotal role across diverse healthcare applications ... and the potential for personalized treatment strategies. Artificial Intelligence in Manufacturing Market Size, Share & Industry ...",
@@ -809,318 +1119,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-microsoft-in-deal-with-semafor-to-create-news-stories-with-aid-of-ai-chatbot.md",
-      "title": "Microsoft in deal with Semafor to create news stories with aid of AI chatbot",
-      "excerpt": "Semafor co-founder Ben Smith emphasised that Signals will be written entirely by journalists, with artificial intelligence providing a research tool to inform posts. Microsoft on Monday was also ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/b521a662-a272-49a1-b76e-3deea4754b76",
-      "originalUrl": "https://www.ft.com/content/b521a662-a272-49a1-b76e-3deea4754b76",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-05T02:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-bell-to-deploy-deep-learning-ai-on-systems-and-data-in-18-month-partnership-with-mila.md",
-      "title": "Bell to Deploy Deep Learning AI on Systems and Data in 18-Month Partnership With Mila",
-      "excerpt": "Mila and Bell are pleased to announce an 18-month collaborative project to apply deep learning neural network algorithms to Bell's systems and data",
-      "sourceUrl": null,
-      "webUrl": "https://www.thefastmode.com/technology-solutions/34822-bell-to-deploy-deep-learning-ai-on-systems-and-data-in-18-month-partnership-with-mila",
-      "originalUrl": "https://www.thefastmode.com/technology-solutions/34822-bell-to-deploy-deep-learning-ai-on-systems-and-data-in-18-month-partnership-with-mila",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thefastmode.com/media/k2/items/src/15ff7f43bd0cc2d1cd56f576e4b3d532.jpg?t=20240205_014804",
-          "width": 753,
-          "height": 408,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-05T01:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deep",
-        "domain": "thefastmode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-aisee-wearable-tells-blind-users-what-theyre-holding-in-their-hand.md",
-      "title": "AiSee wearable tells blind users what they're holding in their hand",
-      "excerpt": "The scientists are now working on making the technology more affordable and ergonomic, plus they hope to boost the processing speed and improve the object recognition algorithms. \"At present ...",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/wearables/aisee-wearable-blind-object-recognition",
-      "originalUrl": "https://newatlas.com/wearables/aisee-wearable-blind-object-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/eea6137/2147483647/strip/true/crop/6720x3528+0+476/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F47%2F3a%2Fce765bcb47b2bd2cb9430ad429be%2Fhoto201.jpeg&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-05T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-best-robot-mops-of-2024.md",
-      "title": "Best Robot Mops of 2024",
-      "excerpt": "Designed with pet owners in mind, the Shark Matrix Plus is a 2-in ... Many are accompanied by a smartphone app that allows you to control your mop and schedule cleanings remotely via Wi-Fi. Some robot mops use a combination of AI and 3D technology to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/360-reviews/home-goods/best-robot-mops",
-      "originalUrl": "https://www.usnews.com/360-reviews/home-goods/best-robot-mops",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-05T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-elon-musks-neuralink-implanted-its-first-brain-chip-in-a-humans-skull-heres-what-we-know-about-the-surgery.md",
-      "title": "Elon Musk's Neuralink implanted its first brain chip in a human's skull. Here's what we know about the surgery.",
-      "excerpt": "The billionaire said the company's first product will be called Telepathy and will allow users to control their phone ... That's where a robot comes in. The device can only be inserted into ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/neuralink-will-take-25-minutes-insert-brain-elon-musk-reportedly-2023-11",
-      "originalUrl": "https://www.businessinsider.com/neuralink-will-take-25-minutes-insert-brain-elon-musk-reportedly-2023-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65bbf2426fcb546d2d4b3f1c?width=1200&format=jpeg",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/neuralink-will-take-25-minutes-insert-brain-elon-musk-reportedly-2023-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/neuralink-will-take-25-minutes-insert-brain-elon-musk-reportedly-2023-11?amp",
-      "publishedDateTime": "2024-02-05T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-roblox-adds-instantaneous-text-translation-plans-to-translate-voices-using-ai-in-future.md",
-      "title": "Roblox adds instantaneous text translation, plans to translate voices using AI in future",
-      "excerpt": "Roblox is today introducing a new AI feature that will translate a user's real-time text into other languages. Following this, the Roblox team has plans for a feature which will translate voices ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurogamer.net/roblox-adds-instantaneous-text-translation-plans-to-translate-voices-using-ai-in-future",
-      "originalUrl": "https://www.eurogamer.net/roblox-adds-instantaneous-text-translation-plans-to-translate-voices-using-ai-in-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assetsio.reedpopcdn.com/English-__-Korean-Translation-Render-V2.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-05T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eurogamer",
-        "domain": "eurogamer.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-scientists-use-ai-to-investigate-structure-and-long-term-behavior-of-galaxies.md",
-      "title": "Scientists use AI to investigate structure and long-term behavior of galaxies",
-      "excerpt": "Their innovative approach uses a deep neural network to quickly predict the stability of galaxy models. This artificial intelligence-based method enables efficient verification or falsification of ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2024-02-scientists-ai-term-behavior-galaxies.html",
-      "originalUrl": "https://phys.org/news/2024-02-scientists-ai-term-behavior-galaxies.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2024/scientists-use-artific.jpg",
-          "width": 2880,
-          "height": 2160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2024-02-scientists-ai-term-behavior-galaxies.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2024-02-scientists-ai-term-behavior-galaxies.amp",
-      "publishedDateTime": "2024-02-05T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

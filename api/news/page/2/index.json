@@ -2,6 +2,257 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-03-12-empathy-closes-47m-for-ai-to-help-with-the-practical-and-emotional-bereavement-process.md",
+      "title": "Empathy closes $47M for AI to help with the practical and emotional bereavement process",
+      "excerpt": "Although there have been a lot of efforts made in the area of considering what role AI can play in empathy (with a little “e”) the startup Empathy, Gura said, remains focused on keeping a human team in place for that aspect of its service, focusing ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/03/12/empathy-berevement-death-ai/",
+      "originalUrl": "https://techcrunch.com/2024/03/12/empathy-berevement-death-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/04/15990492171_d21c81e484_k.jpg?resize=1200,655",
+          "width": 1200,
+          "height": 655,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/03/12/empathy-berevement-death-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/empathy-berevement-death-ai/amp/",
+      "publishedDateTime": "2024-03-12T13:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-google-wont-let-you-use-its-ai-to-answer-questions-about-an-upcoming-election-in-your-country.md",
+      "title": "Google won’t let you use its AI to answer questions about an upcoming election in your country",
+      "excerpt": "After facing some backlash from global VCs and AI startup founders, the Indian government clarified that the restriction was for “significant” tech companies and not for startups. The advisory followed a mini-scandal over Gemini and the Indian ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/03/12/google-gemini-election-related-queries/",
+      "originalUrl": "https://techcrunch.com/2024/03/12/google-gemini-election-related-queries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/03/google-gemini.jpg?w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/03/12/google-gemini-election-related-queries/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/google-gemini-election-related-queries/amp/",
+      "publishedDateTime": "2024-03-12T12:48:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-science-offers-a-new-way-to-save-birds-from-the-jaws-of-wind-turbines.md",
+      "title": "Science Offers A New Way To Save Birds From The Jaws Of Wind Turbines",
+      "excerpt": "Many migratory birds die each year flying into the blades of our wind farms. Weather radar data is showing us how we can be nicer to our sky-fairing friends.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/scotttravers/2024/03/12/science-offers-a-new-way-to-save-birds-from-the-jaws-of-wind-turbines/",
+      "originalUrl": "https://www.forbes.com/sites/scotttravers/2024/03/12/science-offers-a-new-way-to-save-birds-from-the-jaws-of-wind-turbines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e9e260d2b8171cfa7a3de2/0x0.jpg?format=jpg&crop=2751,1290,x0,y171,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/scotttravers/2024/03/12/science-offers-a-new-way-to-save-birds-from-the-jaws-of-wind-turbines/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/scotttravers/2024/03/12/science-offers-a-new-way-to-save-birds-from-the-jaws-of-wind-turbines/amp/",
+      "publishedDateTime": "2024-03-12T12:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-how-utilities-can-prepare-for-extreme-weather-with-data-and-ai.md",
+      "title": "How utilities can prepare for extreme weather with data and AI",
+      "excerpt": "Today, utilities are meeting these challenges and risks with innovation by leaning on data and AI to prepare for the next event.\nThe post How utilities can prepare for extreme weather with data and AI appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-utilities-can-prepare-for-extreme-weather-with-data-and-ai/",
+      "originalUrl": "https://www.ibm.com/blog/how-utilities-can-prepare-for-extreme-weather-with-data-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-12T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-why-enterprises-are-learning-to-love-nanonets-automation.md",
+      "title": "Why Enterprises Are Learning To Love Nanonets’ Automation",
+      "excerpt": "Nanonets has raised $29 million in a Series B round that will support the growth of the machine learning and automation specialist",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidprosser/2024/03/12/why-enterprises-are-learning-to-love-nanonets-automation/",
+      "originalUrl": "https://www.forbes.com/sites/davidprosser/2024/03/12/why-enterprises-are-learning-to-love-nanonets-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ef20424217d681add18649/0x0.jpg?format=jpg&crop=2324,1088,x0,y139,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 749,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-12T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2024-03-12-bridging-the-trust-gap-in-workplace-ai.md",
       "title": "Bridging The Trust Gap In Workplace AI",
       "excerpt": "A key element of the AI trust gap is not so much about technology but about whether the motivations around its appeal are mutually aligned and beneficial.",
@@ -61,7 +312,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2024/03/12/prompt-engineering-technique-known-as-the-step-around-is-gaining-steam-as-generative-ai-becomes-less-forthright/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -147,58 +398,6 @@
         "AI in Robotics",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-chatgpt-and-generative-ai-innovations-are-creating-sustainability-havoc.md",
-      "title": "ChatGPT And Generative AI Innovations Are Creating Sustainability Havoc",
-      "excerpt": "This article discusses the risks of ChatGPT and Generative AI innovations are having on sustainability goals and highlights the energy and water consumption risks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2024/03/12/chatgpt-and-generative-ai-innovations-are-creating-sustainability-havoc/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2024/03/12/chatgpt-and-generative-ai-innovations-are-creating-sustainability-havoc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65f031a4a360eaa0853ec14c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-12T10:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -435,6 +634,57 @@
       ]
     },
     {
+      "path": "_news/2024-03-12-how-ai-has-already-changed-coding-forever.md",
+      "title": "How AI has already changed coding forever",
+      "excerpt": "AI coding tools such as Amazon CodeWhisperer and GitHub Copilot boost the productivity of pro and novice developers alike. They’re only the beginning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3714361/how-ai-has-already-changed-coding-forever.html",
+      "originalUrl": "https://www.infoworld.com/article/3714361/how-ai-has-already-changed-coding-forever.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2014/03/166160844-100249187-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3714361/how-ai-has-already-changed-coding-forever.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3714361/how-ai-has-already-changed-coding-forever.amp.html",
+      "publishedDateTime": "2024-03-12T09:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-12-this-startup-says-it-can-beat-deepminds-gamechanging-protein-ai.md",
       "title": "This Startup Says It Can Beat Deepmind’s Gamechanging Protein AI",
       "excerpt": "Basecamp Research says its software platform can better predict the way proteins behave — not with better algorithms, but with higher-quality data.",
@@ -582,6 +832,49 @@
       ]
     },
     {
+      "path": "_news/2024-03-12-gemini-ai-image-generation-tool-to-be-back-after-improved-accuracy.md",
+      "title": "Gemini AI Image Generation Tool to be Back After Improved Accuracy",
+      "excerpt": "Google DeepMind CEO Demis Hassabis plans to reintroduce the Gemini AI image generation tool, addressing inaccuracies and ensuring improved performance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/technology/tech-news/gemini-ai-image-generation-tool-to-be-back-after-improved-accuracy-864311",
+      "originalUrl": "https://www.thehansindia.com/technology/tech-news/gemini-ai-image-generation-tool-to-be-back-after-improved-accuracy-864311",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2024/03/12/1429542-gemini.jpg",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/technology/tech-news/gemini-ai-image-generation-tool-to-be-back-after-improved-accuracy-864311",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/gemini-ai-image-generation-tool-to-be-back-after-improved-accuracy-864311",
+      "publishedDateTime": "2024-03-12T05:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-12-french-startup-nijta-hopes-to-protect-voice-privacy-in-ai-use-cases.md",
       "title": "French startup Nijta hopes to protect voice privacy in AI use cases",
       "excerpt": "France-based startup Nijta, whose flagship product Voice Harbor anonimizes voices for AI, raised €2 million in funding from various sources, including deep tech VC fund Elaia.",
@@ -642,7 +935,7 @@
       "originalUrl": "https://www.forbes.com/sites/melissadaimler/2024/03/11/clarity-alignment-and-empowermentleadership-skills-in-the-age-of-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -745,7 +1038,7 @@
       "originalUrl": "https://techcrunch.com/2024/03/12/glacier-is-training-ai-powered-recycling-robots/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -797,7 +1090,7 @@
       "originalUrl": "https://www.businessinsider.com/microsoft-insiders-worry-company-has-become-just-it-for-openai-2024-3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -916,318 +1209,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-how-to-use-google-gemini-the-main-challenger-to-chatgpt.md",
-      "title": "How to use Google Gemini, the main challenger to ChatGPT",
-      "excerpt": "Gemini Advanced is Google’s paid chatbot version that costs $20 per month and comes with a host of perks under the Google One AI Premium subscription tier. Gemini Advanced runs the Gemini Ultra 1.0 language model, which excels at understanding longer prompts and the context of previous prompts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/how-to-use-google-gemini/",
-      "originalUrl": "https://www.digitaltrends.com/computing/how-to-use-google-gemini/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 298,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/12/google-gemini-logo.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/how-to-use-google-gemini/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-use-google-gemini/?amp",
-      "publishedDateTime": "2024-03-11T21:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-the-future-of-supply-chain-technology-a-shift-toward-intelligent-systems.md",
-      "title": "The Future Of Supply Chain Technology: A Shift Toward Intelligent Systems",
-      "excerpt": "Today's new supply chain business intelligence capability provides an actionable data-driven experience, such as interactive reports and dashboards, for procurement, operations, and reliability teams, from senior management to front-line workers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/paulnoble/2024/03/11/the-future-of-supply-chain-technology-a-shift-toward-intelligent-systems/",
-      "originalUrl": "https://www.forbes.com/sites/paulnoble/2024/03/11/the-future-of-supply-chain-technology-a-shift-toward-intelligent-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65ef6d5376c194337d9ecfe3/0x0.jpg?format=jpg&crop=2293,1288,x12,y0,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/paulnoble/2024/03/11/the-future-of-supply-chain-technology-a-shift-toward-intelligent-systems/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulnoble/2024/03/11/the-future-of-supply-chain-technology-a-shift-toward-intelligent-systems/amp/",
-      "publishedDateTime": "2024-03-11T20:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-new-ai-and-5g-advancements-will-usher-in-the-era-of-edge-computing-on-smartphones-autonomous-cars-and-more.md",
-      "title": "New AI and 5G advancements will usher in the era of edge computing on smartphones, autonomous cars, and more",
-      "excerpt": "The edge-computing boom could reduce costs and the environmental impact of powering AI — and it's just getting started.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-edge-computing-5g-cloud-artificial-intelligence-2024-3",
-      "originalUrl": "https://www.businessinsider.com/ai-edge-computing-5g-cloud-artificial-intelligence-2024-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65ef131d90413ab8e1db559d?width=750&format=jpeg&auto=webp",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-edge-computing-5g-cloud-artificial-intelligence-2024-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-edge-computing-5g-cloud-artificial-intelligence-2024-3?amp",
-      "publishedDateTime": "2024-03-11T20:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-ug-labs-raises-7m-to-infuse-conversational-ai-into-games-for-kids.md",
-      "title": "UG Labs raises $7M to infuse conversational AI into games for kids",
-      "excerpt": "UG Labs has raised $7 million in funding to infuse conversational AI and voice interactivity into games for kids.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/ug-labs-raises-7m-to-infuse-conversational-ai-into-games-for-kids/",
-      "originalUrl": "https://venturebeat.com/games/ug-labs-raises-7m-to-infuse-conversational-ai-into-games-for-kids/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/03/ug-labs-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-11T20:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-ai-gpus-and-focus-7-takeaways-from-the-amd-ceo-lisu-sus-sxsw-keynote.md",
-      "title": "AI, GPUs, and focus: 7 takeaways from the AMD CEO Lisu Su’s SXSW keynote",
-      "excerpt": "In a conversation at SXSW, AMD CEO Dr. Lisa Su talks about using AI in business and in her personal life, lessons she learned, and even how she stays in shape.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/2262634/amds-lisa-su-gets-candid-in-ai-go-slow-is-not-the-answer.html",
-      "originalUrl": "https://www.pcworld.com/article/2262634/amds-lisa-su-gets-candid-in-ai-go-slow-is-not-the-answer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcworld.com/wp-content/uploads/2024/03/lisa-su-3d-ryzen-5700x3d.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-11T20:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-how-ai-enabled-smart-carts-can-bring-retail-into-the-21st-century.md",
-      "title": "How AI Enabled Smart Carts Can Bring Retail Into The 21st Century",
-      "excerpt": "Self-checkout educated the industry about engaging consumers with a carrot—not a stick...can the spending on self-checkout stations be better allocated elsewhere?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/deandebiase/2024/03/11/how-ai-enabled-smart-carts-can-bring-retail-into-the-21st-century/",
-      "originalUrl": "https://www.forbes.com/sites/deandebiase/2024/03/11/how-ai-enabled-smart-carts-can-bring-retail-into-the-21st-century/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65ef53c0e958f63017112e15/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1288,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-11T20:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

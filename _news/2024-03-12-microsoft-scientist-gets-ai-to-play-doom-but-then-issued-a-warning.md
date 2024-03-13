@@ -45,23 +45,12 @@ related:
     provider:
       name: Computerworld
       domain: computerworld.com
-    quality: 74
+    quality: 76
     images:
       - url: "https://images.idgesg.net/images/article/2024/03/samsung-galaxy-book-100962432-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 810
         isCached: true
-  - title: "Sonata Software integrates its AI solution with Microsoft Azure AI"
-    excerpt: "Sonata Software has announced the integration of its Harmoni.AI with Microsoft Azure AI service. Sonata’s AI offering provides industry solutions, service delivery platforms, and accelerators. Using Microsoft Azure AI services, Sonata Harmoni.AI will ..."
-    publishedDateTime: 2024-03-08T06:14:00Z
-    webUrl: "https://www.thehindubusinessline.com/markets/stock-markets/sonata-software-integrates-its-ai-solution-with-microsoft-azure-ai/article67927950.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/markets/stock-markets/sonata-software-integrates-its-ai-solution-with-microsoft-azure-ai/article67927950.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/markets/stock-markets/sonata-software-integrates-its-ai-solution-with-microsoft-azure-ai/article67927950.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 69
   - title: "HIMSS24: Microsoft launches AI group with 16 health systems"
     excerpt: "Microsoft said the group would create a process where providers can register for the usage of AI in clinical settings and offer tools to enable measurement of outcomes associated with the technology."
     publishedDateTime: 2024-03-11T14:28:00Z

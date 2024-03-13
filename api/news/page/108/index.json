@@ -2,6 +2,343 @@
   "page": 108,
   "value": [
     {
+      "path": "_news/2023-12-12-toss-yourself-in-front-of-a-moving-car-in-this-wild-indie-game.md",
+      "title": "Toss Yourself In Front Of A Moving Car In This Wild Indie Game",
+      "excerpt": "We may earn a commission from links on this page. How (Not) To Get Hit By A Self-Driving Car first appeared at Playable City Bristol in July 2023. Photo: Luke O’Donovan This time, I know I’m ...",
+      "sourceUrl": null,
+      "webUrl": "https://kotaku.com/how-not-get-hit-self-driving-car-ai-indie-game-day-devs-1851090918",
+      "originalUrl": "https://kotaku.com/how-not-get-hit-self-driving-car-ai-indie-game-day-devs-1851090918",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/3b1693d3a8f33fc24ea38a9da9abb432.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-12T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kotaku",
+        "domain": "kotaku.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-12-sports-illustrated-publisher-fires-ceo-after-ai-debacle.md",
+      "title": "Sports Illustrated publisher fires CEO after AI debacle",
+      "excerpt": "Digital publisher The Arena Group, which operates household brands such as Sports Illustrated and The Street, fired its chief executive on Monday amid a larger C-suite bloodbath, a spokesperson for the company told CNN.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2023/12/11/media/sports-illustrated-ai-articles-ceo/index.html",
+      "originalUrl": "https://www.cnn.com/2023/12/11/media/sports-illustrated-ai-articles-ceo/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/231211172440-ross-levinsohn-ceo-12062023.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2023/12/11/media/sports-illustrated-ai-articles-ceo/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2023/12/11/media/sports-illustrated-ai-articles-ceo/index.html",
+      "publishedDateTime": "2023-12-11T22:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-12-mistral-shocks-ai-community-as-latest-open-source-model-eclipses-gpt-35-performance.md",
+      "title": "Mistral shocks AI community as latest open source model eclipses GPT-3.5 performance",
+      "excerpt": "Mistral, the most well-seeded startup in European history and a French company dedicated to pursuing open source AI models and large language models (LLMs), has struck gold with its latest release — at least among the early adopter/AI influencer crowd on X and LinkedIn.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/mistral-shocks-ai-community-as-latest-open-source-model-eclipses-gpt-3-5-performance/",
+      "originalUrl": "https://venturebeat.com/ai/mistral-shocks-ai-community-as-latest-open-source-model-eclipses-gpt-3-5-performance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/12/cfr0z3n_crowds_of_tourists_react_in_shock_and_amazement_as_the__cd64e435-492c-4397-94c0-1d5119160375.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-11T21:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-12-how-aws-plans-to-cope-with-genais-insatiable-desire-for-compute.md",
+      "title": "How AWS Plans to Cope with GenAI’s Insatiable Desire for Compute",
+      "excerpt": "Companies that toyed around with generative AI this year will be looking to play for keeps in 2024 with production GenAI apps that move the business",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/2023/12/11/how-aws-plans-to-cope-with-genais-insatiable-desire-for-compute/",
+      "originalUrl": "https://www.datanami.com/2023/12/11/how-aws-plans-to-cope-with-genais-insatiable-desire-for-compute/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.datanami.com/wp-content/uploads/2023/12/Nvidia_h100.png",
+          "width": 1260,
+          "height": 709,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-11T21:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-12-5-blue-chip-growth-stocks-to-buy-for-2024.md",
+      "title": "5 Blue-Chip Growth Stocks to Buy for 2024",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips This article is an excerpt from the InvestorPlace Digest newsletter. To get",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/5-blue-chip-growth-stocks-to-buy-for-2024-1032890940",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/5-blue-chip-growth-stocks-to-buy-for-2024-1032890940",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2023/12/fredgraph.png",
+          "width": 959,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-11T21:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-12-midjourney-vs-dall-e-2-ai-image-generators-comparison.md",
+      "title": "Midjourney vs. Dall-E 2: AI Image Generators Comparison",
+      "excerpt": "Explore our in-depth comparison of Midjourney and Dall-E 2. Learn about their unique features and find out which one is best suited for your creative projects.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/midjourney-vs-dall-e/",
+      "originalUrl": "https://www.techrepublic.com/article/midjourney-vs-dall-e/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/12/AdobeStock_638686268.jpeg",
+          "width": 1400,
+          "height": 784,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-11T20:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-12-12-us-discusses-ai-chip-sales-to-china-with-nvidia-says-raimondo.md",
+      "title": "U.S. discusses AI Chip sales to China with Nvidia, says Raimondo",
+      "excerpt": "The U.S. government is currently in talks with NVIDIA (NVDA) regarding the conditions under which it can sell AI chips to China. The administration has made it clear that Nvidia (NASDAQ: NVDA) is not allowed to export its most sophisticated semiconductors to Chinese companies.",
+      "sourceUrl": null,
+      "webUrl": "https://au.investing.com/news/stock-market-news/us-discusses-ai-chip-sales-to-china-with-nvidia-says-raimondo-432SI-3060981",
+      "originalUrl": "https://au.investing.com/news/stock-market-news/us-discusses-ai-chip-sales-to-china-with-nvidia-says-raimondo-432SI-3060981",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 231,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i-invdn-com.investing.com/news/moved_LYNXMPEHAH0WT_L.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://m.au.investing.com/news/stock-market-news/us-discusses-ai-chip-sales-to-china-with-nvidia-says-raimondo-432SI-3060981?ampMode=1",
+      "cdnAmpWebUrl": "https://m-au-investing-com.cdn.ampproject.org/c/s/m.au.investing.com/news/stock-market-news/us-discusses-ai-chip-sales-to-china-with-nvidia-says-raimondo-432SI-3060981?ampMode=1",
+      "publishedDateTime": "2023-12-11T20:36:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investing",
+        "domain": "investing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2023-12-12-nvidia-contemplates-intel-as-potential-manufacturing-partner-for-gpu-and-ai-chips.md",
       "title": "Nvidia contemplates Intel as potential manufacturing partner for GPU and AI chips",
       "excerpt": "Nvidia GPUs held more than 70 percent of the data center processor market share in the latest quarter, with the majority of chips being manufactured by",
@@ -803,314 +1140,6 @@
         "Computer Vision",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-bigbearai-expands-its-relationship-with-aws-to-deliver-ai-driven-solutions.md",
-      "title": "BigBear.ai Expands its Relationship with AWS to Deliver AI-Driven Solutions",
-      "excerpt": "BigBear.ai continues to expand its capabilities to serve the commercial enterprise sector and is proud to advance this new effort with AWS.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2023/12/11/9931286.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2023/12/11/9931286.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.tmcnet.com/tmc/world.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-11T13:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-get-your-it-team-battle-ready-for-the-next-holiday-rush.md",
-      "title": "Get your IT team battle-ready for the next holiday rush ",
-      "excerpt": "Consider an AI-powered approach to incident management to diagnose, handle and react to online outages during peak shopping periods.\nThe post Get your IT team battle-ready for the next holiday rush  appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/get-your-it-team-battle-ready-for-the-next-holiday-rush/",
-      "originalUrl": "https://www.ibm.com/blog/get-your-it-team-battle-ready-for-the-next-holiday-rush/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-11T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-ibm-app-connect-the-sustainability-tool-you-didnt-know-you-needed.md",
-      "title": "IBM App Connect: The sustainability tool you didn’t know you needed",
-      "excerpt": "IBM App Connect allows organizations to easily connect applications and data, whether on premise, on public or private cloud.\nThe post IBM App Connect: The sustainability tool you didn’t know you needed appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ibm-app-connect-the-sustainability-tool-you-didnt-know-you-needed/",
-      "originalUrl": "https://www.ibm.com/blog/ibm-app-connect-the-sustainability-tool-you-didnt-know-you-needed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-11T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-artificial-intelligence-ai-can-teach-math-teachers-how-to-improve-student-skills.md",
-      "title": "Artificial intelligence (AI) can teach math teachers how to improve student skills",
-      "excerpt": "When teachers completed a programme that uses artificial intelligence (AI) to improve their teaching skills, their students’ math performance improved.",
-      "sourceUrl": null,
-      "webUrl": "https://tech.hindustantimes.com/opinion/artificial-intelligence-ai-can-teach-math-teachers-how-to-improve-student-skills-71702226604984.html",
-      "originalUrl": "https://tech.hindustantimes.com/opinion/artificial-intelligence-ai-can-teach-math-teachers-how-to-improve-student-skills-71702226604984.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/tech/img/2023/12/11/1600x900/g5a0a2d99_1702257168240_1702257168559.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://tech.hindustantimes.com/amp/opinion/artificial-intelligence-ai-can-teach-math-teachers-how-to-improve-student-skills-71702226604984.html",
-      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/opinion/artificial-intelligence-ai-can-teach-math-teachers-how-to-improve-student-skills-71702226604984.html",
-      "publishedDateTime": "2023-12-11T12:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times Tech",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-ai-enhanced-people-development-opens-a-new-path-to-business-growth.md",
-      "title": "AI-Enhanced People Development Opens A New Path To Business Growth",
-      "excerpt": "To navigate HR challenges effectively, a transformative approach to people development, enhanced by AI, is essential.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sap/2023/12/11/ai-enhanced-people-development-opens-a-new-path-to-business-growth/",
-      "originalUrl": "https://www.forbes.com/sites/sap/2023/12/11/ai-enhanced-people-development-opens-a-new-path-to-business-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6532e0312d062fcdd9bd90bf/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 780,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sap/2023/12/11/ai-enhanced-people-development-opens-a-new-path-to-business-growth/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2023/12/11/ai-enhanced-people-development-opens-a-new-path-to-business-growth/amp/",
-      "publishedDateTime": "2023-12-11T12:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-amazon-robotics-founding-engineer-andrew-hoffman-joins-gather-ai-as-cto-as-company-supercharges-growth.md",
-      "title": "Amazon Robotics Founding Engineer, Andrew Hoffman, Joins Gather AI as CTO as Company Supercharges Growth",
-      "excerpt": "Gather AI welcomes Andrew Hoffman as Chief Technology Officer (CTO). Gather AI offers AI-powered autonomous inventory management solutions for w",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20231211755402/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20231211755402/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-11T11:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-11-heres-how-the-famous-dodo-verdict-or-tie-score-effect-in-mental-health-therapy-can-astutely-leverage-generative-ai.md",
-      "title": "Here’s How The Famous Dodo Verdict Or Tie Score Effect In Mental Health Therapy Can Astutely Leverage Generative AI",
-      "excerpt": "There is a famous controversy known as the Dodo bird verdict regarding mental health therapies. I introduce the matter and discuss how generative AI comes into play.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2023/12/11/heres-how-the-famous-dodo-verdict-or-tie-score-effect-in-mental-health-therapy-can-astutely-leverage-generative-ai/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2023/12/11/heres-how-the-famous-dodo-verdict-or-tie-score-effect-in-mental-health-therapy-can-astutely-leverage-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6576b7e44e4ea706c2e5def1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2023/12/11/heres-how-the-famous-dodo-verdict-or-tie-score-effect-in-mental-health-therapy-can-astutely-leverage-generative-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2023/12/11/heres-how-the-famous-dodo-verdict-or-tie-score-effect-in-mental-health-therapy-can-astutely-leverage-generative-ai/amp/",
-      "publishedDateTime": "2023-12-11T11:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

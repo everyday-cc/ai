@@ -2,6 +2,357 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2024-01-24-everestlabs-harnesses-ai-robots-to-sort-more-recyclables-per-minute.md",
+      "title": "EverestLabs Harnesses AI Robots To Sort More Recyclables Per Minute",
+      "excerpt": "As in a robot that uses the technology to sort aluminum cans with at least 80% accuracy, picking out recyclables on a conveyor belt at a rate of 60 cans per minute.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jeffkart/2024/01/23/everestlabs-harnesses-ai-robots-to-sort-more-recyclables-per-minute/",
+      "originalUrl": "https://www.forbes.com/sites/jeffkart/2024/01/23/everestlabs-harnesses-ai-robots-to-sort-more-recyclables-per-minute/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b000c0b54ee6beaea1468b/0x0.jpg?format=jpg&crop=2387,1342,x7,y0,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jeffkart/2024/01/23/everestlabs-harnesses-ai-robots-to-sort-more-recyclables-per-minute/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffkart/2024/01/23/everestlabs-harnesses-ai-robots-to-sort-more-recyclables-per-minute/amp/",
+      "publishedDateTime": "2024-01-23T21:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-24-teslas-own-former-ai-engineer-trolls-the-company-full-self-wiping.md",
+      "title": "Tesla’s own former AI engineer trolls the company: ‘full self-wiping’",
+      "excerpt": "Tesla’s own former head of AI infrastructure, Tim Zaman, is impressed with the latest FSD v12 Full Self-Driving software, but he trolls the company’s AI effort. Up until last year, Tim Zaman was the head of AI infrastructure and platform at Tesla ...",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2024/01/23/tesla-own-former-ai-engineer-trolls-full-self-wiping/",
+      "originalUrl": "https://electrek.co/2024/01/23/tesla-own-former-ai-engineer-trolls-full-self-wiping/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/03/Tesla-Model-3-Rain.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-23T21:11:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-24-texas-man-sues-macys-and-sunglass-hut-parent-over-wrongful-arrest-linked-to-facial-recognition.md",
+      "title": "Texas man sues Macy’s and Sunglass Hut parent over wrongful arrest linked to facial recognition",
+      "excerpt": "A Texas man is suing Macy’s and the parent company of Sunglass Hut after the two companies allegedly relied on error-prone facial recognition technology to falsely accuse him of armed robbery.",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/2024/01/23/tech/texas-man-sues-macys-sunglass-hut-facial-recognition/index.html",
+      "originalUrl": "https://edition.cnn.com/2024/01/23/tech/texas-man-sues-macys-sunglass-hut-facial-recognition/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-135637528.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2024/01/23/tech/texas-man-sues-macys-sunglass-hut-facial-recognition/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2024/01/23/tech/texas-man-sues-macys-sunglass-hut-facial-recognition/index.html",
+      "publishedDateTime": "2024-01-23T20:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-24-phew-ai-wont-take-your-job-just-yet-mit-data-finds-but-theres-a-caveat.md",
+      "title": "Phew! AI Won't Take Your Job Just Yet, MIT Data Finds — But There's A Caveat",
+      "excerpt": "Researchers at MIT conclude that the fear of job displacement by AI may be exaggerated, as human labor is still cheaper in most cases.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/etf/phew-ai-won-t-take-your-job-just-yet-mit-data-finds-—-but-there-s-a-caveat-1032989145",
+      "originalUrl": "https://markets.businessinsider.com/news/etf/phew-ai-won-t-take-your-job-just-yet-mit-data-finds-—-but-there-s-a-caveat-1032989145",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/AI-CEO_0.png",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-23T18:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-24-ai-startups-margin-profile-could-ding-their-long-term-worth.md",
+      "title": "AI startups’ margin profile could ding their long-term worth",
+      "excerpt": "The fact that Anthropic, a leading AI startup that has raised billions of dollars, reportedly had gross margins of 50% to 55% last December, underscores the costs of building and running modern AI models, and hints that AI-focused startups have a different ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/01/23/ai-startups-margins-low-valuations/",
+      "originalUrl": "https://techcrunch.com/2024/01/23/ai-startups-margins-low-valuations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/10/puzzle-ai-triptych-01.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-23T18:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-24-what-ai-means-for-networking-infrastructure-in-2024.md",
+      "title": "What AI Means For Networking Infrastructure In 2024",
+      "excerpt": "The giant in the space, of course, is Nvidia, which has the most complete infrastructure stack for AI, including software, chips, data processing units (DPUs), SmartNICs, and networking. One of the ongoing discussions is the role of InfiniBand, a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rscottraynovich/2024/01/23/what-ai-means-for-networking-infrastructure-in-2024/",
+      "originalUrl": "https://www.forbes.com/sites/rscottraynovich/2024/01/23/what-ai-means-for-networking-infrastructure-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b039027e9d2a1798f08f1c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 648,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rscottraynovich/2024/01/23/what-ai-means-for-networking-infrastructure-in-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rscottraynovich/2024/01/23/what-ai-means-for-networking-infrastructure-in-2024/amp/",
+      "publishedDateTime": "2024-01-23T18:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-23-procurement-transformation-why-excellence-matters.md",
+      "title": "Procurement transformation: Why excellence matters",
+      "excerpt": "Increase profitability, enhance service outcomes, build customer satisfaction and ensure suppliers deliver high-quality goods and services.\nThe post Procurement transformation: Why excellence matters appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/procurement-transformation-why-excellence-matters/",
+      "originalUrl": "https://www.ibm.com/blog/procurement-transformation-why-excellence-matters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-23T16:27:14Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-23-delaware-lawmakers-seek-rules-for-artificial-intelligence.md",
       "title": "Delaware lawmakers seek rules for artificial intelligence",
       "excerpt": "Companies are using artificial intelligence tools to produce various documents, from term papers to home mortgages, but the technology has raised concerns about plagiarism, misinformation, racism",
@@ -879,315 +1230,6 @@
       "topics": [
         "AI",
         "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-singapore-financial-data-startup-raises-65-million-series-a-to-double-down-on-ai.md",
-      "title": "Singapore Financial Data Startup Raises $6.5 Million Series A To Double Down On AI",
-      "excerpt": "Bluesheets develops AI-powered data entry and management tools that aim to help companies process their financial data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/catherinewang/2024/01/23/singapore-financial-data-startup-raises-65-million-series-a-to-double-down-on-ai/",
-      "originalUrl": "https://www.forbes.com/sites/catherinewang/2024/01/23/singapore-financial-data-startup-raises-65-million-series-a-to-double-down-on-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65af5f688aa1647475d4700c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-23T08:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-aws-rival-wasabi-acquires-curio-ai-to-add-intelligence-to-its-unlimited-cloud-storage-offering.md",
-      "title": "AWS rival Wasabi acquires Curio AI to add intelligence to its unlimited cloud storage offering",
-      "excerpt": "Boston-based Wasabi Technologies, a data storage startup taking on the likes of AWS, GCP and other cloud vendors, today announced it has acquired machine learning platform Curio AI from GrayMeta ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/data-infrastructure/aws-rival-wasabi-acquires-curio-ai-to-add-intelligence-to-its-unlimited-cloud-storage-offering/",
-      "originalUrl": "https://venturebeat.com/data-infrastructure/aws-rival-wasabi-acquires-curio-ai-to-add-intelligence-to-its-unlimited-cloud-storage-offering/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-23T07:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-new-survey-results-reveal-key-findings-on-the-effects-of-ai-translation-and-localization-for-global-businesses.md",
-      "title": "New Survey Results Reveal Key Findings on the Effects of AI Translation and Localization for Global Businesses",
-      "excerpt": "Leading AI language company DeepL has announced the results of a new survey, which explores the processes of AI translation and localization for global businesses. The survey, which polled ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eagletribune.com/region/new-survey-results-reveal-key-findings-on-the-effects-of-ai-translation-and-localization-for/article_e110e5e9-393b-5b2d-bef0-89922d0b4cda.html",
-      "originalUrl": "https://www.eagletribune.com/region/new-survey-results-reveal-key-findings-on-the-effects-of-ai-translation-and-localization-for/article_e110e5e9-393b-5b2d-bef0-89922d0b4cda.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333",
-          "width": 600,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-23T07:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eagle-Tribune",
-        "domain": "eagletribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-3-ways-you-can-help-your-student-navigate-artificial-intelligence.md",
-      "title": "3 ways you can help your student navigate artificial intelligence",
-      "excerpt": "Artificial Intelligence (AI) is changing the world as we know it. OpenAI’s ChatGPT became the fastest-growing consumer application in history, after reaching 100 million monthly active users ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/opinion/3-ways-you-can-help-your-student-navigate-artificial-intelligence",
-      "originalUrl": "https://www.foxnews.com/opinion/3-ways-you-can-help-your-student-navigate-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-23T07:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-kaist-research-team-breaks-down-musical-instincts-with-ai.md",
-      "title": "KAIST Research Team Breaks Down Musical Instincts with AI",
-      "excerpt": "A KAIST research team led by Professor Hawoong Jung from the Department of Physics announced to have identified the principle by which musical",
-      "sourceUrl": null,
-      "webUrl": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/241787",
-      "originalUrl": "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/241787",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://galileoalphamessages.s3.eu-west-2.amazonaws.com/Uploads/images/84ba9020-1eab-4167-99b9-bd0d0c3a1951-cover.jpg",
-          "width": 576,
-          "height": 818,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-23T06:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AlphaGalileo",
-        "domain": "alphagalileo.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-igc-proposed-acquisition-of-a-deep-neural-network-and-ai-research-related-service-and-application-research-organization.md",
-      "title": "IGC Proposed Acquisition of a Deep Neural Network and AI Research Related Service and Application Research Organization",
-      "excerpt": "Promoting Transformation of Trading Technology R&D and Service HONG KONG SAR - Media OutReach Newswire - 23 January 2024 - (",
-      "sourceUrl": null,
-      "webUrl": "https://www.malaymail.com/news/money/mediaoutreach/2024/01/23/igc-proposed-acquisition-of-a-deep-neural-network-and-ai-research-related-service-and-application-research-organization/274360",
-      "originalUrl": "https://www.malaymail.com/news/money/mediaoutreach/2024/01/23/igc-proposed-acquisition-of-a-deep-neural-network-and-ai-research-related-service-and-application-research-organization/274360",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.malaymail.com/theme_malaymail/images/malaymail/og-image.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.malaymail.com/amp/news/money/mediaoutreach/2024/01/23/igc-proposed-acquisition-of-a-deep-neural-network-and-ai-research-related-service-and-application-research-organization/274360",
-      "cdnAmpWebUrl": "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/money/mediaoutreach/2024/01/23/igc-proposed-acquisition-of-a-deep-neural-network-and-ai-research-related-service-and-application-research-organization/274360",
-      "publishedDateTime": "2024-01-23T06:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "malaymail",
-        "domain": "malaymail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-23-mobile-speech-recognition-software-market-set-to-surge-with-a-225-cagr-reaching-us-254-billion-by-2032.md",
-      "title": "Mobile Speech Recognition Software Market Set to Surge with a 22.5% CAGR, Reaching US$ 25.4 Billion by 2032",
-      "excerpt": "The mobile speech recognition software market is projected to develop at a CAGR of 22.5% from 2022 to 2032, reaching a value of US$ 3.3 billion in 2022 and US$ 25.4 billion by 2032. In enterprise applications,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fmiblog.com/2024/01/23/mobile-speech-recognition-software-market-set-to-surge-with-a-22-5-cagr-reaching-us-25-4-billion-by-2032/",
-      "originalUrl": "https://www.fmiblog.com/2024/01/23/mobile-speech-recognition-software-market-set-to-surge-with-a-22-5-cagr-reaching-us-25-4-billion-by-2032/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fmiblog.com/wp-content/uploads/2024/01/Mobile-Speech-Recognition-Software-Market.jpg",
-          "width": 1000,
-          "height": 587,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-23T04:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Future Market Insights",
-        "domain": "fmiblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

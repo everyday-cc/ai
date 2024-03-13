@@ -24,19 +24,6 @@ images:
     height: 633
     isCached: true
 
-related:
-  - title: "Investment Association’s Fintech Hub Announces New Firms Joining Innovator Program, Key Partnerships in Canada"
-    excerpt: "The Investment Association’s (IA) Fintech hub and accelerator, IA Engine, has announced the latest firms to join its Innovator Program, as well as new global Fintech partnerships between Engine and Canada."
-    publishedDateTime: 2024-03-09T16:06:00Z
-    webUrl: "https://www.crowdfundinsider.com/2024/03/222443-investment-associations-fintech-hub-announces-new-firms-joining-innovator-program-key-partnerships-in-canada/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2024/03/222443-investment-associations-fintech-hub-announces-new-firms-joining-innovator-program-key-partnerships-in-canada/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2024/03/222443-investment-associations-fintech-hub-announces-new-firms-joining-innovator-program-key-partnerships-in-canada/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 4
-
-secured: "dF0qWi8AEUf7wD1PDw9z9Iw+305XuND3VKVACyUvRvJwaSRHY20IbRG6gvtNaIyF6bOkXhNV9h8dyUnJVtVSxKJc4mm30rsWs0WFGJAJdMvUoK5RPDpwrXxApCNLBh69Mf/B7qeOiGt5VTWuSKBEtswAKLqjvyBjNdWHcLhfM7Qr6QJw0MiuLXFhGSor9wvzXjybAVvQPyN9Ec8OZuAL4z2YuUfLXoY3qGp1RuGgTsfOouaIxqHOr7BbIwaVJB15WFEHDhx1UBza8UUlSZ6QbHZY5IdZz5QNw7JBX2np5bTUs2eykqUe6Lke+kw1PWdMmNW0/+eDzfKEnoGAIE3ajTG8TpnOe8V/R7kbK2+qfy8=;KfuS6kzjOmqsy+a/xj4yAQ=="
+secured: "zYm6JlmXuBkxQgt2W6mqWVz1rrZAth/HoyBEAVpLw8H4oJJH2hH+/EqCJxg+elNtirZsjF81W+183HOlhB7vMlbvhSjybauw0P9Bw9fDmNtrFVGw9fU0McpLKUkFYUYPts5H49sIUFKJBttyosYS99MJUBdnIBBPjGwt3mEGYFGmzyYunmqlqOgsNfQFFonyzQt3BkhW2mNT28McAfTgUuG/JUHQxBitboAHppxinHu2OcsOEi068N3xtgOZ1pJk5A1W8niDPJxnwE7GKLTix8pX8+Ob7sIXNGbgMSKS66iZN6ulrYRM8YM5ukNMZzTs9Pz9dmY0UJ8bukoqPRrDORRRy4V7BYUj8PmuTYo2RsbkBGYbnQJtzh2WWzAGI78PMj1NF9pGH9xPs8nK+reHiK/jcsDSQIokfyLsfgAvDuNVczhffD6CMoJ1uqn13KnnvJw9aIm5esd6++FofTiqJkV2PJ9WXufFn6z5wsBLNE1kxAVKtLwJDfq7XZKsoSWUwmBttYg1wkrTQV2MWNA57Q==;H9Ugy7HcGzWM210hlYiBqw=="
 ---
 

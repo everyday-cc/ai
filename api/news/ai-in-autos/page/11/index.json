@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-11-29-the-future-of-algorithmic-warfare-part-iv-promise-fulfilled.md",
+      "title": "The Future of Algorithmic Warfare Part IV: Promise Fulfilled",
+      "excerpt": "What follows is an excerpt from the authors’ new book, Information in War: Military Innovation, Battle Networks, and the Future of",
+      "sourceUrl": null,
+      "webUrl": "https://warontherocks.com/2023/11/the-future-of-algorithmic-warfare-part-iv-promise-fulfilled/",
+      "originalUrl": "https://warontherocks.com/2023/11/the-future-of-algorithmic-warfare-part-iv-promise-fulfilled/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://warontherocks.com/wp-content/uploads/2023/11/image1-1.jpg",
+          "width": 1024,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T12:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "War on the Rocks",
+        "domain": "warontherocks.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-29-guildford-ice-rink-used-to-test-anti-skidding-on-ai-car.md",
       "title": "Guildford: Ice rink used to test anti-skidding on AI car",
       "excerpt": "An ice rink has been used to test anti-skidding on a car powered by artificial intelligence (AI). University of Surrey researchers brought the driverless vehicle to Guildford Spectrum for a trial ...",

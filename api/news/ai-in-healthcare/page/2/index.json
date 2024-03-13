@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-23-genuine-helpful-personal-service-how-people-are-using-artificial-intelligence-to-their-advantage-in-dating.md",
+      "title": "'Genuine, helpful, personal service': How people are using artificial intelligence to their advantage in dating",
+      "excerpt": "As artificial intelligence continues to expand, many are curious how it will affect dating and relationships in general.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kcra.com/article/ai-dating-scene/46774460",
+      "originalUrl": "https://www.kcra.com/article/ai-dating-scene/46774460",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cosmo-ai-dating-opener-65cbf5224f580.png?crop=0.995xw:1.00xh;0.00481xw,0&resize=1200:*",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-23T00:57:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "kcra.com",
+        "domain": "kcra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-23-healthcare-startup-abridge-raises-150-mln-for-ai-model-for-clinicians.md",
       "title": "Healthcare startup Abridge raises $150 mln for AI model for clinicians",
       "excerpt": "Feb 23 (Reuters) - Abridge, a startup building artificial intelligence-powered clinical documentation tools, has raised $150 million in a Series C round, the company told Reuters, as more investors seek exposure to industry-specific generative AI applications.",
@@ -1328,50 +1371,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-enforcemintz-a-2023-legislative-push-to-address-ai-in-health-care-will-continue-in-2024.md",
-      "title": "EnforceMintz — A 2023 Legislative Push to Address AI in Health Care Will Continue in 2024",
-      "excerpt": "Since May 2023, federal legislators have introduced a broad array of bills designed to address the rapid promulgation of artificial intelligence (AI) technologies. In that time, over 50 bills have been introduced,",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/enforcemintz-2023-legislative-push-address-ai-health-care-will-continue-2024",
-      "originalUrl": "https://www.natlawreview.com/article/enforcemintz-2023-legislative-push-address-ai-health-care-will-continue-2024",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/default/files/styles/article_image/public/2024-02/Artificial%20Intelligence%20ai%20.jpg?h=80df463f&itok=xCxIjGjQ",
-          "width": 602,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/enforcemintz-2023-legislative-push-address-ai-health-care-will-continue-2024?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/enforcemintz-2023-legislative-push-address-ai-health-care-will-continue-2024?amp",
-      "publishedDateTime": "2024-02-12T23:48:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

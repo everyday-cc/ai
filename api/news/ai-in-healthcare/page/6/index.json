@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-12-19-lake-central-grad-sells-ai-therapy-app-to-silicon-valley-tech-company.md",
+      "title": "Lake Central grad sells AI therapy app to Silicon Valley tech company",
+      "excerpt": "A recent Lake Central High School graduate sold an artificial intelligence therapy app he developed in his dorm room at Indiana University to a Silicon Valley tech firm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nwitimes.com/news/local/lake-central-grad-sells-ai-therapy-app-to-silicon-valley-tech-company/article_82cbde02-9de8-11ee-a1b3-17290673cc9a.html",
+      "originalUrl": "https://www.nwitimes.com/news/local/lake-central-grad-sells-ai-therapy-app-to-silicon-valley-tech-company/article_82cbde02-9de8-11ee-a1b3-17290673cc9a.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/nwitimes.com/content/tncms/custom/image/62705d74-c54a-11ea-8606-37fa834f20c5.jpg?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-18T23:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Times of Northwest Indiana",
+        "domain": "nwitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-18-top-10-artificial-intelligence-stories-of-2023.md",
       "title": "Top 10 artificial intelligence stories of 2023",
       "excerpt": "Arguably the biggest thing to happen in artificial intelligence (AI) this year has been the hype surrounding generative AI (GenAI) models such as ChatGPT. This has pushed AI to the forefront of ...",
@@ -1346,40 +1389,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-marylands-new-artificial-intelligence-advisor-starts-as-legislator-calls-for-privacy-law.md",
-      "title": "Maryland’s new Artificial Intelligence advisor starts as legislator calls for privacy law",
-      "excerpt": "A veteran in the field of artificial intelligence over parts of four decades pointed to several everyday uses of the technology already — from use in Apple’s Siri voice recognition system to GPS navigation systems, even to robotic vacuum cleaners like ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/state/2023/12/05/maryland-is-at-starting-line-artificial-intelligence-advisor-says/71765907007/",
-      "originalUrl": "https://www.usatoday.com/story/news/state/2023/12/05/maryland-is-at-starting-line-artificial-intelligence-advisor-says/71765907007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T09:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

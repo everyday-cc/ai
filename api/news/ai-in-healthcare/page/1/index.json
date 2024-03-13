@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-13-how-generative-ai-will-change-the-jobs-of-doctors-and-healthcare-professionals.md",
+      "title": "How Generative AI Will Change The Jobs Of Doctors And Healthcare Professionals",
+      "excerpt": "Generative AI is set to transform healthcare by aiding in diagnostics, automating administrative tasks, and accelerating drug discovery.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2024/03/13/how-generative-ai-will-change-the-jobs-of-doctors-and-healthcare-professionals/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2024/03/13/how-generative-ai-will-change-the-jobs-of-doctors-and-healthcare-professionals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65f14707aa26f8af0e584249/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2024/03/13/how-generative-ai-will-change-the-jobs-of-doctors-and-healthcare-professionals/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/03/13/how-generative-ai-will-change-the-jobs-of-doctors-and-healthcare-professionals/amp/",
+      "publishedDateTime": "2024-03-13T06:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-11-azure-ai-health-bot-helps-create-copilot-experiences-with-healthcare-safeguards.md",
       "title": "Azure AI Health Bot helps create copilot experiences with healthcare safeguards",
       "excerpt": "With the Azure AI Health Bot infused with generative AI and healthcare safeguards, health organizations can build health data services, transform their medical professionals and patient experiences, discover new insights with the power of machine learning and AI, and manage protected health information",
@@ -1280,49 +1332,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-genuine-helpful-personal-service-how-people-are-using-artificial-intelligence-to-their-advantage-in-dating.md",
-      "title": "'Genuine, helpful, personal service': How people are using artificial intelligence to their advantage in dating",
-      "excerpt": "As artificial intelligence continues to expand, many are curious how it will affect dating and relationships in general.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kcra.com/article/ai-dating-scene/46774460",
-      "originalUrl": "https://www.kcra.com/article/ai-dating-scene/46774460",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/cosmo-ai-dating-opener-65cbf5224f580.png?crop=0.995xw:1.00xh;0.00481xw,0&resize=1200:*",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-23T00:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "kcra.com",
-        "domain": "kcra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

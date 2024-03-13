@@ -9,7 +9,7 @@ ampWebUrl: "https://inc42.com/buzz/startup-mahakumbh-ai-for-public-good-contest-
 cdnAmpWebUrl: "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/startup-mahakumbh-ai-for-public-good-contest-to-recognise-innovators-using-ai-to-create-social-impact/amp/"
 type: article
 quality: 20
-heat: 20
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,20 @@ topics:
   - AI
 
 related:
+  - title: "Startup Mahakumbh announces ‘AI for Public Good’ contest"
+    excerpt: "Using AI for public good? A contest at Startup Mahakumbh aims to recognise and support innovators using AI to address some of the most pressing challenges facing our society today."
+    publishedDateTime: 2024-03-13T06:59:00Z
+    webUrl: "https://yourstory.com/2024/03/startup-mahakumbh-announces-ai-public-good-contest"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 37
+    images:
+      - url: "https://images.yourstory.com/cs/2/21ccd920843c11ec88170b5512a0f9d5/Imagewufs-1710242246984.jpg?fm=png&auto=format"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Startup Mahakumbh Announces Nationwide Contest ‘AI for Public Good’ to Recognize AI Innovations for Social Impact"
     excerpt: "Startup Mahakumbh Announces Nationwide Contest AI for Public Good to Recognize AI Innovations for Social Impact"
     publishedDateTime: 2024-03-11T10:11:00Z

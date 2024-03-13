@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-24-serco-ordered-to-stop-using-facial-recognition-technology-to-monitor-staff.md",
+      "title": "Serco ordered to stop using facial recognition technology to monitor staff",
+      "excerpt": "Biometric data of more than 2,000 staff at 38 leisure centres was unlawfully processed to check attendance, watchdog finds Britain’s data watchdog has ordered a Serco subsidary to stop using ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/business/2024/feb/23/serco-ordered-to-stop-using-facial-recognition-technology-to-monitor-staff-leisure-centres-biometric-data",
+      "originalUrl": "https://www.theguardian.com/business/2024/feb/23/serco-ordered-to-stop-using-facial-recognition-technology-to-monitor-staff-leisure-centres-biometric-data",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/f3eb9064c7eebda6ad4ccb3ba8cbbb086373408d/0_254_2510_1506/master/2510.jpg?width=620&quality=85&auto=format&fit=max&s=4413607da87aca8a8593db9e01911b28",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/business/2024/feb/23/serco-ordered-to-stop-using-facial-recognition-technology-to-monitor-staff-leisure-centres-biometric-data",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2024/feb/23/serco-ordered-to-stop-using-facial-recognition-technology-to-monitor-staff-leisure-centres-biometric-data",
+      "publishedDateTime": "2024-02-23T18:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-23-serco-ordered-to-stop-using-facial-recognition-technology-to-monitor-staff.md",
       "title": "Serco ordered to stop using facial recognition technology to monitor staff",
       "excerpt": "Serco has been ordered to stop using facial recognition technology to monitor its staff for \"prioritising business interests over its employees' privacy\". The Information Commissioner's Office ...",
@@ -1271,59 +1323,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2024-02-12T04:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-02-11-facial-recognition-technology-could-be-used-in-hong-kong-to-fight-crime-maintain-national-security-police-chief-raymond-siu-says.md",
-      "title": "Facial recognition technology could be used in Hong Kong to fight crime, maintain national security, police chief Raymond Siu says",
-      "excerpt": "Hong Kong authorities have not ruled out the use of facial recognition technology to fight crime and maintain national security, but the city’s police chief promised that guidelines will be drawn up for the use of personal information gathered by a new ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3251670/facial-recognition-technology-could-be-used-hong-kong-fight-crime-maintain-national-security-police",
-      "originalUrl": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3251670/facial-recognition-technology-could-be-used-hong-kong-fight-crime-maintain-national-security-police",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/02/11/facced09-a0d6-40e4-b90c-0d2fbb2aab69_249c8482.jpg?itok=21Wyz9XQ&v=1707641010",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/news/hong-kong/law-and-crime/article/3251670/facial-recognition-technology-could-be-used-hong-kong-fight-crime-maintain-national-security-police",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/hong-kong/law-and-crime/article/3251670/facial-recognition-technology-could-be-used-hong-kong-fight-crime-maintain-national-security-police",
-      "publishedDateTime": "2024-02-11T08:44:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "scmp.com",

@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-24-transcript-race-in-america-giving-voice-with-jeffrey-wright-actor-american-fiction.md",
+      "title": "Transcript: Race in America: Giving Voice with Jeffrey Wright, Actor, “American Fiction”",
+      "excerpt": "MR. WRIGHT: It's pretty cool. I've been really moved because this is recognition from my peers, not only for my work, but for Sterling's work and for the entire film, which is cool, too, because that represents everyone who worked on this movie.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/washington-post-live/2024/02/23/transcript-race-america-giving-voice-with-jeffrey-wright-actor-american-fiction/",
+      "originalUrl": "https://www.washingtonpost.com/washington-post-live/2024/02/23/transcript-race-america-giving-voice-with-jeffrey-wright-actor-american-fiction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-23T19:48:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-23-ai21-labs-outperforms-generic-llms-with-task-specific-models.md",
+      "title": "AI21 Labs Outperforms Generic LLMs With Task-Specific Models",
+      "excerpt": "AI21 Labs distinguishes itself in the competitive large language model landscape with its emphasis on specialized, task-specific models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2024/02/23/ai21-labs-outperforms-generic-llms-with-task-specific-models/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2024/02/23/ai21-labs-outperforms-generic-llms-with-task-specific-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d881b1dd8fa05a2f54b1b3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2024/02/23/ai21-labs-outperforms-generic-llms-with-task-specific-models/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2024/02/23/ai21-labs-outperforms-generic-llms-with-task-specific-models/amp/",
+      "publishedDateTime": "2024-02-23T11:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-23-revolutionizing-business-decision-making-the-impact-of-generative-ai-on-predictive-analytics.md",
       "title": "Revolutionizing Business Decision-Making: The Impact Of Generative AI On Predictive Analytics",
       "excerpt": "When approached strategically, generative AI can help empower employees across functions and domains to leverage the insights provided by predictive analytics.",
@@ -1380,92 +1466,6 @@
       "provider": {
         "name": "Goodnet",
         "domain": "goodnet.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-use-pc-without-mouse-or-by-speech-alone-use-mouse-without-clicking.md",
-      "title": "Use PC without mouse or by speech alone; Use mouse without clicking",
-      "excerpt": "In this post, we will show you how to use your PC without the mouse or by speech alone or use your mouse without clicking by moving it only. Windows offers built-in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thewindowsclub.com/use-pc-without-mouse-or-by-speech-alone-use-mouse-without-clicking",
-      "originalUrl": "https://www.thewindowsclub.com/use-pc-without-mouse-or-by-speech-alone-use-mouse-without-clicking",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thewindowsclub.com/wp-content/uploads/2024/02/Work-by-Speech-in-action.jpg",
-          "width": 700,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TWCN Tech News",
-        "domain": "thewindowsclub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-uncovering-voice-recognition-technologies-market-potentials-beyond-the-basics.md",
-      "title": "Uncovering Voice Recognition Technologies Market Potentials Beyond The Basics",
-      "excerpt": "ResearchVise has recently added a holistic report titled, “ Global Voice Recognition Technologies Market Size, Share, Trends, by Type, Application, and Region, Forecast to 2032” to its products and services. The aim of this is to help users, investors, and business owners gain insights into market dynamics and make investment plans accordingly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.opprairie.com/news/uncovering-voice-recognition-technologies-market-potentials-beyond-the-basics/51199/",
-      "originalUrl": "https://www.opprairie.com/news/uncovering-voice-recognition-technologies-market-potentials-beyond-the-basics/51199/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.opprairie.com/wp-content/uploads/2024/02/Forging.png",
-          "width": 633,
-          "height": 435,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T06:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Orland Park Prairie",
-        "domain": "opprairie.com",
         "images": null,
         "publishers": null,
         "authors": null

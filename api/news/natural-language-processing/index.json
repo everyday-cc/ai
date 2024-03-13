@@ -55,6 +55,58 @@
       ]
     },
     {
+      "path": "_news/2024-03-13-oracle-adds-automation-ai-to-globally-distributed-database.md",
+      "title": "Oracle Adds Automation & AI To Globally Distributed Database",
+      "excerpt": "Oracle announced the general availability of its Globally Distributed Autonomous Database, marking a significant enhancement in its database technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2024/03/12/oracle-adds-automation--ai-to-globally-distributed-database/",
+      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2024/03/12/oracle-adds-automation--ai-to-globally-distributed-database/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65f0aaf13b0b0ca2103344f1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1349,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2024/03/12/oracle-adds-automation--ai-to-globally-distributed-database/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2024/03/12/oracle-adds-automation--ai-to-globally-distributed-database/amp/",
+      "publishedDateTime": "2024-03-12T19:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2024-03-12-deepgrams-aura-gives-ai-agents-a-voice.md",
       "title": "Deepgram’s Aura gives AI agents a voice",
       "excerpt": "Deepgram has made a name for itself as one of the go-to startups for voice recognition. Today, the well-funded company announced the launch of Aura, its new real-time text-to-speech API. Aura combines highly realistic voice models with a low-latency API to ...",
@@ -358,6 +410,49 @@
         "AI",
         "Natural Language Processing",
         "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-09-ai-driven-evolution-of-low-code-software-development-in-india.md",
+      "title": "AI-driven evolution of low-code software development in India",
+      "excerpt": "As low-code platforms evolve with out-of-the-box AI capabilities, organizations must conscientiously explore ways to harness its full potential. The ability to empower developers",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/",
+      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2024/03/Untitled-design-2024-03-08T174706.154.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/lite/",
+      "publishedDateTime": "2024-03-09T10:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -1359,92 +1454,6 @@
         "Natural Language Processing",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2024-02-24-transcript-race-in-america-giving-voice-with-jeffrey-wright-actor-american-fiction.md",
-      "title": "Transcript: Race in America: Giving Voice with Jeffrey Wright, Actor, “American Fiction”",
-      "excerpt": "MR. WRIGHT: It's pretty cool. I've been really moved because this is recognition from my peers, not only for my work, but for Sterling's work and for the entire film, which is cool, too, because that represents everyone who worked on this movie.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/washington-post-live/2024/02/23/transcript-race-america-giving-voice-with-jeffrey-wright-actor-american-fiction/",
-      "originalUrl": "https://www.washingtonpost.com/washington-post-live/2024/02/23/transcript-race-america-giving-voice-with-jeffrey-wright-actor-american-fiction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-23T19:48:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-ai21-labs-outperforms-generic-llms-with-task-specific-models.md",
-      "title": "AI21 Labs Outperforms Generic LLMs With Task-Specific Models",
-      "excerpt": "AI21 Labs distinguishes itself in the competitive large language model landscape with its emphasis on specialized, task-specific models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2024/02/23/ai21-labs-outperforms-generic-llms-with-task-specific-models/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2024/02/23/ai21-labs-outperforms-generic-llms-with-task-specific-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d881b1dd8fa05a2f54b1b3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2024/02/23/ai21-labs-outperforms-generic-llms-with-task-specific-models/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2024/02/23/ai21-labs-outperforms-generic-llms-with-task-specific-models/amp/",
-      "publishedDateTime": "2024-02-23T11:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

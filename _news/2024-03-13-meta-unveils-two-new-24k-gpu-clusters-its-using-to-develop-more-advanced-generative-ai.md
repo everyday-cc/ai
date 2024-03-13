@@ -6,8 +6,8 @@ publishedDateTime: 2024-03-13T00:59:00Z
 originalUrl: "https://siliconangle.com/2024/03/12/meta-unveils-two-new-24k-gpu-clusters-using-develop-advanced-generative-ai/"
 webUrl: "https://siliconangle.com/2024/03/12/meta-unveils-two-new-24k-gpu-clusters-using-develop-advanced-generative-ai/"
 type: article
-quality: 46
-heat: 46
+quality: 48
+heat: 48
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Meta AI
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/03/5940735_3047945.jpg"

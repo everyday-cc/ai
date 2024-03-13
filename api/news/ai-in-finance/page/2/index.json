@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-21-bioptimus-raises-35-million-seed-round-to-develop-ai-foundational-model-focused-on-biology.md",
+      "title": "Bioptimus raises $35 million seed round to develop AI foundational model focused on biology",
+      "excerpt": "There’s a new generative AI startup based in Paris. But what makes Bioptimus interesting is that it plans to apply everything we’ve collectively learned about AI models over the past few years with a narrow, exclusive focus on biology. The reason why ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/20/bioptimus-raises-35-million-seed-round-to-develop-ai-foundational-model-focused-on-biology/",
+      "originalUrl": "https://techcrunch.com/2024/02/20/bioptimus-raises-35-million-seed-round-to-develop-ai-foundational-model-focused-on-biology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1362476720.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/20/bioptimus-raises-35-million-seed-round-to-develop-ai-foundational-model-focused-on-biology/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/20/bioptimus-raises-35-million-seed-round-to-develop-ai-foundational-model-focused-on-biology/amp/",
+      "publishedDateTime": "2024-02-20T16:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-21-3-machine-learning-stocks-to-turn-1000-into-1-million-february-2024.md",
       "title": "3 Machine Learning Stocks to Turn $1000 Into $1 Million: February 2024",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Our society is always looking towards tomorrow and then the question arises,",
@@ -1327,40 +1379,6 @@
       "provider": {
         "name": "Business Times",
         "domain": "businesstimes.com.sg",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-06-funding-for-ai-in-fintech-in-singapore-grow-77-h-o-h-to-us33113-mil-amid-soft-year-for-investments-in-2023.md",
-      "title": "Funding for AI in fintech in Singapore grow 77% h-o-h to US$331.13 mil; amid 'soft' year for investments in 2023",
-      "excerpt": "Singapore accounted for 21% of all fintech deals in the region, making it the “leader” in the APAC region, says KPMG.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theedgesingapore.com/news/fintech/funding-ai-fintech-singapore-grow-77-h-o-h-us33113-mil-amid-soft-year-investments-2023",
-      "originalUrl": "https://www.theedgesingapore.com/news/fintech/funding-ai-fintech-singapore-grow-77-h-o-h-us33113-mil-amid-soft-year-investments-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.theedgesingapore.com/amp/news/fintech/funding-ai-fintech-singapore-grow-77-h-o-h-us33113-mil-amid-soft-year-investments-2023",
-      "cdnAmpWebUrl": "https://www-theedgesingapore-com.cdn.ampproject.org/c/s/www.theedgesingapore.com/amp/news/fintech/funding-ai-fintech-singapore-grow-77-h-o-h-us33113-mil-amid-soft-year-investments-2023",
-      "publishedDateTime": "2024-02-06T03:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Edge Singapore",
-        "domain": "theedgesingapore.com",
         "images": null,
         "publishers": null,
         "authors": null

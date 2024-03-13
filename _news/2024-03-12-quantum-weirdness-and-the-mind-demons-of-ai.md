@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202403/quan
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-digital-self/202403/quantum-weirdness-and-the-mind-demons-of-ai?amp"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 1528
     height: 800
     isCached: true
-
-related:
-  - title: "Expanding The Limits Of AI With Identity"
-    excerpt: "We are right at the start of seeing all that AI can offer, and I believe we are also only scraping the surface of what can be achieved with identity-centric data veracity."
-    publishedDateTime: 2024-03-08T14:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/expanding-the-limits-of-ai-with-identity/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "upEyJY26ppKdbApcqK5d1B4bCbc5bsGHbf67cbbxUZxLTapCLrv+WgVDVbcLXMwdO18nz5h/P7DnUJ15P+y1XibZREetS164l4A4wljl2VQL8j07rdEQv0KT9vlDvQo+QlXDnc02RqzgroexCXTXU10uax9j9U4Zkv3o8LCjv9yxMkP5nuwB6izxKkLcl2XhYziwlALf1kv9BT6Poh/N1viqnRgB5UBUd00qIUWsu/ctWdciYLEa9m3+k1CzBEt4i5jJ4nG6lkJVlYXvQ1pNFIbKk9Ot8sZwzfTofZU7NOAUnOiglbgKeFQbU9+kaDENEg/CK/jSoB+AciDeds4B6od9etFf2zEgzS9Axvebryo5mTMSgSOOUGUiAv5yiqiND5byYYKQWWQVNi/HaA3W3iXwo0LwJT2lMMtzZrkc2gUgSBwp/k7CzADi8YDJumtAKptMBbtT2H8J4U1DF6TUyzC7loXKxrOeiLq/TWYjJiuZUVWGkaASwIAIjdAC+VNLdMU2KSIAFLjGKpnlwoFynw==;Sba8VeHm0UfDv0q3ytNQGA=="
 ---

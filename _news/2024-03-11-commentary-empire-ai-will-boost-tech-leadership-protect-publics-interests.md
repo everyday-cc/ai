@@ -33,6 +33,20 @@ related:
         width: 1243
         height: 900
         isCached: true
+  - title: "AI’s Empowerment: Propelling Business Connectivity Beyond Borders"
+    excerpt: "There is no denying that artificial intelligence (AI) is one of the most transformative technologies of our time. It has applications in industries"
+    publishedDateTime: 2024-03-13T05:30:00Z
+    webUrl: "https://www.enterprisetimes.co.uk/2024/03/13/ais-empowerment-propelling-business-connectivity-beyond-borders/"
+    type: article
+    provider:
+      name: enterprisetimes.co.uk
+      domain: enterprisetimes.co.uk
+    quality: 39
+    images:
+      - url: "https://www.enterprisetimes.co.uk/wp-content/uploads/2044/03/igor-omilaev-eGGFZ5X2LnA-unsplash.jpg"
+        width: 728
+        height: 410
+        isCached: true
 
 secured: "vJONioJ0rm0Es6WqrEWBIc66cEy8jJw1GXpd5t2JAlfR2COiPb+kSyB+2cfAsjpYgGjFMnKirxka5DgFi+qEusuFJY3Vpk8MnLwUvsym572pRsb/QY5OJN3C/vJmeF0jlD3s4Fq/ERZovz0dIYoEifoJTDDnAHvBQZPeNK3BQx+jjrGBA1YELZeVizGeDHfpIjYpMqNvqbIfGLnlmWa98iGCmFm+AZd0yOx/e5eGGMicCf/CHHHd5oCyd5kcov/3vPHqq01fhU64uClPjjVBoYTsx4jCm4PdS/YDdOOdMnFG/z28IefwP5cAoiqI7XPA63zYJzXPqyZUNZFDHRLxdaRVSYdE212kPVyPAUXNaLosEbhKJKuzqtZY6axkO0tG13tCrwb+dCfsOfSkm553VOJ4cjIFUKCUyudkSuSPAnOIv5p6obJyRGBXiqcDZ6Svztw3onoq2M5hvLxvMerNayk9TLhBgv9sFEl/5O/36u8cyBVGKV7jj2AtYCN0n2pNAFz6EKaJD9q5x8sQ+XtiRg==;Q4IO1bwFpYvIKRk/yQB/5g=="
 ---

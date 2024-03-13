@@ -2,6 +2,284 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2024-03-05-ecs-awarded-190m-aiml-contract-from-devcom-army-research-lab.md",
+      "title": "ECS Awarded $190M AI/ML Contract from DEVCOM Army Research Lab",
+      "excerpt": "ECS, a leader in advanced technology, science, and engineering solutions and an ASGN (NYSE: ASGN) brand, received a three-year, $190 million contract from the United States Army Combat Capabilities Development Command (DEVCOM) Army Research Lab (ARL).",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-ecs-awarded-190m-aiml-contract-from-devcom-army-/2024/03/05/9972612.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-ecs-awarded-190m-aiml-contract-from-devcom-army-/2024/03/05/9972612.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-05T13:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-orlando-health-embraces-cutting-edge-robotics-technology.md",
+      "title": "Orlando Health Embraces Cutting-Edge Robotics Technology",
+      "excerpt": "Robotic arms of a robotic surgical system demonstrate how doctors at Orlando Health Cancer Institute use the system during procedures for treatment of lung cancer. Orlando Health recognizes the pivotal role of technology in providing high-quality healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.orlandomagazine.com/orlando-health-embraces-cutting-edge-robotics-technology/",
+      "originalUrl": "https://www.orlandomagazine.com/orlando-health-embraces-cutting-edge-robotics-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.orlandomagazine.com/content/uploads/2024/02/a/p/orlandohealthcancerinstitute-roboticsurgeryinterior-scaled.jpg",
+          "width": 2560,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.orlandomagazine.com/orlando-health-embraces-cutting-edge-robotics-technology/",
+      "cdnAmpWebUrl": "https://www-orlandomagazine-com.cdn.ampproject.org/c/s/www.orlandomagazine.com/orlando-health-embraces-cutting-edge-robotics-technology/",
+      "publishedDateTime": "2024-03-05T13:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Orlando",
+        "domain": "orlandomagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-crowdstrike-and-dell-unleash-an-ai-powered-unified-security-vision.md",
+      "title": "CrowdStrike and Dell unleash an AI-powered, unified security vision",
+      "excerpt": "By adding CrowdStrike's Falcon XDR platform to its current Managed Detection and Response (MDR) service, Dell provides its global base of resellers with AI-based technologies their customers need to battle back against attacks.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/crowdstrike-and-dell-unleash-an-ai-powered-unified-security-vision/",
+      "originalUrl": "https://venturebeat.com/security/crowdstrike-and-dell-unleash-an-ai-powered-unified-security-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/03/hero-16-9-crowdstrike-dell-partnership-.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-05T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-cycode-acquires-bearer-to-accelerate-its-move-into-ai-enhanced-security-remediation.md",
+      "title": "Cycode acquires Bearer to accelerate its move into AI-enhanced security remediation",
+      "excerpt": "startup that focuses on making the developer experience as smooth as possible while still providing them with essential security feedback. With its recently launched AI assistant, Bearer also bet on generative AI to suggest code fixes and explain ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/03/05/cycode-acquires-bearer-to-accelerate-its-move-into-ai-enhanced-security-remediation/",
+      "originalUrl": "https://techcrunch.com/2024/03/05/cycode-acquires-bearer-to-accelerate-its-move-into-ai-enhanced-security-remediation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-05T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-i-tried-tripadvisors-free-ai-tool-to-plan-trips-to-maui-and-montreal-it-was-useful-in-some-ways-but-i-wont-stop-doing-my-own-trip-research.md",
+      "title": "I tried Tripadvisor's free AI tool to plan trips to Maui and Montreal. It was useful in some ways, but I won't stop doing my own trip research.",
+      "excerpt": "Before I got a 9-to-5, I spent a good chunk of my 20s freelancing while traveling out of a van or working on farms abroad so that I could stay for free weeks at a time. These days, my travel time ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/tripadvisor-free-ai-planning-tool-pros-cons-2024-2",
+      "originalUrl": "https://www.businessinsider.com/tripadvisor-free-ai-planning-tool-pros-cons-2024-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65e68d376080194819fc6fa6?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/tripadvisor-free-ai-planning-tool-pros-cons-2024-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tripadvisor-free-ai-planning-tool-pros-cons-2024-2?amp",
+      "publishedDateTime": "2024-03-05T12:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-the-future-of-ai-skill-and-talent-development-in-the-workforce.md",
+      "title": "The Future Of AI Skill And Talent Development In The Workforce",
+      "excerpt": "Those who embrace AI and invest in developing AI-related competencies can have a competitive edge in the workforce of tomorrow. The time to start preparing for the future of AI is now. Will you be ready?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/05/the-future-of-ai-skill-and-talent-development-in-the-workforce/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/05/the-future-of-ai-skill-and-talent-development-in-the-workforce/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e5cbef9ba1e31484287ea1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1271,
+          "height": 847,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-05T12:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-05-amazon-backed-anthropic-launches-claude-3-ai-models-to-rival-chatgpt-4.md",
       "title": "Amazon-Backed Anthropic Launches Claude 3 AI Models to Rival ChatGPT-4",
       "excerpt": "Claude 3 has three variants, with its most powerful Opus version promising better results than OpenAI's ChatGPT-4 and Google's Gemini 1.0 Ultra models.",
@@ -512,50 +790,6 @@
       ]
     },
     {
-      "path": "_news/2024-03-05-6-aws-execs-who-left-in-2024-so-far-for-microsoft-google-cisco-and-others.md",
-      "title": "6 AWS execs who left in 2024 (so far) for Microsoft, Google, Cisco and others",
-      "excerpt": "CRN US breaks down six AWS executives who left the world’s largest cloud company in 2024 and where they landed. Before jumping into the six executives who left, it’s key to note that Seattle-based AWS is the world’s No. 1 cloud market leading—owning 31 percent share of the global cloud infrastructure services market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com.au/news/6-aws-execs-who-left-in-2024-so-far-for-microsoft-google-cisco-and-others-605772",
-      "originalUrl": "https://www.crn.com.au/news/6-aws-execs-who-left-in-2024-so-far-for-microsoft-google-cisco-and-others-605772",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.nextmedia.com.au/News/media_1cc1c11e9039504f571f1c21793c05f1627244c87.png",
-          "width": 611,
-          "height": 458,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T03:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN Australia",
-        "domain": "crn.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2024-03-05-ai-trends-in-crm-the-future-of-customer-relationships.md",
       "title": "AI trends in CRM: The future of customer relationships",
       "excerpt": "With a keen focus on integrating cutting-edge capabilities such as Natural Language Processing (NLP) for deeper insights and fortifying data privacy and security measures to instill trust, the author delves into the multifaceted potential of Salesforce CRM ...",
@@ -906,221 +1140,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-painting-a-molecular-portrait-of-the-brain-with-mass-spectrometry-and-deep-learning.md",
-      "title": "Painting a molecular portrait of the brain with mass spectrometry and deep learning",
-      "excerpt": "More information: Yuxuan Richard Xie et al, Multiscale biochemical mapping of the brain through deep-learning-enhanced high-throughput mass spectrometry, Nature Methods (2024). DOI: 10.1038/s41592 ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2024-03-molecular-portrait-brain-mass-spectrometry.html",
-      "originalUrl": "https://medicalxpress.com/news/2024-03-molecular-portrait-brain-mass-spectrometry.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-ai-boom-in-data-centers-has-top-tech-companies-spending-more-than-major-oil-companies-on-capex.md",
-      "title": "AI boom in data centers has top tech companies spending more than major oil companies on capex",
-      "excerpt": "However, Larry Pfeffer, an equity-sector analyst in the industrials at the Wells Fargo Investment Institute, expects spending by the top four hyperscale tech companies to reach almost $200 billion annually by 2025, a boom that will have “ripple effects.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/ai-boom-in-data-centers-has-top-tech-companies-spending-more-than-major-oil-companies-on-capex-7639ad2a",
-      "originalUrl": "https://www.marketwatch.com/story/ai-boom-in-data-centers-has-top-tech-companies-spending-more-than-major-oil-companies-on-capex-7639ad2a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-93575517/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/ai-boom-in-data-centers-has-top-tech-companies-spending-more-than-major-oil-companies-on-capex-7639ad2a",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ai-boom-in-data-centers-has-top-tech-companies-spending-more-than-major-oil-companies-on-capex-7639ad2a",
-      "publishedDateTime": "2024-03-04T23:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-nvidia-becomes-teslas-successor-as-market-flips-from-electric-vehicles-to-artificial-intelligence.md",
-      "title": "Nvidia becomes Tesla’s successor as market flips from electric vehicles to artificial intelligence",
-      "excerpt": "There are plenty of differences between Nvidia and Tesla, from the products they make to the personalities of the men that run the companies. But the parallels are striking.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ocregister.com/2024/03/04/nvidia-becomes-teslas-successor-as-market-flips-from-ev-to-ai/",
-      "originalUrl": "https://www.ocregister.com/2024/03/04/nvidia-becomes-teslas-successor-as-market-flips-from-ev-to-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ocregister.com/wp-content/uploads/2024/03/OCR-Z-NVIDIA-TRILLION.jpg?w=1024&h=682",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.ocregister.com/2024/03/04/nvidia-becomes-teslas-successor-as-market-flips-from-ev-to-ai/amp/",
-      "cdnAmpWebUrl": "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2024/03/04/nvidia-becomes-teslas-successor-as-market-flips-from-ev-to-ai/amp/",
-      "publishedDateTime": "2024-03-04T22:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Orange County Register",
-        "domain": "ocregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-security-researchers-prove-they-can-exploit-chatbot-systems-to-spread-ai-powered-worms.md",
-      "title": "Security researchers prove they can exploit chatbot systems to spread AI-powered worms",
-      "excerpt": "What makes matters worse is that generative AI (GenAI) systems, even large language models (LLMs) like Bard and the others, require massive amounts of processing, so",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/102121-security-researchers-prove-they-can-exploit-chatbot-systems.html",
-      "originalUrl": "https://www.techspot.com/news/102121-security-researchers-prove-they-can-exploit-chatbot-systems.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-04T21:11:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-swimming-australia-to-turn-on-computer-vision-at-training.md",
-      "title": "Swimming Australia to turn on computer vision at training",
-      "excerpt": "Since 2019 — when Swimming Australia released its bespoke athletic improvement system “Swim Performance and Race Tactical Analysis” (Sparta 2) — computer vision has tracked Dolphins, but only at competitions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itnews.com.au/news/swimming-australia-to-turn-on-computer-vision-at-training-605731",
-      "originalUrl": "https://www.itnews.com.au/news/swimming-australia-to-turn-on-computer-vision-at-training-605731",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.nextmedia.com.au/News/Swimming_Australia_story.png",
-          "width": 1390,
-          "height": 612,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-04T20:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT News For Australia Business",
-        "domain": "itnews.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

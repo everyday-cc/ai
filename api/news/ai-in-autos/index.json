@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-13-how-ai-impacts-legal-systems-with-its-fake-laws.md",
+      "title": "How AI Impacts Legal Systems With Its Fake Laws",
+      "excerpt": "The legal regulators and courts around the world are emphasising the need for responsible adoption of AI tools by lawyers and the establishment of clear guidelines to uphold the integrity of",
+      "sourceUrl": null,
+      "webUrl": "https://www.boomlive.in/explainers/how-ai-impacts-legal-systems-with-its-fake-laws-24603",
+      "originalUrl": "https://www.boomlive.in/explainers/how-ai-impacts-legal-systems-with-its-fake-laws-24603",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.boomlive.in/h-upload/2024/03/13/1023195-robotic-01.jpg",
+          "width": 1280,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.boomlive.in/amp/explainers/how-ai-impacts-legal-systems-with-its-fake-laws-24603",
+      "cdnAmpWebUrl": "https://www-boomlive-in.cdn.ampproject.org/c/s/www.boomlive.in/amp/explainers/how-ai-impacts-legal-systems-with-its-fake-laws-24603",
+      "publishedDateTime": "2024-03-13T07:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BOOM",
+        "domain": "boomlive.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-13-a-safety-group-graded-14-driver-assistance-systems-teslas-self-driving-option-was-the-worst.md",
       "title": "A safety group graded 14 driver-assistance systems. Tesla's self-driving option was the worst.",
       "excerpt": "Tesla ranked the worst in a safety study of autonomous driving systems, but few automakers did particularly well.",
@@ -1300,49 +1343,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-self-driving-sensor-maker-luminar-falls-as-production-delay-at-volvo-hits-earnings.md",
-      "title": "Self-driving sensor maker Luminar falls as production delay at Volvo hits earnings",
-      "excerpt": "Feb 28 (Reuters) - Luminar Technologies (LAZR.O), opens new tab shares tumbled about 10% on Wednesday after the self-driving sensor maker's fourth-quarter results missed estimates on delayed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/self-driving-sensor-maker-luminar-falls-production-delay-volvo-hits-earnings-2024-02-28/",
-      "originalUrl": "https://www.reuters.com/technology/self-driving-sensor-maker-luminar-falls-production-delay-volvo-hits-earnings-2024-02-28/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T17:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

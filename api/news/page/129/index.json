@@ -2,6 +2,343 @@
   "page": 129,
   "value": [
     {
+      "path": "_news/2023-11-27-how-your-dog-or-cat-could-help-speed-up-your-health-tests.md",
+      "title": "How Your Dog or Cat Could Help Speed Up Your Health Tests",
+      "excerpt": "Researchers are using results from your pets’ tests for things like hookworms and other parasites to train artificial intelligence tools that not only speed up Fido’s results, but are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/health/healthcare/pet-health-data-artificial-intelligence-2d1b08d5",
+      "originalUrl": "https://www.wsj.com/health/healthcare/pet-health-data-artificial-intelligence-2d1b08d5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-888890/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-27T14:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-27-ibm-watsonx-ai-and-data-platform-security-solutions-and-consulting-services-for-generative-ai-to-be-showcased-at-aws-reinvent.md",
+      "title": "IBM watsonx AI and data platform, security solutions and consulting services for generative AI to be showcased at AWS re:Invent",
+      "excerpt": "During AWS re:Invent, IBM will be unveiling several exciting pieces of news about our fast-growing partnerships.\nThe post IBM watsonx AI and data platform, security solutions and consulting services for generative AI to be showcased at AWS re:Invent appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/security-solutions-and-consulting-services-for-generative-ai/",
+      "originalUrl": "https://www.ibm.com/blog/security-solutions-and-consulting-services-for-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 370,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-27T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Security",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-27-new-multi-national-ai-security-guidelines-are-toothless-and-weak.md",
+      "title": "New multi-national AI security guidelines are toothless and weak",
+      "excerpt": "The United States, United Kingdom, and 16 other countries want to keep the development of AI systems secure, but a framework issued by the group offers common sense recommendations, and lacks firm action points.",
+      "sourceUrl": null,
+      "webUrl": "https://appleinsider.com/articles/23/11/27/new-multi-national-ai-security-guidelines-are-toothless-and-weak",
+      "originalUrl": "https://appleinsider.com/articles/23/11/27/new-multi-national-ai-security-guidelines-are-toothless-and-weak",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://photos5.appleinsider.com/gallery/57461-117058-56228-114301-lede-xl-xl.jpg",
+          "width": 1200,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://appleinsider.com/articles/23/11/27/new-multi-national-ai-security-guidelines-are-toothless-and-weak/amp/",
+      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/23/11/27/new-multi-national-ai-security-guidelines-are-toothless-and-weak/amp/",
+      "publishedDateTime": "2023-11-27T13:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-11-27-awak-technologies-announces-fda-breakthrough-device-designation-for-their-artificial-intelligence-enabled-kidney-disease-prediction-tool.md",
+      "title": "AWAK Technologies Announces FDA Breakthrough Device Designation for their Artificial Intelligence Enabled Kidney Disease Prediction Tool",
+      "excerpt": "AWAK Technologies (AWAK), a pioneering medical technology company developing a wearable dialysis product and other complementary solutions for chronic kidney disease (CKD) management, today announced that its kidney disease progression prediction (KDPP) Artificial Intelligence (AI) model for CKD patient care has been granted Breakthrough Device designation by the U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/awak-technologies-announces-fda-breakthrough-device-designation-their-artificial",
+      "originalUrl": "https://www.asiaone.com/business/awak-technologies-announces-fda-breakthrough-device-designation-their-artificial",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Nov2023/pr-newswire_500_4_1677.jpg?h=7de12b8a&itok=4ZLq5tFE",
+          "width": 600,
+          "height": 316,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-27T12:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-27-ai-appetite-the-progress-needed-for-brands-to-gain-more-confidence.md",
+      "title": "AI Appetite: The Progress Needed For Brands To Gain More Confidence",
+      "excerpt": "There are also unanswered questions, like how to ensure data privacy, combat AI bias, and protect human creativity. As a result, the comfort level organizations have for adoption varies widely. We hear it loud and clear from our clients: AI is worth exploring—with caution and a healthy dose of skepticism.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/11/27/ai-appetite-the-progress-needed-for-brands-to-gain-more-confidence/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/11/27/ai-appetite-the-progress-needed-for-brands-to-gain-more-confidence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/655e06382f4b332fdb03a5f2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1308,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/11/27/ai-appetite-the-progress-needed-for-brands-to-gain-more-confidence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/11/27/ai-appetite-the-progress-needed-for-brands-to-gain-more-confidence/amp/",
+      "publishedDateTime": "2023-11-27T12:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-27-ai-and-the-rise-of-mediocrity.md",
+      "title": "AI and the Rise of Mediocrity",
+      "excerpt": "Read More: Pausing AI Developments Isn't Enough. We Need to Shut it All Down",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6337835/ai-mediocrity-essay/",
+      "originalUrl": "https://time.com/6337835/ai-mediocrity-essay/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2023/11/ai-mediocrity-sameness-illustration.jpg?quality=85",
+          "width": 1847,
+          "height": 1623,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-27T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-27-what-to-know-about-ai-enabled-digital-twins-in-manufacturing.md",
+      "title": "What To Know About AI-Enabled Digital Twins In Manufacturing",
+      "excerpt": "Within smart manufacturing, AI-powered digital twins have emerged as a critical technology. As a digital counterpart of a real-world system, digital twins provide a digital representation using data from sensors and Internet of Things (IoT) devices to mimic a physical object or system in real time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/27/what-to-know-about-ai-enabled-digital-twins-in-manufacturing/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/27/what-to-know-about-ai-enabled-digital-twins-in-manufacturing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63860f8728a0637179459796/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/11/27/what-to-know-about-ai-enabled-digital-twins-in-manufacturing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/11/27/what-to-know-about-ai-enabled-digital-twins-in-manufacturing/amp/",
+      "publishedDateTime": "2023-11-27T11:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-27-ai-powered-robotics-exploring-the-latest-innovations-and-applications-in-2024.md",
       "title": "AI-Powered Robotics: Exploring the Latest Innovations and Applications in 2024",
       "excerpt": "Introduction: In the fast-paced landscape of technology, artificial intelligence (AI) continues to revolutionize industries, and the field of robotics is no exception. Furthermore, as we delve into the year 2024,",
@@ -824,346 +1161,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-26-indonesia-central-bank-issues-ethical-guidelines-on-ai-for-fintech.md",
-      "title": "Indonesia: Central Bank Issues Ethical Guidelines on AI for Fintech",
-      "excerpt": "Indonesia's central bank, the Financial Services Authority (OJK), has partnered with the country's fintech associations to issue what it describes as ethical",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2023/11/216918-indonesia-central-bank-issues-ethical-guidelines-on-ai-for-fintech/",
-      "originalUrl": "https://www.crowdfundinsider.com/2023/11/216918-indonesia-central-bank-issues-ethical-guidelines-on-ai-for-fintech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/07/Bandung-City-Indonesia-fikri-rasyid-unsplash.jpg",
-          "width": 1600,
-          "height": 1457,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2023/11/216918-indonesia-central-bank-issues-ethical-guidelines-on-ai-for-fintech/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2023/11/216918-indonesia-central-bank-issues-ethical-guidelines-on-ai-for-fintech/amp/",
-      "publishedDateTime": "2023-11-25T22:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-11-26-risks-of-ai-in-healthcare-come-to-light.md",
-      "title": "Risks Of AI In Healthcare Come To Light",
-      "excerpt": "AI is a new frontier and can be potentially extremely helpful in healthcare. It can also be extremely harmful. A class action lawsuit describes alleged harm.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/carolynrosenblatt/2023/11/25/risks-of-ai-in-healthcare-come-to-light/",
-      "originalUrl": "https://www.forbes.com/sites/carolynrosenblatt/2023/11/25/risks-of-ai-in-healthcare-come-to-light/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 234,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65623b21796ce4c2f2011280/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/carolynrosenblatt/2023/11/25/risks-of-ai-in-healthcare-come-to-light/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/carolynrosenblatt/2023/11/25/risks-of-ai-in-healthcare-come-to-light/amp/",
-      "publishedDateTime": "2023-11-25T18:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-11-26-aws-reinvent-preview-with-matt-wood-whos-been-at-aws-from-the-start.md",
-      "title": "AWS Reinvent Preview With Matt Wood, Who’s Been At AWS From The Start",
-      "excerpt": "Patrick Moorhead previews the annual Reinvent conference with Matt Wood, who oversees AWS products and has helped organize the conference for more than a decade.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/11/25/aws-reinvent-preview-with-matt-wood-whos-been-at-aws-from-the-start/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/11/25/aws-reinvent-preview-with-matt-wood-whos-been-at-aws-from-the-start/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6562325b4ef5e34bc98848da/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1522,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2023/11/25/aws-reinvent-preview-with-matt-wood-whos-been-at-aws-from-the-start/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2023/11/25/aws-reinvent-preview-with-matt-wood-whos-been-at-aws-from-the-start/amp/",
-      "publishedDateTime": "2023-11-25T18:11:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-26-ag-autonomy-kicks-up-dust-as-acquisition-deals-accelerate.md",
-      "title": "Ag Autonomy Kicks Up Dust As Acquisition Deals Accelerate",
-      "excerpt": "Modern farming faces an intense labor shortage. AgTech providers are rolling out impressive autonomous tech. What are the intersections with on-road autonomy?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/richardbishop1/2023/11/25/ag-autonomy-kicks-up-dust-as-acquisition-deals-accelerate/",
-      "originalUrl": "https://www.forbes.com/sites/richardbishop1/2023/11/25/ag-autonomy-kicks-up-dust-as-acquisition-deals-accelerate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6562312e45d060b1e7ce8a13/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/richardbishop1/2023/11/25/ag-autonomy-kicks-up-dust-as-acquisition-deals-accelerate/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardbishop1/2023/11/25/ag-autonomy-kicks-up-dust-as-acquisition-deals-accelerate/amp/",
-      "publishedDateTime": "2023-11-25T17:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-25-paralysed-man-moves-in-mind-reading-exoskeleton.md",
-      "title": "Paralysed man moves in mind-reading exoskeleton",
-      "excerpt": "Mind-controlled exoskeleton allows paralysed ... Paralysed woman's thoughts control robotic arm Thibault does need to be attached to a ceiling-harness in order to minimise the risk of him falling ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/health-49907356",
-      "originalUrl": "https://www.bbc.com/news/health-49907356",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/3867/production/_109093441_clinatec_juliettetreillet.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/health-49907356.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/health-49907356.amp",
-      "publishedDateTime": "2023-11-25T15:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-25-when-ai-came-to-town-struggling-cities-face-more-pain-from-artificial-intelligence-boom.md",
-      "title": "When AI Came to Town: Struggling Cities Face More Pain From Artificial Intelligence Boom",
-      "excerpt": "The more that companies adopt AI, of course, the more those companies will look like and be run like the AI companies themselves. With fewer workers around, commercial real estate, already reeling from a shift to work from home, will suffer.",
-      "sourceUrl": null,
-      "webUrl": "https://tech.hindustantimes.com/opinion/when-ai-came-to-town-struggling-cities-face-more-pain-from-artificial-intelligence-boom-71700851558731.html",
-      "originalUrl": "https://tech.hindustantimes.com/opinion/when-ai-came-to-town-struggling-cities-face-more-pain-from-artificial-intelligence-boom-71700851558731.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/tech/img/2023/11/25/1600x900/pexels-tara-winstead-8386440_1689468297400_1700874752824.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://tech.hindustantimes.com/amp/opinion/when-ai-came-to-town-struggling-cities-face-more-pain-from-artificial-intelligence-boom-71700851558731.html",
-      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/opinion/when-ai-came-to-town-struggling-cities-face-more-pain-from-artificial-intelligence-boom-71700851558731.html",
-      "publishedDateTime": "2023-11-25T12:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times Tech",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-25-microsoft-debuts-custom-chips-for-cloud-and-ai-azure-maia-ai-accelerator-and-azure-cobalt-cpu.md",
-      "title": "Microsoft Debuts Custom Chips for Cloud and AI: Azure Maia AI Accelerator and Azure Cobalt CPU",
-      "excerpt": "During the recent Ignite conference, Microsoft introduced two custom-designed chips for their cloud infrastructure: Microsoft Azure Maia AI Accelerator (Athena), optimized for artificial intelligence (AI) tasks and generative AI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2023/11/azure-custom-chips-cobalt-maia/",
-      "originalUrl": "https://www.infoq.com/news/2023/11/azure-custom-chips-cobalt-maia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2023/11/azure-custom-chips-cobalt-maia/en/headerimage/generatedHeaderImage-1700598494312.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-25T11:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

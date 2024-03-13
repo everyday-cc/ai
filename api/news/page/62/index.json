@@ -2,6 +2,340 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2024-01-27-george-carlins-heirs-sue-comedy-podcast-over-ai-generated-impression.md",
+      "title": "George Carlin’s heirs sue comedy podcast over “AI-generated” impression",
+      "excerpt": "\"Defendants’ AI-generated 'George Carlin Special' is not a creative work,\" the lawsuit reads, in part. \"It is a piece of computer-generated click-bait which detracts from the value of Carlin’s comedic works and harms his reputation. It is a casual theft of a great American artist’s work.\"",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/ai/2024/01/george-carlins-heirs-sue-comedy-podcast-over-ai-generated-impression/",
+      "originalUrl": "https://arstechnica.com/ai/2024/01/george-carlins-heirs-sue-comedy-podcast-over-ai-generated-impression/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/Screenshot-2024-01-26-at-10.44.20 AM-760x380.png",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-26T16:11:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-26-why-ai-methods-need-heightened-security.md",
+      "title": "Why AI Methods Need Heightened Security",
+      "excerpt": "The company has blended talent disciplines from cybersecurity and deep learning and they are now entering their fifth year of software development of their secure AI risk platform that covers computer vision, natural language processing, machine learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2024/01/26/why-ai-methods-need-heightened-security/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2024/01/26/why-ai-methods-need-heightened-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b3cc5450e1d7610d2631ed/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-26T15:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2024-01-26-could-a-security-guard-shortage-be-solved-with-this-autonomous-security-robot.md",
+      "title": "Could a security guard shortage be solved with this autonomous security robot?",
+      "excerpt": "Ascento Guard is a two-wheeled, all-terrain robot equipped with cameras, speakers, a microphone and GPS tracking to work as a security guard.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/could-security-guard-shortage-be-solved-with-autonomous-security-robot",
+      "originalUrl": "https://www.foxnews.com/tech/could-security-guard-shortage-be-solved-with-autonomous-security-robot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/static/orion/styles/img/fox-news/bg/default.png",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-26T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2024-01-26-instana-2023-recapping-our-latest-innovation.md",
+      "title": "Instana 2023: Recapping our latest innovation",
+      "excerpt": "A comprehensive recap of what we launched in 2023, awards and links to the latest update and how you can get started with each enhancement.\nThe post Instana 2023: Recapping our latest innovation appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/instana-2023-recapping-our-latest-innovation/",
+      "originalUrl": "https://www.ibm.com/blog/instana-2023-recapping-our-latest-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-26T14:28:32Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-26-decoding-the-future-unravelling-the-intricacies-of-hybrid-cloud-mesh-versus-service-mesh.md",
+      "title": "Decoding the future: unravelling the intricacies of Hybrid Cloud Mesh versus service mesh ",
+      "excerpt": "Better understanding the nuances of Hybrid Cloud Mesh versus Service Mesh in the realm of modern enterprise connectivity.\nThe post Decoding the future: unravelling the intricacies of Hybrid Cloud Mesh versus service mesh  appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/hybrid-cloud-mesh-versus-service-mesh/",
+      "originalUrl": "https://www.ibm.com/blog/hybrid-cloud-mesh-versus-service-mesh/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-26T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-26-what-is-vegetation-management.md",
+      "title": "What is vegetation management? ",
+      "excerpt": "Unmanaged vegetation can be a threat to infrastructure and the environment—learn how AI and analytics help organizations reduce the risk. \nThe post What is vegetation management?  appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/what-is-vegetation-management/",
+      "originalUrl": "https://www.ibm.com/blog/what-is-vegetation-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-26T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-26-ftc-launches-inquiry-into-artificial-intelligence-deals.md",
+      "title": "FTC Launches Inquiry Into Artificial Intelligence Deals",
+      "excerpt": "U.S. antitrust enforcers are opening an investigation into the relationships between leading artificial intelligence startups such as ChatGPT-maker OpenAI and Anthropic and the tech giants that have invested billions of dollars into them. “We’re ...",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6588681/ftc-launches-ai-partnerships-inquiry/",
+      "originalUrl": "https://time.com/6588681/ftc-launches-ai-partnerships-inquiry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2024/01/GettyImages-1530150886.jpg?quality=85",
+          "width": 7571,
+          "height": 5046,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-26T12:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-26-send-app-gets-personalized-artificial-intelligence-feature.md",
       "title": "Send app gets personalized artificial intelligence feature",
       "excerpt": "Iconic Hearts — the company behind apps including Noteit, Starmatch and Locksmith — has announced that its Sendit app has launched a personalized artificial intelligence (AI) feature that chats with your friends for you.",
@@ -857,333 +1191,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-26-baidu-poised-for-upside-as-ai-monetization-begins.md",
-      "title": "Baidu: Poised For Upside As AI Monetization Begins",
-      "excerpt": "Baidu continues to build on its lead in China’s AI race. Having checked the user growth box post-Ernie Bot launch, all eyes are now on monetization. Few of the positives seem to be in the price ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4665156-baidu-stock-poised-for-upside-as-ai-monetization-begins",
-      "originalUrl": "https://seekingalpha.com/article/4665156-baidu-stock-poised-for-upside-as-ai-monetization-begins",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/482803973/image_482803973.jpg?io=getty-c-w1536",
-          "width": 1536,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-26T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-26-the-benefits-of-medical-speech-to-text.md",
-      "title": "The Benefits of Medical Speech-to-Text",
-      "excerpt": "What is medical speech-to-text? Medical speech-to-text, also known as medical speech recognition (MSR), is a technology that allows you to dictate your medical notes instead of typing them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessnewsdaily.com/16379-medical-speech-text-benefits.html",
-      "originalUrl": "https://www.businessnewsdaily.com/16379-medical-speech-text-benefits.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.business.com/w/700/aHR0cHM6Ly93d3cuYnVzaW5lc3NuZXdzZGFpbHkuY29tL3Jlc291cmNlcy9pbWcvZXAtYm5kLWxvZ28tMTIwLnBuZw==",
-          "width": 700,
-          "height": 297,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-26T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business News Daily",
-        "domain": "businessnewsdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-26-uspto-contributes-patent-and-trademark-data-to-help-launch-national-ai-research-resource-pilot-program.md",
-      "title": "USPTO Contributes Patent and Trademark Data to Help Launch National AI Research Resource Pilot Program",
-      "excerpt": "This week, the U.S. National Science Foundation (NSF) alongside public and private sector collaborators launched the National Artificial Intelligence Research Resource (NAIRR) pilot program. NAIRR seeks to advance AI discovery and innovation by making ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.jdsupra.com/legalnews/uspto-contributes-patent-and-trademark-5578753/",
-      "originalUrl": "https://www.jdsupra.com/legalnews/uspto-contributes-patent-and-trademark-5578753/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://jdsupra-static.s3.amazonaws.com/profile-images/og.9342_1744.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-26T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "JD Supra",
-        "domain": "jdsupra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-26-broadcoms-software-expansion-and-ai-potential-drive-stock-to-new-record-high.md",
-      "title": "Broadcom’s Software Expansion And AI Potential Drive Stock To New Record High",
-      "excerpt": "Generative AI is already powering growth in Broadcom’s semiconductor business, while the recently completed acquisition of VMware will significantly boost the company's software exposure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robertdefrancesco/2024/01/25/broadcoms-software-expansion-and-ai-potential-drive-stock-to-new-record-high/",
-      "originalUrl": "https://www.forbes.com/sites/robertdefrancesco/2024/01/25/broadcoms-software-expansion-and-ai-potential-drive-stock-to-new-record-high/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b2e9383cb2fdb041209470/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robertdefrancesco/2024/01/25/broadcoms-software-expansion-and-ai-potential-drive-stock-to-new-record-high/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertdefrancesco/2024/01/25/broadcoms-software-expansion-and-ai-potential-drive-stock-to-new-record-high/amp/",
-      "publishedDateTime": "2024-01-25T23:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-26-cruise-says-hostility-to-regulators-led-to-grounding-of-its-autonomous-cars.md",
-      "title": "Cruise Says Hostility to Regulators Led to Grounding of Its Autonomous Cars",
-      "excerpt": "A law firm’s review found that executives had failed to fully explain an October crash, which the Justice Department is also investigating.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2024/01/25/technology/cruise-crash-report-san-francisco.html",
-      "originalUrl": "https://www.nytimes.com/2024/01/25/technology/cruise-crash-report-san-francisco.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-25T22:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-26-general-purpose-humanoid-robots-bill-gates-is-a-believer.md",
-      "title": "General purpose humanoid robots? Bill Gates is a believer",
-      "excerpt": "To Apptronik, an Austin-based start-up that spun out of the human-centered robotics lab at the University of Texas ... Other firms mentioned in the piece include robotic perception firm Field AI and Tevel, which builds apple-picking drones.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/01/25/general-purpose-humanoid-robots-bill-gates-is-a-believer/",
-      "originalUrl": "https://techcrunch.com/2024/01/25/general-purpose-humanoid-robots-bill-gates-is-a-believer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/52149453535_5cfc2ec394_k.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/01/25/general-purpose-humanoid-robots-bill-gates-is-a-believer/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/25/general-purpose-humanoid-robots-bill-gates-is-a-believer/amp/",
-      "publishedDateTime": "2024-01-25T22:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-26-microsoft-azures-soaring-growth-and-ai-innovations-signal-a-bright-future-for-investors-analysts.md",
-      "title": "Microsoft Azure's Soaring Growth and AI Innovations Signal a Bright Future for Investors: Analysts",
-      "excerpt": "Piper Sandler maintained Overweight rating on Microsoft (NASDAQ: MSFT) with price target of $455. Azure growth may accelerate to $95B in 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/microsoft-azure-s-soaring-growth-and-ai-innovations-signal-a-bright-future-for-investors-analysts-1032998537",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/microsoft-azure-s-soaring-growth-and-ai-innovations-signal-a-bright-future-for-investors-analysts-1032998537",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/Azure-Rainer-Stropek-via-Flickr.png",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-25T21:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/melissadaimler/2024/03/11/clarity-ali
 webUrl: "https://www.forbes.com/sites/melissadaimler/2024/03/11/clarity-alignment-and-empowermentleadership-skills-in-the-age-of-ai/"
 type: article
 quality: 67
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI’s Empowerment: Propelling Business Connectivity Beyond Borders"
+    excerpt: "There is no denying that artificial intelligence (AI) is one of the most transformative technologies of our time. It has applications in industries"
+    publishedDateTime: 2024-03-13T05:30:00Z
+    webUrl: "https://www.enterprisetimes.co.uk/2024/03/13/ais-empowerment-propelling-business-connectivity-beyond-borders/"
+    type: article
+    provider:
+      name: enterprisetimes.co.uk
+      domain: enterprisetimes.co.uk
+    quality: 39
+    images:
+      - url: "https://www.enterprisetimes.co.uk/wp-content/uploads/2044/03/igor-omilaev-eGGFZ5X2LnA-unsplash.jpg"
+        width: 728
+        height: 410
+        isCached: true
   - title: "Commentary: Empire AI will boost tech leadership, protect public’s interests"
     excerpt: "Gov. Hochul has rightly noted that the computing power behind AI is concentrated in the hands of large technology companies. By ensuring that our students have a strong grounding in AI and that our researchers have unfettered access to the technology, Empire AI will help harness AI's immense power for the benefit of all New Yorkers."
     publishedDateTime: 2024-03-11T09:05:00Z
