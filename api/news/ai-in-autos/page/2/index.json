@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-29-apples-scrapped-car-project-means-ai-and-headset-bets-are-more-urgent.md",
+      "title": "Apple’s Scrapped Car Project Means AI and Headset Bets Are More Urgent",
+      "excerpt": "In abandoning plans for a self-driving car, Apple Inc. is giving up on billions in potential revenue and the dream of selling what one executive called “the ultimate mobile device.”",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6835987/apple-self-driving-car-ai-vision-pro/",
+      "originalUrl": "https://time.com/6835987/apple-self-driving-car-ai-vision-pro/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2024/02/GettyImages-2025760015.jpg?quality=85",
+          "width": 5000,
+          "height": 3333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T17:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-29-self-driving-sensor-maker-luminar-falls-as-production-delay-at-volvo-hits-earnings.md",
       "title": "Self-driving sensor maker Luminar falls as production delay at Volvo hits earnings",
       "excerpt": "Feb 28 (Reuters) - Luminar Technologies (LAZR.O), opens new tab shares tumbled about 10% on Wednesday after the self-driving sensor maker's fourth-quarter results missed estimates on delayed ...",
@@ -1333,40 +1385,6 @@
         "AI in Autos",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-the-pentagons-silicon-valley-problem.md",
-      "title": "The Pentagon’s Silicon Valley Problem",
-      "excerpt": "Artificial intelligence may indeed affect the way our military operates ... After years of expensive effort, the “ATR [automatic target recognition] just doesn’t work. Even driverless cars,” he emphasized “are relatively easy problems to solve ...",
-      "sourceUrl": null,
-      "webUrl": "https://harpers.org/archive/2024/03/the-pentagons-silicon-valley-problem-andrew-cockburn/",
-      "originalUrl": "https://harpers.org/archive/2024/03/the-pentagons-silicon-valley-problem-andrew-cockburn/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-20T15:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harper's Magazine",
-        "domain": "harpers.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

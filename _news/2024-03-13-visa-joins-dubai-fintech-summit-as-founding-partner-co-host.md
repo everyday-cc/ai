@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zawya.com/en/press-release/events-and-conferences/visa-j
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/events-and-conferences/visa-joins-dubai-fintech-summit-as-founding-partner-and-co-host-ud3mw8yk?amp=1"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Zawya
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Anne Boden on supporting female fintech founders"
-    excerpt: "Yet Boden has been busy recently. Last week she launched her third book, ‘Female Founders’ Playbook: Insights from the superwomen who made It’ and released a report from the Women-Led High-Growth Enterprise Taskforce which she led. I spoke with her about where we’re going wrong for female fintech entrepreneurs and how we can improve the situation."
-    publishedDateTime: 2024-03-08T09:33:00Z
-    webUrl: "https://www.finextra.com/the-long-read/971/anne-boden-on-supporting-female-fintech-founders"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
   - title: "Investment Association’s Fintech Hub Announces New Firms Joining Innovator Program, Key Partnerships in Canada"
     excerpt: "The Investment Association’s (IA) Fintech hub and accelerator, IA Engine, has announced the latest firms to join its Innovator Program, as well as new global Fintech partnerships between Engine and Canada."
     publishedDateTime: 2024-03-09T16:06:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/ibm-begins-layoffs-amid-push-t
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ibm-begins-layoffs-amid-push-toward-ai-4b2864c6"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:

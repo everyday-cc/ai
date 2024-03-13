@@ -34,15 +34,6 @@ related:
       name: Google
       domain: blog.google
     quality: 69
-  - title: "Melinda Gates says using artificial intelligence in pregnancy could help save women's lives"
-    excerpt: "Gates spoke to ABC News' Dr. Jennifer Ashton about the state of women's health. The Bill & Melinda Gates Foundation is working to increase access globally to AI-enabled ultrasound devices. Bill & Melinda Gates Foundation Each day,"
-    publishedDateTime: 2024-03-08T09:11:00Z
-    webUrl: "https://abcnews.go.com/GMA/Wellness/melinda-gates-artificial-intelligence-pregnancy-save-womens-lives/story?id=107816804"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 9
 
 secured: "j+0rhC/Mz3ODS9XlTvNvoyPiWRd4VXU6B+SX52g8m3b1PNaESRSoyAy/cOL/7gRVI9x0LvFKexfICw+eZJNWNj5k1O/naqTQb0A9AHPuTys3Z2ngoi10ijLILTi0oCJT0JjyQmYp1IbVTCHH7oEA6QziYQnX7/0OvgMiQeUJgrTdaoe4pEytqrTAg+G0oGrVa+FJRXxhjP8iM5MB1FYFUeyprirpXSh/je7A2YS/JFInaiO5DbYBN8hvSHhY4LMFAlZqpHSf34GdgKCnQvSdn6bbGdzuJiSOE7fucJX0bGOVbK78ItQlasb8Dn32bUhCGNRpHTcxph/9Pl3w3InwX91NqmofHtmw9ItJs6ZqNTA=;CLOfNvBP1qtPw2W3AZyS9w=="
 ---

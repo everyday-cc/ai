@@ -2,6 +2,40 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2024-02-09-fcc-bans-ai-generated-voices-in-robocalls.md",
+      "title": "FCC bans AI-generated voices in robocalls",
+      "excerpt": "The Federal Communications Commission (FCC) banned the use of artificial intelligence (AI) generated voices in robocalls on Thursday just weeks after a message imitating President Biden went out ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/technology/4456128-fcc-bans-ai-generated-voices-in-robocalls/",
+      "originalUrl": "https://thehill.com/policy/technology/4456128-fcc-bans-ai-generated-voices-in-robocalls/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/technology/4456128-fcc-bans-ai-generated-voices-in-robocalls/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/4456128-fcc-bans-ai-generated-voices-in-robocalls/amp/",
+      "publishedDateTime": "2024-02-08T17:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-09-a-secretive-breakthrough-will-send-ai-chip-stocks-even-higher.md",
       "title": "A Secretive Breakthrough Will Send AI Chip Stocks Even Higher",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips AI chip stocks are on fire right now. And over the next few months, some will",
@@ -1086,49 +1120,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-08-sarvam-ai-partners-microsoft-to-bring-its-voice-based-ai-tools-to-azure.md",
-      "title": "Sarvam AI partners Microsoft to bring its voice-based AI tools to Azure",
-      "excerpt": "Indian generative AI startup Sarvam AI on Thursday announced its collaboration with Microsoft to make its Indic voice Large Language Model (LLM) available on Azure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.punjabnewsexpress.com/technology/news/sarvam-ai-partners-microsoft-to-bring-its-voice-based-ai-tools-to-azure-239451",
-      "originalUrl": "https://www.punjabnewsexpress.com/technology/news/sarvam-ai-partners-microsoft-to-bring-its-voice-based-ai-tools-to-azure-239451",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.punjabnewsexpress.com/images/article/article239451.jpg",
-          "width": 740,
-          "height": 508,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T09:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "punjabnewsexpress",
-        "domain": "punjabnewsexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

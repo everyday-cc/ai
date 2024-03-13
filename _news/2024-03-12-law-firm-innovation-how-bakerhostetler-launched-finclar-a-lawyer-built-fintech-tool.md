@@ -2,9 +2,9 @@
 category: news
 title: "Law Firm Innovation: How BakerHostetler Launched FinClar, a Lawyer-Built FinTech Tool"
 excerpt: "Legaltech News sat down with Jonathan Forster, Northeast practice leader of BakerHostetler’s Private Wealth Group and the one behind FinClar, to discuss how and why he created the firm's new FinTech tool,"
-publishedDateTime: 2024-03-11T21:52:00Z
-originalUrl: "https://www.law.com/2024/03/11/law-firm-innovation-how-bakerhostetler-launched-finclar-a-lawyer-built-fintech-tool/"
-webUrl: "https://www.law.com/2024/03/11/law-firm-innovation-how-bakerhostetler-launched-finclar-a-lawyer-built-fintech-tool/"
+publishedDateTime: 2024-03-11T19:23:00Z
+originalUrl: "https://www.law.com/legaltechnews/2024/03/11/law-firm-innovation-how-bakerhostetler-launched-finclar-a-lawyer-built-fintech-tool/"
+webUrl: "https://www.law.com/legaltechnews/2024/03/11/law-firm-innovation-how-bakerhostetler-launched-finclar-a-lawyer-built-fintech-tool/"
 type: article
 quality: 17
 heat: 17
@@ -24,6 +24,6 @@ images:
     height: 633
     isCached: true
 
-secured: "zYm6JlmXuBkxQgt2W6mqWVz1rrZAth/HoyBEAVpLw8H4oJJH2hH+/EqCJxg+elNtirZsjF81W+183HOlhB7vMlbvhSjybauw0P9Bw9fDmNtrFVGw9fU0McpLKUkFYUYPts5H49sIUFKJBttyosYS99MJUBdnIBBPjGwt3mEGYFGmzyYunmqlqOgsNfQFFonyzQt3BkhW2mNT28McAfTgUuG/JUHQxBitboAHppxinHu2OcsOEi068N3xtgOZ1pJk5A1W8niDPJxnwE7GKLTix8pX8+Ob7sIXNGbgMSKS66iZN6ulrYRM8YM5ukNMZzTs9Pz9dmY0UJ8bukoqPRrDORRRy4V7BYUj8PmuTYo2RsbkBGYbnQJtzh2WWzAGI78PMj1NF9pGH9xPs8nK+reHiK/jcsDSQIokfyLsfgAvDuNVczhffD6CMoJ1uqn13KnnvJw9aIm5esd6++FofTiqJkV2PJ9WXufFn6z5wsBLNE1kxAVKtLwJDfq7XZKsoSWUwmBttYg1wkrTQV2MWNA57Q==;H9Ugy7HcGzWM210hlYiBqw=="
+secured: "lkdoohzTQ9rs96DR2R6bJpk3J8qpI30V76VDbVriyWbVM7MDXcpYMkV3wIRIUJOZU5m0qLJ8u7B4ey0GJh7g8mJPO0xDPyeWu1zbk58ZVnuULh9QCw34ox9xG+nSeQ5gbGL03GFJR7gVVK7Eznytoho8Xy7yI8yMoS46ZYps5K+MEYkWPKc3knWqwyu27/36Q1QMWfEO9VWPzGsR25BdzZ9ZcjprM3oMVbuI7BWgY3WU2amKmR+QWneEBBUxUCGwIfefJEKeXGQktq6q3Z93wmVGfvPdpmzWjkKA6Y/Y9HGDQEPTeR7MbN1xW+sUgn+HPoDSHkAJfd/m+WkCIVGcd9AYkv/2kGUgSlWiYls7dZw=;7v4U/cQzYSH5ZRxp1LAGSw=="
 ---
 

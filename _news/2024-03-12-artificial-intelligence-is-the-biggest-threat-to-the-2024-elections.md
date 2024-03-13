@@ -132,20 +132,6 @@ related:
         width: 437
         height: 437
         isCached: true
-  - title: "Key Lessons for Businesses From Google's Conversational AI Innovations"
-    excerpt: "Cognitive AI offers a path to augment and eventually substitute human agents in complex decision-making processes."
-    publishedDateTime: 2024-03-08T08:47:00Z
-    webUrl: "https://www.inc.com/srini-pagidyala/key-lessons-for-businesses-from-googles-conversational-ai-innovations.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/google-ai-inc-1234053501_538078_qgaxa4.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Overcoming the AI Privacy Predicament"
     excerpt: "The IAPP's Müge Fazlioglu says organizations must address consumers' privacy concerns to realize the full potential of AI"
     publishedDateTime: 2024-03-08T12:30:00Z

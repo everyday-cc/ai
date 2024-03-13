@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Google restricts election-related queries for its Gemini chatbot"
-excerpt: "Google on Tuesday announced it will begin restricting the types of election-related questions that users can ask its Gemini chatbot."
-publishedDateTime: 2024-03-12T14:06:00Z
-originalUrl: "https://www.nbcnewyork.com/news/national-international/google-restricts-election-related-queries-for-its-gemini-chatbot/5218051/"
-webUrl: "https://www.nbcnewyork.com/news/national-international/google-restricts-election-related-queries-for-its-gemini-chatbot/5218051/"
-ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/google-restricts-election-related-queries-for-its-gemini-chatbot/5218051/?amp=1"
-cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/google-restricts-election-related-queries-for-its-gemini-chatbot/5218051/?amp=1"
+excerpt: "Google's Gemini rebrand, app rollouts and feature expansions were a first step to \"building a true AI assistant,\" Sissie Hsiao, a vice president at Google and general manager for Google Assistant and Bard, told reporters on a call in February."
+publishedDateTime: 2024-03-12T00:00:00Z
+originalUrl: "https://www.nbcbayarea.com/news/national-international/google-restricts-election-related-queries-for-its-gemini-chatbot/3479291/"
+webUrl: "https://www.nbcbayarea.com/news/national-international/google-restricts-election-related-queries-for-its-gemini-chatbot/3479291/"
+ampWebUrl: "https://www.nbcbayarea.com/news/business/money-report/google-restricts-election-related-queries-for-its-gemini-chatbot/3479291/?amp=1"
+cdnAmpWebUrl: "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/business/money-report/google-restricts-election-related-queries-for-its-gemini-chatbot/3479291/?amp=1"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: NBC New York
-  domain: nbcnewyork.com
+  name: NBC Bay Area
+  domain: nbcbayarea.com
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://media.nbcnewyork.com/2023/12/107328777-16990343932020-01-20t120454z_160733568_rc2oje9w6izp_rtrmadp_0_google-eu-1.jpeg?quality=85&strip=all&resize=1200%2C675"
+  - url: "https://media.nbcbayarea.com/2023/12/107328777-16990343932020-01-20t120454z_160733568_rc2oje9w6izp_rtrmadp_0_google-eu-1.jpeg?quality=85&strip=all&resize=1200%2C675"
     width: 1200
     height: 675
     isCached: true
@@ -117,15 +117,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "You can now add extra security to your ChatGPT - here's how and why you should"
-    excerpt: "You can now add extra security to your ChatGPT and API accounts by turning on multi-factor authentication. Set it up in account > settings. pic.twitter.com/amXkJXK0HZ"
-    publishedDateTime: 2024-03-08T09:12:00Z
-    webUrl: "https://www.zdnet.com/article/you-can-now-add-extra-security-to-your-chatgpt-heres-how-and-why-you-should/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 62
   - title: "ChatGPT maker OpenAI lawyers up with familiar faces to once again challenge Elon Musk's claims"
     excerpt: "OpenAI, the developer and owner of the artificial intelligence system ChatGPT, and its CEO Sam Altman, have chosen lawyers to represent the company and its officers in their fight with Elon Musk over the structure of the company."
     publishedDateTime: 2024-03-12T16:54:00Z
@@ -272,6 +263,6 @@ related:
       domain: cybernews.com
     quality: 19
 
-secured: "UxjX6AR423HGvEm3GcNe0E31/nTmC/co8TiMOklWSj31UFgecdul5PuNPyNyzC9miyc0Fw87PScMpWbsf+ITR9oIyb4eF1rlPA+9lWDruywW81ghuiFw3ZJ7L14+tPqZRj7Pw0TzFdSk6OYPL5z0MVpsrnEI5ivE4GzGApyl9xeDhzwqmrtGCFbnuZ1mtxy4bX2hgqj+T2xne9GicX6alhuaizTTNcpAB9SMpDBTKpzm1tfmWblB6h+5woh4Ingh2FBwt0Jf7dElG80ftF4kc/uw8vn5Ksrphzew5z99jW8FylrFKVJI8AvZBvP3jZmOEIeqCbSM+lC2DVZ0bMk35xcQPINER79ErX3ke0h6x5f0BIyC6HauoyCRfhooeFuPpZjUmbm/aQkGhnJrCJQZXxmfuebLycoxSilLJuUJxwhU5EKFwvhKdW6tuKFKwM6cVXXV9JUDj9rbiwuts/l6Z0IGLy6jQWzjJJKtZDfyLDwww13fuEQGx1TqvBpRskZsqLGjDMut6fhTT2Y2KvG88g==;WvgpfzI5PJrgglqTUpyTJg=="
+secured: "hKl4pepVYCs8+Td1YZugzn0IIghUkXduXqSpaciddJAzpHIC8hJDNZNyYXuKve/YzAv3RVCjUVX9drVl3vIkWHhssJd8WrcjxRUQ4riwJKzwToITh5KIn5EezcRPsclSc+tG3wh76ZYXf4UuyD1ng2+FInDUqa342X7Mzw9ZVmkaHYYmqU5ul/BDFz95C1Sp3f5Bjqcak4V2ryHGErE6tf+QPR2RhIUtH9z7Ow5qKyq7AYUQYLbRlEwDKg9rQjaI/h44KPuse3Mk2/hwh7KvLbUmOiF7N5oGSpzXfBvUIzedxJAs2kqV6yxZwG0HQASnbL04CqOX+H7pPTMoDWnwgWn3VWW8RigjOH80ByszHEg=;j77k8ZAGchs9Fa/c1EA3TQ=="
 ---
 

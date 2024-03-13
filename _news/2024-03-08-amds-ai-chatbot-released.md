@@ -140,6 +140,20 @@ related:
         width: 5896
         height: 3931
         isCached: true
+  - title: "How AI Chatbots Can Help You Finally Learn a New Language"
+    excerpt: "Language learning has undergone a revolution over the last few decades. Gone are the days of learn-in-your-car cassettes or phonetic phrasebooks. Apps like iTalki or Verbling that pair users with inexpensive contract tutors have made it possible to learn an entire language from your phone or computer for very little money."
+    publishedDateTime: 2024-03-13T08:52:00Z
+    webUrl: "https://www.thedailybeast.com/how-ai-bots-like-natulang-can-help-you-learn-a-language"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 37
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1709907476/240307-spanish-robot-hero2_ekb2jc"
+        width: 1480
+        height: 832
+        isCached: true
 
 secured: "kbo4+4HL+8DBXA5Vux1PK7w2lPL0d92eKvGlosXQHvIbrnwr/qLBuu3Q/mP0vVOxOv2511vgkYn662AlSJ3LV9xbUZYzLz6S+KfkHzRqGc7SRm3/fT7KepETziR7upXS2mxsRJ6vX9jDixI+C2GN+59JD034KC82Nd6CX/UTr1Y/pZDTGGjzPdiqWgEj5Pgb7nkrY7qbgnNrH3PQsXnVQX8W7839ce5wX5D0lJQwV1u5L4+JLMixIi65c4/4nf1ER4+vMA46bWd1rps1TFltLtvzWM1a9oLaPqfcRzUIz1tKiYa8PYH3JYhj5njBynglThA0nm2tNDuHXBmVWG+RRXu4EX5I3YB4zy01E8e507OpZofoonlzOtpTWuAeAlp/xrLOE4GMnVPgEkiWYavs71iLQ2vFY1x8SzYC7/zKiPoKZAEVX/iNiv7ItSZAQvSvVNS+HgIkEnCzfSCg8l4opDjdt+S+ZcPG0Xrnj/bRQVJ1nj4n2cdIEvvZskJDljyM/sjGxAhgUzCiGWWPxA9y2g==;yGVp++O/Ik1Q0w3l3tNrEg=="
 ---

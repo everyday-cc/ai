@@ -2,6 +2,58 @@
   "page": 80,
   "value": [
     {
+      "path": "_news/2024-01-12-slew-of-deepfake-video-adverts-of-sunak-on-facebook-raises-alarm-over-ai-risk-to-election.md",
+      "title": "Slew of deepfake video adverts of Sunak on Facebook raises alarm over AI risk to election",
+      "excerpt": "Research finds more than ... Sunak were paid to be promoted on Facebook in the last month alone, according to research that has raised alarm about the risk AI poses before the general election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2024/jan/12/deepfake-video-adverts-sunak-facebook-alarm-ai-risk-election",
+      "originalUrl": "https://www.theguardian.com/technology/2024/jan/12/deepfake-video-adverts-sunak-facebook-alarm-ai-risk-election",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/9d5e9162023d9ccd0cbd76fb9081df1df2fb2e4e/0_111_3000_1800/master/3000.jpg?width=620&quality=85&auto=format&fit=max&s=f9a46408ed30571ab757cb7578787637",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2024/jan/12/deepfake-video-adverts-sunak-facebook-alarm-ai-risk-election",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/12/deepfake-video-adverts-sunak-facebook-alarm-ai-risk-election",
+      "publishedDateTime": "2024-01-12T05:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-12-industrial-tech-giant-abb-buys-ai-powered-robot-navigation-startup-sevensense.md",
       "title": "Industrial tech giant ABB buys AI-powered robot navigation startup Sevensense",
       "excerpt": "said today it has acquired a startup called Sevensense Robotics AG that specializes in improving the mobility and awareness of industrial robots. Sevensense is said to combine artificial intelligence smarts with 3D vision capabilities to enable robots to ...",
@@ -979,49 +1031,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-casper-labs-announces-blockchain-based-ai-governance-tool-built-using-ibms-watsonx-platform.md",
-      "title": "Casper Labs announces blockchain-based AI governance tool built using IBM’s watsonx platform",
-      "excerpt": "Casper Labs, a flexible blockchain solutions company, today announced that it’s working with IBM Corp. to build an artificial intelligence governance tool that uses decentralized ledger technology to introduce version control, monitoring and access controls for AI models.",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2024/01/11/casper-labs-previews-blockchain-based-ai-governance-tool-built-ibms-watsonx-platform/",
-      "originalUrl": "https://siliconangle.com/2024/01/11/casper-labs-previews-blockchain-based-ai-governance-tool-built-ibms-watsonx-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/cybersecurity-hand-reach-binary.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T12:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

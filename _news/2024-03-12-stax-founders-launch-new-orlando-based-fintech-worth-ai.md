@@ -56,6 +56,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
+  - title: "Fintech Firm Perfios Becomes India's Second Unicorn Of This Year"
+    excerpt: "B2B SaaS fintech company Perfios has become India's second unicorn of 2024 as it raised $80 million in a new funding round"
+    publishedDateTime: 2024-03-13T09:50:00Z
+    webUrl: "https://menafn.com/1107971164/Fintech-Firm-Perfios-Becomes-Indias-Second-Unicorn-Of-This-Year"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?14576"
+        width: 416
+        height: 250
+        isCached: true
   - title: "1 Week to Go! Top 100 Women in FinTech 2024"
     excerpt: "In honour of International Women’s Month, FinTech Magazine - in association with Amberdata, JP Morgan Payments, and AWS - will be releasing its Top 100 Women in FinTech for 2024."
     publishedDateTime: 2024-03-11T12:45:00Z

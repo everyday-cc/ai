@@ -71,6 +71,20 @@ related:
       name: Mint
       domain: livemint.com
     quality: 39
+  - title: "Safeguarding the future of artificial intelligence"
+    excerpt: "In recent years, the development of artificial intelligence (AI) has been viewed as a “double-edged sword,” where some do find it beneficial, yet others are more skeptical about the problems it may create."
+    publishedDateTime: 2024-03-13T08:55:00Z
+    webUrl: "https://www.thejakartapost.com/business/2024/03/13/safeguarding-the-future-of-artificial-intelligence.html"
+    type: article
+    provider:
+      name: The Jakarta Post
+      domain: thejakartapost.com
+    quality: 39
+    images:
+      - url: "https://img.jakpost.net/c/2024/03/13/2024_03_13_148255_1710319236._large.jpg"
+        width: 1360
+        height: 765
+        isCached: true
 
 secured: "ri1O4F4HqCurdav14vSmZhJwwZLlQX62W/5qEh0FD5N/O2knTDtUydXyjYYtlDX+HyZ7gSMXREzqC+azBHJGzoM/+3x+8M2O/9JO/PCYXr2GDMWA/QP0yan5UakeLzOqhC+vBv88bJ68TeUawhZkvHKpFnIvhdN0ZKXG/geGlvJ1TCX6dV9P6FnCUB8OKg2LBaUsrXauHspQOzDzKn9k1B/wEVsgXKZHjq6XnMiV/TIpbk1tdN+cMCjuGaFCSA3lRIyiwufU8L7libqX0g/ctUaj+aeGTBz8sCL1zpuaSjfeJRNqn//kfzJ4vqaM2S+9JBfhPSgRyRbfSQ+RQ1S/MOfGPcN+OnwPN/dTwWKGVP45cMMqj+1/IIlIM5McvtiHqzlCSSEAyR0HJo6qJo3Ao0HmQvZqsILU0FznwFGDZa549V6o89uvA/IUrsH7AZxVChN62yjJBDEIs39uGHqEayQsfRnrgs9KtYQNOzMG0YyKlhxYP3oDq6ieS2NfWT5XOlD3m+gbbOSIBj2cDEvUmw==;6VmDHdDE3Qsx71nRIHesTQ=="
 ---

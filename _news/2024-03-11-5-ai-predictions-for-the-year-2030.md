@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2024/03/10/10-ai-predictions-f
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2024/03/10/10-ai-predictions-for-the-year-2030/amp/"
 type: article
 quality: 93
-heat: 193
+heat: 183
 published: true
 
 provider:
@@ -124,20 +124,6 @@ related:
       - url: "https://www.thetechedvocate.org/wp-content/uploads/2024/03/The-AI-Revolution_-10-Jobs-at-Risk-as-ChatGPT-Makes-Waves-in-the-Business-World.jpeg"
         width: 437
         height: 437
-        isCached: true
-  - title: "Key Lessons for Businesses From Google's Conversational AI Innovations"
-    excerpt: "Cognitive AI offers a path to augment and eventually substitute human agents in complex decision-making processes."
-    publishedDateTime: 2024-03-08T08:47:00Z
-    webUrl: "https://www.inc.com/srini-pagidyala/key-lessons-for-businesses-from-googles-conversational-ai-innovations.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/google-ai-inc-1234053501_538078_qgaxa4.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Artificial Intelligence is the biggest threat to the 2024 elections"
     excerpt: "Yubico, the leading provider of hardware authentication security keys, and Defending Digital Campaigns (DDC), a nonprofit and nonpartisan organisation committed to bringing free cybersecurity tools and resources to federal election campaigns,"

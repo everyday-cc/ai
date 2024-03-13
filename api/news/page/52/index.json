@@ -2,6 +2,49 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2024-02-03-scientists-map-neural-network-in-mouse-brain.md",
+      "title": "Scientists map neural network in mouse brain",
+      "excerpt": "Chinese scientists have outlined the largest depiction so far of mouse cells in the hippocampus, a key brain area for learning and memory, and studied how single neurons in the area are interconnected and how they connect with neurons in other brain areas.",
+      "sourceUrl": null,
+      "webUrl": "https://global.chinadaily.com.cn/a/202402/03/WS65bd7a4fa3104efcbdae971c.html",
+      "originalUrl": "https://global.chinadaily.com.cn/a/202402/03/WS65bd7a4fa3104efcbdae971c.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img2.chinadaily.com.cn/images/202402/03/65bd8885a3104efc33024a09.jpeg",
+          "width": 857,
+          "height": 571,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-03T00:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-03-10-must-have-tools-for-your-firearm-workspace.md",
       "title": "10 Must-Have Tools For Your Firearm Workspace",
       "excerpt": "The Federal Bureau of Investigation (FBI) is initiating Project Tyr, an effort to employ Amazon’s artificial intelligence-driven Rekognition cloud service to identify firearms—among other ...",
@@ -1106,49 +1149,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-why-snowflake-stock-is-trading-at-new-52-week-high.md",
-      "title": "Why Snowflake Stock Is Trading At New 52-Week High",
-      "excerpt": "Snowflake's stock is up nearly 14% over the past month as excitement surround artificial intelligence and associated ... Amazon.com’s AMZN fourth-quarter AWS revenue growth re-acceleration ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/24/02/36913388/why-snowflake-stock-is-trading-at-new-52-week-high",
-      "originalUrl": "https://www.benzinga.com/24/02/36913388/why-snowflake-stock-is-trading-at-new-52-week-high",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2024/snowflake-shutter.jpeg?width=1200&height=800&fit=crop",
-          "width": 830,
-          "height": 553,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/36913388",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36913388",
-      "publishedDateTime": "2024-02-02T12:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

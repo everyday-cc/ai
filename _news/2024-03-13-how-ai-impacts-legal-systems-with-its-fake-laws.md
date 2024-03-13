@@ -44,13 +44,13 @@ related:
     provider:
       name: The Conversation
       domain: theconversation.com
-    quality: 26
+    quality: 28
     images:
       - url: "https://images.theconversation.com/files/581132/original/file-20240312-16-84kk3r.jpg?ixlib=rb-1.1.0&rect=0%2C370%2C4107%2C2053&q=45&auto=format&w=1356&h=668&fit=crop"
         width: 1356
         height: 668
         isCached: true
 
-secured: "aTC6yiqcUKGJG5qQIKKGUuJ25QlBB5Q8zjl/3WQJ7UC+qODodj5svMBIfXd4ZwPT5OfytTcJisdq6QO9iOEIhUpac+cAABoeyRGhIlRnRvjY2NHncr/EjRy3zABwZN9IS5JhNWe9NmiJEJweklWNdYMzaLQTKjWmBmCQVvVHWG3OhzyyGURgALo/5QA03ylttRzdLlo+R9OIyN3ELrIw434bpftws0A4cSu1IvhCtbky5n+KMvi3ZNPnDXIN11LLd6yRZ9VRt9iUmZEbOIQ9KEdmC/lcvQEVZY7uySNqvxxmH5syiaQnZFNG5DS3Ks6JRR4YaDxqMK+x/YNHkcl0BN2/NNO+w7F5KxZCmBa+Neg=;pp2gpu7ah6bsAl1sbVLQ6g=="
+secured: "fHOfZdvE4Bv7LH4BlvUyTUKbgUY8dcbH+d6vTwNZGBj6VIyb7kjU4SboWw2QfFdhqurg0tshOdPGf5cJw64FWVOLJ4uF6qYPED+6AdAW2O4/0R616sDh/1cOUfYhUfEzeJVhWm9pSA4lpwIuW/L4ZUlcJ7bDzNSzVpizeYeXF56h0zQbDw5jC/BVmkUDP4Sk+IXS6PGZnmC8WoXw8piv/pylMfMEPk/8g6ROVkGITnMtd8FAwI7rJBSQNbomg7IMSpRNwExinpHjatyK0yo3UholRu5s0oUhho4pRwoneYi5xSmjXt3OorBR6QoUmhtO839bvBUBbsc+lyCUaGQ3S84X5DyS0zq5eOFoTVRXotcialCX7Aa8JJUvdYKndjhDOJ82yS4ku3r/LUziIYDSKDchCSrB5rvVXHVFULJYW3aU4Th+oVh9N+4WQfi9v9WmXlxWjtKVwT9ZwvA/8xKNY62+2CvU1iyZqJePamjtPtOS0eVtSNKtHQeW4lC/ohJka14dxCLT6CPc4BqEMjy3dA==;p7ZjtfCH43yAPnnkQbHn/w=="
 ---
 

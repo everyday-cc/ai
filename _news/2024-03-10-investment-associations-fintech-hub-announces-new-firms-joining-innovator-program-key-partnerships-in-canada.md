@@ -37,15 +37,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Anne Boden on supporting female fintech founders"
-    excerpt: "Yet Boden has been busy recently. Last week she launched her third book, ‘Female Founders’ Playbook: Insights from the superwomen who made It’ and released a report from the Women-Led High-Growth Enterprise Taskforce which she led. I spoke with her about where we’re going wrong for female fintech entrepreneurs and how we can improve the situation."
-    publishedDateTime: 2024-03-08T09:33:00Z
-    webUrl: "https://www.finextra.com/the-long-read/971/anne-boden-on-supporting-female-fintech-founders"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
 
 secured: "YJewbXgviRz0sXIEt3xiFk8ks60CXU15Xa1Lfns6NExhXOwOoVS6tEl9pFXr0WC8BuWtcK5rdTwhinz9/COknCGBi8c+ibqyO3gy+HtLBvQZi/cEstC1jRvjASP9Z4TMA6MQwryhsarzLFgSnuUx1sGHsXdZc/gNOQlFEkwju40KRMeoTk4zk767rqSGo5y03xuPXabiEkLLdM67/90Obl6TRkXEbFwlLRcqjCIaYOxRPEOfm1+URdpC3ZlQN1/tzRwFuF2r4/DCIYt/xr7IZ6KyUm6E9LPfV7ckkIeMaQryThMmzp3GvcjHQ1yCqQStbjy8qfBwQejU8GscyYyuHTAy2L/Bn39S9FY/xpAetMLl7RfnbE5/aBB/NVg/bREZ8HR6GFhjDMa9PXT4m2tvZDUAZ7QyzW6ILBwjklSabEU18ENM18hojLlkaBy1e+noe/T6v5fdsX2AoacjrR+bfZv+3rRr/PXpoLVRv1YNR0lh5dvdYMU0CTf3wqQcDhFEKEiTkUpDroJt7P8vkYN5+Q==;slUfB/mTjX8YvFW2lOKdPw=="
 ---

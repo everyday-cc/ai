@@ -127,20 +127,6 @@ related:
         width: 437
         height: 437
         isCached: true
-  - title: "Key Lessons for Businesses From Google's Conversational AI Innovations"
-    excerpt: "Cognitive AI offers a path to augment and eventually substitute human agents in complex decision-making processes."
-    publishedDateTime: 2024-03-08T08:47:00Z
-    webUrl: "https://www.inc.com/srini-pagidyala/key-lessons-for-businesses-from-googles-conversational-ai-innovations.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/google-ai-inc-1234053501_538078_qgaxa4.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Artificial Intelligence is the biggest threat to the 2024 elections"
     excerpt: "Yubico, the leading provider of hardware authentication security keys, and Defending Digital Campaigns (DDC), a nonprofit and nonpartisan organisation committed to bringing free cybersecurity tools and resources to federal election campaigns,"
     publishedDateTime: 2024-03-12T01:01:00Z

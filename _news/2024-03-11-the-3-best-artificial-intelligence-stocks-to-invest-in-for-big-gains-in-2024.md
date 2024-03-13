@@ -50,15 +50,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
-  - title: "The Top 50 Language AI Companies to Watch in 2024"
-    excerpt: "Florian and Esther discuss the language industry news of the week, with Head of Research Anna Wyndham joining to give a breakdown of the 2024 Slator Language AI 50 Under 50, a list highlighting 50 of the newest and most notable language AI companies."
-    publishedDateTime: 2024-03-08T08:30:00Z
-    webUrl: "https://slator.com/top-50-language-ai-companies-to-watch-2024/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 19
 
 secured: "5Cx113ehiVT5WSpNq3YIjTBMZ3k4/0Btv3MVYe0r7Fpb/IWpx+bMJ9m8UdLr1OnQF72zmjjSfHWsRKpxq/vRSuR+/lhD70F3tVMr5mQ4OfbMhvXtOsJpIVIh5Lr700zoW9ldzuqNzfD9V/PQwRiW/7R6UVI2Bd1KKYZuMtub1zAOXDNc3fLPmcuGx3F74BZDAtUZqAhiaM4d7+U137j6Smqz4kv1pvclNOAOzkbHLHVhJqnM+mn2EBE4DKOtqKC8Tn/LsZQKnOur8vP+szIiEEzeJBrpMO/txXHh2z0S81mP8iNJVFxRWnODOrfj3mxeFXRT3aLBH3DoXPuRj00jiAZSrm0pZq4PuhKKa+K2525cInO+Ogz5o6ht0Rj8+grQx7qI+JnWYWkqzS/MZYEmHOupYh6ubW7oak3V53RfxXFzS3MhGMwoISKolDmBfbtOdeQZFN/HeewsYaBqAvMdM7c/73uxRO5jpuH5bqjsQuBJP6WjohrjxjMgR7JtDNalsonnFVQgEALcnIRZ5GYVJg==;gXNByxj9uYWhEbJLX58yeQ=="
 ---

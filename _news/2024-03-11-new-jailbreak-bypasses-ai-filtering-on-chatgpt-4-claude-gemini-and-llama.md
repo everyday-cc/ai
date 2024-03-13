@@ -110,15 +110,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "You can now add extra security to your ChatGPT - here's how and why you should"
-    excerpt: "You can now add extra security to your ChatGPT and API accounts by turning on multi-factor authentication. Set it up in account > settings. pic.twitter.com/amXkJXK0HZ"
-    publishedDateTime: 2024-03-08T09:12:00Z
-    webUrl: "https://www.zdnet.com/article/you-can-now-add-extra-security-to-your-chatgpt-heres-how-and-why-you-should/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 62
   - title: "ChatGPT maker OpenAI lawyers up with familiar faces to once again challenge Elon Musk's claims"
     excerpt: "OpenAI, the developer and owner of the artificial intelligence system ChatGPT, and its CEO Sam Altman, have chosen lawyers to represent the company and its officers in their fight with Elon Musk over the structure of the company."
     publishedDateTime: 2024-03-12T16:54:00Z
@@ -191,18 +182,18 @@ related:
         height: 372
         isCached: true
   - title: "Google restricts election-related queries for its Gemini chatbot"
-    excerpt: "Google on Tuesday announced it will begin restricting the types of election-related questions that users can ask its Gemini chatbot."
-    publishedDateTime: 2024-03-12T14:06:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/google-restricts-election-related-queries-for-its-gemini-chatbot/5218051/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/google-restricts-election-related-queries-for-its-gemini-chatbot/5218051/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/google-restricts-election-related-queries-for-its-gemini-chatbot/5218051/?amp=1"
+    excerpt: "Google's Gemini rebrand, app rollouts and feature expansions were a first step to \"building a true AI assistant,\" Sissie Hsiao, a vice president at Google and general manager for Google Assistant and Bard, told reporters on a call in February."
+    publishedDateTime: 2024-03-12T00:00:00Z
+    webUrl: "https://www.nbcbayarea.com/news/national-international/google-restricts-election-related-queries-for-its-gemini-chatbot/3479291/"
+    ampWebUrl: "https://www.nbcbayarea.com/news/business/money-report/google-restricts-election-related-queries-for-its-gemini-chatbot/3479291/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/business/money-report/google-restricts-election-related-queries-for-its-gemini-chatbot/3479291/?amp=1"
     type: article
     provider:
-      name: NBC New York
-      domain: nbcnewyork.com
+      name: NBC Bay Area
+      domain: nbcbayarea.com
     quality: 44
     images:
-      - url: "https://media.nbcnewyork.com/2023/12/107328777-16990343932020-01-20t120454z_160733568_rc2oje9w6izp_rtrmadp_0_google-eu-1.jpeg?quality=85&strip=all&resize=1200%2C675"
+      - url: "https://media.nbcbayarea.com/2023/12/107328777-16990343932020-01-20t120454z_160733568_rc2oje9w6izp_rtrmadp_0_google-eu-1.jpeg?quality=85&strip=all&resize=1200%2C675"
         width: 1200
         height: 675
         isCached: true

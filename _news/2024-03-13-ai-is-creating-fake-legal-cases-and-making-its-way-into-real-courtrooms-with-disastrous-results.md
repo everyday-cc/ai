@@ -6,7 +6,7 @@ publishedDateTime: 2024-03-12T19:15:00Z
 originalUrl: "https://theconversation.com/ai-is-creating-fake-legal-cases-and-making-its-way-into-real-courtrooms-with-disastrous-results-225080"
 webUrl: "https://theconversation.com/ai-is-creating-fake-legal-cases-and-making-its-way-into-real-courtrooms-with-disastrous-results-225080"
 type: article
-quality: 26
+quality: 28
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Meta AI
 
 images:
   - url: "https://images.theconversation.com/files/581132/original/file-20240312-16-84kk3r.jpg?ixlib=rb-1.1.0&rect=0%2C370%2C4107%2C2053&q=45&auto=format&w=1356&h=668&fit=crop"

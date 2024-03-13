@@ -65,6 +65,20 @@ related:
       name: Mint
       domain: livemint.com
     quality: 39
+  - title: "Safeguarding the future of artificial intelligence"
+    excerpt: "In recent years, the development of artificial intelligence (AI) has been viewed as a “double-edged sword,” where some do find it beneficial, yet others are more skeptical about the problems it may create."
+    publishedDateTime: 2024-03-13T08:55:00Z
+    webUrl: "https://www.thejakartapost.com/business/2024/03/13/safeguarding-the-future-of-artificial-intelligence.html"
+    type: article
+    provider:
+      name: The Jakarta Post
+      domain: thejakartapost.com
+    quality: 39
+    images:
+      - url: "https://img.jakpost.net/c/2024/03/13/2024_03_13_148255_1710319236._large.jpg"
+        width: 1360
+        height: 765
+        isCached: true
   - title: "Advancing Equitable AI in the US Social Sector"
     excerpt: "How thoughtfully designed AI-powered applications can drive stronger and more equitable outcomes for nonprofits."
     publishedDateTime: 2024-03-12T12:38:00Z

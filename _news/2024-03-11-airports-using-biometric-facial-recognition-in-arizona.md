@@ -73,20 +73,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "Airports using biometric facial recognition in Florida"
-    excerpt: "The next time you're in a security line at the airport, you may find that instead of a Transportation Security Administration officer checking your ID, a camera and screen will use biometric facial recognition to confirm your face and photo ID match and ensure your ID isn't fake."
-    publishedDateTime: 2024-03-08T10:00:00Z
-    webUrl: "https://www.clickorlando.com/insider/2024/03/08/airports-using-biometric-facial-recognition-in-florida/"
-    type: article
-    provider:
-      name: News 6 WKMG
-      domain: clickorlando.com
-    quality: 54
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/DVRK2BHLAZGBXGV3QJLBZQF2B4.jpg?_a=ATAPphC0"
-        width: 700
-        height: 394
-        isCached: true
   - title: "Airports using biometric facial recognition in Texas"
     excerpt: "Spokeo looked at which airports are using facial recognition software in Texas for security screenings, according to Customs and Border Protection."
     publishedDateTime: 2024-03-12T09:26:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://blog.google/technology/health/how-ai-is-helping-advance-wo
 webUrl: "https://blog.google/technology/health/how-ai-is-helping-advance-womens-health-around-the-world/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -37,15 +37,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Melinda Gates says using artificial intelligence in pregnancy could help save women's lives"
-    excerpt: "Gates spoke to ABC News' Dr. Jennifer Ashton about the state of women's health. The Bill & Melinda Gates Foundation is working to increase access globally to AI-enabled ultrasound devices. Bill & Melinda Gates Foundation Each day,"
-    publishedDateTime: 2024-03-08T09:11:00Z
-    webUrl: "https://abcnews.go.com/GMA/Wellness/melinda-gates-artificial-intelligence-pregnancy-save-womens-lives/story?id=107816804"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 9
 
 secured: "CvC2D6+ePp8Focej3RUO5QvdSNJZ9tg73NhhmTrIijQ5M0attv5BxwWVm9M3dVyYlCU9OUMwqvPxo4mNqhhYgra4NPml7CVzfHxUaS96qmy2BA8ha7PDeRMaBbYks3G0jwKngcUvCmXR1dbH7CY1LjIByEmspn8XnqYelIYAQR0VW/NoJreLLskJMNW4cjA6wsnoV+qQ9jvGxH3BYJcCmaYEALYfpGLMFkaWf67SEjHe9yZcLGxLiO923O5M42tXR+C2cGV8cZmTpb/RvWKk6jZtXO7f0qhjti06EvVAmadvavALwKaCJhpJxXZzKSLHdJJdAXAfT0Fzd50UkmTKkvNrkxXPxhrVnFSNbwbzDJQ=;pTjMnLPLizcZRgfNKJMbZA=="
 ---
