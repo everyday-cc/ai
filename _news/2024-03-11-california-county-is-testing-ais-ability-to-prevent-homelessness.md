@@ -39,6 +39,15 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Airports using biometric facial recognition in California"
+    excerpt: "Airports using the technology in California include: Southern California Logistics (Victorville) Airport (Airport code: VCV; located in Victorville) San Francisco International Airport (Airport code: SFO; located in San Francisco) San Bernardino International Airport (Airport code: SBD; located in San Bernardino)"
+    publishedDateTime: 2024-03-10T19:14:00Z
+    webUrl: "https://www.pressdemocrat.com/article/news/airports-using-biometric-facial-recognition-in-california/"
+    type: article
+    provider:
+      name: Santa Rosa Press Democrat
+      domain: pressdemocrat.com
+    quality: 36
 
 secured: "jHPeVJZOx5G8SPJN58a1aOnjbHGPQuz4ymZJd3AY1PhxNrlSIj5dXXIjhv9B15eT41OEgh+RSGWfHan5imEP53/tFxzuIuJHBRmGO/5+9W9XKBaRx9COIs+TxBuw2x/M+sIDKgGt+HItCSAZOccgNoL0b6/JlpfQKYNOaS+4m1ujlgLPjfOuD/ePIqtlSdrf96KakjgUFHDISrqMuxSQ7zyMygXlFzxrH5PPeq8rMyytysgCim7Hg38i26DbzUYeFpUomcYbaxemTbhXZ+4oainquAOwiam8dqStFKJJt4TdBg0Qvl51ITgymiRNMleXAiPuoB0ueGkxZaA1RZJr/mmORdZb0OfpJ5Lp9fuW9nw38IC6m5795rno/3GdU9vqvfPIohPypyZd0Wu6SlxqubSv3Z3Z1k65i76R715a/iEegEdEBDNOIstl5RgSIiiKEXl2jwFbY6U2Rttz0SX82qJqZsMsDub7inTHp1vbFWR6Roi3Oo8QynPjJrdDMz1E7ZOWRwI7FMbVi1aWQYAmWg==;JiXqXYqi5lh2IXi/+g5gtw=="
 ---

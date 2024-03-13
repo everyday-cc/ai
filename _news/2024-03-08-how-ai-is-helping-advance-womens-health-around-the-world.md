@@ -7,7 +7,7 @@ originalUrl: "https://blog.google/technology/health/how-ai-is-helping-advance-wo
 webUrl: "https://blog.google/technology/health/how-ai-is-helping-advance-womens-health-around-the-world/"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -23,22 +23,6 @@ topics:
   - Google AI
 
 related:
-  - title: "International Women’s Day 2024: How women in artificial intelligence are breaking stereotypes"
-    excerpt: "As the buzz around Artificial Intelligence grows louder by the day, there are women who are making using of the technology and turning the industry on its head by opening the doors through unconventional methos of art, advertising and fashion to showcase ..."
-    publishedDateTime: 2024-03-08T04:03:00Z
-    webUrl: "https://www.mid-day.com/lifestyle/culture/article/international-womens-day-2024-how-women-in-artificial-intelligence-are-breaking-stereotypes-23338846"
-    ampWebUrl: "https://www.mid-day.com/amp/lifestyle/culture/article/international-womens-day-2024-how-women-in-artificial-intelligence-are-breaking-stereotypes-23338846"
-    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/lifestyle/culture/article/international-womens-day-2024-how-women-in-artificial-intelligence-are-breaking-stereotypes-23338846"
-    type: article
-    provider:
-      name: Mid Day
-      domain: mid-day.com
-    quality: 46
-    images:
-      - url: "https://images.mid-day.com/images/images/2024/mar/women-wold_d.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "The AI arms race between the US and China is heating up"
     excerpt: "The UK, for its part, rolled out a “National AI Strategy” in 2022 and committed roughly $4 billion in chip development subsidies. The nation has also attracted the third-largest level of private investment in AI, behind the US and China. State ..."
     publishedDateTime: 2024-03-10T12:00:00Z

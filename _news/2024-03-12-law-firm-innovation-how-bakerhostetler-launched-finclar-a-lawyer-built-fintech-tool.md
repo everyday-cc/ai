@@ -2,9 +2,9 @@
 category: news
 title: "Law Firm Innovation: How BakerHostetler Launched FinClar, a Lawyer-Built FinTech Tool"
 excerpt: "Legaltech News sat down with Jonathan Forster, Northeast practice leader of BakerHostetler’s Private Wealth Group and the one behind FinClar, to discuss how and why he created the firm's new FinTech tool,"
-publishedDateTime: 2024-03-11T21:52:00Z
-originalUrl: "https://www.law.com/2024/03/11/law-firm-innovation-how-bakerhostetler-launched-finclar-a-lawyer-built-fintech-tool/"
-webUrl: "https://www.law.com/2024/03/11/law-firm-innovation-how-bakerhostetler-launched-finclar-a-lawyer-built-fintech-tool/"
+publishedDateTime: 2024-03-11T19:23:00Z
+originalUrl: "https://www.law.com/legaltechnews/2024/03/11/law-firm-innovation-how-bakerhostetler-launched-finclar-a-lawyer-built-fintech-tool/"
+webUrl: "https://www.law.com/legaltechnews/2024/03/11/law-firm-innovation-how-bakerhostetler-launched-finclar-a-lawyer-built-fintech-tool/"
 type: article
 quality: 17
 heat: 17
@@ -37,6 +37,6 @@ related:
       domain: crowdfundinsider.com
     quality: 4
 
-secured: "qi9esNgmzazANMi0VZ/3KRyKyLHI+66eClAvpuzWaoV520Ugyrz1JeeJhJf/XZqzow1o3tJj2vEIjCghc8mzRKYEig7iS5Qm/4JKPdVb/1mXhwqirbA8iqC+8btKEKqIIayUZ2IEKCzQEyw9tvIByIkEqZyx8C6C7Rk9YyeBtcOcKzAmY1OjaUO0jSScEePyvg0Yw7zk2TWJOkyqK92mbU9ofnASV45y4TEKPXH+Yyvn4jfPLGQjzeI4ZN9tFTIKIQInEhQCXvo4JveJhU77+R0In3bOQmSl660Opd9Y6NL5kQd/JL3JxlVDpda2ozLZemOvbMObCC3a5DXlmGKrc3v58cbdnm3ol6+OIBu236uDbZLLJL+YGOUX47f8+uPFcZ1h7PCcwkLl26hNhlcmY4/p8jBYPJ2JTxkixYqyUwDpIsQnQcoUP6qBZONs+YEl7VZuVmM1HlU58Uh2BL0GEY4unINjv/LRcZWOnBbuq3aDRn7TASY5T8jRo3jPW5JQE5j5tZvFN6Tp2ljPsxa+ng==;f97V7X14uQoWDE/Gw5KVhw=="
+secured: "TonH8mqWQjmQv7tVJUKxf9wRvb8WR6gZuXuT9MvguPPQU0IQverof3S0cN5DmQ/7qQsRo37W248TLuFeTsRlfP+8X6cXw8aTyWdT8v/WnyZb1il5DdnnfifegJbncwWLYjFw1UIrE7yrMRgTFcen9tVj1JTbg4/m8pPjlbcWGWJZJ8nHUe8z3/UzCnk1BX/wb+q59LCiHtq2L0wnsGjpxo2+BSNw1bvRwHbOtegLaLzABe85M0UxeB54wEHiv4J30mPfiLz/pVK/wfrL76+YkvSn1xLSIhzYOY0Rzclycy4oqlaxJpyFNbi5fRHdzytO9ALLobdyx+X1IwpHrX190rMNLaDd1EWqbfpTCTbQjj8=;9dl7IyIlZ5Rm+i9cbc8itQ=="
 ---
 

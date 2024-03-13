@@ -7,8 +7,8 @@ originalUrl: "https://www.digitimes.com/news/a20240311PD201/samsung-ai-chip-manu
 webUrl: "https://www.digitimes.com/news/a20240311PD201/samsung-ai-chip-manufacturing-tsmc.html"
 type: article
 quality: 51
-heat: -1
-published: false
+heat: 81
+published: true
 
 provider:
   name: Digi Times
@@ -26,20 +26,18 @@ images:
 
 related:
   - title: "Samsung to use chip making tech favoured by SK Hynix as AI chip race heats up"
-    excerpt: "The demand for high bandwidth memory (HBM) chips has boomed with the growing popularity of generative AI. But Samsung, unlike peers SK Hynix and Micron Technology, has been conspicuous by its absence in any dealmaking with AI chip leader Nvidia to supply latest HBM chips."
-    publishedDateTime: 2024-03-13T00:55:00Z
-    webUrl: "https://www.moneycontrol.com/news/world/samsung-to-use-chip-making-tech-favoured-by-sk-hynix-as-ai-chip-race-heats-up-12448511.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/world/samsung-to-use-chip-making-tech-favoured-by-sk-hynix-as-ai-chip-race-heats-up-12448511.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/samsung-to-use-chip-making-tech-favoured-by-sk-hynix-as-ai-chip-race-heats-up-12448511.html/amp"
+    excerpt: "One of the reasons Samsung has fallen behind is its decision to stick with chip making technology called non-conductive film (NCF) that causes some production issues, while Hynix switched to the mass reflow molded underfill (MR-MUF) method to address NCF's weakness,"
+    publishedDateTime: 2024-03-13T02:35:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/devices/samsung-to-use-chip-making-tech-favoured-by-sk-hynix-as-ai-chip-race-heats-up/108448535"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 71
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 51
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2023/01/Samsung.png"
-        width: 1280
-        height: 720
+      - url: "https://etimg.etb2bimg.com/thumb/msid-108448535,imgsize-24818,width-1200,height=765,overlay-ettelecom/devices/samsung-to-use-chip-making-tech-favoured-by-sk-hynix-as-ai-chip-race-heats-up.jpg"
+        width: 1200
+        height: 765
         isCached: true
   - title: "Samsung to use chipmaking tech favoured by SK Hynix as AI chip race heats up: sources"
     excerpt: "SAMSUNG Electronics plans to use a chipmaking technology championed by rival SK Hynix, five sources said, as the world’s top memory chipmaker seeks to catch up in the race to produce high-end chips used to power artificial intelligence (AI)."

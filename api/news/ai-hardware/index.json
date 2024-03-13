@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2024-03-13-samsung-to-use-chip-making-tech-favoured-by-sk-hynix-as-ai-chip-race-heats-up.md",
-      "title": "Samsung to use chip making tech favoured by SK Hynix as AI chip race heats up",
-      "excerpt": "The demand for high bandwidth memory (HBM) chips has boomed with the growing popularity of generative AI. But Samsung, unlike peers SK Hynix and Micron Technology, has been conspicuous by its absence in any dealmaking with AI chip leader Nvidia to supply latest HBM chips.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/world/samsung-to-use-chip-making-tech-favoured-by-sk-hynix-as-ai-chip-race-heats-up-12448511.html",
-      "originalUrl": "https://www.moneycontrol.com/news/world/samsung-to-use-chip-making-tech-favoured-by-sk-hynix-as-ai-chip-race-heats-up-12448511.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/01/Samsung.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/world/samsung-to-use-chip-making-tech-favoured-by-sk-hynix-as-ai-chip-race-heats-up-12448511.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/samsung-to-use-chip-making-tech-favoured-by-sk-hynix-as-ai-chip-race-heats-up-12448511.html/amp",
-      "publishedDateTime": "2024-03-13T00:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-03-13-qualcomm-on-device-ai-powers-future-products-from-phones-to-pcs.md",
       "title": "Qualcomm On-Device AI Powers Future Products From Phones To PCs",
       "excerpt": "Goodson provides details on Qualcomm's newest products designed to enable on-device AI as announced at the Mobile World Congress Barcelona event.",
@@ -53,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/moorinsights/2024/03/12/qualcomm-on-device-ai-powers-future-products-from-phones-to-pcs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -522,6 +479,49 @@
       ]
     },
     {
+      "path": "_news/2024-03-11-samsung-eyes-opportunity-in-ai-chip-manufacturing-market-amid-tsmc-dominance.md",
+      "title": "Samsung eyes opportunity in AI chip manufacturing market amid TSMC dominance",
+      "excerpt": "As companies strive to establish themselves in the AI era, the South Korean industry is monitoring whether Samsung Electronics can capitalize on the AI chip orders.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitimes.com/news/a20240311PD201/samsung-ai-chip-manufacturing-tsmc.html",
+      "originalUrl": "https://www.digitimes.com/news/a20240311PD201/samsung-ai-chip-manufacturing-tsmc.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.digitimes.com/newsshow/20240311pd201_files/1_2b.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-11T04:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digi Times",
+        "domain": "digitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-10-5-blue-chip-digital-age-collectible-bargains-the-world-missed.md",
       "title": "5 blue-chip \"digital age\" collectible bargains the world missed",
       "excerpt": "Everyone acknowledges the massive impact of the digital revolution upon every aspect of society, but auction prices for landmark digital memorabilia suggest we haven't got it all in perspective just yet.",
@@ -678,7 +678,7 @@
       "originalUrl": "https://www.scmp.com/tech/big-tech/article/3254609/broadcom-sees-us10-billion-ai-chip-sales-2024-shares-dip",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -1392,21 +1392,21 @@
       ]
     },
     {
-      "path": "_news/2024-03-04-south-korean-chip-stocks-climb-in-line-with-rally-in-japanese-peers.md",
-      "title": "South Korean Chip Stocks Climb in Line With Rally in Japanese Peers",
-      "excerpt": "SK Hynix and Hanmi Semiconductor have recently drawn keen attention from investors because both have teamed up to package high bandwidth memory chips for clients to power AI applications, KB Securities analyst Juyoung Park said in a research note.",
+      "path": "_news/2024-03-05-nvidias-ai-chips-boom-could-help-the-biden-administration-bring-semiconductor-jobs-to-the-us.md",
+      "title": "Nvidia's AI chips boom could help the Biden administration bring semiconductor jobs to the US",
+      "excerpt": "Surging demand for the company's high-end chips — used to power AI technologies like ChatGPT — could help create jobs for chip designers, manufacturers, and suppliers across the semiconductor ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/south-korean-chip-stocks-climb-in-line-with-rally-in-japanese-peers-22cd0ad8",
-      "originalUrl": "https://www.marketwatch.com/story/south-korean-chip-stocks-climb-in-line-with-rally-in-japanese-peers-22cd0ad8",
+      "webUrl": "https://www.businessinsider.com/nvidia-ai-chip-semiconductors-tsmc-intel-jobs-arizona-2024-2",
+      "originalUrl": "https://www.businessinsider.com/nvidia-ai-chip-semiconductors-tsmc-intel-jobs-arizona-2024-2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "url": "https://i.insider.com/65e08f3890413ab8e1d7c781?width=1200&format=jpeg",
           "width": 1200,
-          "height": 630,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1414,16 +1414,16 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/south-korean-chip-stocks-climb-in-line-with-rally-in-japanese-peers-22cd0ad8",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/south-korean-chip-stocks-climb-in-line-with-rally-in-japanese-peers-22cd0ad8",
-      "publishedDateTime": "2024-03-04T06:00:00Z",
+      "ampWebUrl": "https://www.businessinsider.com/nvidia-ai-chip-semiconductors-tsmc-intel-jobs-arizona-2024-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nvidia-ai-chip-semiconductors-tsmc-intel-jobs-arizona-2024-2?amp",
+      "publishedDateTime": "2024-03-04T16:49:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

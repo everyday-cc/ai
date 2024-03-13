@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Ancient Scrolls Are Being 'Read' By Machine Learning - With Human Knowledge To Detect Language And Make Sense Of Them"
-excerpt: "A groundbreaking announcement for the recovery of lost ancient literature was recently made. Using a non-invasive method that harnesses machine lear"
-publishedDateTime: 2024-03-13T00:20:00Z
-originalUrl: "https://menafn.com/1107969113/Ancient-Scrolls-Are-Being-Read-By-Machine-Learning-With-Human-Knowledge-To-Detect-Language-And-Make-Sense-Of-Them"
-webUrl: "https://menafn.com/1107969113/Ancient-Scrolls-Are-Being-Read-By-Machine-Learning-With-Human-Knowledge-To-Detect-Language-And-Make-Sense-Of-Them"
+title: "Ancient scrolls are being ‘read’ by machine learning — with human knowledge to detect language and make sense of them"
+excerpt: "However exciting the technological developments may be, the task of reading and analyzing the Greek and Latin texts recovered from the papyri will fall to human beings."
+publishedDateTime: 2024-03-12T18:53:00Z
+originalUrl: "https://theconversation.com/ancient-scrolls-are-being-read-by-machine-learning-with-human-knowledge-to-detect-language-and-make-sense-of-them-224334"
+webUrl: "https://theconversation.com/ancient-scrolls-are-being-read-by-machine-learning-with-human-knowledge-to-detect-language-and-make-sense-of-them-224334"
 type: article
 quality: 16
 heat: 16
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?118493"
-    width: 476
-    height: 250
+  - url: "https://images.theconversation.com/files/580263/original/file-20240306-30-3x4aw.png?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop"
+    width: 1356
+    height: 668
     isCached: true
 
-secured: "bKwxj/fJpiqGQUCdRTzNPqoAjGXDQSouoIWjpdNLOdD3FEYuoOLNQfR35enrG8tsJiu/pweR5ppeWpVi282xUddW9/GGDLhWaweqejzauSjNkbJ9qzDSRPGdqrcec7pGLtUSAAMRRGn/6VfW/+ksGwUXnxUPkxzVNRrOTJSSpMKCcT/xghpgL5W8RyDgFj+CC97QIiVT708FKFgYk/+3sA5knyVXw2rUU54e/3xGwQJcoxTdsul2FEXJBO4fQd5BH4K67rTVTUMNHpGMIP5V0y0NdioTkgOm3jJez0Uv4844lTP1ZUYTVrAz7a02AtPIzhX9WY6k+MwlbonVPhFnsPnLTcwf+7P8M3JiQWOffGM=;MttKPEisYxXtbUdp38gOBQ=="
+secured: "ckjXNTtgoaFXsPTFG9HnzmOxRJ8dNRQRHZin8Ixvb/WyvEDtC/78P1Dpooar6KyU/pczj3z06ZjYOzyl/rhq6Ubdl6pFGm10amq8AC02tUpSLVSeeMErHDsNLzrwW9ObuYhgbtiEFQ18tdjfagqmde/jrISHGu2FmOw2o3NcC+4/v+kI+5qdpoTauAmxrb8IQ7ULgsQDPdaoZMlUKVDJ82ct0CK12Lo1ntkWHYPa4VL7Q+LWi4/zTXARTs6/Upar61nCqEOfpTPhtSHphgzHBrN1iy0pgsp3A0F4aieM3+cJgxAjs2X4FWc/kqthB7ayc7oo9Vsv3ozC60k1pO4skaQYCo7Wpg5hoHAoS3amHHs=;IIEMVQUYawFThKvEjdpULg=="
 ---
 

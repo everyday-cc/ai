@@ -118,6 +118,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "The Best US Cities for AI Jobs Revealed"
+    excerpt: "Spread the loveThe United States is rapidly becoming the global hub for artificial intelligence (AI), with jobs in this field growing at an unprecedented rate. As industries from healthcare to finance integrate AI into their operations,"
+    publishedDateTime: 2024-03-13T02:36:00Z
+    webUrl: "https://www.thetechedvocate.org/the-best-us-cities-for-ai-jobs-revealed/"
+    type: article
+    provider:
+      name: thetechedvocate.org
+      domain: thetechedvocate.org
+    quality: 39
+    images:
+      - url: "https://www.thetechedvocate.org/wp-content/uploads/2024/03/The-AI-Revolution_-10-Jobs-at-Risk-as-ChatGPT-Makes-Waves-in-the-Business-World.jpeg"
+        width: 437
+        height: 437
+        isCached: true
   - title: "Artificial Intelligence is the biggest threat to the 2024 elections"
     excerpt: "Yubico, the leading provider of hardware authentication security keys, and Defending Digital Campaigns (DDC), a nonprofit and nonpartisan organisation committed to bringing free cybersecurity tools and resources to federal election campaigns,"
     publishedDateTime: 2024-03-12T01:01:00Z

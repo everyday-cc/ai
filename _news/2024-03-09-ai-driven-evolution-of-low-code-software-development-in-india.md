@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ai-
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/lite/"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://www.siliconindia.com/news/newsimages/lenevo1.jpg"
         width: 570
         height: 367
-        isCached: true
-  - title: "Cognition Makes AI Software Engineer, Devin to Solve Whole Development Projects and Improve Its Own Code"
-    excerpt: "Stealth Startup, Cognition, backed by Peter Thiel’s Founders Fund and former-Twitter executive Elad Gil and Doordash co-founder Tony Xu, announced a fully autonomous AI software engineer called Devin. Devin can handle entire development projects end-to-end."
-    publishedDateTime: 2024-03-12T00:00:00Z
-    webUrl: "https://www.nextbigfuture.com/2024/03/cognition-makes-ai-software-engineer-devin-to-solve-whole-development-projects-and-improve-its-own-code.html"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 20
-    images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2024/03/Screen-Shot-2024-03-12-at-4.56.20-PM.jpg"
-        width: 1396
-        height: 1174
         isCached: true
   - title: "Use of Indian languages key for increasing internet access in India: Report"
     excerpt: "The report also shows that in the recent past, the use of the internet in Indian languages is increasing. It shows that 57 per cent of internet users prefer to access the internet in Indian languages, with Hindi topping the chart."

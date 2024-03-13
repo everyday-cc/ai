@@ -3,21 +3,27 @@ category: news
 title: "Biden's big speech showed his uneasy approach to abortion, an issue bound to be key in the campaign"
 excerpt: "President Joe Biden made abortion and reproductive rights a central theme of his State of the Union speech, but he never mentioned the word “abortion.” Pushback over how he addressed the issue is the latest example of Biden’s fraught history with the topic."
 publishedDateTime: 2024-03-11T19:15:00Z
-originalUrl: "https://bismarcktribune.com/news/nation-world/government-politics/president-joe-biden-sotu-state-of-the-union-abortion-topic-key-issue-election-2024/article_8d468330-6efd-59e9-bf64-573dba76b5e4.html"
-webUrl: "https://bismarcktribune.com/news/nation-world/government-politics/president-joe-biden-sotu-state-of-the-union-abortion-topic-key-issue-election-2024/article_8d468330-6efd-59e9-bf64-573dba76b5e4.html"
+originalUrl: "https://journalstar.com/news/nation-world/government-politics/president-joe-biden-sotu-state-of-the-union-abortion-topic-key-issue-election-2024/article_e889edd3-86a3-5eb4-847d-8184521378dd.html"
+webUrl: "https://journalstar.com/news/nation-world/government-politics/president-joe-biden-sotu-state-of-the-union-abortion-topic-key-issue-election-2024/article_e889edd3-86a3-5eb4-847d-8184521378dd.html"
 type: article
-quality: 5
-heat: 5
+quality: 25
+heat: 25
 published: false
 
 provider:
-  name: The Bismarck Tribune
-  domain: bismarcktribune.com
+  name: Lincoln Journal Star
+  domain: journalstar.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "FmW1EL4aa5lEjKsh62qn1abdHzzkNfYSGF48DlrKZsAnXODpg2UqskI5qyaEyOykRuz1Orp2hutC78AzqgYqK6HW9WQWCHXFHgjful7WScgycFqAXzeTEPWbs4VCYa/5MaK548blSDenUXDn7uXiuHukG7wsEVpkynjdixiMZAG6eTdKW71YVroSbYbWVW6EMqx5nYC92u51bkVpX41CsSPqeDCiPORc+sPTNgZVXm7ZRa+ALkYRaei7ngunAN7T4EeggJxj2n1VrbJ6N5iMYaZtoDvHM9iC5g/Ap2F0CuTlfu9gSbLjQ9W26Vf68qMwOJXZJmOOdyaXQTmCPXiBez/vu1t7HgeII2B3l95yyXXNYckOFan8xtefgkN2ObL4ZKWkxF7vtvqF8DYtwPxaugiDiU0CBRBiheOcaRpl5uIZFxklaAQ74LMgZVBNSFV3tfw5Zdj5RGuET/fWXlAYFe4EiBjOqiwY3q5WeuEb91x3+PjTy4QgEGHyYWmMe2jtDTXSZNkf+AaRw4SoSU6O4Q==;8+YtGd81uMj1/BhEVXwGEQ=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/journalstar.com/content/tncms/assets/v3/editorial/e/88/e889edd3-86a3-5eb4-847d-8184521378dd/65ef1f54140b3.preview.jpg?crop=864%2C454%2C589%2C170&resize=864%2C454&order=crop%2Cresize"
+    width: 864
+    height: 454
+    isCached: true
+
+secured: "C4Cdt6Jhd3iWaUUpALOr0HgiL/GnnwEeAGGs9k5FXSQmeYdvz25EvaKf3IhspPux/i0feu3pzG5rESWl3Okr59D3TWN2j++7bq/1s0ugGvcISPTcQdLwL5Jucs65sdC94AT93S2IekIBd1V/td3TkBWCCH1utD2qSflzFslJ6t1gLnKb33bLqxppz+ncca9gsj2qDKZkKPA4WzFXJxnf1YjP5clR1H5hLjoYfxYszYN88CtXRVhM1Ow5ZQ8hqebhTQmcRujuqZoDWxukrcfjPKYw1eVUfyG/8bpvgPjPlGkLPmDnulrrxy3J1Muz56i7UDrOgY3PpHuL2vGFagg4ePT3XSdANkzKxuStA3CjqPQ=;1jPsesyRqt3OYkuIElfrCw=="
 ---
 

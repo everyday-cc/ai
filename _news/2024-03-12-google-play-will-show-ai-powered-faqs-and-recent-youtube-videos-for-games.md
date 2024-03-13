@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/03/12/google-play-store-will-show-ai-pow
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/google-play-store-will-show-ai-powered-faqs-and-latest-youtube-videos-for-games/amp/"
 type: article
 quality: 88
-heat: 99
+heat: 98
 published: true
 
 provider:

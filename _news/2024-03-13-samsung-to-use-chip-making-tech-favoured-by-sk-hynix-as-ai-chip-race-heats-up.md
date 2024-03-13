@@ -1,29 +1,27 @@
 ---
 category: news
 title: "Samsung to use chip making tech favoured by SK Hynix as AI chip race heats up"
-excerpt: "The demand for high bandwidth memory (HBM) chips has boomed with the growing popularity of generative AI. But Samsung, unlike peers SK Hynix and Micron Technology, has been conspicuous by its absence in any dealmaking with AI chip leader Nvidia to supply latest HBM chips."
-publishedDateTime: 2024-03-13T00:55:00Z
-originalUrl: "https://www.moneycontrol.com/news/world/samsung-to-use-chip-making-tech-favoured-by-sk-hynix-as-ai-chip-race-heats-up-12448511.html"
-webUrl: "https://www.moneycontrol.com/news/world/samsung-to-use-chip-making-tech-favoured-by-sk-hynix-as-ai-chip-race-heats-up-12448511.html"
-ampWebUrl: "https://www.moneycontrol.com/news/world/samsung-to-use-chip-making-tech-favoured-by-sk-hynix-as-ai-chip-race-heats-up-12448511.html/amp"
-cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/samsung-to-use-chip-making-tech-favoured-by-sk-hynix-as-ai-chip-race-heats-up-12448511.html/amp"
+excerpt: "One of the reasons Samsung has fallen behind is its decision to stick with chip making technology called non-conductive film (NCF) that causes some production issues, while Hynix switched to the mass reflow molded underfill (MR-MUF) method to address NCF's weakness,"
+publishedDateTime: 2024-03-13T02:35:00Z
+originalUrl: "https://telecom.economictimes.indiatimes.com/news/devices/samsung-to-use-chip-making-tech-favoured-by-sk-hynix-as-ai-chip-race-heats-up/108448535"
+webUrl: "https://telecom.economictimes.indiatimes.com/news/devices/samsung-to-use-chip-making-tech-favoured-by-sk-hynix-as-ai-chip-race-heats-up/108448535"
 type: article
-quality: 71
-heat: 101
-published: true
+quality: 51
+heat: -1
+published: false
 
 provider:
-  name: moneycontrol.com
-  domain: moneycontrol.com
+  name: telecom.economictimes.indiatimes
+  domain: indiatimes.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://images.moneycontrol.com/static-mcnews/2023/01/Samsung.png"
-    width: 1280
-    height: 720
+  - url: "https://etimg.etb2bimg.com/thumb/msid-108448535,imgsize-24818,width-1200,height=765,overlay-ettelecom/devices/samsung-to-use-chip-making-tech-favoured-by-sk-hynix-as-ai-chip-race-heats-up.jpg"
+    width: 1200
+    height: 765
     isCached: true
 
 related:
@@ -70,6 +68,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "iWVcvgDk+ufGqlTg4CfxMa7xWGTngwwTKxXlmvk/WRKyrC8Z+q5k50fOeHK/cGu5rpUlZ4lexl78vPOPCn+hzhGXmqvCImhcS6ZLQT39/30bBIPrzr9bTkcVnX6JYivxCt15PQpStF4AF0HNHA6KdL4j0YUezgkq7CEQjstEtD6yFFa9YhN8WibmQdYr6ZwwSMdtG1raL1F0FAtFUkENhGOFI0pEzZgbzv6blNxhUYaVXXQiV1dtHcZJyxhZ2Mh7xSlt8EHKZrfsyph+0OYUZ2bgfRIDWcPZh6AA8i0daHEl66m+KvY8jsN5H2PpK7juNDjBiyHK+VrFva2IQyySI64VtPIERWP8mGP+AVtOWOU=;vpdCjXtTIpookOJlwKZPQA=="
+secured: "bfQQnomJuuP3OFbD4VqPTs95zUMBjD7VC4KlRFOPwmUyyBGWTG7cBsVQlAmQA0zLIT7tht+lw4NMgdBvIXKYUeRlaWIfjMD1ce4u+JJsGsLUaDSIWmUuO4FatMnUq4fTwlLO7fgzG6gcjjXjN5d3ADwtNammvPOF00rxCLzlMXWfp8uFGdI6apnkK5Lwpxy6EGG6lCP57vH0tGX14sB/tpgTpDQybdNMWByedtjbZCxt4XGGyTZoF3VPFzIjpOF6Pi/yrcoGfcL/Nnw4cfWe/pUa/ZJU+4eiYI0WuiF9qPdHjkP5wT+w9F9vb9rQrMlvi9X9ltRdXg2efjJkfJS38USqy1QXSTUd4KKZHHcO3XU=;lWi8m5RbILIL2oEDFKiWWQ=="
 ---
 

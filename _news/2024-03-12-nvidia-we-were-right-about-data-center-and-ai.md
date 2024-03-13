@@ -159,6 +159,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Nvidia AI server chips remain in high demand"
+    excerpt: "Demand remains high for Nvidia AI server processors despite the transition from older to newer products, according to industry sources."
+    publishedDateTime: 2024-03-13T01:24:00Z
+    webUrl: "https://www.digitimes.com/news/a20240312PD229/nvidia-ai-server-demand-chips.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://img.digitimes.com/newsshow/20240312pd229_files/1_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "Beyond Nvidia: 7 Underappreciated AI Stocks to Buy Now"
     excerpt: "That would be 11.6% above 2024’s projected revenue. Fundamentally, Intel is committed to delivering chips for 100 million AI PCs by 2025. I’d say that’s a decent candidate for underappreciated AI stocks to buy. Intuit (INTU) As a tax-preparation ..."
     publishedDateTime: 2024-03-10T13:59:00Z
@@ -177,20 +191,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 47
-  - title: "Nvidia's latest restrictions on CUDA stirs Chinese AI community"
-    excerpt: "Nvidia has taken further actions targeting the Chinese market to maintain its dominance in the GPU market, attempting to block third-party GPU companies from seamlessly using CUDA software. This move has sparked significant controversy and discussions within the Chinese artificial intelligence (AI) and chip communities."
-    publishedDateTime: 2024-03-08T03:28:00Z
-    webUrl: "https://www.digitimes.com/news/a20240308PD212/nvidia-cuda-china-ai.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 39
-    images:
-      - url: "https://img.digitimes.com/newsshow/20240308pd212_files/2_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "This AI token is being called the Nvidia of crypto"
     excerpt: "With the reinvigorated interest in AI, decentralized platforms that offer related services are facing increased demand, including Render."
     publishedDateTime: 2024-03-08T12:23:00Z

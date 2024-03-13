@@ -7,7 +7,7 @@ originalUrl: "https://www.scmp.com/tech/big-tech/article/3254609/broadcom-sees-u
 webUrl: "https://www.scmp.com/tech/big-tech/article/3254609/broadcom-sees-us10-billion-ai-chip-sales-2024-shares-dip"
 type: article
 quality: 101
-heat: 141
+heat: 121
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Broadcom sees US$10 billion in AI chip sales in 2024"
-    excerpt: "About US$7 billion of the firm’s AI chip revenue in 2024 would come from helping just two major clients design custom AI chips Read more at straitstimes.com."
-    publishedDateTime: 2024-03-08T02:10:00Z
-    webUrl: "https://www.straitstimes.com/business/companies-markets/broadcom-sees-us10-billion-in-ai-chip-sales-in-2024"
-    type: article
-    provider:
-      name: The Straits Times
-      domain: straitstimes.com
-    quality: 73
-    images:
-      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2024/03/08/aibroadcom080324.JPG"
-        width: 860
-        height: 573
-        isCached: true
   - title: "Broadcom soars as AI chip sales push revenue forecasts beyond US$10 billion"
     excerpt: "Nvidia's rising profitability amid the AI surge has captivated attention from around the globe. However, regarding AI chip revenue, SemiAnalysis analysts have highlighted that Broadcom might be considered the world's second-largest firm."
     publishedDateTime: 2024-03-12T01:50:00Z
@@ -57,20 +43,6 @@ related:
       - url: "https://img.digitimes.com/newsshow/20240311pd213_files/2_b.jpg"
         width: 640
         height: 427
-        isCached: true
-  - title: "Broadcom revenue beats estimates as AI powers demand, investors still unimpressed"
-    excerpt: "Tech conglomerate Broadcom beat market estimates for first-quarter revenue on Thursday, as cloud providers continue to upgrade data centers to support AI, helping drive demand for its advanced networking chips."
-    publishedDateTime: 2024-03-08T02:40:00Z
-    webUrl: "https://www.aol.com/news/broadcom-revenue-beats-estimates-ai-212055546.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 34
-    images:
-      - url: "https://media.zenfs.com/en/aol_reuters_29/c413b652dfdff4229e99f3885ee327da"
-        width: 800
-        height: 533
         isCached: true
   - title: "Broadcom: AI Saves The Day"
     excerpt: "Broadcom reported strong Q1'24 with 34% YoY revenue growth, driven by data center and hyperscaler demand for AI infrastructure. Learn more on AVGO stock here."

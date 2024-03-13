@@ -9,7 +9,7 @@ ampWebUrl: "https://www.twincities.com/2024/03/12/us-spearheads-first-un-resolut
 cdnAmpWebUrl: "https://www-twincities-com.cdn.ampproject.org/c/s/www.twincities.com/2024/03/12/us-spearheads-first-un-resolution-on-artificial-intelligence-aimed-at-ensuring-equal-access/amp/"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "US Spearheads First UN Resolution on Artificial Intelligence"
+    excerpt: "The US is leading a United Nations resolution on artificial intelligence, aimed at ensuring the technology is “safe, secure and trustworthy”"
+    publishedDateTime: 2024-03-13T02:17:00Z
+    webUrl: "https://www.securityweek.com/us-spearheads-first-un-resolution-on-artificial-intelligence/"
+    ampWebUrl: "https://www.securityweek.com/us-spearheads-first-un-resolution-on-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/us-spearheads-first-un-resolution-on-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: SecurityWeek
+      domain: securityweek.com
+    quality: 57
+    images:
+      - url: "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "US spearheads first UN resolution on artificial intelligence -- aimed at ensuring world has access"
     excerpt: "The United States is spearheading the first United Nations resolution on artificial intelligence, aimed at ensuring the new technology is “safe, secure and trustworthy” and that all countries, especially those in the developing world,"
     publishedDateTime: 2024-03-12T19:52:00Z

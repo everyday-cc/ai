@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/blog/azure-ai-health-bot-helps-c
 webUrl: "https://azure.microsoft.com/en-us/blog/azure-ai-health-bot-helps-create-copilot-experiences-with-healthcare-safeguards/"
 type: article
 quality: 117
-heat: 177
+heat: 187
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "How AI and ML Decode Social Determinants of Health (SDOH) for Personalized Healthcare"
+    excerpt: "Conventional approaches in the healthcare field are unable to fully capture a patient's life story. Consider your medical records as a large book with all the information related to your lifestyle and health."
+    publishedDateTime: 2024-03-13T03:03:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/how-ai-and-ml-decode-social-determinants-of-health-sdoh-for-personalized-healthcare/108448993"
+    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/how-ai-and-ml-decode-social-determinants-of-health-sdoh-for-personalized-healthcare/108448993"
+    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/how-ai-and-ml-decode-social-determinants-of-health-sdoh-for-personalized-healthcare/108448993"
+    type: article
+    provider:
+      name: health.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 86
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-108448993,imgsize-821270,width-1200,height=765,overlay-ethealth/health-it/how-ai-and-ml-decode-social-determinants-of-health-sdoh-for-personalized-healthcare.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "Google Cloud digs deeper into generative AI for healthcare"
     excerpt: "The tech giant introduced Vertex AI Search for Healthcare March 12 at the HIMSS 2024 annual meeting to support developers build technology for clinicians and healthcare workers. Healthcare organizations can use the tool to build data analytics and AI solutions supporting more precise patient care."
     publishedDateTime: 2024-03-12T13:27:00Z

@@ -49,20 +49,6 @@ related:
         width: 570
         height: 367
         isCached: true
-  - title: "Cognition Makes AI Software Engineer, Devin to Solve Whole Development Projects and Improve Its Own Code"
-    excerpt: "Stealth Startup, Cognition, backed by Peter Thiel’s Founders Fund and former-Twitter executive Elad Gil and Doordash co-founder Tony Xu, announced a fully autonomous AI software engineer called Devin. Devin can handle entire development projects end-to-end."
-    publishedDateTime: 2024-03-12T00:00:00Z
-    webUrl: "https://www.nextbigfuture.com/2024/03/cognition-makes-ai-software-engineer-devin-to-solve-whole-development-projects-and-improve-its-own-code.html"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 20
-    images:
-      - url: "https://nextbigfuture.s3.amazonaws.com/uploads/2024/03/Screen-Shot-2024-03-12-at-4.56.20-PM.jpg"
-        width: 1396
-        height: 1174
-        isCached: true
 
 secured: "cLU8ylqqiKlhnwiPY90kMGnOrL/JHLsrRCmMZL48Iywru4Sr1yQ3zArzeINVSkUgh12lqR4E9P2L7F3XeTTdTyit11F0xHFSFTxNfYLQzoudM15JBKDDevliCrDM1841a4W/Dya5FcKkTKfMtzGaZgQOZqz9vM7yFvqGDCtHv6H87YaJY5mcmCDHdmHIirY6WoXVslKzqd1LNQ4bbfZA9DcE6DOf7vgh0yJ8tuQb1b8phwZTPW7OB0L5AO9jXkpu+bIBhPHCtzcebJ8iGdTqV2MqKnqF3FQgb+Ueqe8NDwhvAorAQLbAd0xG0pnjuqemDuKbeAlmK87isohECFnOnkTr95EfuDjn6r4gMidXOWd1yEiwCO0KZIXzga7cpVXm9ejPT+gf2loEHvLbvDq00skcS4WvCZ3quOPhyUAeRMUXuZyXB8tNguUSRlnOoJbM5v8CjlxXYnQDkjhdGMm1l7xdfjegiXNtpPa9ZzlbfsRMGp+RopOUBRQY+vA/Hjda4HPWZy1zUf+8eMHt8dtQHA==;bqunMfO1/HkU+idDy6QFdw=="
 ---

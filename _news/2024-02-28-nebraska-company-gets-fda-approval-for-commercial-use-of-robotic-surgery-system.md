@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Nebraska company gets FDA approval for commercial use of robotic surgery system"
-excerpt: "Virtual Incision announced it has received marketing authorization from the Food and Drug Administration for its MIRA Surgical System, a robot-assisted surgical device used in colon resection surgeries."
-publishedDateTime: 2024-02-27T20:14:00Z
-originalUrl: "https://nptelegraph.com/news/state-regional/business/nebraska-company-gets-fda-approval-for-commercial-use-of-robotic-surgery-system/article_2a1ab753-474f-5225-bb96-b543e0747ceb.html"
-webUrl: "https://nptelegraph.com/news/state-regional/business/nebraska-company-gets-fda-approval-for-commercial-use-of-robotic-surgery-system/article_2a1ab753-474f-5225-bb96-b543e0747ceb.html"
+excerpt: "The Lincoln company that makes a surgical robot moved into a new office in April ... Farritor said the company will roll out commercial use of the device in a controlled way. That means the first surgeries are still months away and will be done by selected ..."
+publishedDateTime: 2024-02-27T21:17:00Z
+originalUrl: "https://columbustelegram.com/news/state-regional/business/nebraska-company-gets-fda-approval-for-commercial-use-of-robotic-surgery-system/article_8867c1e8-e804-5e13-af52-c76d225bb504.html"
+webUrl: "https://columbustelegram.com/news/state-regional/business/nebraska-company-gets-fda-approval-for-commercial-use-of-robotic-surgery-system/article_8867c1e8-e804-5e13-af52-c76d225bb504.html"
 type: article
 
 provider:
-  name: nptelegraph
-  domain: nptelegraph.com
+  name: Columbus Telegram
+  domain: columbustelegram.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "wseFwzeDtfhOhO4cpdy6PjGW7C4coeoSl30CcCiREj7rOHHkMfQ1372wW6EefU5KQJUmL+RORcNqzXgA20nGj2KFkqvWFhkI80yjaZGf250WVQbxFS5cUQpyVQl03Fc5IRGcSXccGhZjwHN4mXSHU+Y1hOrtD/MHiicdLeC+IYFYRSmY/vC5+1kYwWM6cla6N1R5YkYEhTDsfEX/u53GCxzYb8ZFOEFQz6GD6znREFQSzNBDQU4BReSudTvCfbgY9uODPz3sTKCtNiIWSkFBTgdffWij4X7KdCNIE8jb8mWALxubUZgarsv51rF3NOpOeJt/1F9R0Aqo6pwKGyGQvifoMpuYYyc+m4RvBGFAwvHhl9sZ4nIUOWtZuEehQsO8jDLs3fxHP2KNFse04eH10MxL4dx4gth68NeLjRXNr+x7suEY0qywFopCFS9jMZuXa1Ot0NM7ytsDeLE1a/utgWAekYj4xzD1Y8OjKeTOFr1tadfXL3ziiIU8iv5vpCYnElyQ/YKaIAxYa9iJwa6iig==;qJbF8w+wJZkX5D4YLSw8Pg=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/columbustelegram.com/content/tncms/assets/v3/editorial/8/86/8867c1e8-e804-5e13-af52-c76d225bb504/65de01d573f17.preview.jpg?crop=960%2C504%2C0%2C17&resize=960%2C504&order=crop%2Cresize"
+    width: 960
+    height: 504
+    isCached: true
+
+secured: "G1IMqjugPFleI8a/1f64i/VUpdkQlY6Cv0Ql2X3xcbjFUywh7nsoVJfx9zXDJANEHSuy42u7RkYgwQFxK0bPngxehgKBcX+nmyQNjgKE27fSPLAQKuwHCrKvwqjBoqF/98OzaRUoup0B5OuhjdX8Jb6dh44QP9pMB8ykTByH8jKTQ+FokelOMmqAS5CqFgr/n6G0MbtplytBIMjepSwgdzpUp55uV4VZEwwgdcbjNasTgz7SbQQw+CmLivuHSY3L82/PWG53bambx42X9fWOk9imD+szsDPWhUc23yOM/8zX4m0jmG5FsZaHjjy6W4hySFkoTwu95Uwx08k9+oy4wAnkf5pUmjLkNSmxOyAzpio=;7oiAiSQaDtiZ6xqTpP6akw=="
 ---
 

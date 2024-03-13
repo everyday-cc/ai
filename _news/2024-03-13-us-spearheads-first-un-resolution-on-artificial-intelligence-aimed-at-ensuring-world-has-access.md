@@ -34,6 +34,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "US Spearheads First UN Resolution on Artificial Intelligence"
+    excerpt: "The US is leading a United Nations resolution on artificial intelligence, aimed at ensuring the technology is “safe, secure and trustworthy”"
+    publishedDateTime: 2024-03-13T02:17:00Z
+    webUrl: "https://www.securityweek.com/us-spearheads-first-un-resolution-on-artificial-intelligence/"
+    ampWebUrl: "https://www.securityweek.com/us-spearheads-first-un-resolution-on-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-securityweek-com.cdn.ampproject.org/c/s/www.securityweek.com/us-spearheads-first-un-resolution-on-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: SecurityWeek
+      domain: securityweek.com
+    quality: 57
+    images:
+      - url: "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "ACKCBvi9EksNyUMcn0EAZT1PDglMBURuew4TkfAoqIy51LVkr1/9xKLHdTATfe+VY0F43b2OZG2ZM7Xq6mQDKEK1peK6a+I2c2TCzauOD6OHDqoTz+uz7f+tXzqurbbLUteh+09QW5f4ZydyglFlyknHIINZY/ZZR/Vg3xtJtLMuBG/Ap7oya4WCGhOrHsx4ZosUfMLpIY6/aCmbxOUk/TxgSLoRUkSZkcrerHYNpM8u3d7FlowsR26wz91we2HtzJxetx6TENZfRn6msg0ZlzowU/PCHcTCxVAFLwpPCNGTdCF3pP099ZWN7SKh1uFaFUeLOukQl74rx/w0KPGkoVCUngXqRRoP11gaFUmsqD4=;8D4r9R50KYc/j8OI2OqSjg=="
 ---

@@ -39,6 +39,22 @@ related:
         width: 1260
         height: 708
         isCached: true
+  - title: "How AI and ML Decode Social Determinants of Health (SDOH) for Personalized Healthcare"
+    excerpt: "Conventional approaches in the healthcare field are unable to fully capture a patient's life story. Consider your medical records as a large book with all the information related to your lifestyle and health."
+    publishedDateTime: 2024-03-13T03:03:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/how-ai-and-ml-decode-social-determinants-of-health-sdoh-for-personalized-healthcare/108448993"
+    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/how-ai-and-ml-decode-social-determinants-of-health-sdoh-for-personalized-healthcare/108448993"
+    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/how-ai-and-ml-decode-social-determinants-of-health-sdoh-for-personalized-healthcare/108448993"
+    type: article
+    provider:
+      name: health.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 86
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-108448993,imgsize-821270,width-1200,height=765,overlay-ethealth/health-it/how-ai-and-ml-decode-social-determinants-of-health-sdoh-for-personalized-healthcare.jpg"
+        width: 1200
+        height: 765
+        isCached: true
   - title: "Oracle expands healthcare platform"
     excerpt: "The Oracle Health Data Intelligence platform aims to bring together the ecosystem of providers, payers, public health organizations, government agencies and researchers with customized analytics and AI capabilities. The platform has pre-built regulatory and risk management services as well as unified population patient data."
     publishedDateTime: 2024-03-12T13:51:00Z
