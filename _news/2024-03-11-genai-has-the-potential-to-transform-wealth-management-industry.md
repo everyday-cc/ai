@@ -39,6 +39,15 @@ related:
         width: 2560
         height: 1720
         isCached: true
+  - title: "Today's AI tax tools — and their vast potential to reshape the industry"
+    excerpt: "With two fields increasingly working together, wealth management and accounting firms are rolling out tools. Are financial advisors ready to work with the robots?"
+    publishedDateTime: 2024-03-11T23:16:00Z
+    webUrl: "https://www.financial-planning.com/news/current-ai-tools-at-the-intersection-of-wealth-and-tax"
+    type: article
+    provider:
+      name: Financial Planning
+      domain: financial-planning.com
+    quality: 19
   - title: "AI-powered content management: How to make your workflows more efficient"
     excerpt: "AI translation tools are becoming increasingly sophisticated ... Advanced NLP algorithms will better understand nuances in language and tone, enabling AI-generated content to resonate more deeply with audiences. Pretty soon, AI might be able to create ..."
     publishedDateTime: 2024-03-11T08:00:00Z

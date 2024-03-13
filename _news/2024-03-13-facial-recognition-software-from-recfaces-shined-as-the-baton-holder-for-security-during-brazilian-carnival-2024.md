@@ -1,24 +1,26 @@
 ---
 category: news
-title: "Facial Recognition Software From Recfaces Shined As The Baton-Holder For Security During Brazilian Carnival 2024"
-excerpt: "RecFaces, an international facial recognition software developer played an indispensable role in promoting and maintaining safety d"
-publishedDateTime: 2024-03-12T18:34:00Z
-originalUrl: "https://menafn.com/1107966771/Facial-Recognition-Software-From-Recfaces-Shined-As-The-Baton-Holder-For-Security-During-Brazilian-Carnival-2024"
-webUrl: "https://menafn.com/1107966771/Facial-Recognition-Software-From-Recfaces-Shined-As-The-Baton-Holder-For-Security-During-Brazilian-Carnival-2024"
+title: "Facial recognition software from RecFaces shined as the baton-holder for security during Brazilian Carnival 2024"
+excerpt: "RecFaces, an international facial recognition software developer played an indispensable role in promoting and maintaining safety during the Brazilian Carnival 2024.The company's one of the best"
+publishedDateTime: 2024-03-13T11:01:00Z
+originalUrl: "https://www.sourcesecurity.com/news/facial-recognition-software-recfaces-shined-baton-holder-security-brazilian-carnival-2024-co-1603983074-ga.1710311379.html?ref=nav"
+webUrl: "https://www.sourcesecurity.com/news/facial-recognition-software-recfaces-shined-baton-holder-security-brazilian-carnival-2024-co-1603983074-ga.1710311379.html?ref=nav"
+ampWebUrl: "https://www.sourcesecurity.com/amp/news/facial-recognition-software-recfaces-shined-baton-holder-security-brazilian-carnival-2024-co-1603983074-ga.1710311379.html"
+cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/facial-recognition-software-recfaces-shined-baton-holder-security-brazilian-carnival-2024-co-1603983074-ga.1710311379.html"
 type: article
-quality: 15
-heat: 15
+quality: 35
+heat: 35
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: SourceSecurity
+  domain: sourcesecurity.com
 
 topics:
   - Computer Vision
   - AI
   - AI in Security
 
-secured: "MJH3z+ZBD7uUWBbIBMXxpV0MU6n9brzZE38Qfp13WMoMOf+PtNICgors7IWJwUghgQmw1sL/r1CY51CxW1vJ8TIw/yU3VVqbf6b/bXWXpApfXgoQBaaVnAsEvd00AYbNqakYP4z6UpSMTnDB8oWD/dyUCJiWFKOCXw2Wb8oAhnrC6452Rtf6iqjMoJw0obRA87QfNC4atr6HVLJgel97QFh8rGqR3FqJ46SAu5EcY5Ft6j43uSkgankVvI1ZsXfDWD2WKjh9HPofA8Nmuk8Q2axjL5I0DVXQoUwQj+JTo1uJqshxTnSHN8rKhVU/uiv2uqQrj4vKzjrAJwH4Dd2ABCZXsokvKggghy0YlC6AFvsfR89o4ZPKcOZvUuIqUxGawgQGZcZTFE/UdPz+qOJUjTJEy0nxO3587UMtQ0Gj9VoD5Gb7EcADZ8s4F3w6j+xPdkYrSqzsn5wxR+ZolaMswSsrQzUzRBFxyh1WG5BNXmYpgXWmkbJCW3RTxjQ0obqhQeBXrE8tppSZ61hO9vKCNg==;cDbhy70d33g9m9lz3c8Elg=="
+secured: "kOS6j9yFNRojy2FCczc3vMb7St0NgAI4F37phz5uSuvyMlqyz8S3+yTsJ8gUflzcK+hs3uE8wLKKEl9fnNeFDWxXuysivW8P9djkCZWrY3Pib6gsmZllYZzHH6u2UTG3JFVHTGaT4jHzrJeXL9W2XhG9YXmpynsae7Ihez5h/4mxzRwkL2DkyE2Bc3H7Dcg78TuzEe0/jtYbp0fudywjF/W/5INzW2ExTq5TsQJvMW0OtdSfXtNeUIJasEEuRtJPsy3QVmzL1JDDFurY0IoC9lJANe4dSHU4KfVbVI7nQ+uzkBUP92BTcur0USwJE940pTPjoqcioC7nwf+64+M+VpkYAdyD+fE5um8IKJB792M=;o5s1CuE9ehDvgqKqPdqQow=="
 ---
 

@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "AI Boost For Macs? M4 Chip On Horizon For New MacBook Pro"
+    excerpt: "Bloomberg's Mark Gurman, as cited by 9to5Mac, revealed that Apple has commenced work on the successor to the M3-powered 2023 MacBook Pro. Responding to a user inquiry in the Q&A section of his Power On newsletter, Gurman hinted at the possibility of an M4 MacBook Pro in the pipeline."
+    publishedDateTime: 2024-03-13T10:13:00Z
+    webUrl: "https://in.mashable.com/tech/71320/ai-boost-for-macs-m4-chip-on-horizon-for-new-macbook-pro"
+    type: article
+    provider:
+      name: in.mashable
+      domain: mashable.com
+    quality: 84
+    images:
+      - url: "https://sm.mashable.com/t/mashable_in/photo/default/4_yrnk.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Apple making new M4 chip for Macbook Pro, will give it more power to handle AI tasks"
     excerpt: "Apple is gearing up to take AI capabilities to the next level with its upcoming M4 chip for the new MacBook Pro. The tech giant is focusing on enhancing Neural Engine cores, potentially revolutionising tasks like voice recognition,"
     publishedDateTime: 2024-03-12T10:39:00Z

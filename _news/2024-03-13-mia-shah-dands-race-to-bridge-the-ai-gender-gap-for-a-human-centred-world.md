@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/hessiejones/2024/03/12/mia-shah-dands-r
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2024/03/12/mia-shah-dands-race-to-bridge-the-ai-gender-gap-for-a-human-centred-world/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "How women are navigating challenges and taking centre stage in the AI-powered technology landscape"
-    excerpt: "By working together, we can move towards the common goal of shaping a progressive future of AI that has diverse perspectives, equal representation and an inclusive landscape"
-    publishedDateTime: 2024-03-08T10:43:00Z
-    webUrl: "https://www.firstpost.com/opinion/how-women-are-navigating-challenges-and-taking-centre-stage-in-the-ai-powered-technology-landscape-13746795.html"
-    ampWebUrl: "https://www.firstpost.com/opinion/how-women-are-navigating-challenges-and-taking-centre-stage-in-the-ai-powered-technology-landscape-13746795.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/opinion/how-women-are-navigating-challenges-and-taking-centre-stage-in-the-ai-powered-technology-landscape-13746795.html/amp"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 45
-    images:
-      - url: "https://images.firstpost.com/uploads/2024/03/AI1200WC-2024-03-c90ec9571c28ed98d00b0a500e35c3d6.jpg?im=FitAndFill=(1200,675)"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Vast Data unveils new data centre architecture for the AI factory"
     excerpt: "Vast Data, the AI data platform company, today unveiled a new AI cloud architecture designed to deliver unprecedented levels of performance, quality of service, zero-trust security, and space/cost/power efficiency for the AI factory."
     publishedDateTime: 2024-03-13T01:52:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.prolificnorth.co.uk/news/hedgehog-lab-promotes-fintech
 webUrl: "https://www.prolificnorth.co.uk/news/hedgehog-lab-promotes-fintech-vet-to-chief-client-officer/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,34 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Plug and Play to launch fintech, enterprise programs in McKinney"
-    excerpt: "Colby joined Community Impact in July 2022. He covers transportation and real estate for the Dallas-Fort Worth metro. Prior to joining CI, he worked for student newspapers at Del Mar College and The University of Texas at Arlington while attending school. In his spare time, Colby enjoys playing guitar, writing music and camping."
-    publishedDateTime: 2024-03-12T05:00:00Z
-    webUrl: "https://communityimpact.com/dallas-fort-worth/mckinney/business/2024/03/12/plug-and-play-to-launch-fintech-enterprise-programs-in-mckinney/"
+  - title: "Budget Buys: 3 Under-$100 Fintech Stocks Fueling Digital Finance"
+    excerpt: "With the adoption of artificial intelligence (AI) and innovation in technology, the fintech sector is expanding at a rapid pace. A report by McKinsey highlights that the revenue in the fintech space is set to grow about three times faster than the revenue ..."
+    publishedDateTime: 2024-03-12T15:48:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/budget-buys-3-under-100-fintech-stocks-fueling-digital-finance-1033156868"
     type: article
     provider:
-      name: Community Impact Newspaper
-      domain: communityimpact.com
-    quality: 24
-    images:
-      - url: "https://communityimpact.com/uploads/images/2024/03/12/299555.jpeg"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "Skyro takes lead in addressing industry challenges to propel growth of PH’s fintech market"
-    excerpt: "The Philippine fintech sector faces hurdles, dealing with challenges that impede its progress. These obstacles include the absence of a centralized database, reliance on outdated technology, and various other industry-specific barriers."
-    publishedDateTime: 2024-03-12T10:02:00Z
-    webUrl: "https://manilastandard.net/tech/314425263/skyro-takes-lead-in-addressing-industry-challenges-to-propel-growth-of-phs-fintech-market.html"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Top Fintech Picks: 3 Stocks Changing How Money Changes Hands"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The traditional, staid world of finance continues to progress thanks to the"
+    publishedDateTime: 2024-03-10T19:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/top-fintech-picks-3-stocks-changing-how-money-changes-hands-1033148629"
     type: article
     provider:
-      name: manilastandard
-      domain: manilastandard.net
-    quality: 14
-    images:
-      - url: "https://cdn.manilastandard.net/wp-content/uploads/2024/03/Nasim-Avien-Skyros-Co-CEO-and-Co-Founder.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
+  - title: "Unlocking Fintech Opportunities: Leveraging Digital Public Goods for Inclusive Finance"
+    excerpt: "DPG-enabled IIPS presents a unique business opportunity for fintechs because they offer the potential to loop in more customers into the digital economy, especially the financially underserved. Most importantly, this can be achieved even in remote areas  where access to traditional banking is limited. Advantages of Digital Public Goods:"
+    publishedDateTime: 2024-03-12T20:18:00Z
+    webUrl: "https://www.finextra.com/blogposting/25858/unlocking-fintech-opportunities-leveraging-digital-public-goods-for-inclusive-finance"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 11
 
 secured: "eK/XIeFg/Q2aBpxyVyAJPjn8RolC0NImmCs4DJlbrPkKkpmHY2EB1Hv+BxRTcXLbQM+ofxa2nBCAPCQdmG+mnbLxe6mkRddVN5XWVdKM0Au9N0dBJreFQBX09w4BjHxQOQkoSnsig2PxQtpb17i1aS7nKx1AHctaU+Rrze/bOOQ5QxTa6fidxRwYMsyfRIv6Be/PN8rjMhlDlWgl1dSspjsLHIMMmk5+GFiEvWC1V4xptOzNY3h9mr8uQUEKIKrL4NYZlwBysU5Rp6iWTwsJ9upmZ2jA+aTVq611b2++jmlTyvV20jcO/g0r9LfclpxLCIy5gLLD7BLrXiz7LcIWzZdLXWxlXcxDwnAxVeEVbio=;0Pr8uXAVAI/S3816aCUMmw=="
 ---

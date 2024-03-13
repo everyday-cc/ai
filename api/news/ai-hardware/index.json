@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-13-ai-boost-for-macs-m4-chip-on-horizon-for-new-macbook-pro.md",
+      "title": "AI Boost For Macs? M4 Chip On Horizon For New MacBook Pro",
+      "excerpt": "Bloomberg's Mark Gurman, as cited by 9to5Mac, revealed that Apple has commenced work on the successor to the M3-powered 2023 MacBook Pro. Responding to a user inquiry in the Q&A section of his Power On newsletter, Gurman hinted at the possibility of an M4 MacBook Pro in the pipeline.",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/tech/71320/ai-boost-for-macs-m4-chip-on-horizon-for-new-macbook-pro",
+      "originalUrl": "https://in.mashable.com/tech/71320/ai-boost-for-macs-m4-chip-on-horizon-for-new-macbook-pro",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/photo/default/4_yrnk.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-13T10:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "in.mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-13-tesla-remains-wall-streets-bearish-betting-chip-among-large-caps-but-a-hot-ai-plays-short-interest-also-surges.md",
       "title": "Tesla Remains Wall Street's Bearish Betting Chip Among Large-Caps, But A Hot AI Play's Short Interest Also Surges",
       "excerpt": "High short interest indicates investor pessimism towards a stock. Tesla has been on a broader downtrend since its November 2021 peak of $413.29.",
@@ -43,6 +86,49 @@
         "AI Hardware",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2024-03-13-samsung-may-use-sk-hynixs-technology-to-compete-in-ai-chip-race.md",
+      "title": "Samsung May Use SK Hynix’s Technology to Compete in AI Chip Race",
+      "excerpt": "Samsung Electronics is set to adopt chip-making technology championed by its rival SK Hynix in a bid to compete in the flourishing market of high-end chips driving artificial intelligence (AI), Reuters news report said. The move comes as Samsung, the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.telecomlead.com/semiconductor/samsung-may-use-sk-hynixs-technology-to-compete-in-ai-chip-race-115331",
+      "originalUrl": "https://www.telecomlead.com/semiconductor/samsung-may-use-sk-hynixs-technology-to-compete-in-ai-chip-race-115331",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telecomlead.com/wp-content/uploads/2023/04/Galaxy-S23-from-Samsung.jpg",
+          "width": 640,
+          "height": 402,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.telecomlead.com/semiconductor/samsung-may-use-sk-hynixs-technology-to-compete-in-ai-chip-race-115331?amp=1",
+      "cdnAmpWebUrl": "https://www-telecomlead-com.cdn.ampproject.org/c/s/www.telecomlead.com/semiconductor/samsung-may-use-sk-hynixs-technology-to-compete-in-ai-chip-race-115331?amp=1",
+      "publishedDateTime": "2024-03-13T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Telecom Lead",
+        "domain": "telecomlead.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -107,7 +193,7 @@
       "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2024/03/12/vast-datas-nvidia-dpu-based-ai-cloud-architecture/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 339,
+      "heat": 349,
       "tags": null,
       "images": [
         {
@@ -192,49 +278,6 @@
         "AI Hardware",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-apple-making-new-m4-chip-for-macbook-pro-will-give-it-more-power-to-handle-ai-tasks.md",
-      "title": "Apple making new M4 chip for Macbook Pro, will give it more power to handle AI tasks",
-      "excerpt": "Apple is gearing up to take AI capabilities to the next level with its upcoming M4 chip for the new MacBook Pro. The tech giant is focusing on enhancing Neural Engine cores, potentially revolutionising tasks like voice recognition,",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatoday.in/technology/news/story/apple-is-making-the-new-m4-chip-for-macbook-pro-more-powerful-to-handle-ai-related-tasks-2513829-2024-03-12",
-      "originalUrl": "https://www.indiatoday.in/technology/news/story/apple-is-making-the-new-m4-chip-for-macbook-pro-more-powerful-to-handle-ai-related-tasks-2513829-2024-03-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202403/macbook-pro-120301723-16x9_1.jpg?VersionId=EFQksKw7Z.VL3lI8JZDY80Cbh5KgxQqt",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.indiatoday.in/amp/technology/news/story/apple-is-making-the-new-m4-chip-for-macbook-pro-more-powerful-to-handle-ai-related-tasks-2513829-2024-03-12",
-      "cdnAmpWebUrl": "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/technology/news/story/apple-is-making-the-new-m4-chip-for-macbook-pro-more-powerful-to-handle-ai-related-tasks-2513829-2024-03-12",
-      "publishedDateTime": "2024-03-12T10:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Today",
-        "domain": "indiatoday.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     },
     {
@@ -523,49 +566,6 @@
       ]
     },
     {
-      "path": "_news/2024-03-11-samsung-eyes-opportunity-in-ai-chip-manufacturing-market-amid-tsmc-dominance.md",
-      "title": "Samsung eyes opportunity in AI chip manufacturing market amid TSMC dominance",
-      "excerpt": "As companies strive to establish themselves in the AI era, the South Korean industry is monitoring whether Samsung Electronics can capitalize on the AI chip orders.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20240311PD201/samsung-ai-chip-manufacturing-tsmc.html",
-      "originalUrl": "https://www.digitimes.com/news/a20240311PD201/samsung-ai-chip-manufacturing-tsmc.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.digitimes.com/newsshow/20240311pd201_files/1_2b.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-11T04:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-03-10-5-blue-chip-digital-age-collectible-bargains-the-world-missed.md",
       "title": "5 blue-chip \"digital age\" collectible bargains the world missed",
       "excerpt": "Everyone acknowledges the massive impact of the digital revolution upon every aspect of society, but auction prices for landmark digital memorabilia suggest we haven't got it all in perspective just yet.",
@@ -627,7 +627,7 @@
       "originalUrl": "https://economictimes.indiatimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/articleshow/108335973.cms?from=mdr",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {

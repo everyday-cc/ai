@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Navana.ai Unveils 'Bodhi' Multilingual Voice Model Amid India's AI Embrace"
-    excerpt: "Navana.ai's current version of the Automatic Voice Recognition (ASR) software, known for its plug-and-play methodology, simplifies adoption and implementation. The software boasts over 85% accuracy with faster reaction times, offering enhanced customization."
-    publishedDateTime: 2024-03-08T10:32:00Z
-    webUrl: "https://www.siliconindia.com/news/general/navanaai-unveils-bodhi-multilingual-voice-model-amid-indias-ai-embrace-nid-228327-cid-1.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 37
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/y7wQXmt8.jpg"
-        width: 570
-        height: 367
-        isCached: true
   - title: "Navana.ai launches 'Bodhi' multilingual voice model as India bets big on AI"
     excerpt: "The plug-and-play methodology of the current version of Navana Automatic Voice Recognition (ASR) software simplifies adoption and implementation while offering enhanced customiation and above 85 per cent accuracy with faster reaction times, the company ..."
     publishedDateTime: 2024-03-09T05:40:00Z

@@ -39,18 +39,18 @@ related:
         height: 768
         isCached: true
   - title: "AI is creating fake legal cases and making its way into real courtrooms, with disastrous results"
-    excerpt: "Generative AI can be a useful tool, but it can also create inaccurate information. Here’s how to safeguard Australian courts against fake cases, like we’ve already seen overseas."
-    publishedDateTime: 2024-03-12T19:15:00Z
-    webUrl: "https://theconversation.com/ai-is-creating-fake-legal-cases-and-making-its-way-into-real-courtrooms-with-disastrous-results-225080"
+    excerpt: "Weve seen deepfake, explicit images of celebrities, created by artificial intelligence (AI). AI has also played a hand in creating music, driverless race cars and spreading misinformation, among other things."
+    publishedDateTime: 2024-03-13T10:47:00Z
+    webUrl: "https://www.econotimes.com/AI-is-creating-fake-legal-cases-and-making-its-way-into-real-courtrooms-with-disastrous-results-1673389"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 28
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 26
     images:
-      - url: "https://images.theconversation.com/files/581132/original/file-20240312-16-84kk3r.jpg?ixlib=rb-1.1.0&rect=0%2C370%2C4107%2C2053&q=45&auto=format&w=1356&h=668&fit=crop"
-        width: 1356
-        height: 668
+      - url: "https://f1.econotimes.com/2024/03/waj0i9ram6_th_1024x0.jpg"
+        width: 496
+        height: 330
         isCached: true
 
 secured: "LKyif4hycldoBT5kyChBk6bBrvRVFgWp3J9wR8AXfmt+H/9vfO3w1QL/qlyBdm4Ccy+b9sdWaM2kQE5Vs3dUNuol8nPo6SE+tZ6lnoUzUVftVABfQtrnE/9fcM//uWwNC1k/j2muWL8B64iCkTEaxdMHmu8Tf8qkDM82ZgcCVynHtVQ1mC20GlNQx2mWp/zamDIdAiizPxCSNT+NLqpL6ykz/2Ie6egfnTGIQIC5shtornHNUVUyqTH8Jiq/5P26QMHAsUjklaWOxdhzsL9rBFnAty6scFEgUEvwzzjubRa7PIejLfOW41nqROvItMNhx5M7OLVq7cxdWrDGCehufxO03jB1CpEg13ApIJT5LR5MOq8MwDvpbDoJGULuDNmCZO4Am0PR9O4P56RAsMNmXjqS7ax4IDfZMYEX3aAIs5+dJTJZcKwS4j27mSJVKiWOCyBgX7g1KlyGpmxyI1P7kPr+BMIsWOQddFXnaA9YN4B/FiQ/wRk+9x+q5NRibM6m8EiOD+WGSZdxM8FkjpFw5g==;YFpsne+DvUiB0UhNkCMu1A=="

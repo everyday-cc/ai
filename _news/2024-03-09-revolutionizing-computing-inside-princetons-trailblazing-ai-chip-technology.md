@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Generative AI, Quantum and Spatial Computing, the Metaverse, and 3D Printing: The Tech Blend of Tomorrow"
+    excerpt: "Although these technologies have only been discussed in isolation lately, we can expect the greatest innovations to take place as they begin to be combined in novel ways."
+    publishedDateTime: 2024-03-13T10:37:00Z
+    webUrl: "https://tdwi.org/Articles/2024/03/13/TA-ALL-Generative-AI-Quantum-Spatial-Computing-Metaverse-3D-Printing-Tech-Blend-of-Tomorrow.aspx"
+    type: article
+    provider:
+      name: TDWI
+      domain: tdwi.org
+    quality: 22
+    images:
+      - url: "https://tdwi.org/-/media/TDWI/TDWI/BITW/predictive1.jpg"
+        width: 976
+        height: 400
+        isCached: true
   - title: "KCF Technologies Unveils Piezo Sensing: A Revolutionary Machine Health Solution for Low and High-Speed Machines"
     excerpt: "KCF Technologies, a leader in machine health solutions, is proud to announce the launch of its latest innovation, Piezo Sensing, as part of its SMARTsensing suite of hardware products. This new offering revolutionizes machine health monitoring by providing unmatched precision and reliability across a vast spectrum of industrial applications."
     publishedDateTime: 2024-03-12T11:36:00Z

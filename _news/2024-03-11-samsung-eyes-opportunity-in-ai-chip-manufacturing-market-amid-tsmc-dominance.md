@@ -7,8 +7,8 @@ originalUrl: "https://www.digitimes.com/news/a20240311PD201/samsung-ai-chip-manu
 webUrl: "https://www.digitimes.com/news/a20240311PD201/samsung-ai-chip-manufacturing-tsmc.html"
 type: article
 quality: 51
-heat: 81
-published: true
+heat: -1
+published: false
 
 provider:
   name: Digi Times
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Samsung May Use SK Hynix’s Technology to Compete in AI Chip Race"
+    excerpt: "Samsung Electronics is set to adopt chip-making technology championed by its rival SK Hynix in a bid to compete in the flourishing market of high-end chips driving artificial intelligence (AI), Reuters news report said. The move comes as Samsung, the ..."
+    publishedDateTime: 2024-03-13T00:00:00Z
+    webUrl: "https://www.telecomlead.com/semiconductor/samsung-may-use-sk-hynixs-technology-to-compete-in-ai-chip-race-115331"
+    ampWebUrl: "https://www.telecomlead.com/semiconductor/samsung-may-use-sk-hynixs-technology-to-compete-in-ai-chip-race-115331?amp=1"
+    cdnAmpWebUrl: "https://www-telecomlead-com.cdn.ampproject.org/c/s/www.telecomlead.com/semiconductor/samsung-may-use-sk-hynixs-technology-to-compete-in-ai-chip-race-115331?amp=1"
+    type: article
+    provider:
+      name: Telecom Lead
+      domain: telecomlead.com
+    quality: 74
+    images:
+      - url: "https://www.telecomlead.com/wp-content/uploads/2023/04/Galaxy-S23-from-Samsung.jpg"
+        width: 640
+        height: 402
+        isCached: true
   - title: "Samsung to use chip making tech favoured by SK Hynix as AI chip race heats up"
     excerpt: "One of the reasons Samsung has fallen behind is its decision to stick with chip making technology called non-conductive film (NCF) that causes some production issues, while Hynix switched to the mass reflow molded underfill (MR-MUF) method to address NCF's weakness,"
     publishedDateTime: 2024-03-13T02:35:00Z

@@ -47,15 +47,6 @@ related:
         width: 409
         height: 269
         isCached: true
-  - title: "The Top 7 Fintech Stocks to Buy in March 2024"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Fintech companies are spearheading a revolutionary shift in their niche,"
-    publishedDateTime: 2024-03-08T11:20:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-top-7-fintech-stocks-to-buy-in-march-2024-1033145869"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
   - title: "Fintech Firm Perfios Becomes India's Second Unicorn Of This Year"
     excerpt: "B2B SaaS fintech company Perfios has become India's second unicorn of 2024 as it raised $80 million in a new funding round"
     publishedDateTime: 2024-03-13T09:50:00Z

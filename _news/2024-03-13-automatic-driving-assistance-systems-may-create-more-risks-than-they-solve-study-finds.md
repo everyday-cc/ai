@@ -47,6 +47,36 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Only One Automaker Nails IIHS Safety Test for Automated Driving Assistance — No, It's Not Tesla Or Ford"
+    excerpt: "Tesla critic and GLJ Research CEO Gordon Johnson took to X to question the naming choice of Tesla's driving automation software after the study's publication"
+    publishedDateTime: 2024-03-13T10:37:00Z
+    webUrl: "https://www.benzinga.com/news/24/03/37649773/only-one-automaker-nails-iihs-safety-test-for-automated-driving-assistance-no-its-not-tesla-or-ford"
+    ampWebUrl: "https://www.benzinga.com/amp/content/37649773"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37649773"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 58
+    images:
+      - url: "https://cdn.benzinga.com/files/images/story/2024/Lexus-LS.jpeg?width=1200&height=800&fit=crop"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Vehicle safety group tests 14 partial automated driving systems, none earn a 'good' rating"
+    excerpt: "The Insurance Institute for Highway Safety (IIHS), an independent non-profit founded in 1959 that is dedicated to reducing deaths, injuries, and property damage from motor vehicle"
+    publishedDateTime: 2024-03-13T10:20:00Z
+    webUrl: "https://www.techspot.com/news/102242-vehicle-safety-group-tests-14-partial-automated-driving.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 44
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2024/03/2024-03-13-image-4.jpg"
+        width: 2240
+        height: 1260
+        isCached: true
   - title: "Tesla Autopilot, similar automated driving systems rated 'poor' by safety group"
     excerpt: "The vast majority of automated driving systems tested by the Insurance Institute for Highway Safety's new ratings system were deemed \"poor\" based on their safeguards."
     publishedDateTime: 2024-03-12T21:00:00Z

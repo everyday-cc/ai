@@ -49,6 +49,22 @@ related:
         width: 1200
         height: 765
         isCached: true
+  - title: "Deep Learning in Healthcare: Revolutionizing Diagnosis and Treatment Prediction"
+    excerpt: "This article explores the transformative role of deep learning in healthcare, showcasing how it's revolutionizing diagnosis and treatment prediction. It highlights key advancements, challenges, and the future potential of integrating AI in medical practices,"
+    publishedDateTime: 2024-03-13T11:07:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2849336-deep-learning-in-healthcare-revolutionizing-diagnosis-and-treatment-prediction"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2849336-deep-learning-in-healthcare-revolutionizing-diagnosis-and-treatment-prediction?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2849336-deep-learning-in-healthcare-revolutionizing-diagnosis-and-treatment-prediction?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 72
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/05_03_2024_15_34_48_8064378.png?width=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Google Cloud digs deeper into generative AI for healthcare"
     excerpt: "The tech giant introduced Vertex AI Search for Healthcare March 12 at the HIMSS 2024 annual meeting to support developers build technology for clinicians and healthcare workers. Healthcare organizations can use the tool to build data analytics and AI solutions supporting more precise patient care."
     publishedDateTime: 2024-03-12T13:27:00Z
@@ -91,6 +107,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Generative AI: Will New Tech Transform Healthcare?"
+    excerpt: "In this feature, we explore the potential uses of generative AI in healthcare, with the help of ChatGPT itself."
+    publishedDateTime: 2024-03-13T10:43:00Z
+    webUrl: "https://frontlinegenomics.com/generative-ai-will-new-tech-transform-healthcare/"
+    type: article
+    provider:
+      name: Front Line Genomics
+      domain: frontlinegenomics.com
+    quality: 36
   - title: "AI, Telehealth and Communications - IDTechEx Explores Digital Healthcare"
     excerpt: "IDTechEx provides trusted independent research on emerging technologies and their markets. Since 1999, we have been helping our clients to understand new technologies, their supply chains, market requirements, opportunities and forecasts. For more information, contact research@IDTechEx.com or visit www.IDTechEx.com ."
     publishedDateTime: 2024-03-12T08:30:00Z

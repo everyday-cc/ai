@@ -55,6 +55,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Microsoft Faces Pressure to Deliver on AI Integration for Windows"
+    excerpt: "Microsoft's AI roadmap, the industry watches with bated breath, hoping for a breakthrough to propel AI-enabled computing into the mainstream."
+    publishedDateTime: 2024-03-13T10:35:00Z
+    webUrl: "https://www.cryptopolitan.com/microsoft-faces-pressure-to-deliver-on-ai/"
+    type: article
+    provider:
+      name: cryptopolitan
+      domain: cryptopolitan.com
+    quality: 56
+    images:
+      - url: "https://www.cryptopolitan.com/wp-content/uploads/2024/03/Default_Microsoft_Faces_Pressure_to_Deliver_on_AI_Integration_1.jpg"
+        width: 1232
+        height: 928
+        isCached: true
 
 secured: "GULKqjpxP0npzK0F0hfJTh1F8OMW8dXwcM295T1qLqy32VMP1pJ5nggMTSOTFU9HEveWkJcIMz3yCvSWwiG2nffHPjhaOjQF9Z7xerq/55DbKDfEL5vGjiiApQA99nbRTLgEUzpoR/XTDO8gum3gVStBNzZKyOVQUqEB6hSzWKwwT4QSFpRsuEeqfwD3F/HXSRmQpEYZ5vJ17f22stLPH0wtqNNVCFUMSeZx4zI+dCG04TFBLSG5rSdnYSoy0SAnZSEtXta6SThqKaQgg6L610dQzY7d2s2VILDbTndj+OKOOhM4LzXlMcZ+CTxNRniTtkt/bXA30PEGu/u58xKl6Zkv5SOymrJPXs18GngUS903wVWRYpgX/ADuwphT4NGNCPbbsMyivA7Wv4Xm6nacfFzJxV+AeMC0r2osuMIH1Er6wkpB2GSA7hk4UNH0awz9lu8OK7qJSmehkqGoPy8SaxjkjAph+Bavn98xZbNXCLpBr9tWio2jWwGurNfimKnYPG+bYAx0l7u4Z9WSMAV9Hg==;731vNYixcl4xRM4BUGX5ZQ=="
 ---

@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Samsung May Use SK Hynix’s Technology to Compete in AI Chip Race"
+    excerpt: "Samsung Electronics is set to adopt chip-making technology championed by its rival SK Hynix in a bid to compete in the flourishing market of high-end chips driving artificial intelligence (AI), Reuters news report said. The move comes as Samsung, the ..."
+    publishedDateTime: 2024-03-13T00:00:00Z
+    webUrl: "https://www.telecomlead.com/semiconductor/samsung-may-use-sk-hynixs-technology-to-compete-in-ai-chip-race-115331"
+    ampWebUrl: "https://www.telecomlead.com/semiconductor/samsung-may-use-sk-hynixs-technology-to-compete-in-ai-chip-race-115331?amp=1"
+    cdnAmpWebUrl: "https://www-telecomlead-com.cdn.ampproject.org/c/s/www.telecomlead.com/semiconductor/samsung-may-use-sk-hynixs-technology-to-compete-in-ai-chip-race-115331?amp=1"
+    type: article
+    provider:
+      name: Telecom Lead
+      domain: telecomlead.com
+    quality: 74
+    images:
+      - url: "https://www.telecomlead.com/wp-content/uploads/2023/04/Galaxy-S23-from-Samsung.jpg"
+        width: 640
+        height: 402
+        isCached: true
   - title: "Samsung eyes opportunity in AI chip manufacturing market amid TSMC dominance"
     excerpt: "As companies strive to establish themselves in the AI era, the South Korean industry is monitoring whether Samsung Electronics can capitalize on the AI chip orders."
     publishedDateTime: 2024-03-11T04:27:00Z

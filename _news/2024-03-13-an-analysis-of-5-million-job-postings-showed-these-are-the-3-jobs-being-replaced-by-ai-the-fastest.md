@@ -6,8 +6,8 @@ publishedDateTime: 2024-03-13T08:59:00Z
 originalUrl: "https://www.inc.com/jessica-stillman/3-jobs-replaced-ai-fastest-analysis-5-million-job-postings.html"
 webUrl: "https://www.inc.com/jessica-stillman/3-jobs-replaced-ai-fastest-analysis-5-million-job-postings.html"
 type: article
-quality: 23
-heat: 23
+quality: 25
+heat: 25
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-132076046_538216_ifoddl.jpg"
@@ -23,6 +24,6 @@ images:
     height: 576
     isCached: true
 
-secured: "73GMO7vhThBlXQB03xpUifPqrFiR2Pp5VZsRAriZgmSFq8rBgZK9+xGuCSVKIBxWr1dOjIc6dUdDK4/t25/+P6p9rD2e3rMMGsYElYFRH92RKG4+y75S1fmzW102evxCvGNbfow6dWI0Z46Uj9vDyZtTCeQHZTQKqiSXFtvu/WHe9Pb0YDTKxIZF/Kj77qqHcYO/080dqSVk+g2XURx5VbmifMwXSvxGCV76g4k6tbZaJ7uJUoaXuK8XMoJggog94mIW44u/YzbRAjYXRwAtjPC1XbjpKWuDp7YwGsvC0F00NEsACAHykgnB+LA98dNRH4BrBIiJdsrbfMqIG8H9rr8DjFcNWYPMdHhdBTPWhnw=;dRpmwASaexskZmCjxtciPg=="
+secured: "ZyxNbmuUEWddSvZwWLvgPstcr4yuNQhrwI62ydsgqK11gFKbG39WJ75YpI+7Mjccds+IPUSnnSBb3zC6gBp8s+rxwKGIZO8zHS2ST4jHXG+lD5OVbjnzXttJShd+Zh63iOgZoQqhj26qHZSxlPmtn4z+KfYX4TbjidhfSjqe1oKB/VsWMloe0hQsFShSHkSVHPF6/z1iM7SViMy7FrXi8d7G6eCRwL5AJRrXP1N3U4zlxAMtg03U5m/pEx11+aXsr1JJFi6ZKMEpx7SMnKWR/yVMQ7792WFr1peJQBVcfC9tsCNNgs5NF9l4PkqaH77ngQgm2xtlH8gtOBNwhilsMuyfXQggBCKwg/hxTA4KEnTksbJVvGUblf3TUagDdNv1SLnE6onyHbr0jCC8HsVjZg8QRAyScMtOmy+KnqqYKPlxqeZphngfm+Lb0TNpQPZf/22KDQpcDnkCmC3fJ6UknkzYffMyd7huGNp04ANUh22mFbzYZn5UlL6DBvuinJEjAmlQxhSx/Wje2OhAj+on9A==;TA3l68MpV9BKbW5WodRtcg=="
 ---
 

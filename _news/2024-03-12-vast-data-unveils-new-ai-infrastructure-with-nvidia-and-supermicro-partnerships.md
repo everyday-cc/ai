@@ -41,6 +41,20 @@ related:
         width: 959
         height: 424
         isCached: true
+  - title: "Why Nvidia, Google And Microsoft Are Betting Billions On Biotech’s AI Future"
+    excerpt: "Now that large language models like OpenAI’s ChatGPT and Google DeepMind’s Gemini have mainstreamed generative AI, several of the world’s most powerful tech companies are looking to biotech as the next frontier in artificial intelligence — a ..."
+    publishedDateTime: 2024-03-13T10:30:00Z
+    webUrl: "https://www.forbes.com/sites/richardnieva/2024/03/13/why-nvidia-google-and-microsoft-are-betting-billions-on-biotechs-ai-future/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 83
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65f0f81fab4ec72de094a838/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Novelists sue Nvidia to stop spread of AI models trained on copyrighted books"
     excerpt: "Book authors are suing Nvidia, alleging that the chip maker's AI platform NeMo—used to power customized chatbots—was trained on a controversial dataset that illegally copied and distributed their books without their consent."
     publishedDateTime: 2024-03-11T16:35:00Z

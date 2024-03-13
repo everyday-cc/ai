@@ -41,15 +41,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "10 AI Tools For Your Business In 2024"
-    excerpt: "Artificial intelligence (AI) is a powerful technology which has a far-reaching potential for change. But what about when it comes to the day-to-day workpla"
-    publishedDateTime: 2024-03-12T12:41:00Z
-    webUrl: "https://www.forbes.com/uk/advisor/business/ai-tools/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
 
 secured: "5Cx113ehiVT5WSpNq3YIjTBMZ3k4/0Btv3MVYe0r7Fpb/IWpx+bMJ9m8UdLr1OnQF72zmjjSfHWsRKpxq/vRSuR+/lhD70F3tVMr5mQ4OfbMhvXtOsJpIVIh5Lr700zoW9ldzuqNzfD9V/PQwRiW/7R6UVI2Bd1KKYZuMtub1zAOXDNc3fLPmcuGx3F74BZDAtUZqAhiaM4d7+U137j6Smqz4kv1pvclNOAOzkbHLHVhJqnM+mn2EBE4DKOtqKC8Tn/LsZQKnOur8vP+szIiEEzeJBrpMO/txXHh2z0S81mP8iNJVFxRWnODOrfj3mxeFXRT3aLBH3DoXPuRj00jiAZSrm0pZq4PuhKKa+K2525cInO+Ogz5o6ht0Rj8+grQx7qI+JnWYWkqzS/MZYEmHOupYh6ubW7oak3V53RfxXFzS3MhGMwoISKolDmBfbtOdeQZFN/HeewsYaBqAvMdM7c/73uxRO5jpuH5bqjsQuBJP6WjohrjxjMgR7JtDNalsonnFVQgEALcnIRZ5GYVJg==;gXNByxj9uYWhEbJLX58yeQ=="
 ---

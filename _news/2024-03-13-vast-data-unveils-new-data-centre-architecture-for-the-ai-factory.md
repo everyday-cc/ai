@@ -41,22 +41,6 @@ related:
         width: 1599
         height: 900
         isCached: true
-  - title: "How women are navigating challenges and taking centre stage in the AI-powered technology landscape"
-    excerpt: "By working together, we can move towards the common goal of shaping a progressive future of AI that has diverse perspectives, equal representation and an inclusive landscape"
-    publishedDateTime: 2024-03-08T10:43:00Z
-    webUrl: "https://www.firstpost.com/opinion/how-women-are-navigating-challenges-and-taking-centre-stage-in-the-ai-powered-technology-landscape-13746795.html"
-    ampWebUrl: "https://www.firstpost.com/opinion/how-women-are-navigating-challenges-and-taking-centre-stage-in-the-ai-powered-technology-landscape-13746795.html/amp"
-    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/opinion/how-women-are-navigating-challenges-and-taking-centre-stage-in-the-ai-powered-technology-landscape-13746795.html/amp"
-    type: article
-    provider:
-      name: Firstpost
-      domain: firstpost.com
-    quality: 45
-    images:
-      - url: "https://images.firstpost.com/uploads/2024/03/AI1200WC-2024-03-c90ec9571c28ed98d00b0a500e35c3d6.jpg?im=FitAndFill=(1200,675)"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "/3JhTBOU7pgIuPuATJb3bC7OpiSVBI1Hwowi8NJZqkgPoHc4Y8IFlWmCZb+PohGDYGreQEmsiWZrN0lblyOOO9ExrPgJZO9hAq5Ka9rvINgN2pDPkFYLhYYuSrVVGgDmoV2nY8Yim2kzWR+seItJd6vkIP7tHDWiB+Kp2PHSqI2fbqXBrm2rv3YzAIh9QhQHVBzLHTXfPjDFPBVy3OhgY8hrXP5+Z2HRDoILGa4xguv5KcUevyYwveIO5bZHZWEZA+zPeZsZnbXXn5Xq2E57uGKO+yhEMenXdYeIM+qj765M+JVVWspfCwXokwc7mjIxooP7/CQUAqasFQC6JVzuyyJc/QD2UMNCpaq+q3ADGgM=;Z5COPmyiIjzs3H4DHJvkvQ=="
 ---

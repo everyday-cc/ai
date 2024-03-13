@@ -53,15 +53,6 @@ related:
         width: 409
         height: 269
         isCached: true
-  - title: "The Top 7 Fintech Stocks to Buy in March 2024"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Fintech companies are spearheading a revolutionary shift in their niche,"
-    publishedDateTime: 2024-03-08T11:20:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-top-7-fintech-stocks-to-buy-in-march-2024-1033145869"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
   - title: "Stax founders launch new Orlando-based fintech Worth AI"
     excerpt: "Salman Rehmetullah and Suneera Madhani's fintech Worth AI aims to transform financial underwriting for small- and medium-sized business loans."
     publishedDateTime: 2024-03-12T10:00:00Z
@@ -90,6 +81,6 @@ related:
       domain: theglobeandmail.com
     quality: 4
 
-secured: "Z0OPR+LEjm8H3Pl7tdwbO1nsat/dm97AGajfaz35ZbmjMbPRoKpTI1/0OhRsakbjutuuu979HUwSYovvH4z9njTv/kjHXBW624bwurYW6VrMSm5h9Kw1t0r8Aj8s+zPqHmQ6VLuzNVplMLwJ8N+NnrmcnzxxiEiuqiksnx91o/pxm9X6aVwhWfSBjRTh9bQHea3e7+7FfzKm2/K/xbyY73kvXuHtvsrbM/ToOgF1qzhzcaNaV6ZxtAVJXf1jAt0c1K9NtPLRt8PB7mP8soykx4TwkRXZhsID59A3U4NjFi3NbVXDo+PxyDjwzNYw88MrH46F2DvNGYClealewL8cvgp5HnzcJtxlPyeE7n9fyFI=;s7G7NUwFMgKAMydd4IcitQ=="
+secured: "RlAKQwyqu2Eiun15/6dLvosj9Ps2rDFXXHjKzBujaLqRLi+I1Xh/KtCRzYZ0++TGyzvTo266FV+y0PH5touaotRH8jxeZRhO4CgTPTr/2b1iZpz8kWqZC+/kACUm7LrMu9YKJ3w1UABHvbnA0VUZgGw1xN/8z/VXJjJdi3sCGbyWqPQK7h6Lwcn3M4B2KxKX+i5w9RLokZ4PKqU1yPTaT5li8e+DV3NnXtRpjDC2m7YcEpGAvAMNrYHfSZfI+IQfd3bJmKdCsPSDYqXToylga9eaXAoqdRouBc2CAlkazr3Qby8tt2PptNbql1NQiuror64sr6skpZfxfnWGJjlLr53TRIAsoIL8XGI2ucWtYhbP3DA5v2NgsnOUmmHukJUTkdE2cod5l935uJfKppOENS9MjJ17gMTJn6hfDVi/nzwcLbEum9q2wMzlK6D4SR92LO4/esWjIjhR/YpQor36EYToWmm08wYHZXxR2f71h+UtC4q+MnLXzC6QMxwMCnZ/1nPl5dML5fp/f9qLzNei7w==;Hl51HeLxbg1vEJP9JIaj8w=="
 ---
 

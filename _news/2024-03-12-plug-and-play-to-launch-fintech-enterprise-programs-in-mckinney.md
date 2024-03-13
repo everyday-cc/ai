@@ -7,7 +7,7 @@ originalUrl: "https://communityimpact.com/dallas-fort-worth/mckinney/business/20
 webUrl: "https://communityimpact.com/dallas-fort-worth/mckinney/business/2024/03/12/plug-and-play-to-launch-fintech-enterprise-programs-in-mckinney/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,36 +23,6 @@ images:
     width: 1000
     height: 667
     isCached: true
-
-related:
-  - title: "hedgehog lab promotes fintech vet to chief client officer"
-    excerpt: "North East-based global tech consultancy hedgehog lab has appointed Clare Weightman as its new chief client officer."
-    publishedDateTime: 2024-03-11T14:24:00Z
-    webUrl: "https://www.prolificnorth.co.uk/news/hedgehog-lab-promotes-fintech-vet-to-chief-client-officer/"
-    type: article
-    provider:
-      name: prolificnorth.co.uk
-      domain: prolificnorth.co.uk
-    quality: 24
-    images:
-      - url: "https://www.prolificnorth.co.uk/wp-content/uploads/2024/03/Clare-Weightman.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Skyro takes lead in addressing industry challenges to propel growth of PH’s fintech market"
-    excerpt: "The Philippine fintech sector faces hurdles, dealing with challenges that impede its progress. These obstacles include the absence of a centralized database, reliance on outdated technology, and various other industry-specific barriers."
-    publishedDateTime: 2024-03-12T10:02:00Z
-    webUrl: "https://manilastandard.net/tech/314425263/skyro-takes-lead-in-addressing-industry-challenges-to-propel-growth-of-phs-fintech-market.html"
-    type: article
-    provider:
-      name: manilastandard
-      domain: manilastandard.net
-    quality: 14
-    images:
-      - url: "https://cdn.manilastandard.net/wp-content/uploads/2024/03/Nasim-Avien-Skyros-Co-CEO-and-Co-Founder.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
 
 secured: "TR4ts1lKgzusRMk57B9fjDsxfQbZRUJ+cOltQbVPIXyaEKAlof0jdHDyGT8vALOfPtZbhN5YoIw2I5Bf9azQrarBQSuq6ptf0PP29cy5V+ZjkWtG/4XRZ8xeNcFxc02PwqDM2rCnCXkAHXdIV6v32bH1IFGUNLZHFXTzAVqKDSSdPnnJK9SeMPxPD8jv/7pReg8YWbK4+OyR+JvOu0pmkPpwwIAtTvonQZIBqVhOGgqewlMhQtibBTskZoSkoMjTYuyGIwbT7orlqeo7XjoaF4Xt7e1LzVNrGPuxT1HFYE8qHwK897it46s7plNFUz+iJMzwjCdBO5yWchNEfKr8xVuD3mSQn9FeyST0K8D1swcSRSBYqwPtacVIpOUwNioKnZRBDzGp0vUvkc6oSXSbA45KHuCYJwa528lFT6pg6tmN47gCBl4R4EX+/8UMZDoZsPB+Pz7vEaJ1AKvZLw8DS4rGhCx6TJ4/ZG4hG/jxXd3zyqURfbuqEo3lP2Yg5ShZc0RlOb2UibG3ZDDGrINHAw==;LdEyFML6BHhb3/KJC4uPlw=="
 ---

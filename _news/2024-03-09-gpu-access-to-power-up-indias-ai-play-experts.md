@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/tech/technology/gpu-access-to-power-up-i
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/amp_articleshow/108335973.cms"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -36,6 +36,15 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 61
+  - title: "Google Restricts Replies to Queries on India Polls Via Gemini AI"
+    excerpt: "Alphabet Inc.’s Google is curbing its generative artificial intelligence chatbot, Gemini, from responding to queries directly related to Indian general elections starting next month, conforming with similar controls in the US and other countries holding elections."
+    publishedDateTime: 2024-03-13T10:40:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2024-03-13/google-restricts-replies-to-queries-on-india-polls-via-gemini-ai"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
 
 secured: "iN4oiSBFi05+b23JXKuKDUqe38V8JVXcVAcHLoz5uNGDCdte6mvPKg+rNNV9k2R8hBgWUNGPgY9Y/YFx1mWn15tUhc35PTMh3zty7f2sPvo+UA2bAk5xxFvXE1JnHCaiicU+p406Mse2SojXDqIAHCb1/kRNSMwpDUesYk2i8YTk3/TZsnYiBZtl36NU+w4VtauR4QLgyfZOc08MID4zgUNL6y2fbdgkJiiq+To/YQl3d8oymyXscN8Bo6kuEp1OtwbG97puEsaL7++jImjeYiqdfFq7/Y9C6UDFcwYFKH+uKtmIUtXlMG9qaIjjM01WqoVdsXKGkiztlAMEO8gMMMcQLBftyF628MIrfuwcebc=;M5fgw8vqj4DrraHKxFH8pw=="
 ---

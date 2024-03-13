@@ -111,20 +111,6 @@ related:
         width: 1548
         height: 776
         isCached: true
-  - title: "AMD's AI chatbot released"
-    excerpt: "Uses third party app AMD has just launched its own local and GPT-based LLM-powered AI chatbot, that works on Ryzen AI processors and Radeon RX 7000 series GPUs. AMD's new LLM-based GPT chatbot can work on many different Ryzen AI platforms,"
-    publishedDateTime: 2024-03-08T11:05:00Z
-    webUrl: "https://www.fudzilla.com/news/pc-hardware/58602-amd-s-ai-chatbot-released"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/9d13e7b7c52f66d31db2f880938f4426_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
   - title: "AMD Says It's Super Easy To Set Up Your Own AI Chatbot, Here's How"
     excerpt: "Don't forget to enable GPU Offload if your system has a fast GPU. AMD also talks about using LM Studio on a \"Ryzen AI PC\". It's true; you can run LM Studio on a system with a Phoenix or Hawk Point processor. However, on those machines it will run on either ..."
     publishedDateTime: 2024-03-08T20:00:00Z
@@ -154,6 +140,6 @@ related:
         height: 3931
         isCached: true
 
-secured: "E6Qox8PpJipGEpnTE96YE03SCVKzCNKDYH+wr9+LeR7qm0xZgS0xKL4yDGL8/Lk9G2/br0DHdGerGJkg+lJUuY2UgPUW81m2GgFvdX9Hh82tcLwme47ecbe1QoV46zK72dGiHZSDE6UI2Xz7hrad4YZwYWq1Ze3tpNr7s5oc1iXuvkvnfpE24BsmkoFlJD5w/a9sCKCBm4rXYta5lwrM0vbei2yU1c0rPJV8bmuBYhQjx3bCA/c29gvFc0+H22eTO/130gzyZ9yJH6D/rsUz6+dkYmO8TTvrHD4GUllTFdQ1oOQ7IMoMxqmKbevVkb6UV46Spgk0+IGqDimXH+KOQnwwxNeeD+ZqM3qjOkYtOdw=;2W/qGgmBCuHqVbQaDk9M/g=="
+secured: "Igs5Dub63kaoSAGuI1WB4212MoeREIp75HNTPqy4ovbi9FZXJQCnkH6pOXax6vNLk+GicRgm5PxUOB7ORiYB7LtX3eH6sJpySZC8bLwDzeMIiSKuAwUfJuowhRMEWgi4ndu1tg1Mr7RX0dU0XN16ZWH/jmeL4MktOljkM2szhznmw8sLG4dHevbXpw45v+iiRdbVghfJNPzx8lSEd2p4JtIvvnWUqSRa/J3XKgDDeFN7tcaALs/uHvpntQSwqPiWlJKZ7ZhrrIx2ga8C8uZpDlKjUJHu+TRySblrQ+1T/3DGLiJwAwBA7YBUu8fcLG1iZlT/xGxmCbOMgZaoLGTt0EzrhJSTptZhgfYMVAVj09eGch72LlSFK1FwP/pOEPUOUqX4TWsxuru+SymZkf5LpKxN4lK0+IAmaYTXjG7jEHDpirRr4GGZ73/JkoIqalqeA6T77e+lzV6wBR0fWZsx+hvK6TpmSqa81pUz0zoq8zRCbh221j3ioo8qzcEBRN9q1eAKWRIIDFieHkiRa/rLgQ==;4tjPSjn/+0/n8MqRbi4d3Q=="
 ---
 

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Does AI have a place on ethics committees? How to use it the right way"
-excerpt: "Given the importance of ethics, any tool that can be used to help come to better ethical decisions should be explored and used. Over the last couple of years, there has been an increasing recognition that artificial intelligence (AI) is a tool that can be ..."
+excerpt: "So it makes sense to ask the question of whether AI can be used to help make better ethics decisions. As AI is a class of computer algorithm, it relies on data. Ethics committees also rely on data ..."
 publishedDateTime: 2024-03-04T11:53:00Z
-originalUrl: "https://thenextweb.com/news/does-ai-have-a-place-on-ethics-committees-how-to-use-it-the-right-way"
-webUrl: "https://thenextweb.com/news/does-ai-have-a-place-on-ethics-committees-how-to-use-it-the-right-way"
+originalUrl: "https://thenextweb.com/news/does-ai-have-a-place-on-ethics-committees-how-to-use-it-the-right-way%3Futm_source=facebook"
+webUrl: "https://thenextweb.com/news/does-ai-have-a-place-on-ethics-committees-how-to-use-it-the-right-way%3Futm_source=facebook"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 640
     isCached: true
 
-secured: "k2vfJCIZVXTicjfisnVb7t4rii/usApve2L2nxgdZTUeTPWfAlOKjNs+Iq7tf+SvSWglIvWAbHbv/EKpuharZ6guv3l9/DvqFOm7dqwMMq8AiX3Sn3vUsD4GRmOEDYUHOyhH0zwgyRonNuWGeTh/9DnjPNUgdFLv0b4K/RKyspcvzeAc276PtJ3SltiqCEtorfJv6qa+3a3yVq8sx4yaIfT57e2eQ6rHXgcD8aKwStuzHjcovSXsUV8gj/BAujP7dueWkggfBwCgtWAeiJAPb1waQgZoEQNt+FHeEL1tiXwUXEH5HAryzB8CFj4ca5Ae3K85yiGOD/RTWHdjdPRFRVJqCUjxw0VnKYfqb1s5RJY=;2Vn7KDLHVrrfOqESjY7TIw=="
+secured: "LEwaYZL64jSkTq20+MuEOfc01VYS7eP3oz5046P2aFqvvu8pZuoSaZzilzrTqIxjBfEXr4JABWSuvIGf2lYtNj43mKUYyCRW6XIctjvLfLT3gzwFDWt8f92bB7eLlS8PnelrqrpgFAOmijNLjZwN8RTEYySz1fceHA0JNzssm4RWqIkB29nM3401aIHkor+IbuxU7MSzwXv2H3/LU1jrVZv8vd3BrQUShaLJZz1/EnPTja4Wh30mjaN1fs34mSSs/ST6ojj+Qc5VfT8b7+P+ea5WTclOI4AIoCvTlI5NFRqPsNjcXb9iiro6Ac0braT+6NoQUc07a+cIqDt3oe1iIx/rnd6YUaOsAXH0oCPHHqc=;chRBtBaedD8Rg+dk6h8eyw=="
 ---
 

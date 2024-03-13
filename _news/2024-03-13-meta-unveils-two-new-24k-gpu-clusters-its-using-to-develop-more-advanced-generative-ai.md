@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2024/03/12/meta-unveils-two-new-24k-gpu-c
 webUrl: "https://siliconangle.com/2024/03/12/meta-unveils-two-new-24k-gpu-clusters-using-develop-advanced-generative-ai/"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -27,14 +27,19 @@ images:
 
 related:
   - title: "Meta reveals details of two new 24k GPU AI clusters"
-    excerpt: "Meta has shared the details of the hardware, network, storage, design, performance, and software that make up its two new 24,000-GPU data center scale clusters that the company is using to train its Llama 3 large language AI model. The new training cluster ..."
-    publishedDateTime: 2024-03-12T00:00:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/meta-reveals-details-of-two-new-24k-gpu-ai-clusters/?ref=upstract.com"
+    excerpt: "Developed to support AI research and development in areas such as natural language processing, speech recognition, and image generation, the newly announced clusters both contain 24,576 Nvidia Tensor Core H100 GPUs. This is a significant increase over the original clusters, which contained 16,000 Nvidia A100 GPUs."
+    publishedDateTime: 2024-03-12T15:12:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/meta-reveals-details-of-two-new-24k-gpu-ai-clusters/?ref=biztoc.com"
     type: article
     provider:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
-    quality: 34
+    quality: 54
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/115765602_299370047824506_6626355.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Lm8yr9RLObdabKgP/BylRSyaWTvCCpCitH1LfPUjLVIoj0Lu9CEyuCFs8g7a3B4eOXkNki2uPQyApzTGbKF/v+1uNHDlwFXv1q3h+mfvLnw/SiyueSlhUxHwr3qN5uax825ksI/+WXXas6DFwZ2CYFfftMd8oazyREqvphEWp3qa7TFsIuFtBOhhVYcAArsiO59MY7dkncVpB7GQPTFxtqFar1q/c1tbH0iEKvfYCu/pFiJJCZ5dDW8HsgKgonNYB/G9Bmbx/+ykFD2ItxDiqlMjSmfjMaRvvYjRL7gvQ/NZbs5zybcZz7FU+Ly8f+L/zLZOaucgz0W34wJybikARLNigDyo51xrlRrNjcIGwasGjWzOexfOQ0DD6o5bTI6XEIQUfmznCpnvAMy7mXo4jcOR0VEzBKcpms24To2m2GexwC/8F/T/SZwHlk2nm7fzNTAKJJ/6oEz8rhUJJ/9zcuDAdABQuFiyT1vmrY/5Mup166lUQGO3/bcyeJybP9fRgDqxLnEOejQaDiAddAoVYQ==;Q3ugdwIRjkgtaVX1GMGNsg=="
 ---

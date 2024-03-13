@@ -2,6 +2,306 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-13-does-aws-or-google-cloud-offer-better-options-for-your-business.md",
+      "title": "Does AWS Or Google Cloud Offer Better Options For Your Business?",
+      "excerpt": "The decision to select AWS or Google Cloud hinges on several factors, such as the size of the business, the industry, any specific requirements and budgetary concerns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/does-aws-or-google-cloud-offer-better-options-for-your-business/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/does-aws-or-google-cloud-offer-better-options-for-your-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/623e01e2d7e01bab063bd76c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/does-aws-or-google-cloud-offer-better-options-for-your-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/13/does-aws-or-google-cloud-offer-better-options-for-your-business/amp/",
+      "publishedDateTime": "2024-03-13T11:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-13-why-generative-ai-isnt-just-about-creating-marketing-content.md",
+      "title": "Why Generative AI Isn’t Just About Creating Marketing Content",
+      "excerpt": "Amid this environment of promise and anguish, companies are already forging ahead to serve customers with AI-generated content.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2024/03/13/why-generative-ai-isnt-just-about-creating-marketing-content/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2024/03/13/why-generative-ai-isnt-just-about-creating-marketing-content/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65f0ba0d70b8ded757ed7a54/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-13T11:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2024-03-13-new-ai-tools-can-help-doctors-take-notes-message-patients-but-they-still-make-mistakes.md",
+      "title": "New AI tools can help doctors take notes, message patients, but they still make mistakes",
+      "excerpt": "New AI tools can help doctors communicate with patients, take notes during medical examinations, and even make diagnoses. But the tools are not perfect.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/new-ai-tools-help-doctors-take-notes-message-patients-still-make-mistakes",
+      "originalUrl": "https://www.foxnews.com/us/new-ai-tools-help-doctors-take-notes-message-patients-still-make-mistakes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/60c0535c-c189-4d06-b7a2-9d7c5ff58e8d/57b2155a-c1fb-4241-a9d1-93e024a57772/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/new-ai-tools-help-doctors-take-notes-message-patients-still-make-mistakes.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/new-ai-tools-help-doctors-take-notes-message-patients-still-make-mistakes.amp",
+      "publishedDateTime": "2024-03-13T10:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-13-top-rated-manager-flags-three-overlooked-small-stocks-including-an-under-the-radar-ai-play.md",
+      "title": "Top rated manager flags three overlooked small stocks, including an under-the-radar AI play",
+      "excerpt": "Mick Rasmussen, fund manager at a gold medalist ranked fund, talks about an AI play no one is looking and other stocks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/top-rated-manager-flags-three-overlooked-small-stocks-including-an-under-the-radar-ai-play-8134847f",
+      "originalUrl": "https://www.marketwatch.com/story/top-rated-manager-flags-three-overlooked-small-stocks-including-an-under-the-radar-ai-play-8134847f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-85909438/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/top-rated-manager-flags-three-overlooked-small-stocks-including-an-under-the-radar-ai-play-8134847f",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/top-rated-manager-flags-three-overlooked-small-stocks-including-an-under-the-radar-ai-play-8134847f",
+      "publishedDateTime": "2024-03-13T10:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-13-how-ai-can-help-marketers-stay-profitable-during-economic-downturns.md",
+      "title": "How AI Can Help Marketers Stay Profitable During Economic Downturns",
+      "excerpt": "AI can quickly gather, analyze and interpret data. Its agility enables it to provide actionable insights in real time, allowing users to get up-to-date information when needed. AI tools empower marketers to do more and be more efficient while delivering high returns on ad spend.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/how-ai-can-help-marketers-stay-profitable-during-economic-downturns/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/how-ai-can-help-marketers-stay-profitable-during-economic-downturns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65f072f0fa2fc981e173b9d9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1281,
+          "height": 854,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/how-ai-can-help-marketers-stay-profitable-during-economic-downturns/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/13/how-ai-can-help-marketers-stay-profitable-during-economic-downturns/amp/",
+      "publishedDateTime": "2024-03-13T10:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-13-ai-boost-for-macs-m4-chip-on-horizon-for-new-macbook-pro.md",
+      "title": "AI Boost For Macs? M4 Chip On Horizon For New MacBook Pro",
+      "excerpt": "Bloomberg's Mark Gurman, as cited by 9to5Mac, revealed that Apple has commenced work on the successor to the M3-powered 2023 MacBook Pro. Responding to a user inquiry in the Q&A section of his Power On newsletter, Gurman hinted at the possibility of an M4 MacBook Pro in the pipeline.",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/tech/71320/ai-boost-for-macs-m4-chip-on-horizon-for-new-macbook-pro",
+      "originalUrl": "https://in.mashable.com/tech/71320/ai-boost-for-macs-m4-chip-on-horizon-for-new-macbook-pro",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/photo/default/4_yrnk.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-13T10:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "in.mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-13-how-ai-impacts-legal-systems-with-its-fake-laws.md",
       "title": "How AI Impacts Legal Systems With Its Fake Laws",
       "excerpt": "The legal regulators and courts around the world are emphasising the need for responsible adoption of AI tools by lawyers and the establishment of clear guidelines to uphold the integrity of",
@@ -97,7 +397,7 @@
       "originalUrl": "https://www.forbes.com/sites/bernardmarr/2024/03/13/how-generative-ai-will-change-the-jobs-of-doctors-and-healthcare-professionals/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 190,
+      "heat": 200,
       "tags": null,
       "images": [
         {
@@ -137,6 +437,57 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-13-how-to-avoid-the-headaches-of-ai-skills-development.md",
+      "title": "How to avoid the headaches of AI skills development",
+      "excerpt": "\"Leaders should take an active part in equipping their employees with critical future-ready skills, like how to responsibly apply generative AI to improve productivity, how to leverage intelligent automation to speed operations, or how to simulate steps in a supply chain with digital twins or augmented reality,\" he says.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/how-to-avoid-the-headaches-of-ai-skills-development/",
+      "originalUrl": "https://www.zdnet.com/article/how-to-avoid-the-headaches-of-ai-skills-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/4eaeeecd56dd6753899b500908eb42b050f16878/2024/03/12/59585614-82d4-4324-a1fd-9d6804047205/gettyimages-1249613157.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-to-avoid-the-headaches-of-ai-skills-development/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-avoid-the-headaches-of-ai-skills-development/",
+      "publishedDateTime": "2024-03-13T03:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -242,6 +593,49 @@
         "AI Ethics",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-13-samsung-may-use-sk-hynixs-technology-to-compete-in-ai-chip-race.md",
+      "title": "Samsung May Use SK Hynix’s Technology to Compete in AI Chip Race",
+      "excerpt": "Samsung Electronics is set to adopt chip-making technology championed by its rival SK Hynix in a bid to compete in the flourishing market of high-end chips driving artificial intelligence (AI), Reuters news report said. The move comes as Samsung, the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.telecomlead.com/semiconductor/samsung-may-use-sk-hynixs-technology-to-compete-in-ai-chip-race-115331",
+      "originalUrl": "https://www.telecomlead.com/semiconductor/samsung-may-use-sk-hynixs-technology-to-compete-in-ai-chip-race-115331",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telecomlead.com/wp-content/uploads/2023/04/Galaxy-S23-from-Samsung.jpg",
+          "width": 640,
+          "height": 402,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.telecomlead.com/semiconductor/samsung-may-use-sk-hynixs-technology-to-compete-in-ai-chip-race-115331?amp=1",
+      "cdnAmpWebUrl": "https://www-telecomlead-com.cdn.ampproject.org/c/s/www.telecomlead.com/semiconductor/samsung-may-use-sk-hynixs-technology-to-compete-in-ai-chip-race-115331?amp=1",
+      "publishedDateTime": "2024-03-13T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Telecom Lead",
+        "domain": "telecomlead.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -358,7 +752,7 @@
       "originalUrl": "https://www.forbes.com/sites/hessiejones/2024/03/12/mia-shah-dands-race-to-bridge-the-ai-gender-gap-for-a-human-centred-world/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -411,7 +805,7 @@
       "originalUrl": "https://www.marketwatch.com/story/ibm-begins-layoffs-amid-push-toward-ai-4b2864c6",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -515,7 +909,7 @@
       "originalUrl": "https://www.foxnews.com/tech/ai-showdown-put-chatbots-test",
       "featuredContent": null,
       "highlight": null,
-      "heat": 180,
+      "heat": 170,
       "tags": null,
       "images": [
         {
@@ -566,7 +960,7 @@
       "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2024/03/12/vast-datas-nvidia-dpu-based-ai-cloud-architecture/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 339,
+      "heat": 349,
       "tags": null,
       "images": [
         {
@@ -839,414 +1233,6 @@
         "AI Hardware",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-a-safety-group-graded-14-driver-assistance-systems-teslas-self-driving-option-was-the-worst.md",
-      "title": "A safety group graded 14 driver-assistance systems. Tesla's self-driving option was the worst.",
-      "excerpt": "Tesla ranked the worst in a safety study of autonomous driving systems, but few automakers did particularly well.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/tesla-autopilot-safety-assisted-self-driving-systems-2024-3",
-      "originalUrl": "https://www.businessinsider.com/tesla-autopilot-safety-assisted-self-driving-systems-2024-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65f05c66ce7f1785b2e8c927?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/tesla-autopilot-safety-assisted-self-driving-systems-2024-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-autopilot-safety-assisted-self-driving-systems-2024-3?amp",
-      "publishedDateTime": "2024-03-12T17:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-4-updates-from-the-2024-google-for-games-developer-summit.md",
-      "title": "4 updates from the 2024 Google for Games Developer Summit",
-      "excerpt": "These new tools help developers build immersive and engaging games that players love.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/google-play/google-for-games-developer-summit-2024/",
-      "originalUrl": "https://blog.google/products/google-play/google-for-games-developer-summit-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ggds4.width-1300.png",
-          "width": 1300,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-12T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-google-paid-10-million-in-bug-bounty-rewards-last-year.md",
-      "title": "Google paid $10 million in bug bounty rewards last year",
-      "excerpt": "Google awarded $10 million to 632 researchers from 68 countries in 2023 for finding and responsibly reporting security flaws in the company's products and services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bleepingcomputer.com/news/google/google-paid-10-million-in-bug-bounty-rewards-last-year/",
-      "originalUrl": "https://www.bleepingcomputer.com/news/google/google-paid-10-million-in-bug-bounty-rewards-last-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bleepstatic.com/content/hl-images/2023/06/16/Google.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bleepingcomputer.com/news/google/google-paid-10-million-in-bug-bounty-rewards-last-year/amp/",
-      "cdnAmpWebUrl": "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/google/google-paid-10-million-in-bug-bounty-rewards-last-year/amp/",
-      "publishedDateTime": "2024-03-12T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bleeping Computer",
-        "domain": "bleepingcomputer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-google-play-will-show-ai-powered-faqs-and-recent-youtube-videos-for-games.md",
-      "title": "Google Play will show AI-powered FAQs and recent YouTube videos for games",
-      "excerpt": "Google announced a number of new features for Google Play listings for games including AI-powered FAQs, displaying the latest YouTube videos, new immersive ad formats, and support for native PC game publishing. The announcements were made at the Google ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/03/12/google-play-store-will-show-ai-powered-faqs-and-latest-youtube-videos-for-games/",
-      "originalUrl": "https://techcrunch.com/2024/03/12/google-play-store-will-show-ai-powered-faqs-and-latest-youtube-videos-for-games/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1240125020.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/03/12/google-play-store-will-show-ai-powered-faqs-and-latest-youtube-videos-for-games/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/google-play-store-will-show-ai-powered-faqs-and-latest-youtube-videos-for-games/amp/",
-      "publishedDateTime": "2024-03-12T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-techcrunch-minute-reddits-ipo-success-may-hinge-on-ai-boom.md",
-      "title": "TechCrunch Minute: Reddit’s IPO success may hinge on AI boom",
-      "excerpt": "Reddit's IPO signals an end to our long-running dearth of IPOs, and the success of its stock could depend on its ability to leverage AI.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/03/12/techcrunch-minute-reddits-ipo-success-may-hinge-on-ai-boom/",
-      "originalUrl": "https://techcrunch.com/2024/03/12/techcrunch-minute-reddits-ipo-success-may-hinge-on-ai-boom/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/03/TC-M-Reddit-IPO.jpg?w=850",
-          "width": 850,
-          "height": 492,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/03/12/techcrunch-minute-reddits-ipo-success-may-hinge-on-ai-boom/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/techcrunch-minute-reddits-ipo-success-may-hinge-on-ai-boom/amp/",
-      "publishedDateTime": "2024-03-12T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-run-an-audience-overlap-analysis-in-aws-clean-rooms.md",
-      "title": "Run an audience overlap analysis in AWS Clean Rooms",
-      "excerpt": "In this post, we explore what an audience overlap analysis is, discuss the current technical approaches and their challenges, and illustrate how you can run secure audience overlap analysis using AWS Clean Rooms.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/run-an-audience-overlap-analysis-in-aws-clean-rooms/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-an-audience-overlap-analysis-in-aws-clean-rooms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/03/12/audience-overlap-analysis-1115x630.jpg",
-          "width": 1115,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-12T15:55:29Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-large-language-model-inference-over-confidential-data-using-aws-nitro-enclaves.md",
-      "title": "Large language model inference over confidential data using AWS Nitro Enclaves",
-      "excerpt": "This post discusses how Nitro Enclaves can help protect LLM model deployments, specifically those that use personally identifiable information (PII) or protected health information (PHI). This post is for educational purposes only and should not be used in production environments without additional controls.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/large-language-model-inference-over-confidential-data-using-aws-nitro-enclaves/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/large-language-model-inference-over-confidential-data-using-aws-nitro-enclaves/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/03/12/ML-15305-image-02-1.jpg",
-          "width": 921,
-          "height": 351,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-12T15:43:08Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-deepgrams-aura-gives-ai-agents-a-voice.md",
-      "title": "Deepgram’s Aura gives AI agents a voice",
-      "excerpt": "Deepgram has made a name for itself as one of the go-to startups for voice recognition. Today, the well-funded company announced the launch of Aura, its new real-time text-to-speech API. Aura combines highly realistic voice models with a low-latency API to ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/03/12/deepgrams-aura-gives-ai-agents-a-voice/",
-      "originalUrl": "https://techcrunch.com/2024/03/12/deepgrams-aura-gives-ai-agents-a-voice/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1127591772.jpg?resize=1200,900",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/03/12/deepgrams-aura-gives-ai-agents-a-voice/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/deepgrams-aura-gives-ai-agents-a-voice/amp/",
-      "publishedDateTime": "2024-03-12T14:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

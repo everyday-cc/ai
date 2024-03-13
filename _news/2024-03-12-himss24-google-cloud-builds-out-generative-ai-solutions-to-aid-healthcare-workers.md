@@ -150,6 +150,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "The impact of AI on law practice and legal professions"
+    excerpt: "In the evolving landscape of the legal profession, artificial intelligence (AI) emerges as a transformative force, reshaping how legal practices operate"
+    publishedDateTime: 2024-03-13T10:54:00Z
+    webUrl: "https://www.geeky-gadgets.com/impact-of-ai-on-law-practice/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/03/AI-and-law-practice.jpg"
+        width: 1280
+        height: 716
+        isCached: true
 
 secured: "5VtVszaYuQkZoEiuSOEN7A8NWR9k8ffZ+gl/Oc0bfCxTCGPDGfFi/LId70+l0A68p/BQhLyhJqXJR8u5ImljwyBc6E0RGagYxzrnbyZvhlE/PnJD53EChjXkuJhBYbNsNd/hQBBgBqcBZFCGANJpYG7Q8WIfiHgJ92tZSb9VYqv/iGTwja498pMg0sY3mAnEvqM+10Z/Ndwu+CZINhLpSryfO9ccn955sHsiRn0J0hsFkqCT6UmULLeXBscCGU/8jeEF/HAePMqcovIoiIuf8WV2/nmi0ZYf0hUGhdqWBURK1Km8mFPjFibRt2eKrKv0MmzcZZWy2th3tyXouzXFKSlvx2ET5KLrkROO/5yNSamwaSpvOWdpDxTGX+++dvsxYIr61I9avUaXV7H2xHpJg9LGHc1JhFpceTmojXhmLk0ZDrFYnVuz1WzvDMZp4KH4roNXT1OoCSALDyDgl0fK15HI4J7CeyvHiChNs/+svDV7cfx7Wo/eN0Iv0hueryibOV/b/W5r/iOal/sjSVxWlg==;eMMz3l72wsn3VwQq30hX7Q=="
 ---

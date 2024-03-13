@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2024/03/matrix-mult
 webUrl: "https://arstechnica.com/information-technology/2024/03/matrix-multiplication-breakthrough-could-lead-to-faster-more-efficient-ai-models/"
 type: article
 quality: 62
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://bgr.com/wp-content/uploads/2023/05/AdobeStock_163144075.jpeg?quality=82&strip=all"
         width: 2400
         height: 1350
-        isCached: true
-  - title: "New DNA-infused computer chip can perform calculations and make future AI models far more efficient"
-    excerpt: "The new processor stores data in modified DNA molecules and uses microfluidic channels to perform basic computations."
-    publishedDateTime: 2024-03-08T10:45:00Z
-    webUrl: "https://www.livescience.com/technology/computing/new-dna-infused-computer-chip-can-perform-calculations-and-make-future-ai-models-far-more-efficient"
-    type: article
-    provider:
-      name: Live Science
-      domain: livescience.com
-    quality: 40
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/SxASRzYBvMQMD5hm7ToXyJ-1200-80.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "54vKnZ2dmHU+23725eLaMRUmQAof+pHP13IaIDCbfEFsb3oCREj8U/i8Oy8/2dSfQvlgh/XxO5PcChb0TkpkbGxGnXQZuw7EgIdM8K2rl4jrn88OhsJH1NUlM98loJiX+tN22LHZ30HBi+8N4+KezfNc9F8qymVKNQYWZdmeTFbXTMz8Og56VzmZgsSEOiTlVLnvbSBtM+3FVphrSGAs8Epj4LOSMITLi79LnqtFdh1a1JptiAFOzcKwgtnIzUtFD1bcYrCYwIamTvC7m6w7P87QnVqTEgZfqdHt/o/4Q/TNIapujK2dRU0GObKwjnFedaJWK+odi/x2ELrJiMlh07HQW+h27Q4ssWZ1SybnFqWPXM5kq/UKi1oq6WYQl9q2M9jQXh5VA7+CRq+1/xgfGuKy8/bJHHPtUQyXTN1B0PX9PWLi4EdBFX2D2NwLz9aVcd1ek1mF6UXoMFcTnNUH+j1QyJaGne93Qc+cWl6n+PtnG53CkYJH4ND7MdLS7jSJS/GaaSlJWq/40dysmUFOsg==;noa6S/C9tzewHO1qRqkD+A=="

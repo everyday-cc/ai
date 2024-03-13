@@ -37,20 +37,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "States and cities confront self-driving cars as Congress idles"
-    excerpt: "Lawmakers have struggled to create federal safety standards for autonomous vehicles. Local officials have been left to pick up the pieces."
-    publishedDateTime: 2024-03-08T10:46:00Z
-    webUrl: "https://www.eenews.net/articles/states-and-cities-confront-self-driving-cars-as-congress-idles/"
-    type: article
-    provider:
-      name: E&E
-      domain: eenews.net
-    quality: 24
-    images:
-      - url: "https://static.politico.com/dims4/default/55a1666/2147483647/resize/1200/quality/100/?url=https://static.politico.com/72/8c/e02706204686a2119d4445a9065d/cw-0308-lee-driverlesscars-2000-01.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "The Rivian R3 Is Proof That Full Self-Driving Doesn't Need To Be a Major Selling Point"
     excerpt: "Rivian is dealing with the same sales issues as every other EV maker, but unlike Tesla, it’s making cars like the R3 and R3X that aren’t sold on their ability to drive themselves."
     publishedDateTime: 2024-03-11T18:59:00Z

@@ -38,6 +38,38 @@ related:
         width: 1456
         height: 864
         isCached: true
+  - title: "Safeguarding Data Privacy In The Age Of AI Innovation"
+    excerpt: "The Amazon Bedrock platform allows for the creation and deployment of machine learning models within a protected ... Furthermore, cloud service providers like Microsoft Azure and Google Cloud offer specialized tools and services for building private ..."
+    publishedDateTime: 2024-03-13T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/safeguarding-data-privacy-in-the-age-of-ai-innovation/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/safeguarding-data-privacy-in-the-age-of-ai-innovation/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/13/safeguarding-data-privacy-in-the-age-of-ai-innovation/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/64c2ae560f07ba1a1fade19d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1330
+        height: 900
+        isCached: true
+  - title: "Tackling deforestation and forest degradation with AI and remote sensing"
+    excerpt: "Deforestation and forest degradation are both significant conservation issues. But charities around the world are starting to use advanced technologies, such as AI and remote sensing, to get on top of the challenge."
+    publishedDateTime: 2024-03-13T09:12:00Z
+    webUrl: "https://diginomica.com/tackling-deforestation-and-forest-degradation-ai-and-remote-sensing"
+    ampWebUrl: "https://diginomica.com/tackling-deforestation-and-forest-degradation-ai-and-remote-sensing?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/tackling-deforestation-and-forest-degradation-ai-and-remote-sensing?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 58
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2024-03/IMG_2082.jpeg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "Preventing the weaponization of AI-designed proteins"
     excerpt: "A new online marketplace called aRukon is set to launch globally this year to help researchers sell unused animal samples to other labs. The idea is to potentially reduce waste, save money, and prevent the unnecessary death of animals."
     publishedDateTime: 2024-03-11T12:51:00Z

@@ -35,20 +35,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "States and cities confront self-driving cars as Congress idles"
-    excerpt: "Lawmakers have struggled to create federal safety standards for autonomous vehicles. Local officials have been left to pick up the pieces."
-    publishedDateTime: 2024-03-08T10:46:00Z
-    webUrl: "https://www.eenews.net/articles/states-and-cities-confront-self-driving-cars-as-congress-idles/"
-    type: article
-    provider:
-      name: E&E
-      domain: eenews.net
-    quality: 24
-    images:
-      - url: "https://static.politico.com/dims4/default/55a1666/2147483647/resize/1200/quality/100/?url=https://static.politico.com/72/8c/e02706204686a2119d4445a9065d/cw-0308-lee-driverlesscars-2000-01.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Tag Archives: Self-Driving Shuttle Service"
     excerpt: "(IN BRIEF) Aviva and Darwin Innovation Group, in collaboration with the University of Salford, have expanded the UK’s longest-running self-driving passenger service by adding a second autonomous shuttle to the fleet. Operating at Harwell Science and Innovation Campus, the shuttles … Read the full press release →"
     publishedDateTime: 2024-03-12T08:50:00Z

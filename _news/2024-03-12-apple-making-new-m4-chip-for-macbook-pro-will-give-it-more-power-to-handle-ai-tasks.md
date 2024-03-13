@@ -9,8 +9,8 @@ ampWebUrl: "https://www.indiatoday.in/amp/technology/news/story/apple-is-making-
 cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/technology/news/story/apple-is-making-the-new-m4-chip-for-macbook-pro-more-powerful-to-handle-ai-related-tasks-2513829-2024-03-12"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: India Today
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI Boost For Macs? M4 Chip On Horizon For New MacBook Pro"
+    excerpt: "Bloomberg's Mark Gurman, as cited by 9to5Mac, revealed that Apple has commenced work on the successor to the M3-powered 2023 MacBook Pro. Responding to a user inquiry in the Q&A section of his Power On newsletter, Gurman hinted at the possibility of an M4 MacBook Pro in the pipeline."
+    publishedDateTime: 2024-03-13T10:13:00Z
+    webUrl: "https://in.mashable.com/tech/71320/ai-boost-for-macs-m4-chip-on-horizon-for-new-macbook-pro"
+    type: article
+    provider:
+      name: in.mashable
+      domain: mashable.com
+    quality: 84
+    images:
+      - url: "https://sm.mashable.com/t/mashable_in/photo/default/4_yrnk.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Apple's AI-focused M4 chip for MacBooks might skip 2024"
     excerpt: "Apple has been updating its M series SoCs like clockwork. The M4 is next, right in line with the launch of a new MacBook Pro."
     publishedDateTime: 2024-03-12T12:51:00Z

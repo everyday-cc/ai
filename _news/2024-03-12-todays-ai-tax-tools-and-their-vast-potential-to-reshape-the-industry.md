@@ -19,20 +19,43 @@ topics:
   - AI
 
 related:
-  - title: "Welcome to the Valley of the Creepy AI Dolls"
-    excerpt: "Wendy Moyle is a professor at the School of Nursing & Midwifery Griffith University in Australia who works with patients experiencing dementia. She says her work with social robots has angered people, who sometimes see giving robot dolls to older adults as infantilizing."
-    publishedDateTime: 2024-03-09T11:00:00Z
-    webUrl: "https://www.wired.com/story/ai-dolls-for-older-adults/"
+  - title: "GenAI has the potential to transform wealth management industry"
+    excerpt: "Generative AI can allow wealth managers to personalise at scale, enabling them to put clients at the centre of business models."
+    publishedDateTime: 2024-03-11T10:19:00Z
+    webUrl: "https://www.pwmnet.com/genai-has-the-potential-to-transform-wealth-management-industry"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
+      name: pwmnet.com
+      domain: pwmnet.com
+    quality: 39
     images:
-      - url: "https://media.wired.com/photos/65eb4f1df0b575321bdc1cf1/191:100/w_1280,c_limit/AI-Dolls-Featured-Gear.jpg"
-        width: 1280
-        height: 670
+      - url: "https://www.pwmnet.com/wp-content/uploads/2024/03/GET-AI-scaled.jpeg"
+        width: 2560
+        height: 1720
         isCached: true
+  - title: "GenAI set to transform wealth management industry"
+    excerpt: "Generative AI can allow wealth managers to personalise at scale, enabling them to put clients at the centre of business models."
+    publishedDateTime: 2024-03-11T10:52:00Z
+    webUrl: "https://www.pwmnet.com/genai-set-to-transform-wealth-management-industry"
+    type: article
+    provider:
+      name: pwmnet.com
+      domain: pwmnet.com
+    quality: 39
+    images:
+      - url: "https://www.pwmnet.com/wp-content/uploads/2024/03/GET-AI-scaled.jpeg"
+        width: 2560
+        height: 1720
+        isCached: true
+  - title: "AI-powered content management: How to make your workflows more efficient"
+    excerpt: "AI translation tools are becoming increasingly sophisticated ... Advanced NLP algorithms will better understand nuances in language and tone, enabling AI-generated content to resonate more deeply with audiences. Pretty soon, AI might be able to create ..."
+    publishedDateTime: 2024-03-11T08:00:00Z
+    webUrl: "https://searchengineland.com/ai-powered-content-management-workflows-438271"
+    type: article
+    provider:
+      name: Search Engine Land
+      domain: searchengineland.com
+    quality: 18
 
 secured: "qHsI73yCPXz2wUJZE2rLowtmFywNbeGspFcInGz297pwx+9WhExRwQpdaL0b9P5D29CpJfViDgKVq4gG3S44et/rg6kTCidlmM2dwOZlgVYEdZSv4uEA5Lz5/sZr2HVq8bR68Gu+pLInrhK5ZdncTLy5g4tIZKkvk3vvYTR3xjf+NOyCqwO+E6YbzK6imrOM340N+SJNKNu76HhvVPv+Ryt+oo6UKE0+2fDka3YzQyKF9mORhWW7aVUYNFK0iuAez+t0vMMD0rff8MJqUt3KwRHSgFCgv7mAynxAcHnzqu5sAZfRRxGqrRlt8b0LQjkH9tIp+hS9Shx8lpoNogjdqiiR4vEnLR6F7zW2d3rxbRRtNyYhBw6r4QjtlGHxN4rDbc8iwfT6OX22oW2IMRDpHkHsVB9PLkdyZiMVi/5AG5e5//8hupLweuALKwy8h6gAyKqlSjanTgwf7oxneRHopcx2G+veVchKAxUHJfzbpIob5nrJ39BptxQe24kVgxLJsvG58IzwXHfT3VEXlArm2A==;nebe37iIoyKq6ctovU8bmw=="
 ---

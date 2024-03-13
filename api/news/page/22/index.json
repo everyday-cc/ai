@@ -2,6 +2,163 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2024-02-25-stellantis-ceo-says-theres-still-life-in-waymo-deal-for-self-driving-delivery-vans.md",
+      "title": "Stellantis CEO says there’s still life in Waymo deal for self-driving delivery vans",
+      "excerpt": "This “deepened” partnership will focus on commercial self-driving Ram delivery vans, a target that was first announced in 2020 and promptly faded from public view. Discussions on this “improved” deal have focused, in part, on a crux around ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/24/stellantis-ceo-says-theres-still-life-in-waymo-deal-for-self-driving-delivery-vans/",
+      "originalUrl": "https://techcrunch.com/2024/02/24/stellantis-ceo-says-theres-still-life-in-waymo-deal-for-self-driving-delivery-vans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/10/Waymo-LOGO-door.jpg?resize=1200,721",
+          "width": 1200,
+          "height": 721,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/24/stellantis-ceo-says-theres-still-life-in-waymo-deal-for-self-driving-delivery-vans/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/24/stellantis-ceo-says-theres-still-life-in-waymo-deal-for-self-driving-delivery-vans/amp/",
+      "publishedDateTime": "2024-02-24T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-24-instead-of-taking-your-job-ai-might-be-more-like-the-best-intern-ever.md",
+      "title": "Instead of taking your job, AI might be more like the best intern ever",
+      "excerpt": "Jérôme Pesenti, founder and CEO of an AI-powered learning app called Sizzle and former VP of AI at Facebook parent Meta ... He pointed to research labs where machines excel at repeating ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-tackling-jobs-humans-dont-have-time-for-or-want-2024-2",
+      "originalUrl": "https://www.businessinsider.com/ai-tackling-jobs-humans-dont-have-time-for-or-want-2024-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65d8cee890413ab8e1d671d8?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-tackling-jobs-humans-dont-have-time-for-or-want-2024-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-tackling-jobs-humans-dont-have-time-for-or-want-2024-2?amp",
+      "publishedDateTime": "2024-02-24T11:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-24-why-ai-can-and-should-lead-to-a-renaissance-in-the-humanities.md",
+      "title": "Why AI can (and should) lead to a renaissance in the humanities",
+      "excerpt": "We need more than ever to understand one another, which means not relying on AI to translate until we have bothered to learn each other’s languages and cultures. Let’s not approach everything through a narrow lens For example, the temptation for some ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/why-ai-can-and-should-lead-to-a-renaissance-in-the-humanities/",
+      "originalUrl": "https://venturebeat.com/ai/why-ai-can-and-should-lead-to-a-renaissance-in-the-humanities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/a_robot_playing_the_violin_surrounded_by_represe-transformed.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-24T11:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2024-02-24-integration-of-antidetect-with-ai-new-security-age-or-global-risk.md",
       "title": "Integration Of Antidetect With AI: New Security Age Or Global Risk?",
       "excerpt": "Unveil AI's impact on cybersecurity, merging advanced tech with ethics, shaping digital rights, and protecting online identities.",
@@ -1043,151 +1200,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-jim-cramer-says-mcdonalds-embracing-ai-at-drive-thrus-is-good-news-for-nvidia.md",
-      "title": "Jim Cramer says McDonald's embracing AI at drive-thrus is good news for Nvidia",
-      "excerpt": "McDonald's use of artificial intelligence in drive-thru lanes is a sign adoption of the technology is growing across the U.S., CNBC's Jim Cramer said Friday. And that bodes well for the leading maker of AI chips: Nvidia .",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/02/23/jim-cramer-mcdonalds-use-of-ai-at-drive-thrus-is-good-news-for-nvidia.html",
-      "originalUrl": "https://www.cnbc.com/2024/02/23/jim-cramer-mcdonalds-use-of-ai-at-drive-thrus-is-good-news-for-nvidia.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107369894-1707254880350-gettyimages-1990954248-js2_0388_myhjvme3.jpeg?v=1707254934&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-23T15:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-humanoid-robotics-the-next-step-for-artificial-intelligence.md",
-      "title": "Humanoid Robotics: The Next Step For Artificial Intelligence",
-      "excerpt": "Robotic technology is evolving at unprecedented speed, to the point where robots can learn by watching what humans do.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cybersecurityintelligence.com/blog/humanoid-robotics-the-next-step-for-artificial-intelligence-7458.html",
-      "originalUrl": "https://www.cybersecurityintelligence.com/blog/humanoid-robotics-the-next-step-for-artificial-intelligence-7458.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cybersecurityintelligence.com/files/upload/htmleditor/andy-kelly-0E_vhMVqL9g-unsplash%20free%20human%20&%20Robot.jpg",
-          "width": 5472,
-          "height": 3648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-23T15:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cybersecurityintelligence.com",
-        "domain": "cybersecurityintelligence.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-new-orleans-magician-says-he-made-ai-biden-robocall-for-aide-to-challenger.md",
-      "title": "New Orleans magician says he made AI Biden robocall for aide to challenger",
-      "excerpt": "Paul David Carpenter says he was paid by consultant for Democrat Dean Phillips to mimic Biden’s voice during New Hampshire primary",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2024/feb/23/ai-biden-robocall-magician-new-orleans?ref=mc.news",
-      "originalUrl": "https://www.theguardian.com/us-news/2024/feb/23/ai-biden-robocall-magician-new-orleans?ref=mc.news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/85b9bcd7e3ff51ae576931202a82643999beb84a/0_117_3513_2108/master/3513.jpg?width=620&quality=85&auto=format&fit=max&s=ffd921ab2e83d531bc5e26f5eda61f30",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2024/feb/23/ai-biden-robocall-magician-new-orleans",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2024/feb/23/ai-biden-robocall-magician-new-orleans",
-      "publishedDateTime": "2024-02-23T13:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

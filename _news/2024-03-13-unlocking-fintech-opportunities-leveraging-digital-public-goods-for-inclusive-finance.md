@@ -19,19 +19,37 @@ topics:
   - AI
 
 related:
-  - title: "UP Fintech: A Nice Diversification Opportunity At A Reasonable Valuation"
-    excerpt: "UP Fintech is in a long-term consolidation, but positive financials and upcoming results may lead to a technical breakout. Learn why TIGR stock is a Buy."
-    publishedDateTime: 2024-03-11T11:20:00Z
-    webUrl: "https://seekingalpha.com/article/4677320-up-fintech-nice-diversification-opportunity-at-reasonable-valuation"
+  - title: "Budget Buys: 3 Under-$100 Fintech Stocks Fueling Digital Finance"
+    excerpt: "With the adoption of artificial intelligence (AI) and innovation in technology, the fintech sector is expanding at a rapid pace. A report by McKinsey highlights that the revenue in the fintech space is set to grow about three times faster than the revenue ..."
+    publishedDateTime: 2024-03-12T15:48:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/budget-buys-3-under-100-fintech-stocks-fueling-digital-finance-1033156868"
     type: article
     provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 23
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Top Fintech Picks: 3 Stocks Changing How Money Changes Hands"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The traditional, staid world of finance continues to progress thanks to the"
+    publishedDateTime: 2024-03-10T19:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/top-fintech-picks-3-stocks-changing-how-money-changes-hands-1033148629"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 34
+  - title: "hedgehog lab promotes fintech vet to chief client officer"
+    excerpt: "North East-based global tech consultancy hedgehog lab has appointed Clare Weightman as its new chief client officer."
+    publishedDateTime: 2024-03-11T14:24:00Z
+    webUrl: "https://www.prolificnorth.co.uk/news/hedgehog-lab-promotes-fintech-vet-to-chief-client-officer/"
+    type: article
+    provider:
+      name: prolificnorth.co.uk
+      domain: prolificnorth.co.uk
+    quality: 24
     images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1465618017/image_1465618017.jpg?io=getty-c-w1536"
-        width: 1536
-        height: 1024
+      - url: "https://www.prolificnorth.co.uk/wp-content/uploads/2024/03/Clare-Weightman.jpg"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "FX23Ujcc10NIbr3xQ1NsRGZ/5qJ+El+LxFJ74ehYvjLJtUkW9sG50MQHnmjH9DAO7fY8ZzKjBQLrLC7w+nyRCYouDiwMmUP6qHsJXKWdt6IvdwO6ClJTTfsNbS/1Nk/jaQjjPflfpKU8qGhr/glhY6RTsHPuK8G9GePEg944SrMAWM3+kSxMP+Fkp/gH8DmyFyrBBhM2W0RhEW4YfkIt5Xi+qD3PuGZBRmrc1C4NODwaXNvpT7x8tUHd0BR94ZtI22GWn4Wa0dZn8FsrxGS07YAPbIUUNwlZiKB8ybrIlIHWyd57u4phugBWi/UyVAXgb3Y7+kf65EAmSBD5aEtiOqIn6c8qWIVS8H2awN1anpU=;ztZzZ/jXNxcWJjt2pveJcw=="

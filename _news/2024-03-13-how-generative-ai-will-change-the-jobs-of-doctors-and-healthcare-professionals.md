@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/03/13/how-generative-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/03/13/how-generative-ai-will-change-the-jobs-of-doctors-and-healthcare-professionals/amp/"
 type: article
 quality: 100
-heat: 190
+heat: 200
 published: true
 
 provider:
@@ -146,6 +146,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "The impact of AI on law practice and legal professions"
+    excerpt: "In the evolving landscape of the legal profession, artificial intelligence (AI) emerges as a transformative force, reshaping how legal practices operate"
+    publishedDateTime: 2024-03-13T10:54:00Z
+    webUrl: "https://www.geeky-gadgets.com/impact-of-ai-on-law-practice/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/03/AI-and-law-practice.jpg"
+        width: 1280
+        height: 716
+        isCached: true
   - title: "HIMSS24: Google Cloud builds out generative AI solutions to aid healthcare workers"
     excerpt: "Generative AI continues to be a big buzzword in 2024 as tech companies see the potential to use the technology to alleviate administrative drudgery for healthcare workers. | Google Cloud is using its tech muscle to build out generative AI capabilities for healthcare and life sciences companies to help offload administrative burden and support assistive technology for clinicians."
     publishedDateTime: 2024-03-12T12:00:00Z

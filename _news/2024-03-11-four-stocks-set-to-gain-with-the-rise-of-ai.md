@@ -19,30 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "The landscape of the other AI war is set to change"
-    excerpt: "Nvidia dominates the market for GPUs, the central hardware to the AI boom today. However, tech giants and challengers want a bigger slice of that pie."
-    publishedDateTime: 2024-03-11T06:42:00Z
-    webUrl: "https://www.livemint.com/ai/the-landscape-of-the-other-ai-war-is-set-to-change-11710137860314.html"
-    ampWebUrl: "https://www.livemint.com/ai/the-landscape-of-the-other-ai-war-is-set-to-change/amp-11710137860314.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/the-landscape-of-the-other-ai-war-is-set-to-change/amp-11710137860314.html"
+  - title: "Is it AI? With the rise of Artificial Intelligence - how can you tell if a photo is fake?"
+    excerpt: "Welcome to 2024 - the year where seeing is not believing anymore. In fairness, it has been that way for a while with Photoshop, but messing with a snap took"
+    publishedDateTime: 2024-03-11T15:03:00Z
+    webUrl: "https://www.wthitv.com/news/is-it-ai-with-the-rise-of-artificial-intelligence---how-can-you-tell/article_96bbff3e-dfb8-11ee-9f2b-13472dfcf5e0.html"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 41
-  - title: "Apple has created its own artificial intelligence and is set to release it this year"
-    excerpt: "Apple is reportedly testing a new AI called \"Ask.\" The company has initiated a pilot program to test a new AI aimed at improving its technical support."
-    publishedDateTime: 2024-03-11T10:34:00Z
-    webUrl: "https://ccm.net/mobile/12197-apple-has-created-its-own-artificial-intelligence-ask-ai/"
-    type: article
-    provider:
-      name: CCM
-      domain: ccm.net
-    quality: 30
+      name: WTHI-TV
+      domain: wthitv.com
+    quality: 43
     images:
-      - url: "https://img-19.ccm.net/L0jMbnzKm2I_hCvOMi8ZcAi7JR4=/1500x/smart/fdab48970ba7496e8f117c91fb6f73d6/ccmcms-enccm/39489304.png"
-        width: 1500
-        height: 1500
+      - url: "https://bloximages.newyork1.vip.townnews.com/wthitv.com/content/tncms/assets/v3/editorial/5/df/5df4424e-dfc5-11ee-9235-1fb65f09055b/65ef32e260d8d.image.jpg?resize=470%2C500"
+        width: 470
+        height: 500
         isCached: true
 
 secured: "Uu8canpaUz9RBykp5lHLY9bL//9WhqLB5f/DjT5qMDXHwZ1srB7FpalAMT5FUxII5xsmyx8bcg3zYlB3GHcmK8YYNRW06FHgFVHL1hwh0FGme1PLkBEcwtJoXIwCqXmITRM7tqyiAu6T6gJQHckTOCCS8LtPmEL7WG8skIRHw0auQULE18CSLpHzDyEYdfPPoLesPOIx/KXY7xhRjbWqiHqrvZ96HR90AhVRb6tumId4GKxsJk07mKdPPTPR61104VDd7QvxsxVcdZMyE6/tAFq4hpHih+h+3SQt2lhsHGMxlH4IwxDVgsChBExQ63iyylaArgjIuJ2G2m3sCyIUq9GRkPdZeK3b+JmQjMIdYNQ=;9p6B+JajhXiiYoTIg1Dedg=="

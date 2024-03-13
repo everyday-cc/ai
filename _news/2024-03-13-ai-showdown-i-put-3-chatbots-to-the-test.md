@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/ai-showdown-put-chatbots-test.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/ai-showdown-put-chatbots-test.amp"
 type: article
 quality: 87
-heat: 180
+heat: 170
 published: true
 
 provider:
@@ -100,20 +100,6 @@ related:
       - url: "https://www.thetechedvocate.org/wp-content/uploads/2024/03/101-5.jpg"
         width: 1548
         height: 776
-        isCached: true
-  - title: "AMD's AI chatbot released"
-    excerpt: "Uses third party app AMD has just launched its own local and GPT-based LLM-powered AI chatbot, that works on Ryzen AI processors and Radeon RX 7000 series GPUs. AMD's new LLM-based GPT chatbot can work on many different Ryzen AI platforms,"
-    publishedDateTime: 2024-03-08T11:05:00Z
-    webUrl: "https://www.fudzilla.com/news/pc-hardware/58602-amd-s-ai-chatbot-released"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/9d13e7b7c52f66d31db2f880938f4426_L.jpg"
-        width: 620
-        height: 465
         isCached: true
   - title: "AMD Says It's Super Easy To Set Up Your Own AI Chatbot, Here's How"
     excerpt: "Don't forget to enable GPU Offload if your system has a fast GPU. AMD also talks about using LM Studio on a \"Ryzen AI PC\". It's true; you can run LM Studio on a system with a Phoenix or Hawk Point processor. However, on those machines it will run on either ..."

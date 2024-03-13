@@ -39,20 +39,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "New DNA-infused computer chip can perform calculations and make future AI models far more efficient"
-    excerpt: "The new processor stores data in modified DNA molecules and uses microfluidic channels to perform basic computations."
-    publishedDateTime: 2024-03-08T10:45:00Z
-    webUrl: "https://www.livescience.com/technology/computing/new-dna-infused-computer-chip-can-perform-calculations-and-make-future-ai-models-far-more-efficient"
-    type: article
-    provider:
-      name: Live Science
-      domain: livescience.com
-    quality: 40
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/SxASRzYBvMQMD5hm7ToXyJ-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "J821jkKNWDGvL6JMbmsxG65f8lL8Zde9WLYmV6g+uCMVMZzrrNT5Gzhhl5RjXeSvVY3rojF9nHZ0K7ldeIVyq8cKETI/XgVc/MPAyYHAoQQWJEOD0bZ9YjytULFy5eUXke+qe9w4fHFq5GxrMzlrZau6PUCXNgjmh5QxBYhXKav7q2Q0V6yiXJ7xBxSmiR78vGgLTI6KedM7KUCzJ1P1LmB0XNEJ8u+Om4GFc110iL3dokSK7sU7SgJIKCwTCanGqFuWED3Mmk4NLZvgVptKXSBV1hyilq/KQm6hSKCPrxJ3xrBxPTLiBg7ZnbS0rdLx9FXoExB2gWptiY1DjuAOm2i+Zg48csMCzeccSZIgVOzUyqPhhtN0Sr6kOaoUA0nxcjG68/KTrsPPJmtuv8uA4gtCr2tfDMSlHl9iF8wEwiAhtcxwwYlE8xKWDFu92swo2+pVkiVCdG6DqbR6o38iixmOYjk6nwO/XcDGB8tDpP/0Vs/APDh5/aQzBm7g5Sezlm3Yj3j04v6AROY/kQ/8DQ==;6ggrpQ5pwSMOWVZawAlhJA=="
 ---
