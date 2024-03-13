@@ -1,27 +1,27 @@
 ---
 category: news
 title: "AI is creating fake legal cases and making its way into real courtrooms, with disastrous results"
-excerpt: "Generative AI can be a useful tool, but it can also create inaccurate information. Here’s how to safeguard Australian courts against fake cases, like we’ve already seen overseas."
-publishedDateTime: 2024-03-12T19:15:00Z
-originalUrl: "https://theconversation.com/ai-is-creating-fake-legal-cases-and-making-its-way-into-real-courtrooms-with-disastrous-results-225080"
-webUrl: "https://theconversation.com/ai-is-creating-fake-legal-cases-and-making-its-way-into-real-courtrooms-with-disastrous-results-225080"
+excerpt: "Weve seen deepfake, explicit images of celebrities, created by artificial intelligence (AI). AI has also played a hand in creating music, driverless race cars and spreading misinformation, among other things."
+publishedDateTime: 2024-03-13T10:47:00Z
+originalUrl: "https://www.econotimes.com/AI-is-creating-fake-legal-cases-and-making-its-way-into-real-courtrooms-with-disastrous-results-1673389"
+webUrl: "https://www.econotimes.com/AI-is-creating-fake-legal-cases-and-making-its-way-into-real-courtrooms-with-disastrous-results-1673389"
 type: article
 quality: 26
 heat: -1
 published: false
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: EconoTimes
+  domain: econotimes.com
 
 topics:
-  - Meta AI
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://images.theconversation.com/files/581132/original/file-20240312-16-84kk3r.jpg?ixlib=rb-1.1.0&rect=0%2C370%2C4107%2C2053&q=45&auto=format&w=1356&h=668&fit=crop"
-    width: 1356
-    height: 668
+  - url: "https://f1.econotimes.com/2024/03/waj0i9ram6_th_1024x0.jpg"
+    width: 496
+    height: 330
     isCached: true
 
 related:
@@ -42,6 +42,6 @@ related:
         height: 768
         isCached: true
 
-secured: "GKOgPwjTP2w7Vqfs2MMCYk1DNzyRDvZxv5e3TYOvNqz031aF9yu7Ag4N1l5Z5QDSdFKpWcWk92QHJdziNRABEyNVECygekDFCrRjsqz/tD3hpt1kCuUcL57/daY00ZoFmHf9TZruwVAvAiQTMiPbdlPzhGRHURq379Uoz2cMvg0TlOUNeYNGFISmTVoGBEzjVC8yIH/Y9v1vXp6mLj6eG/Kcs2r4mnVzNWkIW0/bRaO2yYBiqBQJwMZ3D3MNT2Iw927mVDGhJcoSCNipSgzz8h8CEEBaHPzyxgPScG5CqDUsgc04RGDYF0dxNx/i5ghRvzRjPJbMl6MQ+5l5ti4uTutW420N0DmMRH+JHIUR6ac=;2+lqguZjV1M4u56s0upBfA=="
+secured: "3YFWKGzJ9/O6bwbgCANfPLVAHAlCPgtbxloFu9KIP1IBTeZULzZhQ0e6iuUUvjQbPZFE0+cBQ2i2vvK4GKNeHQkyBtSnjR5XNoM6GUMyd7J3J34dYkXmOT242nbL3owJqCd2NcOLmJPefGRp4/h/s8mAsb2sxlPjEoKC+/hRtpCuuEul14zkmvJFDaMEOj2HiyocM6Ye2iFZHD+EG1p2ysF8hXFYGuLIn9T5kNevGoIlfJK/dtLm4MLwZCHgISxh8Qy2NSaVeRq+RKk7JvSRpT1Hv9hsoVkJ5IBmGeo1SVLIhHEaDeJRqEuZDr4gQ0ctfXf2h6CYSYj2m1zi1VbBbNcoILnGpQCePQUtXtHL4TU=;2zYJ5NkZV02nZ0dn4mrmLg=="
 ---
 

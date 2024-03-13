@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "In the First Trailer for Netflix's Atlas, Jennifer Lopez Gets in the Damn Robot"
+    excerpt: "Jennifer Lopez. Directed by Brad Peyton, the sci-fi action film brings us Lopez in bombastic badass mode—clad in a mech suit as she jumps right into battle against the futuristic, war-torn backdrop of an unknown dystopia."
+    publishedDateTime: 2024-03-13T16:59:00Z
+    webUrl: "https://gizmodo.com/jennifer-lopez-atlas-netflix-scifi-mech-movie-titanfall-1851328946"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 80
+    images:
+      - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/dce428d8672fe1fc330ac3c1906d8988.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Jennifer Lopez Commands an AI Robot in Netflix’s ‘Atlas’ Trailer | Video"
     excerpt: "The film’s first teaser trailer, released Wednesday, reveals that the new movie will arrive on the streamer May 24, 2024. Directed by Brad Peyton (“Rampage,” “San Andreas”), the film follows “a brilliant but misanthropic data analyst with a ..."
     publishedDateTime: 2024-03-13T06:06:00Z

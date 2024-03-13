@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2024/03/09/once-in-decade-investmen
 webUrl: "https://www.fool.com/investing/2024/03/09/once-in-decade-investment-1-ai-growth-stock-to-buy/"
 type: article
 quality: 63
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI boom and energy transition is opportunity for savvy investors"
+    excerpt: "March 13, 2024 (Investorideas.com Newswire) The convergence of the AI boom and the global energy transition is a compelling investment opportunity for forward-thinking investors, says the CEO and founder of one of the world's largest independent financial advisory, asset management and fintech organizations."
+    publishedDateTime: 2024-03-13T15:12:00Z
+    webUrl: "https://www.investorideas.com/news/2024/main/03132AI-Energy-Investors-Opportunity.asp"
+    type: article
+    provider:
+      name: Investor ideas
+      domain: investorideas.com
+    quality: 39
+    images:
+      - url: "https://www.investorideas.com/images/logos/twitter-icon.gif"
+        width: 500
+        height: 500
+        isCached: true
   - title: "ServiceNow: A Strong Investment Opportunity For The AI Era"
     excerpt: "ServiceNow exceeds Q4 2023 revenue and earnings expectations, benefiting from strong AI product adoption and a solid position for future growth. Read what investors need to know."
     publishedDateTime: 2024-03-11T21:34:00Z

@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Devin, an AI-Powered Software Engineer Capable of Coding, Building Apps, More Unveiled by Cognition Labs"
+    excerpt: "Devin, the AI software engineer, is equipped with its shell, code editor, and browser within a sandboxed compute environment."
+    publishedDateTime: 2024-03-13T13:54:00Z
+    webUrl: "https://www.gadgets360.com/ai/news/devin-ai-software-engineer-writes-codes-builds-apps-introduced-5232042"
+    ampWebUrl: "https://www.gadgets360.com/ai/news/devin-ai-software-engineer-writes-codes-builds-apps-introduced-5232042/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/ai/news/devin-ai-software-engineer-writes-codes-builds-apps-introduced-5232042/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 42
+    images:
+      - url: "https://i.gadgets360cdn.com/large/devin_ai_software_engineer_1710337276070.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Cognition Makes AI Software Engineer, Devin to Solve Whole Development Projects and Improve Its Own Code"
     excerpt: "Stealth Startup, Cognition, backed by Peter Thiel’s Founders Fund and former-Twitter executive Elad Gil and Doordash co-founder Tony Xu, announced a fully autonomous AI software engineer called Devin. Devin can handle entire development projects end-to-end."
     publishedDateTime: 2024-03-12T00:00:00Z

@@ -33,6 +33,22 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Europe Set To Adopt World’s First Artificial Intelligence Law"
+    excerpt: "The world’s first law governing artificial intelligence (AI) was today adopted by European lawmakers — a move that could have significant impact on film and TV production. The Artificial Intelligence Act are an attempt to government how companies and ..."
+    publishedDateTime: 2024-03-13T08:52:00Z
+    webUrl: "https://deadline.com/2024/03/artificial-intelligence-act-european-union-1235857218/"
+    ampWebUrl: "https://deadline.com/2024/03/artificial-intelligence-act-european-union-1235857218/amp/"
+    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2024/03/artificial-intelligence-act-european-union-1235857218/amp/"
+    type: article
+    provider:
+      name: Deadline.com
+      domain: deadline.com
+    quality: 57
+    images:
+      - url: "https://deadline.com/wp-content/uploads/2024/03/Europe.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "AI talent war heats up in Europe"
     excerpt: "An influx of artificial intelligence (AI) startups is heating up the battle for technical talent in Europe, leaving companies like Google DeepMind to choose between paying big or losing out on the region's best minds."
     publishedDateTime: 2024-03-11T05:03:00Z

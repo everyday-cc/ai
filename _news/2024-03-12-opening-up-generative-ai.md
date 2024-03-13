@@ -132,6 +132,22 @@ related:
         width: 1351
         height: 900
         isCached: true
+  - title: "Exploring The Impact Of Artificial Intelligence In Reproductive Healthcare"
+    excerpt: "Artificial Intelligence In Indian Healthcare Reproductive health Reproductive Health Challenges Women's Reproductive Health Don’t Miss Out on the Latest Updates."
+    publishedDateTime: 2024-03-13T10:25:00Z
+    webUrl: "https://www.thehealthsite.com/pregnancy/exploring-the-impact-of-artificial-intelligence-in-reproductive-healthcare-1071627/"
+    ampWebUrl: "https://www.thehealthsite.com/pregnancy/exploring-the-impact-of-artificial-intelligence-in-reproductive-healthcare-1071627/amp/"
+    cdnAmpWebUrl: "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/pregnancy/exploring-the-impact-of-artificial-intelligence-in-reproductive-healthcare-1071627/amp/"
+    type: article
+    provider:
+      name: TheHealthSite
+      domain: thehealthsite.com
+    quality: 72
+    images:
+      - url: "https://st1.thehealthsite.com/wp-content/uploads/2024/03/Artificial-Intelligence_-A-Game-Changer-in-In-Vitro-Fertilization-IVF.jpg"
+        width: 1440
+        height: 720
+        isCached: true
   - title: "OpenAI's Head of ChatGPT Says AI Will Make Us More Creative--and More Human"
     excerpt: "At a SXSW panel, Peter Deng says OpenAI is committed to keeping the basic version of ChatGPT free; evades question over paying artists for using their work."
     publishedDateTime: 2024-03-11T20:40:00Z

@@ -87,6 +87,20 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "What happens when ChatGPT tries to solve 50,000 trolley problems?"
+    excerpt: "But is the tech ready? Kazuhiro Takemoto, a researcher at the Kyushu Institute of Technology in Japan, wanted to check if chatbots could make the same moral decisions when driving as humans. His results showed that LLMs and humans have roughly the same priorities, but some showed clear deviations."
+    publishedDateTime: 2024-03-13T16:05:00Z
+    webUrl: "https://arstechnica.com/ai/2024/03/would-chatbots-make-the-same-driving-decisions-as-us/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 71
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-898172236-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Elon Musk says his AI startup xAI will open-source Grok chatbot, ChatGPT's rival"
     excerpt: "Elon Musk said on Monday his artificial intelligence firm xAI will open-source \"Grok\", a chatbot rivaling OpenAI's ChatGPT, this week. The billionaire's startup launched the AI model to a small group of users last November. In a podcast episode with Lex Fridman, Musk suggested that he liked the concept of open-source AI."
     publishedDateTime: 2024-03-11T09:03:00Z
@@ -244,6 +258,6 @@ related:
       domain: cybernews.com
     quality: 19
 
-secured: "eBOqkWuu5Lf5Woi7aQywo1a2hX3kJigAgOiswPkZA8FmQXANxVBVTEYmcjD1HuOmM+9L2GSh6q9c2Phq0Mtbd3V1b2SxKGc0hNZhcUxKlrbPCAmTrXYlbuqgy+JpUAtwOrTmlgZpet8WK9V889NSZBTBykWhITg1q2vqEFMTbRKGhJMd34clZ2Y8yljyCI39aVey3daIDuE1SaqBe8LBr1ZF1zLXyFKMmPvrWGWyg+HlTWqpbDtU20sF/9t/uVJehh07VVFWCa1B5rpZITirSgJ/LycvtP3D1/h5/YiDnw4XXxEakszNil4aaXX5hv3FUsxTkwuzL9H38TJui7PNUp7iVTN/zKwVN+NTCNUNWiM=;mY+EMCvd0sxKzXHFDvxlug=="
+secured: "vqb2jghYxvJb2sQj/5OXzSB3pYvxi5XD+4vEjt48RxqcCJa+DHb6zPxICK+IQGPdwzwT9evZKYexg06aUyBewcBuOpq1CYfRt/FTTfPhfy4qIkAXxwJDo4Y+EkGAAisqLnbxOpzV3dTre0RftmcbCbdYdxR/j4wDU5aYZ0tTJ5m7uKb1EFgcqH2hduUyrWk51/K2lFa0yEHH5umFkE6PlkquzHu7yCNwGwJG6Nz4/ZHnt2rWPohHUnJU5AQtFw7PzMcaDId9CuaiXR4ILqS5lKbT3j6aetP/OqVfkf92PN7DS+WVnoAIyYQYCUZ0hXiiTe+tPqL8k+lM3Na6/143g2ezJaeS4ergHDNJGeXlEOPCG54/1Q/veeTLR4O59HKap14sGeHXzPauEKexdOvY9lYQU5GXrQ7xAD/7CMgq4F+u3/wngWTBbXbycBGfqDZiy3ucGZgL2/cPVuBpiP5xABkVsDxMWM82FIx7De5oE0v9pGSdwXXULd7aDmrg+/vi9sA6ugeJYMzfyVWiz02GDw==;hTB+i9v5JCFQZB1hZwlW3g=="
 ---
 

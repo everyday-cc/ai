@@ -38,6 +38,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "EU Parliament greenlights law to regulate artificial intelligence"
+    excerpt: "The European Parliament gave the green light to the flagship artificial intelligence law Wednesday, also dubbed the 'world's first,' paving the"
+    publishedDateTime: 2024-03-13T12:49:00Z
+    webUrl: "https://www.dailysabah.com/business/tech/eu-parliament-greenlights-law-to-regulate-artificial-intelligence"
+    ampWebUrl: "https://www.dailysabah.com/business/tech/eu-parliament-greenlights-law-to-regulate-artificial-intelligence/amp"
+    cdnAmpWebUrl: "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/business/tech/eu-parliament-greenlights-law-to-regulate-artificial-intelligence/amp"
+    type: article
+    provider:
+      name: Daily Sabah
+      domain: dailysabah.com
+    quality: 59
+    images:
+      - url: "https://idsb.tmgrup.com.tr/ly/uploads/images/2024/03/13/thumbs/800x531/319441.jpg"
+        width: 1599
+        height: 1062
+        isCached: true
   - title: "Raleigh startup wants to fight climate change with AI, robots"
     excerpt: "A Raleigh startup using AI and robotics to change the world of farming is hiring as it plans a high stakes expansion in the Triangle. AgEye CEO Nick Gentry said the company, which announced its acquisition of the HYVE brand from DASCOM Americas this week, is scaling up."
     publishedDateTime: 2024-03-12T12:00:00Z

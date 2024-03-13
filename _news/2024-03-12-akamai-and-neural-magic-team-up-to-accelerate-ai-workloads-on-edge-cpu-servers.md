@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Akamai and Neural Magic Partner to Accelerate Deep Learning AI"
-    excerpt: "Akamai Technologies (NASDAQ: AKAM), the cloud company that powers and protects life online, and Neural Magic, a developer of software that accelerates artificial intelligence (AI) workloads, today announced a strategic partnership intended to supercharge deep learning capabilities on Akamai's distributed computing infrastructure."
-    publishedDateTime: 2024-03-12T11:51:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-akamai-neural-magic-partner-accelerate-deep-learning-ai-/2024/03/12/9976460.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 36
   - title: "Cloud Computing Leader Vultr Expands Executive Team to Address Growing AI Infrastructure and Enterprise Cloud Demand"
     excerpt: "Vultr, the world's largest privately-held cloud computing platform, announced the appointment of two new senior executives to its leadership team to meet the growing demand for its enterprise cloud compute and cloud GPU capabilities."
     publishedDateTime: 2024-03-12T14:13:00Z

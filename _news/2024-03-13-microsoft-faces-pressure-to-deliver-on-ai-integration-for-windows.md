@@ -26,49 +26,49 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft insiders worry the company has become just 'IT for OpenAI'"
-    excerpt: "Microsoft's AI strategy has increasingly focused on OpenAI. The shift has led to some executive departures and less focus on Microsoft's own services."
-    publishedDateTime: 2024-03-11T23:23:00Z
-    webUrl: "https://www.businessinsider.com/microsoft-insiders-worry-company-has-become-just-it-for-openai-2024-3"
+  - title: "Microsoft Copilot for Security will move to general availability on April 1"
+    excerpt: "On Wednesday, Microsoft announced that Copilot for Security is moving from early access to general availability on April 1, making it possible for all security teams to take advantage of the tool on a pay-as-you-go basis."
+    publishedDateTime: 2024-03-13T09:00:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-copilot-for-security-will-be-general-availability-on-april-1/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-copilot-for-security-will-be-general-availability-on-april-1/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-copilot-for-security-will-be-general-availability-on-april-1/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 84
+      name: ZDNet
+      domain: zdnet.com
+    quality: 121
     images:
-      - url: "https://i.insider.com/65ef4f7b6080194819feb5de?width=1200&format=jpeg"
+      - url: "https://www.zdnet.com/a/img/resize/d57650fef8f6a3245659d2e341d99fa5829f40f1/2024/03/12/ba774687-f38f-4f2e-bb79-ce78907ea5b6/img-9738.jpg?auto=webp&fit=crop&height=675&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "Is Microsoft Turning Into 'IT For OpenAI'? Insiders Say Tech Giant's AI Strategy Is Overly Reliant On ChatGPT Parent's Partnership"
-    excerpt: "Microsoft insiders are expressing concerns that the company's AI strategy is becoming too focused on its partnership with OpenAI, to the extent that it is being dubbed the \"IT for OpenAI.\""
-    publishedDateTime: 2024-03-12T04:56:00Z
-    webUrl: "https://www.benzinga.com/news/24/03/37605368/is-microsoft-turning-into-it-for-openai-insiders-say-tech-giants-ai-strategy-is-overly-reliant-on-ch"
-    ampWebUrl: "https://www.benzinga.com/amp/content/37605368"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37605368"
+  - title: "Microsoft Corporation (MSFT) Rose on Accelerated Growth from Azure"
+    excerpt: "Carillon Tower Advisers, an investment management company, released its “Carillon Eagle Growth & Income Fund” fourth quarter 2023 investor letter. A copy of the same can be downloaded here."
+    publishedDateTime: 2024-03-11T06:23:00Z
+    webUrl: "https://www.insidermonkey.com/blog/microsoft-corporation-msft-rose-on-accelerated-growth-from-azure-1272132/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 61
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 54
     images:
-      - url: "https://cdn.benzinga.com/files/images/story/2024/Microsoft-and-OpenAI_7.jpeg?width=1200&height=800&fit=crop"
-        width: 1024
-        height: 683
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/24233139/microsoft-4608125_1280.jpg"
+        width: 1280
+        height: 853
         isCached: true
-  - title: "Microsoft Insiders Fear The Firm Has Transformed Into A Glorified IT Department For OpenAI"
-    excerpt: "Microsoft's partnership with OpenAI sparks concern among insiders over the company's focus and dependence on AI giant."
-    publishedDateTime: 2024-03-12T11:01:00Z
-    webUrl: "https://www.digitalinformationworld.com/2024/03/microsoft-insiders-fear-firm-has.html"
+  - title: "Microsoft Is Rolling Out a New AI-Powered Cybersecurity Tool for Businesses"
+    excerpt: "Microsoft is beefing up its cybersecurity offerings with an AI-powered upgrade."
+    publishedDateTime: 2024-03-13T16:08:00Z
+    webUrl: "https://www.inc.com/ben-sherry/microsoft-is-rolling-out-a-new-ai-powered-cybersecurity-tool-for-businesses.html"
     type: article
     provider:
-      name: Digital information world
-      domain: digitalinformationworld.com
-    quality: 44
+      name: Inc
+      domain: inc.com
+    quality: 52
     images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7DqtvxGdsWVxoOU8hQhnlgAVDWrdhhUQczN5aR1Jke5p63e1S_L1w0GD9Csp6TAYAPLacasZnGqPaypIPSysbdl2rDC-1Z9aLG7fDgX6xP4vcTyGAJseo_KwtJ5gPfAHmqfL2KapXXtzB3PXJaM6CKB0VQq7rAUGqPz_irUwH6ak3qjlgL-wPBjrQ7QRi/w1600/mssa.jpeg"
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1451457359_538404_twh9rk.jpg"
         width: 1024
-        height: 825
+        height: 576
         isCached: true
 
 secured: "i2Ceb7q0+tVZxzeVtT7URYiUQf2iBrOy7ljctzXmbX9SeOsBGHIt6SQEFatgJcY7ChCTJFI5+rz/sv3MyX8xNHW7bUxPk55K1iY40c9dx25YA5tDxQJLKtfIKPNnYSIyTkjMvrWCE4g0vsmtssXslqPP/iZBcfWqufSBLkX+OjNxf1xno4fTqASvmjrQa4MIyPB6beRfnNkk/oWSES47JiD4/xdwa6pDBGcbA4Oy36FY094HaZ9FvsPsSseZoc9zfynV1PlyIpAVIhLCj6VSwm0uLzsq+vicsLDuNeojGkOE4voRFSJ4xY5c7XcomwS2rzX2hXRXAS5l+YAg/VYewCCPOME/hwxK5vGzw2HAGsg=;suiWctnLbKlFP0h414SZhQ=="

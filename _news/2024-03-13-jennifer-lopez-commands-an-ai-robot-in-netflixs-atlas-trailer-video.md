@@ -7,7 +7,7 @@ originalUrl: "https://www.thewrap.com/jennifer-lopez-atlas-trailer-netflix/"
 webUrl: "https://www.thewrap.com/jennifer-lopez-atlas-trailer-netflix/"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "In the First Trailer for Netflix's Atlas, Jennifer Lopez Gets in the Damn Robot"
+    excerpt: "Jennifer Lopez. Directed by Brad Peyton, the sci-fi action film brings us Lopez in bombastic badass mode—clad in a mech suit as she jumps right into battle against the futuristic, war-torn backdrop of an unknown dystopia."
+    publishedDateTime: 2024-03-13T16:59:00Z
+    webUrl: "https://gizmodo.com/jennifer-lopez-atlas-netflix-scifi-mech-movie-titanfall-1851328946"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 80
+    images:
+      - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/dce428d8672fe1fc330ac3c1906d8988.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Jennifer Lopez battles killer robots in action-packed trailer for Netflix sci-fi Atlas"
     excerpt: "The film follows Atlas Shepherd (Jennifer Lopez), a data analyst with a deep distrust of artificial intelligence who's enlisted for a mission to capture a renegade robot with whom she shares a mysterious past. When the plans go awry, she's left stranded ..."
     publishedDateTime: 2024-03-13T00:00:00Z

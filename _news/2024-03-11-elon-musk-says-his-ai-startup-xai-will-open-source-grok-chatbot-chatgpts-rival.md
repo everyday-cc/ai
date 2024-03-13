@@ -87,6 +87,20 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "What happens when ChatGPT tries to solve 50,000 trolley problems?"
+    excerpt: "But is the tech ready? Kazuhiro Takemoto, a researcher at the Kyushu Institute of Technology in Japan, wanted to check if chatbots could make the same moral decisions when driving as humans. His results showed that LLMs and humans have roughly the same priorities, but some showed clear deviations."
+    publishedDateTime: 2024-03-13T16:05:00Z
+    webUrl: "https://arstechnica.com/ai/2024/03/would-chatbots-make-the-same-driving-decisions-as-us/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 71
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-898172236-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "ChatGPT maker OpenAI lawyers up with familiar faces to once again challenge Elon Musk's claims"
     excerpt: "OpenAI, the developer and owner of the artificial intelligence system ChatGPT, and its CEO Sam Altman, have chosen lawyers to represent the company and its officers in their fight with Elon Musk over the structure of the company."
     publishedDateTime: 2024-03-12T16:54:00Z

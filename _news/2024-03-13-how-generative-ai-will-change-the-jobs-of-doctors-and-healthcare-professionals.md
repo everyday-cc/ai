@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/03/13/how-generative-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/03/13/how-generative-ai-will-change-the-jobs-of-doctors-and-healthcare-professionals/amp/"
 type: article
 quality: 100
-heat: 210
+heat: 220
 published: true
 
 provider:
@@ -117,6 +117,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65f031a4a360eaa0853ec14c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1351
         height: 900
+        isCached: true
+  - title: "Exploring The Impact Of Artificial Intelligence In Reproductive Healthcare"
+    excerpt: "Artificial Intelligence In Indian Healthcare Reproductive health Reproductive Health Challenges Women's Reproductive Health Don’t Miss Out on the Latest Updates."
+    publishedDateTime: 2024-03-13T10:25:00Z
+    webUrl: "https://www.thehealthsite.com/pregnancy/exploring-the-impact-of-artificial-intelligence-in-reproductive-healthcare-1071627/"
+    ampWebUrl: "https://www.thehealthsite.com/pregnancy/exploring-the-impact-of-artificial-intelligence-in-reproductive-healthcare-1071627/amp/"
+    cdnAmpWebUrl: "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/pregnancy/exploring-the-impact-of-artificial-intelligence-in-reproductive-healthcare-1071627/amp/"
+    type: article
+    provider:
+      name: TheHealthSite
+      domain: thehealthsite.com
+    quality: 72
+    images:
+      - url: "https://st1.thehealthsite.com/wp-content/uploads/2024/03/Artificial-Intelligence_-A-Game-Changer-in-In-Vitro-Fertilization-IVF.jpg"
+        width: 1440
+        height: 720
         isCached: true
   - title: "Opening up Generative AI"
     excerpt: "Generative AI has huge potential to revolutionize business, create new opportunities and make employees more efficient in how they work. According to McKinsey, more than a quarter of company leaders say that generative AI is a board level agenda item while 79 percent of those surveyed have already used generative AI."

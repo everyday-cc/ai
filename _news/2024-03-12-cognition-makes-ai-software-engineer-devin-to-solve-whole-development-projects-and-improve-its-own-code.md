@@ -54,6 +54,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Devin, an AI-Powered Software Engineer Capable of Coding, Building Apps, More Unveiled by Cognition Labs"
+    excerpt: "Devin, the AI software engineer, is equipped with its shell, code editor, and browser within a sandboxed compute environment."
+    publishedDateTime: 2024-03-13T13:54:00Z
+    webUrl: "https://www.gadgets360.com/ai/news/devin-ai-software-engineer-writes-codes-builds-apps-introduced-5232042"
+    ampWebUrl: "https://www.gadgets360.com/ai/news/devin-ai-software-engineer-writes-codes-builds-apps-introduced-5232042/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/ai/news/devin-ai-software-engineer-writes-codes-builds-apps-introduced-5232042/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 42
+    images:
+      - url: "https://i.gadgets360cdn.com/large/devin_ai_software_engineer_1710337276070.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "/lCugn4AEmR6QqqWJSVXASw6SruBxAMLOnSbh+jwj8/BMpp7DU3pmmgRdWrQYJfeSs5AHPzjbSECCfaWYZPJVdvRGXcRxz1C83Uhah469t4WtU9yEaH8bj6tozbhdsmhBenRyR+VNPPyhs5S6fVtmxTz47g9LdRbfNBLrvFwfLhFBL5hRl2YN8z4CslKQG+pjt+eQ1tgUigci3BhWmkP0iJWdT7i9BVBOP+JFkUtY6/2BDexPnYP+Rblvn/nsHvnZUAh/x8EBBydwsWk3Z0CQ5pjQR7wFNFhewuju37JHOtJr+WxDHCSNDoNephSAzfQ63idhjlJ6Hb764+c4Mgrn4YzL04b3fcflx3hRwPYhvQ=;sbZCpY3PXVuh86lqtELEcA=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.psychologytoday.com/za/blog/dreaming-in-the-digital-age/
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/dreaming-in-the-digital-age/202403/key-principles-for-interpreting-dreams-with-ai?amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Psychology Today
@@ -41,6 +41,17 @@ related:
         width: 1600
         height: 1066
         isCached: true
+  - title: "Key Principles for Interpreting Dreams with AI"
+    excerpt: "Such general guidelines are familiar to anyone who has done research or therapy with dreams over the past few decades, and there seems no reason why the same principles should not apply to this new technology, too. Following these guidelines will enable ..."
+    publishedDateTime: 2024-03-13T05:11:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/dreaming-in-the-digital-age/202403/key-principles-for-interpreting-dreams-with-ai"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/dreaming-in-the-digital-age/202403/key-principles-for-interpreting-dreams-with-ai?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/dreaming-in-the-digital-age/202403/key-principles-for-interpreting-dreams-with-ai?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 39
 
 secured: "+kyQYkPcGBsNVHOZx+wtTshXFog5wL9GQ8vXbp1PTmWIMqgONQSlAghEbZmnMLsg85bpiyPq94+Gp6UNdxxuj+oIIYHH/TiUpbhZk8/PaFSGSGfH0xwsRE4I2SCNqAkfUWaHbNvHbAhXjm5RyDmjXMSPCnHv3gKl52MwlUK/VykuZrGSuSleTxJUYYY7WlGIZ43fAoJDzNpptzcop4bZBIUMXtP0g2lUOzBYOfVuYQAjKTkijVd88ZdqLZ7CPGmCkbG5QZRUkLzFdSTKsV9ttcLewxpaEgT7T/bgub+ZzgCiLNB+YSnxhc8lOEgXq9u3t4WjgGwAw5Kwly7FwM0TTU2IRP/6MmiabV3roLbhs3E=;z1BbWkSXx7X7R4AjFxdRAQ=="
 ---

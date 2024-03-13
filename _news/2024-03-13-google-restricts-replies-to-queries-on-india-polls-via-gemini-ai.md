@@ -38,15 +38,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "India to build a 10,000 GPU supercomputer for self-sufficient AI development"
-    excerpt: "The Indian government, led by Prime Minister Shri Narendra Modi, has approved a new $1.24 billion investment for the IndiaAI mission, a \"national-level\" plan designed to"
-    publishedDateTime: 2024-03-08T17:57:00Z
-    webUrl: "https://www.techspot.com/news/102191-india-build-10000-gpu-supercomputer-autarchic-ai-development.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 61
 
 secured: "SNC1ab+97O5qmfMqkw0xaxpbrWwqtwUaxjLYkKnlWJ+5ict2Tq4sU+oyKWr9N8qyxVUJVkprTLkHYQiWLKpWBzRKuRuw1/zUXnlpW2SXJJ+AMdud05gSiQdx3Ncf710SJb4Bxv/ZuZ+MtvmL5p9WJVakXqZc11evG2auQrsaQn6ar8mck5aafN+7xjbgE1UuWLjt+SaPcRzUJ2d4+svmwvA/3uT7mhkojX5XOFRZX5MAnVsCHdlR0Bh2Mr7Rcuw8alGA8y7ylg/m9HwW/bMxeLIAevt5opnnuHlY1mIeqnNptebOUzV/ooQqFaBLb0kivB3uASe4jCh8f3DVU+T+FotvoZ2XKO3Xd0z57Dhcp71/TnugxXFVxM9RV/DHO62syPfb3YvgynVcu0W0TAYOWQiDPqLuwhj6ycqUKa0eJE4yH3aqfBM7QKAjEjn2dfGhDJGI/BYtBachWb//2E3DPpP1LcpusmARvjyXvpGhyhOE46fbRhmN7KzF4ZRGjcrgdjxzBz67EYKbaLVOQ354WA==;lpR0Zs27ifY6e2rZMaOQGw=="
 ---

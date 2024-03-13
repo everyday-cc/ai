@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1107966154/Study-cautions-from-self-driving-car
 webUrl: "https://menafn.com/1107966154/Study-cautions-from-self-driving-cars-advising-people-to-pay-more-attention"
 type: article
 quality: 1
-heat: 1
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "Arm unveils first chip design to power self-driving cars"
+    excerpt: "Essential digital access to quality FT journalism on any device. All discounts based on monthly full price over contract term. Cancel subscription renewal anytime. Complete digital access to quality FT journalism with expert analysis from industry leaders ..."
+    publishedDateTime: 2024-03-13T13:31:00Z
+    webUrl: "https://www.ft.com/content/e1b7641c-afaa-44ff-9de4-0d82f861a354"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 21
 
 secured: "76Dwa7g5V7gqnUgAgRTFS1+bJ/eTNZTL/VSLlWXYgOuV5N+KuQJ3vzZwyweQacyx8u8ROCkbryoaWk+NGpFHp5DiixEGdJgRlxqAYPe92n2GGOPaIFWt7UqutdKsKqUJ23JBvWSOeHKum5eECTR2gsWm8XXyQ06IESs4EV1LB49yJvfqHCt1yj8mJ78JBbWWDXSqOT9LSah9sZTlaspx81Wvd9YnsK7EAyEfyCw5tDJZDwgHpBsAjByf5mhFmbCcfDfnsQYGPKVO6YMFT9UyW6nWuv4JDggUxOfdBZHQ82Gzccd+nVygXXk6dYLkr3aTPhFnSkBSbd1X9sQfsBI+MzvsuB4CFKF46XNwQqTCOHg=;IvnF4YDrdc4X7UCmfWrb6Q=="
 ---

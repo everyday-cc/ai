@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/news/india/lightspeed-ventures-to-ramp-up-i
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/lightspeed-ventures-to-ramp-up-investments-in-climate-change-and-ai/amp-11710134071305.html"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "EU Parliament greenlights law to regulate artificial intelligence"
+    excerpt: "The European Parliament gave the green light to the flagship artificial intelligence law Wednesday, also dubbed the 'world's first,' paving the"
+    publishedDateTime: 2024-03-13T12:49:00Z
+    webUrl: "https://www.dailysabah.com/business/tech/eu-parliament-greenlights-law-to-regulate-artificial-intelligence"
+    ampWebUrl: "https://www.dailysabah.com/business/tech/eu-parliament-greenlights-law-to-regulate-artificial-intelligence/amp"
+    cdnAmpWebUrl: "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/business/tech/eu-parliament-greenlights-law-to-regulate-artificial-intelligence/amp"
+    type: article
+    provider:
+      name: Daily Sabah
+      domain: dailysabah.com
+    quality: 59
+    images:
+      - url: "https://idsb.tmgrup.com.tr/ly/uploads/images/2024/03/13/thumbs/800x531/319441.jpg"
+        width: 1599
+        height: 1062
+        isCached: true
   - title: "AI And Satellites Fight Climate Change And Restore Rainforests"
     excerpt: "The rainforests may represent serenity for some. But for those protecting them, it’s tantamount to a war zone. Enter AI and satellites."
     publishedDateTime: 2024-03-13T13:00:00Z

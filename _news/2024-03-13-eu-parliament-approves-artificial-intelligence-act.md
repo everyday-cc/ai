@@ -1,0 +1,119 @@
+---
+category: news
+title: "EU Parliament Approves Artificial Intelligence Act"
+excerpt: "The European Parliament approved today the Artificial Intelligence act, the world’s first AI legislation aiming to put safeguards on a new type of technology that’s been evolving at a very fast pace."
+publishedDateTime: 2024-03-13T15:36:00Z
+originalUrl: "https://www.thurrott.com/a-i/299504/eu-parliament-approves-artificial-intelligence-act"
+webUrl: "https://www.thurrott.com/a-i/299504/eu-parliament-approves-artificial-intelligence-act"
+type: article
+quality: 37
+heat: -1
+published: false
+
+provider:
+  name: Thurrott
+  domain: thurrott.com
+
+topics:
+  - AI
+
+images:
+  - url: "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2022/03/European-Union-flag.jpg"
+    width: 1024
+    height: 577
+    isCached: true
+
+related:
+  - title: "EU approves landmark AI law, leapfrogging US to regulate critical but worrying new technology"
+    excerpt: "European Union lawmakers gave final approval Wednesday to a landmark law governing artificial intelligence, leapfrogging the United States once again on the regulation of a critical and potentially disruptive technology."
+    publishedDateTime: 2024-03-13T12:04:00Z
+    webUrl: "https://www.cnn.com/2024/03/13/tech/ai-european-union/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2024/03/13/tech/ai-european-union/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2024/03/13/tech/ai-european-union/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 76
+    images:
+      - url: "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-180405277.jpg?c=16x9&q=w_800,c_fill"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "EU lawmakers endorse political deal on artificial intelligence rules"
+    excerpt: "Reuters. AI Artificial intelligence words, miniature of robot and EU flag are seen in this illustration taken December 21, 2023. REUTERS/Dado Ruvic/Illustration/File Photo STRASBOURG (Reuters) - EU lawmakers on Wednesday endorsed a provisional agreement on ..."
+    publishedDateTime: 2024-03-13T11:21:00Z
+    webUrl: "https://uk.investing.com/news/stock-market-news/eu-lawmakers-endorse-political-deal-on-artificial-intelligence-rules-3379775"
+    ampWebUrl: "https://m.uk.investing.com/news/stock-market-news/eu-lawmakers-endorse-political-deal-on-artificial-intelligence-rules-3379775?ampMode=1"
+    cdnAmpWebUrl: "https://m-uk-investing-com.cdn.ampproject.org/c/s/m.uk.investing.com/news/stock-market-news/eu-lawmakers-endorse-political-deal-on-artificial-intelligence-rules-3379775?ampMode=1"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 59
+    images:
+      - url: "https://i-invdn-com.investing.com/news/LYNXNPEB6U08A_L.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "European Parliament Approves Landmark Artificial Intelligence Act"
+    excerpt: "The European Parliament approved on Wednesday a landmark political agreement on artificial intelligence."
+    publishedDateTime: 2024-03-13T17:09:00Z
+    webUrl: "https://variety.com/2024/digital/news/european-parliament-artificial-intelligence-act-approved-1235940741/"
+    ampWebUrl: "https://variety.com/2024/digital/news/european-parliament-artificial-intelligence-act-approved-1235940741/amp/"
+    cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2024/digital/news/european-parliament-artificial-intelligence-act-approved-1235940741/amp/"
+    type: article
+    provider:
+      name: Variety
+      domain: variety.com
+    quality: 59
+    images:
+      - url: "https://variety.com/wp-content/uploads/2024/03/eu.jpg?w=1000&h=563&crop=1"
+        width: 1000
+        height: 563
+        isCached: true
+  - title: "Europe one step away from landmark AI rules after lawmakers' vote"
+    excerpt: "Europe moved closer to adopting the world's first artificial intelligence rules on Wednesday as EU lawmakers endorsed a provisional agreement for a technology whose use is rapidly growing across a wide swathe of industries and in everyday life."
+    publishedDateTime: 2024-03-13T12:58:00Z
+    webUrl: "https://www.reuters.com/technology/eu-lawmakers-endorse-political-deal-artificial-intelligence-rules-2024-03-13/?ref=upstract.com"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 49
+  - title: "EU Parliament Approves Landmark Artificial Intelligence Law"
+    excerpt: "Europe leads the way with groundbreaking AI legislation. The AI Act balances innovation with ethics, setting a precedent for global AI governance."
+    publishedDateTime: 2024-03-13T15:00:00Z
+    webUrl: "https://www.cryptopolitan.com/europes-world-first-ai-rules-gain-approval/"
+    type: article
+    provider:
+      name: cryptopolitan
+      domain: cryptopolitan.com
+    quality: 39
+    images:
+      - url: "https://www.cryptopolitan.com/wp-content/uploads/2024/03/Default_EU_Parliament_Approves_Landmark_Artificial_Intelligenc_1.jpg"
+        width: 1232
+        height: 928
+        isCached: true
+  - title: "The world’s first piece of AI regulation has been approved. Here’s what it means"
+    excerpt: "European lawmakers on Wednesday voted in approval of the European Union's landmark Artificial Intelligence Act, the world's first legislative answer to the rapid, unchecked growth of the AI industry. The legislation will ban certain applications of AI outright, specifically those that \"threaten citizens' rights.\""
+    publishedDateTime: 2024-03-13T13:53:00Z
+    webUrl: "https://www.thestreet.com/technology/european-parliament-artificial-intelligence-openai-chatgpt-eu-ai-act-approved-whats-next-next-steps"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 14
+  - title: "Europe’s world-first AI rules get final approval from lawmakers. Here’s what happens next"
+    excerpt: "The AI Act is expected to officially become law by May or June, after a few final formalities, including a blessing from EU member countries. Provisions will start taking effect in stages, with countries required to ban prohibited AI systems six months after the rules enter the lawbooks."
+    publishedDateTime: 2024-03-13T08:30:00Z
+    webUrl: "https://apnews.com/article/ai-act-european-union-chatbots-155157e2be2e42d0f1acca33983d8c82"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 8
+
+secured: "E7GwQSgOb7bK80DVA+C7zyHhrAGlcFMdtwXw1TH0qTWBNsbFEUN2KpgM6XZozuj8btqt66VM0fyslV921+XVV/Yk/ueZOb+egZPep2XidBgiIWMwEs4p5Py+PPXzsl/X/zyssLDsJ0SU9h0TxiEnFE+N3xC/Y1Vbhet2YWWwbH2sMP328lB1OJo/Smi/Ofd4Q0uon4uuChRQ1y0JPR2jMjYjYzpBsAqeJ2C6GrWvs2o5GP0U8u55QHOYiTYda6hGXlxAAOPx6uyE1Wf2l0FhpO7YfGXA5SoH1ESZc8NdXSLheqsQYAzjvUsCv/mVmMwrfkFMftYOlmznixq5zWWwzEfX1CCifoW2r2paRJam3sI=;qFLPDOM0vPYDDVmjKJHQCw=="
+---
+

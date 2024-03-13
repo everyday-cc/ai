@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How AI is shaping the music listening habits of Gen Z"
+    excerpt: "For four years, we've been teaching a class on music and the mind. We've asked the students at the start of each semester to complete a short, informal survey on their music education and favorite songs and artists."
+    publishedDateTime: 2024-03-13T16:30:00Z
+    webUrl: "https://techxplore.com/news/2024-03-ai-music-habits-gen.html"
+    ampWebUrl: "https://techxplore.com/news/2024-03-ai-music-habits-gen.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2024-03-ai-music-habits-gen.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/spotify.jpg"
+        width: 1920
+        height: 1281
+        isCached: true
   - title: "Covariant develops video-generating AI model for powering warehouse robots"
     excerpt: "The artificial intelligence model also lends itself to other tasks. According to Covariant, RFM-1 can generate short videos that depict industrial robots performing tasks such as moving merchandise between boxes. Those videos, the startup claims, can be used to equip industrial robots with the ability to plan their actions."
     publishedDateTime: 2024-03-11T19:48:00Z
@@ -106,20 +122,6 @@ related:
       - url: "https://techbullion.com/wp-content/uploads/2024/03/Harnessing-the-Power-of-Cloud-Computing-for-Scalable-Artificial-Intelligence-Training.jpg"
         width: 650
         height: 450
-        isCached: true
-  - title: "How AI is shaping the music listening habits of Gen Z"
-    excerpt: "In the past, adolescents’ musical palettes were dominated by the Top-40 artists, creating a widely shared – if perhaps narrow – repertoire of musical knowledge."
-    publishedDateTime: 2024-03-13T12:38:00Z
-    webUrl: "https://theconversation.com/how-ai-is-shaping-the-music-listening-habits-of-gen-z-224053"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 39
-    images:
-      - url: "https://images.theconversation.com/files/581018/original/file-20240311-22-us2x6s.jpg?ixlib=rb-1.1.0&rect=0%2C701%2C5234%2C2613&q=45&auto=format&w=1356&h=668&fit=crop"
-        width: 1356
-        height: 668
         isCached: true
   - title: "Fighting AI-Driven Cybercrime Requires AI-Powered Data Security"
     excerpt: "For chief information security officers, the greatest cyber threat is ransomware, which criminals can now weaponize with AI to find weak points faster and wreak havoc in real time. In the face of ever-evolving cybersecurity challenges,"

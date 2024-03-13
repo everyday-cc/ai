@@ -7,7 +7,7 @@ originalUrl: "https://www.kansascity.com/opinion/readers-opinion/guest-commentar
 webUrl: "https://www.kansascity.com/opinion/readers-opinion/guest-commentary/article286604750.html"
 type: article
 quality: 8
-heat: -1
+heat: 8
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-
-related:
-  - title: "Yeo Messaging debuts Continuous Facial Recognition SDK for privacy protection"
-    excerpt: "A new SDK has been launched by Yeo Messaging to bring continuous biometric facial authentication to consumer devices for data protection and privacy."
-    publishedDateTime: 2024-03-08T17:29:00Z
-    webUrl: "https://www.biometricupdate.com/202403/yeo-messaging-debuts-continuous-facial-recognition-sdk-for-privacy-protection"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 16
 
 secured: "Y9EEflXcA5Pr4Vv17NsAyUg4C7XscissMPd2dHzx4kgjYv4bMtJa9sVmX2Lk/FvWgsjpbcz6NliiPEs/kKkTGtLnsuxjUQmKI6kYWRe6zLehBMga2CWwFQgl2GzGj8wubLzz3bncXY1fU0WQ7ZNZVDqaGROTybb2nfIuLI9IPZXfE5qmf8OQPlI5Urxs0wDsc9pN3UBad+mboE/n81RI6rhKAjmx8nwF0IoNfYYhXmjakTZrYZP5HAQTXFEMziZcLDRETV8ikUgPmNVnFInEP/j1cOgjQz6anVDwjX/6aYfJHS52JfYGiSWqif5z1KXbJ/aRq41pVnvg7l+D0q33D+tr9oqJCHTPw7nzBtH1az9Nk73XOmkFFwTCBtGqS1IneYR0Do3ANPMOn3GvujO4POXnHPxh6f+IxvXBb1J02jjVvz9II+SAR9Q0VuWKN0Wqnuyba6uAFZbc6BxBSjllM6x7f+LcxYXrlaXU/d8VRhD+rlqBUKoAqRGjRT9GcOKQhit33RQkISrzCAvcuVT6og==;QEmjTssmluOu260w5XWfhw=="
 ---

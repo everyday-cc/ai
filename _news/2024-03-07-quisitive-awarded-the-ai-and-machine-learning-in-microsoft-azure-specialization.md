@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Quisitive Awarded the AI and Machine Learning in Microsoft Azure Specialization"
-excerpt: "Quisitive Technology Solutions Inc. (“Quisitive” or the “Company”) (TSXV: QUIS, OTCQX: QUISF), a premier Microsoft solutions provider, announced it has earned the prestigious AI and Machine Learning in Microsoft Azure Specialization."
-publishedDateTime: 2024-03-07T14:30:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization-1033142131"
-webUrl: "https://markets.businessinsider.com/news/stocks/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization-1033142131"
+excerpt: "The AI and Machine Learning specialization recognizes ... use of the Company’s services for improper or illegal purposes; global economic and financial market conditions; uninsurable risks; changes in project parameters as plans continue to be evaluated ..."
+publishedDateTime: 2024-03-07T00:00:00Z
+originalUrl: "https://financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization"
+webUrl: "https://financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization"
+ampWebUrl: "https://financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization/wcm/ba3e0bf0-f7ce-4c4a-9213-b5d8012c4cd3/amp/"
+cdnAmpWebUrl: "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization/wcm/ba3e0bf0-f7ce-4c4a-9213-b5d8012c4cd3/amp/"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Financial Post
+  domain: financialpost.com
 
 topics:
-  - Microsoft AI
+  - AI in Finance
   - AI
   - Machine Learning
-  - AI in Finance
+  - Microsoft AI
 
-secured: "qXeEmhvAr+z/h4Cr8tWobu7bREvNEpyHGowo+eZ2LZ75Yj1h1vf6/Sp2k5qgPPCu5suIcWb8twPWSnW6y30jLQnDI+AOMoMAF+kJMVV84xSJwdB2abAWh0PapbYpTPad5wWGdj3ALXVPOSQUc+YiBqnB7UlGi2tgkEa8m1AoCd8zG2+6dnG+6gSs7wVIRm7GRWpCs2NKfsH9ZyRUcU/AyJo3NKwv4ng+P/qTw9SdnA8S2S/507/qgQXM/NrVI7OUuvlglf2KaktAMFd/tz7YMrk7th+NfoN5mMwFcgJyQm0gMW+UEfmBCW7Btc3Gdf8r2hTWn+C/umrjvXJoym8/A8FzYwP+Srtzkl1LQLatpv4=;/0pW0jFGec7kx9iUggrQfg=="
+images:
+  - url: "https://dcs-static.gprod.postmedia.digital/15.6.0/websites/images/canada/fallback.jpg"
+    width: 640
+    height: 480
+    isCached: true
+
+secured: "bMDRwWc4UeRVZ3hSwZBhFJYMzP4xRwQl+5XLmXk6mvnFqrBI/+mdMfug2ZhNawTOwyri9tlLOuGcQFhIzwbBTxtoTmwH1UEwz3lLoTfAgNluyRAuhYrDiNlC6cgxN+mozenO3yXORxEUQv07JruEF/LEm0/S0MKGiFH2FW/K5RLk5xDAz4nWKWkYJY5izQ6+GGEPFX8AYlcSNDtvFhYYstlJpWMCS2tFjKn9sVW8CTXPpgpcnayEjTMXzWu0kyIdUTP87vuCQTwEUnYwGktMoFLUcoxUwdk/+nFJAx51BqpVmx5oOeNBxfZNlT7NS+S1X+Sz7pYuvp4oS4pFG9n60oZ6Mr1f4dnvgGi+ebpizD0=;/Wlzv7TVnjfc5L2Cr9CHjw=="
 ---
 

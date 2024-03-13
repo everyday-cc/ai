@@ -73,6 +73,15 @@ related:
         width: 4000
         height: 2667
         isCached: true
+  - title: "Google awarded $10 million in bug bounties last year, the second highest in the program's history"
+    excerpt: "It also uncovered issues like Hacking Google Bard - From Prompt Injection to Data Exfiltration and We Hacked Google A.I. for $50,000. Elsewhere, one Chrome researcher grabbed a $30,000 reward for reporting a V8 JIT optimization bug that had been in the ..."
+    publishedDateTime: 2024-03-13T00:00:00Z
+    webUrl: "https://www.techspot.com/news/102243-google-awarded-10-million-bug-bounties-last-year.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 21
 
 secured: "XtyjNQm6qYVXorpBZS5RYcmR82tMzC91EmWHivt6gbkUzukiIb1FzfP2UYAHvEAd9axFEECCN+qIpssDUXonVq28BT8AwkRWPLJvRK4SDZDv1HF93CBJwJ8FQeHNwY0JP81p8uKzbcVMJo9uPL4+vOg02gHlqhTGBDFXmzQcuqynCQfl30ToJ3sAmmbTyp1tfkPCpa5crY4lhCDuQe9P5JGQT5XTC7ftYcXkMasniBV0UvcO/I7yHaGog1P4sgiSs+81oyiuYWCXAw97mHLM2k2RIA9fOWHYZ1FyMAfPTkczk6iNkNurz25w+Xcp0MZyhnS/E5oYSFuRTvFauxsWfpbGWIejXXV8AeMGJ6XjqtA=;gTm0xhvSSRv4kvp45w5UCg=="
 ---

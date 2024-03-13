@@ -20,33 +20,35 @@ topics:
   - AI Hardware
 
 related:
-  - title: "Akamai and Neural Magic team up to accelerate AI workloads on edge CPU servers"
-    excerpt: "Content delivery network and cloud computing company Akamai Technologies Inc. today announced it’s partnering with the artificial intelligence acceleration software firm NeuralMagic Inc. to bolster the AI processing capabilities of its cloud infrastructure platform."
-    publishedDateTime: 2024-03-12T10:30:00Z
-    webUrl: "https://siliconangle.com/2024/03/12/akamai-neural-magic-team-accelerate-powerful-ai-workloads-cpu-servers-edge/"
+  - title: "The difference between artificial intelligence and machine learning and why it matters"
+    excerpt: "A Breaking Defense webinar with experts from CDAO, APL, and CNAS gets into the question of defining artificial intelligence vs machine learning."
+    publishedDateTime: 2024-03-13T15:02:00Z
+    webUrl: "https://breakingdefense.com/2024/03/the-difference-between-artificial-intelligence-and-machine-learning-and-why-it-matters/"
+    ampWebUrl: "https://breakingdefense.com/2024/03/the-difference-between-artificial-intelligence-and-machine-learning-and-why-it-matters/?amp=1"
+    cdnAmpWebUrl: "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2024/03/the-difference-between-artificial-intelligence-and-machine-learning-and-why-it-matters/?amp=1"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
+      name: Breaking Defense
+      domain: breakingdefense.com
+    quality: 66
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/03/cloud-computing-electronic-chip-board-cloud-computer-is-system-transfer-data-information-upload-download-application-technology-transformation-concept.jpg"
-        width: 2000
-        height: 1259
+      - url: "https://sites.breakingmedia.com/uploads/sites/3/2022/05/220526_pentagon_AI_brain-e1653573962375.png"
+        width: 2105
+        height: 1184
         isCached: true
-  - title: "Cloud Computing Leader Vultr Expands Executive Team to Address Growing AI Infrastructure and Enterprise Cloud Demand"
-    excerpt: "Vultr, the world's largest privately-held cloud computing platform, announced the appointment of two new senior executives to its leadership team to meet the growing demand for its enterprise cloud compute and cloud GPU capabilities."
-    publishedDateTime: 2024-03-12T14:13:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/03/12/9976850.htm"
+  - title: "The AI arms race between the US and China is heating up"
+    excerpt: "The UK, for its part, rolled out a “National AI Strategy” in 2022 and committed roughly $4 billion in chip development subsidies. The nation has also attracted the third-largest level of private investment in AI, behind the US and China. State ..."
+    publishedDateTime: 2024-03-10T12:00:00Z
+    webUrl: "https://www.aol.com/ai-arms-race-between-us-160000867.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 16
+      name: AOL
+      domain: aol.com
+    quality: 39
     images:
-      - url: "https://images.tmcnet.com/tmc/world.jpg"
+      - url: "https://s.yimg.com/ny/api/res/1.2/Yd3S5pYzAQQcRSYpsPTUzQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/aol_yahoo_finance_433/d42c59090aee25fc521e482055c6743d"
         width: 1200
-        height: 627
+        height: 801
         isCached: true
 
 secured: "kH194+ApifZhALN/EgMgsD7UAnmLPDZBr0AnYL+Tb3jdxtu7vVUYJy2mT38k8zSsixLheGYpJfi0nI/rETmTUx09jyQu+caE6Nib51PfzkETLXMFlNqpShQ+IyAbeqYhcdP9B+8k2KkJ4Eq1agjUukc46Au8Xyl7eVu1nOW7tqKPW+zwwY3LieaE4y1E/yJP9Bjyh1gLavSMemHcbK0CXvOJEYv5urO6yW9e54B/+RNfJuNGKiaDu9Gr5lB58bFl8/geShuU40n6mXOLUoPTURT61Zjonrd6Gr4LVcFf7eq0sgly+vENxKty1TqqG0YYqdvdAXiB0Vmbu/An9MP74xxFHXUoGdb2Iz1BzTVNCAAXqQHN0N60xE86fA4QyguVcA8x6/kpJYO+J1bWm2hjzzE1wndbJ1xdI7J0xwz+QDwUIkRYB4OI4/eaa1s8Cb8IUWSaQSkiuoWEUrKiZAIET4pPTR3VyLNJNDQ7dy74pCEPzeb1ZgMAEgIs8XG9fv2JEzdX1AGyAiyiTrPoFRDwRQ==;Z9qKArQmzDJDvZWVZftG+w=="

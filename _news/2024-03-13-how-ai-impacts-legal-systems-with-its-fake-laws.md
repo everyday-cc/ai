@@ -28,18 +28,18 @@ images:
 
 related:
   - title: "AI is creating fake legal cases and making its way into real courtrooms, with disastrous results"
-    excerpt: "Generative AI can be a useful tool, but it can also create inaccurate information. Here’s how to safeguard Australian courts against fake cases, like we’ve already seen overseas."
-    publishedDateTime: 2024-03-12T19:15:00Z
-    webUrl: "https://theconversation.com/ai-is-creating-fake-legal-cases-and-making-its-way-into-real-courtrooms-with-disastrous-results-225080"
+    excerpt: "Weve seen deepfake, explicit images of celebrities, created by artificial intelligence (AI). AI has also played a hand in creating music, driverless race cars and spreading misinformation, among other things."
+    publishedDateTime: 2024-03-13T10:47:00Z
+    webUrl: "https://www.econotimes.com/AI-is-creating-fake-legal-cases-and-making-its-way-into-real-courtrooms-with-disastrous-results-1673389"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
+      name: EconoTimes
+      domain: econotimes.com
     quality: 26
     images:
-      - url: "https://images.theconversation.com/files/581132/original/file-20240312-16-84kk3r.jpg?ixlib=rb-1.1.0&rect=0%2C370%2C4107%2C2053&q=45&auto=format&w=1356&h=668&fit=crop"
-        width: 1356
-        height: 668
+      - url: "https://f1.econotimes.com/2024/03/waj0i9ram6_th_1024x0.jpg"
+        width: 496
+        height: 330
         isCached: true
 
 secured: "fHOfZdvE4Bv7LH4BlvUyTUKbgUY8dcbH+d6vTwNZGBj6VIyb7kjU4SboWw2QfFdhqurg0tshOdPGf5cJw64FWVOLJ4uF6qYPED+6AdAW2O4/0R616sDh/1cOUfYhUfEzeJVhWm9pSA4lpwIuW/L4ZUlcJ7bDzNSzVpizeYeXF56h0zQbDw5jC/BVmkUDP4Sk+IXS6PGZnmC8WoXw8piv/pylMfMEPk/8g6ROVkGITnMtd8FAwI7rJBSQNbomg7IMSpRNwExinpHjatyK0yo3UholRu5s0oUhho4pRwoneYi5xSmjXt3OorBR6QoUmhtO839bvBUBbsc+lyCUaGQ3S84X5DyS0zq5eOFoTVRXotcialCX7Aa8JJUvdYKndjhDOJ82yS4ku3r/LUziIYDSKDchCSrB5rvVXHVFULJYW3aU4Th+oVh9N+4WQfi9v9WmXlxWjtKVwT9ZwvA/8xKNY62+2CvU1iyZqJePamjtPtOS0eVtSNKtHQeW4lC/ohJka14dxCLT6CPc4BqEMjy3dA==;p7ZjtfCH43yAPnnkQbHn/w=="

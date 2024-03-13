@@ -79,6 +79,20 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "What happens when ChatGPT tries to solve 50,000 trolley problems?"
+    excerpt: "But is the tech ready? Kazuhiro Takemoto, a researcher at the Kyushu Institute of Technology in Japan, wanted to check if chatbots could make the same moral decisions when driving as humans. His results showed that LLMs and humans have roughly the same priorities, but some showed clear deviations."
+    publishedDateTime: 2024-03-13T16:05:00Z
+    webUrl: "https://arstechnica.com/ai/2024/03/would-chatbots-make-the-same-driving-decisions-as-us/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 71
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-898172236-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Elon Musk says his AI startup xAI will open-source Grok chatbot, ChatGPT's rival"
     excerpt: "Elon Musk said on Monday his artificial intelligence firm xAI will open-source \"Grok\", a chatbot rivaling OpenAI's ChatGPT, this week. The billionaire's startup launched the AI model to a small group of users last November. In a podcast episode with Lex Fridman, Musk suggested that he liked the concept of open-source AI."
     publishedDateTime: 2024-03-11T09:03:00Z

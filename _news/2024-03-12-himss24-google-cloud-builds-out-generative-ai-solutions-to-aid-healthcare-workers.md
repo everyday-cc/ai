@@ -122,6 +122,22 @@ related:
         width: 1351
         height: 900
         isCached: true
+  - title: "Exploring The Impact Of Artificial Intelligence In Reproductive Healthcare"
+    excerpt: "Artificial Intelligence In Indian Healthcare Reproductive health Reproductive Health Challenges Women's Reproductive Health Don’t Miss Out on the Latest Updates."
+    publishedDateTime: 2024-03-13T10:25:00Z
+    webUrl: "https://www.thehealthsite.com/pregnancy/exploring-the-impact-of-artificial-intelligence-in-reproductive-healthcare-1071627/"
+    ampWebUrl: "https://www.thehealthsite.com/pregnancy/exploring-the-impact-of-artificial-intelligence-in-reproductive-healthcare-1071627/amp/"
+    cdnAmpWebUrl: "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/pregnancy/exploring-the-impact-of-artificial-intelligence-in-reproductive-healthcare-1071627/amp/"
+    type: article
+    provider:
+      name: TheHealthSite
+      domain: thehealthsite.com
+    quality: 72
+    images:
+      - url: "https://st1.thehealthsite.com/wp-content/uploads/2024/03/Artificial-Intelligence_-A-Game-Changer-in-In-Vitro-Fertilization-IVF.jpg"
+        width: 1440
+        height: 720
+        isCached: true
   - title: "Opening up Generative AI"
     excerpt: "Generative AI has huge potential to revolutionize business, create new opportunities and make employees more efficient in how they work. According to McKinsey, more than a quarter of company leaders say that generative AI is a board level agenda item while 79 percent of those surveyed have already used generative AI."
     publishedDateTime: 2024-03-12T15:20:00Z

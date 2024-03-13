@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/safeguardi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/13/safeguarding-data-privacy-in-the-age-of-ai-innovation/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://www.rollingstone.com/wp-content/uploads/2024/03/human_creativity_in_the_age_of_artificial_intelligence-.jpg?w=1600&h=900&crop=1"
         width: 1600
         height: 900
+        isCached: true
+  - title: "AI enabling behavioral health innovation"
+    excerpt: "A hospital in the Middle East is embracing AI, pushing to bring behavioral healthcare more fully into the digital realm."
+    publishedDateTime: 2024-03-13T14:51:00Z
+    webUrl: "https://www.healthcarefinancenews.com/news/ai-enabling-behavioral-health-innovation"
+    type: article
+    provider:
+      name: Healthcare Finance News
+      domain: healthcarefinancenews.com
+    quality: 39
+    images:
+      - url: "https://www.healthcarefinancenews.com/sites/healthcarefinancenews.com/files/HIMSS24_5.jpg"
+        width: 635
+        height: 353
         isCached: true
   - title: "Safeguarding the future of artificial intelligence"
     excerpt: "In recent years, the development of artificial intelligence (AI) has been viewed as a “double-edged sword,” where some do find it beneficial, yet others are more skeptical about the problems it may create."

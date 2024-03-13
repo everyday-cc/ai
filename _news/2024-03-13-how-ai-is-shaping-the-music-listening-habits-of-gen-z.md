@@ -1,27 +1,28 @@
 ---
 category: news
 title: "How AI is shaping the music listening habits of Gen Z"
-excerpt: "In the past, adolescents’ musical palettes were dominated by the Top-40 artists, creating a widely shared – if perhaps narrow – repertoire of musical knowledge."
-publishedDateTime: 2024-03-13T12:38:00Z
-originalUrl: "https://theconversation.com/how-ai-is-shaping-the-music-listening-habits-of-gen-z-224053"
-webUrl: "https://theconversation.com/how-ai-is-shaping-the-music-listening-habits-of-gen-z-224053"
+excerpt: "For four years, we've been teaching a class on music and the mind. We've asked the students at the start of each semester to complete a short, informal survey on their music education and favorite songs and artists."
+publishedDateTime: 2024-03-13T16:30:00Z
+originalUrl: "https://techxplore.com/news/2024-03-ai-music-habits-gen.html"
+webUrl: "https://techxplore.com/news/2024-03-ai-music-habits-gen.html"
+ampWebUrl: "https://techxplore.com/news/2024-03-ai-music-habits-gen.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2024-03-ai-music-habits-gen.amp"
 type: article
-quality: 39
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: techxplore
+  domain: techxplore.com
 
 topics:
-  - Meta AI
   - AI
 
 images:
-  - url: "https://images.theconversation.com/files/581018/original/file-20240311-22-us2x6s.jpg?ixlib=rb-1.1.0&rect=0%2C701%2C5234%2C2613&q=45&auto=format&w=1356&h=668&fit=crop"
-    width: 1356
-    height: 668
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2018/spotify.jpg"
+    width: 1920
+    height: 1281
     isCached: true
 
 related:
@@ -132,6 +133,6 @@ related:
       domain: hbr.org
     quality: 34
 
-secured: "2Ipu9UvOH5DADZfB6H+BNIaiSQcI1CZykJgKxHRhuHnYml98VJwX0XWPaj8bgXK4eY0IJ4bxv5pDUnf96fzQ5ClHXFv7p6AAOhcpxFJFsKSl272B9BJ5r3NlP9So7c2rbWj3zVgM0Vx/5C+XoqrM4hSIBBClj+wOzK1Woowe0V++T4xzNVaV60Vg1XMRibT8y+CNPbOjham60OXcHF3O6lxUnPpfg11Rp/b8gG+EgroTvXKo6ZRo77DfVUaaPO3/c0g7W7q43QUDb8YOZO51KIvpZXm4u0cSkmUX875wF142GvQrw2q/tsXa2dKw6q2N+ztU0VN0UpTETFS9kRzRNmXWptHV7Y9Md/6C6X+Zsfs=;jj0Cg4Dp+r72fiy3rmmz0w=="
+secured: "kSHfhNPFGUJm+k4RinwDoOzRKAdHeTBzcQCkUK038pmfxRnowdWzyXq3KwZimTW2HKZNRdt7CHGhtvAb8UkkwRD74mSwNTR4GMDpPxT9UDseiVwutGFyRD0AEyn1n/OJe/HaCipANXwK0VBlXHZcWiRTdVgBYuDfeLBKkKD0Ge1MfL51aASRbbAuCaCwfJdNQcN9iAeiICaegjhkBvMfSo5l3Zx0135z1v6UMAQeZ3DYJKfBDRuxauyX3o5b8dsao4/IlW/5Af0+WZb5CEj8Gx3oGSnvHYVYUeWnFnuJM7eVjH0fwA8pxfQIy7IWFsJUvytz3e8ZL8BgzgEZ0SuW58e1cKghA1H6p1LXGpeid7g=;S2paaBXVUrRGsI50MInnfw=="
 ---
 

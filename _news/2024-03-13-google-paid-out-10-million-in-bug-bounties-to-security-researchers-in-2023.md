@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-paid-out-10-million-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-paid-out-10-million-in-bug-bounties-to-security-researchers-in-2023/"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -78,7 +78,16 @@ related:
         width: 4000
         height: 2667
         isCached: true
+  - title: "Google awarded $10 million in bug bounties last year, the second highest in the program's history"
+    excerpt: "It also uncovered issues like Hacking Google Bard - From Prompt Injection to Data Exfiltration and We Hacked Google A.I. for $50,000. Elsewhere, one Chrome researcher grabbed a $30,000 reward for reporting a V8 JIT optimization bug that had been in the ..."
+    publishedDateTime: 2024-03-13T00:00:00Z
+    webUrl: "https://www.techspot.com/news/102243-google-awarded-10-million-bug-bounties-last-year.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 21
 
-secured: "c2fROdIeJWtQbbUdo9TEpKn9cc++gffnRpg1yTluPyQLTeriKjnSXzSZIBZbgWkjiqhCHzITFrbpy+koJAtrwErZWzQqjphnIqrWGRwgXnypxJoHJMTVKNzI13Ej5NfJXOD5ddUXgrGq25UzZ3spjeRMR7Ni7tvyNH/m8tt4JUJSrPF6c1tS6CLJlefgGqdPJDa4Dvgw6cAtFTtLw6TcPHLtj497HlyjYvIer9TDHvHZfUxg3ysPwjSLZKQXpumVpRwHoAQqjJycRABaVppJfGJCGtdSJ/46DUlwm7708BJLW/2ogS4fuUOIeLqMKM80VR8CI9gbxr62Xw9q8WmDlmWB/jHOAf0W8WGlvlxhiFs=;0Hv+/RxZTpS256yzz9vVzA=="
+secured: "tfC2MjbkuRF48eQPjIe7RDokYNyW3D6XTbSb9iMavXVF3ZBzYiZYrId5De2v9k2JdLG/B3fQQj10lk4USgxdSGsDJiFfuH0wjHPcWlXqDHOGFgTxxMJQNLJWf4OixchEoUUS7n1Q7MAqNUILaeLnQW5ZtZZLrffdJ8FHFRPp6ufBEnuYtXFZtxxrxfS+zJ/wqnMOQivbWoVPCQse92gpDFriXE6dzTcbuxavHw5yhzw9IKyAYvef1O6n59wFVeMn9Pd42wMkj3i77mTWF3MHBQUK9MplAxA9vJFluHumJ3qGNRHQrZGDm2pZCejd1vDrbFjxBorucZReAcpnrZc9KWYMPTqvEh8vyYyS79BYMzMRU9WaQ+9fjT/zWnmjLweCBetBh5ZBu48OIR7TiBroY+WtwBH6PiBjrlH0po9ENSkNTngn4aItCVtiSqUHphjDOw3+lrQ/vzJX4fsfSf4vs+LtE3R1roe9vmy+RdKsslb71NzJNBB1JIUMKyoHrZ9A73sWz/Jpq7KrUpa9X5wdeg==;65JdJVgSsoI9Zr8zPcz/Zw=="
 ---
 

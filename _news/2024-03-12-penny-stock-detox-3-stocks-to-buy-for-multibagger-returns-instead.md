@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/penny-stock-detox-
 webUrl: "https://markets.businessinsider.com/news/stocks/penny-stock-detox-3-stocks-to-buy-for-multibagger-returns-instead-1033152164"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -21,17 +21,6 @@ provider:
 topics:
   - AI in Healthcare
   - AI
-
-related:
-  - title: "The AI Invasion: 3 AI Stocks Poised to Conquer the Market"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The AI invasion is upon us, making it a great time to consider the best AI"
-    publishedDateTime: 2024-03-13T10:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-ai-invasion-3-ai-stocks-poised-to-conquer-the-market-1033158689"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
 
 secured: "syfGOgZ9aTEvacpJePlIEMhEGcs/5VD8X8HYsoYJhwcbOZZY7zEAqX8aKSXq8GPmJcg4YeHxNdAc0OUb9Jvt3mmlIwxgj3QGWoKKqE2E/fqyqEbk2ITSglm/UTKSLTTbmao5XnKHtiznypD4r/Hs9DPEG4kzolc7dk+H3YGnC59BEPorJMJZfDTlBwow79uluptaYtMLsPwy2YMaI47uYypwiUWzv/ND2EEbGX/bnwMe80JhoQ00WAyVtrmGUg+XfHJ3z5wbKLzXS0jNiS5X06S2DrfrQaw88Zig1Vie8GcL+vl+LSXU8EmH3T8jdzBKOiKRXR1tFVKy1ggsEL4gY4DOwdfxpfPdMupWkFVwWsraxczPun8Zpsgc1AAiWI/kPwnZY2zRGWgepxVX09mRylm9hP+BWm3YjxW+rjvSEkSdB+deXvXjMApfZIo6P8SxHZeP0jeYfiqZb2ot/AkeNTazE/fXl9OdenbM3sg3g40NyK8XoT3wxEl/VEdps9EmU4oE2TW5sJ2iqVTCOMOIcw==;hP9lWB+Pr6mKXtqzT1FJtg=="
 ---

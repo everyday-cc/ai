@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/europe-passes-ai-act-to-ban-riskiest-to
 webUrl: "https://www.pcmag.com/news/europe-passes-ai-act-to-ban-riskiest-tools-force-copyright-compliance"
 type: article
 quality: 67
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Europe Set To Adopt World’s First Artificial Intelligence Law"
+    excerpt: "The world’s first law governing artificial intelligence (AI) was today adopted by European lawmakers — a move that could have significant impact on film and TV production. The Artificial Intelligence Act are an attempt to government how companies and ..."
+    publishedDateTime: 2024-03-13T08:52:00Z
+    webUrl: "https://deadline.com/2024/03/artificial-intelligence-act-european-union-1235857218/"
+    ampWebUrl: "https://deadline.com/2024/03/artificial-intelligence-act-european-union-1235857218/amp/"
+    cdnAmpWebUrl: "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2024/03/artificial-intelligence-act-european-union-1235857218/amp/"
+    type: article
+    provider:
+      name: Deadline.com
+      domain: deadline.com
+    quality: 57
+    images:
+      - url: "https://deadline.com/wp-content/uploads/2024/03/Europe.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "AI talent war heats up in Europe"
     excerpt: "An influx of artificial intelligence (AI) startups is heating up the battle for technical talent in Europe, leaving companies like Google DeepMind to choose between paying big or losing out on the region's best minds."
     publishedDateTime: 2024-03-11T05:03:00Z
@@ -72,6 +88,6 @@ related:
       domain: aol.com
     quality: 17
 
-secured: "kEmGV7LRdWi4qiWJrgUnjAJeqp1nqR9C6julqGL12l9oDMkU3GAgX2Q96gRWLe+GWJx/YuyUlYWxhGz6s6oQQlUaPuife3sboQUnmWxnkR9NQV31NGLXd/d1369CW6Tlcnq9AxUFvCWf+t1M4pbc+sN5Hz2pHQU6QrfKpvyDe/V38M6mHF1/Hb0tYd6LSET6Tg7I2XXhN7O9RKGnn51LkyuH+teyI2vICMrRpdrY1T9sdEYpjZe1WWvtdRct8PTMdQp8JBqPt3ehHxSfWDn9Ag4ZkmkXk1nsXyt6k4LhR47stTMRQGgrvFZvs0AKPtm2oOzn2dcQgY7ebxImzXXA5OafdGfFlq5rufze82MbN98=;5RK9pU4yDYRF0xTcHHEhiw=="
+secured: "LtxxgGdvM5XLyl06uXtCh5po0TWsExTGvjxYiewb+UztrfKoxMj80UMFBY8f8MAjVtjCx5n/LneATmLJGi/cVUa7f18LxtUgo7UG9hQek/GU8i1+MDePElfBm2gYJ/4mnwz6Pe2fmRTsWrqHOEButhpLpbTAdq6gwv3De8s00TACtQM981gweoElh7K9X/fsx0COjS+se/Vhm53GNNqqFlxyP9xBNq+9vV/PsCc4lUyvydNahdRmKJtxvH0dIuipEWsveGhqxEoqJ+AAymPiljOZ2Qx1gJHBibrhbL7COBTCqeJYzYVIeExBK6OTkVFr8suW12Z4bsEypeLV8lgJDkgbGg7fgfJA/XUoA+qcPCJLYD2qeewr21EMLFiGOtMgnTZWlOS0QtDbJG4MhN+23L4suGuqwo/IgVYBRu0ib2tCh7Sm0LxF19WqAlBt92IoZhn4zAsIvoWEJhCDLVO/P230ZJ4XrIhocXqCrCUsyRiMzvP7DzBXCnhcBPTtbzEDWvCBQjmsCcCesF2mHdWTfw==;32ZkM2vDw/F3ivq5HBZ77g=="
 ---
 

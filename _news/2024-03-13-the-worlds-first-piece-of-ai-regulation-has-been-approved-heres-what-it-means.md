@@ -51,6 +51,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "European Parliament Approves Landmark Artificial Intelligence Act"
+    excerpt: "The European Parliament approved on Wednesday a landmark political agreement on artificial intelligence."
+    publishedDateTime: 2024-03-13T17:09:00Z
+    webUrl: "https://variety.com/2024/digital/news/european-parliament-artificial-intelligence-act-approved-1235940741/"
+    ampWebUrl: "https://variety.com/2024/digital/news/european-parliament-artificial-intelligence-act-approved-1235940741/amp/"
+    cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2024/digital/news/european-parliament-artificial-intelligence-act-approved-1235940741/amp/"
+    type: article
+    provider:
+      name: Variety
+      domain: variety.com
+    quality: 59
+    images:
+      - url: "https://variety.com/wp-content/uploads/2024/03/eu.jpg?w=1000&h=563&crop=1"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Europe one step away from landmark AI rules after lawmakers' vote"
     excerpt: "Europe moved closer to adopting the world's first artificial intelligence rules on Wednesday as EU lawmakers endorsed a provisional agreement for a technology whose use is rapidly growing across a wide swathe of industries and in everyday life."
     publishedDateTime: 2024-03-13T12:58:00Z
@@ -60,6 +76,34 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
+  - title: "EU Parliament Approves Landmark Artificial Intelligence Law"
+    excerpt: "Europe leads the way with groundbreaking AI legislation. The AI Act balances innovation with ethics, setting a precedent for global AI governance."
+    publishedDateTime: 2024-03-13T15:00:00Z
+    webUrl: "https://www.cryptopolitan.com/europes-world-first-ai-rules-gain-approval/"
+    type: article
+    provider:
+      name: cryptopolitan
+      domain: cryptopolitan.com
+    quality: 39
+    images:
+      - url: "https://www.cryptopolitan.com/wp-content/uploads/2024/03/Default_EU_Parliament_Approves_Landmark_Artificial_Intelligenc_1.jpg"
+        width: 1232
+        height: 928
+        isCached: true
+  - title: "EU Parliament Approves Artificial Intelligence Act"
+    excerpt: "The European Parliament approved today the Artificial Intelligence act, the world’s first AI legislation aiming to put safeguards on a new type of technology that’s been evolving at a very fast pace."
+    publishedDateTime: 2024-03-13T15:36:00Z
+    webUrl: "https://www.thurrott.com/a-i/299504/eu-parliament-approves-artificial-intelligence-act"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 37
+    images:
+      - url: "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2022/03/European-Union-flag.jpg"
+        width: 1024
+        height: 577
+        isCached: true
   - title: "Europe’s world-first AI rules get final approval from lawmakers. Here’s what happens next"
     excerpt: "The AI Act is expected to officially become law by May or June, after a few final formalities, including a blessing from EU member countries. Provisions will start taking effect in stages, with countries required to ban prohibited AI systems six months after the rules enter the lawbooks."
     publishedDateTime: 2024-03-13T08:30:00Z

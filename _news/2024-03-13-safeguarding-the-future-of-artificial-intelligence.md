@@ -57,6 +57,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "AI enabling behavioral health innovation"
+    excerpt: "A hospital in the Middle East is embracing AI, pushing to bring behavioral healthcare more fully into the digital realm."
+    publishedDateTime: 2024-03-13T14:51:00Z
+    webUrl: "https://www.healthcarefinancenews.com/news/ai-enabling-behavioral-health-innovation"
+    type: article
+    provider:
+      name: Healthcare Finance News
+      domain: healthcarefinancenews.com
+    quality: 39
+    images:
+      - url: "https://www.healthcarefinancenews.com/sites/healthcarefinancenews.com/files/HIMSS24_5.jpg"
+        width: 635
+        height: 353
+        isCached: true
   - title: "IDS joins the Innovation Park Artificial Intelligence (IPAI)"
     excerpt: "The Innovation Park Artificial Intelligence (IPAI) is probably the most ambitious project for applied artificial intelligence in Europe. Its home will be a large, circular campus in Heilbronn,"
     publishedDateTime: 2024-03-12T11:04:00Z
