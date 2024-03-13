@@ -147,20 +147,6 @@ related:
         width: 375
         height: 375
         isCached: true
-  - title: "Revolutionary AI Predicts Alzheimer’s up to Seven Years Before Symptoms Appear"
-    excerpt: "Scientists at UC San Francisco have developed a method using machine learning to predict the onset of Alzheimer's Disease up to seven years prior to the emergence of symptoms, through the examination of patient records."
-    publishedDateTime: 2024-03-08T04:25:00Z
-    webUrl: "https://scitechdaily.com/revolutionary-ai-predicts-alzheimers-up-to-seven-years-before-symptoms-appear/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 35
-    images:
-      - url: "https://scitechdaily.com/images/Man-With-Alzheimers-Dementia.jpg"
-        width: 2000
-        height: 1500
-        isCached: true
   - title: "Overcoming the AI Privacy Predicament"
     excerpt: "The IAPP's Müge Fazlioglu says organizations must address consumers' privacy concerns to realize the full potential of AI"
     publishedDateTime: 2024-03-08T12:30:00Z
@@ -171,6 +157,6 @@ related:
       domain: infosecurity-magazine.com
     quality: 19
 
-secured: "oZVW/bpM6UT/msV85Ca88C4Nkzy2ii5AhPFbXrbUYxjUZm5xuL7cKHBNS5QvX8+dj6ltiS63Dn2lB6X1jxGDBSLFzs3JAPlZrVJ8LU22lQzy+8mRrvQFy8Btoh/JP3evVPkbGx1qdJiVNxfv6AQfHk5EIWyVX2G2UUjR3UeHEM1kAp5QpexOje0xHDoaxLkS22fjhyBUgFDFcjHw84SZu8F94Ji8P51ZUmm/n9uGDBfworLUOS1ME0/r0C8xgrKZm+ZJ5E0hW/sxydaoTUcR6cGl96SenpTPzhkvly4khpqLCUw8jCh12A+fdE9w7BhhbLHtTLUoARUkQIJHRJBqIhXrg4lE7gyT81LhRXKSxic=;xXw3TQ4bNJ4s8zKJycYWIQ=="
+secured: "p41dpA6eKyFYtog/Icq92WO/jBVjV7WeSkVIvOf0DaXKXuVFd4LBB0NXPWaT5OrhEDtZxt0DS/iD2qkibe+UtXv7Q+VKYFvUkpb9IwMW8gCZfkfxDsjj9aAGeyX64/qoa82Xm4e85sAdzjOOAZufveKcOQ7Xf+EqbWC0US+lh9qDHj0EVXGQuUb+e6u68co1khwJ+zYyDMVPMgCkBXF5GdpJEpfIQhhG6bLjK1NJJ3SMhi0M+gK172bDuLZRljgA6fgInqzmEyiTGMdsQzJtqEnZcxzuk+hjJ3EpJkkUFhxKInLnqas7nbxHWDdFvLFQXddHn7m7lVid4ZUhqU9+nmgL6CCvFBblH1NbdVYRAAkkQvaVRJ6U8wUvE/zfw+a/rDyJGwS28vB88iyZWSlngXk1EjMwhydPtgUG8DUFOcuZKHeDEq2UataVNd3HB9uTvfSMag1sHA6Z8zFyKBkYnlZ4e0umgJZMEbbAWJUxEkGuVJqfUukrCnTQAGhnDREVuHvmW14knZTXoMQ3qnNcqA==;CUerC7lXD/DNJKRcjFFtZw=="
 ---
 

@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Locus Robotics Unveils LocusHub Engine for Insightful, AI-Powered Warehouse Intelligence and Robotics Automation Optimization"
-excerpt: "Breakthrough cloud-based platform combines predictive analytics, actionable insights, and data visualization to drive intelligent orchestration of digital fulfillment operations"
-publishedDateTime: 2024-03-12T14:00:00Z
-originalUrl: "https://www.asiaone.com/business/locus-robotics-unveils-locushub-engine-insightful-ai-powered-warehouse-intelligence-and"
-webUrl: "https://www.asiaone.com/business/locus-robotics-unveils-locushub-engine-insightful-ai-powered-warehouse-intelligence-and"
+excerpt: "Breakthrough cloud-based platform combines predictive analytics, actionable insights, and data visualization to drive intelligent orchestration of digital fulfillment operations WILMINGTON, Mass., March 12,"
+publishedDateTime: 2024-03-12T16:13:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2024/03/12/9976960.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2024/03/12/9976960.htm"
 type: article
-quality: 22
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Robotics
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/2355436/Locus_Logo.jpg"
+    width: 400
+    height: 400
+    isCached: true
 
 related:
   - title: "Applied Intuition lands $6B valuation for AI-powered autonomous vehicle software"
@@ -61,6 +67,6 @@ related:
       domain: bizjournals.com
     quality: 4
 
-secured: "jbIHu2c05LVMMFk2IwUEUp+NnslwYUKqf3OPjkxKcDv7SPrqtGnQyhJRwOWjylB/PYfENc8ffr/kLao3c8Z7N6M/IjgCJF3+awAvRDcOGDdVWngeQmqjoJTY8VpDC08T14nASwD582uLlw5mvLzInwtutdVXugxqEO9goHWKooMVPkS/UgaDmYvK/fsBwzUo7mdpuBEJv10B+HPrpOn7vtIqg6VGzfNCx7JqqlfiqbZOWkGfwW2+ap+GVRvWJvK9og2wY/WHdKpfR8QV9B3+qMmbhSeZUuNYwMdxaE+50u9o4k6I2XPO8Sl9PuazO1cwJEQD7G3poEdOHlJGvxppAQHUT/XQFdWfTj3rcrpMN4FMK004Y5bPXq05lQovnWsL7ZeDJjb+Afy1TwKg9miWiAJH7VgYwZVmYlDcxfwO31ul4cFZkWP76T2invQeXsTQq1C8HldzjujwGh+VqYWOWfQ8jjkTQUo9bt6HK4Dd4HNoVvr/tsUluzJdjg6mZSQq9mc2bz36jNE2bizktVbvsw==;/sdcvDHVkWG8AqTYOdOtJg=="
+secured: "RmAgXqN17OYwuzOjMJOGqrucDqAFmt2Eopa2OVXYGC7XzwFotXkGG1fUMQDtB6SDqPqivEcpHe7fIH+1cGucjXJTaMKMB21Hqo4WEl+Yot72R9LONBcScV2tDRq3voOYcdePjJifRAwnja6zlBS3b1SLvZhxg2mtgEasG9d4xkXLIbpywW1QX3JDzJ3Y986j7sV0CoKjv+4invtKhxBD/x2a9fvC1zv156jW+wiU7miZtK7/Dwb/Zu3ddncpo7aYp8oW/81Wbg/DJ+sUzDZZMHZngxxxnOdD090yNR1V19LcaVwsIVfh5Npb08JVLtbvgnT9zZjfaPlmLsxM50becUjPYNH6yykOh37zKwYlhFc=;xBw6zz1OpzDtCnVs9xUXGw=="
 ---
 

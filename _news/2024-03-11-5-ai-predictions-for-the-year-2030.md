@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2024/03/10/10-ai-predictions-f
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2024/03/10/10-ai-predictions-for-the-year-2030/amp/"
 type: article
 quality: 93
-heat: 203
+heat: 193
 published: true
 
 provider:
@@ -152,20 +152,6 @@ related:
       - url: "https://itwire.com/media/k2/items/cache/9e9e0c01ebd0f7957acc6a63cc76c281_M.jpg"
         width: 375
         height: 375
-        isCached: true
-  - title: "Revolutionary AI Predicts Alzheimer’s up to Seven Years Before Symptoms Appear"
-    excerpt: "Scientists at UC San Francisco have developed a method using machine learning to predict the onset of Alzheimer's Disease up to seven years prior to the emergence of symptoms, through the examination of patient records."
-    publishedDateTime: 2024-03-08T04:25:00Z
-    webUrl: "https://scitechdaily.com/revolutionary-ai-predicts-alzheimers-up-to-seven-years-before-symptoms-appear/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 35
-    images:
-      - url: "https://scitechdaily.com/images/Man-With-Alzheimers-Dementia.jpg"
-        width: 2000
-        height: 1500
         isCached: true
   - title: "Overcoming the AI Privacy Predicament"
     excerpt: "The IAPP's Müge Fazlioglu says organizations must address consumers' privacy concerns to realize the full potential of AI"

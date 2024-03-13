@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/03/12/google-gemini-election-related-que
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/google-gemini-election-related-queries/amp/"
 type: article
 quality: 75
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google Gemini AI Cannot Answer About US, Global Elections But Why?"
+    excerpt: "It was previously revealed by Google that this would be what its AI chatbot would observe, but it was initially meant for Bard and not its latest, Gemini. While this may seem that Google is making Gemini AI apolitical during this time, the company ..."
+    publishedDateTime: 2024-03-12T22:03:00Z
+    webUrl: "https://www.techtimes.com/articles/302506/20240312/google-gemini-ai-answer-global-elections-why.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/302506/20240312/google-gemini-ai-answer-global-elections-why.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/302506/20240312/google-gemini-ai-answer-global-elections-why.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 59
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/443540/google-gemini-issues.png"
+        width: 700
+        height: 364
+        isCached: true
   - title: "Google launches AI-backed search-and-answer tool for doctors"
     excerpt: "Vertex AI Search for Healthcare comes as the industry awaits a regulatory structure from the federal government around the use of AI in the industry."
     publishedDateTime: 2024-03-12T12:48:00Z

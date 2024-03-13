@@ -7,7 +7,7 @@ originalUrl: "https://scitechdaily.com/not-science-fiction-how-optical-neural-ne
 webUrl: "https://scitechdaily.com/not-science-fiction-how-optical-neural-networks-are-revolutionizing-ai/"
 type: article
 quality: 54
-heat: 94
+heat: 74
 published: true
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Generative AI In Action: Transforming Workforce Learning And Development"
-    excerpt: "To develop an L&D curriculum that is beneficial to employees, I believe organizations should leverage GenAI to create impactful, scalable training opportunities."
-    publishedDateTime: 2024-03-12T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/03/12/generative-ai-in-action-transforming-workforce-learning-and-development/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 48
   - title: "Artificial Intelligence In Cancer Detection: How Is AI Contributing To The Diagnostic Industry and Impacting Early Detection?"
     excerpt: "\"Artificial Intelligence (AI) is drastically changing the diagnostic industry, especially in the domain of early cancer detection\", says Mr. Hariharan Subramanian, the Managing Director of Siemens Healthcare Private Limited."
     publishedDateTime: 2024-03-12T10:05:00Z
@@ -49,20 +40,6 @@ related:
       - url: "https://st1.thehealthsite.com/wp-content/uploads/2024/03/neurological-doctor-cheking-eeg-headset-explaining-patient-diagnosis-disease-treatment-nervous-system-scientist-researcher-analysing-brain-scan-tomography-monitor-lab.jpg"
         width: 1200
         height: 900
-        isCached: true
-  - title: "How AI Will Revolutionize Supply Chains"
-    excerpt: "Even the sturdiest supply chains are vulnerable to seismic shocks, whether due to groundbreaking technological advancements, geopolitical shifts, or global crises. Amid these sources of turbulence, artificial intelligence (AI) can be a game-changer, offering a source of rapid response and sustainable solutions to keep supply chains strong."
-    publishedDateTime: 2024-03-08T13:51:00Z
-    webUrl: "https://www.inc.com/sap/how-ai-will-revolutionize-supply-chains.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/SAPAIBootcamp_SupplyChain_IntroFrameLogo_022924.1_538194_ml4meo.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Innovations in Travel: How AI Technologies are Shaping Future Tourism Trends"
     excerpt: "Explore how AI is revolutionizing travel with personalized experiences and streamlined operations, as showcased at ITB Berlin."

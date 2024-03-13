@@ -109,15 +109,6 @@ related:
         width: 700
         height: 394
         isCached: true
-  - title: "Airports using biometric facial recognition in Texas"
-    excerpt: "Spokeo looked at which airports are using facial recognition software in Texas for security screenings, according to Customs and Border Protection."
-    publishedDateTime: 2024-03-08T05:58:00Z
-    webUrl: "https://kvia.com/news/texas/stacker-texas/2024/03/07/airports-using-biometric-facial-recognition-in-texas/"
-    type: article
-    provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 34
 
 secured: "js0nhirhJY/CfRie9Xk1LOzUu+hmaPH/q29Q7X5lyZFT2F9hLbLmzSafinrRk9bkRtHia/5zQxep/e85Ap3BFOGCvD7SQ0gO8Id12HNzD/yk96Ku+xrPuTmCLM2sh2MjdRss0cAfBdYC4vtP/b5XKB67WonC3UZ78WbQ/M4iGFvzNL1svkp8WInUfUkfMZzKbXVJk2AgCIjw4/3F5rwX5fMjmLmaSMVAlOTh8KgjqxHwAPI6+YEoBAhQ2bgttw0lWCLoHm8L1HBbnchT8ev6cYji8itcVjCXSiYfIgp/d1j653x/NIC5rhDeqOnnJLTlXhCO2/rDQW06x4uL1m0g0b+zrb0O6wif2JoPb9ZxgkRfZxC7cqY+KFuI7lRSWbb78yj5RLxdU4jKdcBrsPX2JRXgCkxRTH+YBOweNZtTJPcpxja52cEYUqAjxQeowOukDky5LQlw3LDYMk/2yWrZafxK18QV1W/014hgey4T4x5BQCf5mOmqyObN9hwlRptauzob5vd+rzK/et7gMLtxvw==;b9p+1pJ8X3kStG2piFLXOA=="
 ---

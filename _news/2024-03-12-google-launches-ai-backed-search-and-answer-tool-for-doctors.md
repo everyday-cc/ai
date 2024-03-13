@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Google Gemini AI Cannot Answer About US, Global Elections But Why?"
+    excerpt: "It was previously revealed by Google that this would be what its AI chatbot would observe, but it was initially meant for Bard and not its latest, Gemini. While this may seem that Google is making Gemini AI apolitical during this time, the company ..."
+    publishedDateTime: 2024-03-12T22:03:00Z
+    webUrl: "https://www.techtimes.com/articles/302506/20240312/google-gemini-ai-answer-global-elections-why.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/302506/20240312/google-gemini-ai-answer-global-elections-why.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/302506/20240312/google-gemini-ai-answer-global-elections-why.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 59
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/443540/google-gemini-issues.png"
+        width: 700
+        height: 364
+        isCached: true
 
 secured: "QnhJwfcQEbSomgsUhA7+6HuzEfprlTwJmM3PedzZLOCssg2atIcMSCrGPpjCrnU6ox4XVzrJ2wYnt6JAB81FZaU360J3ZV2B3m6IFvnYl0fLIHMYIfpljh+l10UyppkDNlbw5e9akZkd/pU9OsQIKyKVHvNyvvtXuW0drXoSfq22CZ/2+2t44cKQ/4z5XAxIKoFKKGRPFweMvSXI9b/6yJbQ39ek1ce/mR9LWVl1LIfJSvz4jRHCzcxS544J7KIYRbFKpNei/CzcnHtddPbBZEo0VKjS6yU31mKFQJIon7+/rbxs/JXeilZ19o6cfVAsGlcU3kNdX0LO+9j++dCJi0i4Zaz1N4epQtdaA6CnEHo=;jUoBeHWG6eyL/Udfxw8efA=="
 ---

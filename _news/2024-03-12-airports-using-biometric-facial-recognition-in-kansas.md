@@ -101,15 +101,6 @@ related:
         width: 700
         height: 394
         isCached: true
-  - title: "Airports using biometric facial recognition in Texas"
-    excerpt: "Spokeo looked at which airports are using facial recognition software in Texas for security screenings, according to Customs and Border Protection."
-    publishedDateTime: 2024-03-08T05:58:00Z
-    webUrl: "https://kvia.com/news/texas/stacker-texas/2024/03/07/airports-using-biometric-facial-recognition-in-texas/"
-    type: article
-    provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 34
   - title: "Stc Bahrain, the first telecom to launch instant mobile SIM Activation using AI Face Recognition Technology"
     excerpt: "Pioneering technology-driven solutions that empower customers and drive forward Bahrain’s digital transformation"
     publishedDateTime: 2024-03-12T12:48:00Z

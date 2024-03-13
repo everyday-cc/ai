@@ -75,15 +75,6 @@ related:
       name: BGR
       domain: bgr.com
     quality: 48
-  - title: "Generative AI Is A Game Changer For Talent Transformation"
-    excerpt: "One of generative AI's most significant implications is giving talent management professionals the ability to communicate information to executives and their board of directors. It helps leadership look around corners, rather than just in the rearview mirror, when shaping strategy or making decisions."
-    publishedDateTime: 2024-03-11T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/03/11/generative-ai-is-a-game-changer-for-talent-transformation/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 47
 
 secured: "t6W9H1CsE5wplAy9I3GtBx9gMYr10p93Vgip0m2EzPpXjJfIsLsx/qzQMPZi8kJRyhqiJtLr4NOZ50t7lLL4x6BgoJvXfC1yQndV2t5OmOvOBctuSDJ7OH0tK3IWGE+oG+rKibbFat858YCbJrPliKzhaMTkB3LykEw8CobKaps/LhVZZmIcUc82LdLZDjjn161dm5bHl8py1dcdyOgyeFCspaTBgDXhgYw6HQieKONPk9jfzc1keAztFdrcSMQqZllX8PeMZKxJSN73i5546hp7RZowZIpkPc/N7Sw0h1Aw2h6BBQDCDAAi8BpO0wNsUZEasIp7CuQz766jfLqSJH0MNawwYE/9Ggt6fAqZUhQ=;EqvwORgIiGp0OT9afthk0w=="
 ---

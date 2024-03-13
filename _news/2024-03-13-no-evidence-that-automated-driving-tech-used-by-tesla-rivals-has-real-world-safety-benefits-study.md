@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Automatic driving assistance systems may create more risks than they solve, study finds"
+    excerpt: "Nearly every automaker failed the Insurance Institute for Highway Safety's test, highlighting the ongoing safety risks of driver-assistance systems."
+    publishedDateTime: 2024-03-13T01:54:00Z
+    webUrl: "https://www.businessinsider.com/driving-assistance-systems-may-create-more-risks-than-solve-study-2024-3"
+    ampWebUrl: "https://www.businessinsider.com/driving-assistance-systems-may-create-more-risks-than-solve-study-2024-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/driving-assistance-systems-may-create-more-risks-than-solve-study-2024-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
+    images:
+      - url: "https://i.insider.com/65f0f5a36080194819ff3983?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Tesla Autopilot, similar automated driving systems rated 'poor' by safety group"
     excerpt: "The vast majority of automated driving systems tested by the Insurance Institute for Highway Safety's new ratings system were deemed \"poor\" based on their safeguards."
     publishedDateTime: 2024-03-12T21:00:00Z
@@ -68,6 +84,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/kitv.com/content/tncms/assets/v3/editorial/5/c0/5c00b359-c214-58a9-8264-8bfe3f0d5554/65f06bf1870c4.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Auto safety group gives most hands-free driving systems ‘poor’ ratings"
+    excerpt: "The Insurance Institute for Highway Safety (IIHS) announced Tuesday that nearly all partial driving automation systems received “poor” ratings in a new ratings program designed to improve safety on the road."
+    publishedDateTime: 2024-03-13T01:56:00Z
+    webUrl: "https://www.aol.com/news/auto-safety-group-gives-most-225613502.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 24
+    images:
+      - url: "https://media.zenfs.com/en/aol_the_hill_articles_315/b1654d5bbccd695739ec89dd125515a1"
+        width: 900
+        height: 506
         isCached: true
   - title: "Tesla Autopilot, 9 other assisted-driving systems receive “poor” rating from IIHS"
     excerpt: "The IIHS declared that there is no evidence that Autopilot or other assisted-driving systems improve real-world safety based on crash data."

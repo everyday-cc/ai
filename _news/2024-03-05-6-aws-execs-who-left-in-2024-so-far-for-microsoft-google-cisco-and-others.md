@@ -1,21 +1,27 @@
 ---
 category: news
-title: "6 AWS Execs Who Left In 2024 (So Far) For Microsoft, Google, Cisco And Others"
-excerpt: "Saurabh Gupta left AWS this year as head of engineering and product strategy for AWS Sagemaker, the company’s AI and machine learning solution. Gupta lead global organizations of AWS professionals who are building the foundational capabilities for Amazon ..."
-publishedDateTime: 2024-03-04T16:49:00Z
-originalUrl: "https://www.crn.com/news/cloud/2024/6-aws-execs-who-left-in-2024-so-far-for-microsoft-google-cisco-and-others"
-webUrl: "https://www.crn.com/news/cloud/2024/6-aws-execs-who-left-in-2024-so-far-for-microsoft-google-cisco-and-others"
+title: "6 AWS execs who left in 2024 (so far) for Microsoft, Google, Cisco and others"
+excerpt: "CRN US breaks down six AWS executives who left the world’s largest cloud company in 2024 and where they landed. Before jumping into the six executives who left, it’s key to note that Seattle-based AWS is the world’s No. 1 cloud market leading—owning 31 percent share of the global cloud infrastructure services market."
+publishedDateTime: 2024-03-05T03:55:00Z
+originalUrl: "https://www.crn.com.au/news/6-aws-execs-who-left-in-2024-so-far-for-microsoft-google-cisco-and-others-605772"
+webUrl: "https://www.crn.com.au/news/6-aws-execs-who-left-in-2024-so-far-for-microsoft-google-cisco-and-others-605772"
 type: article
 
 provider:
-  name: CRN
-  domain: crn.com
+  name: CRN Australia
+  domain: crn.com.au
 
 topics:
   - AWS AI
   - AI
   - Microsoft AI
 
-secured: "C6mQFjOh3xU1IBk6i4IeQBlZnsLRAhsmsywlTSwbOQxbgGrdJHmTpsBABOnAam7R4tuDsZmIVcDvRcmDUtaWbXRWVjqCxARefizoK/4QTCbkHJQnLHCPIh7H6lLL6wy9D++CrwsEN/RQ3Y6L5XTbkhpGIgrlVYW3YsySXHoajoscc/rYl1NbzzgHTb4YNNh33yamr7vVj72MOjChRqn0SdMQVvLnMZoR3ztYzTeR382QfPNFApqM/7HL+re/7P4j9qJQA2YHpaVv7Dcr8L+DScieDYnA4s+D/l4yWAiX/tDpfOPoAEUqFvQMSqf8OBz1ar6Ydu5masx7FSpC6vpZ+9yY+36tZuy8QW644Dizbr0EiKa3VsZvVAfUy2xQiWwkQD0R7IONsG2ixbdJym4IBe4J//3RNCdLe4eV6kRaBQMZiCreYN6xTX+PjkY475Jrbw8lY7QbTkf8b7hwFFmKP3VBc6vnBBdQcldgb8usddHopsTX+a6Be76wq/gkRogv/+PW5UsChDHgGRc4M9gFWw==;NnBDbOQXG2bV+BNW+/kAOw=="
+images:
+  - url: "https://i.nextmedia.com.au/News/media_1cc1c11e9039504f571f1c21793c05f1627244c87.png"
+    width: 611
+    height: 458
+    isCached: true
+
+secured: "xN/vUWn+Rmb+is/rGi8SOdTPAkg/s52C7YLVwDtBcSgyWlk4D/69gyRMTpoDbCXP8FuhRavKBf3lhSgA+xFNetHt9xYBV2W15fefBe37V+ysMUzZIC3Q3zMHyIeuwT0f3uGYiF1VuIwMplWGGSoaoDksxwx213Oqhy3fn3E/I1EqlP8+IvsguFBJrKwlwwX3OGItpzEfFm6T5hTEmNJeoxOotsQt4a9ru7aYVgHKeAc4qLZ/sEnwW6yMZfi83VVPfHbHaIw7cHfuv+SQNaKiBRpx62DRlz0N/gLR2vFMkAxYO21YTFpwU9uLU3dueHNpbI8hIdysxMoCZjDsdH0SPw6q8EOO2KEUWx+8yjX/f+k=;S/c2qwT+x/+jpPvSklOwHA=="
 ---
 

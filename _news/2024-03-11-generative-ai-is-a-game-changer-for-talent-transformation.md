@@ -22,70 +22,120 @@ topics:
   - AI
 
 related:
-  - title: "ChatGPT And Generative AI Innovations Are Creating Sustainability Havoc"
-    excerpt: "This article discusses the risks of ChatGPT and Generative AI innovations are having on sustainability goals and highlights the energy and water consumption risks."
-    publishedDateTime: 2024-03-12T10:52:00Z
-    webUrl: "https://www.forbes.com/sites/cindygordon/2024/03/12/chatgpt-and-generative-ai-innovations-are-creating-sustainability-havoc/"
+  - title: "How generative AI will change low-code development"
+    excerpt: "AI copilots and code generators offer similar benefits to low-code platforms, but they're not the same. Here's what industry leaders are saying about the future of low-code development."
+    publishedDateTime: 2024-03-11T09:00:00Z
+    webUrl: "https://www.infoworld.com/article/3713500/how-generative-ai-impacts-low-code-development.html"
+    ampWebUrl: "https://www.infoworld.com/article/3713500/how-generative-ai-impacts-low-code-development.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3713500/how-generative-ai-impacts-low-code-development.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
+    images:
+      - url: "https://images.idgesg.net/images/article/2023/10/shutterstock_2248315255-100947624-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 691
+        isCached: true
+  - title: "How AI has already changed coding forever"
+    excerpt: "AI coding tools such as Amazon CodeWhisperer and GitHub Copilot boost the productivity of pro and novice developers alike. They’re only the beginning."
+    publishedDateTime: 2024-03-12T09:01:00Z
+    webUrl: "https://www.infoworld.com/article/3714361/how-ai-has-already-changed-coding-forever.html"
+    ampWebUrl: "https://www.infoworld.com/article/3714361/how-ai-has-already-changed-coding-forever.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3714361/how-ai-has-already-changed-coding-forever.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 87
+    images:
+      - url: "https://images.techhive.com/images/article/2014/03/166160844-100249187-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Generative AI will change customer service forever. Here's how we get there"
+    excerpt: "and that the customer service processes they design can be successful using generative AI. Start small, start where there is measurable value and benefit, start simple, start with clean data, and invite a small number of loyal customers into your design ..."
+    publishedDateTime: 2024-03-12T11:05:00Z
+    webUrl: "https://www.zdnet.com/article/generative-ai-will-change-customer-service-forever-heres-how-we-get-there/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/generative-ai-will-change-customer-service-forever-heres-how-we-get-there/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/generative-ai-will-change-customer-service-forever-heres-how-we-get-there/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 85
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/ea7e9436c5b7404b91662cea16c7a61a199fe5ec/2024/03/11/ec6e84d9-cca6-46e1-911b-965b865afe35/gettyimages-1681144648.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "AI-driven evolution of low-code software development in India"
+    excerpt: "As low-code platforms evolve with out-of-the-box AI capabilities, organizations must conscientiously explore ways to harness its full potential. The ability to empower developers"
+    publishedDateTime: 2024-03-09T10:45:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2024/03/Untitled-design-2024-03-08T174706.154.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Generative AI In Action: Transforming Workforce Learning And Development"
+    excerpt: "To develop an L&D curriculum that is beneficial to employees, I believe organizations should leverage GenAI to create impactful, scalable training opportunities."
+    publishedDateTime: 2024-03-12T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/03/12/generative-ai-in-action-transforming-workforce-learning-and-development/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 84
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65f031a4a360eaa0853ec14c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1351
-        height: 900
-        isCached: true
-  - title: "Pros & Cons of Claude 3 AI compared to ChatGPT"
-    excerpt: "In the competitive landscape of artificial intelligence, the emergence of new large language models (LLMs) continuously reshapes the boundaries of"
-    publishedDateTime: 2024-03-10T11:03:00Z
-    webUrl: "https://www.geeky-gadgets.com/claude-3-vs-chatgpt/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 56
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/03/chatgpt-vs-claude-3-Pros-and-Cons-compared.jpg"
-        width: 1280
-        height: 710
-        isCached: true
-  - title: "OpenAI's Head of ChatGPT Says AI Will Make Us More Creative--and More Human"
-    excerpt: "At a SXSW panel, Peter Deng says OpenAI is committed to keeping the basic version of ChatGPT free; evades question over paying artists for using their work."
-    publishedDateTime: 2024-03-11T20:40:00Z
-    webUrl: "https://www.inc.com/jennifer-conrad/openais-head-of-chatgpt-says-ai-will-make-humans-more-creative.html"
+    quality: 48
+  - title: "How AI Will Revolutionize Supply Chains"
+    excerpt: "Even the sturdiest supply chains are vulnerable to seismic shocks, whether due to groundbreaking technological advancements, geopolitical shifts, or global crises. Amid these sources of turbulence, artificial intelligence (AI) can be a game-changer, offering a source of rapid response and sustainable solutions to keep supply chains strong."
+    publishedDateTime: 2024-03-08T13:51:00Z
+    webUrl: "https://www.inc.com/sap/how-ai-will-revolutionize-supply-chains.html"
     type: article
     provider:
       name: Inc
       domain: inc.com
-    quality: 52
+    quality: 37
     images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1311390274_538341_tenhg1.jpg"
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/SAPAIBootcamp_SupplyChain_IntroFrameLogo_022924.1_538194_ml4meo.jpg"
         width: 1024
         height: 576
         isCached: true
-  - title: "One simple ChatGPT hack makes AI responses sound like a human instead of a robot"
-    excerpt: "I talk to ChatGPT for research, I do it when I have to “google” something, and sometimes I do it for the lols. Since I’m on ChatGPT Plus, I also get to experience OpenAI’s best generative AI features as soon as they’re available in Europe ..."
-    publishedDateTime: 2024-03-08T17:10:00Z
-    webUrl: "https://bgr.com/tech/one-simple-chatgpt-hack-makes-ai-responses-sound-like-a-human-instead-of-a-robot/"
+  - title: "iOS 18 concept highlights how Apple could integrate generative AI"
+    excerpt: "Apple will announce iOS 18 a few months from now. A concept video shows how Apple could implement some generative AI features."
+    publishedDateTime: 2024-03-12T00:44:00Z
+    webUrl: "https://bgr.com/tech/ios-18-concept-highlights-how-apple-could-integrate-generative-ai/"
     type: article
     provider:
       name: BGR
       domain: bgr.com
-    quality: 48
-  - title: "ChainGPT unveils $1M grant scheme for startups supercharging Web3-AI innovation"
-    excerpt: "ChainGPT, the AI-powered Web3 infrastructure providing a diverse suite of tools and services, announces the launch of a grant program to help facilitate innovation at the crossroads of AI and blockchain."
-    publishedDateTime: 2024-03-11T14:17:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/03/11/9976043.htm"
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2023/07/how-to-customize-iphone-lock-screen-bgr.jpg?quality=82&strip=all"
+        width: 1812
+        height: 900
+        isCached: true
+  - title: "Cognition launches Devin, a generative AI-powered coding engineer"
+    excerpt: "A new generative artificial intelligence startup called Cognition AI Inc. is looking to disrupt coding with the launch of a new tool that can autonomously create code for entire engineering jobs, including its own AI models."
+    publishedDateTime: 2024-03-13T02:49:00Z
+    webUrl: "https://siliconangle.com/2024/03/12/cognition-launches-devin-generative-ai-powered-coding-engineer/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 33
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
     images:
-      - url: "https://api.blockchainwire.io/uploads/Proleoio/editor_image/21724a85-1a37-4732-8abb-ca588aa7938d.jpg"
-        width: 1280
-        height: 720
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/03/robo-advisor-chatbot-robotic-concept-robot-finger-point-laptop-button-generative-ai.jpg"
+        width: 2000
+        height: 1121
         isCached: true
 
 secured: "8Li0L5+vTvigDQdIU5KBHLe1nDmN0Db9AqiltpQHY/tyRHuOCGfc+HNxxxaBcpvaw2aFnKrYDKe70lmqMkCR84VcHvX8HOeHw1EERoU8EmvoPlhDD9abbhxGHWw93+ZKYxhyVJ3uhgBAuvxS97FximtTJkcsdsn+ydCki84sBTfID6VtUscrfaSR3TOalM6bTpmz8NWXiPxtweqI8YaMy0Kv5OJS4fR4j6NAo5kaelIEkjqFTBgJOuQjnqH+GG78RBD8KirmuZX3q2ZK5qVkT74Z5cj2eIln0b8SX0fnjEJsxihnPHjCALW0h7ZLNrmTX5OZKS+kLIyZf4vimySzSO59vNWSynXZW+WcTVN2W+VOFUQJsK/Unkt+MdkThpdIpsxrpO3FvixR2rvzdSL3Efnj84s9U6KXatNe02Ja5rsfnEGjnc4Ked/wPHFTaqZ6D+/uQi5KjIk312Qd486CYb2iR3vXjkCldhDD4piTL/FwSRKHEtSdNeTgcSBvJxQoU7bAEyCz0woS0LoHUf4yEQ==;Znur2R28fZn2NPxv4oOFNw=="

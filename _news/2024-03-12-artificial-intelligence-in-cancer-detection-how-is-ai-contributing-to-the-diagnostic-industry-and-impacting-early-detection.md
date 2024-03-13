@@ -41,29 +41,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Generative AI In Action: Transforming Workforce Learning And Development"
-    excerpt: "To develop an L&D curriculum that is beneficial to employees, I believe organizations should leverage GenAI to create impactful, scalable training opportunities."
-    publishedDateTime: 2024-03-12T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/03/12/generative-ai-in-action-transforming-workforce-learning-and-development/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 48
-  - title: "How AI Will Revolutionize Supply Chains"
-    excerpt: "Even the sturdiest supply chains are vulnerable to seismic shocks, whether due to groundbreaking technological advancements, geopolitical shifts, or global crises. Amid these sources of turbulence, artificial intelligence (AI) can be a game-changer, offering a source of rapid response and sustainable solutions to keep supply chains strong."
-    publishedDateTime: 2024-03-08T13:51:00Z
-    webUrl: "https://www.inc.com/sap/how-ai-will-revolutionize-supply-chains.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 37
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/SAPAIBootcamp_SupplyChain_IntroFrameLogo_022924.1_538194_ml4meo.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Innovations in Travel: How AI Technologies are Shaping Future Tourism Trends"
     excerpt: "Explore how AI is revolutionizing travel with personalized experiences and streamlined operations, as showcased at ITB Berlin."
     publishedDateTime: 2024-03-08T14:14:00Z

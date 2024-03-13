@@ -136,6 +136,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Stars vs. Devils March 14 Tickets & Start Time"
+    excerpt: "View how Data Skrive uses AI here. When the Dallas Stars play the New Jersey Devils ... Tarleton State WAC Tournament Women's Basketball Tickets & Start Time UT Arlington vs. Southern Utah WAC Tournament Women's Basketball Tickets & Start Time Prairie ..."
+    publishedDateTime: 2024-03-13T05:19:00Z
+    webUrl: "https://www.kwtx.com/sports/betting/2024/03/14/stars-vs-devils-buy-nhl-tickets/"
+    type: article
+    provider:
+      name: KWTX
+      domain: kwtx.com
+    quality: 22
+    images:
+      - url: "https://gray-kwtx-prod.cdn.arcpublishing.com/resizer/v2/T224MGEGLFLKNFQ5YHNFEALG4U.jpg?auth=1667e5e1d5ed91e067dee42466b6b7ede0f2e4049bc9f7b33c58ee088bfbd9c6&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Texas vs. Kansas Big 12 Tournament Women's Basketball Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. The No. 2 seed Texas Longhorns (27-4 ... UAB AAC Tournament Women's Basketball Tickets & Start Time UT Rio Grande Valley vs. Southern Utah March 9 Women's Basketball Tickets & Start Time Abilene Christian vs."
     publishedDateTime: 2024-03-09T18:07:00Z

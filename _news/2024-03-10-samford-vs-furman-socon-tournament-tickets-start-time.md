@@ -122,6 +122,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Stars vs. Devils March 14 Tickets & Start Time"
+    excerpt: "View how Data Skrive uses AI here. When the Dallas Stars play the New Jersey Devils ... Tarleton State WAC Tournament Women's Basketball Tickets & Start Time UT Arlington vs. Southern Utah WAC Tournament Women's Basketball Tickets & Start Time Prairie ..."
+    publishedDateTime: 2024-03-13T05:19:00Z
+    webUrl: "https://www.kwtx.com/sports/betting/2024/03/14/stars-vs-devils-buy-nhl-tickets/"
+    type: article
+    provider:
+      name: KWTX
+      domain: kwtx.com
+    quality: 22
+    images:
+      - url: "https://gray-kwtx-prod.cdn.arcpublishing.com/resizer/v2/T224MGEGLFLKNFQ5YHNFEALG4U.jpg?auth=1667e5e1d5ed91e067dee42466b6b7ede0f2e4049bc9f7b33c58ee088bfbd9c6&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Louisiana Tech vs. Middle Tennessee CUSA Tournament Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. The No. 7 seed Middle Tennessee Blue Raiders (13-18, 7-9 CUSA) will play in CUSA tournament against the No. 2 seed Louisiana Tech Bulldogs (22-9, 12-4 CUSA) on Wednesday at Von Braun Center, starting at 9:00 PM ET."
     publishedDateTime: 2024-03-10T10:23:00Z

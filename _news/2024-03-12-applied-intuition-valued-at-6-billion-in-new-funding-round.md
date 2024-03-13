@@ -28,6 +28,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 44
+  - title: "Locus Robotics Unveils LocusHub Engine for Insightful, AI-Powered Warehouse Intelligence and Robotics Automation Optimization"
+    excerpt: "Breakthrough cloud-based platform combines predictive analytics, actionable insights, and data visualization to drive intelligent orchestration of digital fulfillment operations WILMINGTON, Mass., March 12,"
+    publishedDateTime: 2024-03-12T16:13:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/12/9976960.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 42
+    images:
+      - url: "https://mma.prnewswire.com/media/2355436/Locus_Logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Vehicle simulation startup Applied Intuition raises $250M at $6B valuation"
     excerpt: "Applied Intuition Inc., a simulation startup that counts over a dozen large automakers as ... Automakers hone their vehicles’ AI models by placing them in simulated driving environments. Those environments typically feature not only virtual roads but ..."
     publishedDateTime: 2024-03-12T07:00:00Z
@@ -42,15 +56,6 @@ related:
         width: 933
         height: 517
         isCached: true
-  - title: "Locus Robotics Unveils LocusHub Engine for Insightful, AI-Powered Warehouse Intelligence and Robotics Automation Optimization"
-    excerpt: "Breakthrough cloud-based platform combines predictive analytics, actionable insights, and data visualization to drive intelligent orchestration of digital fulfillment operations"
-    publishedDateTime: 2024-03-12T14:00:00Z
-    webUrl: "https://www.asiaone.com/business/locus-robotics-unveils-locushub-engine-insightful-ai-powered-warehouse-intelligence-and"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 22
   - title: "Applied Intuition scores $250 million deal, scales to $6 B valuation"
     excerpt: "LLMs and other new AI models are transforming the automotive and autonomy industries,” said Qasar Younis, CEO of Applies Intuition. It raised a $250 million all-equity Series E round at a $6 billion valuation."
     publishedDateTime: 2024-03-12T20:28:00Z

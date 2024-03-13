@@ -39,15 +39,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "India AI Mission: How India Plans To Lead in Artificial Intelligence"
-    excerpt: "The cabinet led by PM Narendra Modi has approved the national-level IndiaAI mission, allocating Rs 10,371.92 crore, aligning with a vision to foster AI for national benefit The IndiaAI mission aims to establish a robust ecosystem driving AI innovation via ..."
-    publishedDateTime: 2024-03-08T05:32:00Z
-    webUrl: "https://www.ndtv.com/webstories/feature/india-ai-mission-how-india-plans-to-lead-in-artificial-intelligence-14326"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 34
 
 secured: "wxP1TVAt73ItII/KPHsYdQKyhNDKDaVDTTu1fB5Do+rle8ME+UTL/xRQ82WNbYcfFzDtQ3pvIRx8yUi/h3mUl/aG5KV4+jaf2rE8MEsiHW8EQtA0pLylljEo/bzBdAoJ7PPQ3nUW93a/DnxX2i9n8TXW/x5/FsrtG7msyIgzpWN3zN3uz4x7SkSC/gRdsnWrIlFjg+XjWHl+zih3ZuVVoqlV1uWPx48UekyKtN/+8o8+lM6Xn9Sllc1GbGfr+BjH2ZZtVKxdrLJ1gMLOXdkXCbGdxa1QPRREZLSMqULfpaWQ8H34b6+C0vK677lmMmwF9qkiAa6B155QnIcaOkSrCcdwGGm/UCGUE1PXs2RtV8UBCrxUSG265esu8ZnV5lyQDa6ZLjCzRM4d6VsoeWr0Ny3ZWhMbOIAuQXyUwkf+iQ9joC0rysuo25nY6D4iiolgtnhjnFnUOJCo08+ddMQ9+5f9oeTPHBmY6TUEq1uxaLCG6b2GTOfuOt+Q0BFee5QGouZpIL77R+6FZU3iKl2DzQ==;1bFuMvoeF6dShS9dSXqFYA=="
 ---

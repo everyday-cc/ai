@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/at-venturebeats-ai-impact-tour-microsof
 webUrl: "https://venturebeat.com/ai/at-venturebeats-ai-impact-tour-microsoft-explores-the-risks-and-rewards-of-gen-ai/"
 type: article
 quality: 80
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft is holding back the ‘AI PC’ revolution"
+    excerpt: "Now, the bad: On the software side, Windows isn’t ready. It almost seems as if Microsoft’s been blindsided by the wave of AI PCs. These are tomorrow’s PCs today in the sense that we have the hardware, but the software isn’t ready yet."
+    publishedDateTime: 2024-03-13T05:22:00Z
+    webUrl: "https://www.computerworld.com/article/3714440/microsoft-is-holding-back-the-ai-pc-revolution.html"
+    ampWebUrl: "https://www.computerworld.com/article/3714440/microsoft-is-holding-back-the-ai-pc-revolution.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3714440/microsoft-is-holding-back-the-ai-pc-revolution.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 74
+    images:
+      - url: "https://images.idgesg.net/images/article/2024/03/samsung-galaxy-book-100962432-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 810
+        isCached: true
   - title: "Sonata Software integrates its AI solution with Microsoft Azure AI"
     excerpt: "Sonata Software has announced the integration of its Harmoni.AI with Microsoft Azure AI service. Sonata’s AI offering provides industry solutions, service delivery platforms, and accelerators. Using Microsoft Azure AI services, Sonata Harmoni.AI will ..."
     publishedDateTime: 2024-03-08T06:14:00Z
@@ -60,6 +76,6 @@ related:
       domain: modernhealthcare.com
     quality: 34
 
-secured: "NF8G2dpa3gzwSNaRiPWwSSYcOSbMLxryMfKqLFKqRW2LNVw3ZULb5hYj8C0cSzUmLV6HLS6sjy/FonYjpV/34tNFzUKC5241GXXek00nn4XZat5SrFWbvw5Mq/m4F1S6vhsX9DzODyRTwsZNi+b3DSeLkAUzTqKBmgbvDpUeGYvqSAXhJnjqL7Z4BK4zBE/7+vAQaIT1kEwxThX7YKNBdnk7FQpifHn66LC7wC6g05DJJCCyMCWv7NR0Cg2eKVZmcEO9z7ToaMovHrQpJMovxRei8CIani/vIHFe1Eq3CQAQMqulTSIG3HbMrGdcWRSSzan7aUm3dV+7ly9HSG2wL2UjZDGmscBlRPEGQ8cfwBY=;Oj+ZdrgrhGWf1/dyQmggeQ=="
+secured: "YyZ/OX5QdprIVTtoUfl7xTDofjD6iXG4rHCZWGIqAI8doiHY14+fLa41qRNORRAXM2M+L6GY9Ef9rysAxjnn1nfth3RnfAAQSPqhd+Fp8rsXqY8zEez7Kkx1+9r+HNFKJP8DHTQ0LHNqfHwBfVDk/LqcPTmAn9S1+2r+883MRmWyDgTjfGvE4QZt2WvZo2Zsi58pvTztXFr2E06H5h2WtrK5uuSf7JcWVksEMzqRovuLa/UQLnr8Nz00EYyRH7R8DZnlM7hXzIQHGpTidtEGxvG3H9lJSt6fMVuXDMJvx/IOC9+jn1ACTR69F+E7l/sZwCX/mA/UfRhWb/lU+wfkisaihmd5jnl94nzlSBFdErM=;FmJq4bbEYHgqANORLvILmA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/03/12/glacier-is-training-ai-powered-rec
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/glacier-is-training-ai-powered-recycling-robots/amp/"
 type: article
 quality: 104
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -99,6 +99,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/03/covariant.png"
         width: 718
         height: 400
+        isCached: true
+  - title: "The Future of Work: How Artificial Intelligence Training is Reshaping Industries"
+    excerpt: "Introduction: In the rapidly evolving landscape of the professional world, the future of work is being significantly influenced by the transformative power of Artificial Intelligence (AI) training. As industries seek innovative solutions to stay competitive,"
+    publishedDateTime: 2024-03-13T05:19:00Z
+    webUrl: "https://techbullion.com/the-future-of-work-how-artificial-intelligence-training-is-reshaping-industries/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 47
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2024/03/The-Future-of-Work-How-Artificial-Intelligence-Training-is-Reshaping-Industries.jpg"
+        width: 650
+        height: 450
         isCached: true
   - title: "Fighting AI-Driven Cybercrime Requires AI-Powered Data Security"
     excerpt: "For chief information security officers, the greatest cyber threat is ransomware, which criminals can now weaponize with AI to find weak points faster and wreak havoc in real time. In the face of ever-evolving cybersecurity challenges,"

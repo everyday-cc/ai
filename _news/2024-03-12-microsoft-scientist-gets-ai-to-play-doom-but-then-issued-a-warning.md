@@ -35,6 +35,22 @@ related:
         width: 1198
         height: 537
         isCached: true
+  - title: "Microsoft is holding back the ‘AI PC’ revolution"
+    excerpt: "Now, the bad: On the software side, Windows isn’t ready. It almost seems as if Microsoft’s been blindsided by the wave of AI PCs. These are tomorrow’s PCs today in the sense that we have the hardware, but the software isn’t ready yet."
+    publishedDateTime: 2024-03-13T05:22:00Z
+    webUrl: "https://www.computerworld.com/article/3714440/microsoft-is-holding-back-the-ai-pc-revolution.html"
+    ampWebUrl: "https://www.computerworld.com/article/3714440/microsoft-is-holding-back-the-ai-pc-revolution.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3714440/microsoft-is-holding-back-the-ai-pc-revolution.amp.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 74
+    images:
+      - url: "https://images.idgesg.net/images/article/2024/03/samsung-galaxy-book-100962432-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 810
+        isCached: true
   - title: "Sonata Software integrates its AI solution with Microsoft Azure AI"
     excerpt: "Sonata Software has announced the integration of its Harmoni.AI with Microsoft Azure AI service. Sonata’s AI offering provides industry solutions, service delivery platforms, and accelerators. Using Microsoft Azure AI services, Sonata Harmoni.AI will ..."
     publishedDateTime: 2024-03-08T06:14:00Z

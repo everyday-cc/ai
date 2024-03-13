@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Automatic driving assistance systems may create more risks than they solve, study finds"
+    excerpt: "Nearly every automaker failed the Insurance Institute for Highway Safety's test, highlighting the ongoing safety risks of driver-assistance systems."
+    publishedDateTime: 2024-03-13T01:54:00Z
+    webUrl: "https://www.businessinsider.com/driving-assistance-systems-may-create-more-risks-than-solve-study-2024-3"
+    ampWebUrl: "https://www.businessinsider.com/driving-assistance-systems-may-create-more-risks-than-solve-study-2024-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/driving-assistance-systems-may-create-more-risks-than-solve-study-2024-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
+    images:
+      - url: "https://i.insider.com/65f0f5a36080194819ff3983?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Tesla Autopilot, similar automated driving systems rated 'poor' by safety group"
     excerpt: "The vast majority of automated driving systems tested by the Insurance Institute for Highway Safety's new ratings system were deemed \"poor\" based on their safeguards."
     publishedDateTime: 2024-03-12T21:00:00Z
@@ -76,6 +92,20 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2024/03/porsche-today-introduced-powerful-production-78209061.jpg?quality=75&strip=all&w=1024"
         width: 1024
         height: 682
+        isCached: true
+  - title: "Auto safety group gives most hands-free driving systems ‘poor’ ratings"
+    excerpt: "The Insurance Institute for Highway Safety (IIHS) announced Tuesday that nearly all partial driving automation systems received “poor” ratings in a new ratings program designed to improve safety on the road."
+    publishedDateTime: 2024-03-13T01:56:00Z
+    webUrl: "https://www.aol.com/news/auto-safety-group-gives-most-225613502.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 24
+    images:
+      - url: "https://media.zenfs.com/en/aol_the_hill_articles_315/b1654d5bbccd695739ec89dd125515a1"
+        width: 900
+        height: 506
         isCached: true
 
 secured: "+XZsqnBVPXwkZGsk83Zmez7r6cgiN0x8WyjqJwUKXwSw+wPyXwIpbvVTkH/lNdKX3gY9CKfdNvhbKQiIykcyoACj8kb9ZvFTh5ZGnSzXxuxnYUM0lSD1wIbHaL+Ru+3ndDp+8VZFyxatAekVjTH9XioXcPZB+3XOlP1kVPV8/OjaQRAt576LggiYutTyO0lPJCn5odrnqr5cT7GAHggPayQu/R9csJUsOKfrAI9tqpLWHdMxpiIU7zssWiNqLHgwkRvUZ2c2DNbJThR9BZ52yf5WpuGaitDnlTHMK3+P0JBWZEy6rfGNbWIn+ILHmh4bvq9Z87RGkrX5AGe6IedGzlcYpd/VMQxvOVLeLKZYsIFaQAKhROhXkSacHI9lcUsLD7cxF2RGM4S5UMLNKdtLpA6LV1tRwWQk+uSoO9nrvQ69BBQ/tSa0BYe2kIL9WZJUeGj2F4TL3gQY/QHyMSbgTdIpraI9wj2Qk53Lm2fJZc/w8WLfzSTXaFtjCE7UtL5Y6ly6RVbNl4fhzWAaNPgxWQ==;4PS3dzyNLb7nQuo95M1oZg=="

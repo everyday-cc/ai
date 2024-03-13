@@ -7,7 +7,7 @@ originalUrl: "https://in.mashable.com/tech/71008/google-geminis-latest-update-em
 webUrl: "https://in.mashable.com/tech/71008/google-geminis-latest-update-empowers-content-editing-with-ai-heres-how-you-can-do-it"
 type: article
 quality: 60
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google aims to relaunch Gemini AI image generation tool after addressing accuracy concerns"
+    excerpt: "This move comes as Google DeepMind CEO Demis Hassabis announced plans to reintroduce the Gemini AI image generation tool after addressing the inaccuracies that led to its temporary suspension"
+    publishedDateTime: 2024-03-12T10:43:00Z
+    webUrl: "https://www.tbsnews.net/tech/google-aims-relaunch-gemini-ai-image-generation-tool-after-addressing-accuracy-concerns-807942"
+    ampWebUrl: "https://www.tbsnews.net/tech/google-aims-relaunch-gemini-ai-image-generation-tool-after-addressing-accuracy-concerns-807942?amp"
+    cdnAmpWebUrl: "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/tech/google-aims-relaunch-gemini-ai-image-generation-tool-after-addressing-accuracy-concerns-807942?amp"
+    type: article
+    provider:
+      name: tbsnews
+      domain: tbsnews.net
+    quality: 49
+    images:
+      - url: "https://www.tbsnews.net/sites/default/files/styles/social_watermark_bkash/public/images/2024/03/12/unnamed_1701932823549_1710219051782-ezgif.com-avif-to-jpg-converter.jpg"
+        width: 600
+        height: 314
+        isCached: true
   - title: "Opinion: Gemini, Google’s latest AI tool, had a troubling talk with my ‘son’"
     excerpt: "Anti-White bias is hardly the only problem despite the company promise of “the most comprehensive safety evaluations”"
     publishedDateTime: 2024-03-12T12:30:00Z

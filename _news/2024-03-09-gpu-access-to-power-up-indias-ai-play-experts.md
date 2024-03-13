@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/tech/technology/gpu-access-to-power-up-i
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/amp_articleshow/108335973.cms"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -36,15 +36,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 61
-  - title: "India AI Mission: How India Plans To Lead in Artificial Intelligence"
-    excerpt: "The cabinet led by PM Narendra Modi has approved the national-level IndiaAI mission, allocating Rs 10,371.92 crore, aligning with a vision to foster AI for national benefit The IndiaAI mission aims to establish a robust ecosystem driving AI innovation via ..."
-    publishedDateTime: 2024-03-08T05:32:00Z
-    webUrl: "https://www.ndtv.com/webstories/feature/india-ai-mission-how-india-plans-to-lead-in-artificial-intelligence-14326"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 34
 
 secured: "iN4oiSBFi05+b23JXKuKDUqe38V8JVXcVAcHLoz5uNGDCdte6mvPKg+rNNV9k2R8hBgWUNGPgY9Y/YFx1mWn15tUhc35PTMh3zty7f2sPvo+UA2bAk5xxFvXE1JnHCaiicU+p406Mse2SojXDqIAHCb1/kRNSMwpDUesYk2i8YTk3/TZsnYiBZtl36NU+w4VtauR4QLgyfZOc08MID4zgUNL6y2fbdgkJiiq+To/YQl3d8oymyXscN8Bo6kuEp1OtwbG97puEsaL7++jImjeYiqdfFq7/Y9C6UDFcwYFKH+uKtmIUtXlMG9qaIjjM01WqoVdsXKGkiztlAMEO8gMMMcQLBftyF628MIrfuwcebc=;M5fgw8vqj4DrraHKxFH8pw=="
 ---

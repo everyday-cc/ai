@@ -7,7 +7,7 @@ originalUrl: "https://www.bernama.com/en/general/news.php?id=2277255"
 webUrl: "https://www.bernama.com/en/general/news.php?id=2277255"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,36 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mosti: AI ethics and governance guidelines nearing completion"
-    excerpt: "The development of the artificial intelligence (AI) code of ethics and governance guidelines has now reached 90 per cent, according to the Ministry"
-    publishedDateTime: 2024-03-08T05:01:00Z
-    webUrl: "https://www.malaymail.com/news/malaysia/2024/03/08/mosti-ai-ethics-and-governance-guidelines-nearing-completion/122212"
-    ampWebUrl: "https://www.malaymail.com/amp/news/malaysia/2024/03/08/mosti-ai-ethics-and-governance-guidelines-nearing-completion/122212"
-    cdnAmpWebUrl: "https://www-malaymail-com.cdn.ampproject.org/c/s/www.malaymail.com/amp/news/malaysia/2024/03/08/mosti-ai-ethics-and-governance-guidelines-nearing-completion/122212"
-    type: article
-    provider:
-      name: malaymail
-      domain: malaymail.com
-    quality: 74
-    images:
-      - url: "https://www.malaymail.com/malaymail/uploads/images/2024/03/08/192687.JPG?v=1709881260"
-        width: 1000
-        height: 679
-        isCached: true
-  - title: "AI code of ethics, governance guidelines almost complete, says ministry"
-    excerpt: "The development of the artificial intelligence (AI) code of ethics and governance guidelines has now reached 90%, according to the Science, Technology and Innovation Ministry."
-    publishedDateTime: 2024-03-08T05:26:00Z
-    webUrl: "https://www.thestar.com.my/news/nation/2024/03/08/ai-code-of-ethics-governance-guidelines-almost-complete-says-ministry"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 54
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2024/03/08/2581823.jpg"
-        width: 1240
-        height: 826
-        isCached: true
   - title: "AWANI Tonight: ai ethics, governance guidelines almost complete - MOSTI"
     excerpt: "According to MOSTI, the code of ethics and governance guidelines for artificial intelligence is 90% complete and will be presented the cabinet this month before its official launch in April."
     publishedDateTime: 2024-03-08T15:55:00Z

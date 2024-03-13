@@ -1,29 +1,22 @@
 ---
 category: news
 title: "CQG Unveils New First-of-its-Kind AI / Machine Learning Trading Toolkit for Predicting Futures Market Moves"
-excerpt: "CQG, a leading global provider of high-performance technology solutions for market makers, traders, brokers, commercial hedgers and"
-publishedDateTime: 2024-03-11T11:00:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/cqg-unveils-new-first-of-its-kind-ai--machine-learning-trading-toolkit-for-predicting-futures-market-moves-302084694.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/cqg-unveils-new-first-of-its-kind-ai--machine-learning-trading-toolkit-for-predicting-futures-market-moves-302084694.html"
+excerpt: "Based on the firm's deep experience in analytics, mathematics and market intelligence, the new ML initiative aims to offer retail traders and buy-side firms, including proprietary trading firms and hedge funds,"
+publishedDateTime: 2024-03-11T11:36:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2024/03/11/9975734.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2024/03/11/9975734.htm"
 type: article
-quality: 38
+quality: 16
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
-
-images:
-  - url: "https://mma.prnewswire.com/media/562279/CQG_Logo.jpg?p=facebook"
-    width: 2700
-    height: 1414
-    isCached: true
+  - AI
 
 related:
   - title: "CQG unveils machine learning toolkit for predicting futures market moves"
@@ -55,6 +48,6 @@ related:
         height: 1568
         isCached: true
 
-secured: "beQqg4YIOh4OMLGCXjlGQJQBOrM6WE5AdX9vWufLzZsaF7sHnKtrP39XbWDq6yFswQhvKi18GN5olmR++Z2QyE4mBDNp7mET4emmqde6FVTh3ShvMgsAfMHYmQTTqfdgq5hFVataMNl95J97otLXYJr0lcAeu+vIaw8X7LnK9PyfOHQTq1SI4z6scV6GyJWr6SKOdmbmEXXUGfna+5HlviO3QP3Y7CmIO3BZHvdxGr0c0iE2sVLNHfYTN5Kpnpmgf0r2PNx1jFjqGsNlFda3gahHajzBDOGyigot8RbieQ8rUr9CFQTBMEv0jbnhRyrWtcyDfWtDk7KBjd79+3nxYhDa+5YKSdgFzLXx/w7xSls=;E7gL3y+9uqc+eh2jOnQvCQ=="
+secured: "wx8aKY0shZXgxmPjfyg0vQzX707W7AbhK4ZMXYkmEzhM+yg0yv/B9VJD14OjoX8YRMc/Ek1Vt6DkmBTKmpl97SFZTFB0xsYhUiZ36/uQlI0cJzAhFqnHApVdR+/wMc9um+oDMVYp9ys31suoQR/qDJOoz7LWEUArzwpYOJzoTo/Nt1ErGSuFxWQ4+Yil0YIaovb9sZquZnwv4ci3KQyTNkP2z0UcLcd1e2ZtYT20sATE9iBIRotIyWqjLJAnN7z72p6788G0vZE30pMhwPIN4aKn+PiHZl36uZMzzLLFVzRo68///DtWxNMMYfieoh97g51UPACakP5KimBRowAzF9zxq3CxEfEYzCgHnNKFmIA=;k9jsAAnRPdktbC3Ln7dyiQ=="
 ---
 

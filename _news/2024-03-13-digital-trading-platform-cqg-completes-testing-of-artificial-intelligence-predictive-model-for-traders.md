@@ -39,20 +39,15 @@ related:
         height: 512
         isCached: true
   - title: "CQG Unveils New First-of-its-Kind AI / Machine Learning Trading Toolkit for Predicting Futures Market Moves"
-    excerpt: "CQG, a leading global provider of high-performance technology solutions for market makers, traders, brokers, commercial hedgers and"
-    publishedDateTime: 2024-03-11T11:00:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/cqg-unveils-new-first-of-its-kind-ai--machine-learning-trading-toolkit-for-predicting-futures-market-moves-302084694.html"
+    excerpt: "Based on the firm's deep experience in analytics, mathematics and market intelligence, the new ML initiative aims to offer retail traders and buy-side firms, including proprietary trading firms and hedge funds,"
+    publishedDateTime: 2024-03-11T11:36:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/11/9975734.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 38
-    images:
-      - url: "https://mma.prnewswire.com/media/562279/CQG_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 16
 
-secured: "/v8VKyNREsNKOdjA1bFz6hBPEiw5vaEydYFKlv5vOKiNIjFrxdaUDuq4qjh1KK+Q4Sk47XIa6FHeiU+YPZ4cFMt+re8wILQ9RIMKTcI+H9oTe7mWo/d9FCIUryLJf8Y/IsXrF9x89SmL7ziB50VC3kTd6qmPrZ0VB9FZky+ThN6cbcv3kJUT3h0Fr1Wp1w+9kzQ1CIMyq2QkDVD7rJNoaXCSJxCJ9WYzz+w9b8WvTVKCJOgb82LzpY5QReynS6npvPC3SDkurMlMNC5mITejc27IOT9KuCTRVE7RNLrMg16XEeBfeC/KxP3e/un2Wd6VDkSuuIEzzSSrtxE6xwjqggIP2jpMsgC9ANrFkkJWNXI=;HeaTHF152clK/FfEtcb29Q=="
+secured: "kZ7Sk8zSGBEMjDFrfUh3BI5S0jke7em1ovqpl+FR7pONDEOVvrvDU5nioruvo/YGta638lQa6d8wf/jZCSv6OoU3GEm4kU4SrEQoi1tFQg2T88vxmdOaHNJgA2ZtfCFFtAz34LyLewxmU9Jjll7taojw8FyD72tUIm+3A1aUb+o1/cYhHC/CMQZaq7HPJuUghql94OGqOe2i/EEkyg+6Js5+pqoyPaITXQWGoJ/272TuQbadu5fM5O8+yfSUwqyY4brKoTCb5wa6gEVBUfWvaXGku5GsucZfXRcenkT1PDPS2fQ44/bMQz8fL8itJrLOgVlV4GktazO8VJxjuE/Ri/5AR1ImdA1qEIJZQs/FAggmUMv8sZOo3eCDgdy/cgBlLSeLaRAxIol9qzytiDqLvlCSXd789WM77y2rI6v/nkwRK5+M18DkpZtFZIPzMBU0XxbkTKP1uRIskBKR9E3+i9PvcCm4cO8FLcS+8sKCsJN+79Md+Fp6ezM6pfYY49+uKJfH+d3vYbwCYgwo5zk/Tw==;KznmqvpZAhhXHJKLgdhNwA=="
 ---
 

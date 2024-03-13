@@ -33,6 +33,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google aims to relaunch Gemini AI image generation tool after addressing accuracy concerns"
+    excerpt: "This move comes as Google DeepMind CEO Demis Hassabis announced plans to reintroduce the Gemini AI image generation tool after addressing the inaccuracies that led to its temporary suspension"
+    publishedDateTime: 2024-03-12T10:43:00Z
+    webUrl: "https://www.tbsnews.net/tech/google-aims-relaunch-gemini-ai-image-generation-tool-after-addressing-accuracy-concerns-807942"
+    ampWebUrl: "https://www.tbsnews.net/tech/google-aims-relaunch-gemini-ai-image-generation-tool-after-addressing-accuracy-concerns-807942?amp"
+    cdnAmpWebUrl: "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/tech/google-aims-relaunch-gemini-ai-image-generation-tool-after-addressing-accuracy-concerns-807942?amp"
+    type: article
+    provider:
+      name: tbsnews
+      domain: tbsnews.net
+    quality: 49
+    images:
+      - url: "https://www.tbsnews.net/sites/default/files/styles/social_watermark_bkash/public/images/2024/03/12/unnamed_1701932823549_1710219051782-ezgif.com-avif-to-jpg-converter.jpg"
+        width: 600
+        height: 314
+        isCached: true
 
 secured: "MbKEYQfhr39P/2nWjotBuU7m+qa9qj3UEP4ad3KQjgc/Mdz1XNjb9mbksx64M865Ux+hOE3wKn0ZrPJt0sIVe2p1D3BxI6VRAx2jFsi5b0IAJ+OHzSfwpugd7bqUI3DSCzIJMrxLon0OLYavt975kiutOhIPibc/UL+WQw9Vbx+5wCuiEc23/VTHM9fTrYaao0TukS0UUgQMTiYm+O0edo7JQIe4xz5LSLSrb6cbthwsPblxekwpaoWqsBLvzdGDQAQ1+gfjKI0nTeQrqN7WH19b9lMhd8zR0P5jVh6Nkge7TQxWv7khHq6tZQ4wfHd6RZ73Roe+yhFAyDbkT7SZLjXNWy3nmXWz8ASCzhO6Udzn9S7LP0KWkvyLBvDPCHMfYGRlQvoTXi6n6oIwoRcyXddWSLs36xYlh2m57JIPjxNt3lw+YEDcnwN7QACstCVKvZDiR5vg2nKV/bhzxeYSrQ2hl1ovBdgVTQN1jmXHDkrVSus5HW2zZI6cbnRDsDJX+NFdZ2+7z1Ihq23PcvVDeA==;/aQYfOfolblZu5IaliHb3g=="
 ---
