@@ -108,6 +108,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Predators vs. Jets March 13 Tickets & Start Time"
+    excerpt: "Mark Scheifele and Filip Forsberg will be two of the most exciting players to watch when the Winnipeg Jets face the Nashville Predators at Canada Life Centre on Wednesday, March 13 at 7:30 PM ET. If you're looking to go to this game in person, head to Ticketmaster to purchase your tickets!"
+    publishedDateTime: 2024-03-13T01:01:00Z
+    webUrl: "https://www.waff.com/sports/betting/2024/03/13/predators-vs-jets-buy-nhl-tickets/"
+    type: article
+    provider:
+      name: WAFF
+      domain: waff.com
+    quality: 22
+    images:
+      - url: "https://gray-waff-prod.cdn.arcpublishing.com/resizer/v2/CTHV2OLVHVOT5I2KX5LR75Y26Y.jpg?auth=0a8b5d552ff569923cb774c89bdcec22f7bcac75f1e26ff61bfab69dc3855ec7&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Louisiana Tech vs. Middle Tennessee CUSA Tournament Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. The No. 7 seed Middle Tennessee Blue Raiders (13-18, 7-9 CUSA) will play in CUSA tournament against the No. 2 seed Louisiana Tech Bulldogs (22-9, 12-4 CUSA) on Wednesday at Von Braun Center, starting at 9:00 PM ET."
     publishedDateTime: 2024-03-10T10:23:00Z

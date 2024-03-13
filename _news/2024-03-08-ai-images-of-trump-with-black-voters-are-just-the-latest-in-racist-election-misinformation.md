@@ -28,20 +28,6 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 47
-  - title: "Oregon passes its first bills on artificial intelligence regulations"
-    excerpt: "Oregon lawmakers passed the first two bills in state history that regulate the use of artificial intelligence."
-    publishedDateTime: 2024-03-08T01:20:00Z
-    webUrl: "https://www.kgw.com/article/news/politics/first-oregon-bills-regulating-ai-head-governor/283-9da2dee5-a711-457e-afad-cf9d81e82513"
-    type: article
-    provider:
-      name: KGW8
-      domain: kgw.com
-    quality: 37
-    images:
-      - url: "https://media.kgw.com/assets/KGW/images/e34046b0-8c85-4cf6-a2af-3ddbdf3e89fd/e34046b0-8c85-4cf6-a2af-3ddbdf3e89fd_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Navigating the AI Frontier: The Crucial Role of Corporate Governance in Artificial Intelligence"
     excerpt: "While broad governance concepts regarding AI have been the talk of various government agencies and commissions, no sweeping legislation yet exists in the area of AI and none is expected soon. Therefore,"
     publishedDateTime: 2024-03-08T17:47:00Z

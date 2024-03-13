@@ -36,6 +36,15 @@ related:
         width: 1500
         height: 1500
         isCached: true
+  - title: "Four Stocks Set to Gain With The Rise of AI"
+    excerpt: "The latest SuperVision release boasts impressive figures, with 4Q23 revenues reaching $637 million, representing a 13% year-over-year growth. Notably, Mobileye successfully diversified its revenue streams across a wide range of OEMs and geographic regions, signaling robust market penetration and demand for its technologies."
+    publishedDateTime: 2024-03-11T09:43:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2024/03/11/four-stocks-set-to-gain-with-the-rise-of-ai"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 19
 
 secured: "9bXnsT4saAg+QBigA/McMwmiyGvk/eX6rqLnCqpAx9tWqY5zaxZdV/8tNMoOiyurs2lw8vrKPDAgA2Aj/SU3suc8mXcx9zWGqhnB+HK17wjP6cvFq5VVQtn3MKY+wBp5OoTygRdOPxRWahRSNY29TX29Ghq0z4F3Grq2j8eo6vfmjsZKE//8RFVTY/Y9Q5/7GqzEqzz0qJihwTsXOGNfYiC7l1DKSx7AEce/c/i/eUG3AEa3hyxE1Q6wby4BuXumNSc8yeAOg/Yy/79mFdA//U05QjT9HrFti+/KKOwXX7uxRYCWf1s9/u+1usRDAewYkJ4kKQBc7g7/D+W7nSJxOGKiuFCqKGW1w4wrB90elccS3Yj9bZ5suk9uh1Hge5cBMbLNeRRzp7ktHRFXTqliLc+zg58j299Ydxyp3Cv7l1Usb02ehL2fXw4UzMRyiC6n0gLswEcfcGjGXiyvMEX9Iju3xTA59kRi4M2XrLGpA+0MIY5CfdYFoiuQaiSm0cj3J5Ad1UrA+3jicD4hg+Bz4g==;OoP+YWRQG68a/RWJz3hx2w=="
 ---

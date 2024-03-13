@@ -2,6 +2,84 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2024-01-09-slow-and-steady-waymo-is-winning-the-self-driving-race.md",
+      "title": "Slow-and-Steady Waymo Is Winning the Self-Driving Race",
+      "excerpt": "That Waymo now stands ahead of its competitors should serve as a lesson to companies rushing forward with artificial intelligence: A little caution can pay off.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2024-01-09/slow-and-steady-waymo-is-winning-the-self-driving-race-for-alphabet",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2024-01-09/slow-and-steady-waymo-is-winning-the-self-driving-race-for-alphabet",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-09T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-09-cincinnati-hospitals-say-artificial-intelligence-like-chatgpt-can-help-patients-doctors.md",
+      "title": "Cincinnati hospitals say artificial intelligence like ChatGPT can help patients, doctors",
+      "excerpt": "All of Cincinnati’s major hospital systems are using artificial intelligence ... \"It’s evolved from many years ago. Healthcare has been using AI in the back office for quite some time.” Christ Hospital is partnering with Microsoft and Epic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/2024/01/08/ohio-hospitals-ai-chatgpt-doctors/72120842007/",
+      "originalUrl": "https://www.usatoday.com/story/news/2024/01/08/ohio-hospitals-ai-chatgpt-doctors/72120842007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-09T11:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-09-duolingo-translator-layoffs-spark-ai-debate.md",
       "title": "Duolingo Translator Layoffs Spark AI Debate",
       "excerpt": "Slator is the leading source of news and research for the global translation, localization, and language technology industry. Our Advisory practice is a trusted partner to clients looking for independent analysis. Headquartered in Zurich, Slator has a presence in Asia, Europe, and the US.",
@@ -990,94 +1068,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-the-future-of-education-exploring-the-benefits-of-a-hybrid-ms-in-machine-learning-at-the-university-of-arizona.md",
-      "title": "The Future of Education: Exploring the Benefits of a Hybrid MS in Machine Learning at the University of Arizona",
-      "excerpt": "In the era of technological advancements and educational innovation, the University of Arizona is pioneering a new path with its Hybrid MS in Machine Learning",
-      "sourceUrl": null,
-      "webUrl": "https://www.tribuneindia.com/news/impact-feature/the-future-of-education-exploring-the-benefits-of-a-hybrid-ms-in-machine-learning-at-the-university-of-arizona-579413",
-      "originalUrl": "https://www.tribuneindia.com/news/impact-feature/the-future-of-education-exploring-the-benefits-of-a-hybrid-ms-in-machine-learning-at-the-university-of-arizona-579413",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2024/1/2024_1$largeimg_1766553103.jpg",
-          "width": 655,
-          "height": 361,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.tribuneindia.com/news/impact-feature/the-future-of-education-exploring-the-benefits-of-a-hybrid-ms-in-machine-learning-at-the-university-of-arizona-579413",
-      "cdnAmpWebUrl": "https://m-tribuneindia-com.cdn.ampproject.org/c/s/m.tribuneindia.com/news/impact-feature/the-future-of-education-exploring-the-benefits-of-a-hybrid-ms-in-machine-learning-at-the-university-of-arizona-579413",
-      "publishedDateTime": "2024-01-08T13:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tribune",
-        "domain": "tribuneindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-an-elevated-retail-advertising-experience-with-vsbltys-cutting-edge-computer-vision-ai.md",
-      "title": "An Elevated Retail Advertising Experience With VSBLTY's Cutting-Edge Computer Vision AI",
-      "excerpt": "Jay Hutton, the CEO, President, and Director of VSBLTY Groupe Technologies Corp. (OTCQB:  VSBGF | CSE:  VSBY | Frankfurt  5VS), delves into the company's latest technological breakthroughs, the strategic acquisition of Shelf Nine,",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/markets/emerging-markets/24/01/36533865/an-elevated-retail-advertising-experience-with-vsbltys-cutting-edge-computer-vision-ai",
-      "originalUrl": "https://www.benzinga.com/markets/emerging-markets/24/01/36533865/an-elevated-retail-advertising-experience-with-vsbltys-cutting-edge-computer-vision-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2024/01/08/vsblty_-_benzinga_featured_image.png?width=1200&height=800&fit=crop",
-          "width": 810,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/36533865",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36533865",
-      "publishedDateTime": "2024-01-08T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

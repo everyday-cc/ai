@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Samsung to use chip making tech favoured by SK Hynix as AI chip race heats up"
+    excerpt: "The demand for high bandwidth memory (HBM) chips has boomed with the growing popularity of generative AI. But Samsung, unlike peers SK Hynix and Micron Technology, has been conspicuous by its absence in any dealmaking with AI chip leader Nvidia to supply latest HBM chips."
+    publishedDateTime: 2024-03-13T00:55:00Z
+    webUrl: "https://www.moneycontrol.com/news/world/samsung-to-use-chip-making-tech-favoured-by-sk-hynix-as-ai-chip-race-heats-up-12448511.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/world/samsung-to-use-chip-making-tech-favoured-by-sk-hynix-as-ai-chip-race-heats-up-12448511.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/samsung-to-use-chip-making-tech-favoured-by-sk-hynix-as-ai-chip-race-heats-up-12448511.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 71
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2023/01/Samsung.png"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Samsung eyes opportunity in AI chip manufacturing market amid TSMC dominance"
     excerpt: "As companies strive to establish themselves in the AI era, the South Korean industry is monitoring whether Samsung Electronics can capitalize on the AI chip orders."
     publishedDateTime: 2024-03-11T04:27:00Z

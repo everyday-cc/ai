@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/hessiejones/2024/03/12/mia-shah-dands-r
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2024/03/12/mia-shah-dands-race-to-bridge-the-ai-gender-gap-for-a-human-centred-world/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://images.firstpost.com/uploads/2024/03/AI1200WC-2024-03-c90ec9571c28ed98d00b0a500e35c3d6.jpg?im=FitAndFill=(1200,675)"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Vast Data unveils new data centre architecture for the AI factory"
+    excerpt: "Vast Data, the AI data platform company, today unveiled a new AI cloud architecture designed to deliver unprecedented levels of performance, quality of service, zero-trust security, and space/cost/power efficiency for the AI factory."
+    publishedDateTime: 2024-03-13T01:52:00Z
+    webUrl: "https://itwire.com/guest-articles/company-news/vast-data-unveils-new-data-centre-architecture-for-the-ai-factory.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 39
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/acf7c83af4178b0353c31bc1292f1e69_M.jpg"
+        width: 375
+        height: 563
         isCached: true
 
 secured: "cVk0dlhde1Tu8IL9eP84luhIk2gsVdN03qRvk8/UyQUPYGtx4fTtDlIO3mptgCaqocun63vqkgB1DLPFs+gJjDF3SfwoZqhUkOQExphW/AJbuXNWQSZGW+XM92mNZM+tWgZXdm0V0fKjbc044VhpmUeYNAJCkQ5hXirtndoOO66LxFNaRitDs8MnBYdwscR2I1EqrLnlGOT8QXHq393nlQi/pjmL5CV/+nidFHKtwAqKpWhQjg8ZQwhn2baeE0swTyuShTSo44ElmihPSpG4M3BMiWioPh6ZzwsvfTEOVl1x+B2I0gVVbYwhvV6IhVojU/LColKw5fMle6SelFek+9CYkRzDu3w73nO6WIgj9jO6KEOFZONllDSK+eqEcih/CuMoxUXxBRsE1NWzOxCjAQMUhzxKOqSmyTXnbfvb5LIUBFApDalae80A5WsiRw+ETRZoMKNKph6e2R5pfNJb6LfyPqrtbosYpd0c3RmE77xNSSH5aBeDJM0Xa8JTiCMKRYuE/vDQvT2x9VHLRHX5CQ==;SMzz7GNE6rkFMlYU3+7QaA=="

@@ -43,6 +43,20 @@ related:
         width: 1599
         height: 900
         isCached: true
+  - title: "Vast Data unveils new data centre architecture for the AI factory"
+    excerpt: "Vast Data, the AI data platform company, today unveiled a new AI cloud architecture designed to deliver unprecedented levels of performance, quality of service, zero-trust security, and space/cost/power efficiency for the AI factory."
+    publishedDateTime: 2024-03-13T01:52:00Z
+    webUrl: "https://itwire.com/guest-articles/company-news/vast-data-unveils-new-data-centre-architecture-for-the-ai-factory.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 39
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/acf7c83af4178b0353c31bc1292f1e69_M.jpg"
+        width: 375
+        height: 563
+        isCached: true
 
 secured: "1n+LidSr5Vr5pXXOBKRywYKp1WCLj3uytXSJpVEZBJOxq1tMlGYhvwgsf16Y605TZ5fhuRD9r08J/pxHE3aLbY2a2KAU5FHRQiBNNGb3+GS4s6Gckh1YNwMCSDtZK5avI/FZUUistl/HuK864hYjiNCANjIC31pMIjhAJs+3l068HXBUJT8RYvsikuDpuryJ8eG4Qx+qyMI/4MKfjuH8HjjkF5TONZVHh+8N/G0wWmAmPQZVScFUFCYG5z4RC3f0fC8Juj/oJI16K3nu39Ze8Mb89lK4Zk4KVCLjKgx/13Uq0d9ovYFBrpeH8v2lC5bqhN+umlM6/S6pMWdyZNaDZmpvgNhKnmeh6J7uBk4MPo4=;gUlq35pMFIf49DJqlITD4w=="
 ---

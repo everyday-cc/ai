@@ -1,23 +1,29 @@
 ---
 category: news
-title: "Ancient scrolls are being ‘read’ by machine learning — with human knowledge to detect language and make sense of them"
-excerpt: "However exciting the technological developments may be, the task of reading and analyzing the Greek and Latin texts recovered from the papyri will fall to human beings."
-publishedDateTime: 2024-03-12T18:53:00Z
-originalUrl: "https://theconversation.com/ancient-scrolls-are-being-read-by-machine-learning-with-human-knowledge-to-detect-language-and-make-sense-of-them-224334"
-webUrl: "https://theconversation.com/ancient-scrolls-are-being-read-by-machine-learning-with-human-knowledge-to-detect-language-and-make-sense-of-them-224334"
+title: "Ancient Scrolls Are Being 'Read' By Machine Learning - With Human Knowledge To Detect Language And Make Sense Of Them"
+excerpt: "A groundbreaking announcement for the recovery of lost ancient literature was recently made. Using a non-invasive method that harnesses machine lear"
+publishedDateTime: 2024-03-13T00:20:00Z
+originalUrl: "https://menafn.com/1107969113/Ancient-Scrolls-Are-Being-Read-By-Machine-Learning-With-Human-Knowledge-To-Detect-Language-And-Make-Sense-Of-Them"
+webUrl: "https://menafn.com/1107969113/Ancient-Scrolls-Are-Being-Read-By-Machine-Learning-With-Human-Knowledge-To-Detect-Language-And-Make-Sense-Of-Them"
 type: article
-quality: 0
-heat: 0
+quality: 16
+heat: 16
 published: false
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "1LX6wnmIN05SyUkXWynVIwrvZ/QJt8zdebByZ0Ly9NuKHv0/vhxZFWbKsx3dIjPPx2J9awnyq4ckIzOY0xXXgC8yjrtWX3nynK3xfl6xYY04QYaqxOBORgBb65GirB9F0Ze5bJSy+Jfh5IcdU9RjiO7qh2A7GWG2jgAWjXS/LJAzt37/cmS9gbsZrMha+F57CI5dfvwnWvxTwNW7FsLh6A1tA1rD9hMuEyH9rJMQiMATA6TfLxIMPO6lVlftwnGIvWPVqdLQNgMBXKsmecrvAsaQLMzDXYc+S5YnJVcxyNU0iqyqw7pSRm04toYTld3Kmd23LEIXsHcQ5jK6JnEuwUlZCZAsp5fTGaQY+QrALsa9pnY9sZw2d53BSw+XGygnOEziVv8u66boiKvYlPb83VZ1zxmRlobAEyeQNtZU8EQNIJQRgkgvoRheavluX/4Jk+CimhJXH+h0tVGi5TiUMhUtt01PsMOmJv2ltTJPwoiTjyvj/aE3bvWo0gncttUtLu8HQhFDu3crRzJGBPfkRA==;JvYMnHuHTvNAlg/4ww9sxw=="
+images:
+  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?118493"
+    width: 476
+    height: 250
+    isCached: true
+
+secured: "bKwxj/fJpiqGQUCdRTzNPqoAjGXDQSouoIWjpdNLOdD3FEYuoOLNQfR35enrG8tsJiu/pweR5ppeWpVi282xUddW9/GGDLhWaweqejzauSjNkbJ9qzDSRPGdqrcec7pGLtUSAAMRRGn/6VfW/+ksGwUXnxUPkxzVNRrOTJSSpMKCcT/xghpgL5W8RyDgFj+CC97QIiVT708FKFgYk/+3sA5knyVXw2rUU54e/3xGwQJcoxTdsul2FEXJBO4fQd5BH4K67rTVTUMNHpGMIP5V0y0NdioTkgOm3jJez0Uv4844lTP1ZUYTVrAz7a02AtPIzhX9WY6k+MwlbonVPhFnsPnLTcwf+7P8M3JiQWOffGM=;MttKPEisYxXtbUdp38gOBQ=="
 ---
 

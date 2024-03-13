@@ -2,6 +2,74 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2024-02-27-artificial-intelligence-used-to-cut-down-on-emergency-response-times.md",
+      "title": "Artificial Intelligence used to cut down on emergency response times",
+      "excerpt": "SAN JOSE, Calif. - Artificial Intelligence, also known as AI, has blasted onto the scene with concerning results and discussions about federal oversight and regulation. However, a Silicon Valley ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ktvu.com/news/artificial-intelligence-used-to-cut-down-on-emergency-response-times",
+      "originalUrl": "https://www.ktvu.com/news/artificial-intelligence-used-to-cut-down-on-emergency-response-times",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.ktvu.com/news/artificial-intelligence-used-to-cut-down-on-emergency-response-times.amp",
+      "cdnAmpWebUrl": "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/artificial-intelligence-used-to-cut-down-on-emergency-response-times.amp",
+      "publishedDateTime": "2024-02-26T19:26:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTVU",
+        "domain": "ktvu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-27-google-to-relaunch-woke-gemini-ai-image-tool-in-few-weeks-not-working-the-way-we-intended.md",
+      "title": "Google to relaunch ‘woke’ Gemini AI image tool in few weeks: ‘Not working the way we intended’",
+      "excerpt": "We are hoping to have that back online very shortly in the next couple of weeks, few weeks,” Google DeepMind CEO Demis Hassabis said Monday. The tool was not “working the way we intended ...",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2024/02/26/business/google-to-relaunch-woke-gemini-ai-image-tool-in-few-weeks/",
+      "originalUrl": "https://nypost.com/2024/02/26/business/google-to-relaunch-woke-gemini-ai-image-tool-in-few-weeks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-26T18:57:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-27-us-military-utilizes-ai-in-middle-east-operations-weve-been-using-computer-vision.md",
       "title": "US Military Utilizes AI In Middle East Operations: 'We've Been Using Computer Vision'",
       "excerpt": "Military confirms use of AI in airstrikes in Middle East, highlighting its growing role in combat operations & future of warfare.",
@@ -1056,93 +1124,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-baidu-and-ponyai-receive-permit-to-offer-robotaxis-at-daxing-airport.md",
-      "title": "Baidu and Pony.ai receive permit to offer robotaxis at Daxing airport",
-      "excerpt": "Chinese tech heavyweight Baidu Inc and self-driving startup Pony.ai have received permits to offer autonomous vehicle services at Beijing Daxing International Airport, a key step that indicates Beijing has become the world's first capital city to run passenger-carrying robotaxis from urban areas to the airport.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202402/26/WS65dc29eda31082fc043b9187.html?prefer_reader_view=1&prefer_safari=1",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202402/26/WS65dc29eda31082fc043b9187.html?prefer_reader_view=1&prefer_safari=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202402/26/65dc29eda31082fc2b6925e8.jpeg",
-          "width": 1078,
-          "height": 718,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-26T06:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-feature-singapore-embraces-ai-to-solve-everyday-problems.md",
-      "title": "FEATURE – Singapore embraces AI to solve everyday problems",
-      "excerpt": "The booking chatbot is among more than 100 generative AI-based solutions spurred by the AI Trailblazers project",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/digital-transformation-feature-singapore-embraces-ai-to-solve-everyday-problems-3405092/",
-      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-feature-singapore-embraces-ai-to-solve-everyday-problems-3405092/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2024/02/Untitled-design-2024-02-26T111246.396.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-feature-singapore-embraces-ai-to-solve-everyday-problems-3405092/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-feature-singapore-embraces-ai-to-solve-everyday-problems-3405092/lite/",
-      "publishedDateTime": "2024-02-26T05:47:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Meta AI"
       ]
     }
   ],

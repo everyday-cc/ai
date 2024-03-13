@@ -35,6 +35,15 @@ related:
       name: Mint
       domain: livemint.com
     quality: 41
+  - title: "Four Stocks Set to Gain With The Rise of AI"
+    excerpt: "The latest SuperVision release boasts impressive figures, with 4Q23 revenues reaching $637 million, representing a 13% year-over-year growth. Notably, Mobileye successfully diversified its revenue streams across a wide range of OEMs and geographic regions, signaling robust market penetration and demand for its technologies."
+    publishedDateTime: 2024-03-11T09:43:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2024/03/11/four-stocks-set-to-gain-with-the-rise-of-ai"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 19
 
 secured: "HdOOGBQOzy/3oqx1chAzz0iefo7ePOOgWFcIXEa0Pg5CQsRhzJtdEZZv10Rx9O3I7TisM/5k+oPoGyG63yu/v0iKTWK59WqsZTBv5hslCxAsCUb4arWimD0gb0OlMSHn/YInCVojISRI/i/yl3o3htKAPV4LYGzOljWCTaKP1XFPvX5DZBlK1B716VM4G0OxuhpLamQc8hSWVUiPzi1Wy2/gdRdTXdufCi5UQRprJsknDjQlYoT2MRzbakIpOPUgU89n+f3LNvoLhjh1R/vtvsBkjYPhsTx0yuc2q4Rn9dSDnrM54q9B6d/4Xz0kB/6YXfyR72LetbaA3bWTG4QnsrEhmq5rd4CvxXAVjCnHh75TQ1XrLtpXk7bWgwW8ynu8KZkprcMKsow0Qvb5AmkiQkVpq6EoHrhOVdMiDKgRUOh+ch095eDhVq8PIfgD396MN+NSnpWW3+BTy3x+IIXOD/rcXvUGTwWxHOGbbiLBJLZWfwlyA3Ko7aJcBKt0fiV72pgp6DyPrYUs4uOyAubNYQ==;lBm6dpqVCYhtsf0fKi3eeQ=="
 ---

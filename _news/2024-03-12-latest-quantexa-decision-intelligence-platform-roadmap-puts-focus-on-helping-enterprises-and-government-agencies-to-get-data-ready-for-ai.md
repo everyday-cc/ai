@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/2024/03/12/9977076.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2024/03/12/9977076.htm"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+related:
+  - title: "Latest Quantexa Decision Intelligence Platform Roadmap Puts Focus on Helping Enterprises and Government Agencies to Get Data Ready For AI"
+    excerpt: "Latest Quantexa Decision Intelligence Platform Roadmap Puts Focus on Helping Enterprises and Government Agencies to Get Data Ready For AI GlobeNewswire March 12, 2024"
+    publishedDateTime: 2024-03-13T00:00:00Z
+    webUrl: "https://www.asiaone.com/business/latest-quantexa-decision-intelligence-platform-roadmap-puts-focus-helping-enterprises-and"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 6
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Mar2024/Notified-GlobeNewswire-Color-Large_183.jpg?h=10d202d3&itok=Oll5hNnr"
+        width: 600
+        height: 316
+        isCached: true
 
 secured: "oA+jjPfGh7KY+ckdsjL6l1QxbO9Fwv3SpMT3CY7pS1zrlYLfhN+Xi1ffW+8PrPJpzEl+U56M3gJ1mYRZW+516fSPDkNCfCj2sGRhWOPvU/FvVhNJ4+4CbIvyR/pNiQ5iSlOpzUSsX47yChK0ANQFPLTnBtGfYzUDiWujgbdVYE3MhSTRDzzWIA9d7Jr1mJ3oQYMrME8POGBlyUNFT+/Tt3cfsjYciuGenbbp4vy4HJeQ3aMLK+fwmy65wqOU8fO+PeCscg5Vb9Br8+3b+GnZMoyohv4a7V534lma7YZ5dn8fRAo+OBYvujxqHUJRdijvkQwom3/FeAkD0tM12GpuuVMGYzsxdi4oh0X/DR17pCo=;7kLvx7SbWyFAbs+6rapr8Q=="
 ---

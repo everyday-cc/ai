@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Broadcom sees $10 billion in AI chip sales in 2024, but shares dip"
-    excerpt: "Broadcom said on Thursday it expects $10 billion in revenue from chips related to artificial intelligence this year, but its stock dipped after the tech company's full-year forecast failed to impress investors."
-    publishedDateTime: 2024-03-08T01:26:00Z
-    webUrl: "https://www.channelnewsasia.com/business/broadcom-sees-10-billion-ai-chip-sales-2024-shares-dip-4179761"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 73
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--XBz9cV5f--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-03-07t212055z_1_lynxnpek260v6_rtroptp_3_broadcom-results.jpg?itok=YnG8Pxn5"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Broadcom soars as AI chip sales push revenue forecasts beyond US$10 billion"
     excerpt: "Nvidia's rising profitability amid the AI surge has captivated attention from around the globe. However, regarding AI chip revenue, SemiAnalysis analysts have highlighted that Broadcom might be considered the world's second-largest firm."
     publishedDateTime: 2024-03-12T01:50:00Z

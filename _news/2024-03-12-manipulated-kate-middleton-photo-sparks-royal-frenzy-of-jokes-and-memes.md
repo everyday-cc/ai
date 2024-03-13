@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lesliekatz/2024/03/11/altered-kate-midd
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lesliekatz/2024/03/11/altered-kate-middleton-photo-sparks-royal-frenzy-of-jokes-and-memes/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 49
+  - title: "Kate Middleton’s ‘photogate’ scandal reveals a lot about the royal family’s press strategies"
+    excerpt: "The \"photogate\" scandal is a new chapter in the thorny relationship between the media and Britain’s royal family."
+    publishedDateTime: 2024-03-13T01:00:00Z
+    webUrl: "https://ktar.com/story/5566716/kate-middletons-photogate-scandal-reveals-a-lot-about-royal-family-press/"
+    type: article
+    provider:
+      name: KTAR News
+      domain: ktar.com
+    quality: 13
+    images:
+      - url: "https://ktar.com/wp-content/uploads/2024/03/royal-family-photogate-Kate-Middleton.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "U+5BNacQ9nERK5096bTbNy1U1Y6hrFdRd6ily4vdgMzmbyFmpDh6RWo42MxRnYWJzGXDmZTXiiixaJfygPamOUGNYDS/ErF+zR5QyLMs4XsM4FMasGfehDRSA+6UmCnAzlrUdUC30cIqYod2k2j+mO+mVeJayZAmTtGmu1lLXTOyJrwBJbttFMZZfXzLIpiVXDyCwiHEowPhAgLESaGHp8bLZDy8kBbHvKhe5MVrds2TmNGRHzYnnq1u29OscDnCcc/fKQkNKwaeIjy2AZlKtVTZkpJeRymtg0Wwu62yFxKp9gfmLngxJxiWKJ6oOmII/TEV9aJc9YVH6tG/hAIx/vI5fNIn/UsWHv2R8bOFVRo=;uCbTys3LDKo+Ohdn1/OxPg=="
 ---

@@ -39,6 +39,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Kate Middleton’s ‘photogate’ scandal reveals a lot about the royal family’s press strategies"
+    excerpt: "The \"photogate\" scandal is a new chapter in the thorny relationship between the media and Britain’s royal family."
+    publishedDateTime: 2024-03-13T01:00:00Z
+    webUrl: "https://ktar.com/story/5566716/kate-middletons-photogate-scandal-reveals-a-lot-about-royal-family-press/"
+    type: article
+    provider:
+      name: KTAR News
+      domain: ktar.com
+    quality: 13
+    images:
+      - url: "https://ktar.com/wp-content/uploads/2024/03/royal-family-photogate-Kate-Middleton.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "d3wiTVxDk4SsMAauZ0jX24zqtJf98SC4w+Ui5iL0IapnNDAKG2wpHPv/otRRQEKfJ80jLeH791Jb2kE/ve4fRRztkgX/nzN/9COcThctTAubmy/WuXx3J4w8rZ9Uh1zGykl/HRTMW5XmoRCZvSR76ROuxzxdnzDBvi2AvF+jr11lAkklETXpdZ1OkYYhdUFM0/e4lGvgVMXhhusgGHs/1iIQ6vb7CeFQc1siBxMXrrp8YbTSRvCUf4xcy8TsGLlZQc1nux08GVbsUg/g/eG2CX7q+eTQiBJUyeDIaQBAE0dEayVT+h7dOybZjwzly7AOB7miZlFLjrbXZkzJ+1JgByFPEBDFTOKOiwi9vmZH9SttXva0Rria7a1qCCESu/Iz6xjSEcMbIxyX5YCo6ooMTVxOUPg22SOnaHkeHNRg3tfIPeaT0tyxqfkOKjx0XmHWSlOxlwbCtoNn7hnbGKRUJ+iohXBJRhpcMzNl80SR/4v7Jp4Fx+CL/o08OQmUdg1Q398vxfJdx3KY/+keg1qkPQ==;cBRKvAcCFaUd+zPR6VuUAA=="
 ---

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-13-samsung-to-use-chip-making-tech-favoured-by-sk-hynix-as-ai-chip-race-heats-up.md",
+      "title": "Samsung to use chip making tech favoured by SK Hynix as AI chip race heats up",
+      "excerpt": "The demand for high bandwidth memory (HBM) chips has boomed with the growing popularity of generative AI. But Samsung, unlike peers SK Hynix and Micron Technology, has been conspicuous by its absence in any dealmaking with AI chip leader Nvidia to supply latest HBM chips.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/world/samsung-to-use-chip-making-tech-favoured-by-sk-hynix-as-ai-chip-race-heats-up-12448511.html",
+      "originalUrl": "https://www.moneycontrol.com/news/world/samsung-to-use-chip-making-tech-favoured-by-sk-hynix-as-ai-chip-race-heats-up-12448511.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2023/01/Samsung.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/world/samsung-to-use-chip-making-tech-favoured-by-sk-hynix-as-ai-chip-race-heats-up-12448511.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/samsung-to-use-chip-making-tech-favoured-by-sk-hynix-as-ai-chip-race-heats-up-12448511.html/amp",
+      "publishedDateTime": "2024-03-13T00:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-13-qualcomm-on-device-ai-powers-future-products-from-phones-to-pcs.md",
       "title": "Qualcomm On-Device AI Powers Future Products From Phones To PCs",
       "excerpt": "Goodson provides details on Qualcomm's newest products designed to enable on-device AI as announced at the Mobile World Congress Barcelona event.",
@@ -55,6 +98,58 @@
       ]
     },
     {
+      "path": "_news/2024-03-13-how-to-make-better-bricks-for-better-homes-in-nepal.md",
+      "title": "How To Make Better Bricks For Better Homes In Nepal",
+      "excerpt": "Engineers and entrepreneurs in Nepal are using a different kind of brick to rebuild the country using a process that produce less carbon and other air pollution.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/andrewwight/2024/03/12/how-to-make-better-bricks-for-better-homes-in-nepal/",
+      "originalUrl": "https://www.forbes.com/sites/andrewwight/2024/03/12/how-to-make-better-bricks-for-better-homes-in-nepal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65f095ed0d6f3c491025ce54/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/andrewwight/2024/03/12/how-to-make-better-bricks-for-better-homes-in-nepal/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewwight/2024/03/12/how-to-make-better-bricks-for-better-homes-in-nepal/amp/",
+      "publishedDateTime": "2024-03-12T22:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-13-mia-shah-dands-race-to-bridge-the-ai-gender-gap-for-a-human-centred-world.md",
       "title": "Mia Shah-Dand’s Race To Bridge The AI Gender Gap For A Human-Centred World",
       "excerpt": "Mia Shah-Dand is building a counter narrative to give voice and due credit to incredible women that shape technology– despite the stagnation in STEM, the gender pay gap, and the disproportionate funding gap.",
@@ -63,7 +158,7 @@
       "originalUrl": "https://www.forbes.com/sites/hessiejones/2024/03/12/mia-shah-dands-race-to-bridge-the-ai-gender-gap-for-a-human-centred-world/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -311,6 +406,48 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-13-us-spearheads-first-un-resolution-on-artificial-intelligence-aimed-at-ensuring-equal-access.md",
+      "title": "US spearheads first UN resolution on artificial intelligence — aimed at ensuring equal access",
+      "excerpt": "UNITED NATIONS (AP) — The United States is spearheading the first United Nations resolution on artificial intelligence, aimed at ensuring the new technology is “safe, secure and trustworthy” and that all countries, especially those in the developing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.twincities.com/2024/03/12/us-spearheads-first-un-resolution-on-artificial-intelligence-aimed-at-ensuring-equal-access/",
+      "originalUrl": "https://www.twincities.com/2024/03/12/us-spearheads-first-un-resolution-on-artificial-intelligence-aimed-at-ensuring-equal-access/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.twincities.com/wp-content/uploads/2024/03/United_Nations-Artificial_Intelligence_71823.jpg?w=1024&h=682",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.twincities.com/2024/03/12/us-spearheads-first-un-resolution-on-artificial-intelligence-aimed-at-ensuring-equal-access/amp/",
+      "cdnAmpWebUrl": "https://www-twincities-com.cdn.ampproject.org/c/s/www.twincities.com/2024/03/12/us-spearheads-first-un-resolution-on-artificial-intelligence-aimed-at-ensuring-equal-access/amp/",
+      "publishedDateTime": "2024-03-12T19:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TwinCities.com",
+        "domain": "twincities.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -566,7 +703,7 @@
       "originalUrl": "https://techcrunch.com/2024/03/12/google-play-store-will-show-ai-powered-faqs-and-latest-youtube-videos-for-games/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1119,145 +1256,6 @@
         "AI Ethics",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-new-ai-robotics-spacetech-and-fintech-unicorns-trot-onto-the-unicorn-board-in-february.md",
-      "title": "New AI, Robotics, Spacetech And Fintech Unicorns Trot Onto The Unicorn Board In February",
-      "excerpt": "Ten new unicorns added more than $18 billion in value to The Crunchbase Unicorn Board in February, but one company was also downgraded from unicorn status and fell off the board.",
-      "sourceUrl": null,
-      "webUrl": "https://news.crunchbase.com/ai/new-unicorn-board-companies-february-2024-moonshot-ai/",
-      "originalUrl": "https://news.crunchbase.com/ai/new-unicorn-board-companies-february-2024-moonshot-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.crunchbase.com/wp-content/uploads/unicornboard_hero-resized.jpg",
-          "width": 900,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-12T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "news.crunchbase",
-        "domain": "crunchbase.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-chatgpt-and-generative-ai-innovations-are-creating-sustainability-havoc.md",
-      "title": "ChatGPT And Generative AI Innovations Are Creating Sustainability Havoc",
-      "excerpt": "This article discusses the risks of ChatGPT and Generative AI innovations are having on sustainability goals and highlights the energy and water consumption risks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2024/03/12/chatgpt-and-generative-ai-innovations-are-creating-sustainability-havoc/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2024/03/12/chatgpt-and-generative-ai-innovations-are-creating-sustainability-havoc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65f031a4a360eaa0853ec14c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-12T10:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-apple-making-new-m4-chip-for-macbook-pro-will-give-it-more-power-to-handle-ai-tasks.md",
-      "title": "Apple making new M4 chip for Macbook Pro, will give it more power to handle AI tasks",
-      "excerpt": "Apple is gearing up to take AI capabilities to the next level with its upcoming M4 chip for the new MacBook Pro. The tech giant is focusing on enhancing Neural Engine cores, potentially revolutionising tasks like voice recognition,",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatoday.in/technology/news/story/apple-is-making-the-new-m4-chip-for-macbook-pro-more-powerful-to-handle-ai-related-tasks-2513829-2024-03-12",
-      "originalUrl": "https://www.indiatoday.in/technology/news/story/apple-is-making-the-new-m4-chip-for-macbook-pro-more-powerful-to-handle-ai-related-tasks-2513829-2024-03-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202403/macbook-pro-120301723-16x9_1.jpg?VersionId=EFQksKw7Z.VL3lI8JZDY80Cbh5KgxQqt",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.indiatoday.in/amp/technology/news/story/apple-is-making-the-new-m4-chip-for-macbook-pro-more-powerful-to-handle-ai-related-tasks-2513829-2024-03-12",
-      "cdnAmpWebUrl": "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/technology/news/story/apple-is-making-the-new-m4-chip-for-macbook-pro-more-powerful-to-handle-ai-related-tasks-2513829-2024-03-12",
-      "publishedDateTime": "2024-03-12T10:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Today",
-        "domain": "indiatoday.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

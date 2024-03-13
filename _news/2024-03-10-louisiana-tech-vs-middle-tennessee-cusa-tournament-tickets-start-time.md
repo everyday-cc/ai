@@ -122,6 +122,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Predators vs. Jets March 13 Tickets & Start Time"
+    excerpt: "Mark Scheifele and Filip Forsberg will be two of the most exciting players to watch when the Winnipeg Jets face the Nashville Predators at Canada Life Centre on Wednesday, March 13 at 7:30 PM ET. If you're looking to go to this game in person, head to Ticketmaster to purchase your tickets!"
+    publishedDateTime: 2024-03-13T01:01:00Z
+    webUrl: "https://www.waff.com/sports/betting/2024/03/13/predators-vs-jets-buy-nhl-tickets/"
+    type: article
+    provider:
+      name: WAFF
+      domain: waff.com
+    quality: 22
+    images:
+      - url: "https://gray-waff-prod.cdn.arcpublishing.com/resizer/v2/CTHV2OLVHVOT5I2KX5LR75Y26Y.jpg?auth=0a8b5d552ff569923cb774c89bdcec22f7bcac75f1e26ff61bfab69dc3855ec7&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Texas vs. Kansas Big 12 Tournament Women's Basketball Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. The No. 2 seed Texas Longhorns (27-4 ... UAB AAC Tournament Women's Basketball Tickets & Start Time UT Rio Grande Valley vs. Southern Utah March 9 Women's Basketball Tickets & Start Time Abilene Christian vs."
     publishedDateTime: 2024-03-09T18:07:00Z

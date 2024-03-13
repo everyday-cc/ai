@@ -19,29 +19,31 @@ topics:
   - AI
 
 related:
-  - title: "The 3 Best Artificial Intelligence Stocks to Invest In for Big Gains in 2024"
-    excerpt: "Spread the loveArtificial Intelligence (AI) is not just a buzzword; it’s the frontier of technological advancement that is integrating into every aspect of our lives. As AI technology continues to evolve,"
-    publishedDateTime: 2024-03-11T09:20:00Z
-    webUrl: "https://www.thetechedvocate.org/the-3-best-artificial-intelligence-stocks-to-invest-in-for-big-gains-in-2024/"
+  - title: "The landscape of the other AI war is set to change"
+    excerpt: "Nvidia dominates the market for GPUs, the central hardware to the AI boom today. However, tech giants and challengers want a bigger slice of that pie."
+    publishedDateTime: 2024-03-11T06:42:00Z
+    webUrl: "https://www.livemint.com/ai/the-landscape-of-the-other-ai-war-is-set-to-change-11710137860314.html"
+    ampWebUrl: "https://www.livemint.com/ai/the-landscape-of-the-other-ai-war-is-set-to-change/amp-11710137860314.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/the-landscape-of-the-other-ai-war-is-set-to-change/amp-11710137860314.html"
     type: article
     provider:
-      name: thetechedvocate.org
-      domain: thetechedvocate.org
-    quality: 51
+      name: Mint
+      domain: livemint.com
+    quality: 41
+  - title: "Apple has created its own artificial intelligence and is set to release it this year"
+    excerpt: "Apple is reportedly testing a new AI called \"Ask.\" The company has initiated a pilot program to test a new AI aimed at improving its technical support."
+    publishedDateTime: 2024-03-11T10:34:00Z
+    webUrl: "https://ccm.net/mobile/12197-apple-has-created-its-own-artificial-intelligence-ask-ai/"
+    type: article
+    provider:
+      name: CCM
+      domain: ccm.net
+    quality: 30
     images:
-      - url: "https://www.thetechedvocate.org/wp-content/uploads/2024/03/7a429bf606918a9401ba8613d1680567.jpg"
-        width: 563
-        height: 322
+      - url: "https://img-19.ccm.net/L0jMbnzKm2I_hCvOMi8ZcAi7JR4=/1500x/smart/fdab48970ba7496e8f117c91fb6f73d6/ccmcms-enccm/39489304.png"
+        width: 1500
+        height: 1500
         isCached: true
-  - title: "The Top 50 Language AI Companies to Watch in 2024"
-    excerpt: "Florian and Esther discuss the language industry news of the week, with Head of Research Anna Wyndham joining to give a breakdown of the 2024 Slator Language AI 50 Under 50, a list highlighting 50 of the newest and most notable language AI companies."
-    publishedDateTime: 2024-03-08T08:30:00Z
-    webUrl: "https://slator.com/top-50-language-ai-companies-to-watch-2024/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 19
 
 secured: "Uu8canpaUz9RBykp5lHLY9bL//9WhqLB5f/DjT5qMDXHwZ1srB7FpalAMT5FUxII5xsmyx8bcg3zYlB3GHcmK8YYNRW06FHgFVHL1hwh0FGme1PLkBEcwtJoXIwCqXmITRM7tqyiAu6T6gJQHckTOCCS8LtPmEL7WG8skIRHw0auQULE18CSLpHzDyEYdfPPoLesPOIx/KXY7xhRjbWqiHqrvZ96HR90AhVRb6tumId4GKxsJk07mKdPPTPR61104VDd7QvxsxVcdZMyE6/tAFq4hpHih+h+3SQt2lhsHGMxlH4IwxDVgsChBExQ63iyylaArgjIuJ2G2m3sCyIUq9GRkPdZeK3b+JmQjMIdYNQ=;9p6B+JajhXiiYoTIg1Dedg=="
 ---

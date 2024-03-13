@@ -305,7 +305,7 @@
       "originalUrl": "https://venturebeat.com/automation/deepmind-and-stanfords-new-robot-control-model-follow-instructions-from-sketches/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -401,6 +401,49 @@
         "AI",
         "Natural Language Processing",
         "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-09-5-best-ai-etfs-to-invest-in-2024.md",
+      "title": "5 Best AI ETFs To Invest In 2024",
+      "excerpt": "YTD Share Price Gain as of March 8: 18.69% Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) aims to invest in companies positioned to benefit from the growing adoption of robotics and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.insidermonkey.com/blog/5-best-ai-etfs-to-invest-in-2024-1271558/",
+      "originalUrl": "https://www.insidermonkey.com/blog/5-best-ai-etfs-to-invest-in-2024-1271558/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2023/11/26005035/PNRG-insidermonkey-1700977834076.jpg?auto=format&expires=1741737600&w=400&h=225&fit=crop",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.insidermonkey.com/blog/5-best-ai-etfs-to-invest-in-2024-1271558/?amp=1",
+      "cdnAmpWebUrl": "https://www-insidermonkey-com.cdn.ampproject.org/c/s/www.insidermonkey.com/blog/5-best-ai-etfs-to-invest-in-2024-1271558/?amp=1",
+      "publishedDateTime": "2024-03-09T08:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insider Monkey",
+        "domain": "insidermonkey.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -889,50 +932,6 @@
         "AI",
         "AI Hardware",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-03-06-the-impact-of-artificial-intelligence-on-our-encounters.md",
-      "title": "The Impact of Artificial Intelligence on Our Encounters",
-      "excerpt": "I participated in a seminar on a new book, Encountering Artificial Intelligence, 1 exploring the ethics of artificial intelligence (AI) from within the Catholic intellectual tradition. I was not involved with the book but asked to be a respondent to two of the contributors and offer some reflections on evaluating the impact of AI on our encounters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/our-new-discontents/202403/the-impact-of-artificial-intelligence-on-our-encounters",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/our-new-discontents/202403/the-impact-of-artificial-intelligence-on-our-encounters",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-03/andy-kelly-0E_vhMVqL9g-unsplash.jpeg.jpg?itok=zgUvJxp6",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/our-new-discontents/202403/the-impact-of-artificial-intelligence-on-our-encounters?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/our-new-discontents/202403/the-impact-of-artificial-intelligence-on-our-encounters?amp",
-      "publishedDateTime": "2024-03-05T16:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     },
     {

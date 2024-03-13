@@ -7,7 +7,7 @@ originalUrl: "https://www.inverse.com/tech/apple-pencil-vision-pro-compatibility
 webUrl: "https://www.inverse.com/tech/apple-pencil-vision-pro-compatibility"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "The Apple Vision Pro isn’t as innovative as you think"
-    excerpt: "While workers of physical cubicles could return home with the peace of mind that their cubicle would stay behind, the Vision Pro ensures that your cubicle is now digitally manifested in $3,500 goggles attached to your head."
-    publishedDateTime: 2024-03-11T23:52:00Z
-    webUrl: "https://www.michigandaily.com/opinion/the-apple-vision-pro-isnt-as-innovative-as-you-think/"
+  - title: "Apple Vision Pro will be the platform for the killer VR app, not Meta"
+    excerpt: "Ever since the dawn of personal computing, there has always been a worry about how the public could be tempted to buy new hardware until there was enough new software written for it to make it demonstrably useful."
+    publishedDateTime: 2024-03-11T14:09:00Z
+    webUrl: "https://appleinsider.com/articles/24/03/11/apples-vision-pro-and-the-killer-app-store"
     type: article
     provider:
-      name: The Michigan Daily
-      domain: michigandaily.com
-    quality: 24
-    images:
-      - url: "https://www.michigandaily.com/wp-content/uploads/2024/03/unnamed-19.png"
-        width: 2400
-        height: 1600
-        isCached: true
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 4
 
 secured: "OkNYmHL39qYYa6BoW9bcYZG5n+skJ5MBqIXaRhRc+B+xFx6sQ4ppm2vUxQ7ZjNtLBOyltAhb75X2SOwqPIGUYaKehtAkIDy9VThmj8ivEr7u3ohO1v7mdwoS3AuPvPd8ntslJnlhOSz7RNJmMdCb0QuorYPNbEWdSvZngHzBiRRjn1kaBOTI+GXAWxAVNdXzr5hFzrRjWet1uQJfkqfnTwUwxj0vvkHZX+j1cxWeECwTlXMIcwvaFn1npldxvx+7odSAtwvaV84rewmvLZtx3MMRg4abmwByC8Q271H3NCJk5JAyafx397R6b5J5EdBjdfg5OFNvslK0wFwd3ct3qteDi9c2iMn+2A37FckJqA+9LEEdgfsqcKMt8pzjrKqzAe5IHzQGxeYq60tIdQTExyoVWI8Ay7kbJvNSHAiia4VNT13jwJzJZ48xqcc/q0s0zJVG5U0O06LjdoPeLsJVB5Ahj3V/z5LhO+kRPpTm57iW1LJ/eMprQPzPYUALOyTEsCf9F/W2cLTc7x/iVyWoJw==;v4I6YMOZq6Rw9qn7ihh48w=="
 ---

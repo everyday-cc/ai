@@ -27,20 +27,6 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 47
-  - title: "Oregon passes its first bills on artificial intelligence regulations"
-    excerpt: "Oregon lawmakers passed the first two bills in state history that regulate the use of artificial intelligence."
-    publishedDateTime: 2024-03-08T01:20:00Z
-    webUrl: "https://www.kgw.com/article/news/politics/first-oregon-bills-regulating-ai-head-governor/283-9da2dee5-a711-457e-afad-cf9d81e82513"
-    type: article
-    provider:
-      name: KGW8
-      domain: kgw.com
-    quality: 37
-    images:
-      - url: "https://media.kgw.com/assets/KGW/images/e34046b0-8c85-4cf6-a2af-3ddbdf3e89fd/e34046b0-8c85-4cf6-a2af-3ddbdf3e89fd_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "AI images of Trump with Black voters are just the latest in racist election misinformation"
     excerpt: "Trump’s supporters have also begun courting this group by making dozens of artificial intelligence (AI) generated images of him surrounded by adoring Black people. Though some of the realistic-looking images contain the tell-tale signs of oddly rendered hands (showing missing,"
     publishedDateTime: 2024-03-08T13:07:00Z
