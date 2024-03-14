@@ -2,6 +2,223 @@
   "page": 87,
   "value": [
     {
+      "path": "_news/2024-01-08-ai-ethics-in-the-future-navigating-the-challenges-of-responsible-technology-development.md",
+      "title": "AI Ethics in the Future: Navigating the Challenges of Responsible Technology Development",
+      "excerpt": "Introduction: As Artificial Intelligence (AI) continues its rapid evolution, the ethical considerations surrounding its development and deployment become increasingly critical. The future of AI hinges not just on technological advancements but on the responsible and ethical practices that guide its trajectory.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/ai-ethics-in-the-future-navigating-the-challenges-of-responsible-technology-development/",
+      "originalUrl": "https://techbullion.com/ai-ethics-in-the-future-navigating-the-challenges-of-responsible-technology-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2024/01/AI-Ethics-in-the-Future-Navigating-the-Challenges-of-Responsible-Technology-Development.jpg",
+          "width": 650,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-08T13:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-08-the-future-of-education-exploring-the-benefits-of-a-hybrid-ms-in-machine-learning-at-the-university-of-arizona.md",
+      "title": "The Future of Education: Exploring the Benefits of a Hybrid MS in Machine Learning at the University of Arizona",
+      "excerpt": "In the era of technological advancements and educational innovation, the University of Arizona is pioneering a new path with its Hybrid MS in Machine Learning",
+      "sourceUrl": null,
+      "webUrl": "https://www.tribuneindia.com/news/impact-feature/the-future-of-education-exploring-the-benefits-of-a-hybrid-ms-in-machine-learning-at-the-university-of-arizona-579413",
+      "originalUrl": "https://www.tribuneindia.com/news/impact-feature/the-future-of-education-exploring-the-benefits-of-a-hybrid-ms-in-machine-learning-at-the-university-of-arizona-579413",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2024/1/2024_1$largeimg_1766553103.jpg",
+          "width": 655,
+          "height": 361,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://m.tribuneindia.com/news/impact-feature/the-future-of-education-exploring-the-benefits-of-a-hybrid-ms-in-machine-learning-at-the-university-of-arizona-579413",
+      "cdnAmpWebUrl": "https://m-tribuneindia-com.cdn.ampproject.org/c/s/m.tribuneindia.com/news/impact-feature/the-future-of-education-exploring-the-benefits-of-a-hybrid-ms-in-machine-learning-at-the-university-of-arizona-579413",
+      "publishedDateTime": "2024-01-08T13:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Tribune",
+        "domain": "tribuneindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2024-01-08-an-elevated-retail-advertising-experience-with-vsbltys-cutting-edge-computer-vision-ai.md",
+      "title": "An Elevated Retail Advertising Experience With VSBLTY's Cutting-Edge Computer Vision AI",
+      "excerpt": "Jay Hutton, the CEO, President, and Director of VSBLTY Groupe Technologies Corp. (OTCQB:  VSBGF | CSE:  VSBY | Frankfurt  5VS), delves into the company's latest technological breakthroughs, the strategic acquisition of Shelf Nine,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/markets/emerging-markets/24/01/36533865/an-elevated-retail-advertising-experience-with-vsbltys-cutting-edge-computer-vision-ai",
+      "originalUrl": "https://www.benzinga.com/markets/emerging-markets/24/01/36533865/an-elevated-retail-advertising-experience-with-vsbltys-cutting-edge-computer-vision-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2024/01/08/vsblty_-_benzinga_featured_image.png?width=1200&height=800&fit=crop",
+          "width": 810,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/36533865",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/36533865",
+      "publishedDateTime": "2024-01-08T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-08-option-care-health-selects-palantirs-artificial-intelligence-platform-for-enterprise-wide-digital-transformation.md",
+      "title": "Option Care Health Selects Palantir’s Artificial Intelligence Platform for Enterprise-Wide Digital Transformation",
+      "excerpt": "Option Care Health expects to use Palantir’s Artificial Intelligence Platform (AIP) across nurse scheduling, patient onboarding, purchasing optimization, and supply chain execution, among other potential use cases.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/option-care-health-selects-palantir-s-artificial-intelligence-platform-for-enterprise-wide-digital-transformation-1032949887",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/option-care-health-selects-palantir-s-artificial-intelligence-platform-for-enterprise-wide-digital-transformation-1032949887",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-08T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-08-artist-lawrence-lek-imagines-a-future-where-self-driving-cars-have-gone-awol.md",
+      "title": "Artist Lawrence Lek imagines a future where self-driving cars have gone AWOL",
+      "excerpt": "Transforming the space into an experiential futuristic universe, Lek leads us on a journey through a world populated by smart systems and intelligent nonhumans. In NOX, we participate in an uneasy future,",
+      "sourceUrl": null,
+      "webUrl": "https://hero-magazine.com/article/246319/lawrence-lek",
+      "originalUrl": "https://hero-magazine.com/article/246319/lawrence-lek",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.hero-magazine.com/wp-content/uploads/2023/12/22144351/Lawrence-Lek_HERO-Winter-Annual-2023_INSTA_Page_6_Image_0001.jpg",
+          "width": 1350,
+          "height": 774,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-08T12:48:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "hero-magazine.com",
+        "domain": "hero-magazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-08-we-need-smarter-driverless-vehicle-regulations-more-urgently-than-we-need-smarter-ai.md",
       "title": "We Need Smarter Driverless Vehicle Regulations More Urgently Than We Need Smarter AI",
       "excerpt": "Recent Tesla Autopilot and Cruise robo-taxi news has raised public concern. Strong federal and state safety regulations are needed to ensure the safety of driverless vehicles’ AI-based software",
@@ -896,240 +1113,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-study-redevelops-framework-for-teaching-artificial-intelligence-and-robotics.md",
-      "title": "Study redevelops framework for teaching artificial intelligence and robotics",
-      "excerpt": "More information: Jiahong Su (苏嘉红) et al, Artificial Intelligence and Robotics for Young Children: Redeveloping the Five Big Ideas Framework, ECNU Review of Education (2023). DOI: 10.1177 ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2024-01-redevelops-framework-artificial-intelligence-robotics.html",
-      "originalUrl": "https://phys.org/news/2024-01-redevelops-framework-artificial-intelligence-robotics.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2024/study-redevelops-frame.jpg",
-          "width": 2880,
-          "height": 1488,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2024-01-redevelops-framework-artificial-intelligence-robotics.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2024-01-redevelops-framework-artificial-intelligence-robotics.amp",
-      "publishedDateTime": "2024-01-08T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-volkswagen-adds-chatgpt-voice-recognition-to-some-models.md",
-      "title": "Volkswagen adds ChatGPT voice recognition to some models",
-      "excerpt": "At CES 2024, Volkswagen announced that it will integrate ChatGPT into the voice-recognition systems of some future vehicles, something the automaker claims will provide greater functionality than ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/cars/volkswagen-announces-chatgpt-integration-at-ces-2024/",
-      "originalUrl": "https://www.digitaltrends.com/cars/volkswagen-announces-chatgpt-integration-at-ces-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2024/01/group_horizontal.jpeg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/cars/volkswagen-announces-chatgpt-integration-at-ces-2024/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/volkswagen-announces-chatgpt-integration-at-ces-2024/?amp",
-      "publishedDateTime": "2024-01-08T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-waymos-robotaxis-head-for-the-highway.md",
-      "title": "Waymo’s robotaxis head for the highway",
-      "excerpt": "After several years of testing its autonomous vehicles on city streets without a human engineer behind the wheel, Waymo will send its fully driverless cars onto freeways for the first time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/cars/waymos-robotaxis-head-for-the-highway/",
-      "originalUrl": "https://www.digitaltrends.com/cars/waymos-robotaxis-head-for-the-highway/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-08T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-5-books-to-help-you-understand-artificial-intelligence.md",
-      "title": "5 books to help you understand Artificial Intelligence",
-      "excerpt": "According to Russell, the starting points of this downwards economic pressure can already be seen in products like self-driving cars and AI personal assistants. Artificial Intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/lifestyle/books/5-books-to-help-you-understand-artificial-intelligence-12011181.html",
-      "originalUrl": "https://www.moneycontrol.com/news/lifestyle/books/5-books-to-help-you-understand-artificial-intelligence-12011181.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2024/01/AI-Books-1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/lifestyle/books/5-books-to-help-you-understand-artificial-intelligence-12011181.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/lifestyle/books/5-books-to-help-you-understand-artificial-intelligence-12011181.html/amp",
-      "publishedDateTime": "2024-01-07T22:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-08-the-year-of-hallucinating-artificial-intelligence-and-arrogant-human-ingenuity.md",
-      "title": "The Year Of Hallucinating Artificial Intelligence And Arrogant Human Ingenuity",
-      "excerpt": "The “godfathers” of the current dominant version of AI expressed in 2023 alarm, awe, and humility about what they helped create.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2024/01/07/the-year-of-hallucinating-artificial-intelligence-and-arrogant-human-ingenuity/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2024/01/07/the-year-of-hallucinating-artificial-intelligence-and-arrogant-human-ingenuity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/659ad27da9403a382e07d87f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2024/01/07/the-year-of-hallucinating-artificial-intelligence-and-arrogant-human-ingenuity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2024/01/07/the-year-of-hallucinating-artificial-intelligence-and-arrogant-human-ingenuity/amp/",
-      "publishedDateTime": "2024-01-07T16:37:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -2,6 +2,265 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2024-03-02-ai-chip-startup-groq-forms-new-business-unit-acquires-definitive-intelligence.md",
+      "title": "AI chip startup Groq forms new business unit, acquires Definitive Intelligence",
+      "excerpt": "Groq, a startup developing chips to run generative AI models faster than conventional hardware, has an eye toward the enterprise — and public sector. Today, Groq announced that it’s forming a ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/03/01/ai-chip-startup-groq-forms-new-business-unit-acquires-definitive-intelligence/",
+      "originalUrl": "https://techcrunch.com/2024/03/01/ai-chip-startup-groq-forms-new-business-unit-acquires-definitive-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1341418748.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/03/01/ai-chip-startup-groq-forms-new-business-unit-acquires-definitive-intelligence/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/01/ai-chip-startup-groq-forms-new-business-unit-acquires-definitive-intelligence/amp/",
+      "publishedDateTime": "2024-03-01T17:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2024-03-02-why-snowflake-reeled-in-ai-hype.md",
+      "title": "Why Snowflake Reeled In AI Hype",
+      "excerpt": "“With the onslaught of generative AI, Snowflake needs a hard-driving technologist to navigate the challenges the new world represents,” said Slootman on the call. The departing CEO, who denied rumors of his potential departure last year, will remain chairman of the board.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rscottraynovich/2024/03/01/why-snowflake-reeled-in-ai-hype/",
+      "originalUrl": "https://www.forbes.com/sites/rscottraynovich/2024/03/01/why-snowflake-reeled-in-ai-hype/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e21d7d1ef2712dca54a75e/0x0.jpg?format=jpg&crop=3998,2248,x0,y206,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rscottraynovich/2024/03/01/why-snowflake-reeled-in-ai-hype/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rscottraynovich/2024/03/01/why-snowflake-reeled-in-ai-hype/amp/",
+      "publishedDateTime": "2024-03-01T17:26:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-01-expedite-your-genesys-cloud-amazon-lex-bot-design-with-the-amazon-lex-automated-chatbot-designer.md",
+      "title": "Expedite your Genesys Cloud Amazon Lex bot design with the Amazon Lex automated chatbot designer",
+      "excerpt": "The rise of artificial intelligence (AI) has created opportunities to improve the customer experience in the contact center space. Machine learning (ML) technologies continually improve and power the contact center customer experience by providing solutions for capabilities like self-service bots, live",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/expedite-your-genesys-cloud-amazon-lex-bot-design-with-the-amazon-lex-automated-chatbot-designer/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/expedite-your-genesys-cloud-amazon-lex-bot-design-with-the-amazon-lex-automated-chatbot-designer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/03/01/expedite-genesys-1117x630.jpg",
+          "width": 1117,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-01T16:51:31Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-02-big-name-investors-are-betting-ai-gadgets-could-change-the-way-we-interact-with-tech.md",
+      "title": "Big-name investors are betting AI gadgets could change the way we interact with tech",
+      "excerpt": "America's first Black billionaire got rich from founding BET. He shares the moment he knew he'd made it. AI startup Perplexity is in talks to raise more money at a significantly higher valuation just months after its last round. Bill Gates and Mark ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-gadgets-venture-investors-rabbit-humane-2024-3",
+      "originalUrl": "https://www.businessinsider.com/ai-gadgets-venture-investors-rabbit-humane-2024-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/654d56503cc84b4dfaffc7da?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-gadgets-venture-investors-rabbit-humane-2024-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-gadgets-venture-investors-rabbit-humane-2024-3?amp",
+      "publishedDateTime": "2024-03-01T16:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-01-pre-made-models-for-tensorflowjs.md",
+      "title": "Pre-made models for TensorFlow.js",
+      "excerpt": "Pre-made models are models that are already trained for a specific purpose. There are a variety of already trained, open source models you can use immediately with TensorFlow.js to accomplish many machine learning tasks. This topic provides guidance on how ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/js/guide/premade_models",
+      "originalUrl": "https://www.tensorflow.org/js/guide/premade_models",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/static/site-assets/images/project-logos/tensorflow-js-logo-social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-01T15:11:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2024-03-01-the-rise-of-ai-tutors.md",
       "title": "The Rise Of AI Tutors",
       "excerpt": "Most professionals are discovering that generative AI has become a great tutor for subjects outside of their particular disciplines, augmenting their learning.",
@@ -983,249 +1242,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-microsofts-copilot-for-finance-aims-to-revolutionize-the-spreadsheet-with-ai.md",
-      "title": "Microsoft’s ‘Copilot for Finance’ aims to revolutionize the spreadsheet with AI",
-      "excerpt": "Microsoft unveils AI-powered finance assistant Copilot for Finance, promising major efficiency gains through workflow automation but faces data privacy and security challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/microsofts-copilot-for-finance-aims-to-revolutionize-the-spreadsheet-with-ai/",
-      "originalUrl": "https://venturebeat.com/ai/microsofts-copilot-for-finance-aims-to-revolutionize-the-spreadsheet-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/nuneybits_Modern_art_of_the_Microsoft_Excel_spreadsheet_f04aba4b-e5b4-42c2-a3a3-d49749990db4-transformed.webp?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T23:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-stellantis-llama-a-revision-a-330000-jeeps-en-eeuu-esta-es-la-razon.md",
-      "title": "Stellantis llama a revisión a 330.000 jeeps en EE.UU. Esta es la razón.",
-      "excerpt": "En Estados Unidos, Stellantis llamará a revisión a 338.000 jeeps Grand Cherokee. Descubre cuál es la razón. Source: CNN",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/videos/spanish/2024/02/29/stellantis-llaman-revision-jeeps-eeuu-cnn-dinero-tv.cnn",
-      "originalUrl": "https://www.cnn.com/videos/spanish/2024/02/29/stellantis-llaman-revision-jeeps-eeuu-cnn-dinero-tv.cnn",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/240229163035-stellantis-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/spanish/2024/02/29/stellantis-llaman-revision-jeeps-eeuu-cnn-dinero-tv.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/spanish/2024/02/29/stellantis-llaman-revision-jeeps-eeuu-cnn-dinero-tv.cnn",
-      "publishedDateTime": "2024-02-29T22:37:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-humanoid-robot-maker-figure-partners-with-openai.md",
-      "title": "Humanoid robot-maker Figure partners with OpenAI",
-      "excerpt": "California-based Figure announced the partnership Thursday along with $675 million in venture capital funding.",
-      "sourceUrl": null,
-      "webUrl": "https://roanoke.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_fe3a9964-8b7a-5628-a6cd-bd99bbeb02f9.html",
-      "originalUrl": "https://roanoke.com/news/nation-world/science/science-technology-artificial-intelligence-robotics-bezos/article_fe3a9964-8b7a-5628-a6cd-bd99bbeb02f9.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/f/e3/fe3a9964-8b7a-5628-a6cd-bd99bbeb02f9/65e10328da6d9.preview.jpg?crop=1733%2C910%2C10%2C48&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T22:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Roanoke Times",
-        "domain": "roanoke.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-tech-advances-as-ai-craze-resumes-tech-roundup.md",
-      "title": "Tech Advances as AI Craze Resumes -- Tech Roundup",
-      "excerpt": "Nvidia shares rallied, testing all-time highs, as investors continued to pile into the high-performance chip maker on AI growth hopes. Other major AI players, including Amazon.com and Microsoft rose, too. The Securities and Exchange Commission is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/tech-advances-as-ai-craze-resumes-tech-roundup-577acf5e",
-      "originalUrl": "https://www.marketwatch.com/story/tech-advances-as-ai-craze-resumes-tech-roundup-577acf5e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/tech-advances-as-ai-craze-resumes-tech-roundup-577acf5e",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-advances-as-ai-craze-resumes-tech-roundup-577acf5e",
-      "publishedDateTime": "2024-02-29T22:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-certara-reports-fourth-quarter-2023-financial-results.md",
-      "title": "Certara Reports Fourth Quarter 2023 Financial Results",
-      "excerpt": "PRINCETON, N.J., Feb. 29, 2024 (GLOBE NEWSWIRE) -- Certara, Inc. (Nasdaq: CERT), a global leader in biosimulation, today reported its financial results for the fourth quarter of fiscal year 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/certara-reports-fourth-quarter-2023-financial-results-1033120599",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/certara-reports-fourth-quarter-2023-financial-results-1033120599",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T22:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

@@ -2,40 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2024-02-21-harnessing-the-power-of-ai-and-gen-ai-in-the-fintech-industry.md",
-      "title": "Harnessing the Power of AI and Gen AI in the Fintech Industry",
-      "excerpt": "Skilled AI consultants have played a pivotal role in guiding Fintech firms in the implementation and optimization of AI solutions, ensuring that these technologies are effectively leveraged to ...",
-      "sourceUrl": null,
-      "webUrl": "https://finchannel.com/harnessing-the-power-of-ai-and-gen-ai-in-the-fintech-industry/118910/tech-2/2024/02/",
-      "originalUrl": "https://finchannel.com/harnessing-the-power-of-ai-and-gen-ai-in-the-fintech-industry/118910/tech-2/2024/02/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial",
-        "domain": "finchannel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-21-ai-as-startup-catalyst-what-it-can-and-cannot-deliver.md",
       "title": "AI As Startup Catalyst: What It Can And Cannot Deliver",
       "excerpt": "There is little doubt that artificial intelligence (AI) is and will continue to be a significant asset to existing businesses and a driver of new business creation.",
@@ -1390,6 +1356,49 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-kpmg-singapore-ai-fintech-funding-up-77-defies-global-slump-in-h2-2023.md",
+      "title": "KPMG: Singapore AI Fintech Funding Up 77%, Defies Global Slump in H2 2023",
+      "excerpt": "Despite the global downturn in fintech investments, Singapore's fintech sector had showed remarkable resilience.",
+      "sourceUrl": null,
+      "webUrl": "https://fintechnews.sg/84690/funding/kpmg-singapore-ai-fintech-funding-up-77-defies-global-slump-in-h2-2023/",
+      "originalUrl": "https://fintechnews.sg/84690/funding/kpmg-singapore-ai-fintech-funding-up-77-defies-global-slump-in-h2-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://fintechnews.sg/wp-content/uploads/2024/02/Singapore-Fintech-Weathers-Global-Downturn-Dominates-APAC-Fintech-Scene-.jpg",
+          "width": 1024,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T07:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fintech Singapore",
+        "domain": "fintechnews.sg",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2024-03-recognition-mirror-spurred.am
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2024-03-recognition-mirror-spurred.amp"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "First Recognition of Self in the Mirror Is Spurred by Touch"
-    excerpt: "Jeffrey Lockman of The University of Texas at Austin with colleagues at the University of Houston and Tulane discovered how touch and self-recognition relate."
-    publishedDateTime: 2024-03-12T23:27:00Z
-    webUrl: "https://cns.utexas.edu/news/research/first-recognition-self-mirror-spurred-touch"
+  - title: "Touching Discovery: The Surprising Secret Behind Infant Self-Recognition"
+    excerpt: "The study underscores the role of tactile experiences in infants' self-recognition development, challenging previous assumptions."
+    publishedDateTime: 2024-03-14T08:33:00Z
+    webUrl: "https://www.thehealthsite.com/pregnancy/touching-discovery-the-surprising-secret-behind-infant-self-recognition-1071894/"
+    ampWebUrl: "https://www.thehealthsite.com/pregnancy/touching-discovery-the-surprising-secret-behind-infant-self-recognition-1071894/amp/"
+    cdnAmpWebUrl: "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/pregnancy/touching-discovery-the-surprising-secret-behind-infant-self-recognition-1071894/amp/"
     type: article
     provider:
-      name: Journalism in the Americas
-      domain: utexas.edu
-    quality: 24
+      name: TheHealthSite
+      domain: thehealthsite.com
+    quality: 43
     images:
-      - url: "https://cns.utexas.edu/sites/default/files/uploads/images/default/baby_feature-16-9.jpeg"
+      - url: "https://st1.thehealthsite.com/wp-content/uploads/2024/03/newborn-baby-her-mothers-arms-looking-away-studying-outward-things-faceless-mum-with-child-indoor-cute-infant-with-mum.jpg"
         width: 1200
-        height: 675
+        height: 900
         isCached: true
 
 secured: "fUb2qpFSS3xO6mzemCglpgMgjvZM4btCyIXzOB+yeGIv45uvtrEA49B2noociCeHqZi44bWis49CToXgQUD2T48qTpf3LtCZjS/iIOb4xeXdYFv4GrvSz+ayZM0b2Lae3qGsZmkB3a2qTazU7noOeJlIsPjPPe/l0dbvJKymzNNr04QiXFobhl72vAqUbgxEovFbYv0dUfK2M2D6h6BRghc8kw1XhaT4uZCWWulsxWEoD2Wmk+PueNFqXhFSzE5mJy/PM+3OxktT84BGpf8FpLx21sR9iVJcsAtm87yIYLLsfBY93RSpli4jYyL/FCHKe1iP0koBQNv0/Y1hNZyIZ1U34Xdkv982yAJbbQu2q9Y=;Dk7il8FCU2qbZUdjj1Wzjw=="

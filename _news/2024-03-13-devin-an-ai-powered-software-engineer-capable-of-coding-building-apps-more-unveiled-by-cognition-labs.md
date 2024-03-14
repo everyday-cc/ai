@@ -57,6 +57,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "AI whiz kid Devin set to revolutionise coding"
+    excerpt: "Engineers chasing after your jobs A new AI startup called Cognition has just lifted the kimono on a fully autonomous AI software engineer named “Devin.” There are loads of coding assistants out there,"
+    publishedDateTime: 2024-03-14T09:32:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/58626-ai-whiz-kid-devin-set-to-revolutionise-coding"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 37
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/feb1e25490516a6ed8e7b80e9d88fe75_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
   - title: "Cognition Makes AI Software Engineer, Devin to Solve Whole Development Projects and Improve Its Own Code"
     excerpt: "Stealth Startup, Cognition, backed by Peter Thiel’s Founders Fund and former-Twitter executive Elad Gil and Doordash co-founder Tony Xu, announced a fully autonomous AI software engineer called Devin. Devin can handle entire development projects end-to-end."
     publishedDateTime: 2024-03-12T00:00:00Z

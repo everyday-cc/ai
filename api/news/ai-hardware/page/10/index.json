@@ -2,6 +2,113 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-11-29-ai-fatigue-sales-challenges-and-the-problem-of-getting-big-inside-growing-tension-at-aws.md",
+      "title": "AI fatigue, sales challenges, and the problem of getting big: Inside growing tension at AWS",
+      "excerpt": "AWS is the dominant cloud provider. That success brings new challenges. The emergence of generative AI is adding to internal tensions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/amazon-aws-ai-fatigue-sales-challenges-2023-11",
+      "originalUrl": "https://www.businessinsider.com/amazon-aws-ai-fatigue-sales-challenges-2023-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65661a1cfe5bc6545ebcf3d1?width=700",
+          "width": 700,
+          "height": 525,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Sales",
+        "AWS AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-11-29-nvidia-rtx-3080-ex-cryptomining-cards-are-being-turned-into-20gb-ai-accelerators-in-china.md",
+      "title": "Nvidia RTX 3080 ex-cryptomining cards are being turned into 20GB AI accelerators in China",
+      "excerpt": "Modders showed it's possible to upgrade the card to a more AI-friendly 20GB by replacing the 1GB chips with 2GB alternatives. It's likely that the RTX 3080 cards had been used by cryptominers looking to offload their hardware following digital currencies ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/100991-nvidia-rtx-3080-ex-cryptomining-cards-turned-20gb.html",
+      "originalUrl": "https://www.techspot.com/news/100991-nvidia-rtx-3080-ex-cryptomining-cards-turned-20gb.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2023/11/2023-11-29-image-6.jpg",
+          "width": 1920,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T07:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-29-aws-launches-new-chips-for-ai-training-and-its-own-ai-chatbot.md",
       "title": "AWS Launches New Chips for AI Training and Its Own AI Chatbot",
       "excerpt": "Invent, NVIDIA contributed GPUs to Amazon's cloud efforts and added a retriever system to its AI Enterprise Software platform on AWS Marketplace.",

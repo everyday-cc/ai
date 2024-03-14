@@ -2,6 +2,186 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2024-03-07-ai-outperforms-pathologists-in-predicting-cancer-spread-to-brain.md",
+      "title": "AI Outperforms Pathologists in Predicting Cancer Spread to Brain",
+      "excerpt": "A new scientific study published on Monday in The Journal of Pathology reveals that AI deep learning can predict if a patient’s non-small cell lung cancer (NSCLC) will spread to the brain within five years of diagnosis better than expert pathologists.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202403/ai-outperforms-pathologists-in-predicting-cancer-spread-to-brain",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202403/ai-outperforms-pathologists-in-predicting-cancer-spread-to-brain",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-03/pic9105.jpg?itok=gRgAKG7k",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202403/ai-outperforms-pathologists-in-predicting-cancer-spread-to-brain?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202403/ai-outperforms-pathologists-in-predicting-cancer-spread-to-brain?amp",
+      "publishedDateTime": "2024-03-07T15:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-reshape-automation-aims-to-reduce-barriers-of-robotics-adoption.md",
+      "title": "Reshape Automation aims to reduce barriers of robotics adoption",
+      "excerpt": "Reshape Automation is launching an end-to-end platform for customers to discover, design, purchase, and get support for automation projects.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/reshape-automation-aims-to-reduce-barriers-of-robotics-adoption/",
+      "originalUrl": "https://www.therobotreport.com/reshape-automation-aims-to-reduce-barriers-of-robotics-adoption/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-07T14:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-hugging-face-is-launching-an-open-source-robotics-project-led-by-former-tesla-scientist.md",
+      "title": "Hugging Face is launching an open source robotics project led by former Tesla scientist",
+      "excerpt": "Remi Cadene's move signals an ambitious expansion for Hugging Face, which until now, has primarily focused on software, not hardware.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/hugging-face-is-launching-an-open-source-robotics-project-led-by-former-tesla-scientist/",
+      "originalUrl": "https://venturebeat.com/ai/hugging-face-is-launching-an-open-source-robotics-project-led-by-former-tesla-scientist/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/03/cfr0z3n_interior_of_an_industrial_assembly_line_manufacturing_t_5c2d1f37-2f10-41ef-addf-7f2dfdd77d21.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-07T14:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-can-you-spot-ai-generated-images-take-our-quiz-to-test-your-skills.md",
+      "title": "Can You Spot AI-Generated Images? Take Our Quiz to Test Your Skills",
+      "excerpt": "Determining whether or not an image was created by generative AI is harder than ever, but it's still possible if you know the telltale signs to look for.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/articles/how-to-detect-ai-created-images",
+      "originalUrl": "https://www.pcmag.com/articles/how-to-detect-ai-created-images",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/01lTyBxcS2L9vruDcS4D2Ho-1.fit_lim.size_1200x630.v1692729678.png",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-07T14:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-07-airports-using-biometric-facial-recognition-in-california.md",
       "title": "Airports using biometric facial recognition in California",
       "excerpt": "The TSA's initial rollout covered 16 airports of various sizes across the country, including Baltimore; Boston; Dallas; Detroit; Orlando, Florida; Phoenix; Salt Lake City; San Jose, California; and Gulfport-Biloxi in Mississippi. States with busy international airports have continued to add the technology as the TSA's pilot expands.",
@@ -212,49 +392,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-sonata-software-supercharges-harmoniai-with-microsoft-azure-ai-to-drive-responsible-first-ai-adoption-across-enterprises.md",
-      "title": "Sonata Software Supercharges Harmoni.AI with Microsoft Azure AI to Drive Responsible-First AI Adoption Across Enterprises",
-      "excerpt": "Sonata Harmoni.AI, integrating Microsoft Azure AI services, will help customer reimagine business with Generative AI, differentiating themselves in the marketplace . BANGALORE, In",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2024/03/07/9974547.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2024/03/07/9974547.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/689012/4257625/Sonata_Software_Logo.jpg",
-          "width": 400,
-          "height": 279,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-07T12:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },
@@ -862,10 +999,10 @@
     {
       "path": "_news/2024-03-07-quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization.md",
       "title": "Quisitive Awarded the AI and Machine Learning in Microsoft Azure Specialization",
-      "excerpt": "The AI and Machine Learning specialization recognizes ... use of the Company’s services for improper or illegal purposes; global economic and financial market conditions; uninsurable risks; changes in project parameters as plans continue to be evaluated ...",
+      "excerpt": "as well as executing Azure solutions for AI-powered applications and machine learning life cycles. Securing this advanced specialization requires multiple certifications, a successful track record ...",
       "sourceUrl": null,
-      "webUrl": "https://financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization",
-      "originalUrl": "https://financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization",
+      "webUrl": "https://winnipegsun.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization",
+      "originalUrl": "https://winnipegsun.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -882,13 +1019,13 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization/wcm/ba3e0bf0-f7ce-4c4a-9213-b5d8012c4cd3/amp/",
-      "cdnAmpWebUrl": "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization/wcm/ba3e0bf0-f7ce-4c4a-9213-b5d8012c4cd3/amp/",
+      "ampWebUrl": "https://winnipegsun.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization/wcm/ba3e0bf0-f7ce-4c4a-9213-b5d8012c4cd3/amp/",
+      "cdnAmpWebUrl": "https://winnipegsun-com.cdn.ampproject.org/c/s/winnipegsun.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization/wcm/ba3e0bf0-f7ce-4c4a-9213-b5d8012c4cd3/amp/",
       "publishedDateTime": "2024-03-07T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Financial Post",
-        "domain": "financialpost.com",
+        "name": "winnipegsun",
+        "domain": "winnipegsun.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -898,10 +1035,9 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
+        "Microsoft AI",
         "AI",
-        "Machine Learning",
-        "Microsoft AI"
+        "Machine Learning"
       ]
     },
     {
@@ -988,153 +1124,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-scientists-develop-new-machine-learning-method-for-modeling-chemical-reactions.md",
-      "title": "Scientists develop new machine learning method for modeling chemical reactions",
-      "excerpt": "Researchers from Carnegie Mellon University and Los Alamos National Laboratory have used machine learning to create a model that can simulate reactive processes in a diverse set of organic materials and conditions. \"It's a tool that can be used to ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2024-03-scientists-machine-method-chemical-reactions.html",
-      "originalUrl": "https://phys.org/news/2024-03-scientists-machine-method-chemical-reactions.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2024/scientists-develop-new-2.jpg",
-          "width": 1759,
-          "height": 1659,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2024-03-scientists-machine-method-chemical-reactions.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2024-03-scientists-machine-method-chemical-reactions.amp",
-      "publishedDateTime": "2024-03-07T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-5-years-after-san-francisco-banned-face-recognition-voters-ask-for-more-surveillance.md",
-      "title": "5 Years After San Francisco Banned Face Recognition, Voters Ask for More Surveillance",
-      "excerpt": "On Tuesday the country’s techiest city backed a ballot proposition that tapped into concerns about crime, giving the police more freedom to use drones and other surveillance technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/san-francisco-banned-face-recognition-voters-ask-for-more-surveillance/",
-      "originalUrl": "https://www.wired.com/story/san-francisco-banned-face-recognition-voters-ask-for-more-surveillance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/65e8d5adf50e43ba3169369b/191:100/w_1280,c_limit/facialrecognition-SF_biz_GettyImages-1215395483.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-06T23:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-salesforce-unveils-low-code-ai-toolkit-for-crm.md",
-      "title": "Salesforce unveils low-code AI toolkit for CRM",
-      "excerpt": "Einstein 1 Studio allows Salesforce admins and developers to customize the Einstein Copilot conversational AI assistant and embed AI functionality into CRM apps.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3714260/salesforce-unveils-low-code-ai-toolkit-for-crm.html",
-      "originalUrl": "https://www.infoworld.com/article/3714260/salesforce-unveils-low-code-ai-toolkit-for-crm.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/12/01/17/salesforce-sign-100935102-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3714260/salesforce-unveils-low-code-ai-toolkit-for-crm.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3714260/salesforce-unveils-low-code-ai-toolkit-for-crm.amp.html",
-      "publishedDateTime": "2024-03-06T23:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

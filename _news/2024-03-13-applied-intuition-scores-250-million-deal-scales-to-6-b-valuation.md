@@ -56,6 +56,15 @@ related:
         width: 933
         height: 517
         isCached: true
+  - title: "Phrase Accelerates Hyperautomation in Localization with more AI-powered Enhancements"
+    excerpt: "AI Actions leverages generative AI within the Phrase editor to help users improve translations quickly and easily. Users can choose from a diverse range of actions from enhancing style, to shortening text or improving grammar. AI Actions puts helpful generative AI at the fingertips of every Phrase customer."
+    publishedDateTime: 2024-03-14T07:48:00Z
+    webUrl: "https://slator.com/phrase-accelerates-hyperautomation-in-localization-with-more-ai-powered-enhancements/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 12
 
 secured: "T6nYVah3JSdaYyjvBul4Gk2Jz38ga3f0TD49YcK6aLzcxGFPCfSd4lIAv4ZUZx0WX9N2U43g20XmLbotLmkWWlf9h1s48qvSLTLtKWNb2pyqjk9WdtHCum2pTALdUHEAsyFHOqK4ZyysMt0PP+y9chaRDgd3VgxRZsDIGHzR3NV8Y5YauhIRZdQwibOHzgmQ0uIqYHibV+yYXlONkaJhyx1H+U9TU05Hp20z3M1CwCcjlv0KWqumfF6j0QtrGxf3p83lQctCny8aImDvMJbgCT3WLuzhO1eiF6IbdlPy/w/tIeRDezGNwvfvU6JS2C6ekKLBd48oLPZ+8vlMBYnB2qRfi0pTszlqdGh9GLy9RSwrv3s+Saqw2xv8VmWuFc7sMGSOBlC17A1mJ7hb9M7TMYO5raBQP5ISYhLb1uf7unrBFxnNZK8hKfWTfBQaPspKprjtIWbQPFPOmwi7VcsSSDO2gC27EuKy54YASi+cJ6veyQeIYP0bcphzyeHfFPIgRn5L95FHZ2Fd62Vwu5G0Vw==;mMjVwynbzHRy3f1KFCpHvw=="
 ---

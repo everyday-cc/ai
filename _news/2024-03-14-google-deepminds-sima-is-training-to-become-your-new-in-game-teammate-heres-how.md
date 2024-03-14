@@ -6,7 +6,7 @@ publishedDateTime: 2024-03-14T00:01:00Z
 originalUrl: "https://www.gizmochina.com/2024/03/14/google-deepmind-sima-ai-game-buddy/"
 webUrl: "https://www.gizmochina.com/2024/03/14/google-deepmind-sima-ai-game-buddy/"
 type: article
-quality: 78
+quality: 80
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.gizmochina.com/wp-content/uploads/2023/11/google-sundar-pichai.jpg"
@@ -42,6 +43,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65e7a8c4b178f1843c134af7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1285
         height: 857
+        isCached: true
+  - title: "DeepMind's latest AI wants your video game controller, not your job"
+    excerpt: "Google DeepMind says it's created a \"multi-world\" AI agent that can follow your natural-language instructions to perform a range of tasks for you in a variety of 3D virtual environments. That is, it'll do the grindy bits of video games for you. It's a ..."
+    publishedDateTime: 2024-03-14T00:01:00Z
+    webUrl: "https://newatlas.com/technology/deepmind-sima-game-agent-ai"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 86
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/3c923e6/2147483647/strip/true/crop/1798x944+0+40/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F94%2Fc7%2Fcdbefcde4df8a728a67053e15778%2Fscreenshot-2024-03-14-at-4.36.45%20pm.png&na.image_optimisation=0"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Google DeepMind’s Latest AI Agent Learned to Play Goat Simulator 3"
     excerpt: "These AI agents can adapt to games they haven't played before. Google made them by feeding data on how humans play different video games to a language model like those behind the latest chatbots."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2024/03/12/vast-datas-nvi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2024/03/12/vast-datas-nvidia-dpu-based-ai-cloud-architecture/amp/"
 type: article
 quality: 89
-heat: 359
+heat: 369
 published: true
 
 provider:
@@ -90,6 +90,22 @@ related:
       - url: "https://cdn.benzinga.com/files/images/story/2024/reddit-shutter_6.jpeg?width=1200&height=800&fit=crop"
         width: 830
         height: 553
+        isCached: true
+  - title: "Nvidia conference could trigger rally in AI coins"
+    excerpt: "Nvidia will hold its first in-person GPU Technology Conference (GTC) since 2019 from March 18 to 21. The semiconductor firm's earnings have been a crucial factor propelling the price of AI-related tokens, and the possibility of any announcements during the ..."
+    publishedDateTime: 2024-03-14T09:51:00Z
+    webUrl: "https://www.fxstreet.com/cryptocurrencies/news/nvidia-conference-could-trigger-rally-in-ai-coins-202403140923"
+    ampWebUrl: "https://www.fxstreet.com/amp/cryptocurrencies/news/nvidia-conference-could-trigger-rally-in-ai-coins-202403140923"
+    cdnAmpWebUrl: "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/cryptocurrencies/news/nvidia-conference-could-trigger-rally-in-ai-coins-202403140923"
+    type: article
+    provider:
+      name: FXStreet
+      domain: fxstreet.com
+    quality: 59
+    images:
+      - url: "https://editorial.fxstreet.com/images/Markets/Currencies/Cryptocurrencies/Worldcoin/Worldcoin_logo_Small.jpg"
+        width: 320
+        height: 320
         isCached: true
   - title: "New AI copyright lawsuit targets Nvidia"
     excerpt: "Three authors, Abdi Nazemian, Brian Keene, and Stewart O’Nan, are part of a new copyright infringement lawsuit against Nvidia, the latest such suit to challenge generative AI providers’ reliance on the “fair use” doctrine to acquire copyrighted material to train their large language models."

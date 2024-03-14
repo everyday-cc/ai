@@ -2,6 +2,103 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-03-06-single-chip-mpu-bring-vision-ai-to-next-gen-robotics.md",
+      "title": "Single-chip MPU bring vision AI to next-gen robotics",
+      "excerpt": "Renesas Electronics Corporation has expanded its popular RZ Family of microprocessors (MPUs) with a new device targeting high-performance robotics applications. Offering the highest levels of performance within the family,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eeworldonline.com/single-chip-mpu-bring-vision-ai-to-next-gen-robotics/",
+      "originalUrl": "https://www.eeworldonline.com/single-chip-mpu-bring-vision-ai-to-next-gen-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eeworldonline.com/wp-content/uploads/2024/03/rzv2h-pressphoto-notext.jpeg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T00:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eeworldonline",
+        "domain": "eeworldonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Hardware",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-ai-focused-blockchain-startup-io-research-raises-30-mln-in-series-a-funding-round.md",
+      "title": "AI-focused blockchain startup IO Research raises $30 mln in Series A funding round",
+      "excerpt": "March 5 (Reuters) - IO Research, an artificial intelligence (AI)-focused blockchain startup, said on Tuesday it raised $30 million in a Series A funding round from investors including Hack VC, Solana Labs, and cryptocurrency exchange OKX. IO Research's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/ai-focused-blockchain-startup-io-research-raises-30-mln-series-funding-round-2024-03-05/",
+      "originalUrl": "https://www.reuters.com/technology/ai-focused-blockchain-startup-io-research-raises-30-mln-series-funding-round-2024-03-05/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/BQTPEDP6BNLJHG7V5ZLSKDZ5BQ.jpg",
+          "width": 6285,
+          "height": 4190,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-05T15:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2024-03-05-1-top-ai-stock-to-buy-before-2025-hint-its-not-nvidia.md",
       "title": "1 Top AI Stock to Buy Before 2025 (Hint: It's Not Nvidia)",
       "excerpt": "Nvidia has greatly benefited from the rise of artificial intelligence as its GPUs are widely used to train and run large AI models. Competition from rival chip companies and tech giants designing their own custom AI chips will likely erode Nvidia's dominance.",
@@ -1397,92 +1494,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-nvidia-briefly-hits-2trn-valuation-as-demand-for-ai-chips-soars.md",
-      "title": "Nvidia briefly hits $2trn valuation as demand for AI chips soars",
-      "excerpt": "AI is a gift that keeps generating for Nvidia as it rides on a high after demand for its chips soars globally. Nvidia briefly hit the $2trn valuation mark for the first time on Friday (23 February) soon after its latest earnings call that forecasted a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.siliconrepublic.com/business/nvidia-market-value-ai-chip-demand-revenue-shares",
-      "originalUrl": "https://www.siliconrepublic.com/business/nvidia-market-value-ai-chip-demand-revenue-shares",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.siliconrepublic.com/wp-content/uploads/2024/02/a-27.jpeg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-26T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconRepublic",
-        "domain": "siliconrepublic.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-mark-zuckerbergs-asia-tour-ambani-wedding-sword-making-ai-chips-and-more.md",
-      "title": "Mark Zuckerberg's Asia tour: Ambani wedding, sword-making, AI chips and more",
-      "excerpt": "AI chips on agenda? South Korea is home to some of the world’s top tech companies, including Samsung Electronics and SK Hynix. These companies lead the global memory chip industry and are among the few worldwide that produce high-end memory chips ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/mark-zuckerbergs-asia-tour-ambani-wedding-sword-making-ai-chips-and-more/articleshow/108005960.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/mark-zuckerbergs-asia-tour-ambani-wedding-sword-making-ai-chips-and-more/articleshow/108005960.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-108007276,width-1280,height-720,resizemode-4/108007276.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/mark-zuckerbergs-asia-tour-ambani-wedding-sword-making-ai-chips-and-more/amp_articleshow/108005960.cms",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/mark-zuckerbergs-asia-tour-ambani-wedding-sword-making-ai-chips-and-more/amp_articleshow/108005960.cms",
-      "publishedDateTime": "2024-02-26T08:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

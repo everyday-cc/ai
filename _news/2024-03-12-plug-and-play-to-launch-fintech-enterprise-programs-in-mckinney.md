@@ -24,6 +24,22 @@ images:
     height: 667
     isCached: true
 
+related:
+  - title: "UK fintech Anna Money acquires Sydney-based GetCape"
+    excerpt: "UK business and tax app ANNA Money today announced its strategic acquisition of Sydney-based fintech GetCape, a business spend management platform."
+    publishedDateTime: 2024-03-14T09:47:00Z
+    webUrl: "https://www.finextra.com/pressarticle/100024/uk-fintech-anna-money-acquires-sydney-based-getcape"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
+
 secured: "TR4ts1lKgzusRMk57B9fjDsxfQbZRUJ+cOltQbVPIXyaEKAlof0jdHDyGT8vALOfPtZbhN5YoIw2I5Bf9azQrarBQSuq6ptf0PP29cy5V+ZjkWtG/4XRZ8xeNcFxc02PwqDM2rCnCXkAHXdIV6v32bH1IFGUNLZHFXTzAVqKDSSdPnnJK9SeMPxPD8jv/7pReg8YWbK4+OyR+JvOu0pmkPpwwIAtTvonQZIBqVhOGgqewlMhQtibBTskZoSkoMjTYuyGIwbT7orlqeo7XjoaF4Xt7e1LzVNrGPuxT1HFYE8qHwK897it46s7plNFUz+iJMzwjCdBO5yWchNEfKr8xVuD3mSQn9FeyST0K8D1swcSRSBYqwPtacVIpOUwNioKnZRBDzGp0vUvkc6oSXSbA45KHuCYJwa528lFT6pg6tmN47gCBl4R4EX+/8UMZDoZsPB+Pz7vEaJ1AKvZLw8DS4rGhCx6TJ4/ZG4hG/jxXd3zyqURfbuqEo3lP2Yg5ShZc0RlOb2UibG3ZDDGrINHAw==;LdEyFML6BHhb3/KJC4uPlw=="
 ---
 

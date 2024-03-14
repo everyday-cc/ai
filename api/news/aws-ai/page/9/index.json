@@ -2,6 +2,40 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-11-27-amazon-is-using-ai-to-deliver-packages-faster-than-ever-this-holiday-season.md",
+      "title": "Amazon is using AI to deliver packages faster than ever this holiday season",
+      "excerpt": "Amazon is boasting its quickest delivery time yet, saying that packages are being prepared for dispatch within 11 minutes of an order placement at same-day facilities. That pace is an hour faster ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/amazon-faster-deliveries-ai-holiday-season-cyber-monday-deals/",
+      "originalUrl": "https://www.cbsnews.com/news/amazon-faster-deliveries-ai-holiday-season-cyber-monday-deals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-27T15:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-27-qlik-expands-customers-ability-to-scale-ai-for-impact-with-aws.md",
       "title": "Qlik Expands Customers’ Ability to Scale AI for Impact with AWS",
       "excerpt": "LAS VEGAS, Nov. 27, 2023 (GLOBE NEWSWIRE) -- Qlik ® is helping its customers embrace and scale the power of large language models (LLMs) and generative artificial intelligence (AI) with Amazon Web Services (AWS) through new integrations and AI-powered solutions.",

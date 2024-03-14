@@ -2,6 +2,162 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-03-12-the-future-of-supply-chain-technology-a-shift-toward-intelligent-systems.md",
+      "title": "The Future Of Supply Chain Technology: A Shift Toward Intelligent Systems",
+      "excerpt": "Today's new supply chain business intelligence capability provides an actionable data-driven experience, such as interactive reports and dashboards, for procurement, operations, and reliability teams, from senior management to front-line workers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/paulnoble/2024/03/11/the-future-of-supply-chain-technology-a-shift-toward-intelligent-systems/",
+      "originalUrl": "https://www.forbes.com/sites/paulnoble/2024/03/11/the-future-of-supply-chain-technology-a-shift-toward-intelligent-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ef6d5376c194337d9ecfe3/0x0.jpg?format=jpg&crop=2293,1288,x12,y0,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/paulnoble/2024/03/11/the-future-of-supply-chain-technology-a-shift-toward-intelligent-systems/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulnoble/2024/03/11/the-future-of-supply-chain-technology-a-shift-toward-intelligent-systems/amp/",
+      "publishedDateTime": "2024-03-11T20:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-new-ai-and-5g-advancements-will-usher-in-the-era-of-edge-computing-on-smartphones-autonomous-cars-and-more.md",
+      "title": "New AI and 5G advancements will usher in the era of edge computing on smartphones, autonomous cars, and more",
+      "excerpt": "The edge-computing boom could reduce costs and the environmental impact of powering AI — and it's just getting started.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-edge-computing-5g-cloud-artificial-intelligence-2024-3",
+      "originalUrl": "https://www.businessinsider.com/ai-edge-computing-5g-cloud-artificial-intelligence-2024-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65ef131d90413ab8e1db559d?width=750&format=jpeg&auto=webp",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-edge-computing-5g-cloud-artificial-intelligence-2024-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-edge-computing-5g-cloud-artificial-intelligence-2024-3?amp",
+      "publishedDateTime": "2024-03-11T20:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-ug-labs-raises-7m-to-infuse-conversational-ai-into-games-for-kids.md",
+      "title": "UG Labs raises $7M to infuse conversational AI into games for kids",
+      "excerpt": "UG Labs has raised $7 million in funding to infuse conversational AI and voice interactivity into games for kids.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/ug-labs-raises-7m-to-infuse-conversational-ai-into-games-for-kids/",
+      "originalUrl": "https://venturebeat.com/games/ug-labs-raises-7m-to-infuse-conversational-ai-into-games-for-kids/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/03/ug-labs-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 665,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-11T20:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-12-ai-gpus-and-focus-7-takeaways-from-the-amd-ceo-lisu-sus-sxsw-keynote.md",
       "title": "AI, GPUs, and focus: 7 takeaways from the AMD CEO Lisu Su’s SXSW keynote",
       "excerpt": "In a conversation at SXSW, AMD CEO Dr. Lisa Su talks about using AI in business and in her personal life, lessons she learned, and even how she stays in shape.",
@@ -1090,155 +1246,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-10-key-principles-for-interpreting-dreams-with-ai.md",
-      "title": "Key Principles for Interpreting Dreams with AI",
-      "excerpt": "Such general guidelines are familiar to anyone who has done research or therapy with dreams over the past few decades, and there seems no reason why the same principles should not apply to this new technology, too. Following these guidelines will enable ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/za/blog/dreaming-in-the-digital-age/202403/key-principles-for-interpreting-dreams-with-ai",
-      "originalUrl": "https://www.psychologytoday.com/za/blog/dreaming-in-the-digital-age/202403/key-principles-for-interpreting-dreams-with-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2024-03/IMG_8627.JPG.jpg?itok=5609qzT5",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/za/blog/dreaming-in-the-digital-age/202403/key-principles-for-interpreting-dreams-with-ai?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/dreaming-in-the-digital-age/202403/key-principles-for-interpreting-dreams-with-ai?amp",
-      "publishedDateTime": "2024-03-10T12:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-10-which-artificial-intelligence-ai-stock-is-most-likely-to-deliver-a-5x-gain-by-2030-alphabet-amazon-microsoft-meta-or-nvidia.md",
-      "title": "Which Artificial Intelligence (AI) Stock Is Most Likely to Deliver a 5X Gain by 2030: Alphabet, Amazon, Microsoft, Meta, or Nvidia?",
-      "excerpt": "They share a common tailwind that's likely to blow hard for years to come -- artificial intelligence (AI ... have a massive growth driver with its Waymo self-driving car business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2024/03/10/which-artificial-intelligence-ai-stock-is-most-lik/",
-      "originalUrl": "https://www.fool.com/investing/2024/03/10/which-artificial-intelligence-ai-stock-is-most-lik/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/768409/happy-indian-businessman-work-from-home.jpg",
-          "width": 6047,
-          "height": 4017,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-10T03:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-10-5-blue-chip-digital-age-collectible-bargains-the-world-missed.md",
-      "title": "5 blue-chip \"digital age\" collectible bargains the world missed",
-      "excerpt": "Everyone acknowledges the massive impact of the digital revolution upon every aspect of society, but auction prices for landmark digital memorabilia suggest we haven't got it all in perspective just yet.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/collectibles/5-blue-chip-digital-age-collectible-bargains-the-world-missed/",
-      "originalUrl": "https://newatlas.com/collectibles/5-blue-chip-digital-age-collectible-bargains-the-world-missed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/40efcc3/2147483647/strip/true/crop/2700x1418+0+191/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F6c%2F55%2F03e86bae4e8497ce6d4a928cdc7a%2Finterim-front.jpg&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-10T02:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -2,6 +2,220 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2024-02-14-y-combinator-seeks-startups-in-robotics-space-and-defense.md",
+      "title": "Y Combinator Seeks Startups in Robotics, Space and Defense",
+      "excerpt": "Y Combinator is one of the most prominent and competitive Silicon Valley startup accelerators, and has backed companies including Airbnb Inc., DoorDash Inc. and Stripe Inc. Apple Inc. ’s longest-serving senior industrial designer is leaving the company, marking the near-complete turnover of a team once led by Jony Ive.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2024-02-14/y-combinator-seeks-startups-in-robotics-space-and-defense",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2024-02-14/y-combinator-seeks-startups-in-robotics-space-and-defense",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-14T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-14-neural-prosthetic-device-can-help-humans-restore-memory.md",
+      "title": "Neural prosthetic device can help humans restore memory",
+      "excerpt": "A team of scientists have demonstrated the first successful use of a neural prosthetic device to recall specific memories.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2024/02/240213130407.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2024/02/240213130407.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-14T13:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-14-new-for-2024-bergara-mgmicro-lite.md",
+      "title": "New For 2024: Bergara MgMicro Lite",
+      "excerpt": "Rifle maker Bergara is already well-established in the lightweight hunter category with models like its Crest and MgLite. Now the company is taking its Premier series MgLite and making it even lighter and more compact with the MgMicro Lite.",
+      "sourceUrl": null,
+      "webUrl": "https://www.americanrifleman.org/content/new-for-2024-bergara-mgmicro-lite/",
+      "originalUrl": "https://www.americanrifleman.org/content/new-for-2024-bergara-mgmicro-lite/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.americanrifleman.org/media/cg3mayo0/bergara-mgmicro-lite-01.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-14T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "American Rifleman",
+        "domain": "americanrifleman.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-14-the-future-of-renewable-energy.md",
+      "title": "The future of renewable energy",
+      "excerpt": "The next generation of clean energy needs innovative technology and power generation to help the world reach net-zero emissions.\nThe post The future of renewable energy appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/future-of-renewable-energy/",
+      "originalUrl": "https://www.ibm.com/blog/future-of-renewable-energy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-14T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-14-the-most-valuable-ai-use-cases-for-business.md",
+      "title": "The most valuable AI use cases for business",
+      "excerpt": "We’re all amazed by what AI can do. But the question for those of us in business is what are the best business uses?\nThe post The most valuable AI use cases for business appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/artificial-intelligence-use-cases/",
+      "originalUrl": "https://www.ibm.com/blog/artificial-intelligence-use-cases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-14T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-14-san-francisco-waymo-arson-sparks-fresh-debate-on-self-driving-cars.md",
       "title": "San Francisco Waymo arson sparks fresh debate on self-driving cars",
       "excerpt": "A seasoned San Francisco cab driver might have avoided the intersection of Jackson Street and Grant Avenue, in the heart of the city's Chinatown on the first day of Chinese New Year. But an autonomous Waymo robotaxi did not,",
@@ -932,213 +1146,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-dxc-appoints-ex-pwc-partner-kylie-watson-to-head-up-anz-security.md",
-      "title": "DXC appoints ex-PwC partner Kylie Watson to head up A/NZ security",
-      "excerpt": "DXC Technology has appointed ex-PwC partner Kylie Watson to head up security for Australia and New Zealand (A/NZ). Watson will be based in Canberra and responsible for assisting DXC customers enhance their cyber security standings and protect them from attacks through advisory and managed security services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/710073/dxc-appoints-ex-pwc-partner-kylie-watson-head-up-nz-security/",
-      "originalUrl": "https://www.reseller.co.nz/article/710073/dxc-appoints-ex-pwc-partner-kylie-watson-head-up-nz-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/kylie_watson_dxc_technology_head_of_security_for_anz.jpeg",
-          "width": 472,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T01:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-apple-researchers-unveil-keyframer-an-ai-tool-that-animates-still-images-using-llms.md",
-      "title": "Apple researchers unveil ‘Keyframer’: An AI tool that animates still images using LLMs",
-      "excerpt": "Researchers at Apple have developed an AI-powered animation tool called Keyframer that allows anyone to animate static images using natural language prompts, opening up animation design to broader audiences.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/apple-researchers-unveil-keyframer-an-ai-tool-that-animates-still-images-using-llms/",
-      "originalUrl": "https://venturebeat.com/ai/apple-researchers-unveil-keyframer-an-ai-tool-that-animates-still-images-using-llms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/nuneybits_Abstract_art_of_a_Macintosh_apple_and_animation_anima_1240c0e1-f2e1-4d36-95c1-a013225af6df-transformed.webp?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T01:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-draculas-chivito-is-this-years-best-name-for-a-newly-found-astronomical-object.md",
-      "title": "“Dracula's Chivito” Is This Year's Best Name For A Newly Found Astronomical Object",
-      "excerpt": "IFLScience needs the contact information you provide to us to contact you about our products and services. You may unsubscribe from these communications at any time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.iflscience.com/draculas-chivito-is-this-years-best-name-for-a-newly-found-astronomical-object-72931",
-      "originalUrl": "https://www.iflscience.com/draculas-chivito-is-this-years-best-name-for-a-newly-found-astronomical-object-72931",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.iflscience.com/assets/articleNo/72931/aImg/74152/dracula-s-bun-meta.png",
-          "width": 1200,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IFLScience",
-        "domain": "iflscience.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-robotics-and-artificial-intelligence-revolutionizing-energy-infrastructure-maintenance.md",
-      "title": "Robotics and artificial intelligence revolutionizing energy infrastructure maintenance",
-      "excerpt": "the University of Houston is offering a timely micro-credential course focused on artificial intelligence and robotics for energy integrity and maintenance. The course, titled \"AI & Robotics for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/1034485",
-      "originalUrl": "https://www.eurekalert.org/news-releases/1034485",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-what-are-the-key-trends-and-advancements-in-geographic-information-systems-gis.md",
-      "title": "What are the Key Trends and Advancements in Geographic Information Systems (GIS?)",
-      "excerpt": "Innovations like machine learning algorithms and drone-based data processing are creating more opportunities for GIS applications in businesses and",
-      "sourceUrl": null,
-      "webUrl": "https://www.cioapplications.com/news/what-are-the-key-trends-and-advancements-in-geographic-information-systems-gis-nid-11081.html",
-      "originalUrl": "https://www.cioapplications.com/news/what-are-the-key-trends-and-advancements-in-geographic-information-systems-gis-nid-11081.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO Applications",
-        "domain": "cioapplications.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

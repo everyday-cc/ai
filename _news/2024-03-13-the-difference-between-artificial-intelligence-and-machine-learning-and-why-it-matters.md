@@ -9,7 +9,7 @@ ampWebUrl: "https://breakingdefense.com/2024/03/the-difference-between-artificia
 cdnAmpWebUrl: "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2024/03/the-difference-between-artificial-intelligence-and-machine-learning-and-why-it-matters/?amp=1"
 type: article
 quality: 66
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI for student learning and research"
+    excerpt: "Library Services and TELT, together with academic staff and students in the Faculty of Medicine & Dentistry, have created a QMplus course area on AI for student learning and research. It was developed for FMD students, both undergraduate and postgraduate ..."
+    publishedDateTime: 2024-03-10T10:28:00Z
+    webUrl: "https://www.qmul.ac.uk/fmd/about/news/de24/january/digital-education-story7/"
+    type: article
+    provider:
+      name: Queen Mary University of London
+      domain: qmul.ac.uk
+    quality: 39
+    images:
+      - url: "https://www.qmul.ac.uk/fmd/media/smd/documents/AI-screenshot.png"
+        width: 604
+        height: 385
+        isCached: true
   - title: "The AI arms race between the US and China is heating up"
     excerpt: "The UK, for its part, rolled out a “National AI Strategy” in 2022 and committed roughly $4 billion in chip development subsidies. The nation has also attracted the third-largest level of private investment in AI, behind the US and China. State ..."
     publishedDateTime: 2024-03-10T12:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/03/12/google-play-store-will-show-ai-pow
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/google-play-store-will-show-ai-powered-faqs-and-latest-youtube-videos-for-games/amp/"
 type: article
 quality: 88
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://media.wired.com/photos/65efa678e98f35c0803de967/191:100/w_1280,c_limit/AI-Gen-Youtube-Videos-Business-1215392421.jpg"
         width: 1280
         height: 670
+        isCached: true
+  - title: "Google Demos a New AI That Can Play Video Games with You"
+    excerpt: "The Google DeepMind team has developed a generalist SIMA AI agent that can follow instructions in video games and perform a variety of tasks."
+    publishedDateTime: 2024-03-14T02:09:00Z
+    webUrl: "https://beebom.com/google-sima-ai-play-video-games-with-you/"
+    ampWebUrl: "https://beebom.com/google-sima-ai-play-video-games-with-you/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/google-sima-ai-play-video-games-with-you/amp/"
+    type: article
+    provider:
+      name: Beebom
+      domain: beebom.com
+    quality: 59
+    images:
+      - url: "https://beebom.com/wp-content/uploads/2024/03/sima-agent-by-google-deepmind.jpg"
+        width: 1250
+        height: 750
         isCached: true
 
 secured: "6X4Cm8qZ18GgvHTkgS/T4L/lf203h6QEVxZuQFIIZDh/l8MEvbo+zin70oNSukIlh5zaFndyKv24oZ9LD6bIU67tVROyIhCLRonBHGJPAGSGAfj5TNQmgKjnd134MaUPiJutJoIoQABAcgp2TXMwC5hFXJIfhgu8KahlskoYTWrQTkGg6X2NFfkQ2wld/fpurv7N05E42QyfQiV4X3XGjSY5wTnpT3ydTgN59jwxQWOUn6a3nr9xZjXWKBBtJ8rHwwwrNwOpsbHGfGVCFDoNWyT/yRj68a92q5prTWqYFSuB9mNBgEP7PLBfXRrO/oQKnwhFT0HT5MAaIiimJyGkdwZP4Q/pJmMbIScI/GhVYRaYxR/106vfzHyy1zc0OsD5hGSGqqcZ4uxUdQtZvKPw1x7x5dKJeyxdHnHO/fZBxGZDOkQDgL68opnKnHS3Wj/jX7SWn0gdyEhhvZY6oSZjQH/QQXeTrk+1wRRytFHeOe3mfW6c7Ciyd3IzcasBWYjZdHXt6h+zP8fzIytS79Zl6w==;OTrNvojSlXMNF5OvdZ8KnA=="

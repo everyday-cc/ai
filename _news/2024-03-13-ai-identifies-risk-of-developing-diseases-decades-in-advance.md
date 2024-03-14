@@ -1,15 +1,15 @@
 ---
 category: news
 title: "AI Identifies Risk of Developing Diseases Decades in Advance"
-excerpt: "Interestingly, the AI algorithm identified 70 pairs of disease trajectories that share some diagnoses earlier in life but eventually diverge later in life into separate diagnoses. The scientists point out that although no conclusion on causality can be made, the AI algorithm suggests potential early risk factors."
-publishedDateTime: 2024-03-13T16:06:00Z
-originalUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202403/ai-identifies-risk-of-developing-diseases-decades-in-advance"
-webUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202403/ai-identifies-risk-of-developing-diseases-decades-in-advance"
-ampWebUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202403/ai-identifies-risk-of-developing-diseases-decades-in-advance?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202403/ai-identifies-risk-of-developing-diseases-decades-in-advance?amp"
+excerpt: "therapy or in health care,” the scientists concluded. Artificial intelligence machine learning is rapidly emerging as a promising tool for clinicians and researchers to spot meaningful patterns from massive amounts of complex healthcare data to ..."
+publishedDateTime: 2024-03-13T00:00:00Z
+originalUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202403/ai-identifies-risk-of-developing-diseases-decades-in-advance"
+webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202403/ai-identifies-risk-of-developing-diseases-decades-in-advance"
+ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202403/ai-identifies-risk-of-developing-diseases-decades-in-advance?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202403/ai-identifies-risk-of-developing-diseases-decades-in-advance?amp"
 type: article
-quality: 39
-heat: 39
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -20,6 +20,30 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "zDQsfVzAD61tpyibTVYIXPBfqTsCBczkUjODuIl2QNIMTirvumicn0Vkd5yeacZNsudo6zCIZqKO69H4Kc/xJBdenUqu5/k4l52isnTBvmGKn2JeDa0Tv9+XaOO3GGHLQE5ZTgHa13Qz3I9Y3qicsLaWqorEZlYYDrewcFjFZXT1g5lTusgtAqoANhN27w0mTTke7ZeXcje8a+3kCcbgLZXMLFm6WaGnTnk//FKr+wRU2AGwc8VRdKJJMjR06cHl4qYZb4aL6VAmoZUBgk8+H9LDjbFGlrnU8y3iAVuWHR3nWRt3cx8trDTNdvYOgr3ooDtTzuzxEQC+aj70angOILQyjYLvST1zimAQDyPBcD7wkBBxKpNvRo0eariSfR/JZFHhndewTQW7EED8WO+e6QgNHi3xlMLQQdHwGv992qAkp+7NF3JbBbECf1G5FEVvf4JXdNtV3A1EBtJAQzRnZidVDnly1JXATs66eqjjUgceQmPBh5P39pVTAHsjqagWWZ2ABjxpgxkJhwCl+rXgzw==;xFN1Do+wbru8/A0oJzx/mQ=="
+images:
+  - url: "https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2024-03/pic15156.jpg?itok=2szWLA-e"
+    width: 320
+    height: 273
+    isCached: true
+
+related:
+  - title: "Chinese Researchers on the Brink of Developing 'Real AI Scientists' Capable of Conducting Experiments, Solving Scientific Problems"
+    excerpt: "Chinese researchers are on the brink of pioneering a groundbreaking approach to developing 'AI scientists capable of conducting experiments and solving scientific problems. Recent advances in deep learning models have revolutionized scientific research ..."
+    publishedDateTime: 2024-03-10T09:03:00Z
+    webUrl: "https://www.techtimes.com/articles/302436/20240310/chinese-researchers-brink-developing-real-ai-scientists-capable-conducting-experiments.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/302436/20240310/chinese-researchers-brink-developing-real-ai-scientists-capable-conducting-experiments.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/302436/20240310/chinese-researchers-brink-developing-real-ai-scientists-capable-conducting-experiments.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 29
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/444543/2022-world-robot-conference.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+
+secured: "p60EsQyH2+/PHJjuENB+E5d4UWurUzk4Zm8Dn0IgBooXXH/HY3Wc94MZ7GLL/m7AGlyNDSK8xQMX0hxKfpRDYY84dSMEaYRj/KLsCHxYIF8OzUF2/Bnh5imnJLJcXaYJ3p+PtkZgYLPomOQfhSBRCuE/VBsPQS7+Rxg42pbn675aFQAk1cRwaCv5inC0PA4vd8Md4WQXFxm0Cn9SArpVQO8V5ecBl6bEFBSGCeMDxVNeUvL54md6+F3oRfzsrwPn9mM3AtwcxIdxJbcY1EqCOHxwQ4R49oIcI3IWXZM6N5egMJboiEcoZmZHv3DujriVhqRWYk0H9xgXXW7ZEHmDGPenzje9+AjwQkjgx4ZWyaE=;XPFL2eeHIKTJ8rtBRqpY8w=="
 ---
 

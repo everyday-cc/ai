@@ -37,6 +37,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Election risks delaying deployment of self-driving vehicles"
+    excerpt: "Parliament urged to back the Automated Vehicles Bill to ensure its swift passage into law so self-driving technology can be deployed sooner rather than later."
+    publishedDateTime: 2024-03-14T09:25:00Z
+    webUrl: "https://www.fleetnews.co.uk/news/bill-delay-risks-delay-to-deployment-of-self-driving-vehicles"
+    type: article
+    provider:
+      name: Fleet News
+      domain: fleetnews.co.uk
+    quality: 24
+    images:
+      - url: "https://fncdn.blob.core.windows.net/web-clean/1/root/istock-self-driving.jpg"
+        width: 2121
+        height: 1414
+        isCached: true
   - title: "Frisco police helping improve technology for self-driving 18-wheelers"
     excerpt: "FRISCO, Texas - People may not be aware, but they have been sharing North Texas highways with self-driving big rigs. Autonomous trucks have been carrying freight in Texas since 2021 with a professional driver on board. Frisco police are helping the ..."
     publishedDateTime: 2024-03-13T17:02:00Z

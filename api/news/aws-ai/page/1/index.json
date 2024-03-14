@@ -406,6 +406,49 @@
       ]
     },
     {
+      "path": "_news/2024-03-08-katie-britt-used-decades-old-example-of-rapes-in-mexico-to-attack-biden-border-policy.md",
+      "title": "Katie Britt used decades-old example of rapes in Mexico to attack Biden border policy",
+      "excerpt": "The Republican senator who gave the party's response to President Joe Biden's State of the Union address used a harrowing account of a young woman's sexual abuse to attack his border policies, but the rapes did not happen in the U.S. nor during the Biden ...",
+      "sourceUrl": null,
+      "webUrl": "https://newsadvance.com/news/nation-world/government-politics/politics-elections-border-immigration-trafficking/article_5138b9ca-042d-5ead-a544-9c839a15bfa2.html",
+      "originalUrl": "https://newsadvance.com/news/nation-world/government-politics/politics-elections-border-immigration-trafficking/article_5138b9ca-042d-5ead-a544-9c839a15bfa2.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/newsadvance.com/content/tncms/assets/v3/editorial/5/13/5138b9ca-042d-5ead-a544-9c839a15bfa2/65ed0f743215d.preview.jpg?crop=1433%2C752%2C48%2C103&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-08T07:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The News & Advance",
+        "domain": "newsadvance.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-07-automate-the-process-to-change-image-backgrounds-using-amazon-bedrock-and-aws-step-functions.md",
       "title": "Automate the process to change image backgrounds using Amazon Bedrock and AWS Step Functions",
       "excerpt": "Many customers, including those in creative advertising, media and entertainment, ecommerce, and fashion, often need to change the background in a large number of images. Typically, this involves manually editing each image with photo software. This can take a lot of effort, especially for large batches",
@@ -1387,42 +1430,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-streamline-pytorch-machine-learning-workflows-with-cloudian-and-aws-hybrid-edge.md",
-      "title": "Streamline PyTorch Machine Learning Workflows With Cloudian And AWS Hybrid Edge",
-      "excerpt": "Cloudian contributed enhancements to AWS Labs’ open-source S3-Connector-for-PyTorch. The enhancements enable PyTorch ML algorithms to access data in Cloudian’s HyperStore object storage system via the AWS S3 API. The enhanced S3 connector is available from the GitHub repositories of AWS Labs and Cloudian.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scoop.co.nz/stories/BU202402/S00289.htm",
-      "originalUrl": "https://www.scoop.co.nz/stories/BU202402/S00289.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.scoop.co.nz/stories/BU2402/S00289/streamline-pytorch-machine-learning-workflows-with-cloudian-and-aws-hybrid-edge.htm",
-      "cdnAmpWebUrl": "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2402/S00289/streamline-pytorch-machine-learning-workflows-with-cloudian-and-aws-hybrid-edge.htm",
-      "publishedDateTime": "2024-02-28T02:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scoop",
-        "domain": "scoop.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI",
-        "Meta AI"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-03-01-openai-categorically-disagrees-with-elon-musks-lawsuit-against-it-suggests-tesla-ceo-has-regrets.md",
+      "title": "OpenAI ‘categorically disagrees’ with Elon Musk’s lawsuit against it, suggests Tesla CEO has ‘regrets’",
+      "excerpt": "Mike Windle/Getty Images for Vanity Fair OpenAI “categorically disagrees” with the lawsuit Elon Musk filed against the company, according to an internal memo sent to employees of the artificial intelligence startup. Musk, a cofounder of OpenAI who is ...",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/2024/03/01/openai-elon-musk-lawsuit-tesla-ceo-regrets/?itm_source=parsely-api",
+      "originalUrl": "https://fortune.com/2024/03/01/openai-elon-musk-lawsuit-tesla-ceo-regrets/?itm_source=parsely-api",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.fortune.com/wp-content/uploads/2024/03/GettyImages-491587260-e1709336480973.jpg?w=840",
+          "width": 840,
+          "height": 559,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/2024/03/01/openai-elon-musk-lawsuit-tesla-ceo-regrets/amp/",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2024/03/01/openai-elon-musk-lawsuit-tesla-ceo-regrets/amp/",
+      "publishedDateTime": "2024-03-01T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-01-news-updates-from-february-29-us-pce-inflation-falls-to-24-putin-warns-of-wider-conflict-over-ukraine.md",
       "title": "News updates from February 29: US PCE inflation falls to 2.4%, Putin warns of wider conflict over Ukraine",
       "excerpt": "Boeing is paying $51mn to settle an administrative charge from the US Department of State over unauthorised exports, including to China. The US Environmental Protection Agency will exclude existing gas-fired plants in its final standards on climate pollution for the power sector, the agency announced on Thursday.",
@@ -1276,58 +1328,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-watch-tesla-full-self-driving-beta-v12-autonomously-look-for-a-parking-spot.md",
-      "title": "Watch Tesla Full Self-Driving Beta v12 autonomously look for a parking spot",
-      "excerpt": "A Tesla driver using the new Full Self-Driving (FSD) Beta v12 software managed to showcase a new behavior: FSD Beta autonomously looking for a parking spot. The Tesla v12 software update is expected to introduce what CEO Elon Musk has been calling “end ...",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2024/02/21/tesla-full-self-driving-beta-v12-autonomously-look-parking-spot/",
-      "originalUrl": "https://electrek.co/2024/02/21/tesla-full-self-driving-beta-v12-autonomously-look-parking-spot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/02/Tesla-FSD-Beta-v12-auto-look-for-parking.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T16:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

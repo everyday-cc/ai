@@ -47,6 +47,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Phrase Accelerates Hyperautomation in Localization with more AI-powered Enhancements"
+    excerpt: "AI Actions leverages generative AI within the Phrase editor to help users improve translations quickly and easily. Users can choose from a diverse range of actions from enhancing style, to shortening text or improving grammar. AI Actions puts helpful generative AI at the fingertips of every Phrase customer."
+    publishedDateTime: 2024-03-14T07:48:00Z
+    webUrl: "https://slator.com/phrase-accelerates-hyperautomation-in-localization-with-more-ai-powered-enhancements/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 12
   - title: "Applied Intuition scores $250 million deal, scales to $6 B valuation"
     excerpt: "LLMs and other new AI models are transforming the automotive and autonomy industries,” said Qasar Younis, CEO of Applies Intuition. It raised a $250 million all-equity Series E round at a $6 billion valuation."
     publishedDateTime: 2024-03-12T20:28:00Z

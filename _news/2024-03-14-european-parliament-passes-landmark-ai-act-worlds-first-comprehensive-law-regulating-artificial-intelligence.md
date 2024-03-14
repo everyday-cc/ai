@@ -38,6 +38,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "EU AI Act passes the European Parliament - a milestone, but only the beginning"
+    excerpt: "The EU Parliament has approved the world's first comprehensive AI regulations, aiming for safe and ethical AI development in the European Union."
+    publishedDateTime: 2024-03-14T09:38:00Z
+    webUrl: "https://diginomica.com/eu-ai-act-passed-european-parliament-milestone-only-beginning"
+    ampWebUrl: "https://diginomica.com/eu-ai-act-passed-european-parliament-milestone-only-beginning?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/eu-ai-act-passed-european-parliament-milestone-only-beginning?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 55
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2018-09/EuropeanParliament--e1536835619998.jpg"
+        width: 375
+        height: 212
+        isCached: true
   - title: "The EU’s new AI Act could have global impact"
     excerpt: "The EU’s new AI Office will also help lead global change, though not perhaps through its enforcement powers. Sceptics have pointed out that initial estimates for its budget are less than half the £100m committed to the UK’s AI Safety Institute."
     publishedDateTime: 2024-03-13T17:36:00Z

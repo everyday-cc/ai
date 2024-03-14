@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-12-amazon-is-offering-8-free-ai-courses-with-certificates-a-gateway-to-47-higher-salaries.md",
+      "title": "Amazon is Offering 8 Free AI Courses with Certificates & a Gateway to 47% Higher Salaries!",
+      "excerpt": "Amazon has embarked on an ambitious journey to democratise AI education through its \"AI Ready\" initiative, aiming to provide free AI skills",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2024/02/amazon-free-ai-courses-certificates",
+      "originalUrl": "https://yourstory.com/2024/02/amazon-free-ai-courses-certificates",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T08:57:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-11-3-artificial-intelligence-ai-stocks-to-buy-with-2000-and-hold-for-25-years.md",
       "title": "3 Artificial Intelligence (AI) Stocks to Buy With $2,000 and Hold for 25 Years",
       "excerpt": "That's where Amazon is poised to impact AI's growth over the coming years. Amazon Web Services (AWS) is the world's largest cloud platform, and Amazon is aggressively adding tools and services to ...",
@@ -1306,49 +1340,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-ualberta-aws-partner-to-establish-artificial-intelligence-discovery-place.md",
-      "title": "UAlberta, AWS partner to establish Artificial Intelligence Discovery Place",
-      "excerpt": "The University of Alberta is collaborating with Amazon Web Services (AWS) to establish an Artificial Intelligence Discovery Place at UAlberta’s downtown Enterprise Square campus. The goal of the initiative is to democratize access to artificial intelligence (AI) technology to boost innovations and advancements in technology and education throughout Alberta.",
-      "sourceUrl": null,
-      "webUrl": "https://academica.ca/top-ten/ualberta-aws-partner-to-establish-artificial-intelligence-discovery-place/",
-      "originalUrl": "https://academica.ca/top-ten/ualberta-aws-partner-to-establish-artificial-intelligence-discovery-place/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://academica.ca/wp-content/uploads/2023/09/loic-furhoff-qeIaMQP_xQE-unsplash-640x428.jpg",
-          "width": 640,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-01T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Academica",
-        "domain": "academica.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

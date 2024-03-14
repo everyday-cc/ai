@@ -41,6 +41,20 @@ related:
         width: 2105
         height: 1184
         isCached: true
+  - title: "AI for student learning and research"
+    excerpt: "Library Services and TELT, together with academic staff and students in the Faculty of Medicine & Dentistry, have created a QMplus course area on AI for student learning and research. It was developed for FMD students, both undergraduate and postgraduate ..."
+    publishedDateTime: 2024-03-10T10:28:00Z
+    webUrl: "https://www.qmul.ac.uk/fmd/about/news/de24/january/digital-education-story7/"
+    type: article
+    provider:
+      name: Queen Mary University of London
+      domain: qmul.ac.uk
+    quality: 39
+    images:
+      - url: "https://www.qmul.ac.uk/fmd/media/smd/documents/AI-screenshot.png"
+        width: 604
+        height: 385
+        isCached: true
   - title: "Edge AI Devices Eye Lifetime Learning"
     excerpt: "Helping artificial intelligence to adapt and learn, now and later."
     publishedDateTime: 2024-03-12T16:03:00Z

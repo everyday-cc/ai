@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-02-05-eu-states-give-green-light-to-artificial-intelligence-law.md",
+      "title": "EU states give green light to artificial intelligence law",
+      "excerpt": "Representatives of the EU member states voted in favor of a proposal in Brussels on Friday which should soon make artificial intelligence (AI) subject to stricter rules.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2024-02-eu-states-green-artificial-intelligence.html",
+      "originalUrl": "https://techxplore.com/news/2024-02-eu-states-green-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/6-artificialin.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2024-02-eu-states-green-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2024-02-eu-states-green-artificial-intelligence.amp",
+      "publishedDateTime": "2024-02-05T13:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-05-why-elon-musks-self-driving-of-teslas-board-and-its-decision-to-pay-him-56b-collided-with-the-law-and-what-happens-next.md",
       "title": "Why Elon Musk’s ‘self-driving’ of Tesla’s board and its decision to pay him $56B collided with the law – and what happens next",
       "excerpt": "(THE CONVERSATION) Delaware Chancery Court Judge Kathaleen St. Jude McCormick has blocked Elon Musk’s US$55.8 billion pay package, which Tesla’s board of directors approved in 2018 through a process she found to be “deeply flawed.”",
@@ -1224,40 +1267,6 @@
       "provider": {
         "name": "Future Market Insights",
         "domain": "fmiblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-apple-car-delayed-until-2028-less-ambitious-design-with-downgrade-to-level-2-autonomy.md",
-      "title": "Apple Car delayed until 2028, less ambitious design with downgrade to Level 2+ autonomy",
-      "excerpt": "Apple delays its electric vehicle until at least 2028: now a semi-autonomous driving car... will include the wheels and pedals, after Apple removed them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/95777/apple-car-delayed-until-2028-less-ambitious-design-with-downgrade-to-level-2-autonomy/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/95777/apple-car-delayed-until-2028-less-ambitious-design-with-downgrade-to-level-2-autonomy/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-25T02:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
         "images": null,
         "publishers": null,
         "authors": null

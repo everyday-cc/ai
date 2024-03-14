@@ -102,6 +102,22 @@ related:
         width: 830
         height: 553
         isCached: true
+  - title: "Nvidia conference could trigger rally in AI coins"
+    excerpt: "Nvidia will hold its first in-person GPU Technology Conference (GTC) since 2019 from March 18 to 21. The semiconductor firm's earnings have been a crucial factor propelling the price of AI-related tokens, and the possibility of any announcements during the ..."
+    publishedDateTime: 2024-03-14T09:51:00Z
+    webUrl: "https://www.fxstreet.com/cryptocurrencies/news/nvidia-conference-could-trigger-rally-in-ai-coins-202403140923"
+    ampWebUrl: "https://www.fxstreet.com/amp/cryptocurrencies/news/nvidia-conference-could-trigger-rally-in-ai-coins-202403140923"
+    cdnAmpWebUrl: "https://www-fxstreet-com.cdn.ampproject.org/c/s/www.fxstreet.com/amp/cryptocurrencies/news/nvidia-conference-could-trigger-rally-in-ai-coins-202403140923"
+    type: article
+    provider:
+      name: FXStreet
+      domain: fxstreet.com
+    quality: 59
+    images:
+      - url: "https://editorial.fxstreet.com/images/Markets/Currencies/Cryptocurrencies/Worldcoin/Worldcoin_logo_Small.jpg"
+        width: 320
+        height: 320
+        isCached: true
   - title: "Chip giant Nvidia sued by authors over AI use of copyrighted work"
     excerpt: "Nvidia has been sued by three authors who said that the company used their copyrighted books without permission to train its NeMo AI platform. According to a report by news agency Reuters, the authors Brian Keene, Abdi Nazemian and Stewart O'Nan said that ..."
     publishedDateTime: 2024-03-11T07:44:00Z

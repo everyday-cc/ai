@@ -45,6 +45,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Startup taps AI to bolster nuclear power development"
+    excerpt: "A new startup called Atomic Canyon is harnessing artificial intelligence to help nuclear developers navigate complex federal licensing processes. Why it matters: The firm's emergence from stealth comes as developers — including small modular reactor companies — will increasingly seek Nuclear Regulatory Commission approvals."
+    publishedDateTime: 2024-03-12T12:40:00Z
+    webUrl: "https://www.axios.com/2024/03/12/artificial-intelligence-nuclear-power"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 17
   - title: "AI language model provides new insights into the development of brain diseases"
     excerpt: "A new AI language model identifies clinical symptoms in medical summaries and links them to brain tissue from donors of the Netherlands Brain Bank. This yields new insights into the development of individual disease progression and contributes to a better understanding of common misdiagnoses of brain diseases."
     publishedDateTime: 2024-03-12T17:15:00Z

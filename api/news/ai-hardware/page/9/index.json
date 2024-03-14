@@ -2,6 +2,111 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-12-12-5-blue-chip-growth-stocks-to-buy-for-2024.md",
+      "title": "5 Blue-Chip Growth Stocks to Buy for 2024",
+      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips This article is an excerpt from the InvestorPlace Digest newsletter. To get",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/5-blue-chip-growth-stocks-to-buy-for-2024-1032890940",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/5-blue-chip-growth-stocks-to-buy-for-2024-1032890940",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2023/12/fredgraph.png",
+          "width": 959,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-11T21:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-12-midjourney-vs-dall-e-2-ai-image-generators-comparison.md",
+      "title": "Midjourney vs. Dall-E 2: AI Image Generators Comparison",
+      "excerpt": "Explore our in-depth comparison of Midjourney and Dall-E 2. Learn about their unique features and find out which one is best suited for your creative projects.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/midjourney-vs-dall-e/",
+      "originalUrl": "https://www.techrepublic.com/article/midjourney-vs-dall-e/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techrepublic.com/wp-content/uploads/2023/12/AdobeStock_638686268.jpeg",
+          "width": 1400,
+          "height": 784,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-11T20:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2023-12-12-us-discusses-ai-chip-sales-to-china-with-nvidia-says-raimondo.md",
       "title": "U.S. discusses AI Chip sales to China with Nvidia, says Raimondo",
       "excerpt": "The U.S. government is currently in talks with NVIDIA (NVDA) regarding the conditions under which it can sell AI chips to China. The administration has made it clear that Nvidia (NASDAQ: NVDA) is not allowed to export its most sophisticated semiconductors to Chinese companies.",
@@ -1259,113 +1364,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-ai-fatigue-sales-challenges-and-the-problem-of-getting-big-inside-growing-tension-at-aws.md",
-      "title": "AI fatigue, sales challenges, and the problem of getting big: Inside growing tension at AWS",
-      "excerpt": "AWS is the dominant cloud provider. That success brings new challenges. The emergence of generative AI is adding to internal tensions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/amazon-aws-ai-fatigue-sales-challenges-2023-11",
-      "originalUrl": "https://www.businessinsider.com/amazon-aws-ai-fatigue-sales-challenges-2023-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65661a1cfe5bc6545ebcf3d1?width=700",
-          "width": 700,
-          "height": 525,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Sales",
-        "AWS AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-nvidia-rtx-3080-ex-cryptomining-cards-are-being-turned-into-20gb-ai-accelerators-in-china.md",
-      "title": "Nvidia RTX 3080 ex-cryptomining cards are being turned into 20GB AI accelerators in China",
-      "excerpt": "Modders showed it's possible to upgrade the card to a more AI-friendly 20GB by replacing the 1GB chips with 2GB alternatives. It's likely that the RTX 3080 cards had been used by cryptominers looking to offload their hardware following digital currencies ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/100991-nvidia-rtx-3080-ex-cryptomining-cards-turned-20gb.html",
-      "originalUrl": "https://www.techspot.com/news/100991-nvidia-rtx-3080-ex-cryptomining-cards-turned-20gb.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2023/11/2023-11-29-image-6.jpg",
-          "width": 1920,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T07:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

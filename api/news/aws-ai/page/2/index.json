@@ -2,6 +2,42 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-28-streamline-pytorch-machine-learning-workflows-with-cloudian-and-aws-hybrid-edge.md",
+      "title": "Streamline PyTorch Machine Learning Workflows With Cloudian And AWS Hybrid Edge",
+      "excerpt": "Cloudian contributed enhancements to AWS Labs’ open-source S3-Connector-for-PyTorch. The enhancements enable PyTorch ML algorithms to access data in Cloudian’s HyperStore object storage system via the AWS S3 API. The enhanced S3 connector is available from the GitHub repositories of AWS Labs and Cloudian.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scoop.co.nz/stories/BU202402/S00289.htm",
+      "originalUrl": "https://www.scoop.co.nz/stories/BU202402/S00289.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://m.scoop.co.nz/stories/BU2402/S00289/streamline-pytorch-machine-learning-workflows-with-cloudian-and-aws-hybrid-edge.htm",
+      "cdnAmpWebUrl": "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2402/S00289/streamline-pytorch-machine-learning-workflows-with-cloudian-and-aws-hybrid-edge.htm",
+      "publishedDateTime": "2024-02-28T02:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Scoop",
+        "domain": "scoop.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI",
+        "Meta AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-28-squaring-the-circle-the-high-performance-computing-energy-paradox.md",
       "title": "Squaring the circle: The high-performance computing energy paradox",
       "excerpt": "Today, the Nvidia H100 Tensor Core GPU enables AWS users to run their Amazon Elastic Compute Cloud (Amazon EC2) P5 instances to scale generative AI at the click of a button, and data center operators report unprecedented demand from clients for compute ...",
@@ -1280,40 +1316,6 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-amazon-is-offering-8-free-ai-courses-with-certificates-a-gateway-to-47-higher-salaries.md",
-      "title": "Amazon is Offering 8 Free AI Courses with Certificates & a Gateway to 47% Higher Salaries!",
-      "excerpt": "Amazon has embarked on an ambitious journey to democratise AI education through its \"AI Ready\" initiative, aiming to provide free AI skills",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2024/02/amazon-free-ai-courses-certificates",
-      "originalUrl": "https://yourstory.com/2024/02/amazon-free-ai-courses-certificates",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-12T08:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
         "images": null,
         "publishers": null,
         "authors": null

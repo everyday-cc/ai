@@ -327,7 +327,7 @@
       "originalUrl": "https://theprint.in/ani-press-releases/hexaware-unveils-tensai-gpt-a-secure-ai-web-app-using-microsoft-azure-open-ai-service-to-advance-internal-innovation/1997879/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -727,12 +727,56 @@
       ]
     },
     {
+      "path": "_news/2024-03-07-quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization.md",
+      "title": "Quisitive Awarded the AI and Machine Learning in Microsoft Azure Specialization",
+      "excerpt": "as well as executing Azure solutions for AI-powered applications and machine learning life cycles. Securing this advanced specialization requires multiple certifications, a successful track record ...",
+      "sourceUrl": null,
+      "webUrl": "https://winnipegsun.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization",
+      "originalUrl": "https://winnipegsun.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dcs-static.gprod.postmedia.digital/15.6.0/websites/images/canada/fallback.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://winnipegsun.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization/wcm/ba3e0bf0-f7ce-4c4a-9213-b5d8012c4cd3/amp/",
+      "cdnAmpWebUrl": "https://winnipegsun-com.cdn.ampproject.org/c/s/winnipegsun.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization/wcm/ba3e0bf0-f7ce-4c4a-9213-b5d8012c4cd3/amp/",
+      "publishedDateTime": "2024-03-07T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "winnipegsun",
+        "domain": "winnipegsun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2024-03-07-sonata-software-supercharges-harmoniai-with-microsoft-azure-ai-to-drive-responsible-first-ai-adoption-across-enterprises.md",
       "title": "Sonata Software Supercharges Harmoni.AI with Microsoft Azure AI to Drive Responsible-First AI Adoption Across Enterprises",
-      "excerpt": "Sonata Harmoni.AI, integrating Microsoft Azure AI services, will help customer reimagine business with Generative AI, differentiating themselves in the marketplace . BANGALORE, In",
+      "excerpt": "Sonata Harmoni.AI, integrating Microsoft Azure AI services, will help customer reimagine business with Generative AI, differentiating themselves in the marketplace BANGALORE, India, March 7, 2024 /PRNewswire/ -- The leading Modernization Engineering ...",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2024/03/07/9974547.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2024/03/07/9974547.htm",
+      "webUrl": "https://stockhouse.com/news/press-releases/2024/03/07/sonata-software-supercharges-harmoni-ai-with-microsoft-azure-ai-to-drive",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2024/03/07/sonata-software-supercharges-harmoni-ai-with-microsoft-azure-ai-to-drive",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -751,11 +795,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-07T12:34:00Z",
+      "publishedDateTime": "2024-03-07T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -767,51 +811,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization.md",
-      "title": "Quisitive Awarded the AI and Machine Learning in Microsoft Azure Specialization",
-      "excerpt": "The AI and Machine Learning specialization recognizes ... use of the Company’s services for improper or illegal purposes; global economic and financial market conditions; uninsurable risks; changes in project parameters as plans continue to be evaluated ...",
-      "sourceUrl": null,
-      "webUrl": "https://financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization",
-      "originalUrl": "https://financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dcs-static.gprod.postmedia.digital/15.6.0/websites/images/canada/fallback.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization/wcm/ba3e0bf0-f7ce-4c4a-9213-b5d8012c4cd3/amp/",
-      "cdnAmpWebUrl": "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization/wcm/ba3e0bf0-f7ce-4c4a-9213-b5d8012c4cd3/amp/",
-      "publishedDateTime": "2024-03-07T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Post",
-        "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "Microsoft AI"
       ]
     },
     {

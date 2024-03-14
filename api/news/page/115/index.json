@@ -2,6 +2,230 @@
   "page": 115,
   "value": [
     {
+      "path": "_news/2023-12-07-last-minute-gifts-available-on-amazon-26-gifts-from-15-to-250.md",
+      "title": "Last-Minute Gifts Available on Amazon: 26 Gifts From $15 to $250",
+      "excerpt": "We've perused the endless pages of Amazon to highlight the best gifts you can find. Coming away from your search with a great selection of the best Amazon gifts is obviously the goal and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/best-gifts-available-from-amazon/",
+      "originalUrl": "https://www.cnet.com/tech/best-gifts-available-from-amazon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/5d95beb3fa025f927e5416f779d1ba3ca1149c15/hub/2023/12/01/af61ca29-ba50-4aec-afef-14e33b56bdf3/gifts-from-amazon-promo.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-07T11:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-07-ai-industrial-robotics-nafta.md",
+      "title": "AI Industrial Robotics - NAFTA",
+      "excerpt": "The market size in the AI Industrial Robotics market is projected to reach US$3.01bn in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 12.28%, resulting in a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/nafta",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-industrial-robotics/nafta",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-07T10:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-07-ai-service-robotics-nafta.md",
+      "title": "AI Service Robotics - NAFTA",
+      "excerpt": "The market size in the AI Service Robotics market is projected to reach US$2.72bn in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 12.49%, resulting in a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/nafta",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/ai-robotics/ai-service-robotics/nafta",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-07T10:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-07-natural-language-processing-nafta.md",
+      "title": "Natural Language Processing - NAFTA",
+      "excerpt": "The market size in the Natural Language Processing market is projected to reach US$9.65bn in 2023. The market size is expected to show an annual growth rate (CAGR 2023-2030) of 12.75%, resulting ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/nafta",
+      "originalUrl": "https://www.statista.com/outlook/tmo/artificial-intelligence/natural-language-processing/nafta",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.statcdn.com/static/img/openGraph/xmo/openGraph-tmo-en.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-07T10:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Statista",
+        "domain": "statista.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-07-google-gemini-ai-outperforms-gpt-35-to-be-integrated-into-google-bard.md",
+      "title": "Google Gemini AI Outperforms GPT 3.5, to Be Integrated Into Google Bard",
+      "excerpt": "Google has unveiled Gemini AI, a powerful AI model that has surpassed ChatGPT 3.5 and several other AI models.",
+      "sourceUrl": null,
+      "webUrl": "https://techreport.com/news/google-gemini-ai-outperforms-gpt-3-5-to-be-integrated-into-google-bard/",
+      "originalUrl": "https://techreport.com/news/google-gemini-ai-outperforms-gpt-3-5-to-be-integrated-into-google-bard/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techreport.com/wp-content/uploads/2023/12/Google-gemini-AI.jpg?_t=1701943717",
+          "width": 1872,
+          "height": 901,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-07T10:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Tech Report",
+        "domain": "techreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-07-accelerating-cloud-native-development-in-microsoft-azure.md",
       "title": "Accelerating cloud native development in Microsoft Azure",
       "excerpt": "From GPU support to reference implementations, the latest updates to Azure Container Apps combine Microsoft’s commitment to developer productivity with its latest AI development tools.",
@@ -869,249 +1093,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-07-is-machine-learning-random-and-why-should-you-care.md",
-      "title": "Is Machine Learning Random? And Why Should You Care?",
-      "excerpt": "Let's start with a common problem that people have, especially when they are just starting out with machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnwerner/2023/12/06/is-machine-learning-random-and-why-should-you-care/",
-      "originalUrl": "https://www.forbes.com/sites/johnwerner/2023/12/06/is-machine-learning-random-and-why-should-you-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6570cd8f70a0ecad420089d5/0x0.jpg?format=jpg&crop=1601,900,x0,y183,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2023/12/06/is-machine-learning-random-and-why-should-you-care/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2023/12/06/is-machine-learning-random-and-why-should-you-care/amp/",
-      "publishedDateTime": "2023-12-06T19:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-07-google-updates-bard-chatbot-with-gemini-ai-as-it-chases-chatgpt.md",
-      "title": "Google Updates Bard Chatbot With ‘Gemini’ A.I. as It Chases ChatGPT",
-      "excerpt": "After more than eight months of research and development, Google has unveiled its most powerful A.I. so far. But only parts of it are widely available.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2023/12/06/technology/google-ai-bard-chatbot-gemini.html",
-      "originalUrl": "https://www.nytimes.com/2023/12/06/technology/google-ai-bard-chatbot-gemini.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2023/12/07/multimedia/06JPgoogle-ai-print-fmgp/06google-ai-fmgp-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T19:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-07-self-driving-cars-a-revolution-in-safety-or-a-new-legal-battleground.md",
-      "title": "Self-Driving Cars: A Revolution in Safety or a New Legal Battleground?",
-      "excerpt": "While technology has failed to present us with the flying cars predicted decades ago, we have advanced to the point of self-driving vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.lawyer-monthly.com/2023/12/self-driving-cars-a-revolution-in-safety-or-a-new-legal-battleground/",
-      "originalUrl": "https://www.lawyer-monthly.com/2023/12/self-driving-cars-a-revolution-in-safety-or-a-new-legal-battleground/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.lawyer-monthly.com/Lawyer-Monthly/wp-content/uploads/2023/12/brock-wegner-pWGUMQSWBwI-unsplash-1024x819.jpg",
-          "width": 1024,
-          "height": 819,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T19:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Lawyer Monthly",
-        "domain": "lawyer-monthly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-07-amd-is-taking-the-gloves-off-in-the-ai-arms-race.md",
-      "title": "AMD is taking the gloves off in the AI arms race",
-      "excerpt": "AMD looks ready to fight. At its Advancing AI event, the company finally launched its Instinct MI300X AI GPU, which we first heard about first a few months ago. The exciting development is the performance AMD is claiming compared to the green AI elephant in the room: Nvidia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/amd-mi300x-gpu-launch/",
-      "originalUrl": "https://www.digitaltrends.com/computing/amd-mi300x-gpu-launch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/12/amd-mi300x-platform.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/amd-mi300x-gpu-launch/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/amd-mi300x-gpu-launch/?amp",
-      "publishedDateTime": "2023-12-06T19:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-07-ap-ais-future-could-be-open-source-or-closed-tech-giants-are-divided-as-they-lobby-regulators.md",
-      "title": "AP: AI’s future could be ‘open-source’ or closed. Tech giants are divided as they lobby regulators",
-      "excerpt": "SummaryTech leaders have been vocal proponents of the need to regulate artificial intelligence, but they're also lobbying hard to make sure the new rules work in their favor. That's not to say they al",
-      "sourceUrl": null,
-      "webUrl": "https://www.wmay.com/2023/12/06/ap-ais-future-could-be-open-source-or-closed-tech-giants-are-divided-as-they-lobby-regulators/",
-      "originalUrl": "https://www.wmay.com/2023/12/06/ap-ais-future-could-be-open-source-or-closed-tech-giants-are-divided-as-they-lobby-regulators/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/2047/2023/05/22095947/GETTY_52223_Meta436760.jpg",
-          "width": 630,
-          "height": 354,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.wmay.com/2023/12/06/ap-ais-future-could-be-open-source-or-closed-tech-giants-are-divided-as-they-lobby-regulators/?amp=1",
-      "cdnAmpWebUrl": "https://www-wmay-com.cdn.ampproject.org/c/s/www.wmay.com/2023/12/06/ap-ais-future-could-be-open-source-or-closed-tech-giants-are-divided-as-they-lobby-regulators/?amp=1",
-      "publishedDateTime": "2023-12-06T18:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "92.7 WMAY",
-        "domain": "wmay.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
         "AI"
       ]
     }

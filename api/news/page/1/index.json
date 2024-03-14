@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-14-founder-of-chip-testing-firm-rides-ai-boom-to-become-south-koreas-newest-billionaire.md",
+      "title": "Founder Of Chip-Testing Firm Rides AI Boom To Become South Korea’s Newest Billionaire",
+      "excerpt": "Shares of Leeno Industrial, an under-the-radar semiconductor firm in Busan, have soared over 70% since November, making founder and CEO Lee Chae-yoon a billionaire.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkang/2024/03/14/founder-of-chip-testing-firm-rides-ai-boom-to-become-south-koreas-newest-billionaire/",
+      "originalUrl": "https://www.forbes.com/sites/johnkang/2024/03/14/founder-of-chip-testing-firm-rides-ai-boom-to-become-south-koreas-newest-billionaire/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6595271c2c1b2d0f73410a6e/0x0.jpg?format=jpg&crop=765,430,x47,y0,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-14T09:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-14-akamai-neural-magic-team-to-bolster-ai-at-the-network-edge.md",
+      "title": "Akamai, Neural Magic team to bolster AI at the network edge",
+      "excerpt": "The partnership will give joint customers a CPU platform on which to run computationally intensive AI workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/1313602/akamai-neural-magic-team-to-bolster-ai-at-the-network-edge.html",
+      "originalUrl": "https://www.networkworld.com/article/1313602/akamai-neural-magic-team-to-bolster-ai-at-the-network-edge.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.networkworld.com/wp-content/uploads/2024/03/shutterstock_1748437547-100937033-orig.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/1313602/akamai-neural-magic-team-to-bolster-ai-at-the-network-edge.html/amp/",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1313602/akamai-neural-magic-team-to-bolster-ai-at-the-network-edge.html/amp/",
+      "publishedDateTime": "2024-03-14T09:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-14-anthropic-releases-claude-3-haiku-an-ai-model-built-for-speed-and-affordability.md",
       "title": "Anthropic releases Claude 3 Haiku, an AI model built for speed and affordability",
       "excerpt": "Anthropic launches Claude 3 Haiku, the fastest and most affordable AI model in its class, featuring advanced vision capabilities and enterprise-grade security for high-volume, latency-sensitive applications.",
@@ -429,6 +524,57 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-14-how-are-editors-using-ai-in-2024.md",
+      "title": "How Are Editors Using AI in 2024?",
+      "excerpt": "Leveraging AI is like having an additional team member who never sleeps, doesn't take breaks, and tirelessly helps improve our work. It's about working smarter, not harder. As editors, we must harness the potential of AI to maximize our productivity, enhance our content, and stay ahead in the competitive digital marketing landscape.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/business-news/how-are-editors-using-ai-in-2024/471119",
+      "originalUrl": "https://www.entrepreneur.com/business-news/how-are-editors-using-ai-in-2024/471119",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1710358691-HowAreEditorsUsingAIin2024-.jpg?format=pjeg&auto=webp",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-13T19:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -906,7 +1052,7 @@
       "originalUrl": "https://breakingdefense.com/2024/03/the-difference-between-artificial-intelligence-and-machine-learning-and-why-it-matters/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1053,7 +1199,7 @@
       "originalUrl": "https://www.zdnet.com/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -1093,161 +1239,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-sima-generalist-ai-agent-for-3d-virtual-environments.md",
-      "title": "SIMA generalist AI agent for 3D virtual environments",
-      "excerpt": "Introducing SIMA, a Scalable Instructable Multiworld Agent",
-      "sourceUrl": null,
-      "webUrl": "https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/",
-      "originalUrl": "https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/2GNumOaJCB48RQIFbwJmmZro-AFdBebufxvY_ZkSdUs9RQ-0nSTgBMXuhUdIE5zpPknqevL4ZyP44PLOpJlg0U0ArlOCcJHfoOagzSnZZoXLnq7hdQ=w1200-h630-n-nu",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-13T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-eu-finally-adopts-ai-act-marking-a-new-era-for-artificial-intelligence.md",
-      "title": "EU finally adopts AI Act, marking a ‘new era’ for artificial intelligence",
-      "excerpt": "The EU has officially adopted the AI Act, bringing the world's first comprehensive rules on artificial intelligence close to implementation",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/eu-adopts-ai-act-artificial-intelligence-rules",
-      "originalUrl": "https://thenextweb.com/news/eu-adopts-ai-act-artificial-intelligence-rules",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F03%2FUntitled-design-1-1.jpg&signature=0e85e2638e9489757e42144e7f058518",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-13T13:12:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-the-emerging-llm-stack-in-investment-funds.md",
-      "title": "The Emerging LLM Stack In Investment Funds",
-      "excerpt": "Adoption still faces barriers and risks, but a large language model (LLM) stack is emerging to accommodate new use cases and address concerns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/the-emerging-llm-stack-in-investment-funds/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/the-emerging-llm-stack-in-investment-funds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b6992ab0207ea57f6cab16/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/the-emerging-llm-stack-in-investment-funds/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/13/the-emerging-llm-stack-in-investment-funds/amp/",
-      "publishedDateTime": "2024-03-13T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

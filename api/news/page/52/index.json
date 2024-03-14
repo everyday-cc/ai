@@ -2,6 +2,248 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2024-02-06-could-artificial-intelligence-help-or-hurt-scientific-research-articles.md",
+      "title": "Could artificial intelligence help or hurt scientific research articles?",
+      "excerpt": "The Use of Artificial Intelligence in Writing Scientific Review Articles. Current Osteoporosis Reports , 2024; DOI: 10.1007/s11914-023-00852-0 Cite This Page :",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2024/02/240206144939.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2024/02/240206144939.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-facebook-and-instagram-will-label-fake-ai-images-to-stop-misinfo-from-spreading.md",
+      "title": "Facebook and Instagram will label fake AI images to stop misinfo from spreading",
+      "excerpt": "Meta will begin flagging AI-generated images on Facebook, Instagram ... The company’s AI Research lab FAIR is developing a new type of watermarking tech called Stable Signature.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/computing/software/facebook-and-instagram-will-label-fake-ai-images-to-stop-misinfo-from-spreading",
+      "originalUrl": "https://www.techradar.com/computing/software/facebook-and-instagram-will-label-fake-ai-images-to-stop-misinfo-from-spreading",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/4xrZVKy6i8qzhWT3KgsD3T-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-global-forum-on-the-ethics-of-ai-2024.md",
+      "title": "Global Forum on the Ethics of AI 2024",
+      "excerpt": "The 2 nd Global Forum on the Ethics of Artificial Intelligence: Changing the Landscape of AI Governance, took place in the Brdo Congress Centre of Kranj on 5 and 6 February 2024. This Forum brought together the experiences and expertise of countries at ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.unesco.org/en/forum-ethics-ai",
+      "originalUrl": "https://www.unesco.org/en/forum-ethics-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.unesco.org/sites/default/files/styles/best_image/public/2024-01/ethicsofai_banner_1800px.jpg?itok=spmQQkq6",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UNESCO",
+        "domain": "unesco.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-roblox-breaks-language-barriers-with-ai-based-real-time-chat-translation.md",
+      "title": "Roblox breaks language barriers with AI-based real-time chat translation",
+      "excerpt": "Roblox is breaking language barriers today as it launches AI-powered real-time chat translation in 16 languages.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/roblox-breaks-language-barriers-with-ai-based-real-time-chat-translation/",
+      "originalUrl": "https://venturebeat.com/games/roblox-breaks-language-barriers-with-ai-based-real-time-chat-translation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/02/English-__-German-Translation-Render.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-top-7-cyber-threat-hunting-tools-for-2024.md",
+      "title": "Top 7 Cyber Threat Hunting Tools for 2024",
+      "excerpt": "Leveraging unsupervised machine learning models, Carbon Black Endpoint can detect anomalies ... latest news and tips on the following topics and more, XaaS, AWS, Microsoft Azure, DevOps, virtualization, the hybrid cloud, and cloud security.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/cyber-threat-hunting-tools/",
+      "originalUrl": "https://www.techrepublic.com/article/cyber-threat-hunting-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.techrepublic.com/uploads/2024/02/AdobeStock_715754594.jpeg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-06-a-tale-of-three-cloud-builders-all-seeking-dominance.md",
       "title": "A Tale Of Three Cloud Builders, All Seeking Dominance",
       "excerpt": "AWS has to work hard every day to make its cloud cheaper ... and better models and cheaper compute engines become available for GenAI and other artificial intelligence workloads. In the quarter ended in December, which is Microsoft’s second quarter ...",
@@ -895,240 +1137,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-scientists-at-the-university-of-bayreuth-use-artificial-intelligence-in-astrophysics.md",
-      "title": "Scientists at the University of Bayreuth use artificial intelligence in astrophysics",
-      "excerpt": "Their innovative approach uses a deep neural network to quickly predict the stability of galaxy models. This artificial intelligence-based method enables efficient verification or falsification of astrophysical hypotheses in seconds. The research objective ...",
-      "sourceUrl": null,
-      "webUrl": "https://idw-online.de/de/news828161",
-      "originalUrl": "https://idw-online.de/de/news828161",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://files.idw-online.de/wnv/idw-Logo-Wissenschaft-bewegt.png",
-          "width": 498,
-          "height": 259,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-05T13:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "idw",
-        "domain": "idw-online.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-wimi-announced-multi-view-representation-learning-algorithm-for-data-stream-clustering.md",
-      "title": "WiMi Announced Multi-View Representation Learning Algorithm for Data Stream Clustering",
-      "excerpt": "WiMi Hologram Cloud Inc. (NASDAQ: WIMI) (\"WiMi\" or the \"Company\"), a leading global Hologram Augmented Reality (\"AR\") Technology provider, today announced that a multi-view representation learning algorithm is to deal with the data stream clustering problem.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/wimi-announced-multi-view-representation-learning-algorithm-for-data-stream-clustering-1033029820",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/wimi-announced-multi-view-representation-learning-algorithm-for-data-stream-clustering-1033029820",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-05T13:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-eu-states-give-green-light-to-artificial-intelligence-law.md",
-      "title": "EU states give green light to artificial intelligence law",
-      "excerpt": "Representatives of the EU member states voted in favor of a proposal in Brussels on Friday which should soon make artificial intelligence (AI) subject to stricter rules.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2024-02-eu-states-green-artificial-intelligence.html",
-      "originalUrl": "https://techxplore.com/news/2024-02-eu-states-green-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/6-artificialin.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2024-02-eu-states-green-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2024-02-eu-states-green-artificial-intelligence.amp",
-      "publishedDateTime": "2024-02-05T13:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-computer-vision-in-industrial-settings-how-to-implement-it-successfully.md",
-      "title": "Computer Vision In Industrial Settings: How To Implement It Successfully",
-      "excerpt": "Ensuring compliance with various requirements during the assembly of products, particularly complex ones such as heavy machinery components, poses a significant challenge. The incorporation of computer vision through cameras or sensors empowers companies to identify the slightest deviations from established standards.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/05/computer-vision-in-industrial-settings-how-to-implement-it-successfully/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/05/computer-vision-in-industrial-settings-how-to-implement-it-successfully/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65bd4608c66d4066cb5807aa/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1232,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/05/computer-vision-in-industrial-settings-how-to-implement-it-successfully/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/05/computer-vision-in-industrial-settings-how-to-implement-it-successfully/amp/",
-      "publishedDateTime": "2024-02-05T12:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-05-apples-new-ai-research-promises-high-performance-without-the-high-price-tag.md",
-      "title": "Apple’s new AI research promises high performance without the high price tag",
-      "excerpt": "For instance, Hugging Face, a company that provides open-source tools and models for natural language processing, recently launched an initiative with Google that makes it easier for users to ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/apples-new-ai-research-promises-high-performance-without-the-high-price-tag/",
-      "originalUrl": "https://venturebeat.com/ai/apples-new-ai-research-promises-high-performance-without-the-high-price-tag/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/nuneybits_Abstract_art_of_an_apple_surrounded_by_data_and_money_118ed9fb-d58c-4b58-940c-f1d0ec5bddd4-1-transformed.webp?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-05T12:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Meta AI"
       ]
     }
   ],

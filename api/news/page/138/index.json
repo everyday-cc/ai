@@ -2,6 +2,221 @@
   "page": 138,
   "value": [
     {
+      "path": "_news/2023-11-20-deepmind-says-new-multi-game-ai-is-a-step-toward-more-general-intelligence.md",
+      "title": "DeepMind Says New Multi-Game AI Is a Step Toward More General Intelligence",
+      "excerpt": "A new Google DeepMind algorithm that can tackle a much wider variety of games could be a step towards more general AI, its creators say.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2023/11/20/deepmind-says-new-multi-game-ai-is-a-step-toward-more-general-intelligence/",
+      "originalUrl": "https://singularityhub.com/2023/11/20/deepmind-says-new-multi-game-ai-is-a-step-toward-more-general-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2023/11/chess-pieces-knights.jpeg",
+          "width": 1408,
+          "height": 792,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2023/11/20/deepmind-says-new-multi-game-ai-is-a-step-toward-more-general-intelligence/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2023/11/20/deepmind-says-new-multi-game-ai-is-a-step-toward-more-general-intelligence/?amp=1",
+      "publishedDateTime": "2023-11-20T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-20-last-llama-on-the-loose-returns-to-his-home-in-the-blue-mountains.md",
+      "title": "Last llama on the loose returns to his home in the Blue Mountains",
+      "excerpt": "After nearly 10 days on the loose in the wilds of the Blue Mountains, the last llama on the loose returned home Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://barrie.ctvnews.ca/last-llama-on-the-loose-returns-to-his-home-in-the-blue-mountains-1.6652451",
+      "originalUrl": "https://barrie.ctvnews.ca/last-llama-on-the-loose-returns-to-his-home-in-the-blue-mountains-1.6652451",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2023/11/20/llewis-the-llama-1-6652849-1700507040921.png",
+          "width": 1020,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-20T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-20-business-leaders-highlight-the-need-for-a-hybrid-cloud-approach-to-unlock-the-power-of-generative-ai.md",
+      "title": "Business leaders highlight the need for a hybrid cloud approach to unlock the power of generative AI",
+      "excerpt": "Explore the key drivers that impacted cloud transformation and what they mean for companies on their cloud modernization journey.\nThe post Business leaders highlight the need for a hybrid cloud approach to unlock the power of generative AI appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/business-leaders-highlight-the-need-for-a-hybrid-cloud-approach-to-unlock-the-power-of-generative-ai/",
+      "originalUrl": "https://www.ibm.com/blog/business-leaders-highlight-the-need-for-a-hybrid-cloud-approach-to-unlock-the-power-of-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-20T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-20-sandboxaq-announces-ai-simulation-collaboration-with-nvidia-to-impact-the-physical-world.md",
+      "title": "SandboxAQ Announces AI Simulation Collaboration with NVIDIA to Impact the Physical World",
+      "excerpt": "AI and Quantum Simulation (AQ) is Next Significant AI Advancement for Creating Novel Battery Chemistries, Pharmaceutical Drugs, Energy Generation, Construction Materials and More PALO ALTO, Calif., Nov.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/23/11/n35873661/sandboxaq-announces-ai-simulation-collaboration-with-nvidia-to-impact-the-physical-world",
+      "originalUrl": "https://www.benzinga.com/pressreleases/23/11/n35873661/sandboxaq-announces-ai-simulation-collaboration-with-nvidia-to-impact-the-physical-world",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
+          "width": 1043,
+          "height": 1043,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/35873661",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/35873661",
+      "publishedDateTime": "2023-11-20T13:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-20-is-meta-llama-truly-open-source.md",
+      "title": "Is Meta Llama Truly Open Source?",
+      "excerpt": "Explore the authenticity of Meta LLaMA as an open-source LLM, dissecting the criteria and larger implications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.unite.ai/is-meta-llama-truly-open-source/",
+      "originalUrl": "https://www.unite.ai/is-meta-llama-truly-open-source/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.unite.ai/wp-content/uploads/2023/11/Is-Metas-Llama-Truly-Open-Source-952x600.jpg",
+          "width": 952,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-20T12:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "unite",
+        "domain": "unite.ai",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-20-how-to-build-a-successful-talent-management-strategy.md",
       "title": "How to build a successful talent management strategy",
       "excerpt": "Explore how to build a talent management strategy that identifies top talent and cultivates their ability to produce business value.\nThe post How to build a successful talent management strategy appeared first on IBM Blog.\n",

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/paulnoble/2024/03/11/the-future-of-supp
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulnoble/2024/03/11/the-future-of-supply-chain-technology-a-shift-toward-intelligent-systems/amp/"
 type: article
 quality: 88
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://q3.informazione.it/imgr/aHR0cHM6Ly93d3cubWFya2V0c2FuZG1hcmtldHMuY29tL0ltYWdlcy9haS1pbi1jb21wdXRlci12aXNpb24tbWFya2V0MTUuanBn.ZUGs9IrsSBI.jpg?w=1200&h=800&scale=both&mode=crop&anchor=topcenter"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Voice Assistant Technology: Enhancing User Experience through AI"
+    excerpt: "This article delves into the transformative impact of voice assistant technology, powered by artificial intelligence, on everyday life. It explores how these AI companions are redefining user interactions,"
+    publishedDateTime: 2024-03-13T11:09:00Z
+    webUrl: "https://www.devdiscourse.com/article/technology/2849148-voice-assistant-technology-enhancing-user-experience-through-ai"
+    ampWebUrl: "https://www.devdiscourse.com/article/technology/2849148-voice-assistant-technology-enhancing-user-experience-through-ai?amp"
+    cdnAmpWebUrl: "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2849148-voice-assistant-technology-enhancing-user-experience-through-ai?amp"
+    type: article
+    provider:
+      name: devdiscourse
+      domain: devdiscourse.com
+    quality: 59
+    images:
+      - url: "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/05_03_2024_13_00_12_3202713.png?width=1280"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "NROsWRaMo/j1NZhhLx88g8ZGAUJDoDZkn0t83fqTvyqM6GETZlICY9j9J0THxkVeb8J03CinlehPYen1gG6GOqrakkIGWk53jM+zjsfP9B1e5GE7Xrl/5LjnG6rbGrB1ZeL46NbjmhZ8y9+8XcpA3VabSmN+LihOFPwqPEzAS/3aJ8gPramRWE4OJIUJpHVL8R/97cT2kc+wqeBGb71OONuHDEXSTvEDHNO+nS12Yd8LWVNkT4pK2UksNvyOzOPAGHnK2CJkL2p57OeY8XNX/F0jnyfZ5+GjAhaVOXsPbdxgkwt0CStrWaTqdnI3zZpGOudJQrRzIGIxbzPppdqBPkLPImPhrjkMYumAdESTEJHubhYfs2kjMPQ0f3C2aEOtGUhnaJryGT74rnvFUSozTeFfKZ1KaLtoCgIaE7rMOMgKOf+60Wi3KgjOEitsaDtuhub2czNcaHZPZxVV+30tdd05jr0wxISHqBKGH7ZWFoJoE5rvQY3HcAPr7rcUEjKO3Z5MTATok41qa5ylSNxNHg==;Rafzh11RLgYhihyapuj4hw=="

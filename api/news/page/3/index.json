@@ -2,6 +2,164 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-03-13-qualcomm-on-device-ai-powers-future-products-from-phones-to-pcs.md",
+      "title": "Qualcomm On-Device AI Powers Future Products From Phones To PCs",
+      "excerpt": "Goodson provides details on Qualcomm's newest products designed to enable on-device AI as announced at the Mobile World Congress Barcelona event.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2024/03/12/qualcomm-on-device-ai-powers-future-products-from-phones-to-pcs/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2024/03/12/qualcomm-on-device-ai-powers-future-products-from-phones-to-pcs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65f0e7cb13f206a9b1de458c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1008,
+          "height": 566,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2024/03/12/qualcomm-on-device-ai-powers-future-products-from-phones-to-pcs/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2024/03/12/qualcomm-on-device-ai-powers-future-products-from-phones-to-pcs/amp/",
+      "publishedDateTime": "2024-03-12T23:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2024-03-13-how-to-make-better-bricks-for-better-homes-in-nepal.md",
+      "title": "How To Make Better Bricks For Better Homes In Nepal",
+      "excerpt": "Engineers and entrepreneurs in Nepal are using a different kind of brick to rebuild the country using a process that produce less carbon and other air pollution.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/andrewwight/2024/03/12/how-to-make-better-bricks-for-better-homes-in-nepal/",
+      "originalUrl": "https://www.forbes.com/sites/andrewwight/2024/03/12/how-to-make-better-bricks-for-better-homes-in-nepal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65f095ed0d6f3c491025ce54/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/andrewwight/2024/03/12/how-to-make-better-bricks-for-better-homes-in-nepal/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewwight/2024/03/12/how-to-make-better-bricks-for-better-homes-in-nepal/amp/",
+      "publishedDateTime": "2024-03-12T22:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-13-mia-shah-dands-race-to-bridge-the-ai-gender-gap-for-a-human-centred-world.md",
+      "title": "Mia Shah-Dand’s Race To Bridge The AI Gender Gap For A Human-Centred World",
+      "excerpt": "Mia Shah-Dand is building a counter narrative to give voice and due credit to incredible women that shape technology– despite the stagnation in STEM, the gender pay gap, and the disproportionate funding gap.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/hessiejones/2024/03/12/mia-shah-dands-race-to-bridge-the-ai-gender-gap-for-a-human-centred-world/",
+      "originalUrl": "https://www.forbes.com/sites/hessiejones/2024/03/12/mia-shah-dands-race-to-bridge-the-ai-gender-gap-for-a-human-centred-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65f0c99fff7e5dec5192af17/0x0.jpg?format=jpg&crop=1306,735,x0,y325,safe&height=900&width=1600&fit=bounds",
+          "width": 1599,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/hessiejones/2024/03/12/mia-shah-dands-race-to-bridge-the-ai-gender-gap-for-a-human-centred-world/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/hessiejones/2024/03/12/mia-shah-dands-race-to-bridge-the-ai-gender-gap-for-a-human-centred-world/amp/",
+      "publishedDateTime": "2024-03-12T21:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2024-03-13-ibm-begins-layoffs-amid-push-toward-ai.md",
       "title": "IBM begins layoffs amid push toward AI",
       "excerpt": "IBM Corp. on Tuesday notified employees in its marketing and communications division that it’s making cuts, the latest large tech company to trim its payroll.",
@@ -208,7 +366,7 @@
       "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2024/03/12/vast-datas-nvidia-dpu-based-ai-cloud-architecture/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 359,
+      "heat": 369,
       "tags": null,
       "images": [
         {
@@ -607,7 +765,7 @@
       "originalUrl": "https://techcrunch.com/2024/03/12/google-play-store-will-show-ai-powered-faqs-and-latest-youtube-videos-for-games/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -1106,154 +1264,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-bridging-the-trust-gap-in-workplace-ai.md",
-      "title": "Bridging The Trust Gap In Workplace AI",
-      "excerpt": "A key element of the AI trust gap is not so much about technology but about whether the motivations around its appeal are mutually aligned and beneficial.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/12/bridging-the-trust-gap-in-workplace-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/12/bridging-the-trust-gap-in-workplace-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65ef584cbe564485962092d2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/12/bridging-the-trust-gap-in-workplace-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/12/bridging-the-trust-gap-in-workplace-ai/amp/",
-      "publishedDateTime": "2024-03-12T11:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-prompt-engineering-technique-known-as-the-step-around-is-gaining-steam-as-generative-ai-becomes-less-forthright.md",
-      "title": "Prompt Engineering Technique Known As The Step-Around Is Gaining Steam As Generative AI Becomes Less Forthright",
-      "excerpt": "A prompt engineering technique known as the step-around is gaining attention due to generative AI increasingly being less forthright. Here's what you need to know.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2024/03/12/prompt-engineering-technique-known-as-the-step-around-is-gaining-steam-as-generative-ai-becomes-less-forthright/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2024/03/12/prompt-engineering-technique-known-as-the-step-around-is-gaining-steam-as-generative-ai-becomes-less-forthright/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65ee4ffd8c25253909e03855/0x0.jpg?format=jpg&crop=997,549,x0,y50,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 881,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2024/03/12/prompt-engineering-technique-known-as-the-step-around-is-gaining-steam-as-generative-ai-becomes-less-forthright/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/03/12/prompt-engineering-technique-known-as-the-step-around-is-gaining-steam-as-generative-ai-becomes-less-forthright/amp/",
-      "publishedDateTime": "2024-03-12T11:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-new-ai-robotics-spacetech-and-fintech-unicorns-trot-onto-the-unicorn-board-in-february.md",
-      "title": "New AI, Robotics, Spacetech And Fintech Unicorns Trot Onto The Unicorn Board In February",
-      "excerpt": "Ten new unicorns added more than $18 billion in value to The Crunchbase Unicorn Board in February, but one company was also downgraded from unicorn status and fell off the board.",
-      "sourceUrl": null,
-      "webUrl": "https://news.crunchbase.com/ai/new-unicorn-board-companies-february-2024-moonshot-ai/",
-      "originalUrl": "https://news.crunchbase.com/ai/new-unicorn-board-companies-february-2024-moonshot-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.crunchbase.com/wp-content/uploads/unicornboard_hero-resized.jpg",
-          "width": 900,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-12T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "news.crunchbase",
-        "domain": "crunchbase.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI",
         "AI in Finance"
       ]

@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Google Demos a New AI That Can Play Video Games with You"
+    excerpt: "The Google DeepMind team has developed a generalist SIMA AI agent that can follow instructions in video games and perform a variety of tasks."
+    publishedDateTime: 2024-03-14T02:09:00Z
+    webUrl: "https://beebom.com/google-sima-ai-play-video-games-with-you/"
+    ampWebUrl: "https://beebom.com/google-sima-ai-play-video-games-with-you/amp/"
+    cdnAmpWebUrl: "https://beebom-com.cdn.ampproject.org/c/s/beebom.com/google-sima-ai-play-video-games-with-you/amp/"
+    type: article
+    provider:
+      name: Beebom
+      domain: beebom.com
+    quality: 59
+    images:
+      - url: "https://beebom.com/wp-content/uploads/2024/03/sima-agent-by-google-deepmind.jpg"
+        width: 1250
+        height: 750
+        isCached: true
 
 secured: "jv6hm37TRrf3U0dVI0aUsrqWdTIDMO4UKIFdnaG7jsjZBDki58pykVQBB7J/rgIqiqO18oz291kCtvsza0AwjBIyWwRPJAwwHtp/1FQSCsdPyobfIbSyk9OjjqMoekBoaXOs7iBjX5yfhZcVZVFzQCb1u5qlppdVQzZqh8AsokuKz0i9t7z/QaLpM5zETqYqC6+/R6+zdDelvacN2aKBJh/BAip5G65DgzZpuHB/eEyZar2I1EoBQkbZtah0AfF7GmrnteElMXMKy1rygKislSniQaZtvXcEsbV+OpRLHO9PNe5Y62h5wuHW3sUfi/jYs6Zm/J/CaQqWPxMEZOY5hbD6ZNiDd794Oe3Z6ZrvBgaKltTC5I89QyyV0rpeYMmmzDQlRPeGomcsIF+Lmc4KHpdk6yhfWj+XuAdIMYyH1aLPa+zy817pkZMT3xSVubAooZ26GcLJUvQvweROsgA8tCqXejw8pYbXcW+IrzV+LzTsD//38MVdW7IIAid9hjLA67lSpf8faE4XJWG4Phw7FQ==;k2i0Gff6Ec6XpPS5yl4xYA=="
 ---

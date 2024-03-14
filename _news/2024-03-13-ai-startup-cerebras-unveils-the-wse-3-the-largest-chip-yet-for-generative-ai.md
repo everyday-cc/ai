@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-startup-cerebras-unveils
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/"
 type: article
 quality: 101
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 64
+  - title: "Cerebras breaks ground on Condor Galaxy 3, an AI supercomputer that can hit 8 exaFLOPs"
+    excerpt: "Cerebras and G42 said they have broken ground on Condor Galaxy 3, an AI supercomputer that can hit eight exaFLOPs of performance."
+    publishedDateTime: 2024-03-13T20:00:00Z
+    webUrl: "https://venturebeat.com/ai/cerebras-breaks-ground-on-condor-galaxy-3-an-ai-supercomputer-that-can-hit-8-exaflops/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 61
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/03/cerebras-WSE-3-2.jpg?w=1200&strip=all"
+        width: 1200
+        height: 632
+        isCached: true
   - title: "Cerebras WSE-3 wafer-scale AI chip: 57x bigger than largest GPU with 4 trillion transistors"
     excerpt: "Cerebras Systems unveils its new WSE-3 AI chip that's 57x larger than NVIDIA H100 AI GPU, with 4 trillion transistors, and 900,000 AI-optimized cores."
     publishedDateTime: 2024-03-13T23:03:00Z

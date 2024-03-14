@@ -1193,6 +1193,49 @@
       ]
     },
     {
+      "path": "_news/2024-03-02-censored-essay-peter-hessler-sells-his-car.md",
+      "title": "Censored Essay: Peter Hessler Sells His Car",
+      "excerpt": "Acclaimed writer Peter Hessler is selling his car in Chengdu, after leaving China in 2021 when his teaching contract was abruptly terminated. Online, the sale of his Honda CRV has spurred a series of reflections on Hessler’s impact on China and on the closing of a chapter in U.",
+      "sourceUrl": null,
+      "webUrl": "https://chinadigitaltimes.net/2024/02/censored-essay-peter-hessler-sells-his-car/",
+      "originalUrl": "https://chinadigitaltimes.net/2024/02/censored-essay-peter-hessler-sells-his-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://chinadigitaltimes.net/wp-content/uploads/2019/09/ad2.jpg",
+          "width": 308,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://chinadigitaltimes.net/2024/02/censored-essay-peter-hessler-sells-his-car/",
+      "cdnAmpWebUrl": "https://chinadigitaltimes-net.cdn.ampproject.org/c/s/chinadigitaltimes.net/2024/02/censored-essay-peter-hessler-sells-his-car/",
+      "publishedDateTime": "2024-03-02T00:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "China Digital Times",
+        "domain": "chinadigitaltimes.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-02-the-hype-is-gone-from-the-electric-vehicle-industry-evs-are-becoming-boring-appliances.md",
       "title": "The hype is gone from the electric-vehicle industry. EVs are becoming boring appliances",
       "excerpt": "This week, Apple AAPL-Q rolled its plans to create a self-driving iPhone on wheels into the ditch ... in spite of endless predictions they would be the norm by now (Waymo and Baidu run small fleets of them in a few American and Chinese cities), Tesla ...",
@@ -1302,58 +1345,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-openai-categorically-disagrees-with-elon-musks-lawsuit-against-it-suggests-tesla-ceo-has-regrets.md",
-      "title": "OpenAI ‘categorically disagrees’ with Elon Musk’s lawsuit against it, suggests Tesla CEO has ‘regrets’",
-      "excerpt": "Mike Windle/Getty Images for Vanity Fair OpenAI “categorically disagrees” with the lawsuit Elon Musk filed against the company, according to an internal memo sent to employees of the artificial intelligence startup. Musk, a cofounder of OpenAI who is ...",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/2024/03/01/openai-elon-musk-lawsuit-tesla-ceo-regrets/?itm_source=parsely-api",
-      "originalUrl": "https://fortune.com/2024/03/01/openai-elon-musk-lawsuit-tesla-ceo-regrets/?itm_source=parsely-api",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.fortune.com/wp-content/uploads/2024/03/GettyImages-491587260-e1709336480973.jpg?w=840",
-          "width": 840,
-          "height": 559,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/2024/03/01/openai-elon-musk-lawsuit-tesla-ceo-regrets/amp/",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2024/03/01/openai-elon-musk-lawsuit-tesla-ceo-regrets/amp/",
-      "publishedDateTime": "2024-03-01T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

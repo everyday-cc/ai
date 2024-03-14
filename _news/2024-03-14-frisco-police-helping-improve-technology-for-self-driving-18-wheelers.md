@@ -52,6 +52,20 @@ related:
       name: EuropaWire
       domain: europawire.eu
     quality: 24
+  - title: "Election risks delaying deployment of self-driving vehicles"
+    excerpt: "Parliament urged to back the Automated Vehicles Bill to ensure its swift passage into law so self-driving technology can be deployed sooner rather than later."
+    publishedDateTime: 2024-03-14T09:25:00Z
+    webUrl: "https://www.fleetnews.co.uk/news/bill-delay-risks-delay-to-deployment-of-self-driving-vehicles"
+    type: article
+    provider:
+      name: Fleet News
+      domain: fleetnews.co.uk
+    quality: 24
+    images:
+      - url: "https://fncdn.blob.core.windows.net/web-clean/1/root/istock-self-driving.jpg"
+        width: 2121
+        height: 1414
+        isCached: true
   - title: "California Cities Are Attempting To Wrestle Back Control Of The Streets From Self-Driving Car Companies"
     excerpt: "Californians have had enough of self-driving cars running roughshod over two of their largest cities, and now their legislature is doing something about it. California Senate Bill 915 could allow cities to have a say in what happens on their own streets. Pretty novel idea, huh?"
     publishedDateTime: 2024-03-13T17:15:00Z

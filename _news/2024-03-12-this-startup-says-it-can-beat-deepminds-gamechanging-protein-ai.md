@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/alexknapp/2024/03/11/basecamp-researc
 webUrl: "https://www.forbes.com/sites/alexknapp/2024/03/11/basecamp-research-protein-folding-ai-deepmind-alphafold/"
 type: article
 quality: 86
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "DeepMind's latest AI wants your video game controller, not your job"
+    excerpt: "Google DeepMind says it's created a \"multi-world\" AI agent that can follow your natural-language instructions to perform a range of tasks for you in a variety of 3D virtual environments. That is, it'll do the grindy bits of video games for you. It's a ..."
+    publishedDateTime: 2024-03-14T00:01:00Z
+    webUrl: "https://newatlas.com/technology/deepmind-sima-game-agent-ai"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 86
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/3c923e6/2147483647/strip/true/crop/1798x944+0+40/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F94%2Fc7%2Fcdbefcde4df8a728a67053e15778%2Fscreenshot-2024-03-14-at-4.36.45%20pm.png&na.image_optimisation=0"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Google DeepMind’s Latest AI Agent Learned to Play Goat Simulator 3"
     excerpt: "These AI agents can adapt to games they haven't played before. Google made them by feeding data on how humans play different video games to a language model like those behind the latest chatbots."
     publishedDateTime: 2024-03-13T10:00:00Z
@@ -52,7 +66,7 @@ related:
     provider:
       name: Gizmochina
       domain: gizmochina.com
-    quality: 78
+    quality: 80
     images:
       - url: "https://www.gizmochina.com/wp-content/uploads/2023/11/google-sundar-pichai.jpg"
         width: 1136

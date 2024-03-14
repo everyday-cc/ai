@@ -2,6 +2,256 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2024-02-22-get-ready-for-the-age-of-sovereign-ai-jensen-huang-interview.md",
+      "title": "Get ready for the age of sovereign AI | Jensen Huang interview",
+      "excerpt": "The AI Impact Tour – NYC We’ll be in New York on February 29 ... they would not be software-hackable and that took some time. Now the company is sampling chips to China again, within the restrictions of the government. I asked if the China market ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/get-ready-for-the-age-of-sovereign-ai-jensen-huang-interview/",
+      "originalUrl": "https://venturebeat.com/ai/get-ready-for-the-age-of-sovereign-ai-jensen-huang-interview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/02/nvidia-ceo-jensen-huang-at-gtc-fall-2022-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 637,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-22T08:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-google-launches-gemma-a-family-of-open-source-lightweight-ai-models-for-developers.md",
+      "title": "Google Launches Gemma, a Family of Open-Source Lightweight AI Models for Developers",
+      "excerpt": "Gemma’s open-source AI models are built from the same research and technology used to create the Gemini models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gadgets360.com/ai/news/google-gemma-ai-model-launched-lightweight-open-source-developers-5105465",
+      "originalUrl": "https://www.gadgets360.com/ai/news/google-gemma-ai-model-launched-lightweight-open-source-developers-5105465",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.gadgets360cdn.com/large/google_gemma_ai_1708588635642.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.gadgets360.com/ai/news/google-gemma-ai-model-launched-lightweight-open-source-developers-5105465/amp",
+      "cdnAmpWebUrl": "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/ai/news/google-gemma-ai-model-launched-lightweight-open-source-developers-5105465/amp",
+      "publishedDateTime": "2024-02-22T07:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gadgets360",
+        "domain": "gadgets360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-backed-by-chinese-carmaker-great-wall-haomo-raises-14m-for-autonomous-driving-tech.md",
+      "title": "Backed by Chinese carmaker Great Wall, Haomo raises $14M for autonomous driving tech",
+      "excerpt": "After a few years of funding frenzy, autonomous driving companies in China are experiencing a slowdown in investment. Some companies are still hauling in",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/21/greatwall-haomo-autonomous-driving/",
+      "originalUrl": "https://techcrunch.com/2024/02/21/greatwall-haomo-autonomous-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/02/haomo.png?w=1080",
+          "width": 1080,
+          "height": 717,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/21/greatwall-haomo-autonomous-driving/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/21/greatwall-haomo-autonomous-driving/amp/",
+      "publishedDateTime": "2024-02-22T07:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-best-web-hosting-services-for-2024.md",
+      "title": "Best Web Hosting Services for 2024",
+      "excerpt": "Zach began writing for CNET in November, 2021 after writing for a broadcast news station in his hometown, Cincinnati, for five years. You can usually find him reading and drinking coffee or ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/services-and-software/best-web-hosting/",
+      "originalUrl": "https://www.cnet.com/tech/services-and-software/best-web-hosting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/696e771748c077d78ebf3b49e96efbd53db73f3a/hub/2021/02/01/d03f0d49-5fd3-47b5-8e65-be844c6c3aa9/gettyimages-1152758741.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-22T07:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-ai-tool-to-aid-organ-transplants-nominated-for-nhs-award.md",
+      "title": "AI tool to aid organ transplants nominated for NHS award",
+      "excerpt": "A method using artificial intelligence (AI) to assess potential transplant organs has been shortlisted for a national NHS award. Known as OrQA - Organ Quality Assessment - the technology scans images of organs to look at suitability for kidney and liver transplants.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/uk-england-bradford-west-yorkshire-68353365",
+      "originalUrl": "https://www.bbc.com/news/uk-england-bradford-west-yorkshire-68353365",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/2313/production/_132697980_optheatre.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/uk-england-bradford-west-yorkshire-68353365.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-england-bradford-west-yorkshire-68353365.amp",
+      "publishedDateTime": "2024-02-22T06:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-22-nvidia-to-wall-street-artificial-intelligence-is-just-getting-started.md",
       "title": "Nvidia to Wall Street: Artificial intelligence is just getting started",
       "excerpt": "The tensions rose. Investors seemed more than just worried that Nvidia, the maker of high-end chips used in artificial intelligence applications, would miss analysts' estimates for its fourth quarter.",
@@ -925,258 +1175,6 @@
         "Natural Language Processing",
         "AI",
         "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-biden-administration-enters-debate-on-open-versus-closed-artificial-intelligence-systems.md",
-      "title": "Biden administration enters debate on ‘open’ versus ‘closed’ artificial-intelligence systems",
-      "excerpt": "President Joe Biden signs an executive order on artificial intelligence in the East Room of the White House in Washington on Oct. 30, 2023. The Biden administration is wading into a contentious debate about whether the most powerful artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/biden-administration-enters-debate-on-open-versus-closed-artificial-intelligence-systems-b2732de1",
-      "originalUrl": "https://www.marketwatch.com/story/biden-administration-enters-debate-on-open-versus-closed-artificial-intelligence-systems-b2732de1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-66491774/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/biden-administration-enters-debate-on-open-versus-closed-artificial-intelligence-systems-b2732de1",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/biden-administration-enters-debate-on-open-versus-closed-artificial-intelligence-systems-b2732de1",
-      "publishedDateTime": "2024-02-21T18:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-microsoft-will-use-intel-foundry-to-make-its-own-chip-using-the-intel-18a-process.md",
-      "title": "Microsoft will use Intel Foundry to make its own chip using the Intel 18A process",
-      "excerpt": "Today, Intel announced its renamed chip-making business as Intel Foundry. Formerly known as Intel Foundry Services, the company claims the revamped business is the \"world’s first systems foundry for the AI era.\" However, this announcement was somewhat ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-will-use-intel-foundry-to-make-its-own-chip-using-the-intel-18a-process/",
-      "originalUrl": "https://www.neowin.net/news/microsoft-will-use-intel-foundry-to-make-its-own-chip-using-the-intel-18a-process/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neowin.com/news/images/uploaded/2024/02/1708537672_intel-foundry-ifdc-1.jpg.rendition.intel.web.1920.1080_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-will-use-intel-foundry-to-make-its-own-chip-using-the-intel-18a-process/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-will-use-intel-foundry-to-make-its-own-chip-using-the-intel-18a-process/",
-      "publishedDateTime": "2024-02-21T18:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-first-gemini-now-gemma-googles-new-open-ai-models-target-developers.md",
-      "title": "First Gemini, now Gemma: Google's new, open AI models target developers",
-      "excerpt": "On Wednesday, Google unveiled Gemma, a family of lightweight, open models developed by DeepMind and other teams across Google that are charged with AI development and research. Introducing Gemma: a family of lightweight, state-of-the-art open models for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/first-gemini-now-gemma-googles-new-open-ai-models-target-developers/",
-      "originalUrl": "https://www.zdnet.com/article/first-gemini-now-gemma-googles-new-open-ai-models-target-developers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 461,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/19d439c154585632ba0a2af6f0b59b09165842fc/2024/02/21/99f54a4d-e622-4973-bb1d-68f9ce9f9971/woman-glkasses3gettyimages-1469706451.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/first-gemini-now-gemma-googles-new-open-ai-models-target-developers/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/first-gemini-now-gemma-googles-new-open-ai-models-target-developers/",
-      "publishedDateTime": "2024-02-21T17:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-empowerly-secures-15m-for-its-college-counseling-services.md",
-      "title": "Empowerly secures $15M for its college counseling services",
-      "excerpt": "Empowerly, an edtech startup that specializes in college counseling and career guidance services, raised $15 million in a recent funding round led by Edtech startup Empowerly raised $15 million in a recent funding round led by Conductive Ventures.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/21/empowerly-secures-15m-for-its-college-counseling-services/",
-      "originalUrl": "https://techcrunch.com/2024/02/21/empowerly-secures-15m-for-its-college-counseling-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2017/12/graduate.jpg?resize=1200,900",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/21/empowerly-secures-15m-for-its-college-counseling-services/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/21/empowerly-secures-15m-for-its-college-counseling-services/amp/",
-      "publishedDateTime": "2024-02-21T17:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-wendy-williams-is-in-a-facility-to-treat-cognitive-issues-doing-really-great-says-family-exclusive.md",
-      "title": "Wendy Williams Is in a Facility to Treat Cognitive Issues, Doing 'Really Great,' Says Family (Exclusive)",
-      "excerpt": "She is, from what I understand, in a wellness, healing type of environment,\" says Wanda of the unknown facility Williams is in to address cognitive issues. Wendy Williams' Family Break Their ...",
-      "sourceUrl": null,
-      "webUrl": "https://people.com/wendy-williams-in-facility-treat-cognitive-issues-exclusive-8597776",
-      "originalUrl": "https://people.com/wendy-williams-in-facility-treat-cognitive-issues-exclusive-8597776",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://people.com/thmb/6XRVK99ACIGlrltXBzhNkWmnEuo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(719x369:721x371)/wendy-williams-1-dc2b2b1b26a043f7ae5a5b4ccbe1f2b0.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "People",
-        "domain": "people.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

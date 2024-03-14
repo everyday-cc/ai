@@ -70,6 +70,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI whiz kid Devin set to revolutionise coding"
+    excerpt: "Engineers chasing after your jobs A new AI startup called Cognition has just lifted the kimono on a fully autonomous AI software engineer named “Devin.” There are loads of coding assistants out there,"
+    publishedDateTime: 2024-03-14T09:32:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/58626-ai-whiz-kid-devin-set-to-revolutionise-coding"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 37
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/feb1e25490516a6ed8e7b80e9d88fe75_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
 
 secured: "/lCugn4AEmR6QqqWJSVXASw6SruBxAMLOnSbh+jwj8/BMpp7DU3pmmgRdWrQYJfeSs5AHPzjbSECCfaWYZPJVdvRGXcRxz1C83Uhah469t4WtU9yEaH8bj6tozbhdsmhBenRyR+VNPPyhs5S6fVtmxTz47g9LdRbfNBLrvFwfLhFBL5hRl2YN8z4CslKQG+pjt+eQ1tgUigci3BhWmkP0iJWdT7i9BVBOP+JFkUtY6/2BDexPnYP+Rblvn/nsHvnZUAh/x8EBBydwsWk3Z0CQ5pjQR7wFNFhewuju37JHOtJr+WxDHCSNDoNephSAzfQ63idhjlJ6Hb764+c4Mgrn4YzL04b3fcflx3hRwPYhvQ=;sbZCpY3PXVuh86lqtELEcA=="
 ---

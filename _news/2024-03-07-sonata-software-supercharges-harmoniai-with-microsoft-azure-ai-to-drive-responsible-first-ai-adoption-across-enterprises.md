@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Sonata Software Supercharges Harmoni.AI with Microsoft Azure AI to Drive Responsible-First AI Adoption Across Enterprises"
-excerpt: "Sonata Harmoni.AI, integrating Microsoft Azure AI services, will help customer reimagine business with Generative AI, differentiating themselves in the marketplace . BANGALORE, In"
-publishedDateTime: 2024-03-07T12:34:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2024/03/07/9974547.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2024/03/07/9974547.htm"
+excerpt: "Sonata Harmoni.AI, integrating Microsoft Azure AI services, will help customer reimagine business with Generative AI, differentiating themselves in the marketplace BANGALORE, India, March 7, 2024 /PRNewswire/ -- The leading Modernization Engineering ..."
+publishedDateTime: 2024-03-07T00:00:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2024/03/07/sonata-software-supercharges-harmoni-ai-with-microsoft-azure-ai-to-drive"
+webUrl: "https://stockhouse.com/news/press-releases/2024/03/07/sonata-software-supercharges-harmoni-ai-with-microsoft-azure-ai-to-drive"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - Microsoft AI
@@ -21,6 +21,6 @@ images:
     height: 279
     isCached: true
 
-secured: "b15n7hM4RTg+u0UIBw/ErjUixlAO64NDH336cV7aA0iYatfjfuqQ/x8+oCJ9ozG0fKvQbccumJivxBDPDt0OF9i88dxhMFucHj7F9wORUBQfpWczf/Sp1DsLiRE8OHZXpizJLiKya32ZfbF2ZTTAwYO0Rce1sNCf7PUj0xI/wRWQ+HUfeyrgagUbljF2qnmL6t2ibhcsAkSeKRZLo9R2GYwxtKFuEFyy5bZLZXDaGmfZOi4ESF/qb/6TFSqL5YMI30+XgryK/UQixDhGANFWs2DnBIm3N4XCeWjxTnxK8+q1zzXZ+MvI9P2ZAV5G7RwCPkibFEHeRDQaixUf5LUFl+pakJCR/UamuP764XgBsP8=;gAMNVvu0Si88e52XvV7kVw=="
+secured: "opPV+t/7d0lLTbHX/P4W5EOH0DY1vgrGEohKykxKETbx01PxDKPGYjvfP+tmU0NQFRaiTTEreRXxPnspAb3VLdbeByPGMDdjr/cs/GOsIfcf1X4oDtb0l6IEdbGZJHn45Gd2z6f2YEZ5OH/HTRbYY47CgP9OuGyW571vF9RuJdAaAonKeR6eYggQ3Fk/yTXQlm4FbQICQ18Bf0gRihYBMEW2t+JFiMTvVgmEpmfMlxnK3wz/N82b+NvgrkyTyS7dbVgF9+E7Vfb+5U07bmjkGhxV17XvyGTSX/dYUdc2w7slrgkhErsD1h9RT81E7lyQ+4M72y/gQgiSVOIwTauYVbFC6I+mbRTs630JbYk7lYQ=;YYsiDUf2EJKg43L1B/uYsQ=="
 ---
 
