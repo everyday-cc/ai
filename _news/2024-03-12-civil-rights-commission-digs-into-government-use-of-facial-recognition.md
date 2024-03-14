@@ -40,20 +40,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Police increase use of Colorado DMV facial recognition program"
-    excerpt: "DENVER — Numbers from the state's motor vehicle division reveal police are tapping into its facial recognition program more every year, as civil rights groups express concern about a lack of regulation and oversight. In a recent case, from October ..."
-    publishedDateTime: 2024-03-13T00:16:00Z
-    webUrl: "https://www.9news.com/article/news/investigations/police-use-colorado-dmv-facial-recognition-program/73-0c2d862c-a33c-4598-bc0a-e0d1a8ee287f"
-    type: article
-    provider:
-      name: 9NEWS
-      domain: 9news.com
-    quality: 39
-    images:
-      - url: "https://media.9news.com/assets/KUSA/images/4489cb38-bec4-4173-afc2-de03788aee79/4489cb38-bec4-4173-afc2-de03788aee79_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Cortland Student Government Association overturns decision, grants Turning Point USA recognition as official club"
     excerpt: "“The College’s recognition of Turning Point as an official club sends a huge message that universities cannot pick and choose which views are appropriate to allow on campus,” Legal Council at Alliance Defending Freedom Mathew Hoffmann said. “All students should have the freedom to express those views on campus.”"
     publishedDateTime: 2024-03-12T21:40:00Z

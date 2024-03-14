@@ -2,6 +2,92 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2024-01-25-self-driving-vehicle-company-aurora-cuts-3-of-its-workforce.md",
+      "title": "Self-driving vehicle company Aurora cuts 3% of its workforce",
+      "excerpt": "Aurora Innovation, the autonomous vehicle technology company aiming to launch a “driverless” self-driving trucks business by the end of 2024, laid off dozens of workers this month, according ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/01/24/self-driving-vehicle-company-aurora-cuts-3-of-its-workforce/",
+      "originalUrl": "https://techcrunch.com/2024/01/24/self-driving-vehicle-company-aurora-cuts-3-of-its-workforce/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/IMG_2495.jpg?resize=1200,900",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/01/24/self-driving-vehicle-company-aurora-cuts-3-of-its-workforce/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/24/self-driving-vehicle-company-aurora-cuts-3-of-its-workforce/amp/",
+      "publishedDateTime": "2024-01-24T22:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-24-how-china-is-regulating-robotaxis.md",
+      "title": "How China is regulating robotaxis",
+      "excerpt": "Robotaxis are only accessible in a few Chinese cities so far, but national regulations have started to rein them in.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2024/01/24/1086989/china-regulation-robotaxi-autonomous-driving/",
+      "originalUrl": "https://www.technologyreview.com/2024/01/24/1086989/china-regulation-robotaxi-autonomous-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-24T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-24-apples-not-so-self-driving-car-is-delayed-again-report.md",
       "title": "Apple’s Not-So-Self-Driving Car Is Delayed Again: Report",
       "excerpt": "Now, the project has been delayed yet again. In 2022, the company felt that it would release a car by 2026 that came equipped with advanced self-driving features. Two years later, that timeline looks to have been overly ambitious, according to sources with ...",
@@ -1204,85 +1290,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-16-elon-musk-gives-tesla-ultimatum-another-12-of-shares-or-no-ai-robotics.md",
-      "title": "Elon Musk gives Tesla ultimatum: Another 12% of shares or no AI, robotics",
-      "excerpt": "Click to expand... And because of course he fucking is: \"Musk is attempting to recover control that has been lost from his stock sales to fund Twitter,\" CFRA Research analyst Garrett Nelson said. \"We view Musk's demands as posturing ahead of the Delaware ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/civis/threads/elon-musk-gives-tesla-ultimatum-another-12-of-shares-or-no-ai-robotics.1498276/page-13",
-      "originalUrl": "https://arstechnica.com/civis/threads/elon-musk-gives-tesla-ultimatum-another-12-of-shares-or-no-ai-robotics.1498276/page-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-16T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2024-01-16-what-elon-musk-wants-if-hes-going-to-build-ai-and-robotics-systems-for-tesla.md",
-      "title": "What Elon Musk wants if he's going to build AI and robotics systems for Tesla",
-      "excerpt": "Tesla CEO Elon Musk indicated Monday that he wants a bigger voting share of the electric car behemoth if he's going to grow the company as a leader in artificial intelligence and ... understand that Tesla is not one startup, but a dozen.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/sanfrancisco/news/2024/01/16/elon-musk-twitter-25-percent-ai-robotics.html",
-      "originalUrl": "https://www.bizjournals.com/sanfrancisco/news/2024/01/16/elon-musk-twitter-25-percent-ai-robotics.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-16T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

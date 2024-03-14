@@ -2,6 +2,92 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2024-01-08-5-books-to-help-you-understand-artificial-intelligence.md",
+      "title": "5 books to help you understand Artificial Intelligence",
+      "excerpt": "According to Russell, the starting points of this downwards economic pressure can already be seen in products like self-driving cars and AI personal assistants. Artificial Intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/lifestyle/books/5-books-to-help-you-understand-artificial-intelligence-12011181.html",
+      "originalUrl": "https://www.moneycontrol.com/news/lifestyle/books/5-books-to-help-you-understand-artificial-intelligence-12011181.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2024/01/AI-Books-1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/lifestyle/books/5-books-to-help-you-understand-artificial-intelligence-12011181.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/lifestyle/books/5-books-to-help-you-understand-artificial-intelligence-12011181.html/amp",
+      "publishedDateTime": "2024-01-07T22:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-06-artificial-intelligence-stirs-privacy-challenges-for-schools.md",
+      "title": "Artificial intelligence stirs privacy challenges for schools",
+      "excerpt": "A commercial boom around using artificial intelligence in the classroom is creating a slew of privacy and safety hazards well before Washington grapples with the fast-moving technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2023/12/29/artificial-intelligence-privacy-schools-00132790",
+      "originalUrl": "https://www.politico.com/news/2023/12/29/artificial-intelligence-privacy-schools-00132790",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/b5/a8/4192f6464d27b43e6e417d527f42/back-to-school-student-mental-health-96428.jpg",
+          "width": 4426,
+          "height": 2951,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-05T21:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-05-baidus-bet-on-ai-could-make-or-break-chinas-fallen-tech-group.md",
       "title": "Baidu’s bet on AI could make or break China’s fallen tech group",
       "excerpt": "Ma’s return also contributed to the exit of one of Baidu’s star hires, Lu Qi, an AI expert whom Li poached away from Microsoft in 2017 to run the company’s day-to-day operations as president and COO, according to two people familiar with the matter.",
@@ -1293,111 +1379,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-16-teslas-self-driving-tech-has-competition.md",
-      "title": "Tesla’s Self-Driving Tech Has Competition",
-      "excerpt": "A mass recall of Tesla’s Autopilot feature and crisis at General Motors’ autonomous-taxi business might give the impression that self-driving cars have hit a roadblock. In fact, the technology ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/business/autos/teslas-self-driving-tech-has-competition-249fb3e2",
-      "originalUrl": "https://www.wsj.com/business/autos/teslas-self-driving-tech-has-competition-249fb3e2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-900927/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-16T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-16-ai-gives-birth-to-ai-scientists-say-machine-intelligence-now-capable-of-replicating-without-humans.md",
-      "title": "AI gives birth to AI: Scientists say machine intelligence now capable of replicating without humans",
-      "excerpt": "A group of scientists from across the U.S. claim to have created the first artificial intelligence capable of generating AI without human supervision.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/science/ai-gives-birth-ai-scientists-say-machine-intelligence-capable-replicating-without-humans",
-      "originalUrl": "https://www.foxnews.com/science/ai-gives-birth-ai-scientists-say-machine-intelligence-capable-replicating-without-humans",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3e4336cb-1ed1-4bdb-8d7a-51b172f56e8f/f6e77140-9cf3-4af3-9e39-df8551415803/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/science/ai-gives-birth-ai-scientists-say-machine-intelligence-capable-replicating-without-humans.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/science/ai-gives-birth-ai-scientists-say-machine-intelligence-capable-replicating-without-humans.amp",
-      "publishedDateTime": "2023-12-15T21:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Autos"
       ]
     }
   ],

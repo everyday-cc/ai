@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/robtoews/2024/03/10/10-ai-predictions-f
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2024/03/10/10-ai-predictions-for-the-year-2030/amp/"
 type: article
 quality: 93
-heat: 173
+heat: 183
 published: true
 
 provider:
@@ -138,6 +138,20 @@ related:
       - url: "https://itwire.com/media/k2/items/cache/9e9e0c01ebd0f7957acc6a63cc76c281_M.jpg"
         width: 375
         height: 375
+        isCached: true
+  - title: "AI supercharges threat of disinformation in a big year for elections globally"
+    excerpt: "Artificial intelligence is supercharging the threat of election disinformation worldwide, making it easy for anyone with a smartphone to create fake – but convincing – content aimed at fooling voters"
+    publishedDateTime: 2024-03-14T00:09:00Z
+    webUrl: "https://www.washingtonpost.com/business/2024/03/14/artificial-intelligence-elections-disinformation-chatgpt/fb9beb4e-e1c0-11ee-95aa-7384336086f3_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 34
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7A64WIHBYAI65FNKOOCDGYEG6M.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "XdRFHqMwkh89t8IeBu+9wKYlkUCFvZ4pURoO+gC4jGV7Nx+pjqhOHVHbYGWQX5mXEeUnQAm6lyMvHDTRfGXol7YiCFGt8v7Bszilud9IvEBnhoEBNp+Qsdc40q+/3W9nPaLd556ZmyCFs0yhjHIpzahP/Isg/2DP1lBOwaspMO9zIwlYUc6KLBnFQ0+rwYnwWgvOozou1N/S3bDJxoS1S43SHDcodmSJYCpf78k0ylJwP2C0S+rcoeFGEOpFQ8FekWKrExMUUsh5TO6rSih1d0vBh3niPYnlpM6gGjV5mhKu3ASI3Scpz8FfXlSbK2bKw0/d4JRHh6F4dyAs45ui621HouMe/IK3JfV6f+pBYlKclwbXibmrG/k6GpzcJ7gNnMLhYJ1qTMChkobGYLloV9T169rQHourOzT0MT4H+hoNDEHQzsSrnoJaZXR9mR1IoOFo3QsBK3vIyBJRmcXK3YjYHuWErlZpnjkCog8EOK4b4vaOn1MkpRxKLKyIR8/fq6qXLoub/tY9gGaH7NlpVA==;eEPG2J4iPcdxPF4FZadugQ=="

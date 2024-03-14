@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2024-01-24-aniai-is-bringing-a-burger-cooking-robot-to-restaurants-with-12m.md",
+      "title": "Aniai is bringing a burger-cooking robot to restaurants with $12M",
+      "excerpt": "Aniai, a startup that has built a burger-grilling robot, Alpha Grill, said today it has raised $12 million, bringing its total raise to $15 million. The Aniai raises $12 million in funding for its bur",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/01/23/aniai-bringing-burger-cooking-robot-to-restaurants-with-12m/",
+      "originalUrl": "https://techcrunch.com/2024/01/23/aniai-bringing-burger-cooking-robot-to-restaurants-with-12m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/11/Screen-Shot-2023-11-29-at-12.51.22-PM.png?resize=1200,801",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/01/23/aniai-bringing-burger-cooking-robot-to-restaurants-with-12m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/23/aniai-bringing-burger-cooking-robot-to-restaurants-with-12m/amp/",
+      "publishedDateTime": "2024-01-23T23:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-23-agritech-startup-raises-39m-for-autonomous-farming-platform.md",
       "title": "AgriTech Startup Raises $39M For Autonomous Farming Platform",
       "excerpt": "An agritech startup has raised $39 million for its autonomous tractor and farming solution, which reduces the cost of crop production",
@@ -1291,50 +1343,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-16-elon-musk-wants-25-voting-control-in-tesla-before-advancing-ai.md",
-      "title": "Elon Musk wants 25% voting control in Tesla before advancing AI",
-      "excerpt": "Tesla (NASDAQ:TSLA) CEO Elon Musk said he would be uncomfortable growing the electric vehicle maker into a robotics and artificial intelligence leader unless he owned at least 25% of its voting ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/4054959-elon-musk-voting-control-tesla-ai-robotics",
-      "originalUrl": "https://seekingalpha.com/news/4054959-elon-musk-voting-control-tesla-ai-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/493893250/image_493893250.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-16T09:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

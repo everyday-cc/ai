@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-26-bayer-gets-us-fda-breakthrough-therapy-designation-for-lung-cancer-treatment.md",
+      "title": "Bayer Gets U.S. FDA Breakthrough Therapy Designation for Lung Cancer Treatment",
+      "excerpt": "By Pierre Bertrand Bayer received a breakthrough therapy designation from the U.S. Food and Drug Administration for its BAY 2927088 lung cancer",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/bayer-gets-u-s-fda-breakthrough-therapy-designation-for-lung-cancer-treatment-0b4a6235",
+      "originalUrl": "https://www.marketwatch.com/story/bayer-gets-u-s-fda-breakthrough-therapy-designation-for-lung-cancer-treatment-0b4a6235",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/bayer-gets-u-s-fda-breakthrough-therapy-designation-for-lung-cancer-treatment-0b4a6235",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/bayer-gets-u-s-fda-breakthrough-therapy-designation-for-lung-cancer-treatment-0b4a6235",
+      "publishedDateTime": "2024-02-26T09:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-26-market-downturn-3-artificial-intelligence-ai-stocks-to-buy-with-1000-and-hold-forever.md",
       "title": "Market Downturn? 3 Artificial Intelligence (AI) Stocks to Buy With $1,000 and Hold Forever",
       "excerpt": "Some of the leading artificial intelligence (AI) stocks come to mind here. Here are three stocks that investors can buy for under $1,000 and confidently hold for the long term. Consider nibbling ...",
@@ -1336,40 +1388,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-artificial-intelligence-real-emotion-people-are-seeking-a-romantic-connection-with-the-perfect-bot.md",
-      "title": "Artificial intelligence, real emotion. People are seeking a romantic connection with the perfect bot",
-      "excerpt": "The generative artificial intelligence boom has led to the emergence of more companion chatbots NEW YORK -- A few months ago, Derek Carrier started seeing someone and became infatuated.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Business/wireStory/amid-artificial-intelligence-boom-ai-girlfriends-boyfriends-making-107216988",
-      "originalUrl": "https://abcnews.go.com/Business/wireStory/amid-artificial-intelligence-boom-ai-girlfriends-boyfriends-making-107216988",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-14T11:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC News",
-        "domain": "abcnews.go.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

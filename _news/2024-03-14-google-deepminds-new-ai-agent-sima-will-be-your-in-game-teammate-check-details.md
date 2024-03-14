@@ -55,7 +55,21 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "Google DeepMind’s SIMA is Training to Become Your New In-Game Teammate, Here’s How"
+    excerpt: "Get ready for a new kind of gaming buddy! Google DeepMind has introduced SIMA, a large language model being trained to become your in-game teammate. Is this what AI was meant for? Sounds about right. SIMA, which stands for “Scalable, Instructable ..."
+    publishedDateTime: 2024-03-14T00:01:00Z
+    webUrl: "https://www.gizmochina.com/2024/03/14/google-deepmind-sima-ai-game-buddy/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 78
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/11/google-sundar-pichai.jpg"
+        width: 1136
+        height: 757
+        isCached: true
 
-secured: "S5eFtr9Yh0Dr7EiYcguq3KyMxPOQMIuvHlALNZievmOWAaGVbDuWds4ndoEINPilqYzsVualu5pywFSZ8HrqEifINsMBTScpr4SaGe+t7395I6DFBME8tp9cQNlQNC+V72HPU1lCIzQZOTay+LapTmxvmMQK5HoUQfOPOHaXRd/VEFRj5pT9VbDzQmG4OcsVy0je21TI5PEOnrWeuqGhPyoctoDeIVc5rznJhe/QYQl6zbqbGNY4w0IBePEQKYGlhrWhOGDrNiMLmio4U+8aCjW7D4TvRYPMIyW9R+DuCJQzzEyDf7fQjr3qBm/Gq71Mwp29YZ19KOh4sDpobThcvygwtcmbD/Oz0i/xusFHtPo=;P9/KhGl5c/2LbReeet3ERQ=="
+secured: "so2gKurXG5hwMv64TSft+AofR3PdGGsaLfsj/T0HQzYA4itGmGcNTt28krii3WFXV4QzFHpSlKubvBtwoX9oEqRlUi1kmcDj5DSezIPhEkY7I8QfkHK7/rN/+8xqy1S7loHEOQtbE/nFKok/XmsloZpBSrPrORFHUnm37k3ysuAIpNUc8OJbez+KOTXsPc8rW1xPiz/1+YgvcTFyQ6OvRhlTD7wBYfHAzus8mMglsMbdhKUYMhiVx2M17/E6M5i63rhdPcg6QZxtgetlf0983CS2bCjF8ipGQ2xm8CIcPcLeD5/aUJHbrnp8ddVoziyqtUpt6/XqekDSUD9nN5SaGec9mUmDCo1Q/BWteofsvE5YLuBUGuTPEy3TUPXcCLoIJpvYjR+9edoPMTpXAO+vqZEGg4R3SOklg2Cjx6z2+tzz7JftThfpuf3swMfnS5r+bvUxZkrBw/UXtPkbjHCIZsqRwBvOAh0dNdHvsO4cVK5flz7z9j5poT5S6WC+rc5Dg0kliyzMAkptJJWf8lma4Q==;h/KeKA8r1uVLImF7HlJQ/w=="
 ---
 

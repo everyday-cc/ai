@@ -2,6 +2,50 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2024-01-16-elon-musk-wants-25-voting-control-in-tesla-before-advancing-ai.md",
+      "title": "Elon Musk wants 25% voting control in Tesla before advancing AI",
+      "excerpt": "Tesla (NASDAQ:TSLA) CEO Elon Musk said he would be uncomfortable growing the electric vehicle maker into a robotics and artificial intelligence leader unless he owned at least 25% of its voting ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/4054959-elon-musk-voting-control-tesla-ai-robotics",
+      "originalUrl": "https://seekingalpha.com/news/4054959-elon-musk-voting-control-tesla-ai-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/493893250/image_493893250.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-16T09:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2024-01-16-elon-musk-wants-more-voting-control-over-tesla-tsla-as-company-grows-ai-robotics-efforts.md",
       "title": "Elon Musk wants more voting control over Tesla (TSLA) as company grows AI & robotics efforts",
       "excerpt": "Elon himself chimed in to state that he’s currently uncomfortable with expanding Tesla’s AI and robotics business without more voting control. Elon Musk shared a thread of tweets in response ...",
@@ -1245,49 +1289,6 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-10-ces-2024-meet-samsungs-ballie-a-rolling-ai-robot-that-helps-control-your-home-entertain-pets.md",
-      "title": "CES 2024: Meet Samsung's Ballie, a rolling AI robot that helps control your home, entertain pets",
-      "excerpt": "Image Credit: Reuters Las Vegas: Samsung Electronics has unveiled an updated version of its AI home companion robot Ballie at the ... Ballie provides peace of mind through video updates of pets ...",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/business/retail/ces-2024-meet-samsungs-ballie-a-rolling-ai-robot-that-helps-control-your-home-entertain-pets-1.1704824378011",
-      "originalUrl": "https://gulfnews.com/business/retail/ces-2024-meet-samsungs-ballie-a-rolling-ai-robot-that-helps-control-your-home-entertain-pets-1.1704824378011",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2024/01/09/Belle_18cef70ac4b_medium.jpg",
-          "width": 540,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-09T22:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
         "images": null,
         "publishers": null,
         "authors": null

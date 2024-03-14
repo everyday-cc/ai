@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-14-high-school-students-in-colorado-explore-limits-of-artificial-intelligence-design-their-own-ai-models.md",
+      "title": "High school students in Colorado explore limits of artificial intelligence, design their own AI models",
+      "excerpt": "Students and teachers in Colorado are experimenting with artificial intelligence ... Buchanan said he is working on installing an AI camera on a self-driving car. \"A big part of the AI self-driving car curriculum is camera-based detection, like detecting ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/high-school-students-colorado-explore-limits-artificial-intelligence-design-their-own-ai-models",
+      "originalUrl": "https://www.foxnews.com/tech/high-school-students-colorado-explore-limits-artificial-intelligence-design-their-own-ai-models",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/65d1779d-5101-4d6a-80e0-7bc881277c21/8bbcd2a7-d12a-4c9c-bb9b-b2518928a24e/1280x720/match/1200/675/image.jpg?pubId=694940094001?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/high-school-students-colorado-explore-limits-artificial-intelligence-design-their-own-ai-models.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/high-school-students-colorado-explore-limits-artificial-intelligence-design-their-own-ai-models.amp",
+      "publishedDateTime": "2024-03-14T02:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-13-a-comprehensive-list-of-2023-2024-tech-layoffs.md",
       "title": "A comprehensive list of 2023 & 2024 tech layoffs",
       "excerpt": "Momentum for a tech sector rebound remains slow to build, outside of bright spots within artificial intelligence and adjacent companies ... Announced March 1, Alphabet’s Waymo issued a second round of layoffs this year. Combined with the initial cuts ...",
@@ -199,6 +251,59 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-10-which-artificial-intelligence-ai-stock-is-most-likely-to-deliver-a-5x-gain-by-2030-alphabet-amazon-microsoft-meta-or-nvidia.md",
+      "title": "Which Artificial Intelligence (AI) Stock Is Most Likely to Deliver a 5X Gain by 2030: Alphabet, Amazon, Microsoft, Meta, or Nvidia?",
+      "excerpt": "They share a common tailwind that's likely to blow hard for years to come -- artificial intelligence (AI ... have a massive growth driver with its Waymo self-driving car business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/03/10/which-artificial-intelligence-ai-stock-is-most-lik/",
+      "originalUrl": "https://www.fool.com/investing/2024/03/10/which-artificial-intelligence-ai-stock-is-most-lik/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/768409/happy-indian-businessman-work-from-home.jpg",
+          "width": 6047,
+          "height": 4017,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-10T03:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -1249,92 +1354,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-news-updates-from-february-29-us-pce-inflation-falls-to-24-putin-warns-of-wider-conflict-over-ukraine.md",
-      "title": "News updates from February 29: US PCE inflation falls to 2.4%, Putin warns of wider conflict over Ukraine",
-      "excerpt": "Boeing is paying $51mn to settle an administrative charge from the US Department of State over unauthorised exports, including to China. The US Environmental Protection Agency will exclude existing gas-fired plants in its final standards on climate pollution for the power sector, the agency announced on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/b8efc98f-b5db-44c0-8820-7976a75abc6f",
-      "originalUrl": "https://www.ft.com/content/b8efc98f-b5db-44c0-8820-7976a75abc6f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T19:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-xpeng-continues-to-challenge-tesla-fsd-with-xngp-self-driving-now-available-throughout-china.md",
-      "title": "XPeng continues to challenge Tesla FSD with XNGP self-driving, now available throughout China",
-      "excerpt": "XPeng Motors announced a massive milestone for its XPeng navigation guided pilot (XNGP) ADAS feature that enables self-driving in",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2024/02/29/xpeng-tesla-fsd-xngp-self-driving-adas-now-available-throughout-china/",
-      "originalUrl": "https://electrek.co/2024/02/29/xpeng-tesla-fsd-xngp-self-driving-adas-now-available-throughout-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/02/XPeng-self-driving-XNGP.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T15:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

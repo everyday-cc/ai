@@ -53,6 +53,58 @@
       ]
     },
     {
+      "path": "_news/2024-03-14-high-school-students-in-colorado-explore-limits-of-artificial-intelligence-design-their-own-ai-models.md",
+      "title": "High school students in Colorado explore limits of artificial intelligence, design their own AI models",
+      "excerpt": "Students and teachers in Colorado are experimenting with artificial intelligence ... Buchanan said he is working on installing an AI camera on a self-driving car. \"A big part of the AI self-driving car curriculum is camera-based detection, like detecting ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/high-school-students-colorado-explore-limits-artificial-intelligence-design-their-own-ai-models",
+      "originalUrl": "https://www.foxnews.com/tech/high-school-students-colorado-explore-limits-artificial-intelligence-design-their-own-ai-models",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/65d1779d-5101-4d6a-80e0-7bc881277c21/8bbcd2a7-d12a-4c9c-bb9b-b2518928a24e/1280x720/match/1200/675/image.jpg?pubId=694940094001?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/high-school-students-colorado-explore-limits-artificial-intelligence-design-their-own-ai-models.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/high-school-students-colorado-explore-limits-artificial-intelligence-design-their-own-ai-models.amp",
+      "publishedDateTime": "2024-03-14T02:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-14-gemma-is-now-available-in-amazon-sagemaker-jumpstart.md",
       "title": "Gemma is now available in Amazon SageMaker JumpStart ",
       "excerpt": "Today, we’re excited to announce that the&nbsp;Gemma model is now available for customers using&nbsp;Amazon SageMaker JumpStart.&nbsp;Gemma is a family of language models based on Google’s Gemini models, trained on up to 6 trillion tokens of text. The Gemma family consists of two sizes: a 7 billion parameter",
@@ -338,36 +390,36 @@
       ]
     },
     {
-      "path": "_news/2024-03-14-watch-this-humanoid-robot-talk-and-complete-tasks-thanks-to-openai-tech.md",
-      "title": "Watch This Humanoid Robot Talk and Complete Tasks Thanks to OpenAI Tech",
-      "excerpt": "The startup Figure shows off how its partnership with OpenAI promises to make the company's humanoid robots capable of having full conversations with people.",
+      "path": "_news/2024-03-14-this-robot-is-borrowing-openais-magic-to-make-at-home-droids-feel-real.md",
+      "title": "This Robot is Borrowing OpenAI’s Magic to Make At-Home Droids Feel Real",
+      "excerpt": "Figure showed off a demo of its humanoid robot that adopts OpenAI’s large language models to help it understand its environment and complex requests.",
       "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/watch-this-humanoid-robot-talk-and-complete-tasks-thanks-to-openai-tech",
-      "originalUrl": "https://www.pcmag.com/news/watch-this-humanoid-robot-talk-and-complete-tasks-thanks-to-openai-tech",
+      "webUrl": "https://www.inverse.com/tech/figure-robot-open-ai-chatgpt",
+      "originalUrl": "https://www.inverse.com/tech/figure-robot-open-ai-chatgpt",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://imgix.bustle.com/uploads/image/2024/3/13/de1cc1b1-28b3-44e4-8927-364734e98a05-new-_dscf1820_desktop_10923a__3_.jpg?w=1200&h=630&fit=crop&crop=focalpoint&fm=jpg&fp-x=0.4987&fp-y=0.3507",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-13T17:50:00Z",
+      "publishedDateTime": "2024-03-13T20:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Inverse",
+        "domain": "inverse.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -700,7 +752,7 @@
       "originalUrl": "https://www.pcmag.com/news/europe-passes-ai-act-to-ban-riskiest-tools-force-copyright-compliance",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -949,7 +1001,7 @@
       "originalUrl": "https://www.forbes.com/sites/neilsahota/2024/03/13/ai-in-the-culinary-world-revolutionizing-restaurant-ops--customer-experience/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 75,
       "tags": null,
       "images": [
         {
@@ -988,7 +1040,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "IBM AI"
       ]
     },
     {
@@ -1147,21 +1200,21 @@
       ]
     },
     {
-      "path": "_news/2024-03-13-eu-approves-landmark-ai-law-leapfrogging-us-to-regulate-critical-but-worrying-new-technology.md",
-      "title": "EU approves landmark AI law, leapfrogging US to regulate critical but worrying new technology",
-      "excerpt": "European Union lawmakers gave final approval Wednesday to a landmark law governing artificial intelligence, leapfrogging the United States once again on the regulation of a critical and potentially disruptive technology.",
+      "path": "_news/2024-03-13-the-emerging-llm-stack-in-investment-funds.md",
+      "title": "The Emerging LLM Stack In Investment Funds",
+      "excerpt": "Adoption still faces barriers and risks, but a large language model (LLM) stack is emerging to accommodate new use cases and address concerns.",
       "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2024/03/13/tech/ai-european-union/index.html",
-      "originalUrl": "https://www.cnn.com/2024/03/13/tech/ai-european-union/index.html",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/the-emerging-llm-stack-in-investment-funds/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/the-emerging-llm-stack-in-investment-funds/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 196,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-180405277.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64b6992ab0207ea57f6cab16/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1169,16 +1222,16 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2024/03/13/tech/ai-european-union/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2024/03/13/tech/ai-european-union/index.html",
-      "publishedDateTime": "2024-03-13T12:04:00Z",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/the-emerging-llm-stack-in-investment-funds/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/13/the-emerging-llm-stack-in-investment-funds/amp/",
+      "publishedDateTime": "2024-03-13T13:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1194,49 +1247,7 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-of-predictive-analytics-and-robots-a-first-year-federal-judges-thoughts-on-ai.md",
-      "title": "Of Predictive Analytics and Robots: A First-Year Federal Judge’s Thoughts on AI",
-      "excerpt": "U.S. District Judge Wesley Hsu says that judges’ information online should be fair game for those putting together predictive analytics. Then again, as someone who previously spent more than a decade prosecuting cybercrime,",
-      "sourceUrl": null,
-      "webUrl": "https://www.law.com/therecorder/2024/03/13/of-predictive-analytics-and-robots-a-first-year-federal-judges-thoughts-on-ai/",
-      "originalUrl": "https://www.law.com/therecorder/2024/03/13/of-predictive-analytics-and-robots-a-first-year-federal-judges-thoughts-on-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.law.com/contrib/content/uploads/sites/403/2024/03/Wesley-Hsu-5-767x633.jpg",
-          "width": 767,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-13T11:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law",
-        "domain": "law.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
+        "Microsoft AI",
         "AI"
       ]
     }

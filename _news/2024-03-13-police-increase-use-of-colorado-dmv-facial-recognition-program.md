@@ -25,63 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Civil Rights commission digs into government use of facial recognition"
-    excerpt: "The tech poses “serious threats to our fundamental rights,” the chair of the commission said during a Friday briefing."
-    publishedDateTime: 2024-03-11T20:30:00Z
-    webUrl: "https://www.nextgov.com/artificial-intelligence/2024/03/civil-rights-commission-digs-government-use-facial-recognition/394845/"
+  - title: "High school students in Colorado explore limits of artificial intelligence, design their own AI models"
+    excerpt: "Students and teachers in Colorado are experimenting with artificial intelligence ... Buchanan said he is working on installing an AI camera on a self-driving car. \"A big part of the AI self-driving car curriculum is camera-based detection, like detecting ..."
+    publishedDateTime: 2024-03-14T02:23:00Z
+    webUrl: "https://www.foxnews.com/tech/high-school-students-colorado-explore-limits-artificial-intelligence-design-their-own-ai-models"
+    ampWebUrl: "https://www.foxnews.com/tech/high-school-students-colorado-explore-limits-artificial-intelligence-design-their-own-ai-models.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/high-school-students-colorado-explore-limits-artificial-intelligence-design-their-own-ai-models.amp"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 41
+      name: Fox News
+      domain: foxnews.com
+    quality: 88
     images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2024/03/11/031124_getty_ng_mondaire_jones/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Civil Rights commission digs into government use of facial recognition"
-    excerpt: "The tech poses “serious threats to our fundamental rights,” the chair of the commission said during a Friday briefing."
-    publishedDateTime: 2024-03-12T20:14:00Z
-    webUrl: "https://www.govexec.com/management/2024/03/civil-rights-commission-digs-government-use-facial-recognition/394880/"
-    type: article
-    provider:
-      name: Government Executive
-      domain: govexec.com
-    quality: 39
-    images:
-      - url: "https://cdn.govexec.com/media/img/cd/2024/03/12/031124_getty_ng_mondaire_jones/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Cortland Student Government Association overturns decision, grants Turning Point USA recognition as official club"
-    excerpt: "“The College’s recognition of Turning Point as an official club sends a huge message that universities cannot pick and choose which views are appropriate to allow on campus,” Legal Council at Alliance Defending Freedom Mathew Hoffmann said. “All students should have the freedom to express those views on campus.”"
-    publishedDateTime: 2024-03-12T21:40:00Z
-    webUrl: "https://www.wbng.com/2024/03/12/cortland-student-government-association-overturns-decision-grants-turning-point-usa-recognition-official-club/"
-    ampWebUrl: "https://www.wbng.com/2024/03/12/cortland-student-government-association-overturns-decision-grants-turning-point-usa-recognition-official-club/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wbng-com.cdn.ampproject.org/c/s/www.wbng.com/2024/03/12/cortland-student-government-association-overturns-decision-grants-turning-point-usa-recognition-official-club/?outputType=amp"
-    type: article
-    provider:
-      name: wbng
-      domain: wbng.com
-    quality: 23
-    images:
-      - url: "https://gray-wbng-prod.cdn.arcpublishing.com/resizer/v2/4FZE4NBTTFABRGZEDZSID2TSHE.jpg?auth=eb605c2746bff1f46f7c919359f4df239dd51efb7aad13e7f5f5f706de6d3fa3&width=800&height=450&smart=true"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "CP Foods Earns Recognition for Rights Protection and Gender Equality on International Women's Day"
-    excerpt: "Charoen Pokphand Foods Public Company Limited (CP Foods) has received two awards in recognition as the private organization's dedication to rights protection and the promotion of gender equality throughout the organization on International Women's Day 2024."
-    publishedDateTime: 2024-03-11T08:42:00Z
-    webUrl: "https://www.newswit.com/en/iff7wztqnmtj26ygh9l2azbw24z6l1tk"
-    type: article
-    provider:
-      name: academy
-      domain: newswit.com
-    quality: 11
-    images:
-      - url: "https://www.newswit.com/storage/images/iqqa/0pr/77yqcv34oxudtcmgzcf1engkd/0-CP.jpg.webp"
+      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/65d1779d-5101-4d6a-80e0-7bc881277c21/8bbcd2a7-d12a-4c9c-bb9b-b2518928a24e/1280x720/match/1200/675/image.jpg?pubId=694940094001?ve=1&tl=1"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
 
 secured: "mBi+GMgf4BlyLqz8BbmvSFH30EjOeBwAbFB3nGhSs+RpkRsS1CDzs/J1zdUY8bYdMF+jA1yxp7CsS/UcuDqEZnWfl2vZutnRirZQArtj/I0L/2O2glW0NO6IAnFY5oUOdUlWzAhTZOXcWxkI2YgZwM957c2HqoHSPP0a7Psr1qmWMg1daRdVv3X4gjVdJaAMLbtPFjP5ERT3ckXTtwwKb2w2paP7Nm/Viae5pESf0qra1C0MveySCmGYBGZC5FcGRinjmE8nhZy9Jo7Vl/V+DKfq90s7tGtPk+iuaM9g08r27MLVzXQoRYOJ6LGVb2dXQFJin80j1uO2eG0Aywc2MbWJNi9ZY+yDZ0rKkQFqfwa7TeBkWWyjj7LSJ66Lm16JVugJ/gSo/YgbgUi3+iMoZ72x1EFcA+bl9ADYBpgssn3FTLj/SeRUSQKifLS5oMqcpS9rZo4xbOnBTXyTd2N6K/tc9un9A3A3yUBipQzQTtfW+oeSchT7VWkhAzqDvaBZcAVGD3d3Mw/K4SXbEpz7eQ==;OVyhNC0avicayOmRUsvS+A=="

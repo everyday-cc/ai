@@ -2,6 +2,92 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-02-13-how-can-businesses-empower-employees-for-innovation.md",
+      "title": "How Can Businesses Empower Employees for Innovation?",
+      "excerpt": "How Can Businesses Empower Employees for Innovation? In the quest to foster a culture of innovation, we’ve gathered insights from CEOs and founders on empowering employees to be the catalysts for change.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/how-can-businesses-empower-employees-for-innovation/",
+      "originalUrl": "https://techbullion.com/how-can-businesses-empower-employees-for-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T22:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-bidens-upcoming-physical-exam-will-not-include-a-cognitive-test-white-house-says.md",
+      "title": "Biden's upcoming physical exam will not include a cognitive test, White House says",
+      "excerpt": "President Biden will not take a cognitive test as part of his upcoming physical exam, the White House confirmed Monday. White House press secretary Karine Jean-Pierre stated that Biden's physician ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/bidens-upcoming-physical-exam-will-not-include-cognitive-test-white-house-says",
+      "originalUrl": "https://www.foxnews.com/politics/bidens-upcoming-physical-exam-will-not-include-cognitive-test-white-house-says",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d61beb5b-2fdb-4ed2-8828-9d637f81b42d/624998bf-6f91-4b7d-b2ce-a2b40b59bcb8/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bidens-upcoming-physical-exam-will-not-include-cognitive-test-white-house-says.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-upcoming-physical-exam-will-not-include-cognitive-test-white-house-says.amp",
+      "publishedDateTime": "2024-02-12T19:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-12-the-future-is-now-building-the-infrastructure-to-power-ais-promise.md",
       "title": "The Future Is Now: Building The Infrastructure To Power AI’s Promise",
       "excerpt": "Building an efficient AI infrastructure will mean automating assembly, inspection and data management to eliminate human error and speed up labor-intensive tasks.",
@@ -1187,92 +1273,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-microsoft-ai-at-scale-drives-azure-revenue-growth.md",
-      "title": "Microsoft AI at scale drives Azure revenue growth",
-      "excerpt": "Microsoft reported a record quarter fueled by the Microsoft Azure cloud and the shift from talking about artificial intelligence (AI) to actually applying the technology at scale. Azure revenue grew 24% year-over-year to reach $33 billion in Q2 2024 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sdxcentral.com/articles/news/microsoft-ai-at-scale-drives-azure-revenue-growth/2024/02/",
-      "originalUrl": "https://www.sdxcentral.com/articles/news/microsoft-ai-at-scale-drives-azure-revenue-growth/2024/02/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-02T15:47:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SDxCentral",
-        "domain": "sdxcentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-from-it-staff-to-the-boardroom-top-generative-ai-predictions-for-2024.md",
-      "title": "From IT Staff To The Boardroom: Top Generative AI Predictions For 2024",
-      "excerpt": "Expect to see a surge in new GenAI deployments as more enterprises rapidly turn their AI POCs into pilots using the latest models, patterns and cloud services in 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/from-it-staff-to-the-boardroom-top-generative-ai-predictions-for-2024/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/from-it-staff-to-the-boardroom-top-generative-ai-predictions-for-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65bbe35cac1252d2fac45417/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/02/from-it-staff-to-the-boardroom-top-generative-ai-predictions-for-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/02/from-it-staff-to-the-boardroom-top-generative-ai-predictions-for-2024/amp/",
-      "publishedDateTime": "2024-02-02T14:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,301 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2024-03-01-the-rise-of-ai-tutors.md",
+      "title": "The Rise Of AI Tutors",
+      "excerpt": "Most professionals are discovering that generative AI has become a great tutor for subjects outside of their particular disciplines, augmenting their learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/timbajarin/2024/03/01/the-rise-of-ai-tutors/",
+      "originalUrl": "https://www.forbes.com/sites/timbajarin/2024/03/01/the-rise-of-ai-tutors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 247,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65df8c1b1801a73918205f0d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/timbajarin/2024/03/01/the-rise-of-ai-tutors/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2024/03/01/the-rise-of-ai-tutors/amp/",
+      "publishedDateTime": "2024-03-01T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-01-soundhound-ai-shares-tumble-19-on-4q-miss.md",
+      "title": "SoundHound AI Shares Tumble 19% on 4Q Miss",
+      "excerpt": "Analysts polled by FactSet expected a per-share loss of 6 cents. Shares of SoundHound AI have shot up since chip giant Nvidia reported an ownership stake in the company. The stake was first reported in a filing in February. The company said with the fourth ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/soundhound-ai-shares-tumble-19-on-4q-miss-efef9661",
+      "originalUrl": "https://www.marketwatch.com/story/soundhound-ai-shares-tumble-19-on-4q-miss-efef9661",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/soundhound-ai-shares-tumble-19-on-4q-miss-efef9661",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/soundhound-ai-shares-tumble-19-on-4q-miss-efef9661",
+      "publishedDateTime": "2024-03-01T12:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-01-ai-in-fintech-marketing-let-the-robots-do-what-they-do-best.md",
+      "title": "AI In Fintech Marketing: Let The Robots Do What They Do Best",
+      "excerpt": "And while I recognize that AI is one of the factors at the core of this shift, there is still a lot we need to work out. This is particularly true when it comes to my professional wheelhouse: financial services and fintech marketing. In a nutshell ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2024/03/01/ai-in-fintech-marketing-let-the-robots-do-what-they-do-best/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2024/03/01/ai-in-fintech-marketing-let-the-robots-do-what-they-do-best/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/629e12f58b003428bdbb3b50/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2024/03/01/ai-in-fintech-marketing-let-the-robots-do-what-they-do-best/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2024/03/01/ai-in-fintech-marketing-let-the-robots-do-what-they-do-best/amp/",
+      "publishedDateTime": "2024-03-01T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Marketing",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2024-03-01-what-role-can-ai-play-in-workers-compensation.md",
+      "title": "What role can AI play in workers' compensation?",
+      "excerpt": "AI-specific use cases like preventing opioid misuse can lead to significant changes in workers' compensation claims.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dig-in.com/opinion/what-role-can-ai-play-in-workers-compensation",
+      "originalUrl": "https://www.dig-in.com/opinion/what-role-can-ai-play-in-workers-compensation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://arizent.brightspotcdn.com/dims4/default/2c40877/2147483647/strip/true/crop/200x105+0+48/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F4b%2F94%2F67df13fc45008a86359811e661b0%2Fadobe-stock-construction.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-01T11:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Insurance",
+        "domain": "dig-in.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-01-ai-in-financial-services-transforming-stock-trading.md",
+      "title": "AI In Financial Services: Transforming Stock Trading",
+      "excerpt": "Atal Bansal is the Founder and CEO at Chetu, a global U.S.-based custom software solutions and support services provider ... more than 50 years. The financial world continued to adopt AI technology as advancements in machine learning, deep learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/ai-in-financial-services-transforming-stock-trading/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/ai-in-financial-services-transforming-stock-trading/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65562db3daaf3fc3487ed9b7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1354,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/ai-in-financial-services-transforming-stock-trading/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/01/ai-in-financial-services-transforming-stock-trading/amp/",
+      "publishedDateTime": "2024-03-01T11:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-01-navigating-the-future-of-banking-fintech-and-ai.md",
+      "title": "Navigating the future of banking, fintech and AI",
+      "excerpt": "What are the best use cases for generative AI in banking and fintech? What do banks and fintechs need to do to keep up with technological advances and not get left behind? We invited two long-time experts on finance and technology — Luis Valdich ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.americanbanker.com/leaders/navigating-the-future-of-banking-fintech-and-ai (american banker - permalink)",
+      "originalUrl": "https://www.americanbanker.com/leaders/navigating-the-future-of-banking-fintech-and-ai (american banker - permalink)",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://arizent.brightspotcdn.com/dims4/default/19ad685/2147483647/strip/true/crop/1281x673+0+24/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2F77%2Fdb%2F5422d7cc48d7afa70f52c377c615%2Fon-demand-asset-1280x720-suni-harford.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-01T11:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "American Banker",
+        "domain": "americanbanker.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-01-three-custom-ai-solutions-to-implement-to-increase-efficiency-in-2024.md",
       "title": "Three Custom AI Solutions To Implement To Increase Efficiency In 2024",
       "excerpt": "According to Deloitte, 91% of organizations expect their productivity to increase due to generative AI (GenAI). And based on data from BCG, companies intending to invest over $50 million in AI/GenAI next year are 1.3 times more likely to expect cost savings in 2024 compared to their counterparts.",
@@ -932,298 +1227,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-googles-deal-with-stack-overflow-is-the-latest-proof-that-ai-giants-will-pay-for-data.md",
-      "title": "Google’s Deal With Stack Overflow Is the Latest Proof That AI Giants Will Pay for Data",
-      "excerpt": "Stack Overflow’s programming community will power a version of Google’s Gemini chatbot. It’s part of a new breed of AI data licensing deals with websites seeking a cut of the generative AI boom.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/google-deal-stackoverflow-ai-giants-pay-for-data/",
-      "originalUrl": "https://www.wired.com/story/google-deal-stackoverflow-ai-giants-pay-for-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/65dfe32682529b73aa50823d/191:100/w_1280,c_limit/Stack-Overflow-Google-Cloud-Partnership-Business-1435756741.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T22:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-richmond-international-airport-begins-using-facial-recognition-technology.md",
-      "title": "Richmond International Airport begins using facial recognition technology",
-      "excerpt": "Security checkpoints at the Richmond International Airport have begun using facial recognition technology to confirm the validity of travelers’ identification that confirms their flight",
-      "sourceUrl": null,
-      "webUrl": "https://www.wric.com/news/local-news/henrico-county/richmond-international-airport-begins-using-facial-recognition-technology/",
-      "originalUrl": "https://www.wric.com/news/local-news/henrico-county/richmond-international-airport-begins-using-facial-recognition-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wric.com/wp-content/uploads/sites/74/2024/02/ric-feature-img-new-tech.jpg?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.wric.com/news/local-news/henrico-county/richmond-international-airport-begins-using-facial-recognition-technology/amp/",
-      "cdnAmpWebUrl": "https://www-wric-com.cdn.ampproject.org/c/s/www.wric.com/news/local-news/henrico-county/richmond-international-airport-begins-using-facial-recognition-technology/amp/",
-      "publishedDateTime": "2024-02-29T21:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRIC",
-        "domain": "wric.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-chatgpt-in-robot-form-openai-partners-with-humanoid-robotics-maker.md",
-      "title": "ChatGPT in Robot Form? OpenAI Partners With Humanoid Robotics Maker",
-      "excerpt": "OpenAI is joining Microsoft, Nvidia, and Jeff Bezos in investing in Figure, a company that's developing human-like robots to rival Tesla's Optimus project.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/chatgpt-in-robot-form-openai-partners-with-humanoid-robotics-maker",
-      "originalUrl": "https://www.pcmag.com/news/chatgpt-in-robot-form-openai-partners-with-humanoid-robotics-maker",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 286,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/01FnhSXxnrPPY6kLTdhKZHF-1.fit_lim.size_1200x630.v1709238414.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T21:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-grey-swans-on-the-horizon-ai-cyber-pandemics-and-et-scenarios.md",
-      "title": "Grey Swans on the Horizon AI, Cyber, Pandemics, and ET Scenarios",
-      "excerpt": "An industry leader in the insurance sector, Aon, defines Black Swan events as unexpected, unanticipated shocks. They depict unexpected but predicted surprises that are known as \"Grey Swan events.\" Similar to Black Swans, they can have a profound effect.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/chuckbrooks/2024/02/29/grey-swans-on-the-horizon-ai-cyber-pandemics-and-et-scenarios/",
-      "originalUrl": "https://www.forbes.com/sites/chuckbrooks/2024/02/29/grey-swans-on-the-horizon-ai-cyber-pandemics-and-et-scenarios/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e0eb19240d34e1c0933058/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1349,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/chuckbrooks/2024/02/29/grey-swans-on-the-horizon-ai-cyber-pandemics-and-et-scenarios/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/chuckbrooks/2024/02/29/grey-swans-on-the-horizon-ai-cyber-pandemics-and-et-scenarios/amp/",
-      "publishedDateTime": "2024-02-29T21:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-exploring-ai-what-are-large-language-models.md",
-      "title": "Exploring AI: What Are Large Language Models?",
-      "excerpt": "I am an entrepreneur using AI to make public info easy to understand ... given the previous words among other tasks designed to improve its understanding of language syntax, semantics, and context. This phase requires massive amounts of computational ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sunilrajaraman/2024/02/29/exploring-ai-what-are-large-language-models/",
-      "originalUrl": "https://www.forbes.com/sites/sunilrajaraman/2024/02/29/exploring-ai-what-are-large-language-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e12d42d73e9c9cd4c8256b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1304,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T20:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-think-inside-the-box-container-use-cases-examples-and-applications.md",
-      "title": "Think inside the box: Container use cases, examples and applications",
-      "excerpt": "A look at some of the most common use cases and examples of container technology.\nThe post Think inside the box: Container use cases, examples and applications appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/containers-use-cases/",
-      "originalUrl": "https://www.ibm.com/blog/containers-use-cases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T20:28:09Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

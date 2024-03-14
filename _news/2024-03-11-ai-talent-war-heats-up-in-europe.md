@@ -51,6 +51,22 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "European Artificial Intelligence Act: MEPs adopt landmark law"
+    excerpt: "The European Parliament has approved the Artificial Intelligence Act that ensures safety ... essential private and public services (e.g. healthcare, banking), certain systems in law enforcement, migration and border management, justice and democratic ..."
+    publishedDateTime: 2024-03-14T07:20:00Z
+    webUrl: "https://www.dqindia.com/business-technologies/artificial-intelligence-act-meps-adopt-landmark-law-4343855"
+    ampWebUrl: "https://www.dqindia.com/business-technologies/artificial-intelligence-act-meps-adopt-landmark-law-4343855"
+    cdnAmpWebUrl: "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/business-technologies/artificial-intelligence-act-meps-adopt-landmark-law-4343855"
+    type: article
+    provider:
+      name: Dataquest
+      domain: dqindia.com
+    quality: 59
+    images:
+      - url: "https://img-cdn.thepublive.com/fit-in/1200x675/dq/media/media_files/oto67zE25Lm2mD6nVDLT.jpg"
+        width: 977
+        height: 675
+        isCached: true
   - title: "Europe Set To Adopt World’s First Artificial Intelligence Law"
     excerpt: "The world’s first law governing artificial intelligence (AI) was today adopted by European lawmakers — a move that could have significant impact on film and TV production. The Artificial Intelligence Act are an attempt to government how companies and ..."
     publishedDateTime: 2024-03-13T08:52:00Z

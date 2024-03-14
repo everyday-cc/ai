@@ -2,6 +2,102 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-22-chinas-rush-to-dominate-ai-comes-with-a-twist-it-depends-on-us-technology.md",
+      "title": "China’s Rush to Dominate A.I. Comes With a Twist: It Depends on U.S. Technology",
+      "excerpt": "In interviews, Mr. Lee presented his A.I. system as an alternative to options like Meta’s generative A.I. model, called LLaMA. There was just one twist: Some of the technology in 01.AI’s system came from LLaMA. Mr. Lee’s start-up then built on Meta ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2024/02/21/technology/china-united-states-artificial-intelligence.html",
+      "originalUrl": "https://www.nytimes.com/2024/02/21/technology/china-united-states-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2024/02/21/business/21CHINA-AI/21CHINA-AI-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T16:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-bugeja-artificial-intelligence-poses-many-risks-in-public-policymaking.md",
+      "title": "Bugeja: Artificial intelligence poses many risks in public policymaking",
+      "excerpt": "For the past year the public has debated use of the artificial intelligence application ChatGPT composing student essays, passing law examinations and replacing jobs and professions. There are greater concerns,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nwestiowa.com/opinion/bugeja-artificial-intelligence-poses-many-risks-in-public-policymaking/article_b7d1aecc-cd10-11ee-862d-83d595bdae89.html",
+      "originalUrl": "https://www.nwestiowa.com/opinion/bugeja-artificial-intelligence-poses-many-risks-in-public-policymaking/article_b7d1aecc-cd10-11ee-862d-83d595bdae89.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/nwestiowa.com/content/tncms/assets/v3/editorial/5/f2/5f234756-df6d-11eb-9c27-9be52711bf84/62b9cd4a46974.image.jpg?resize=400%2C318",
+          "width": 400,
+          "height": 318,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "nwestiowa",
+        "domain": "nwestiowa.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-21-no-tip-required-self-driving-robots-will-now-deliver-uber-eats-orders-in-tokyo.md",
       "title": "No tip required: Self-driving robots will now deliver Uber Eats orders in Tokyo",
       "excerpt": "These robots are equipped with artificial intelligence and advanced sensors to navigate sidewalks and detect any obstacles in their path. These robots have six wheels and can carry up to 27 litres of cargo. They travel at a walking pace of up to 3.3 miles ...",
@@ -1244,101 +1340,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-edge-of-network-computing-and-ai-how-ai-may-fill-gaps-in-5g-tech.md",
-      "title": "Edge-Of-Network Computing And AI: How AI May Fill Gaps In 5G Tech",
-      "excerpt": "Edge and AI are transforming vehicles into true self-driving machines, filling any gaps in low-latency 5G tech and enabling companies to pioneer advanced autonomy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/13/edge-of-network-computing--ai-how-ai-may-fill-gaps-in-5g-tech/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/13/edge-of-network-computing--ai-how-ai-may-fill-gaps-in-5g-tech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64a57380e07eea1def9805d0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/13/edge-of-network-computing--ai-how-ai-may-fill-gaps-in-5g-tech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/13/edge-of-network-computing--ai-how-ai-may-fill-gaps-in-5g-tech/amp/",
-      "publishedDateTime": "2024-02-13T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-san-francisco-waymo-arson-sparks-fresh-debate-on-self-driving-cars.md",
-      "title": "San Francisco Waymo Arson Sparks Fresh Debate on Self-Driving Cars",
-      "excerpt": "Bryant Walker Smith, a professor at the University of South Carolina with expertise in autonomous-vehicle law, said the episode raises a fair question about whether self-driving cars can or should be able to detect areas crowded with pedestrians and navigate around them.",
-      "sourceUrl": null,
-      "webUrl": "https://money.usnews.com/investing/news/articles/2024-02-13/san-francisco-waymo-arson-sparks-fresh-debate-on-self-driving-cars",
-      "originalUrl": "https://money.usnews.com/investing/news/articles/2024-02-13/san-francisco-waymo-arson-sparks-fresh-debate-on-self-driving-cars",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-13T11:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

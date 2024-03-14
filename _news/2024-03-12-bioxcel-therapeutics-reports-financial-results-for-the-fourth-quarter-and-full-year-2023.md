@@ -41,6 +41,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 23
+  - title: "AdTheorent Holding Company, Inc. Reports Fourth Quarter and Full-Year 2023 Financial Results"
+    excerpt: "Fourth quarter revenue increased 15.2%Exceeded fourth quarter and full-year guidance NEW YORK, March 12, 2024 (GLOBE NEWSWIRE) -- AdTheorent Holding Company, Inc. (Nasdaq: ADTH) (\"AdTheorent\" or \"the"
+    publishedDateTime: 2024-03-14T07:31:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-03/61665079-adtheorent-holding-company-inc-reports-fourth-quarter-and-full-year-2023-financial-results-399.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "EZjGORNbMvfBQr75YhkpyNrloPiPReKungwqVTZgdyLY/Syy9bMmkKrvSkCTH13xhJMqv9DGXPHbU8FIusOh6Oc+A5RsofvV8cxBUcebqcQWccdhL8uD52rqh+Vc1Bx7MZS/dKyTYSo+QTOmJM4l/n6cWGUwV2EZJdQ8wOPRvDS+YN1OsW/3fOucKIzK6UEs31nZImob1THgqa2h5C0c01mGRtFsUGG9VJFY5jJZ0Bz9bFCNxR14YuWy4csOAxdycZaFuRdfdtYoMBXRfg3ZQ8luJwmLYAUqQAB5Us6semo3duI1CKvfKjIX+wSwqZ5K7iLZLD6iCUP8+lgVRvFWxa2X0qOTTWBcJJhQr+i7l2M=;88/ONoB44ifzDDC9pMWDNw=="
 ---

@@ -41,22 +41,6 @@ related:
         width: 1400
         height: 900
         isCached: true
-  - title: "5 Best AI ETFs To Invest In 2024"
-    excerpt: "YTD Share Price Gain as of March 8: 18.69% Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) aims to invest in companies positioned to benefit from the growing adoption of robotics and ..."
-    publishedDateTime: 2024-03-09T08:02:00Z
-    webUrl: "https://www.insidermonkey.com/blog/5-best-ai-etfs-to-invest-in-2024-1271558/"
-    ampWebUrl: "https://www.insidermonkey.com/blog/5-best-ai-etfs-to-invest-in-2024-1271558/?amp=1"
-    cdnAmpWebUrl: "https://www-insidermonkey-com.cdn.ampproject.org/c/s/www.insidermonkey.com/blog/5-best-ai-etfs-to-invest-in-2024-1271558/?amp=1"
-    type: article
-    provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 59
-    images:
-      - url: "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2023/11/26005035/PNRG-insidermonkey-1700977834076.jpg?auto=format&expires=1741737600&w=400&h=225&fit=crop"
-        width: 400
-        height: 225
-        isCached: true
   - title: "The 3 Best Artificial Intelligence Stocks to Invest In for Big Gains in 2024"
     excerpt: "Spread the loveArtificial Intelligence (AI) is not just a buzzword; it’s the frontier of technological advancement that is integrating into every aspect of our lives. As AI technology continues to evolve,"
     publishedDateTime: 2024-03-11T09:20:00Z

@@ -220,20 +220,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Iowa State vs. Baylor Big 12 Tournament Women's Basketball Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. The No. 4 seed Iowa State Cyclones (18-10 ... Lehigh Patriot Tournament Women's Basketball Tickets & Start Time Bucknell vs. American Patriot Tournament Women's Basketball Tickets & Start Time UC Riverside vs."
-    publishedDateTime: 2024-03-09T06:21:00Z
-    webUrl: "https://www.kcrg.com/sports/betting/2024/03/09/iowa-state-vs-baylor-buy-big-12-tournament-womens-college-basketball-tickets/"
-    type: article
-    provider:
-      name: ABC Kcrg  9
-      domain: kcrg.com
-    quality: 18
-    images:
-      - url: "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/v2/Q4LAMNVS2VI65J7YMESUCS2IOE.jpg?auth=463ea0fa6ead9758c8ea49ddbe4c2fcca9a96366b1be196c483d6e6137dcf65f&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Kent State vs. Ball State MAC Tournament Women's Basketball Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. The No. 2 seed Ball State Cardinals (28-4) square off in the MAC tournament against the No. 3 seed Kent State Golden Flashes (19-10) on Friday at Rocket Mortgage FieldHouse, tipping off at 12:30 PM ET. Watch college ..."
     publishedDateTime: 2024-03-14T00:01:00Z

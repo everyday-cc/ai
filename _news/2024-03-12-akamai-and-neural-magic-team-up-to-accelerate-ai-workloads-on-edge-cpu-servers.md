@@ -6,8 +6,8 @@ publishedDateTime: 2024-03-12T10:30:00Z
 originalUrl: "https://siliconangle.com/2024/03/12/akamai-neural-magic-team-accelerate-powerful-ai-workloads-cpu-servers-edge/"
 webUrl: "https://siliconangle.com/2024/03/12/akamai-neural-magic-team-accelerate-powerful-ai-workloads-cpu-servers-edge/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI Hardware
   - AI
   - Microsoft AI
+  - Machine Learning
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/03/cloud-computing-electronic-chip-board-cloud-computer-is-system-transfer-data-information-upload-download-application-technology-transformation-concept.jpg"

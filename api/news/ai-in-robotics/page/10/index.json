@@ -2,6 +2,59 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-12-14-tesla-unveils-its-latest-humanoid-robot-optimus-gen-2-in-demo-video.md",
+      "title": "Tesla unveils its latest humanoid robot, Optimus Gen 2, in demo video",
+      "excerpt": "On Tuesday, Tesla released a demo video showing the latest version of its prototype humanoid robot, Optimus Gen 2. Over one year after Tesla's first public Optimus robot demonstration, which showcased shaky robots that waved and slumped over, things have apparently progressed quite a bit, assuming that the video accurately reflects the technology.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2023/12/teslas-latest-humanoid-robot-optimus-gen-2-can-handle-eggs-without-cracking-them/",
+      "originalUrl": "https://arstechnica.com/information-technology/2023/12/teslas-latest-humanoid-robot-optimus-gen-2-can-handle-eggs-without-cracking-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/tesla_optimus_gen2_hero2-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-13T16:57:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-12-13-elon-musk-shares-video-of-teslas-new-humanoid-robot-that-can-dance-and-boil-eggs.md",
       "title": "Elon Musk Shares Video Of Tesla's New Humanoid Robot That Can Dance And Boil Eggs",
       "excerpt": "A video shared by Elon Musk shows significant improvements made to the robot since its prototype was first unveiled at the Tesla AI Day earlier this year ... The company said that it plans to soon start using the robot in its manufacturing operations.",
@@ -1249,40 +1302,6 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-weed-zapping-startup-carbon-robotics-tops-off-series-c-round.md",
-      "title": "Weed-zapping startup Carbon Robotics tops off Series C round",
-      "excerpt": "The Seattle-based startup, which makes a robot that uses lasers to kill weeds, first announced its Series C round in April.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/seattle/news/2023/12/04/carbon-robotics-series-c-addition-funding-weeding.html",
-      "originalUrl": "https://www.bizjournals.com/seattle/news/2023/12/04/carbon-robotics-series-c-addition-funding-weeding.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T03:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
         "images": null,
         "publishers": null,
         "authors": null

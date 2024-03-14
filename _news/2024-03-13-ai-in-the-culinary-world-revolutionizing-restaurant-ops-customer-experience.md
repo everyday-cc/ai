@@ -6,8 +6,8 @@ publishedDateTime: 2024-03-13T14:00:00Z
 originalUrl: "https://www.forbes.com/sites/neilsahota/2024/03/13/ai-in-the-culinary-world-revolutionizing-restaurant-ops--customer-experience/"
 webUrl: "https://www.forbes.com/sites/neilsahota/2024/03/13/ai-in-the-culinary-world-revolutionizing-restaurant-ops--customer-experience/"
 type: article
-quality: 63
-heat: 73
+quality: 65
+heat: 75
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - IBM AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/65ee9bd5d8bc600924275362/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
@@ -43,6 +44,6 @@ related:
         height: 260
         isCached: true
 
-secured: "MbSPI4HVwtsjRZI4g6FPHK92v0XassXwgW/wdEXKIF3NTRKpNXh9ZCBpm30vE5g8bC2X2Ufb7qlgXK5FEYKzM5BUFMUXj3LvSsxZrMlfoKHHawG2Cu461t7nAA7xmPU0FOonZu7hTdGKutTfM15qk0BKRiZjh1JIINP+erGAMzphsvmpcyWPT9ekULBLCkXa8KUNH2WiBVQ7uGMSAyeIRQV2ouEI1xbxJKePokDMPw2h8gxobpSXQcAOZjFcqukjPKuYdV5YYizvd3T3BBt5dhYhLok1u/qAjnPZmtMw35u/bpf7N1JVtcT//x+JlAjTMwrzkA+INatnIJwXy8yh52TYJlwi35ULd2feIfOZlVs=;fBKkDF7lksg/FARD22GKUQ=="
+secured: "JdiL456VlqIPUAit5WJwMh4XgO/3fZR3kVrSDKZa+0j3TeELBr/R9BpJHI3Fi3w273pQwoDQuDJnIyW9GI10vZFs6IQxnRau7lwwMpEkKb27S8RoABk9uIwKKMHx9FcjQur6dxGutVDX9yYd7sohBr4dNVroJftxMa5EZmVnbH7iPT6t5lmOlxrTVWUQTT0ZA8RigphXXe/opa1udPvsN/1V3/WoWU17JsXyQiCWaif4sBmmDlQLIlRX001t8x7JzGEt9zHgocmv1TgCQ29PPiPm2+jJo75aYKSuH+QqYQxym4PZuodPbEaI17SuuJEXg9oZ2g/xX3BVpfdSgmbPylcuj0k9LyF0UaqrNLKCHRYE5dBgN4jGlXPv/mQavivdcBqyEqwJIIZGTJ+krMK74XMTn83CY2QMAGb7/+u1B6JRFZGFhYns4tXgqJlLa6VLdkE/L9hXmOPIvwX+EiWb9TlsQKXJ/q5mixjcVEdOQLqUmgIjVHSSgjX0IYohOhumkdr3kQxv6kxu1D6DTHCjBA==;7kzu9pIyt2bKvQOit2F8AQ=="
 ---
 

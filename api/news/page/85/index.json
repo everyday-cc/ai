@@ -2,6 +2,238 @@
   "page": 85,
   "value": [
     {
+      "path": "_news/2024-01-10-nvidia-extends-record-run-as-robust-ai-chip-demand-offsets-china-concern.md",
+      "title": "Nvidia extends record run as robust AI chip demand offsets China concern",
+      "excerpt": "Nvidia, which earlier this week unveiled a new set of AI-focused chips designed for the broader consumer market, looks to be getting an extra boost from better-than-expected sales figures from Taiwan Semiconductor. (TSM) - Get Free Report The world's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-journal.com/arena/thestreet/nvidia-extends-record-run-as-robust-ai-chip-demand-offsets-china-concern/article_39f7f300-e863-5012-af33-9cbefed1076d.html",
+      "originalUrl": "https://www.news-journal.com/arena/thestreet/nvidia-extends-record-run-as-robust-ai-chip-demand-offsets-china-concern/article_39f7f300-e863-5012-af33-9cbefed1076d.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/news-journal.com/content/tncms/assets/v3/editorial/0/3f/03f69548-f596-5555-9252-c18f8a5954bf/659ebcb499f7d.image.jpg?crop=1200%2C630%2C0%2C22&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Longview News-Journal",
+        "domain": "news-journal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-rensselaer-polytechnic-institute-welcomes-ibms-dr-dario-gil-to-its-board-of-trustees.md",
+      "title": "Rensselaer Polytechnic Institute Welcomes IBM’s Dr. Darío Gil to Its Board of Trustees",
+      "excerpt": "Rensselaer Polytechnic Institute (RPI) has announced that Dr. Darío Gil, Senior Vice President and Director of IBM Research, has joined the RPI Board of Trustees for a four-year term effective January 1, 2024. He will sit on the Academic Affairs and Research Committee and Administration and Infrastructure Committee.",
+      "sourceUrl": null,
+      "webUrl": "https://news.rpi.edu/2024/01/10/rensselaer-polytechnic-institute-welcomes-ibms-dr-dario-gil-its-board-trustees",
+      "originalUrl": "https://news.rpi.edu/2024/01/10/rensselaer-polytechnic-institute-welcomes-ibms-dr-dario-gil-its-board-trustees",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RPI News",
+        "domain": "rpi.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-waymos-driverless-cars-are-hitting-the-highway-sans-safety-drivers-in-arizona.md",
+      "title": "Waymo’s Driverless Cars Are Hitting the Highway Sans Safety Drivers in Arizona",
+      "excerpt": "“Cruise’s implosion has left Waymo as the undisputed leader in the driverless taxi market ... especially loves learning about and sharing big ideas and advances in artificial intelligence, computing, robotics, biotech, neuroscience, and space.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2024/01/10/waymos-driverless-cars-are-hitting-the-highway-sans-safety-drivers-in-arizona/",
+      "originalUrl": "https://singularityhub.com/2024/01/10/waymos-driverless-cars-are-hitting-the-highway-sans-safety-drivers-in-arizona/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-10T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-aws-announces-inaugural-education-accelerator-recipients.md",
+      "title": "AWS Announces Inaugural Education Accelerator Recipients",
+      "excerpt": "Fifteen new ed-tech companies were selected among thousands of applicants. They will receive grants, training and networking opportunities to fast-track their startups.",
+      "sourceUrl": null,
+      "webUrl": "https://www.govtech.com/education/aws-announces-inaugural-education-accelerator-recipients",
+      "originalUrl": "https://www.govtech.com/education/aws-announces-inaugural-education-accelerator-recipients",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/d492891/2147483647/strip/true/crop/5120x2489+0+0/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F46%2F22%2F58ae34074806a39b762607ab65ab%2Fhttps-download.shutterstock.com%2Fgatekeeper%2FW3siZCI6ICJzaHV0dGVyc3RvY2stbWVkaWEiLCAiayI6ICJwaG90by8xNzk1MTczODc0L2h1Z2UuanBnIiwgImRjIjogImlkbF8xMjMiLCAiZSI6IDE2MzkwOTA5NDEsICJtIjogMX0sICJQT1o1bVMwL1IvcWxmNHhRQ2gvVE44VDB2VGsiXQ%3D%3D%2Fshutterstock_1795173874.jpg",
+          "width": 1440,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-09T23:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-executives-meet-your-new-intern-artificial-intelligence.md",
+      "title": "Executives, Meet Your New Intern: Artificial Intelligence",
+      "excerpt": "Organizational shifts prompted by AI are already happening. It’s only a matter of time before it leads to job cuts.",
+      "sourceUrl": null,
+      "webUrl": "https://skift.com/2024/01/09/executives-meet-your-new-intern-artificial-intelligence-megatrends-2024/",
+      "originalUrl": "https://skift.com/2024/01/09/executives-meet-your-new-intern-artificial-intelligence-megatrends-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-09T23:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Skift",
+        "domain": "skift.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-10-companies-use-artificial-intelligence-to-cater-to-animal-lovers-at-ces-tech-show.md",
+      "title": "Companies use artificial intelligence to cater to animal lovers at CES tech show",
+      "excerpt": "From cat flaps and dog companion robots, companies are using artificial intelligence to cater to animal lovers at the CES tech show in Las Vegas.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/video/dogs-consumer-electronics-show-animals-artificial-intelligence-cats-bd1edf2a7ec34d128e2e8be0d30b8cd8",
+      "originalUrl": "https://apnews.com/video/dogs-consumer-electronics-show-animals-artificial-intelligence-cats-bd1edf2a7ec34d128e2e8be0d30b8cd8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dims.apnews.com/dims4/default/45fef77/2147483647/strip/true/crop/1920x1080+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F60%2F04%2Fad634d426ee428ddbd2c4a7b3b3e%2Fus-nv-ces-pets-artificial-intelligence-20240109cr-1920x1080.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-09T22:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-10-ces-2024-meet-samsungs-ballie-a-rolling-ai-robot-that-helps-control-your-home-entertain-pets.md",
       "title": "CES 2024: Meet Samsung's Ballie, a rolling AI robot that helps control your home, entertain pets",
       "excerpt": "Image Credit: Reuters Las Vegas: Samsung Electronics has unveiled an updated version of its AI home companion robot Ballie at the ... Ballie provides peace of mind through video updates of pets ...",
@@ -799,264 +1031,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-quasar-markets-launches-feb-2-with-a-pioneering-fintech-platform-that-redefines-the-ai-user-experience.md",
-      "title": "Quasar Markets Launches Feb. 2 with a Pioneering FinTech Platform That Redefines the AI User Experience",
-      "excerpt": "Tampa, Florida, United States - January 8, 2024 — Quasar Markets, a cutting-edge fintech company powered by AI-driven financial market research, is set to launch on February 2. The company aims to redefine the world of finance by changing the way ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/quasar-markets-launches-feb-2-with-a-pioneering-fintech-platform-that-redefines-the-ai-user-experience-1032953621",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/quasar-markets-launches-feb-2-with-a-pioneering-fintech-platform-that-redefines-the-ai-user-experience-1032953621",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-09T10:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-siemens-and-aws-join-forces-to-democratise-generative-ai.md",
-      "title": "Siemens and AWS join forces to democratise generative AI",
-      "excerpt": "Siemens and Amazon Web Services (AWS) set to are make it easier for businesses of all sizes and industries to build and scale generative artificial intelligence (AI) applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.controlengeurope.com/article/203202/Siemens-and-AWS-join-forces-to-democratise-generative-AI.aspx",
-      "originalUrl": "https://www.controlengeurope.com/article/203202/Siemens-and-AWS-join-forces-to-democratise-generative-AI.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.controlengeurope.com/global/showimage/Article/217183/",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-09T10:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IML Group",
-        "domain": "controlengeurope.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-ais-growing-influence-in-e-commerce-the-future-of-online-retail.md",
-      "title": "AI's Growing Influence in E-Commerce: The Future of Online Retail",
-      "excerpt": "AI, ranging from ChatGPT to IIoT, significantly transforms e-commerce, enriches business strategies, and tailors customer experiences worldwide.",
-      "sourceUrl": null,
-      "webUrl": "https://www.electropages.com/blog/2024/01/artificial-intelligence-empowers-e-commerce-industry",
-      "originalUrl": "https://www.electropages.com/blog/2024/01/artificial-intelligence-empowers-e-commerce-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.electropages.com/storage/app/media/2024/Jan/robot-holding-shopping-cart-with-cardboard-boxes-og.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-09T09:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electropages",
-        "domain": "electropages.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-top-10-google-bard-tips-to-improve-your-productivity-in-2024.md",
-      "title": "Top 10 Google Bard Tips to Improve Your Productivity in 2024",
-      "excerpt": "This guide is designed to show you how to use AI tools like Google Bard to improve your productivity in 2024. The arrival of 2024 brings with it fresh",
-      "sourceUrl": null,
-      "webUrl": "https://www.geeky-gadgets.com/top-10-google-bard-tips-to-improve-your-productivity-in-2024/",
-      "originalUrl": "https://www.geeky-gadgets.com/top-10-google-bard-tips-to-improve-your-productivity-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2024/01/Google-Bard-productivity.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-09T08:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geeky Gadgets",
-        "domain": "geeky-gadgets.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-cognitive-computing-market-surges-with-263-cagr-hits-us-1882-billion.md",
-      "title": "Cognitive Computing Market Surges with 26.3% CAGR, Hits US$ 188.2 Billion",
-      "excerpt": "The cognitive computing market is poised for remarkable growth, projected to establish a robust foothold with a compelling CAGR of 26.3% throughout the forecast period. As technology continues to advance and organizations seek smarter solutions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.fmiblog.com/2024/01/09/cognitive-computing-market-surges-with-26-3-cagr-hits-us-188-2-billion/",
-      "originalUrl": "https://www.fmiblog.com/2024/01/09/cognitive-computing-market-surges-with-26-3-cagr-hits-us-188-2-billion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.fmiblog.com/wp-content/uploads/2024/01/Cognitive-Computing-Market.jpg",
-          "width": 768,
-          "height": 543,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-09T04:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Future Market Insights",
-        "domain": "fmiblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-the-3-best-machine-learning-stocks-to-buy-in-january-2024.md",
-      "title": "The 3 Best Machine Learning Stocks to Buy in January 2024",
-      "excerpt": "Machine learning is transforming sectors including healthcare and transportation, offering lucrative opportunities in the best machine learning stocks. However, investors should approach cautiously, as not all stocks in this sector ensure returns.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/the-3-best-machine-learning-stocks-to-buy-in-january-2024-1032951910",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/the-3-best-machine-learning-stocks-to-buy-in-january-2024-1032951910",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-09T01:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

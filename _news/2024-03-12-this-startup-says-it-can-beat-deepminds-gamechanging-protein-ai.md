@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/alexknapp/2024/03/11/basecamp-researc
 webUrl: "https://www.forbes.com/sites/alexknapp/2024/03/11/basecamp-research-protein-folding-ai-deepmind-alphafold/"
 type: article
 quality: 86
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://media.wired.com/photos/65f0d482f02589469abef794/191:100/w_1280,c_limit/Google-Deepmind-Video-Game-AI-Business.jpg"
         width: 1280
         height: 670
+        isCached: true
+  - title: "Google DeepMind’s SIMA is Training to Become Your New In-Game Teammate, Here’s How"
+    excerpt: "Get ready for a new kind of gaming buddy! Google DeepMind has introduced SIMA, a large language model being trained to become your in-game teammate. Is this what AI was meant for? Sounds about right. SIMA, which stands for “Scalable, Instructable ..."
+    publishedDateTime: 2024-03-14T00:01:00Z
+    webUrl: "https://www.gizmochina.com/2024/03/14/google-deepmind-sima-ai-game-buddy/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 78
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/11/google-sundar-pichai.jpg"
+        width: 1136
+        height: 757
         isCached: true
   - title: "Google Deepmind’s new AI agent ‘SIMA’ will be your in-game teammate: Check details"
     excerpt: "Google DeepMind has introduced SIMA, an AI agent designed to develop gaming skills mirroring human behaviour. Know more."

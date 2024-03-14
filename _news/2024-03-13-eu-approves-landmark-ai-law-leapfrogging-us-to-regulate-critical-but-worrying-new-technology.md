@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2024/03/13/tech/ai-european-union/index.html
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2024/03/13/tech/ai-european-union/index.html"
 type: article
 quality: 76
-heat: 196
+heat: 206
 published: true
 
 provider:
@@ -135,6 +135,15 @@ related:
     provider:
       name: Invezz
       domain: invezz.com
+    quality: 19
+  - title: "New regulations on artificial intelligence, including free statewide training, clear CT committee"
+    excerpt: "The legislative General Law Committee on Tuesday recommended new rules for CT's fast-moving artificial intelligence landscape."
+    publishedDateTime: 2024-03-13T18:54:00Z
+    webUrl: "https://www.stamfordadvocate.com/politics/article/ai-ct-new-rules-free-training-legislation-18964353.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
     quality: 19
   - title: "New regulations on artificial intelligence, including free statewide training, clears CT committee"
     excerpt: "HARTFORD — A key legislative committee on Tuesday approved a framework for regulating the nascent artificial intelligence industry in an attempt to make the technology more transparent and accountable. It also outlines criminal consequences for those who ..."

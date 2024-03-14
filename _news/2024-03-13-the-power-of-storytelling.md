@@ -26,6 +26,22 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "The Rising Price Of Power In Chips"
+    excerpt: "More data requires faster processing, which leads to a whole bunch of problems — not all of which are obvious or even solvable."
+    publishedDateTime: 2024-03-14T07:01:00Z
+    webUrl: "https://semiengineering.com/the-rising-price-of-power-in-chips/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 39
+    images:
+      - url: "https://semiengineering.com/wp-content/uploads/Screenshot-2024-03-13-at-12.23.10 PM.png?fit=980%2C864&ssl=1"
+        width: 980
+        height: 864
+        isCached: true
+
 secured: "IDPUP5P/jUZGjI4gsriqfsm8dJWBwEGgWd4hq27PKWpOWA386sRJzXhL9sGfWcAZxV4M0n+iSjzraedi1SCKpqgaZXC8wdY/p05iM3tcyEEwdhrq79d5coLXI/0Ag3oKY4r1AVNd+NrnaaBXcH8xuvoLk7C/NrHT0WHRoJm4U1oSvMmpuCGygPLFbmZmCxe/qKM+XkfMMGgG8n09gWpzsk6UIb9FI4J/Fs2iJMOpBDnEn0GKxba1bAZQvT1+C9H8wkHJySeeY7lRUvdp+4SGG9AVRo3rgxx9PaP3rjQBgZydJZblDGT/fsRgBjQJy+WColcY9vlenst3aaET+qS7hiIefafCapcPIiqueFUkEfQ=;sOc2zDEoVlJDfVGbIELxLw=="
 ---
 

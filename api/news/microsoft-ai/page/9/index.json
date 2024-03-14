@@ -2,6 +2,93 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-12-13-gemini-ai-what-do-we-know-about-googles-answer-to-chatgpt.md",
+      "title": "Gemini AI: What do we know about Google's answer to ChatGPT?",
+      "excerpt": "Most AI models like ChatGPT can only understand and generate one type of content — like text, audio, images or video — but Google's Gemini can generate them all.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livescience.com/technology/artificial-intelligence/google-deepmind-gemini-ai-vs-openai-chatgpt",
+      "originalUrl": "https://www.livescience.com/technology/artificial-intelligence/google-deepmind-gemini-ai-vs-openai-chatgpt",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/YSQjzQFFyPxCecexhdvhff-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-13T10:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Live Science",
+        "domain": "livescience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-12-12-dell-technologies-updates-storage-products-for-ai.md",
+      "title": "Dell Technologies updates storage products for AI",
+      "excerpt": "Dell's strategy is to bring AI to wherever data resides, rather than the other way around. It notes that nearly 87% of companies are embracing multicloud strategies. Dell says it is giving customers the freedom to process data wherever it makes the most sense for them--on-premises, at the edge, or in public clouds.",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/1257328/dell-technologies-updates-storage-products-for-ai.html",
+      "originalUrl": "https://www.networkworld.com/article/1257328/dell-technologies-updates-storage-products-for-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.networkworld.com/wp-content/uploads/2023/12/server_rack_backend_development_engineering_network_servers_data_center_data_centre_by_seventyfour_shutterstock_1921647347_royalty-free_digital-only_2400x1600-100890802-orig-3.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/1257328/dell-technologies-updates-storage-products-for-ai.html/amp/",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1257328/dell-technologies-updates-storage-products-for-ai.html/amp/",
+      "publishedDateTime": "2023-12-12T15:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-12-chatgpt-googles-ai-will-have-to-start-answering-to-eu.md",
       "title": "ChatGPT, Google's AI will have to start answering to EU",
       "excerpt": "EU’s AI Act is a decent, if slightly half-baked, start when it comes to regulating AI, and in the absence of anything similar this is a step in the right direction. The legislation will still rely on companies to audit themselves.",
@@ -1297,93 +1384,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-what-chatgpt-got-wrong-about-top-5-fintech-trends-of-2024.md",
-      "title": "What ChatGPT got wrong about top 5 fintech trends of 2024",
-      "excerpt": "I’ve received dozens of 2024 fintech trends prediction pitches in my email inbox over the past month. And while many of them are insightful, I wanted to",
-      "sourceUrl": null,
-      "webUrl": "https://www.cuinsight.com/what-chatgpt-got-wrong-about-top-5-fintech-trends-of-2024/",
-      "originalUrl": "https://www.cuinsight.com/what-chatgpt-got-wrong-about-top-5-fintech-trends-of-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cuinsight.com/wp-content/uploads/2023/05/bigstock-System-Artificial-Intelligence-468970227.jpg",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T19:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CUInsight",
-        "domain": "cuinsight.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-05-ai-innovators-3-stocks-shaping-the-tech-landscape.md",
-      "title": "AI Innovators: 3 Stocks Shaping the Tech Landscape",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Artificial intelligence has helped companies offer better products and",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-innovators-3-stocks-shaping-the-tech-landscape-1032875196",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-innovators-3-stocks-shaping-the-tech-landscape-1032875196",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-05T15:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -220,20 +220,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Iowa State vs. Baylor Big 12 Tournament Women's Basketball Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. The No. 4 seed Iowa State Cyclones (18-10 ... Lehigh Patriot Tournament Women's Basketball Tickets & Start Time Bucknell vs. American Patriot Tournament Women's Basketball Tickets & Start Time UC Riverside vs."
-    publishedDateTime: 2024-03-09T06:21:00Z
-    webUrl: "https://www.kcrg.com/sports/betting/2024/03/09/iowa-state-vs-baylor-buy-big-12-tournament-womens-college-basketball-tickets/"
-    type: article
-    provider:
-      name: ABC Kcrg  9
-      domain: kcrg.com
-    quality: 18
-    images:
-      - url: "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/v2/Q4LAMNVS2VI65J7YMESUCS2IOE.jpg?auth=463ea0fa6ead9758c8ea49ddbe4c2fcca9a96366b1be196c483d6e6137dcf65f&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Cal Poly vs. UC Davis Big West Tournament Women's Basketball Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. The No. 5 seed UC Davis Aggies (18-13) will square off in the Big West tournament against the No. 4 seed Cal Poly Mustangs (17-12) on Thursday at Dollar Loan Center, tipping off at 5:30 PM ET. Watch college basketball ..."
     publishedDateTime: 2024-03-14T05:27:00Z

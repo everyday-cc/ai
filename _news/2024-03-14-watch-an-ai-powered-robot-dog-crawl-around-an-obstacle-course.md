@@ -96,6 +96,20 @@ related:
         width: 1920
         height: 1281
         isCached: true
+  - title: "Watch an AI-powered robot dog crawl around an obstacle course"
+    excerpt: "A four-legged robot can quickly figure out how to navigate new obstacle courses by climbing up and down large boxes, crouching to scoot beneath tables and even jumping across gaps. The study shows how artificial intelligence training can help robots ..."
+    publishedDateTime: 2024-03-13T00:00:00Z
+    webUrl: "https://www.newscientist.com/article/2421955-watch-an-ai-powered-robot-dog-crawl-around-an-obstacle-course/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 54
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2024/03/12210311/SEI_195633587.jpg"
+        width: 1350
+        height: 900
+        isCached: true
   - title: "Covariant develops video-generating AI model for powering warehouse robots"
     excerpt: "The artificial intelligence model also lends itself to other tasks. According to Covariant, RFM-1 can generate short videos that depict industrial robots performing tasks such as moving merchandise between boxes. Those videos, the startup claims, can be used to equip industrial robots with the ability to plan their actions."
     publishedDateTime: 2024-03-11T19:48:00Z

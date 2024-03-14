@@ -136,6 +136,20 @@ related:
         width: 375
         height: 375
         isCached: true
+  - title: "AI supercharges threat of disinformation in a big year for elections globally"
+    excerpt: "Artificial intelligence is supercharging the threat of election disinformation worldwide, making it easy for anyone with a smartphone to create fake – but convincing – content aimed at fooling voters"
+    publishedDateTime: 2024-03-14T00:09:00Z
+    webUrl: "https://www.washingtonpost.com/business/2024/03/14/artificial-intelligence-elections-disinformation-chatgpt/fb9beb4e-e1c0-11ee-95aa-7384336086f3_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 34
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7A64WIHBYAI65FNKOOCDGYEG6M.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "goxxGYT5XuQe4TZjjnidWEBwZ/EwUFi+S/EFlO0Kmpwm+TCNFWmMq1BbfTC17Ia9AAn/kt79FMD4yksk3WwiBDz3CF5l8K1M7GBbIiTQVCVXG7eMTRL89GkOoov/Koio3Zc1a2NWXZDe/caHxmHcJ7P8AtMb2qjjogljIT+dNEL3HQ3DrJeLnRf/hoFsBe4KIA2hZVydPdUoTG7pmtRB1VyXa3GrZHLonpeeMbZwuteKJQP8GIqRwbxw6ILrnLPNyUra8QkFGAqH4ITnjAQOGewC1+XYOuTyczqCyUa2gEF5wGnyH4bW007ZPmG2Knj1oAVdepnieErfldgzW1r1YpR8aR1igfP/IKY6xH+9Fuc=;5tBkcEU+VjhJ2VlanQk6Pg=="
 ---

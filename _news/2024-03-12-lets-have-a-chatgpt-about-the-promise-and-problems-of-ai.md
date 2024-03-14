@@ -6,8 +6,8 @@ publishedDateTime: 2024-03-11T17:00:00Z
 originalUrl: "https://www.benefitnews.com/advisers/opinion/using-chatgpt-in-employee-benefits"
 webUrl: "https://www.benefitnews.com/advisers/opinion/using-chatgpt-in-employee-benefits"
 type: article
-quality: 39
-heat: -1
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - IBM AI
 
 images:
   - url: "https://arizent.brightspotcdn.com/dims4/default/c2ceadb/2147483647/strip/true/crop/7952x4175+0+565/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.us-east-1.amazonaws.com%2Ffd%2F0a%2F09bae0134b8c892460f4b85dc59c%2Fadobestock-325712983.jpeg"

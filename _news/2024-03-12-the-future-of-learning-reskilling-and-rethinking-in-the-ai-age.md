@@ -86,6 +86,20 @@ related:
         height: 1281
         isCached: true
   - title: "Watch an AI-powered robot dog crawl around an obstacle course"
+    excerpt: "A four-legged robot can quickly figure out how to navigate new obstacle courses by climbing up and down large boxes, crouching to scoot beneath tables and even jumping across gaps. The study shows how artificial intelligence training can help robots ..."
+    publishedDateTime: 2024-03-13T00:00:00Z
+    webUrl: "https://www.newscientist.com/article/2421955-watch-an-ai-powered-robot-dog-crawl-around-an-obstacle-course/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 54
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2024/03/12210311/SEI_195633587.jpg"
+        width: 1350
+        height: 900
+        isCached: true
+  - title: "Watch an AI-powered robot dog crawl around an obstacle course"
     excerpt: "A four-legged robot can handle real-world obstacles that require scrambling up and down or leaping sizeable gaps. AI training lets it adapt to new terrain it hasn’t seen before"
     publishedDateTime: 2024-03-13T18:08:00Z
     webUrl: "https://www.newscientist.com/article/2421955-watch-an-ai-powered-robot-dog-crawl-around-an-obstacle-course/?ref=upstract.com"

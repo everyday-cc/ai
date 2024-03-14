@@ -140,6 +140,15 @@ related:
       name: Invezz
       domain: invezz.com
     quality: 19
+  - title: "New regulations on artificial intelligence, including free statewide training, clear CT committee"
+    excerpt: "The legislative General Law Committee on Tuesday recommended new rules for CT's fast-moving artificial intelligence landscape."
+    publishedDateTime: 2024-03-13T18:54:00Z
+    webUrl: "https://www.stamfordadvocate.com/politics/article/ai-ct-new-rules-free-training-legislation-18964353.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 19
   - title: "New regulations on artificial intelligence, including free statewide training, clears CT committee"
     excerpt: "The legislative General Law Committee on Tuesday recommended new rules for CT's fast-moving artificial intelligence landscape."
     publishedDateTime: 2024-03-13T17:54:00Z

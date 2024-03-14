@@ -33,7 +33,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/03/cloud-computing-electronic-chip-board-cloud-computer-is-system-transfer-data-information-upload-download-application-technology-transformation-concept.jpg"
         width: 2000
