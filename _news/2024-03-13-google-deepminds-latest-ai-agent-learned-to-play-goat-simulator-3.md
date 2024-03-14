@@ -43,6 +43,22 @@ related:
         width: 1285
         height: 857
         isCached: true
+  - title: "Google Deepmind’s new AI agent ‘SIMA’ will be your in-game teammate: Check details"
+    excerpt: "Google DeepMind has introduced SIMA, an AI agent designed to develop gaming skills mirroring human behaviour. Know more."
+    publishedDateTime: 2024-03-14T04:04:00Z
+    webUrl: "https://www.digit.in/news/general/google-deepminds-new-ai-agent-sima-will-be-your-in-game-teammate-check-details.html"
+    ampWebUrl: "https://www.digit.in/news/general/google-deepminds-new-ai-agent-sima-will-be-your-in-game-teammate-check-details.html/amp/"
+    cdnAmpWebUrl: "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/news/general/google-deepminds-new-ai-agent-sima-will-be-your-in-game-teammate-check-details.html/amp/"
+    type: article
+    provider:
+      name: Digit
+      domain: digit.in
+    quality: 68
+    images:
+      - url: "https://static.digit.in/AI-2-2.png"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "7YYQwr6pihWyvjNlP0x+SU+VUvfltEZZTMtqq1jXu+NZWnek/n2B9LWPTtyhYHR0iMqmn0ZHgnQf+itEPiKejZ9MOlR1oBu2MNBLHPT7dA6MLdGcwD8ZRAmQA2GEjAmLu+kZgl54oWQUMwtBIz9+alh1OXWhN7jK8EuZEjgs6/UCQF9PDfDGN0a73/rlnURzjqE3HWjfPP/u7dAi8P8jfVOBKIzwvhCtuCeOdMWrBE4gSwWC1FI4Rmgl0W4rGjz/7I9FBqNl3NIwbH47BL2lcE5iNKJdRdEebqxyXRy95F9jIG1PsP8QG1BUca3qXAGD36YL6c2lezGNZesVgcj2RO2Fy1hmFLmBlT1WzycqrfSZgjlU0nFNezyvL399qB9KlAuol/w8fZ7Rh8jtDx+0KcDrWxIba062FtSc9A2Qo5tXnUAQCfac+lIhcwAZqBIwmW4Br3hrqGyi9zMnEz+pogQCIyBVGePyxCkHFU4v9nRJirhAUnhY4eHT7KqzPmYSEDxjs+s+KCJe/UPFuWfmNg==;xKJM2aOb4QlaJXQIKp96qQ=="
 ---

@@ -2,23 +2,29 @@
 category: news
 title: "Hexaware unveils tensai GPT, a secure AI web app using Microsoft Azure Open AI Service to advance internal innovation"
 excerpt: "Hexaware, a global IT services and digital solutions leader, announced the launch of tensai GPT, an AI web app, in collaboration with Microsoft. Using Microsoft Azure Open AI Service, this AI web app will enable Hexaware employees to harness enterprise knowledge,"
-publishedDateTime: 2024-03-12T10:55:00Z
-originalUrl: "https://www.business-standard.com/content/press-releases-ani/hexaware-unveils-tensai-gpt-a-secure-ai-web-app-using-microsoft-azure-open-ai-service-to-advance-internal-innovation-124031200652_1.html"
-webUrl: "https://www.business-standard.com/content/press-releases-ani/hexaware-unveils-tensai-gpt-a-secure-ai-web-app-using-microsoft-azure-open-ai-service-to-advance-internal-innovation-124031200652_1.html"
-ampWebUrl: "https://www.business-standard.com/amp/content/press-releases-ani/hexaware-unveils-tensai-gpt-a-secure-ai-web-app-using-microsoft-azure-open-ai-service-to-advance-internal-innovation-124031200652_1.html"
-cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/content/press-releases-ani/hexaware-unveils-tensai-gpt-a-secure-ai-web-app-using-microsoft-azure-open-ai-service-to-advance-internal-innovation-124031200652_1.html"
+publishedDateTime: 2024-03-12T10:33:00Z
+originalUrl: "https://theprint.in/ani-press-releases/hexaware-unveils-tensai-gpt-a-secure-ai-web-app-using-microsoft-azure-open-ai-service-to-advance-internal-innovation/1997879/"
+webUrl: "https://theprint.in/ani-press-releases/hexaware-unveils-tensai-gpt-a-secure-ai-web-app-using-microsoft-azure-open-ai-service-to-advance-internal-innovation/1997879/"
+ampWebUrl: "https://theprint.in/ani-press-releases/hexaware-unveils-tensai-gpt-a-secure-ai-web-app-using-microsoft-azure-open-ai-service-to-advance-internal-innovation/1997879/?amp"
+cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/hexaware-unveils-tensai-gpt-a-secure-ai-web-app-using-microsoft-azure-open-ai-service-to-advance-internal-innovation/1997879/?amp"
 type: article
-quality: 46
-heat: -1
-published: false
+quality: 66
+heat: 96
+published: true
 
 provider:
-  name: Business Standard
-  domain: business-standard.com
+  name: ThePrint
+  domain: theprint.in
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://static.theprint.in/wp-content/uploads/2024/03/ANI-20240312101824.jpg"
+    width: 600
+    height: 450
+    isCached: true
 
 related:
   - title: "US pushes to weaken international human rights treaty on use of AI software"
@@ -37,16 +43,25 @@ related:
         width: 1199
         height: 615
         isCached: true
-  - title: "On AI treaty, US wants an opt-out"
-    excerpt: "The U.S. is a non-voting observer at the council, but the Europeans crave its signature on the treaty because of the United States’ importance in the development of AI."
-    publishedDateTime: 2024-03-11T18:00:00Z
-    webUrl: "https://www.politico.com/newsletters/future-pulse/2024/03/11/on-ai-treaty-us-wants-an-opt-out-00146202"
+  - title: "Hexaware introduces an AI web application called tensai GPT"
+    excerpt: "Using Microsoft Azure Open AI Service, the application will enable Hexaware employees to harness enterprise knowledge"
+    publishedDateTime: 2024-03-12T12:22:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-hexaware-introduces-an-ai-web-application-called-tensai-gpt-3422914/"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 17
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 19
+  - title: "Hexaware Technologies Ltd.: Hexaware unveils tensai GPT, a secure AI web app using Microsoft Azure Open AI Service to advance internal innovation"
+    excerpt: "Hexaware, a global IT services and digital solutions leader, announced the launch of tensai GPT, an AI web app, in collaboration with Microsoft. Using"
+    publishedDateTime: 2024-03-12T09:44:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-03/61651147-hexaware-technologies-ltd-hexaware-unveils-tensai-gpt-a-secure-ai-web-app-using-microsoft-azure-open-ai-service-to-advance-internal-innovation-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 12
 
-secured: "h0XtsKaO6cl0O4UZmGgi98spJmQC3Rh2DDU5RQK7copwb9RnDUI/XLAN85fj03SO7lXU5dp9U1oPpKt+/PxkZi1ODTe9t/v0GFgeJgc6DUocrB8gEyxwpaMO+gKGFp3SjrYwJOvxYTWxmdyX0KvwMzMLlhkMbcjA1xpYvkNeOCHPiB+mpe4PuRmy3E0JndNf+yQz4XohbHrAkTuobrnlT51fvkKsXHkFjM2EKZldkjT5dTolgwcOtMF0BQIa1Q1cU1GTcrI8dhLE8LH29rbxaQ4SA+FWqbUkv+xVlDRBzhOz0cz01H24bmDN63U+C8WFLL/8fpBFhhH9dBwv0lzbYbN670MfZTd6Iksn4+tn8nGGu5aCB4FVY+q1rmfdRScHtbX0ffsMCh4EqJjA2hNTSWMb3aa/QLPOr9pPg29JBAaQJzw4x8md4E8uFSpv9EWCxM6zHoUg131CdengGQqSpheSqJZCO1kQ9FAvS91lfe7lt8iKk0YJb8SKOXnOTbkAdJpty2SCFKe8WOonSERkag==;TT7TD6xETyQ7nTdoKDtJxw=="
+secured: "HlPzj4Wg7ZOVV3vgPun9JhOSR1o4KZaJf3PH1H8myXqMlLXantyXtrQ2GMVaGO1hZCWz7nzR+onMVf/9IV4/AVclF5oWDu2dKMfLFDe7G/LX+cnGKP6t3SFNcfr80arYvyF2Pi5QL2jP6L5eSEgL2ng+8clrqHebOlTNHuY2IM8e7C2FuTC4uPMO+sh+xQy/XpNy3Cn/ViAU8A3drWHKFAFYKu27bdo2bF8ftZwf8LL9NN5oB+Yk4lhKQAriQL2gGZ7COQS8fRPvpaLbmC0In5HMZdslCxXY3iJbj9T6w6u4pmZ61N89vzLynAvvngMraB5IJypTq64YZhzdXUeqixCyHYhf8wNwvF/hJRumgkY=;uhMHl10ZGwylMDls5aaxWQ=="
 ---
 

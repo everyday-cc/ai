@@ -7,7 +7,7 @@ originalUrl: "https://tech.co/news/chatgpt-vs-claude-3"
 webUrl: "https://tech.co/news/chatgpt-vs-claude-3"
 type: article
 quality: 56
-heat: 66
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Pros & Cons of Claude 3 AI compared to ChatGPT"
-    excerpt: "In the competitive landscape of artificial intelligence, the emergence of new large language models (LLMs) continuously reshapes the boundaries of"
-    publishedDateTime: 2024-03-10T11:03:00Z
-    webUrl: "https://www.geeky-gadgets.com/claude-3-vs-chatgpt/"
+  - title: "Anthropic releases Claude 3 Haiku, an AI model built for speed and affordability"
+    excerpt: "Anthropic launches Claude 3 Haiku, the fastest and most affordable AI model in its class, featuring advanced vision capabilities and enterprise-grade security for high-volume, latency-sensitive applications."
+    publishedDateTime: 2024-03-14T05:51:00Z
+    webUrl: "https://venturebeat.com/ai/anthropic-releases-claude-3-haiku-an-ai-model-built-for-speed-and-affordability/"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 56
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 62
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/03/chatgpt-vs-claude-3-Pros-and-Cons-compared.jpg"
-        width: 1280
-        height: 710
+      - url: "https://venturebeat.com/wp-content/uploads/2024/03/Claude_3_Haiku-transformed-1.webp?w=1200&strip=all"
+        width: 1200
+        height: 672
         isCached: true
 
 secured: "hNtnrCRZo+GpM1BuU6GTJhuxHuKiAQuyo9Qs4/UtWG09+w5O8MIgCHw9APtGCa58DBhYzk27Yzn4eWx1LBEjwtJEFewtVkuRVs8LC/jp4B00x0YJjWXCBpUg+D9FAVq/fHwYar0fwmzaQTrVEhXABZyQEBrjQtwP1LG5zFjXf5BCSbbgs4B+wcpm8t1GFWf47BYT+V4fmBAW6mo8PRefGkUrZOG6vwmlmGOLCqEdi8PjRaejcY9ZpEQi8C1z6EkVKROUuaPZL7Mvh7PFWOMzAEh6ad09uZe1VlOyMkn0bAayIO4XCa28qV17VgLdBvpHyxeATQrvIjsjAPCygb5TAgytZeKziVI0RJieOCJFubzp8Lqfl9Shk4VYRArHapGIs5jBzLxYbol6PGchblxisDscIbp4DIXt10PGFibmH5ZMgFgjohtyjHo26swerPF05uJIELWvr9eVWnIRyJGf0k/PTleBPP9/t2Fly7PNR5ZQ4VzMZ9Ya96FyOLVI9cu+6t0HXvGZL3VHTtJtbfwd7A==;9+U50uzSrzGh/YBuMIUAFg=="

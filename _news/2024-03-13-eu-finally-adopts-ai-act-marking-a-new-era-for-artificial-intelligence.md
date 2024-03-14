@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/eu-adopts-ai-act-artificial-intelligen
 webUrl: "https://thenextweb.com/news/eu-adopts-ai-act-artificial-intelligence-rules"
 type: article
 quality: 81
-heat: 92
+heat: 101
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "European Parliament Passes Landmark AI Act, World's First Comprehensive Law Regulating Artificial Intelligence"
+    excerpt: "The first-ever legal framework on artificial intelligence, the AI Act, could set the tone for AI regulation around the world."
+    publishedDateTime: 2024-03-13T21:13:00Z
+    webUrl: "https://www.law.com/international-edition/2024/03/13/european-parliament-passes-landmark-ai-act-worlds-first-comprehensive-law-regulating-artificial-intelligence/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 32
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/378/2024/03/European-Union-AI-Regulation-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "The EU’s new AI Act could have global impact"
     excerpt: "The EU’s new AI Office will also help lead global change, though not perhaps through its enforcement powers. Sceptics have pointed out that initial estimates for its budget are less than half the £100m committed to the UK’s AI Safety Institute."
     publishedDateTime: 2024-03-13T17:36:00Z

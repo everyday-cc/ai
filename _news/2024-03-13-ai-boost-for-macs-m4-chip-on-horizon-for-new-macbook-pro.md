@@ -7,7 +7,7 @@ originalUrl: "https://in.mashable.com/tech/71320/ai-boost-for-macs-m4-chip-on-ho
 webUrl: "https://in.mashable.com/tech/71320/ai-boost-for-macs-m4-chip-on-horizon-for-new-macbook-pro"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -50,6 +50,20 @@ related:
       name: Android Authority
       domain: androidauthority.com
     quality: 64
+  - title: "MacBook Air 2024: Apple burnishes its AI credentials with powerful new M3 chip"
+    excerpt: "Most of the changes are incremental, but this remains a solid upgrade for older MacBook Air owners or newcomers to the line-up"
+    publishedDateTime: 2024-03-14T05:00:00Z
+    webUrl: "https://www.irishtimes.com/technology/consumer-tech/review/2024/03/14/macbook-air-2024-apple-burnishes-its-ai-credentials-with-powerful-new-m3-chip/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 50
+    images:
+      - url: "https://www.irishtimes.com/resizer/56qAYXcxKGdWBOAHkaj3i9qTOt0=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/QO6DT7EKABCWBNHHZPRJ2YFCL4.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "gj/2ng3Qva6Vd6ElNb29kGzpxPCJoHwomUxdGAa6yy/14koojGE1FvVS44QY+N3CwTCWIFofjUeO592NiQ+Ic2OaWeLS894pUTr3z5/1bxnq5LICf7nvrI4r1rf0FWlAu590Q+zAorfrh91hYXRe/OUu/P5JqbcgcJR7dnCc1g2TCEvW5i2Ohdnlj77CXGwqKT8/RCPcR1F4kp+BC8eb+rpOEwjg7GPSDhY4VVgwI3V1rlO+F6wOoTme/tkT3L1Oqz+AVZRy1FgtXDiZAOSGd0/HmSEYCUh+nGozuQvWCGa/EgWBtj8jHamukAf7qp27VaUzu72s5jMtQvBmg0Y3OK0mjVtq0I/LTuSCmm+f/9FkWPCY9kDcdMaLFLfwS3GJZ9CAAk09Z/lHcGTL1KET04+q/upSbjbgnQJ8ls8fU+e97PJZXJSP/cCyYnQf/wk44qYYWtzIG9XznueIVrYDdV46TfCKKaK+T9YHVKdDLqQUIKwA56Q+g6jBwh+CDmMPJeYaq9dJPhaP8GsSwGmCgQ==;KjoDoeGU78piEjOh3hE+IQ=="
 ---

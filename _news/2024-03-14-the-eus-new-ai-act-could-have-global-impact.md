@@ -33,6 +33,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "European Parliament Passes Landmark AI Act, World's First Comprehensive Law Regulating Artificial Intelligence"
+    excerpt: "The first-ever legal framework on artificial intelligence, the AI Act, could set the tone for AI regulation around the world."
+    publishedDateTime: 2024-03-13T21:13:00Z
+    webUrl: "https://www.law.com/international-edition/2024/03/13/european-parliament-passes-landmark-ai-act-worlds-first-comprehensive-law-regulating-artificial-intelligence/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 32
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/378/2024/03/European-Union-AI-Regulation-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
 secured: "abwfRTPRDwU5wbZ2C591zJo5EMvxgXEyY+LrOlWV54K5o9V29hotd2Vj+Ake6C5BFa/gFQhR+Z9ejwGfq4j8/KjhAXGDoI90724L4xka6Rah0pu19WyshtiGEHRZHPTcNkUvM9vnJY/tklipC4mXfzaUJT0EEMQqGtS7Pf4Y1Rhrmkrlsz9zmc1oyEHNWXjBvlWreoxA2G+b378QCcpZXDi8+OXbcB4CYesPSnDFBDi7v8KlAaTt+qotGxQ4PldzugvLdWqgiWJyXTyq8bwWKWY/GAb5XSMhCfhJ5QknnILpH5OD2VsXow071Vu75jsniaKsccqGtYtOWvPcDmkY9qRJGfO3Dhu4L+5cHobe690=;DU/x48Sidt0/Ulq1JHG+3w=="
 ---

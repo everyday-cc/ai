@@ -24,6 +24,22 @@ images:
     height: 633
     isCached: true
 
+related:
+  - title: "Good governance, innovation, inclusivity to define fintech success: Castler’s Kumar Amit"
+    excerpt: "Speaking on innovation in finance, experts from Castler, Perfios, Kiya.ai, and Google Cloud India highlighted how fintechs can build successful businesses while following regulatory requirements."
+    publishedDateTime: 2024-03-14T01:46:00Z
+    webUrl: "https://yourstory.com/2024/03/fintech-business-regulation-castler-google-cloud-perfios-kiya-techsparks"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 15
+    images:
+      - url: "https://images.yourstory.com/cs/2/f3638ff0dcc111ec93bca187955479ef/IMAGEFramesSowmya4-1710148525880.jpg?fm=png&auto=format"
+        width: 1600
+        height: 800
+        isCached: true
+
 secured: "Y4JA3Vb6k4J5V9/axsYEsXFk0FHPL1MXBjxV56nUQPv+9sZHmGL1D9Dxtc6aDirZ1P4g/Kt2/NCrA/afvOhQbmgM0KvtpeIuxgjDcWHdojnP05JYqzDfq1jyxxkA5A2th+249Ix1I+MCd53I+tvDAyclsRkrBKgk+jcPRQz8v1V5gDJRF9ZpDrWZLtCo0kKdIxV2xy2e1z11IoOAY3iPrOabrgwQ0OUuIee3DguKfpAO/oyPTxYqcvCfkyiA3HFGRzBJg4oBl7xGfJU5t8W01Dg8a9DV381DltageCtOteh75Uj7XIoK1gV7xepW1/pXrruIKC2sZ8C//nOOJgJAcIhcA4+cx6sJBUhdho5AfTDZQE4MO0V48O8jRjuEvV5nClnox9vlpxbriFKc4UkRJ8brYflMe2S//wOulbPYstmQfQcyzFRsVZqUNIXNWTidXyvGk0Ivv+WNX+hUHWg9UgedOB8t2vq81trRuiTNNWio1roHFcnoFy2dkCyzvMHgJVh/sRgOXG4iyuX4Yb/hNw==;DdV2MQw61ftB1O4SEmrDGg=="
 ---
 

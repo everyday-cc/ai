@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/does-aws-o
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/13/does-aws-or-google-cloud-offer-better-options-for-your-business/amp/"
 type: article
 quality: 89
-heat: 100
+heat: 99
 published: true
 
 provider:

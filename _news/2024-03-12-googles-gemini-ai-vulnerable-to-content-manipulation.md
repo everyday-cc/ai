@@ -202,6 +202,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "ChatGPT Spills Secrets in Novel PoC Attack"
+    excerpt: "Research is latest in a growing body of work to highlight troubling weaknesses in widely used generative AI tools."
+    publishedDateTime: 2024-03-13T22:00:00Z
+    webUrl: "https://www.darkreading.com/cyber-risk/researchers-develop-new-attack-for-extracting-secrets-from-chatgpt-other-genai-tools"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 41
+    images:
+      - url: "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt395a9e7b07a31ae4/65f20df0617a0b040a5e0bde/chatgpt_PopTika_shutterstock.jpg?disable=upscale&width=1200&height=630&fit=crop"
+        width: 966
+        height: 507
+        isCached: true
   - title: "New Jailbreak bypasses AI filtering on ChatGPT-4, Claude, Gemini and LLaMA"
     excerpt: "A new AI jailbreak has been discovered using ASCII art to bypass content filters on advanced AI models : ChatGPT-4, Claude, Gemini and LLaMA"
     publishedDateTime: 2024-03-11T13:16:00Z

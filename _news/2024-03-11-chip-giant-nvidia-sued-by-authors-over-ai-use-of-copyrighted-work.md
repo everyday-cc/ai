@@ -157,6 +157,20 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Meta has two new AI data centers equipped with over 24,000 NVIDIA H100 GPUs"
+    excerpt: "By the end of 2024, Meta plans to have 350,000 NVIDIA H100 GPUs powering its AI infrastructure - it's all part of its 'ambitious' AI roadmap."
+    publishedDateTime: 2024-03-14T03:31:00Z
+    webUrl: "https://www.tweaktown.com/news/96834/meta-has-two-new-ai-data-centers-equipped-with-over-24-000-nvidia-h100-gpus/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 52
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96834_01_meta-has-two-new-ai-data-centers-with-over-24-000-nvidia-h100-gpus_full.jpg"
+        width: 1500
+        height: 843
+        isCached: true
   - title: "Beyond Nvidia: 7 Underappreciated AI Stocks to Buy Now"
     excerpt: "That would be 11.6% above 2024’s projected revenue. Fundamentally, Intel is committed to delivering chips for 100 million AI PCs by 2025. I’d say that’s a decent candidate for underappreciated AI stocks to buy. Intuit (INTU) As a tax-preparation ..."
     publishedDateTime: 2024-03-10T13:59:00Z

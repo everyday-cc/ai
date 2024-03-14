@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/us/new-ai-tools-help-doctors-take-notes-mess
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/new-ai-tools-help-doctors-take-notes-message-patients-still-make-mistakes.amp"
 type: article
 quality: 78
-heat: 99
+heat: 98
 published: true
 
 provider:

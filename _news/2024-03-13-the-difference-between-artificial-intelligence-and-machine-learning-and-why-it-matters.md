@@ -9,7 +9,7 @@ ampWebUrl: "https://breakingdefense.com/2024/03/the-difference-between-artificia
 cdnAmpWebUrl: "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2024/03/the-difference-between-artificial-intelligence-and-machine-learning-and-why-it-matters/?amp=1"
 type: article
 quality: 66
-heat: 97
+heat: 99
 published: true
 
 provider:

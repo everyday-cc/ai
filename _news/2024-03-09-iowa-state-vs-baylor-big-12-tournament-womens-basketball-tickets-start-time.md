@@ -206,6 +206,48 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "SFA vs. Tarleton State WAC Tournament Women's Basketball Tickets & Start Time"
+    excerpt: "Watch college basketball, other live sports and more on Fubo! Use our link to sign up for a free trial. Rep your team with officially licensed college basketball gear! Head to Fanatics to find jerseys, shirts, and much more. DraftKings Click Here Bet $5 ..."
+    publishedDateTime: 2024-03-14T05:18:00Z
+    webUrl: "https://www.ktre.com/sports/betting/2024/03/14/sfa-vs-tarleton-state-buy-wac-tournament-womens-college-basketball-tickets/"
+    type: article
+    provider:
+      name: KTRE
+      domain: ktre.com
+    quality: 19
+    images:
+      - url: "https://gray-ktre-prod.cdn.arcpublishing.com/resizer/v2/IRJKBDWVV5KKNAHEZIAM5N2SDA.jpg?auth=0f0121af5d43c0606c4749e94e060c58fae28d276507783ecfce230fd6282d50&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Cal Poly vs. UC Davis Big West Tournament Women's Basketball Tickets & Start Time"
+    excerpt: "View how Data Skrive uses AI here. The No. 5 seed UC Davis Aggies (18-13) will square off in the Big West tournament against the No. 4 seed Cal Poly Mustangs (17-12) on Thursday at Dollar Loan Center, tipping off at 5:30 PM ET. Watch college basketball ..."
+    publishedDateTime: 2024-03-14T05:27:00Z
+    webUrl: "https://www.kcrg.com/sports/betting/2024/03/14/cal-poly-vs-uc-davis-buy-big-west-tournament-womens-college-basketball-tickets/"
+    type: article
+    provider:
+      name: ABC Kcrg  9
+      domain: kcrg.com
+    quality: 17
+    images:
+      - url: "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/v2/ZM5ZD7A3LVLR3HNH52W5G4VF7U.jpg?auth=80ffbb5ba10ffce2e901dd6098a4a8ffd1d4979f9eb14b52e9e0df9170c04c69&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Kent State vs. Ball State MAC Tournament Women's Basketball Tickets & Start Time"
+    excerpt: "View how Data Skrive uses AI here. The No. 2 seed Ball State Cardinals (28-4) square off in the MAC tournament against the No. 3 seed Kent State Golden Flashes (19-10) on Friday at Rocket Mortgage FieldHouse, tipping off at 12:30 PM ET. Watch college ..."
+    publishedDateTime: 2024-03-14T00:01:00Z
+    webUrl: "https://www.fox19.com/sports/betting/2024/03/15/kent-state-vs-ball-state-buy-mac-tournament-womens-college-basketball-tickets/"
+    type: article
+    provider:
+      name: WXIX-TV
+      domain: fox19.com
+    quality: 17
+    images:
+      - url: "https://gray-wxix-prod.cdn.arcpublishing.com/resizer/v2/G6NZ6NNCTVORHNH5VQNIENA6XA.jpg?auth=bce98d62eef828827af62a14d972a8fe138b6368a237016e3692b7d6458a4ca6&width=1200&height=600&smart=true"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "UCSB vs. Long Beach State Big West Tournament Women's Basketball Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. The No. 6 seed UCSB Gauchos (16-14) and the No. 7 seed Long Beach State Beach (13-17) will look to advance in the Big West tournament on Wednesday as they square off at 5:30 PM ET."
     publishedDateTime: 2024-03-10T17:05:00Z

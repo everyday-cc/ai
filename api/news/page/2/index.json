@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-03-13-safeguarding-data-privacy-in-the-age-of-ai-innovation.md",
+      "title": "Safeguarding Data Privacy In The Age Of AI Innovation",
+      "excerpt": "The Amazon Bedrock platform allows for the creation and deployment of machine learning models within a protected ... Furthermore, cloud service providers like Microsoft Azure and Google Cloud offer specialized tools and services for building private ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/safeguarding-data-privacy-in-the-age-of-ai-innovation/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/safeguarding-data-privacy-in-the-age-of-ai-innovation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/64c2ae560f07ba1a1fade19d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1330,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/safeguarding-data-privacy-in-the-age-of-ai-innovation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/13/safeguarding-data-privacy-in-the-age-of-ai-innovation/amp/",
+      "publishedDateTime": "2024-03-13T11:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-13-does-aws-or-google-cloud-offer-better-options-for-your-business.md",
+      "title": "Does AWS Or Google Cloud Offer Better Options For Your Business?",
+      "excerpt": "The decision to select AWS or Google Cloud hinges on several factors, such as the size of the business, the industry, any specific requirements and budgetary concerns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/does-aws-or-google-cloud-offer-better-options-for-your-business/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/does-aws-or-google-cloud-offer-better-options-for-your-business/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/623e01e2d7e01bab063bd76c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/does-aws-or-google-cloud-offer-better-options-for-your-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/13/does-aws-or-google-cloud-offer-better-options-for-your-business/amp/",
+      "publishedDateTime": "2024-03-13T11:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-13-why-generative-ai-isnt-just-about-creating-marketing-content.md",
       "title": "Why Generative AI Isn’t Just About Creating Marketing Content",
       "excerpt": "Amid this environment of promise and anguish, companies are already forging ahead to serve customers with AI-generated content.",
@@ -62,7 +166,7 @@
       "originalUrl": "https://www.foxnews.com/us/new-ai-tools-help-doctors-take-notes-message-patients-still-make-mistakes",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -215,7 +319,7 @@
       "originalUrl": "https://in.mashable.com/tech/71320/ai-boost-for-macs-m4-chip-on-horizon-for-new-macbook-pro",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -692,6 +796,49 @@
       ]
     },
     {
+      "path": "_news/2024-03-13-new-study-shows-how-ai-can-help-us-better-understand-global-threats-to-wildlife.md",
+      "title": "New study shows how AI can help us better understand global threats to wildlife",
+      "excerpt": "A new study published in Conservation Biology by the University of Sussex shows how researchers are using AI technology and social media to help identify global threats to wildlife.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2024-03-ai-global-threats-wildlife.html",
+      "originalUrl": "https://phys.org/news/2024-03-ai-global-threats-wildlife.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/1-bat.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2024-03-ai-global-threats-wildlife.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2024-03-ai-global-threats-wildlife.amp",
+      "publishedDateTime": "2024-03-13T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-13-samsung-may-use-sk-hynixs-technology-to-compete-in-ai-chip-race.md",
       "title": "Samsung May Use SK Hynix’s Technology to Compete in AI Chip Race",
       "excerpt": "Samsung Electronics is set to adopt chip-making technology championed by its rival SK Hynix in a bid to compete in the flourishing market of high-end chips driving artificial intelligence (AI), Reuters news report said. The move comes as Samsung, the ...",
@@ -1079,152 +1226,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-vast-datas-nvidia-dpu-based-ai-cloud-architecture.md",
-      "title": "VAST Data’s NVIDIA DPU-BASED AI Cloud Architecture",
-      "excerpt": "Here's how it works: using the Nvidia BlueField-3 DPU, VAST creates a parallel system architecture where storage and database processing services are embedded directly into AI servers. This setup provides a dedicated, stateless container for each GPU ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2024/03/12/vast-datas-nvidia-dpu-based-ai-cloud-architecture/",
-      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2024/03/12/vast-datas-nvidia-dpu-based-ai-cloud-architecture/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 349,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65f0c54c13205bd9ccd1cee6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 959,
-          "height": 424,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2024/03/12/vast-datas-nvidia-dpu-based-ai-cloud-architecture/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2024/03/12/vast-datas-nvidia-dpu-based-ai-cloud-architecture/amp/",
-      "publishedDateTime": "2024-03-12T19:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-oracle-adds-automation-ai-to-globally-distributed-database.md",
-      "title": "Oracle Adds Automation & AI To Globally Distributed Database",
-      "excerpt": "Oracle announced the general availability of its Globally Distributed Autonomous Database, marking a significant enhancement in its database technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemcdowell/2024/03/12/oracle-adds-automation--ai-to-globally-distributed-database/",
-      "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2024/03/12/oracle-adds-automation--ai-to-globally-distributed-database/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65f0aaf13b0b0ca2103344f1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1349,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevemcdowell/2024/03/12/oracle-adds-automation--ai-to-globally-distributed-database/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2024/03/12/oracle-adds-automation--ai-to-globally-distributed-database/amp/",
-      "publishedDateTime": "2024-03-12T19:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-us-spearheads-first-un-resolution-on-artificial-intelligence-aimed-at-ensuring-equal-access.md",
-      "title": "US spearheads first UN resolution on artificial intelligence — aimed at ensuring equal access",
-      "excerpt": "UNITED NATIONS (AP) — The United States is spearheading the first United Nations resolution on artificial intelligence, aimed at ensuring the new technology is “safe, secure and trustworthy” and that all countries, especially those in the developing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.twincities.com/2024/03/12/us-spearheads-first-un-resolution-on-artificial-intelligence-aimed-at-ensuring-equal-access/",
-      "originalUrl": "https://www.twincities.com/2024/03/12/us-spearheads-first-un-resolution-on-artificial-intelligence-aimed-at-ensuring-equal-access/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.twincities.com/wp-content/uploads/2024/03/United_Nations-Artificial_Intelligence_71823.jpg?w=1024&h=682",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.twincities.com/2024/03/12/us-spearheads-first-un-resolution-on-artificial-intelligence-aimed-at-ensuring-equal-access/amp/",
-      "cdnAmpWebUrl": "https://www-twincities-com.cdn.ampproject.org/c/s/www.twincities.com/2024/03/12/us-spearheads-first-un-resolution-on-artificial-intelligence-aimed-at-ensuring-equal-access/amp/",
-      "publishedDateTime": "2024-03-12T19:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TwinCities.com",
-        "domain": "twincities.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

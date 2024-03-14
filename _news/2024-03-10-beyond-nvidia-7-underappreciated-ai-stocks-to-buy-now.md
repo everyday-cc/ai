@@ -171,6 +171,20 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Meta has two new AI data centers equipped with over 24,000 NVIDIA H100 GPUs"
+    excerpt: "By the end of 2024, Meta plans to have 350,000 NVIDIA H100 GPUs powering its AI infrastructure - it's all part of its 'ambitious' AI roadmap."
+    publishedDateTime: 2024-03-14T03:31:00Z
+    webUrl: "https://www.tweaktown.com/news/96834/meta-has-two-new-ai-data-centers-equipped-with-over-24-000-nvidia-h100-gpus/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 52
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96834_01_meta-has-two-new-ai-data-centers-with-over-24-000-nvidia-h100-gpus_full.jpg"
+        width: 1500
+        height: 843
+        isCached: true
   - title: "VAST Data Unveils New Data Platform Architecture for the AI Factory"
     excerpt: "VAST Data, the AI data platform company, today unveiled a new AI cloud architecture designed to deliver unprecedented levels of performance, quality of service, zero-trust security and space/cost/power efficiency for the AI factory."
     publishedDateTime: 2024-03-12T14:00:00Z

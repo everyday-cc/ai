@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-14-anthropic-releases-claude-3-haiku-an-ai-model-built-for-speed-and-affordability.md",
+      "title": "Anthropic releases Claude 3 Haiku, an AI model built for speed and affordability",
+      "excerpt": "Anthropic launches Claude 3 Haiku, the fastest and most affordable AI model in its class, featuring advanced vision capabilities and enterprise-grade security for high-volume, latency-sensitive applications.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/anthropic-releases-claude-3-haiku-an-ai-model-built-for-speed-and-affordability/",
+      "originalUrl": "https://venturebeat.com/ai/anthropic-releases-claude-3-haiku-an-ai-model-built-for-speed-and-affordability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/03/Claude_3_Haiku-transformed-1.webp?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-14T05:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-14-gemma-is-now-available-in-amazon-sagemaker-jumpstart.md",
       "title": "Gemma is now available in Amazon SageMaker JumpStart ",
       "excerpt": "Today, we’re excited to announce that the&nbsp;Gemma model is now available for customers using&nbsp;Amazon SageMaker JumpStart.&nbsp;Gemma is a family of language models based on Google’s Gemini models, trained on up to 6 trillion tokens of text. The Gemma family consists of two sizes: a 7 billion parameter",
@@ -10,7 +61,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/gemma-is-now-available-in-amazon-sagemaker-jumpstart/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -51,6 +102,49 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-14-lg-makes-strategic-investment-in-bear-robotics.md",
+      "title": "LG Makes Strategic Investment in Bear Robotics",
+      "excerpt": "LG Electronics invests $60 million in Bear Robotics, betting on the growth of autonomous service robots and its roadmap for Software-defined Robotics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/lg-makes-strategic-investment-in-bear-robotics/",
+      "originalUrl": "https://www.therobotreport.com/lg-makes-strategic-investment-in-bear-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2024/03/bear-robotics-lg-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-13T23:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -158,7 +252,7 @@
       "originalUrl": "https://www.businessinsider.com/ai-report-risks-human-extinction-state-department-expert-reaction-2024-3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -502,7 +596,7 @@
       "originalUrl": "https://www.businessinsider.com/satya-nadella-google-default-winner-ai-race-microsoft-2024-3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -657,7 +751,7 @@
       "originalUrl": "https://www.foxnews.com/tech/fox-news-ai-newsletter-uncontrollable-systems-could-turn-humans-report-warns",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -760,7 +854,7 @@
       "originalUrl": "https://breakingdefense.com/2024/03/the-difference-between-artificial-intelligence-and-machine-learning-and-why-it-matters/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -906,7 +1000,7 @@
       "originalUrl": "https://www.zdnet.com/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -958,7 +1052,7 @@
       "originalUrl": "https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1010,7 +1104,7 @@
       "originalUrl": "https://thenextweb.com/news/eu-adopts-ai-act-artificial-intelligence-rules",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -1143,110 +1237,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-safeguarding-data-privacy-in-the-age-of-ai-innovation.md",
-      "title": "Safeguarding Data Privacy In The Age Of AI Innovation",
-      "excerpt": "The Amazon Bedrock platform allows for the creation and deployment of machine learning models within a protected ... Furthermore, cloud service providers like Microsoft Azure and Google Cloud offer specialized tools and services for building private ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/safeguarding-data-privacy-in-the-age-of-ai-innovation/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/safeguarding-data-privacy-in-the-age-of-ai-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c2ae560f07ba1a1fade19d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1330,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/safeguarding-data-privacy-in-the-age-of-ai-innovation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/13/safeguarding-data-privacy-in-the-age-of-ai-innovation/amp/",
-      "publishedDateTime": "2024-03-13T11:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-does-aws-or-google-cloud-offer-better-options-for-your-business.md",
-      "title": "Does AWS Or Google Cloud Offer Better Options For Your Business?",
-      "excerpt": "The decision to select AWS or Google Cloud hinges on several factors, such as the size of the business, the industry, any specific requirements and budgetary concerns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/does-aws-or-google-cloud-offer-better-options-for-your-business/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/does-aws-or-google-cloud-offer-better-options-for-your-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/623e01e2d7e01bab063bd76c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/does-aws-or-google-cloud-offer-better-options-for-your-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/13/does-aws-or-google-cloud-offer-better-options-for-your-business/amp/",
-      "publishedDateTime": "2024-03-13T11:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

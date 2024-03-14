@@ -50,6 +50,20 @@ related:
       name: Android Authority
       domain: androidauthority.com
     quality: 64
+  - title: "MacBook Air 2024: Apple burnishes its AI credentials with powerful new M3 chip"
+    excerpt: "Most of the changes are incremental, but this remains a solid upgrade for older MacBook Air owners or newcomers to the line-up"
+    publishedDateTime: 2024-03-14T05:00:00Z
+    webUrl: "https://www.irishtimes.com/technology/consumer-tech/review/2024/03/14/macbook-air-2024-apple-burnishes-its-ai-credentials-with-powerful-new-m3-chip/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 50
+    images:
+      - url: "https://www.irishtimes.com/resizer/56qAYXcxKGdWBOAHkaj3i9qTOt0=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/QO6DT7EKABCWBNHHZPRJ2YFCL4.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "xEzBRINFqvAdiJDj+Xv02VxXxWL2mESqeuCL4nTC4DNQN+7gdzOXjaWuwiZN8YMpjLnc5ArxX+5/mMP02Z7MaNecbx7sYIKSYobXwI8F9RJTJzV7p+swDF+dyNAmKrguWL4N9wlM5JOxRJrV5iKFOpFS6ySYtArkMhEWNbLwwstyOhqTdRu7nQf9kD1sAR75pLuBuFsEBiU/2jIwjmwhKsNgmWNH1Dotnq/kIa8WlfQmehexiOMcb53zfIFNe0BqBgiSpEmT4t8fdM6iUM2isAfn8wSn/bs6udVDv19z95NFhLI27WfGZmr/S+2/NbjrVTaf3ovg/zlnNigMKzeyV6410HPwmJSm5MXCHdDTUPOdO4kZ3TbOshBRYTMZbXdR6Wm4A/Zj7UuE24DYUFf/rRs0wZhXfgPx6D+jRqDT+peAAGxdUwi15FRoTeGINImWvHlIkSB4ChD1YZqaR2t134LxPdD4gwfxjZyuaEaVu0aPSqg8O8lp/vBIV9b7HjoBswewgEPsgVH18LS4dj7Sgg==;z0EhUdQNviqVfMP80h4CBQ=="
 ---

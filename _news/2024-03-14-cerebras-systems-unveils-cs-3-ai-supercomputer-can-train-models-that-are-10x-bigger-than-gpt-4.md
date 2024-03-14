@@ -66,6 +66,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 64
+  - title: "Cerebras WSE-3 wafer-scale AI chip: 57x bigger than largest GPU with 4 trillion transistors"
+    excerpt: "Cerebras Systems unveils its new WSE-3 AI chip that's 57x larger than NVIDIA H100 AI GPU, with 4 trillion transistors, and 900,000 AI-optimized cores."
+    publishedDateTime: 2024-03-13T23:03:00Z
+    webUrl: "https://www.tweaktown.com/news/96843/cerebras-wse-3-wafer-scale-ai-chip-57x-bigger-than-largest-gpu-with-4-trillion-transistors/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 59
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96843_1401_cerebras-wse-3-wafer-scale-ai-chip-57x-bigger-than-largest-gpu-with-4-trillion-transistors_full.jpg"
+        width: 1500
+        height: 791
+        isCached: true
   - title: "Cerebras unveils four trillion-transistor giant chip, targets generative AI"
     excerpt: "Cerebras Systems has introduced the latest version of its wafer-sized semiconductor. The Wafer Scale Engine 3 boasts four trillion transistors and 900,000 'AI cores,' alongside 44GB of on-chip SRAM."
     publishedDateTime: 2024-03-13T18:37:00Z

@@ -39,7 +39,21 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Google DeepMind Unveils SIMA, a General, Instructable Game-Playing AI Agent"
+    excerpt: "SIMA has been trained across multiple games, including collaborations with eight game studios, and tested on nine different video games, such as No Man’s Sky by Hello Games and Teardown by Tuxedo Labs"
+    publishedDateTime: 2024-03-14T05:01:00Z
+    webUrl: "https://analyticsindiamag.com/google-deepmind-unveils-sima-a-general-instructable-game-playing-ai-agent/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 52
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/06/Neo4js-Role-in-Fueling-Generative-AI-with-Graph-Technology-1-768x432.jpg"
+        width: 768
+        height: 432
+        isCached: true
 
-secured: "zGnBTtA/c+EUzq33qx4cZLoYYqQdp+tjZWx5geVa8tq9W3rnzyYg9D7jR0dDEht/K2HS72Dt4tLmVT1tgA5yCIEl2oDvk1EHEQs1Ue7OCwk3QkTr8lDBr+1UDsLK42CesGpBaQkvYcQdegB19eKSsEa5QbLC5+2V+3dCCPsFm5wVIHr3PUNekFMQCNeTXRq4agqOwpV1oZdVrriBnqP+1MlOsrF+jIDQxTsY8qTS3F0uoTuvdQBX/DjNk7MDW4SVID8YZw0QUrqja46KSX17FcajenLvAvrvzzpG/X9O4hQ+GCSQiHzj36tk0aNzIzmg+/Fevm5TwJsfv7vuZ5d969FEJPfUfqAXoCB6DqK+XtU=;MrdN4hanQ+MXnVqlne0tcg=="
+secured: "OnnwR9WXSv2uf/+vCfAzkdRKeZbHJ24n28PlTNtyLzmy6wjsoyZR+UGhIwJ/TQh2fdu7e441cbARoPTHyMKFaZuzuoPnhs+q25mc2MePAurLn/Q4VEBW/pmWZLXsUlbjLIvyloc/g+Wi6/mY1dPmSpfU3U9r54UsFuhRLl5sADZtCR4HE9xIqXO9JOCu6nLcKg0/ZXvV2ufLfjgsVgUphgzX7ehIE52GJiHLavhlnHlLr0Gixg5SnxgfDrc3zX5rNfNfhIPYMfOUsOlbUdiShQf5Ws65a6+CvgVSY6gog+UZl//lE1VcHCz8g/0u59Oe2uZws400ZDEaaOcZuNd2qugmQjxbuaiHrTVieDoP+r3gC2/wCI1qXb3v+R3pSf7Uzc/m6gfUQceq1i19vWJyHzDOAt/7iw0XA5oyxF2l3rTx1bDFNm7XnWbIWrrBrSA/UjLTJLjcYy5J4QZWVkAwY1JOIZvD3XEJSvpwwd5j3lvOqZKWeh+QMnrBrNqan+ybkHnlkTXrOqgVs4S/L+NdsQ==;8zHYzhsd+owg53KG76T+Tg=="
 ---
 
