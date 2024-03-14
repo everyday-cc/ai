@@ -67,7 +67,7 @@ related:
     provider:
       name: ecampusnews.com
       domain: ecampusnews.com
-    quality: 71
+    quality: 73
     images:
       - url: "https://www.ecampusnews.com/files/2024/03/ethical-AI-in-higher-education-AI-ethics.jpeg"
         width: 500
@@ -160,15 +160,15 @@ related:
       name: ssir.org
       domain: ssir.org
     quality: 19
-  - title: "Epistemological Vertigo in the Age of AI"
-    excerpt: "It's tempting, perhaps even easy, to view AI emotions through the lens of human feelings, to anthropomorphize these complex systems and attribute them to the same kinds of inner e"
-    publishedDateTime: 2024-03-09T19:33:00Z
-    webUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202403/epistemological-vertigo-in-the-age-of-ai"
+  - title: "Trio of Must-Have Artificial Intelligence Tools for Trading in the Stock Market"
+    excerpt: "This innovative engine transcends the capabilities of traditional search tools by meticulously scanning the stock, ETF, cryptocurrency,  and FOREX markets for technical trading patterns. These patterns are not only identified but are also supported by real data and statistically calculated trade ideas."
+    publishedDateTime: 2024-03-14T19:34:00Z
+    webUrl: "https://www.finextra.com/blogposting/25900/trio-of-must-have-artificial-intelligence-tools-for-trading-in-the-stock-market"
     type: article
     provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 17
+      name: Finextra
+      domain: finextra.com
+    quality: 13
   - title: "Navigating the Intersection of Intellectual Property and Artificial Intelligence"
     excerpt: "In today's digital landscape, the convergence of intellectual property (IP) and artificial intelligence (AI) presents both unparalleled opportunities and unique challenges for businesses across industries. As AI continues to revolutionize how companies ..."
     publishedDateTime: 2024-03-11T00:01:00Z
@@ -179,6 +179,6 @@ related:
       domain: jdsupra.com
     quality: 12
 
-secured: "PrU2lPVsjJCKl67ch5dB2ypQCVTLgXbwpha/A2pgPNu/3R4oKsJ4OU9ot3NJ4qCDCRZ5TsaRYsYJdk0v/CrdtHrTnBlOS/p/h2D+C7Q13oDq22/6dNactsLF+3Y/t3EydS5bkNtU0Ly6Nyy11oEmfVrtZsJ7u7c1KD++GL2ye6PmXO64maRYBV1TzRbJZ3eEUCVY+KyQbN9UXqklmXaHncmIoSa/XLx1o3A+hMA5MYiOvUU0LwyARvANYRfRqUkOaBAtw7y5URtuqnPY6EfGi1lT4yNMEGSYr4yi2jne9vYypKUrqSl/c9jVkOf5tF0gc43djMU/yMVNNiDEOJNUkAI68DYgllbbeksmIPN72gU=;I9gSRIE4RcjJgXbXPTUkUA=="
+secured: "wFFAn9KNYQx2zJJ2SoWZLk4j8VxdILzLQAO3k4a9hcXhqemvAG9sM28uaKJ0gphG77RsZNVkYNCmwoLm8FOMj02jEVWFqKf02OJoj/9GrqkVbUDTFSZbjOuroeGYtYOxJ2yrYwxo8xjNBBD35XUIN7l1lMnwqQ1UCpIK/f+P9YQNCh7QJxKzwg9MQYzknzJym+kAgwowgI6MEIFWnhjSjWteZhNfPx0WpIbqIDzP8dixjHJEr4DlDV8NHSAphSS9UUIhjwKPanKgkCmYsll5MG2LWeu6MaCGj+8PzSsqlWfdISw15gC2/Yqimng2JxJ/EAP+pwvEiPzJefAIJG+2yvCo1i4OeO+Q6KNohn2zxtUXbrhu154KyaxUcfoXzf06PwOt0sFH9Wg8C3PkeCFpWBhW96Bq8Pq/T3eFtbTXHSKXrquYpzTJfjPEapxoGu+/zs7Q73Jtpo68b5EwSBUmwtHbdC1B7qFA1T/gT3vhWNkLCX77o9osQSlN3//Kh4trKL8xhiAY5xUvu54VsJW/zg==;OJGrX/sELUJLqsnQT3n0Fw=="
 ---
 

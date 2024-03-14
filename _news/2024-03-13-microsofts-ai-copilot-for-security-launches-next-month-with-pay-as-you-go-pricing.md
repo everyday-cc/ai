@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Foster a more data-driven culture with generative AI in Microsoft Fabric"
+    excerpt: "The new era of AI is one of the most exciting shifts of our generation. We, along with other leaders are seeing this impact take shape across individuals, entire teams, and every industry. \nThe post Foster a more data-driven culture with generative AI in Microsoft Fabric appeared first on Microsoft Azure"
+    publishedDateTime: 2024-03-13T20:16:34Z
+    webUrl: "https://www.microsoft.com/en-us/microsoft-fabric/blog/2024/03/13/foster-a-more-data-driven-culture-with-generative-ai-in-microsoft-fabric/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 103
+    images:
+      - url: "https://www.microsoft.com/en-us/microsoft-fabric/blog/wp-content/uploads/2024/03/MSFT_Azure_MAR11_323610_Blog_BlogHeader_240308_V1.png"
+        width: 1260
+        height: 708
+        isCached: true
   - title: "Microsoft Faces Pressure to Deliver on AI Integration for Windows"
     excerpt: "Microsoft's AI roadmap, the industry watches with bated breath, hoping for a breakthrough to propel AI-enabled computing into the mainstream."
     publishedDateTime: 2024-03-13T10:35:00Z
@@ -83,6 +97,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Microsoft to release security AI product to help clients track hackers"
+    excerpt: "Microsoft Corp. plans to release artificial intelligence tools on April 1 that will help cybersecurity workers produce summaries of suspicious incidents and ferret out the devious methods hackers use to obscure their intentions."
+    publishedDateTime: 2024-03-14T15:32:00Z
+    webUrl: "https://techxplore.com/news/2024-03-microsoft-ai-product-clients-track.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 51
 
 secured: "LlpLL4nWXKd/qQo4MyspcdGaf4qOv5lmnJLFRPhdnzM8SAYe3F9Q22uiHrfy3uVqQgZ3OBPbdZBXE2qPYHD9j9+8eIWdjGiYlDENHO5FV/2oLQpe1Rb3NnIwUBojVBZeYgwVpqx7e+aW0dQTIVvgIhIksiKAO+gsQawaBiu8yvks8UvGdHNKvK/0fiws+svH2dgT+K0xxo0/ifXO4P9LuZjT+Jn7ZNubMp0h1+ncPBzNg7n8j7q8P2RojSbE/eMOYsAQV94MDDLykGufPDbhHh+4k/FgkyqZqrSH2iRF+lMA2ObGvQhBHGNWsfAumcgXhmNH8b3OuQ9WXTW15eL6LM1gHQDSE1BKqAHuKDR8Ehs2c/2LuHtx9LgnApG50UxHXHf+kmOT1LRd15n5FXxbnKuJRCibBOCHp0cHT8rPsZfuQctgHpd4D+eH1FgiIS3JZ80XeM/3nvQ8JfjHZb+aamLfHrM9qsawH4MNA2FrfRvcZkaKjJfD++fuFL/tMnthlrcfQRQw91p8nLAuU8P2GA==;FS0fGR2rM0uFrOtosymsOA=="
 ---

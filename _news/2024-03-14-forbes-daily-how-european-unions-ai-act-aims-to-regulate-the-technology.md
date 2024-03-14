@@ -192,6 +192,15 @@ related:
       name: StamfordAdvocate
       domain: stamfordadvocate.com
     quality: 18
+  - title: "EU Approves A One-Of-Its-Kind AI Law That Will Oversee The Use Of AI In Europe"
+    excerpt: "On Wednesday, EU lawmakers gave the final nod to a landmark law called the AI Act that will govern all AI-related concerns in the region. The Act was previously slammed by businesses and tech firms when it was first proposed last year. It’s the first-of-its-kind law that will completely change how people use AI in day-to-day businesses."
+    publishedDateTime: 2024-03-14T13:03:00Z
+    webUrl: "https://techreport.com/news/eu-approves-ai-law/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 15
   - title: "The world’s first piece of AI regulation has been approved. Here’s what it means"
     excerpt: "European lawmakers on Wednesday voted in approval of the European Union's landmark Artificial Intelligence Act, the world's first legislative answer to the rapid, unchecked growth of the AI industry. The legislation will ban certain applications of AI outright, specifically those that \"threaten citizens' rights.\""
     publishedDateTime: 2024-03-13T13:53:00Z
@@ -211,6 +220,6 @@ related:
       domain: apnews.com
     quality: 8
 
-secured: "gm0H6eUEA/kfgIwfSqgCxI2sCJyo4IkQK56xDPoI7rsvCLIMT0nRabqO4MnYQPPJKzoPCUJQ+asD/g8qk04zHJUUeap3b5bI0bFXD8MB86vzCEHrGg2YdHIP2h/IjinA8GJexWpLgPyjQU/m+D+yfRhJ8nzbMgY7M88/3MCmyB+2EzBm7g5nc+XouSPpNM92UsEmkVTGzxyhmvk02kPlTl8+OYdsyT9uFISWIgwhT2chobSO68AiyrOCCmXcOTG9bDVw9GqnRlpDq6fYQxsKbm7fkx0bTkbTwFIvnRl9zr0CKtjbV+2a1jm/Nvb31fQtFcEpACeG1y7w7J5smlsaTm8X4gfcDBd9DrzsogRHMI8=;izB5T8E0iTpxNCnVMkVOig=="
+secured: "QIeh069bhKOdIzG+PvximMo6L9JYIucIS9ZMnaF3P7wCAwu0EWbyNtbAGOLD+8/sdS+wxyKGxY+PFsCz9SYRLIQB9Uj2KVjb2KkrZUNb5/H22Or2eFvWpZKMgsqgNTRIeAZwk56SZM9wOq2KwFK9SAxSdDst0V1xDd0oWoykxs2IKE50WVOd2xlbljV+94r7t5Gvb2NytaddTEHJmUsb2v7veWHviOZU3g2Gstz5WeMbyRPI2L7qgovs6VeSazLpXodPAItbLhEby20vqKCpn0Rml9Ji+K3zyw4ok3M4wh3VazB3//U8AvPKatR9PyXNl6CJPlK8Lh4cJf7VB4vVu91UKy52seWpNTAaNkvZ15bZuYLZjm/OZVc+OnTE3RTwYFne1qPrRyTvSEwcodsIk75BDFVxts1zLctEjSf/lJ5bnYLcEvHQOH9TElD9zNB2nM7tjg97x2Y3USx+kItHcvIQG9+adozMmKYRr2Vf588pZMbkYEIcpbUfkOADcv3AGeCThqPcHvJGdXO37MmmvA==;WBcsxlA8azW3rrEoP/yCag=="
 ---
 

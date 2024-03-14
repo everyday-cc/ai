@@ -1,27 +1,22 @@
 ---
 category: news
 title: "New AI tools can record your medical appointment or draft a message from your doctor"
-excerpt: "Your next check-up could be recorded by an AI-powered smartphone app that listens, documents and instantly organizes everything into a note you can read later."
-publishedDateTime: 2024-03-13T22:23:00Z
-originalUrl: "https://www.13wmaz.com/article/news/nation-world/new-ai-tools-for-doctors/507-59ef852d-6fc0-4f58-b9c4-a119f992f205"
-webUrl: "https://www.13wmaz.com/article/news/nation-world/new-ai-tools-for-doctors/507-59ef852d-6fc0-4f58-b9c4-a119f992f205"
+excerpt: "New AI tools are helping doctors communicate with their patients, some by answering messages and others by taking notes during exams. It’s been 15 months since OpenAI released ChatGPT. Already thousands of doctors are using similar products based on large language models. One company says its tool works in 14 languages."
+publishedDateTime: 2024-03-14T16:26:00Z
+originalUrl: "https://www.sun-sentinel.com/2024/03/14/new-ai-tools-can-record-your-medical-appointment-or-draft-a-message-from-your-doctor/"
+webUrl: "https://www.sun-sentinel.com/2024/03/14/new-ai-tools-can-record-your-medical-appointment-or-draft-a-message-from-your-doctor/"
 type: article
-quality: 30
+quality: 12
 heat: -1
 published: false
 
 provider:
-  name: WMAZ
-  domain: 13wmaz.com
+  name: Sun Sentinel
+  domain: sun-sentinel.com
 
 topics:
+  - AI in Healthcare
   - AI
-
-images:
-  - url: "https://media.13wmaz.com/assets/CCT/images/caf1355f-8f8a-464c-9371-fec12b6d5684/caf1355f-8f8a-464c-9371-fec12b6d5684_1140x641.jpg"
-    width: 1140
-    height: 641
-    isCached: true
 
 related:
   - title: "New AI tools can help doctors take notes, message patients, but they still make mistakes"
@@ -64,6 +59,6 @@ related:
       domain: mcknightsseniorliving.com
     quality: 3
 
-secured: "nZbCbZCCs2MhkyXnCMf8aFg3k1fNRjBUYqtK1hY3RV6+qN6ISHr+KMZPKtnfidsfp0Ij41o+nwX53YrrX/ycC/6IZD9jHjFpx3q9v6idRG6fcRjW1LiaNR/EpCWd6WJvlonF8r8Oq2TlV0izOjG0Je/783+IodlaNzZXkjOa0VauL9qeWiadzofDODs+TP8tSU/oIlUUFG0sd32guMg47yQ2UHHDMb1Z21GTbpWu5yHRzusuWqz0MXguvIJuQ7epygOyl8HWxYyJPrMjgMlqedfGtvH27mJcXrozZmzc3yYqdykpMR9cWbMeP4LgJCO7yuN7OUUhMip4QE/41qaSEaCZAhnbQ+0O9LrK8k1yzVs=;OY3cdBD7e2IuZTBvR4amoQ=="
+secured: "DzfJy2WM2qyT2q4eadGskmJIInkw1aPnE00Isn1zI3i4qsDmPsLLE4slnFk6NTBKoVC6l0RZKYl4lniWdAFgxxnxMVGjuqRbN7bcO1ikskc9XYXdZ4Az5vapYYGTAmG10I1x6Aj7HkNTl6ObUF6AG+Q78sG2kXb02peliwCpEO6PIV+9AqiwXF2q0A5eRWyS26M+U7t1Bzf63h3N4c7XM8AR2NMvdJHy+LAiZdGTydD8XhfjmVI8vX0VKXvHnI69mE+NtrvbKDIgEI4wVuqvBps69hoij0xnCOYch+GHV/s2mbQX59bZv85fVZqG69cf2ONug+RC54eFeL9fOfpkFbWmfVRidFJgInCVVhzyMZ40BPfGz+UgNaHhfAoMQoIvec5gp7uacVjHlBQc/dgUuRECmr5tMaeHFDGxXFhHZSpm+WGaGRsZxZRgVF9aWtuWUc6dK2Prm5tfrx0x1cYueWfGST4O3F2gUDb/gqCJPxMmPMrXCatXjaZtQgHfZ5GyaziOHEghqRkLTLF0NcGS/A==;Efr755v3xG0e9eFq1G6Gjw=="
 ---
 

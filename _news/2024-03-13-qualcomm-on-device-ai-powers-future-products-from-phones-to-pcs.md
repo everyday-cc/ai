@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2024/03/12/qualcomm-on-dev
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2024/03/12/qualcomm-on-device-ai-powers-future-products-from-phones-to-pcs/amp/"
 type: article
 quality: 91
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Qualcomm Becomes A Mobile AI Juggernaut."
+    excerpt: "Its free, right? And Ziad even predicted that AI apps such as Microsoft Co-Pilot, currently only available via the Azure cloud, will eventually run on-device! But getting large language models to run on a phone or automotive SoC is not just a simple ..."
+    publishedDateTime: 2024-03-14T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/karlfreund/2024/03/14/qualcomm-becomes-a-mobile-ai-juggernaut/"
+    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2024/03/14/qualcomm-becomes-a-mobile-ai-juggernaut/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2024/03/14/qualcomm-becomes-a-mobile-ai-juggernaut/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65f33879d4629142be477319/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1216
+        height: 900
+        isCached: true
   - title: "Adani, Qualcomm CEO meet hints at future collaboration in chip, AI space"
     excerpt: "Adani group chairman Gautam Adani’s meeting with Qualcomm president and CEO Cristiano R Amon on Monday, fuelled speculation about the former trying to understand the semiconductor and artificial intelligence ... solutions for driverless cars, connected ..."
     publishedDateTime: 2024-03-12T05:45:00Z

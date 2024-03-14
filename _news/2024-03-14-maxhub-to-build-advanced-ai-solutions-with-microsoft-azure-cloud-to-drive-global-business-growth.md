@@ -1,28 +1,22 @@
 ---
 category: news
 title: "MAXHUB to Build Advanced AI Solutions with Microsoft Azure Cloud to Drive Global Business Growth"
-excerpt: "GUANGZHOU, China, March 14, 2024 /PRNewswire/ -- MAXHUB, a leading provider of collaborative communication and interactive display solutions, proudly announces it will integrate Microsoft Azure technology. MAXHUB will harness the power of Azure to significantly amplify its international business growth and further AI technology advancements."
-publishedDateTime: 2024-03-14T09:25:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-maxhub-build-advanced-ai-solutions-with-microsoft-azure-/2024/03/14/9978125.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-maxhub-build-advanced-ai-solutions-with-microsoft-azure-/2024/03/14/9978125.htm"
+excerpt: "MAXHUB, a leading provider of collaborative communication and interactive display solutions, proudly announces it will integrate Microsoft Azure technology. MAXHUB will harness the power of Azure to significantly amplify its international business growth and further AI technology advancements."
+publishedDateTime: 2024-03-14T08:00:00Z
+originalUrl: "https://www.asiaone.com/business/maxhub-build-advanced-ai-solutions-microsoft-azure-cloud-drive-global-business-growth"
+webUrl: "https://www.asiaone.com/business/maxhub-build-advanced-ai-solutions-microsoft-azure-cloud-drive-global-business-growth"
 type: article
-quality: 56
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/2362621/Microsoft_CVTE__MAXHUB_s_parent_company__sign_agreement.jpg"
-    width: 400
-    height: 258
-    isCached: true
 
 related:
   - title: "Hexaware unveils tensai GPT, a secure AI web app using Microsoft Azure Open AI Service to advance internal innovation"
@@ -76,6 +70,6 @@ related:
       domain: finanznachrichten.de
     quality: 12
 
-secured: "oZeXsHA1O3WZV/c82zUj2lv8tZ0jbrX/devBCt/9V7lfIeEHgSkdcN6eJ0j183eBSIm+XUYjzMjudI96DuJR9wGMm5JFCgARyuk5DHotx4HZuzIdOUCAzF8Abo3FI1I+cZ6pZAGAijgJ16vigSTK3+D507kHFSzpNrxeIZ5XHTLRahnoY4i69hVbahp9xQ/XDCJbPuJs69D8cQVKUrEj1b7LBpZg097/QBgNVvkcnbZWk9TsP3YcpB/OQFYHHzpLtH5YugZ+PVSoUzB7qWs1IsxYQObRWQpb2jPIn61qs9ELey5gnUSpwKJyWQn+tjpqWLK4x83Ltj9FcTzYO3teEt1RdYR+RSpcit0z5j1DsoA=;mALe5x8+bfqhehHmghWT7Q=="
+secured: "mzCIAw/4XuoWak2thEv5I6oMVvzmJnprnlxar7LVeMYtOVRaBdzmbffg9qz/F4JHBfm6nSXpb8nkTbIalVvsCRUdSMTDwhv7I1FaPvrM27uw+lCfqaa1JPQOB2CdYai9IHaXUgXo8u+5Sy0OZtscdCWIaG+4p0NzAmy27axRvKvlBgtaaX/7xwRaHAzVEMorIUw2J5U3rHUd6qC0AAhZ6+HrpImO4Ax91+NRdT50J4xjUkAZdeHNhBIwnHSkkRPBJvX3KBy6Xdd3rxBfQe4uG+cQgZbfp17tdaSe+Fy5Lblb5t0xSnlluhNKaKA0/0rXF9LX9R3GNn1evhmXurALnuyEDsHvh2QuBJhHlDMXvlxKZOjHpixoOgId+48dObr5RcvZYW6m8ABJR3nVYPN33zZZkkVy7HWhXoin0mk6eH+IEjufvnfDclPaudt2vIxAanvvXKdzY+RO3hiTe1mSiH9sRVWuPb1mmq7WIZ29aYAZ5+h0UMUT58mRAynGNviGHRn68XPE+yDXg30WsdD2Fg==;/rVqAFePVn2OaNMY4k9LvQ=="
 ---
 

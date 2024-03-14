@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-copilot-for-secur
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-copilot-for-security-will-be-general-availability-on-april-1/"
 type: article
 quality: 121
-heat: 161
+heat: 181
 published: true
 
 provider:
@@ -33,6 +33,20 @@ images:
     isCached: true
 
 related:
+  - title: "Foster a more data-driven culture with generative AI in Microsoft Fabric"
+    excerpt: "The new era of AI is one of the most exciting shifts of our generation. We, along with other leaders are seeing this impact take shape across individuals, entire teams, and every industry. \nThe post Foster a more data-driven culture with generative AI in Microsoft Fabric appeared first on Microsoft Azure"
+    publishedDateTime: 2024-03-13T20:16:34Z
+    webUrl: "https://www.microsoft.com/en-us/microsoft-fabric/blog/2024/03/13/foster-a-more-data-driven-culture-with-generative-ai-in-microsoft-fabric/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 103
+    images:
+      - url: "https://www.microsoft.com/en-us/microsoft-fabric/blog/wp-content/uploads/2024/03/MSFT_Azure_MAR11_323610_Blog_BlogHeader_240308_V1.png"
+        width: 1260
+        height: 708
+        isCached: true
   - title: "Microsoft’s AI Copilot for Security launches next month with pay-as-you-go pricing"
     excerpt: "Powered by OpenAI’s GPT-4 and Microsoft’s own security-specific model, Copilot for Security is essentially a chatbot where cybersecurity workers can get the latest information on security incidents, summaries of threats,"
     publishedDateTime: 2024-03-13T16:59:00Z
@@ -84,6 +98,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Microsoft to release security AI product to help clients track hackers"
+    excerpt: "Microsoft Corp. plans to release artificial intelligence tools on April 1 that will help cybersecurity workers produce summaries of suspicious incidents and ferret out the devious methods hackers use to obscure their intentions."
+    publishedDateTime: 2024-03-14T15:32:00Z
+    webUrl: "https://techxplore.com/news/2024-03-microsoft-ai-product-clients-track.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 51
 
 secured: "VRV5ej1Z/tOYiix3mb0qKfBmUrF48es8DUiB2polnmGZH2XdPmgFgGZ3S/nqhsvjEkVEuKM8i+/PTqdFu+OEEX5yjPaEQlYFbhH6U3X1ANyM8kyNi9J7hG1g1WkNFNLvHu8d0BnWCbdV9JlyR/vEip87Cj6FgTl1LWm3qhdO6LDbR+yksNR8MTA8NijBcYcuBD0zSlruAuW6rmSXbCSPTljlUilPO+BZ7hQBa7s6YFnWVukEdPDulJfCN2iIuUNVIkzl6yF3quXk8fH+HX9GWRIwfo393nmI302GAjHqaRK4ZwSeGdKwhX06LSXRhhN7xQ/wrT8i5CwK+TPhmtU1aG10KyKvBY+Gi3Vtpx6rdFo=;LM95S3fbsteTs0OWxZ2YDg=="
 ---

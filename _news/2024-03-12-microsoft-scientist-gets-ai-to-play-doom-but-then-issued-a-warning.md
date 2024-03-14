@@ -59,7 +59,12 @@ related:
     provider:
       name: Impacts
       domain: techbullion.com
-    quality: 36
+    quality: 58
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2024/03/Screenshot-2024-03-14-170652-1000x515.png"
+        width: 1000
+        height: 515
+        isCached: true
   - title: "HIMSS24: Microsoft launches AI group with 16 health systems"
     excerpt: "Microsoft said the group would create a process where providers can register for the usage of AI in clinical settings and offer tools to enable measurement of outcomes associated with the technology."
     publishedDateTime: 2024-03-11T14:28:00Z

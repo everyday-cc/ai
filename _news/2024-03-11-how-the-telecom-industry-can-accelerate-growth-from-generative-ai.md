@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/cindygordon/2024/03/11/how-the-teleco
 webUrl: "https://www.forbes.com/sites/cindygordon/2024/03/11/how-the-telecom-industry-can-accelerate-growth-from-generative-ai/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 784
         height: 935
         isCached: true
+  - title: "Stc Bahrain, the first telecom to launch instant mobile SIM Activation using AI Face Recognition Technology"
+    excerpt: "Pioneering technology-driven solutions that empower customers and drive forward Bahrain’s digital transformation"
+    publishedDateTime: 2024-03-12T12:48:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/stc-bahrain-the-first-telecom-to-launch-instant-mobile-sim-activation-using-ai-face-recognition-technology-m1i91v9w"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 16
 
 secured: "rFLw4bb7qXH/IzHHGBBuGUp0b6SQAGyqsacg1DAZUb3r0vpyjl/hk+XmNF3gVQQhDp6quZk1WVig5u2diUn4pSHfftXwS1LtFmVjNSW3et3096G+GCpiMXECuPPaXz1VZPnQpFBLAoWurhmhxmqzoIwlhHI9HcezxVEtdPYo21uYN+USFApVjGYYzL/Ufp2DSpLROgUqZ8B7bhdOxIGLOlsJodf3Gigyy0Hrl6CePQAwwq+Ls6Vt8ICS1MSmJHVa+/uyhtp+nnxI+o8YyRYR2nyR68HOSXwMaG3qTX4dSDzlGYpS9Et+U5Q02wgyRSYWkN8O5Xu7QoYE+F2y/qmRDT+pMluS7xNtcOGEWee63GI=;XTJ5+qUZftOyS/7ifdehrw=="
 ---

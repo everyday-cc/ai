@@ -7,7 +7,7 @@ originalUrl: "https://www.jdsupra.com/legalnews/addressing-cybersecurity-expecta
 webUrl: "https://www.jdsupra.com/legalnews/addressing-cybersecurity-expectations-9687991/"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Key forthcoming EU legislation on Cybersecurity, Artificial Intelligence, Data and Digital Markets"
+    excerpt: "WHO WILL BE IN SCOPE? Operators of essential and important services across various sectors including energy, transport, banking, health, medical devices, chemicals and digital. In-scope entities in the digital sector include infrastructure providers ..."
+    publishedDateTime: 2024-03-14T00:01:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/key-forthcoming-eu-legislation-on-1958607/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 23
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16300_1146.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "AI audio-jacking and deep fake phone calls – Cybersecurity threats 2024"
     excerpt: "Audio-Jacking is a sophisticated form of cyberattack that targets voice communications. By using advanced AI, including Large Language Models"
     publishedDateTime: 2024-03-14T10:13:00Z

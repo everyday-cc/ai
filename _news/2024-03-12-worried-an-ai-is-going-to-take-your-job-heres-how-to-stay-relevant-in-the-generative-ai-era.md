@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/03/12/worried-an-ai-is
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/03/12/worried-an-ai-is-going-to-take-your-job-heres-how-to-stay-relevant-in-the-generative-ai-era/amp/"
 type: article
 quality: 76
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1600
     height: 900
     isCached: true
+
+related:
+  - title: "Latest Prompt Engineering Trend Uses Generative AI To Generate Your Prompts For You"
+    excerpt: "A prompt engineering trend involves using generative AI to make your prompts for you. There are good reasons to do so. Here are the key tips and tricks you need to know."
+    publishedDateTime: 2024-03-14T11:14:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/14/latest-prompt-engineering-trend-uses-generative-ai-to-generate-your-prompts-for-you/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 43
 
 secured: "ZeWPi9QkTJT4bNcw2fk7qK3NYP1wsoY3e4/HzLlWVFSOsr89FIaQdOdcP+6MnLrvagAz0rj2+0Nrte2tdZ3xZmb4UgXeNVkVbjwHndJAIR0nvhcFNBDN3cdq9qhVvcvUI7HIKynWA0E5qe/ebSDPko70r9Ax4kw4sFWVTy0P0M1n6JYQLHfGwDR+ZHURCzSD2ySASwOy/njLnu7hBreJ8zyRHIFonVfknAxnM742lTGmnBhNkc175zihGPgKobNjIrsZYyx1nE4BB6ZbUnL3MSyHT82tAyIVyzCLu1ndlrbAoNwQIA75mi8sy17PlUCRu6nbqSZM9hes4SCkX+ss0kZnKbea4mcgSrIax/OQ8MM=;A1qlF0VovmUNDlrL3j8xKQ=="
 ---

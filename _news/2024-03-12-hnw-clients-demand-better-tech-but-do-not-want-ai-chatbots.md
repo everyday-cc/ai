@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Forget Chatbots. AI Agents Are the Future"
+    excerpt: "Startups and tech giants are trying to move from chatbots that offer help via text, to AI agents that can get stuff done. Recent demos include an AI coder called Devin and agents that play videogames."
+    publishedDateTime: 2024-03-14T16:00:00Z
+    webUrl: "https://www.wired.com/story/fast-forward-forget-chatbots-ai-agents-are-the-future/"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 67
+    images:
+      - url: "https://media.wired.com/photos/65f2441e53ab6e682724d356/191:100/w_1280,c_limit/AI-Agents-Fast-Forward-Business-1435756748.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "AI showdown: I put 3 chatbots to the test"
     excerpt: "research the trail, tell someone where we were going, avoid the hottest part of the day and (of course) bring water and first aid. Bonus: It reminded me not to litter in nature. Final score: ChatGPT 2, Gemini 1, Perplexity 0 Listen, if AI can help us ..."
     publishedDateTime: 2024-03-11T00:01:00Z

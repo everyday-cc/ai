@@ -39,15 +39,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "The women in AI making a difference"
-    excerpt: "Many had no training or education, formal or otherwise, in AI. Contrary to the Times’ suggestion, the AI craze didn’t start with Musk sitting adjacent to Page at a mansion in the Bay. It began long before that, with academics, regulators, ethicists and ..."
-    publishedDateTime: 2024-03-09T19:10:00Z
-    webUrl: "https://techcrunch.com/2024/03/09/the-women-in-ai-making-a-difference/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
 
 secured: "XAaA8QLg7YzFgcBESEZJOaw9JVFSmm1AqLXozSq2FgcKOEmu2YCWFD5Qx6LKnNNH11FX3IM5p3hLYJD/33CceuXf47Air+L3RRzSR75qejc7qVmBNUQoyl4TU533GX97wMSe+LOXrTLpr3m9Dnxsh74W6sJncAq6PBCl/XGTp1QcBRbrxnQu0dho9z4HAZACe27ZWKnwxYmLNC0nEZ0DrMA3tYqnUbEJCE5d/ouDHZRtNIuDtba306gx9RLHpiRiVcDKeRzndeMeyN4pXqBErvUbOtVlYmVaQHkiTZsGnlU6ngzQc9vyckaK6Z9DaOcR/edoaOiw8S7J/xTefm8aFRbvxp+ObGHEbZ+8BBUd6uV+AAWjogrtDBed2zGLIgqpkssyUyXanhThpbOuzdQGiyJPwIscqfqv4ky2amaJCiqcX7P5Krjh5fOGmdMNodtjuN/9DwWrw7CIuqWD02WRxgMQp/BKAI119HfZwR0lDMOes3Mu8oViimih4Fihxxq3JqI2RLZslY06Po0ckvCvRQ==;1PG6UZBX59xVnQlRv0k9Sw=="
 ---

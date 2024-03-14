@@ -25,49 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Civil Rights commission digs into government use of facial recognition"
-    excerpt: "The tech poses “serious threats to our fundamental rights,” the chair of the commission said during a Friday briefing."
-    publishedDateTime: 2024-03-11T20:30:00Z
-    webUrl: "https://www.nextgov.com/artificial-intelligence/2024/03/civil-rights-commission-digs-government-use-facial-recognition/394845/"
+  - title: "Honoring Women's Strength with Alisha Begum's International Women's Day Recognition"
+    excerpt: "In a world where recognition often seems reserved for the loud and the visible, Alisha Begum stands as a beacon of quiet yet profound influence. As a"
+    publishedDateTime: 2024-03-11T10:19:00Z
+    webUrl: "https://menafn.com/1107960382/Honoring-Womens-Strength-with-Alisha-Begums-International-Womens-Day-Recognition"
     type: article
     provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 41
+      name: Mena FN
+      domain: menafn.com
+    quality: 18
     images:
-      - url: "https://cdn.nextgov.com/media/img/cd/2024/03/11/031124_getty_ng_mondaire_jones/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Civil Rights commission digs into government use of facial recognition"
-    excerpt: "The tech poses “serious threats to our fundamental rights,” the chair of the commission said during a Friday briefing."
-    publishedDateTime: 2024-03-12T20:14:00Z
-    webUrl: "https://www.govexec.com/management/2024/03/civil-rights-commission-digs-government-use-facial-recognition/394880/"
-    type: article
-    provider:
-      name: Government Executive
-      domain: govexec.com
-    quality: 39
-    images:
-      - url: "https://cdn.govexec.com/media/img/cd/2024/03/12/031124_getty_ng_mondaire_jones/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Cortland Student Government Association overturns decision, grants Turning Point USA recognition as official club"
-    excerpt: "“The College’s recognition of Turning Point as an official club sends a huge message that universities cannot pick and choose which views are appropriate to allow on campus,” Legal Council at Alliance Defending Freedom Mathew Hoffmann said. “All students should have the freedom to express those views on campus.”"
-    publishedDateTime: 2024-03-12T21:40:00Z
-    webUrl: "https://www.wbng.com/2024/03/12/cortland-student-government-association-overturns-decision-grants-turning-point-usa-recognition-official-club/"
-    ampWebUrl: "https://www.wbng.com/2024/03/12/cortland-student-government-association-overturns-decision-grants-turning-point-usa-recognition-official-club/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wbng-com.cdn.ampproject.org/c/s/www.wbng.com/2024/03/12/cortland-student-government-association-overturns-decision-grants-turning-point-usa-recognition-official-club/?outputType=amp"
-    type: article
-    provider:
-      name: wbng
-      domain: wbng.com
-    quality: 23
-    images:
-      - url: "https://gray-wbng-prod.cdn.arcpublishing.com/resizer/v2/4FZE4NBTTFABRGZEDZSID2TSHE.jpg?auth=eb605c2746bff1f46f7c919359f4df239dd51efb7aad13e7f5f5f706de6d3fa3&width=800&height=450&smart=true"
-        width: 800
-        height: 450
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?576323"
+        width: 444
+        height: 250
         isCached: true
 
 secured: "8JqZmKjqOyKT8Y+2OmKQi+l3tXUNNFtlsyKnNxtBEPlAAtPKmuBg6WzA13aGX5jVdmQUT2Oh8WZ0m99oY50plbwLyxYEx8z0heiSVR9cjLVkE5ekQpRU0V+KfJUfGQUaxgbRroia83jeYXT2lKK6O3BzZFdjDE+hX5yWK5QLllr2ntWQUUkJ95EXGKR5FeukaPO+QSE53R9Y3OS8XTVDZ+zksG8EolSgk2qgRXD0Gu1kdXaGytgqz9/kRPMdAlJLPX1qxekzn+7RknWJzX5nyvTVPtbnJNQK5t45a/EpJx21dh36vIy+x7MWNjybd4qBrZwtNubqTSW00/R9W5bJVxnVyuksm6LVk91gB24pDYh5O5ua3khhXhO4afFjeqFO4H2+dWNiiGRf9iN3bCtpnrH04m+O9hNSkACsXbCF53mK0nRZxqxgoz0dXGDZ5jSXNYFVDFvdRtH7Bir0W5UiieION6ozTOWIeKTVLr5FrCbXVagUlZr7EOJmyKUnpsdr4zA8/o9Ynjg8dLvimlkC7g==;4GNAl6THYoskqqCGXsIzHQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wivb.com/news/crime/elma-man-arrested-on-child-porn-char
 cdnAmpWebUrl: "https://www-wivb-com.cdn.ampproject.org/c/s/www.wivb.com/news/crime/elma-man-arrested-on-child-porn-charge-after-facial-recognition-technology-used-on-photos-from-2013/amp/"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -27,100 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Which Florida airports use facial recognition technology?"
-    excerpt: "The next time you’re in a security line at the airport, you may find that instead of a Transportation Security Administration officer checking your ID, a camera and screen will use biometric ..."
-    publishedDateTime: 2024-03-09T18:34:00Z
-    webUrl: "https://www.wfla.com/news/florida/which-florida-airports-use-facial-recognition-technology/"
-    ampWebUrl: "https://www.wfla.com/news/florida/which-florida-airports-use-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://www-wfla-com.cdn.ampproject.org/c/s/www.wfla.com/news/florida/which-florida-airports-use-facial-recognition-technology/amp/"
+  - title: "Facial tech identifies child porn victim over 10 years later, feds say. Man arrested"
+    excerpt: "A woman was identified as a child pornography victim in images taken a decade ago with the help of facial recognition technology and a tip from Australian police, according to court documents. Now, a man accused of taking the photos at his New York home ..."
+    publishedDateTime: 2024-03-14T13:12:00Z
+    webUrl: "https://www.kansascity.com/news/nation-world/national/article286680535.html"
     type: article
     provider:
-      name: WFLA News Channel 8
-      domain: wfla.com
-    quality: 74
-    images:
-      - url: "https://www.wfla.com/wp-content/uploads/sites/71/2024/03/GettyImages-1139860049.jpg?w=1280"
-        width: 1280
-        height: 815
-        isCached: true
-  - title: "Airports using biometric facial recognition in Kansas"
-    excerpt: "The next time you’re in a security line at the airport, you may find that instead of a Transportation Security Administration officer checking your ID, a camera and screen will use biometric"
-    publishedDateTime: 2024-03-12T15:14:00Z
-    webUrl: "https://www.ksn.com/news/airports-using-biometric-facial-recognition-in-kansas/"
-    ampWebUrl: "https://www.ksn.com/news/airports-using-biometric-facial-recognition-in-kansas/amp/"
-    cdnAmpWebUrl: "https://www-ksn-com.cdn.ampproject.org/c/s/www.ksn.com/news/airports-using-biometric-facial-recognition-in-kansas/amp/"
-    type: article
-    provider:
-      name: ksn.com
-      domain: ksn.com
-    quality: 74
-    images:
-      - url: "https://www.ksn.com/wp-content/uploads/sites/13/2023/05/facial.jpg?w=1280"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Report highlights civil liberties concerns with facial recognition technology"
-    excerpt: "The report says some agencies now have training policies in place that include explaining how FRT affects civil liberties"
-    publishedDateTime: 2024-03-12T01:44:00Z
-    webUrl: "https://www.wsbtv.com/news/report-highlights-civil-liberties-concerns-with-facial-recognition-technology/OETF3NAPQRCY5H4FGMYXI3DWMM/"
-    ampWebUrl: "https://www.wsbtv.com/news/report-highlights-civil-liberties-concerns-with-facial-recognition-technology/OETF3NAPQRCY5H4FGMYXI3DWMM/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wsbtv-com.cdn.ampproject.org/c/s/www.wsbtv.com/news/report-highlights-civil-liberties-concerns-with-facial-recognition-technology/OETF3NAPQRCY5H4FGMYXI3DWMM/?outputType=amp"
-    type: article
-    provider:
-      name: WSB-TV
-      domain: wsbtv.com
-    quality: 58
-    images:
-      - url: "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/2ujHFkVez5X3CIApIwboBaEkMwU=/1440x810/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/V7Q4DMJL7RDWXAYCVKLFOCEPR4.png"
-        width: 1440
-        height: 810
-        isCached: true
-  - title: "Airports using biometric facial recognition in Arizona"
-    excerpt: "(Stacker) - The next time you’re in a security line at the airport, you may find that instead of a Transportation Security Administration officer checking your ID, a camera and screen will use biometric facial recognition to confirm your face and photo ..."
-    publishedDateTime: 2024-03-10T23:39:00Z
-    webUrl: "https://www.azfamily.com/2024/03/10/airports-using-biometric-facial-recognition-arizona/"
-    type: article
-    provider:
-      name: AZFamily
-      domain: azfamily.com
-    quality: 54
-    images:
-      - url: "https://gray-kpho-prod.cdn.arcpublishing.com/resizer/v2/TREEWK3BYBA3DHAVCRGHRPWFNA.png?auth=25a9a03572e1d59ccc0f210a9f495daa08ca5f6c8a0b7a1c996c40c85bd5ec00&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Airports using biometric facial recognition in Texas"
-    excerpt: "Spokeo looked at which airports are using facial recognition software in Texas for security screenings, according to Customs and Border Protection."
-    publishedDateTime: 2024-03-12T09:26:00Z
-    webUrl: "https://www.ksat.com/features/2024/03/12/airports-using-biometric-facial-recognition-in-texas/"
-    type: article
-    provider:
-      name: KSAT
-      domain: ksat.com
-    quality: 54
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/SLZG4UUOWFBJRLGS55GIXOIE2U.png?_a=ATAPphC0"
-        width: 700
-        height: 394
-        isCached: true
-  - title: "Elma man arrested in child porn case using facial recognition technology"
-    excerpt: "In a groundbreaking use of technology, Matthew A. Steele, 53, from Elma, New York, has been arrested and charged with the production and distribution of child pornography, announced U.S. Attorney Trini E. Ross. The charges could result in a prison sentence ranging from a mandatory minimum of 15 years to a maximum of 30 years."
-    publishedDateTime: 2024-03-14T09:29:00Z
-    webUrl: "https://www.fingerlakes1.com/2024/03/14/elma-man-arrested-in-child-porn-case-using-facial-recognition-technology/"
-    type: article
-    provider:
-      name: fingerlakes1
-      domain: fingerlakes1.com
-    quality: 18
-  - title: "Stc Bahrain, the first telecom to launch instant mobile SIM Activation using AI Face Recognition Technology"
-    excerpt: "Pioneering technology-driven solutions that empower customers and drive forward Bahrain’s digital transformation"
-    publishedDateTime: 2024-03-12T12:48:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/stc-bahrain-the-first-telecom-to-launch-instant-mobile-sim-activation-using-ai-face-recognition-technology-m1i91v9w"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 16
+      name: Kansas City Star
+      domain: kansascity.com
+    quality: 0
 
 secured: "pnm1IkOW8faDPAR4gDirQWBA9KzJzAL9MiQYKbfwTcaN2giUv1C6O+UqKl3eYGGJwkLtgg0EiZuOMLLgWqpldozA19Av2JVQ/Ql0RHba6iGV0wnxudLCIOJovQFX9+Qv/l1azuNOJiUSEXUjGQKvaSl4laq7APmQxHeWOAWvvuVdvyopnIE4e6SbYh7t0+MJe129sTz9XG/3ONwCYGshwKhD05rEjg+efZHzvlxYo3CwM6xRKdePbn7m6UcNXhSxWHb48aC7EDIkT3GL8uv1KVhvcIcz6nkV88So7kddUaAoiOf9YRHqkz5fonsRqcNs6pQl9UCdiV8XoC9n4T/Yfay41HSji0VMm6NlIF1qSv4=;ZkhhdACUuEIv2P5kXJNOEg=="
 ---

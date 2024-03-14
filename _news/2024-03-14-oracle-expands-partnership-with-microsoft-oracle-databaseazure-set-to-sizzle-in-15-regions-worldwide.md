@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/37691418"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37691418"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: Benzinga.com
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft and Oracle Expand Partnership to Satisfy Global Demand for Oracle Database@Azure"
+    excerpt: "Bringing Oracle Database@Azure to Europe will enable customers in the region to locally employ Oracle database services running on OCI hardware deployed in Azure datacenters fo"
+    publishedDateTime: 2024-03-14T15:20:00Z
+    webUrl: "https://www.datanami.com/this-just-in/microsoft-and-oracle-expand-partnership-to-satisfy-global-demand-for-oracle-databaseazure/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 44
+    images:
+      - url: "https://www.oracle.com/oce/press/assets/CONTA0730D9126EA48A6A1AA7A16A3AE0CAA/native/"
+        width: 770
+        height: 404
+        isCached: true
   - title: "Microsoft Corp.; Oracle: Microsoft and Oracle expand partnership to satisfy global demand for Oracle Database@Azure"
     excerpt: "Powerful cloud database service now in Germany and announcing five additional cloud regions for a total of 15 regions planned this year REDMOND, Wash., and AUSTIN, Texas, March 14, 2024"
     publishedDateTime: 2024-03-14T08:19:00Z

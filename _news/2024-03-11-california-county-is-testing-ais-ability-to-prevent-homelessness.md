@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Airports using biometric facial recognition in California"
-    excerpt: "Airports using the technology in California include: Southern California Logistics (Victorville) Airport (Airport code: VCV; located in Victorville) San Francisco International Airport (Airport code: SFO; located in San Francisco) San Bernardino International Airport (Airport code: SBD; located in San Bernardino)"
-    publishedDateTime: 2024-03-10T19:14:00Z
-    webUrl: "https://www.pressdemocrat.com/article/news/airports-using-biometric-facial-recognition-in-california/"
-    type: article
-    provider:
-      name: Santa Rosa Press Democrat
-      domain: pressdemocrat.com
-    quality: 36
   - title: "California 'Waymo' bill aims to give cities more authority over self-driving car companies"
     excerpt: "California Senate Bill 915 proposes to empower cities to issue their own local permits for self-driving car companies."
     publishedDateTime: 2024-03-13T12:50:00Z

@@ -16,6 +16,13 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
+
+images:
+  - url: "https://federalnewsnetwork.com/wp-content/uploads/2018/11/GettyImages-892092130.jpg"
+    width: 6000
+    height: 4000
+    isCached: true
 
 related:
   - title: "Top creatives share how they’re grappling with AI use at agencies"
@@ -28,6 +35,6 @@ related:
       domain: thedrum.com
     quality: 19
 
-secured: "JR4yKSKhHsV5C38Qb23IsZCFF8MX6N3LbKaYkvSVVQwTMMPsH1LcZsl0iJr0CZVHeOY7O+BKt66zpj7nZZBfgIl4fRWMRk1/INvZhZIyJtooH2gLPC+fh8Gt0LCn3JAE1o+NDjABn8w4z8npjW18aS62UJTgR5BeVPeD5692Y1LRMlHeX/v2T7VI8z60dLJ0P9X7vWLwmSR5AmgC8+EMalHDNHirXAvuAu7u9ukd2lvW+Do7MfSxmp83HIj8xgrTUL5WyzA+4tD9KXq64bvCL95t6bqf+HQON7TJFM7+o/4MwoPLFxJCxwCQsTBq1/ahdQGdGVsMaS0NYo6F7U9DdwY0w3P7M6fL1V9WWLHAmRc=;J52NLZI8+S6oiFnAL17H/Q=="
+secured: "Y9T1igt+NTFB4PTy3LI4rAzYo50O2c67McsYRERX4a8juzxPo6+aEop2Zo7EYnxvGF4OkAMwxF9zHhvDFT5PSrkzohqrkpXVcZ1cVnj/bPq/eXKzfzSB8iVsNw1fub14gXpPiluIXowfOs5iUJKVuJDIne03xXorOQuvdRDJuVRvafI79OxP2AAAVvN4IAVZSmNTw5MIjXVdR9e8RZJIkG/yNvGxvaK+sBwUuvyET9IDloXAbDsIN7UtioGdiURE7yLxw6Diu/gsJSALvrHJUGzoUhfVF3wjPjVQcSbXxUR+qM/iqQerI327qp6jXyF5Q6wc1mIZFBUM+rtu6nOiLjavGaEwdltTTEorHZlXoAw=;m5xIcIYwEJFIaxYXxtTVdQ=="
 ---
 

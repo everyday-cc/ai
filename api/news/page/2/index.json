@@ -2,6 +2,195 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-03-14-abb-opens-revamped-robotics-center-in-michigan-amid-growing-demand-for-ai-robots.md",
+      "title": "ABB Opens Revamped Robotics Center in Michigan Amid Growing Demand for AI Robots",
+      "excerpt": "ABB, a Zurich-based automation technology provider, Wednesday opened a $20 million expansion to its U.S. robotics headquarters in Auburn Hills, Mich. The move comes as demand for automation grows not just in traditional industries like logistics and manufacturing,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/abb-opens-revamped-robotics-center-in-michigan-amid-growing-demand-for-ai-robots-bf6af076",
+      "originalUrl": "https://www.wsj.com/articles/abb-opens-revamped-robotics-center-in-michigan-amid-growing-demand-for-ai-robots-bf6af076",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-13T20:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-14-this-robot-is-borrowing-openais-magic-to-make-at-home-droids-feel-real.md",
+      "title": "This Robot is Borrowing OpenAI’s Magic to Make At-Home Droids Feel Real",
+      "excerpt": "Figure showed off a demo of its humanoid robot that adopts OpenAI’s large language models to help it understand its environment and complex requests.",
+      "sourceUrl": null,
+      "webUrl": "https://www.inverse.com/tech/figure-robot-open-ai-chatgpt",
+      "originalUrl": "https://www.inverse.com/tech/figure-robot-open-ai-chatgpt",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgix.bustle.com/uploads/image/2024/3/13/de1cc1b1-28b3-44e4-8927-364734e98a05-new-_dscf1820_desktop_10923a__3_.jpg?w=1200&h=630&fit=crop&crop=focalpoint&fm=jpg&fp-x=0.4987&fp-y=0.3507",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-13T20:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Inverse",
+        "domain": "inverse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-14-ai-may-be-able-to-reduce-the-scourge-of-meetings.md",
+      "title": "AI May Be Able To Reduce The Scourge Of Meetings",
+      "excerpt": "Artificial intelligence may have a new approach to this scourge — but needs to be interactive in an intelligent sense, and not just another crutch for humans caught up in onerous processes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2024/03/13/ai-may-be-able-to-reduce-the-scourge-of-meetings/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2024/03/13/ai-may-be-able-to-reduce-the-scourge-of-meetings/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65f1de4c3dba26c9f252ebff/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 844,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2024/03/13/ai-may-be-able-to-reduce-the-scourge-of-meetings/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2024/03/13/ai-may-be-able-to-reduce-the-scourge-of-meetings/amp/",
+      "publishedDateTime": "2024-03-13T17:24:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-13-a-comprehensive-list-of-2023-2024-tech-layoffs.md",
+      "title": "A comprehensive list of 2023 & 2024 tech layoffs",
+      "excerpt": "Momentum for a tech sector rebound remains slow to build, outside of bright spots within artificial intelligence and adjacent companies ... Announced March 1, Alphabet’s Waymo issued a second round of layoffs this year. Combined with the initial cuts ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/03/13/tech-layoffs-2023-list/",
+      "originalUrl": "https://techcrunch.com/2024/03/13/tech-layoffs-2023-list/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/02/layoffs.jpg?resize=1200,645",
+          "width": 1200,
+          "height": 645,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/03/13/tech-layoffs-2023-list/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/13/tech-layoffs-2023-list/amp/",
+      "publishedDateTime": "2024-03-13T16:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-13-in-the-first-trailer-for-netflixs-atlas-jennifer-lopez-gets-in-the-damn-robot.md",
       "title": "In the First Trailer for Netflix's Atlas, Jennifer Lopez Gets in the Damn Robot",
       "excerpt": "Jennifer Lopez. Directed by Brad Peyton, the sci-fi action film brings us Lopez in bombastic badass mode—clad in a mech suit as she jumps right into battle against the futuristic, war-torn backdrop of an unknown dystopia.",
@@ -321,7 +510,7 @@
       "originalUrl": "https://www.foxnews.com/tech/fox-news-ai-newsletter-uncontrollable-systems-could-turn-humans-report-warns",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -424,7 +613,7 @@
       "originalUrl": "https://breakingdefense.com/2024/03/the-difference-between-artificial-intelligence-and-machine-learning-and-why-it-matters/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -456,6 +645,58 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-13-accelerate-your-productivity-with-the-whisper-model-in-azure-ai-now-generally-available.md",
+      "title": "Accelerate your productivity with the Whisper model in Azure AI now generally available",
+      "excerpt": "Azure AI offers an industry-leading portfolio of AI services to help customers make sense of their voice data. Our speech-to-text service in particular offers a variety of differentiated features through Azure OpenAI Service and Azure AI Speech.\nThe post Accelerate your productivity with the Whisper",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/blog/accelerate-your-productivity-with-the-whisper-model-in-azure-ai-now-generally-available/",
+      "originalUrl": "https://azure.microsoft.com/en-us/blog/accelerate-your-productivity-with-the-whisper-model-in-azure-ai-now-generally-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/03/MSFT_Azure_MAR12_324992_Blog_BlogHeader_240312_V1.png",
+          "width": 1260,
+          "height": 708,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-13T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -675,7 +916,7 @@
       "originalUrl": "https://thenextweb.com/news/eu-adopts-ai-act-artificial-intelligence-rules",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -778,7 +1019,7 @@
       "originalUrl": "https://www.cnn.com/2024/03/13/tech/ai-european-union/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 226,
+      "heat": 236,
       "tags": null,
       "images": [
         {
@@ -1015,238 +1256,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-top-rated-manager-flags-three-overlooked-small-stocks-including-an-under-the-radar-ai-play.md",
-      "title": "Top rated manager flags three overlooked small stocks, including an under-the-radar AI play",
-      "excerpt": "Mick Rasmussen, fund manager at a gold medalist ranked fund, talks about an AI play no one is looking and other stocks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/top-rated-manager-flags-three-overlooked-small-stocks-including-an-under-the-radar-ai-play-8134847f",
-      "originalUrl": "https://www.marketwatch.com/story/top-rated-manager-flags-three-overlooked-small-stocks-including-an-under-the-radar-ai-play-8134847f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-85909438/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/top-rated-manager-flags-three-overlooked-small-stocks-including-an-under-the-radar-ai-play-8134847f",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/top-rated-manager-flags-three-overlooked-small-stocks-including-an-under-the-radar-ai-play-8134847f",
-      "publishedDateTime": "2024-03-13T10:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-ai-trism-ensuring-trust-and-security-in-ai-governance.md",
-      "title": "AI TRiSM: Ensuring Trust And Security In AI Governance",
-      "excerpt": "Imagine building a house: The foundation (ethics) must be strong for the entire structure (AI system) to be stable and serve its purpose without causing harm. In the criminal justice system, efforts are underway to develop fair and unbiased AI algorithms ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/ai-trism-ensuring-trust-and-security-in-ai-governance/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/ai-trism-ensuring-trust-and-security-in-ai-governance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-13T10:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-how-ai-can-help-marketers-stay-profitable-during-economic-downturns.md",
-      "title": "How AI Can Help Marketers Stay Profitable During Economic Downturns",
-      "excerpt": "AI can quickly gather, analyze and interpret data. Its agility enables it to provide actionable insights in real time, allowing users to get up-to-date information when needed. AI tools empower marketers to do more and be more efficient while delivering high returns on ad spend.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/how-ai-can-help-marketers-stay-profitable-during-economic-downturns/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/how-ai-can-help-marketers-stay-profitable-during-economic-downturns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65f072f0fa2fc981e173b9d9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1281,
-          "height": 854,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/how-ai-can-help-marketers-stay-profitable-during-economic-downturns/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/13/how-ai-can-help-marketers-stay-profitable-during-economic-downturns/amp/",
-      "publishedDateTime": "2024-03-13T10:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-ai-boost-for-macs-m4-chip-on-horizon-for-new-macbook-pro.md",
-      "title": "AI Boost For Macs? M4 Chip On Horizon For New MacBook Pro",
-      "excerpt": "Bloomberg's Mark Gurman, as cited by 9to5Mac, revealed that Apple has commenced work on the successor to the M3-powered 2023 MacBook Pro. Responding to a user inquiry in the Q&A section of his Power On newsletter, Gurman hinted at the possibility of an M4 MacBook Pro in the pipeline.",
-      "sourceUrl": null,
-      "webUrl": "https://in.mashable.com/tech/71320/ai-boost-for-macs-m4-chip-on-horizon-for-new-macbook-pro",
-      "originalUrl": "https://in.mashable.com/tech/71320/ai-boost-for-macs-m4-chip-on-horizon-for-new-macbook-pro",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/photo/default/4_yrnk.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-13T10:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "in.mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-tackling-deforestation-and-forest-degradation-with-ai-and-remote-sensing.md",
-      "title": "Tackling deforestation and forest degradation with AI and remote sensing",
-      "excerpt": "Deforestation and forest degradation are both significant conservation issues. But charities around the world are starting to use advanced technologies, such as AI and remote sensing, to get on top of the challenge.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/tackling-deforestation-and-forest-degradation-ai-and-remote-sensing",
-      "originalUrl": "https://diginomica.com/tackling-deforestation-and-forest-degradation-ai-and-remote-sensing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2024-03/IMG_2082.jpeg",
-          "width": 640,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/tackling-deforestation-and-forest-degradation-ai-and-remote-sensing?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/tackling-deforestation-and-forest-degradation-ai-and-remote-sensing?amp",
-      "publishedDateTime": "2024-03-13T09:12:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
         "AI"
       ]
     }

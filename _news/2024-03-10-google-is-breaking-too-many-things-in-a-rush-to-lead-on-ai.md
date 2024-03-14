@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/google-move-fast-break-ai-3423665
 webUrl: "https://www.androidauthority.com/google-move-fast-break-ai-3423665/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "The women in AI making a difference"
-    excerpt: "Many had no training or education, formal or otherwise, in AI. Contrary to the Times’ suggestion, the AI craze didn’t start with Musk sitting adjacent to Page at a mansion in the Bay. It began long before that, with academics, regulators, ethicists and ..."
-    publishedDateTime: 2024-03-09T19:10:00Z
-    webUrl: "https://techcrunch.com/2024/03/09/the-women-in-ai-making-a-difference/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
   - title: "Google AI learns to play open-world video games by watching them"
     excerpt: "An artificial intelligence from Google DeepMind can play nine open-world video games like a human, by watching video from a screen and controlling a keyboard and mouse"
     publishedDateTime: 2024-03-13T14:38:00Z

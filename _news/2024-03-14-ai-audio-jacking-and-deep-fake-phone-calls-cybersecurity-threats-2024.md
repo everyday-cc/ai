@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Key forthcoming EU legislation on Cybersecurity, Artificial Intelligence, Data and Digital Markets"
+    excerpt: "WHO WILL BE IN SCOPE? Operators of essential and important services across various sectors including energy, transport, banking, health, medical devices, chemicals and digital. In-scope entities in the digital sector include infrastructure providers ..."
+    publishedDateTime: 2024-03-14T00:01:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/key-forthcoming-eu-legislation-on-1958607/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 23
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.16300_1146.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Addressing Cybersecurity Expectations in Healthcare"
     excerpt: "New policy initiatives to scrutinize healthcare-related anticompetitive practices Enhanced oversight of private equity (PE) firms’ ownership structures New regulations addressing the use of artificial intelligence in healthcare In short, 2024 promises to ..."
     publishedDateTime: 2024-03-12T00:00:00Z

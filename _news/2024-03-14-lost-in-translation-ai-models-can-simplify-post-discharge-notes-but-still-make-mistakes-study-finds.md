@@ -50,19 +50,14 @@ related:
         height: 958
         isCached: true
   - title: "New AI tools can record your medical appointment or draft a message from your doctor"
-    excerpt: "Your next check-up could be recorded by an AI-powered smartphone app that listens, documents and instantly organizes everything into a note you can read later."
-    publishedDateTime: 2024-03-13T22:23:00Z
-    webUrl: "https://www.13wmaz.com/article/news/nation-world/new-ai-tools-for-doctors/507-59ef852d-6fc0-4f58-b9c4-a119f992f205"
+    excerpt: "New AI tools are helping doctors communicate with their patients, some by answering messages and others by taking notes during exams. It’s been 15 months since OpenAI released ChatGPT. Already thousands of doctors are using similar products based on large language models. One company says its tool works in 14 languages."
+    publishedDateTime: 2024-03-14T16:26:00Z
+    webUrl: "https://www.sun-sentinel.com/2024/03/14/new-ai-tools-can-record-your-medical-appointment-or-draft-a-message-from-your-doctor/"
     type: article
     provider:
-      name: WMAZ
-      domain: 13wmaz.com
-    quality: 30
-    images:
-      - url: "https://media.13wmaz.com/assets/CCT/images/caf1355f-8f8a-464c-9371-fec12b6d5684/caf1355f-8f8a-464c-9371-fec12b6d5684_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
+      name: Sun Sentinel
+      domain: sun-sentinel.com
+    quality: 12
 
 secured: "PB6bXZTRmmbIFILFUylemu//SjgY44d8l9yK5vJTs0pKrzT4MATokljDVcJ7Gxaqiom2p23DlWqiv5NxW2FMxAWyxiTtX+MZ7gt+P8dIy2gSr0l8kJBYHhh4kxhKu90WXQZNWHH+EBtyk7YpQxFXU7EHB3nzmy1gvzGo1yxdghj41xBI7xhoysXsP5U7nl8P4ujNOZLQgmJKApuTkFTuM3lgv2mtfighTkl0NDzjif1WqAP4HvEoc3ZsfphIvyBoL3SfyDfC7q6SoEVi6LnanGoCtnGIVqFQ7O0kfTawsy3C2PV0vLEZv4kbmhu2tlY97FN4bjTRK7osutg6n3cb6GxlkN025r9fe+61stEM85Q=;soDCmoOrrjPKTLKjKcmuLg=="
 ---

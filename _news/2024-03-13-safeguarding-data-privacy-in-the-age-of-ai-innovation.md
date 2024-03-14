@@ -53,7 +53,7 @@ related:
     provider:
       name: ecampusnews.com
       domain: ecampusnews.com
-    quality: 71
+    quality: 73
     images:
       - url: "https://www.ecampusnews.com/files/2024/03/ethical-AI-in-higher-education-AI-ethics.jpeg"
         width: 500
@@ -160,15 +160,15 @@ related:
       name: ssir.org
       domain: ssir.org
     quality: 19
-  - title: "Epistemological Vertigo in the Age of AI"
-    excerpt: "It's tempting, perhaps even easy, to view AI emotions through the lens of human feelings, to anthropomorphize these complex systems and attribute them to the same kinds of inner e"
-    publishedDateTime: 2024-03-09T19:33:00Z
-    webUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202403/epistemological-vertigo-in-the-age-of-ai"
+  - title: "Trio of Must-Have Artificial Intelligence Tools for Trading in the Stock Market"
+    excerpt: "This innovative engine transcends the capabilities of traditional search tools by meticulously scanning the stock, ETF, cryptocurrency,  and FOREX markets for technical trading patterns. These patterns are not only identified but are also supported by real data and statistically calculated trade ideas."
+    publishedDateTime: 2024-03-14T19:34:00Z
+    webUrl: "https://www.finextra.com/blogposting/25900/trio-of-must-have-artificial-intelligence-tools-for-trading-in-the-stock-market"
     type: article
     provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 17
+      name: Finextra
+      domain: finextra.com
+    quality: 13
   - title: "Navigating the Intersection of Intellectual Property and Artificial Intelligence"
     excerpt: "In today's digital landscape, the convergence of intellectual property (IP) and artificial intelligence (AI) presents both unparalleled opportunities and unique challenges for businesses across industries. As AI continues to revolutionize how companies ..."
     publishedDateTime: 2024-03-11T00:01:00Z

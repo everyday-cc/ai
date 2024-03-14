@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-15-billions-just-hit-the-biggest-semiconductor-etf-are-investors-going-all-in-on-ai-chip-boom.md",
+      "title": "Billions Just Hit The Biggest Semiconductor ETF: Are Investors Going All In On AI Chip Boom?",
+      "excerpt": "The semiconductor industry is gaining popularity among investors as chips become crucial for tech, industry, and geopolitical success. ETFs are seeing record cash inflows, signaling trust in the industry.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/etf/billions-just-hit-the-biggest-semiconductor-etf-are-investors-going-all-in-on-ai-chip-boom-1033165877",
+      "originalUrl": "https://markets.businessinsider.com/news/etf/billions-just-hit-the-biggest-semiconductor-etf-are-investors-going-all-in-on-ai-chip-boom-1033165877",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/microchips-ai.png",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-14T21:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-14-founder-of-chip-testing-firm-rides-ai-boom-to-become-south-koreas-newest-billionaire.md",
       "title": "Founder Of Chip-Testing Firm Rides AI Boom To Become South Korea’s Newest Billionaire",
       "excerpt": "Shares of Leeno Industrial, an under-the-radar semiconductor firm in Busan, have soared over 70% since November, making founder and CEO Lee Chae-yoon a billionaire.",
@@ -41,49 +93,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-14-akamai-neural-magic-team-to-bolster-ai-at-the-network-edge.md",
-      "title": "Akamai, Neural Magic team to bolster AI at the network edge",
-      "excerpt": "The partnership will give joint customers a CPU platform on which to run computationally intensive AI workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/1313602/akamai-neural-magic-team-to-bolster-ai-at-the-network-edge.html",
-      "originalUrl": "https://www.networkworld.com/article/1313602/akamai-neural-magic-team-to-bolster-ai-at-the-network-edge.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.networkworld.com/wp-content/uploads/2024/03/shutterstock_1748437547-100937033-orig.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/1313602/akamai-neural-magic-team-to-bolster-ai-at-the-network-edge.html/amp/",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1313602/akamai-neural-magic-team-to-bolster-ai-at-the-network-edge.html/amp/",
-      "publishedDateTime": "2024-03-14T09:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -538,7 +547,7 @@
       "originalUrl": "https://www.forbes.com/sites/moorinsights/2024/03/12/qualcomm-on-device-ai-powers-future-products-from-phones-to-pcs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": [
         {

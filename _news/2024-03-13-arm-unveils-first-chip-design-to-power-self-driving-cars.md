@@ -34,15 +34,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Study cautions from self-driving cars, advising people to pay more attention"
-    excerpt: "(MENAFN) A recent study conducted by the Insurance Institute for Highway Safety (IIHS) has shed light on the inadequacies of most electronic systems designed to assist drivers with various driving tasks. Published on Tuesday, the study highlights concerns ..."
-    publishedDateTime: 2024-03-12T07:22:00Z
-    webUrl: "https://menafn.com/1107966154/Study-cautions-from-self-driving-cars-advising-people-to-pay-more-attention"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 1
 
 secured: "LUrh3vUu4c/WhT4knlMzF9yvXZo7kQTd6ph3TFB0OP4sMmPd04dlkk87oTxm0b2zof9b/TxI0B5N+1kUchG3coXEu24SDdBPqFBGIQDVyTMaU9noasOFBAram2UljoUzPjxRFsQOk3M5HAMXXhmfRLkkHUjHBBEm+/4Y0lzEJ5d27QD1+/15BjuVx72Hr0EpJD2y6VH47kw0luZJ9P4KrtEH3OCLpvPQa7uNyWcCJ5/eiHo4jQNgEb2OhwXZIv0AeN0iIKlWRZTbTbYWy6YHXTgZ7qn1eflvTixWJ15Rz3DmUUr0lBeu8eZBdb6O2iyqJl36pRNF8xagrJg99Tf3FJigxN/IK9OPiAeUXy5jl6c=;gQfed6l1XDPKVymSxPt5cQ=="
 ---

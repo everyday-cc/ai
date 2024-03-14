@@ -6,7 +6,7 @@ publishedDateTime: 2024-03-14T11:00:00Z
 originalUrl: "https://www.sfexaminer.com/news/politics/ai-deepfakes-stoke-concern-among-san-francisco-lawmakers/article_3914cbc2-e184-11ee-9b5f-2b54cd76f1a7.html"
 webUrl: "https://www.sfexaminer.com/news/politics/ai-deepfakes-stoke-concern-among-san-francisco-lawmakers/article_3914cbc2-e184-11ee-9b5f-2b54cd76f1a7.html"
 type: article
-quality: 19
+quality: 21
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Ethics
 
 related:
   - title: "How AI-Generated Deepfakes Are Playing A Role In 2024 Indian Elections. What Users Can Do To Avoid Pitfalls"
@@ -35,6 +36,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI deepfakes stoke concern at City Hall"
+    excerpt: "In January, New Hampshire voters received robocalls in which President Joe Biden seemed to urge them not to participate in the state’s primary election. But the call was a fabrication, likely generated with artificial-intelligence deepfake technology ..."
+    publishedDateTime: 2024-03-14T00:01:00Z
+    webUrl: "https://www.sfexaminer.com/news/politics/ai-deepfakes-stoke-concern-at-city-hall/article_3914cbc2-e184-11ee-9b5f-2b54cd76f1a7.html"
+    type: article
+    provider:
+      name: San Francisco Examiner
+      domain: sfexaminer.com
+    quality: 21
 
 secured: "e5ciyMIFLf/VLB4PS0xGfrJLvE2fpLZ+/xamjDPG9VkXC/miZtNOemEoEtkCjhR2MNfwhU9h/eZnnZGqE9guVHUbgzccIEenP2LtY+BeXYexZRPXVYA8IrieztnN3S0wnb+PAyRY5/gxmaq6+Aetsktwo40HTit5Yo2v1Y5ltd2NId289eUj9rS/JZ5K6WALhwvEijwFfBiSymEsA1hkNmna644Wr0Lt8sASXHhiv0o6cHjYOOu69eIeqwUycehHqOX8HX59zbv/t9wwI5wym/aFlRYTP9OdJurzdtOdFwRWTmBgNeocQm/QyO/UJwZjeYDNyTUXEDP+pH0aNxbXZYtvYtscoE6inJQ96Mv2VcxvyUrH/pBlvO8eauVN4fEXq02ONb6QUzvXXQyVKH7IkqTSdVCwOp8hpmlPJq/ouC/rzDuQegEFw2bmncNALA5FjtG0hbWU45Tum95HVI4ZxtxU/HG5auNf7/XBIS6VKKiyovkW7gbjbmBTYu8pstxc+ElTB5n/U3lbeRrafheRMA==;VcTL+yXR7yxWijcFgPTWQg=="
 ---

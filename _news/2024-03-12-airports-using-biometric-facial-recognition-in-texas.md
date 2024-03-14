@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Which Florida airports use facial recognition technology?"
-    excerpt: "The next time you’re in a security line at the airport, you may find that instead of a Transportation Security Administration officer checking your ID, a camera and screen will use biometric ..."
-    publishedDateTime: 2024-03-09T18:34:00Z
-    webUrl: "https://www.wfla.com/news/florida/which-florida-airports-use-facial-recognition-technology/"
-    ampWebUrl: "https://www.wfla.com/news/florida/which-florida-airports-use-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://www-wfla-com.cdn.ampproject.org/c/s/www.wfla.com/news/florida/which-florida-airports-use-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: WFLA News Channel 8
-      domain: wfla.com
-    quality: 74
-    images:
-      - url: "https://www.wfla.com/wp-content/uploads/sites/71/2024/03/GettyImages-1139860049.jpg?w=1280"
-        width: 1280
-        height: 815
-        isCached: true
   - title: "Airports using biometric facial recognition in Kansas"
     excerpt: "The next time you’re in a security line at the airport, you may find that instead of a Transportation Security Administration officer checking your ID, a camera and screen will use biometric"
     publishedDateTime: 2024-03-12T15:14:00Z
@@ -57,22 +41,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Report highlights civil liberties concerns with facial recognition technology"
-    excerpt: "The report says some agencies now have training policies in place that include explaining how FRT affects civil liberties"
-    publishedDateTime: 2024-03-12T01:44:00Z
-    webUrl: "https://www.wsbtv.com/news/report-highlights-civil-liberties-concerns-with-facial-recognition-technology/OETF3NAPQRCY5H4FGMYXI3DWMM/"
-    ampWebUrl: "https://www.wsbtv.com/news/report-highlights-civil-liberties-concerns-with-facial-recognition-technology/OETF3NAPQRCY5H4FGMYXI3DWMM/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wsbtv-com.cdn.ampproject.org/c/s/www.wsbtv.com/news/report-highlights-civil-liberties-concerns-with-facial-recognition-technology/OETF3NAPQRCY5H4FGMYXI3DWMM/?outputType=amp"
-    type: article
-    provider:
-      name: WSB-TV
-      domain: wsbtv.com
-    quality: 58
-    images:
-      - url: "https://cmg-cmg-tv-10010-prod.cdn.arcpublishing.com/resizer/2ujHFkVez5X3CIApIwboBaEkMwU=/1440x810/filters:format(png):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/V7Q4DMJL7RDWXAYCVKLFOCEPR4.png"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "Airports using biometric facial recognition in Arizona"
     excerpt: "(Stacker) - The next time you’re in a security line at the airport, you may find that instead of a Transportation Security Administration officer checking your ID, a camera and screen will use biometric facial recognition to confirm your face and photo ..."
     publishedDateTime: 2024-03-10T23:39:00Z
@@ -87,40 +55,15 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Elma man arrested on child porn charge after facial recognition technology used on photos from 2013"
-    excerpt: "An Elma man is facing a child pornography charge after facial recognition technology was used on photos that were from 2013, the U.S. Attorney’s office said Wednesday."
-    publishedDateTime: 2024-03-13T22:33:00Z
-    webUrl: "https://www.wivb.com/news/crime/elma-man-arrested-on-child-porn-charge-after-facial-recognition-technology-used-on-photos-from-2013/"
-    ampWebUrl: "https://www.wivb.com/news/crime/elma-man-arrested-on-child-porn-charge-after-facial-recognition-technology-used-on-photos-from-2013/amp/"
-    cdnAmpWebUrl: "https://www-wivb-com.cdn.ampproject.org/c/s/www.wivb.com/news/crime/elma-man-arrested-on-child-porn-charge-after-facial-recognition-technology-used-on-photos-from-2013/amp/"
+  - title: "Airports using biometric facial recognition in California"
+    excerpt: "Airports using the technology in California include: Southern California Logistics (Victorville) Airport (Airport code: VCV; located in Victorville) San Francisco International Airport (Airport code: SFO; located in San Francisco) San Bernardino International Airport (Airport code: SBD; located in San Bernardino)"
+    publishedDateTime: 2024-03-10T19:14:00Z
+    webUrl: "https://www.pressdemocrat.com/article/news/airports-using-biometric-facial-recognition-in-california/"
     type: article
     provider:
-      name: WIVB-TV
-      domain: wivb.com
-    quality: 45
-    images:
-      - url: "https://www.wivb.com/wp-content/uploads/sites/97/2024/02/handcuffs-1-e1708525374419.jpg?w=1280"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Elma man arrested in child porn case using facial recognition technology"
-    excerpt: "In a groundbreaking use of technology, Matthew A. Steele, 53, from Elma, New York, has been arrested and charged with the production and distribution of child pornography, announced U.S. Attorney Trini E. Ross. The charges could result in a prison sentence ranging from a mandatory minimum of 15 years to a maximum of 30 years."
-    publishedDateTime: 2024-03-14T09:29:00Z
-    webUrl: "https://www.fingerlakes1.com/2024/03/14/elma-man-arrested-in-child-porn-case-using-facial-recognition-technology/"
-    type: article
-    provider:
-      name: fingerlakes1
-      domain: fingerlakes1.com
-    quality: 18
-  - title: "Stc Bahrain, the first telecom to launch instant mobile SIM Activation using AI Face Recognition Technology"
-    excerpt: "Pioneering technology-driven solutions that empower customers and drive forward Bahrain’s digital transformation"
-    publishedDateTime: 2024-03-12T12:48:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/stc-bahrain-the-first-telecom-to-launch-instant-mobile-sim-activation-using-ai-face-recognition-technology-m1i91v9w"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 16
+      name: Santa Rosa Press Democrat
+      domain: pressdemocrat.com
+    quality: 36
 
 secured: "4l8x3OPgjZYmcQp4259oqDdfgAJYn/VaqSZllzVJO5yYqeHYzdavAlJ85Mdwr6MEq90r7Zli1zN0gIQ9pUcNvGDQ8Z3h7kPWjrUrQWTSZYIs51aVwoXvYbn+pJY3wUMGS8tvx+kCG22lBaHh8NwfMSdPyym6Er42wVhxP3O03p5aJSfkx9Ir8Irh42zAJ1PMdPE3e5sY4DQiQlL3U/iRND8DUoSJZ06yOvNC0acvgzRV4pLUrYjbQqBQ2EEHqtNrlVpCXTCYElYCzOrF6pKkqQvgNFPNADrVKfOAVQr11rWuHBpokO4gGCOkceS6Mv7ffYvj+8TpoEr75iZf+ZfrEDzqS0s6rc00Wygb1ywu0UYZs61hTkV3wFcJhClgupj7rZ73AwOBXwoLs9v1xoCEp6BtZ0nJ1DDSJIGC5GGf380GQiL9EitC7u198xSwpl77Im3sH3Mbxwx1FXpmU3+EIw7WY0nrSnuQhl/e/UvmVRbTb0CWPrRiyihK6wUsaz3uafZjQInTt7QaNYDWGJHWoA==;+Uhdpn2/pWqA2sHRB4QBaA=="
 ---

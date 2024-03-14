@@ -6,7 +6,7 @@ publishedDateTime: 2024-03-14T12:07:00Z
 originalUrl: "https://techbullion.com/microsofts-ai-bolstered-rise-driving-stock-prices-to-new-heights/"
 webUrl: "https://techbullion.com/microsofts-ai-bolstered-rise-driving-stock-prices-to-new-heights/"
 type: article
-quality: 36
+quality: 58
 heat: -1
 published: false
 
@@ -18,6 +18,13 @@ topics:
   - Microsoft AI
   - AI
   - AI Ethics
+  - Natural Language Processing
+
+images:
+  - url: "https://techbullion.com/wp-content/uploads/2024/03/Screenshot-2024-03-14-170652-1000x515.png"
+    width: 1000
+    height: 515
+    isCached: true
 
 related:
   - title: "At VentureBeat’s AI Impact Tour, Microsoft explores the risks and rewards of gen AI"
@@ -69,6 +76,6 @@ related:
       domain: modernhealthcare.com
     quality: 34
 
-secured: "VsjrLSSS1lCkiXk9AvvFBGRgHr4B6DT5Xr+72DsHSvP4NA2+iZVziGaBXrzewQIkS+ANUgYlZSxcEj4igY8VxZ7YWqbF6ofxRaSRTK3jjkonjbAnuE6g+rR0R47u/uI13iv6uMTqsC+hc3rhPrxfRWszJcMS3I5gJ33u3yyCBNs9KvhT77ax+gvFy1viW+78c8/hO6UVIMBoR0OnN6vw2SzB61GDPNcPAS47r26oU6p9Stqpmx0vK4IrnZnkJa/B8AJWBtcJjWtINYgc9yz8/tkYEpfTItyJxrMcYQuP9V0OrD/4HVm5TKEyMVzpmNEVin6TWE3gDpFXsi/VP9bEAeEsSHljg2dU6N8tOUNZQbcgmAK0awUY6jrdO2RVgH7yAl0wHko+bVV6ovVCzbxMtuoGyDyRmx/JKfzK0orVWUz1ViKbO5GYqv/BUK1gGz4jxO3nYZsU5IH0O6Ts5FcXAugOXh0KTRCxn+vl8i/AEQH9MQCTnOUIje7wqP/QvOmnTs1hZjDrtmcdSrwxlnaX0A==;MUWJ7X6hfVsc1Fl3OkWJUg=="
+secured: "hbUsPNWZVWlKjA4I98bIkXZjfbtBcVIzmnrjgMxGMLOTfMuU1iZKw2ItXp6uya0zRgv+1Yyg/CY9dW+YsW/X+EUKCOhrqC5V4oodhmoDTi8KIa1y6lYEl5abddFocmMJiUjujIKx3XR3762YBxJwbyBcqGnhwQgt6VRq5Iintq26nhdVlDqWn3ilrBQMSVGI6/lxHaEtqEX4XHrROhZrnru7u9jwY2RQQJS8ny2/S02zRf9gglnuTLfQw6dl18T8coiVHK4Kl6yDj4Q8olDWiuhNHVYWVyg40LuXnlOZ39bAAai0dZ1oAmZzOqAVJIS6ghAnC3gyQO01v/aFimTklVrx7Bje50610ttDO20dphg=;obzA3swnX/j4Iwk72JliUA=="
 ---
 

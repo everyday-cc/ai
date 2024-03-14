@@ -35,6 +35,24 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The journey of PGA TOUR’s generative AI virtual assistant, from concept to development to prototype"
+    excerpt: "This is a guest post co-written with Scott Gutterman from the PGA TOUR. Generative artificial intelligence (generative AI) has enabled new possibilities for building intelligent systems. Recent improvements in Generative AI based large language models (LLMs) have enabled their use in a variety of applications"
+    publishedDateTime: 2024-03-14T19:53:35Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/the-journey-of-pga-tours-generative-ai-virtual-assistant-from-concept-to-development-to-prototype/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 55
+  - title: "Series AI unveils Rho Engine to speed AI-native game development"
+    excerpt: "Series AI has unveiled its Rho Engine, an AI-driven tool that automates many of the processes of game development."
+    publishedDateTime: 2024-03-14T19:30:00Z
+    webUrl: "https://venturebeat.com/games/series-ai-unveils-rho-engine-to-speed-ai-native-game-development/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
   - title: "AI language model provides new insights into the development of brain diseases"
     excerpt: "A new AI language model identifies clinical symptoms in medical summaries and links them to brain tissue from donors of the Netherlands Brain Bank. This yields new insights into the development of individual disease progression and contributes to a better understanding of common misdiagnoses of brain diseases."
     publishedDateTime: 2024-03-12T17:15:00Z

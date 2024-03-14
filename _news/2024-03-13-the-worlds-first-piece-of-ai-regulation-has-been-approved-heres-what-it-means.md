@@ -196,6 +196,15 @@ related:
       name: StamfordAdvocate
       domain: stamfordadvocate.com
     quality: 18
+  - title: "EU Approves A One-Of-Its-Kind AI Law That Will Oversee The Use Of AI In Europe"
+    excerpt: "On Wednesday, EU lawmakers gave the final nod to a landmark law called the AI Act that will govern all AI-related concerns in the region. The Act was previously slammed by businesses and tech firms when it was first proposed last year. It’s the first-of-its-kind law that will completely change how people use AI in day-to-day businesses."
+    publishedDateTime: 2024-03-14T13:03:00Z
+    webUrl: "https://techreport.com/news/eu-approves-ai-law/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 15
   - title: "Europe’s world-first AI rules get final approval from lawmakers. Here’s what happens next"
     excerpt: "The AI Act is expected to officially become law by May or June, after a few final formalities, including a blessing from EU member countries. Provisions will start taking effect in stages, with countries required to ban prohibited AI systems six months after the rules enter the lawbooks."
     publishedDateTime: 2024-03-13T08:30:00Z

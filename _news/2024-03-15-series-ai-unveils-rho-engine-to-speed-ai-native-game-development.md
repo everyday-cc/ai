@@ -1,0 +1,71 @@
+---
+category: news
+title: "Series AI unveils Rho Engine to speed AI-native game development"
+excerpt: "Series AI has unveiled its Rho Engine, an AI-driven tool that automates many of the processes of game development."
+publishedDateTime: 2024-03-14T19:30:00Z
+originalUrl: "https://venturebeat.com/games/series-ai-unveils-rho-engine-to-speed-ai-native-game-development/"
+webUrl: "https://venturebeat.com/games/series-ai-unveils-rho-engine-to-speed-ai-native-game-development/"
+type: article
+quality: 47
+heat: -1
+published: false
+
+provider:
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+related:
+  - title: "How to avoid the headaches of AI skills development"
+    excerpt: "\"Leaders should take an active part in equipping their employees with critical future-ready skills, like how to responsibly apply generative AI to improve productivity, how to leverage intelligent automation to speed operations, or how to simulate steps in a supply chain with digital twins or augmented reality,\" he says."
+    publishedDateTime: 2024-03-13T03:59:00Z
+    webUrl: "https://www.zdnet.com/article/how-to-avoid-the-headaches-of-ai-skills-development/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-avoid-the-headaches-of-ai-skills-development/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-avoid-the-headaches-of-ai-skills-development/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/4eaeeecd56dd6753899b500908eb42b050f16878/2024/03/12/59585614-82d4-4324-a1fd-9d6804047205/gettyimages-1249613157.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The journey of PGA TOUR’s generative AI virtual assistant, from concept to development to prototype"
+    excerpt: "This is a guest post co-written with Scott Gutterman from the PGA TOUR. Generative artificial intelligence (generative AI) has enabled new possibilities for building intelligent systems. Recent improvements in Generative AI based large language models (LLMs) have enabled their use in a variety of applications"
+    publishedDateTime: 2024-03-14T19:53:35Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/the-journey-of-pga-tours-generative-ai-virtual-assistant-from-concept-to-development-to-prototype/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 55
+  - title: "Startup taps AI to bolster nuclear power development"
+    excerpt: "A new startup called Atomic Canyon is harnessing artificial intelligence to help nuclear developers navigate complex federal licensing processes. Why it matters: The firm's emergence from stealth comes as developers — including small modular reactor companies — will increasingly seek Nuclear Regulatory Commission approvals."
+    publishedDateTime: 2024-03-12T12:40:00Z
+    webUrl: "https://www.axios.com/2024/03/12/artificial-intelligence-nuclear-power"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 19
+  - title: "AI language model provides new insights into the development of brain diseases"
+    excerpt: "A new AI language model identifies clinical symptoms in medical summaries and links them to brain tissue from donors of the Netherlands Brain Bank. This yields new insights into the development of individual disease progression and contributes to a better understanding of common misdiagnoses of brain diseases."
+    publishedDateTime: 2024-03-12T17:15:00Z
+    webUrl: "https://medicalxpress.com/news/2024-03-ai-language-insights-brain-diseases.html"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 15
+
+secured: "zmwyzEUawvlSJILkdV+WO7cvI0CDwkrNBNZCLUb7JVeYDLWc8e15DRd5mN0H+qgzgUCyZjVhl/tn85F4QjwUPLCK6xD6sKgpIHyFlo0iaUA1WLHNtEsfUg3tmkbEG/wecBbhnMx1HqZPm7U0Gny+Kp8YpQcgajItPvsXlYb8ojwVOg/oOjcU56H6XyqvH/YSYkHqY/YK4HE6+BaBP/5wyKY4X2LUFJwcK5NoAqm6wErBXG4fDe04MhSTbW7PloVymKoGhu8qmp43LSEHKyNebSzXaFYN74UY8VKOgmVH5qmdBYTV13VSHi5+f/mP3busmSmFgl4lu2HHwcq7xI/jaJ6fwVf6LtobgXfqDwXyFHc=;2/JvKqGivefDabQM5ayUhA=="
+---
+

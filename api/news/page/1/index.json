@@ -2,6 +2,196 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-15-billions-just-hit-the-biggest-semiconductor-etf-are-investors-going-all-in-on-ai-chip-boom.md",
+      "title": "Billions Just Hit The Biggest Semiconductor ETF: Are Investors Going All In On AI Chip Boom?",
+      "excerpt": "The semiconductor industry is gaining popularity among investors as chips become crucial for tech, industry, and geopolitical success. ETFs are seeing record cash inflows, signaling trust in the industry.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/etf/billions-just-hit-the-biggest-semiconductor-etf-are-investors-going-all-in-on-ai-chip-boom-1033165877",
+      "originalUrl": "https://markets.businessinsider.com/news/etf/billions-just-hit-the-biggest-semiconductor-etf-are-investors-going-all-in-on-ai-chip-boom-1033165877",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2024/microchips-ai.png",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-14T21:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-15-disney-showcasing-latest-robots-at-robotics-summit-expo.md",
+      "title": "Disney showcasing latest robots at Robotics Summit & Expo",
+      "excerpt": "Members of Disney's Imagineering team will give insights about how they use robotics to bring Disney characters to life.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/disney-showcasing-latest-robots-at-robotics-summit-expo/",
+      "originalUrl": "https://www.therobotreport.com/disney-showcasing-latest-robots-at-robotics-summit-expo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2024/03/disney-keynote-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-14T20:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-15-the-philosophy-of-new-ai-tech-with-stephen-wolfram.md",
+      "title": "The Philosophy Of New AI Tech: With Stephen Wolfram",
+      "excerpt": "Talking about displacement and opportunity with AI, Wolfram discussed a forward-thinking way of looking at AI that might help us to void certain pitfalls in addressing the potential of these tools, such as just following what he called pre-planned agendas, and putting important aspects of research, so to speak, on autopilot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnwerner/2024/03/14/the-philosophy-of-new-ai-tech-with-stephen-wolfram/",
+      "originalUrl": "https://www.forbes.com/sites/johnwerner/2024/03/14/the-philosophy-of-new-ai-tech-with-stephen-wolfram/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65f34af822d579d7f78b9781/0x0.png?format=png&crop=930,523,x0,y59,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2024/03/14/the-philosophy-of-new-ai-tech-with-stephen-wolfram/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2024/03/14/the-philosophy-of-new-ai-tech-with-stephen-wolfram/amp/",
+      "publishedDateTime": "2024-03-14T19:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-15-apple-acquires-another-ai-startup-focused-on-deep-neural-network-generation.md",
+      "title": "Apple acquires another AI startup focused on deep neural network generation",
+      "excerpt": "DarwinAI, a company known for making deep neural networks smaller and more efficient, has been snapped up by Apple prior to the release AI features in iOS 18.",
+      "sourceUrl": null,
+      "webUrl": "https://appleinsider.com/articles/24/03/14/apple-acquires-another-ai-startup-focused-on-deep-neural-network-generation",
+      "originalUrl": "https://appleinsider.com/articles/24/03/14/apple-acquires-another-ai-startup-focused-on-deep-neural-network-generation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://photos5.appleinsider.com/gallery/43530-84632-000-lead-Siri-On-Device-xl.jpg",
+          "width": 1280,
+          "height": 714,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://appleinsider.com/articles/24/03/14/apple-acquires-another-ai-startup-focused-on-deep-neural-network-generation/amp/",
+      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/24/03/14/apple-acquires-another-ai-startup-focused-on-deep-neural-network-generation/amp/",
+      "publishedDateTime": "2024-03-14T18:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AppleInsider",
+        "domain": "appleinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-14-the-future-of-5g-what-to-expect-from-this-transformational-technology.md",
       "title": "The future of 5G: What to expect from this transformational technology",
       "excerpt": "The future of 5G and the innovations it holds, including in healthcare, smart cities and AI.\nThe post The future of 5G: What to expect from this transformational technology appeared first on IBM Blog.\n",
@@ -278,6 +468,49 @@
       ]
     },
     {
+      "path": "_news/2024-03-14-oracle-expands-partnership-with-microsoft-oracle-databaseazure-set-to-sizzle-in-15-regions-worldwide.md",
+      "title": "Oracle Expands Partnership With Microsoft - Oracle Database@Azure Set To Sizzle In 15 Regions Worldwide",
+      "excerpt": "Oracle (NYSE: ORCL) strengthens collaboration with Microsoft (NASDAQ: MSFT) for Oracle Database@Azure expansion, introduces Oracle Cloud EPM for Sustainability.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/markets/equities/24/03/37691418/oracle-expands-partnership-with-microsoft-oracle-database-azure-set-to-sizzle-in-15-regions-worl",
+      "originalUrl": "https://www.benzinga.com/markets/equities/24/03/37691418/oracle-expands-partnership-with-microsoft-oracle-database-azure-set-to-sizzle-in-15-regions-worl",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2024/oracle-shutter_0.jpeg?width=1200&height=800&fit=crop",
+          "width": 830,
+          "height": 553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/37691418",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37691418",
+      "publishedDateTime": "2024-03-14T11:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-14-the-ai-revolution-is-here-to-stay-are-your-systems-ready.md",
       "title": "The AI Revolution Is Here To Stay: Are Your Systems Ready?",
       "excerpt": "If you take time now to harden your cybersecurity and set up proper review procedures, you’ll be well on your way to making the AI revolution work for you.",
@@ -433,49 +666,6 @@
       ]
     },
     {
-      "path": "_news/2024-03-14-akamai-neural-magic-team-to-bolster-ai-at-the-network-edge.md",
-      "title": "Akamai, Neural Magic team to bolster AI at the network edge",
-      "excerpt": "The partnership will give joint customers a CPU platform on which to run computationally intensive AI workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/1313602/akamai-neural-magic-team-to-bolster-ai-at-the-network-edge.html",
-      "originalUrl": "https://www.networkworld.com/article/1313602/akamai-neural-magic-team-to-bolster-ai-at-the-network-edge.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.networkworld.com/wp-content/uploads/2024/03/shutterstock_1748437547-100937033-orig.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/1313602/akamai-neural-magic-team-to-bolster-ai-at-the-network-edge.html/amp/",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1313602/akamai-neural-magic-team-to-bolster-ai-at-the-network-edge.html/amp/",
-      "publishedDateTime": "2024-03-14T09:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-03-14-googles-new-ai-can-play-3d-games-with-you-by-following-natural-language-instructions.md",
       "title": "Google's new AI can play 3D games with you by following natural-language instructions",
       "excerpt": "Google DeepMind's new AI takes things a step further by learning human-like gaming skills. Google's DeepMind research group unveiled a new AI program that is capable of learning how to complete tasks in a number of games. Called Scalable Instructable ...",
@@ -484,7 +674,7 @@
       "originalUrl": "https://www.neowin.net/news/googles-new-ai-can-play-3d-games-with-you-by-following-natural-language-instructions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -838,7 +1028,7 @@
       "originalUrl": "https://www.bizjournals.com/sanjose/news/2024/03/13/knightscope-partners-with-draganfly.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1025,195 +1215,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-14-abb-opens-revamped-robotics-center-in-michigan-amid-growing-demand-for-ai-robots.md",
-      "title": "ABB Opens Revamped Robotics Center in Michigan Amid Growing Demand for AI Robots",
-      "excerpt": "ABB, a Zurich-based automation technology provider, Wednesday opened a $20 million expansion to its U.S. robotics headquarters in Auburn Hills, Mich. The move comes as demand for automation grows not just in traditional industries like logistics and manufacturing,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/abb-opens-revamped-robotics-center-in-michigan-amid-growing-demand-for-ai-robots-bf6af076",
-      "originalUrl": "https://www.wsj.com/articles/abb-opens-revamped-robotics-center-in-michigan-amid-growing-demand-for-ai-robots-bf6af076",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-13T20:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-14-this-robot-is-borrowing-openais-magic-to-make-at-home-droids-feel-real.md",
-      "title": "This Robot is Borrowing OpenAI’s Magic to Make At-Home Droids Feel Real",
-      "excerpt": "Figure showed off a demo of its humanoid robot that adopts OpenAI’s large language models to help it understand its environment and complex requests.",
-      "sourceUrl": null,
-      "webUrl": "https://www.inverse.com/tech/figure-robot-open-ai-chatgpt",
-      "originalUrl": "https://www.inverse.com/tech/figure-robot-open-ai-chatgpt",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imgix.bustle.com/uploads/image/2024/3/13/de1cc1b1-28b3-44e4-8927-364734e98a05-new-_dscf1820_desktop_10923a__3_.jpg?w=1200&h=630&fit=crop&crop=focalpoint&fm=jpg&fp-x=0.4987&fp-y=0.3507",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-13T20:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Inverse",
-        "domain": "inverse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-14-ai-may-be-able-to-reduce-the-scourge-of-meetings.md",
-      "title": "AI May Be Able To Reduce The Scourge Of Meetings",
-      "excerpt": "Artificial intelligence may have a new approach to this scourge — but needs to be interactive in an intelligent sense, and not just another crutch for humans caught up in onerous processes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2024/03/13/ai-may-be-able-to-reduce-the-scourge-of-meetings/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2024/03/13/ai-may-be-able-to-reduce-the-scourge-of-meetings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65f1de4c3dba26c9f252ebff/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 844,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2024/03/13/ai-may-be-able-to-reduce-the-scourge-of-meetings/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2024/03/13/ai-may-be-able-to-reduce-the-scourge-of-meetings/amp/",
-      "publishedDateTime": "2024-03-13T17:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-a-comprehensive-list-of-2023-2024-tech-layoffs.md",
-      "title": "A comprehensive list of 2023 & 2024 tech layoffs",
-      "excerpt": "Momentum for a tech sector rebound remains slow to build, outside of bright spots within artificial intelligence and adjacent companies ... Announced March 1, Alphabet’s Waymo issued a second round of layoffs this year. Combined with the initial cuts ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/03/13/tech-layoffs-2023-list/",
-      "originalUrl": "https://techcrunch.com/2024/03/13/tech-layoffs-2023-list/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/02/layoffs.jpg?resize=1200,645",
-          "width": 1200,
-          "height": 645,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/03/13/tech-layoffs-2023-list/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/13/tech-layoffs-2023-list/amp/",
-      "publishedDateTime": "2024-03-13T16:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

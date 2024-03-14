@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2024/03/14/coreshell-metallurgical-silicon/"
 ampWebUrl: "https://techcrunch.com/2024/03/14/coreshell-metallurgical-silicon/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/14/coreshell-metallurgical-silicon/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1239983684.jpeg?resize=1200,800"

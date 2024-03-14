@@ -38,6 +38,20 @@ related:
         width: 1360
         height: 907
         isCached: true
+  - title: "AI in the Business Strategy"
+    excerpt: "These were just some of the comments from Drew Thompson, the morning keynote speaker at the New Jersey Business & Industry Association’s"
+    publishedDateTime: 2024-03-14T18:29:00Z
+    webUrl: "https://njbmagazine.com/njb-news-now/ai-in-the-business-strategy/"
+    type: article
+    provider:
+      name: New Jersey Business
+      domain: njbmagazine.com
+    quality: 39
+    images:
+      - url: "https://njbmagazine.com/wp-content/uploads/2024/03/IMG_20240314_0913167862.jpg"
+        width: 775
+        height: 500
+        isCached: true
   - title: "Three Lessons for (Business) Leaders in the Age of AI"
     excerpt: "Artificial intelligence can potentially transform our lives in ways we can barely even imagine. But for all the potential upside, there are important considerations business leaders should keep in mind."
     publishedDateTime: 2024-03-11T06:37:00Z

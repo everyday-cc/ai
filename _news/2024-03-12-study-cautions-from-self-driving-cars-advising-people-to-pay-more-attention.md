@@ -19,29 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "91 Percent Of Drivers Don't Trust Self-Driving Cars: Survey"
-    excerpt: "An additional 25 percent of respondents stated that they remain “unsure” of autonomous vehicles. Only nine percept of respondents actually admitted that they trusted AVs. Despite the growing hesitation, many drivers had positive opinions of certain elements of certain automated systems, like automatic emergency braking and adaptive cruise control."
-    publishedDateTime: 2024-03-14T17:16:00Z
-    webUrl: "https://jalopnik.com/91-percent-of-drivers-dont-trust-self-driving-cars-sur-1851335940"
+  - title: "AI Can’t Think On Its Feet As Weird Situations Stump Self-Driving Cars"
+    excerpt: "One of the major factors slowing down progress is the fact that the artificial intelligence used in vehicles currently can’t connect a cause with its effect. Although AI is impressive, it is not intelligent in the same way we consider a human to be."
+    publishedDateTime: 2024-03-14T00:01:00Z
+    webUrl: "https://www.carscoops.com/2024/03/autonomous-vehicles-are-being-held-back-by-their-inability-to-determine-cause-and-effect/"
     type: article
     provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 24
+      name: Carscoops
+      domain: carscoops.com
+    quality: 39
     images:
-      - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/344232da59cca0e8227846a665be036a.jpg"
-        width: 1200
-        height: 675
+      - url: "https://www.carscoops.com/wp-content/uploads/2024/03/2023-Waymo-AV.jpg"
+        width: 2200
+        height: 1238
         isCached: true
-  - title: "Arm unveils first chip design to power self-driving cars"
-    excerpt: "Arm has unveiled its first automotive designs capable of powering self-driving cars as the UK-based chip designer seeks to boost growth beyond the mobile processors for which it is best known."
-    publishedDateTime: 2024-03-13T13:16:00Z
-    webUrl: "https://www.ft.com/content/e1b7641c-afaa-44ff-9de4-0d82f861a354?shareType=nongift"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 21
 
 secured: "76Dwa7g5V7gqnUgAgRTFS1+bJ/eTNZTL/VSLlWXYgOuV5N+KuQJ3vzZwyweQacyx8u8ROCkbryoaWk+NGpFHp5DiixEGdJgRlxqAYPe92n2GGOPaIFWt7UqutdKsKqUJ23JBvWSOeHKum5eECTR2gsWm8XXyQ06IESs4EV1LB49yJvfqHCt1yj8mJ78JBbWWDXSqOT9LSah9sZTlaspx81Wvd9YnsK7EAyEfyCw5tDJZDwgHpBsAjByf5mhFmbCcfDfnsQYGPKVO6YMFT9UyW6nWuv4JDggUxOfdBZHQ82Gzccd+nVygXXk6dYLkr3aTPhFnSkBSbd1X9sQfsBI+MzvsuB4CFKF46XNwQqTCOHg=;IvnF4YDrdc4X7UCmfWrb6Q=="
 ---

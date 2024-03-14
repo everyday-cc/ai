@@ -35,6 +35,20 @@ related:
         width: 830
         height: 553
         isCached: true
+  - title: "Microsoft and Oracle Expand Partnership to Satisfy Global Demand for Oracle Database@Azure"
+    excerpt: "Bringing Oracle Database@Azure to Europe will enable customers in the region to locally employ Oracle database services running on OCI hardware deployed in Azure datacenters fo"
+    publishedDateTime: 2024-03-14T15:20:00Z
+    webUrl: "https://www.datanami.com/this-just-in/microsoft-and-oracle-expand-partnership-to-satisfy-global-demand-for-oracle-databaseazure/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 44
+    images:
+      - url: "https://www.oracle.com/oce/press/assets/CONTA0730D9126EA48A6A1AA7A16A3AE0CAA/native/"
+        width: 770
+        height: 404
+        isCached: true
 
 secured: "Zg8PoFzuKbTwqGpfQz25DQ4XoWXpUee/wboh+inomJvsh+3gvACPkEtG6uZvFQDO0ZhCcsYpZVaa/fyr+sK6CjpBuoP4EaPyuJjrp/4+Dgp2hFUupC4wGFtme3HZttXNZpu7ziz1IoaEOVqe2RyTTHQEVfDe7xGkPJhvM7xgNZl9RwHKmXkgAdmlmCMZErv6lNSM3n9Yu0sX8vc5sE9u3B6TUDjaCp6DFIin3rvUqwAmRHeisSRNYZMXvUETG3H/Z2Kr5iIy76y8f9M3JAhESlRevgRMAHHLyhUPfhS8fgC3SCVOcB7NhBYHP1Qm02lBLAmP55g1myogVzFIqnksQNMBgrpJjdbwgrvEJP91zTU=;//4CLQknw1QRmhO+gL/a4A=="
 ---

@@ -44,6 +44,22 @@ related:
         width: 1008
         height: 566
         isCached: true
+  - title: "Qualcomm Becomes A Mobile AI Juggernaut."
+    excerpt: "Its free, right? And Ziad even predicted that AI apps such as Microsoft Co-Pilot, currently only available via the Azure cloud, will eventually run on-device! But getting large language models to run on a phone or automotive SoC is not just a simple ..."
+    publishedDateTime: 2024-03-14T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/karlfreund/2024/03/14/qualcomm-becomes-a-mobile-ai-juggernaut/"
+    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2024/03/14/qualcomm-becomes-a-mobile-ai-juggernaut/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2024/03/14/qualcomm-becomes-a-mobile-ai-juggernaut/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65f33879d4629142be477319/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1216
+        height: 900
+        isCached: true
   - title: "VSBLTY to Launch AI-Driven Retail Solutions Powered by Qualcomm"
     excerpt: "(OTCQB: VSBGF) (CSE: VSBY) (Frankfurt 5VS) (“VSBLTY”), a leading AI software provider of security and retail analytics technology, is launching a retail solutions suite utilizing enhanced computer vision solutions that are powered by the Qualcomm® QRB5165 platform."
     publishedDateTime: 2024-03-12T12:18:00Z

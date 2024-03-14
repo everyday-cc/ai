@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Foster a more data-driven culture with generative AI in Microsoft Fabric"
+    excerpt: "The new era of AI is one of the most exciting shifts of our generation. We, along with other leaders are seeing this impact take shape across individuals, entire teams, and every industry. \nThe post Foster a more data-driven culture with generative AI in Microsoft Fabric appeared first on Microsoft Azure"
+    publishedDateTime: 2024-03-13T20:16:34Z
+    webUrl: "https://www.microsoft.com/en-us/microsoft-fabric/blog/2024/03/13/foster-a-more-data-driven-culture-with-generative-ai-in-microsoft-fabric/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 103
+    images:
+      - url: "https://www.microsoft.com/en-us/microsoft-fabric/blog/wp-content/uploads/2024/03/MSFT_Azure_MAR11_323610_Blog_BlogHeader_240308_V1.png"
+        width: 1260
+        height: 708
+        isCached: true
   - title: "Microsoft’s AI Copilot for Security launches next month with pay-as-you-go pricing"
     excerpt: "Powered by OpenAI’s GPT-4 and Microsoft’s own security-specific model, Copilot for Security is essentially a chatbot where cybersecurity workers can get the latest information on security incidents, summaries of threats,"
     publishedDateTime: 2024-03-13T16:59:00Z
@@ -78,6 +92,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Microsoft to release security AI product to help clients track hackers"
+    excerpt: "Microsoft Corp. plans to release artificial intelligence tools on April 1 that will help cybersecurity workers produce summaries of suspicious incidents and ferret out the devious methods hackers use to obscure their intentions."
+    publishedDateTime: 2024-03-14T15:32:00Z
+    webUrl: "https://techxplore.com/news/2024-03-microsoft-ai-product-clients-track.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 51
 
 secured: "TsOAxqNIqyIRbufnbsedrSa7eN4FIhgt45jiYWaKEm4zXgOIseg3Zx+6d1CPgx9+I8jmOLQVWHfBA9aH3SfP8cWOiU+ieYQ9VdeBDz75TKddNC6fjfQKRS1nnlkxeu2gEWd9dTNN4RpgvWZ7XBQVHZqtQQnY0E4mdaQN1IHYjvVCYav2Xt9GW39usAXtdDV90fnY0daWKE5QB1Y0IjIhAgKGNkQpQ+WM5y22IDa6vkebSp6dHLmrp98PRnTyYSOEU8E/COVcBhkdzaHTm8nD4dO5S6OBV2B8K9qpSZ/AH3BtGYOBlQlTWlScKUiOx60uo4N9CH3BHH6sUHMIs4rwGcISc0nuwzR+gFv+7LyimDxIJfEGzXMXR/yp+PrA2vRXH7ntlFpdvC3OuNbhHNlV8ptVgWpgsjQsPnNX/NVKwJXCCb03zujCA6aP/rkj9mUUKcq2MX2fSf1wwAYGxAVjfTvVNhvWL6Pj4AETbpToB55XxdPPay2Svr9NIhkw2AtZyYfi3vcuTpHgwsm2FDpNBA==;NTCNMyPPb8MEBm3dLAfY/A=="
 ---

@@ -53,6 +53,15 @@ related:
         width: 1600
         height: 1000
         isCached: true
+  - title: "Google is making an AI to play co-op games with friendless players"
+    excerpt: "Google has reveled SIMA, an AI agent that will be able to follow player instruction and perform tasks in various video games."
+    publishedDateTime: 2024-03-14T17:55:00Z
+    webUrl: "https://www.dexerto.com/gaming/google-is-making-an-ai-to-play-co-op-games-with-friendless-players-2591181/"
+    type: article
+    provider:
+      name: Dexerto
+      domain: dexerto.com
+    quality: 19
 
 secured: "bdtbUq87PTR5Pl6A1aAkVosQ6eh9+kaO1UiBRavFaqxVwkJPP9f5jOL4k5wOghRs+pzYi20tblxRF28f2tMvvA/s1nizUWFqIZefqQpJIMBQuejXw6mPio1OfXTnssEN3di47gZj73jeoCpWxPbvuZkyGssF/R645+rKauT5PcWYau8lbVly8PCoNrlvguN5RHyMxaM2gNPLzWSlZBvAfrYaVBL9tc5w0apyYO/Kx+JGVQlTh8D8JqOvCbesEbojTbJDFTrFShjBMobNnx/yDF68V8zJlufigtDwJ71xgmpJD9u5z7bDpXvKMieYv3Qg0GTOpJQksJTNRTYSR9YBA0a/GtHFPOCJ7pUB94/EYb/9m41UWXi5sSxUIqPmUGfk/j5LF/oS4S3ImGObYEDcRAl/w5zNajgeIC/Z2xUYzyZOkSAJft3xoiKjTnXgkRsLHbG3/ouaPZ2yXOZTRxL8MJUbZ4gRQ0YRtGfEyrny2XrQPfSOWdlaO/phq6/lOZ+j4umIM2xgSfkmpxucb4QaWg==;jgbfltj+g16DhFiCBo9/TA=="
 ---

@@ -54,6 +54,15 @@ related:
         width: 375
         height: 212
         isCached: true
+  - title: "The EU AI Act - What Are The Implications For Banking and Fintech?"
+    excerpt: "Mandatory requirements for high-risk AI systems aim to ensure trustworthiness and mitigate risks, considering their purpose and use context. It is important for financial services and fintech firms, especially those dealing with customer data, to keep the ..."
+    publishedDateTime: 2024-03-14T18:07:00Z
+    webUrl: "https://www.finextra.com/blogposting/25899/the-eu-ai-act---what-are-the-implications-for-banking-and-fintech"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 34
   - title: "The EU’s new AI Act could have global impact"
     excerpt: "The EU’s new AI Office will also help lead global change, though not perhaps through its enforcement powers. Sceptics have pointed out that initial estimates for its budget are less than half the £100m committed to the UK’s AI Safety Institute."
     publishedDateTime: 2024-03-13T17:36:00Z

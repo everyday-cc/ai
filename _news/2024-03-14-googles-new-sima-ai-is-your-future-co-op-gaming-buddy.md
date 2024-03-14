@@ -50,6 +50,15 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 49
+  - title: "Google is making an AI to play co-op games with friendless players"
+    excerpt: "Google has reveled SIMA, an AI agent that will be able to follow player instruction and perform tasks in various video games."
+    publishedDateTime: 2024-03-14T17:55:00Z
+    webUrl: "https://www.dexerto.com/gaming/google-is-making-an-ai-to-play-co-op-games-with-friendless-players-2591181/"
+    type: article
+    provider:
+      name: Dexerto
+      domain: dexerto.com
+    quality: 19
 
 secured: "FUjZANcy+Em0tXXATkD1mp6kvdVugzEne30Wk3WVyDIiTIJjZdDFuL8Cu6jdUboQC1mRMBEmHI0pP1q04K7vh7ZRy7gvuaFzHDoAwSPsdmXc2ygSikRzIuDMq2I3JTFvVEgY34sYyqtNxYBTtZOpZjBMUdv1dJOfIWVXeHl+nn+wrawCbV8R4lA8luVliI4ahge8pmMFexh6OSQB4w13ODCmjCT9fgkFWtXMzxlZ0czqK3eY9hBAnNp/ztSLchbVfIV90RxrcFDYbhkCaqA859ItjG3ncxkO5JDWM/GiTFGwOmrzaVdU8Aoi+sWnYuijbK6Iad1uqVdWdpSFC35KjhNsCg1sFO4OMeyHyXWEamc=;eZBHpxKiRhsOuhbhF7RnPQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/googles-new-ai-can-play-3d-games-with-you
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/googles-new-ai-can-play-3d-games-with-you-by-following-natural-language-instructions/"
 type: article
 quality: 82
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -54,6 +54,15 @@ related:
         width: 1600
         height: 1000
         isCached: true
+  - title: "Google is making an AI to play co-op games with friendless players"
+    excerpt: "Google has reveled SIMA, an AI agent that will be able to follow player instruction and perform tasks in various video games."
+    publishedDateTime: 2024-03-14T17:55:00Z
+    webUrl: "https://www.dexerto.com/gaming/google-is-making-an-ai-to-play-co-op-games-with-friendless-players-2591181/"
+    type: article
+    provider:
+      name: Dexerto
+      domain: dexerto.com
+    quality: 19
 
 secured: "+EyB73CbPB2j68S4mOCkEh1kCq8ZtFzYyEzLiyPvUFh8oXzDKyKvWDoDdCsb1TUMIyoqqaPqIjQ+jWeQE2y+Lv3JbdmILNYfq1u+S6jhvSyHxPvAJZwb+LtaAfG1As8lqF5cyY+rLO/4hVS7N5Gg1yzIEQowy1hYMkVv3Iml1Z3Tm1OoXNYyoSwxA0oFJafDxi5K3vG7ghVVnA8UPFHdBrBN2ZwzlfTFcwxdvkeJW1iO63aZOJCFSLgU7NTrcNUCFymUGCZjlpNgVnXQc+SksM3jWFmnb48xdlGrc2LdOnYFVProTokuq9YgTUwBpEBPFlPddalYfDD1wTQOsePblH6Gj98erapY+R6SH7zsARnkXgvjLQLSxBG3RiUnFbJLG1NKm5D9GN+JYo9diC5i3vU3df4lvRCB4l/EjmuO6FlGfq1MzUhiXrUiW5F/SR3qcPRakl7BedyKeR5XgAKGz2Jl1JyjTiD3fTF2eLsQvRwL/74LlP6IGSAPED1LtlIq3hZp2s+CxLCASrXi9cV91A==;l9Dv1ixeaRUgNFxLh2eh1Q=="
 ---
