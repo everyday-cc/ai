@@ -99,7 +99,23 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Google DeepMind introduces SIMA, an AI-based virtual gaming partner: Know what all it can do"
+    excerpt: "Google's SIMA AI agent, equipped with natural language instruction and image recognition capabilities, learns and adapts gaming skills from diverse environments, partnering with game studios to enhance its capabilities."
+    publishedDateTime: 2024-03-14T07:26:00Z
+    webUrl: "https://www.livemint.com/ai/google-deepmind-introduces-sima-an-ai-based-virtual-gaming-partner-know-what-all-it-can-do-11710400937006.html"
+    ampWebUrl: "https://www.livemint.com/ai/google-deepmind-introduces-sima-an-ai-based-virtual-gaming-partner-know-what-all-it-can-do/amp-11710400937006.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/google-deepmind-introduces-sima-an-ai-based-virtual-gaming-partner-know-what-all-it-can-do/amp-11710400937006.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 63
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2024/03/14/1600x900/SIMA_1710401035161_1710401047312.webp"
+        width: 1600
+        height: 900
+        isCached: true
 
-secured: "k+DuJL1qK+/C5mF9Gy+CDiMMk72f4KtYf4Dowj+AKldDC0OiTWGhjmVMucQS/5Qzh129QNpiojvCt/3E63hXQDa7NZVcRx8iAzz4KB7sF911jk8hf2vkEwLVegaSRWfmha6gWZeZGrBxpyoU1mEoDi7efG825Y2gm/pzbIB6fz6hsOYPPrB4yQub7ue1zf77sALMIJ+y9aN3UgvzFlpRcoRa1LiFvYUH71c8pjH1YEtRceBxuUIEM0U1A6M1ZFhFXIm+KAanNI6sQxwX35Aj2vvRyceZJ0SLZCCy+RrQMOS00Qm2CraNCFY5a8vBWdP0Nx2T+8aSBxT26eUX2vEJS2SqDBd3HWBHfLZ5HWXNBJg=;ix7TWBcqa0VaHBIpVa9/Ow=="
+secured: "ylPR07/K5qqoA2dd+yFfJGxv9O733+7AcVO6RdS5+Ee4A/W+/tti5VzFP3V0UF5oY1lnmAagMKMRYQR2zn8ED9hYdEeyxvgbi+yB4gK6b3SYeeqzI+SqinKLt6/MyxPFthSqYo8PAptSmA0sbgVcvTHsJ7dP/kvsFD4/9jL5fXSA7rbUjId/kQhsZmcxMGCDHEHIL4fu14I8+v7X1GEgpI78S3EOC+FhawxCr8j8HcSeb9y9bzitt6uHZZNgomI9w5oLgFrbPpEnKIEqglpo9KDo2Bfpjk4o6ooLHKCZrrSh07tZd/QnKnOA4pzWhEsZiGO80tPI1Oq/6ftCJzlGo7KCUM0mXR/ov6yEOx0Oq4R7kxLOnUWSVHec82lCypPxfPPxaAL/uvP2xCye1bFFwRgqjPXDl92d8qkXYV09eqoS+l0wFx2cUF+yeVdD9KMexANLKZF++EHNKGwVaFX1euz/k+d4TMXWUK5R2heSZnRp2ywXtXrwYm0cP/ojoil5WhkeJaPybSORRdwjeaDHZA==;DMPcWxiFYBQs4rEbrY18Tg=="
 ---
 

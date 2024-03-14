@@ -47,6 +47,15 @@ related:
         width: 409
         height: 269
         isCached: true
+  - title: "Is This Fintech Stock a Buy Now?"
+    excerpt: "Fintech companies use technology to deliver financial services and solutions. These companies use cutting-edge tech - which could include artificial intelligence (AI), machine learning, blockchain, data analytics, mobile apps, and more - to improve and ..."
+    publishedDateTime: 2024-03-12T21:04:00Z
+    webUrl: "https://www.nasdaq.com/articles/is-this-fintech-stock-a-buy-now"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
   - title: "1 Week to Go! Top 100 Women in FinTech 2024"
     excerpt: "In honour of International Women’s Month, FinTech Magazine - in association with Amberdata, JP Morgan Payments, and AWS - will be releasing its Top 100 Women in FinTech for 2024."
     publishedDateTime: 2024-03-11T12:45:00Z
@@ -55,15 +64,6 @@ related:
     provider:
       name: fintechmagazine
       domain: fintechmagazine.com
-    quality: 4
-  - title: "Is This Fintech Stock a Buy Now?"
-    excerpt: "Real-time index price for TSX Income Trust Index (RTCM), along with buy or sell indicators, analysis, charts, historical performance, news and more"
-    publishedDateTime: 2024-03-12T19:41:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/indices/RTCM/pressreleases/24735863/is-this-fintech-stock-a-buy-now/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
     quality: 4
 
 secured: "jbACdUr/Mph9h3H94Yno0MuLYSGmBGGqJg/ApS6t2pZEXFahS1/30A9SqkV2ji4/MVRpVz+ddVQcqxsYA+7tK9LOVv3QsDg5CUJXKpEV2prCgHXcAxsBr8qYYHUxXuxWIjqoDMNUn1uJTf6Rgbf6fq57Ne9hyzKGYx4gJ0GufLhY3rfd1O/JV95H272j1Xy17Qvl+JdN+auZyUYGJ43cjOUgQBAab1/J1xtMwzV0o9lqupqufg3qFJhuhIOE6MsZnpMI1L8E6djIWX6karsCzMOSI5HvC8g3P3vrAwwQNuOxuv3JHoxHKmIqMRS+DmKBak8Esv4i81ZqbAMIVlY+ecGoDHqo7pwk8053f7TNLboqb+Ubb0CpZDKy5UbsVHzEY5pByde/n2cr5Cwdtf68GRptTcRXPHMKqywRaQjbVbXCW35ae05gFE2x3DJQAaHLzjUvpln/JxLAyZrjpH2CtIIDNTlAyGX4VSZNJKwX+cG0OvqmjZk5sdh2ipAhtHJDiIZb1bYCvNaMIO3YnREfqQ==;F5ygeLUF7XjRdQt6suJeQQ=="

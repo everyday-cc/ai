@@ -58,6 +58,15 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Story Protocol Works With Crypto-AI Firm Ritual To Train and Track Models On-Chain"
+    excerpt: "Story Protocol, a blockchain-based IP-tracking platform, has partnered with the AI startup Ritual to let builders create AI models and track their outputs on-chain. Story Protocol raised more than $54 million last year from the likes of Andreessen Horowitz ..."
+    publishedDateTime: 2024-03-14T11:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/currencies/story-protocol-works-with-crypto-ai-firm-ritual-to-train-and-track-models-on-chain-1033165206"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 41
 
 secured: "F88Ma215YSiR0m+tI6/6pYk4N8qWDlH/IHzk5O0OoA/M6y1d2nbeWP3rvz2WOnVG9FvgUQwMLVuABSbCpXsyF2K89QzPdEP+MtGPAIRVUUaQN3NvPwX3HpTN1JstS2dCndHqR1kfYE1VJvgzNDDLoF4OWt1Ocd3pB8NBz/RFcaSDtEAzuAMU1FDT/oBf7aSCdq9BylXHE8UtoJ3vLe6nCztys4CBwjF+di6mvvRVCYZDr0WaIsVHs2ObRZ1d18Wgc+GCYldlW7RH/aT9Ftfgg2MViz4oSKIM7L82Xmu5EVx9I91qJr+y4iCTfVNoxp0A7tM9VnQhwyTuv9mVaQ4BAu6qDIWGHN2tdLCB/EuJ2RiHXXmkrkPBkEI8zNZ7Y8TmGK2vnTY6XI+aeqchK9MXOK9nUB6a56vGZACLXsCiwQv/5hLZvKcMWNUumOiheP+EwSQjjiATcQt6icNkwwPqIsIkcVlG/M2cqu9RATAMpx80ZUxN+/jidPKNeKz2mCrvmyMgfRPZDAD67bcKhN6kbw==;+Yq5oQSt9T84jAIN6lCnGw=="
 ---

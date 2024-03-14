@@ -44,6 +44,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Forbes Daily: How European Union’s AI Act Aims To Regulate The Technology"
+    excerpt: "The European Union approved the world’s first regulations on artificial intelligence, amid growing concerns that ... or medical devices will face more regulations, for instance. Waymo, Google parent Alphabet Inc.’s self-driving vehicle unit, is ..."
+    publishedDateTime: 2024-03-14T12:11:00Z
+    webUrl: "https://www.forbes.com/sites/forbesdaily/2024/03/14/forbes-daily-how-european-unions-ai-act-aims-to-regulate-the-technology/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 68
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65f2e8d5022306b37a30e4a1/0x0.jpg?format=jpg&crop=3000,1687,x0,y185,safe&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "EU lawmakers endorse political deal on artificial intelligence rules"
     excerpt: "Reuters. AI Artificial intelligence words, miniature of robot and EU flag are seen in this illustration taken December 21, 2023. REUTERS/Dado Ruvic/Illustration/File Photo STRASBOURG (Reuters) - EU lawmakers on Wednesday endorsed a provisional agreement on ..."
     publishedDateTime: 2024-03-13T11:21:00Z
@@ -196,6 +210,6 @@ related:
       domain: apnews.com
     quality: 8
 
-secured: "+NCg5WaZ3Q2Wa7rcERv1q0wbtVVKgSQ5lSNyFexx5k7llyAUwVSOtchcy2w8AS8IcloqH3XSYqppQ6pR7PdwFNDQZ/jqqJXsqkljUD/QMi8k6FoEJWnY0rYtYmGRT8HJMa9yZWTeEg1I3Q2ks861D082c9q0k98btfWABilmB2zy6sAeivkamvWf0kpusMwMjMfrf0sMC8UK446UJXkZgGSUPnOJaAbB6ch7HeqZJCtxBBvT9U4aRTRbv5uifHtc9x+93RrZfq2Xdf/4H+CCv0G0aUvEzTCao/eXCZgNgyM+7snoEMMKA3tb/tm57MIAAF1I4JqrJzair6nwkSdN1rYUnUVcIKAm1DwXljqyg6E=;RhYaeu92J/456rgne5aPjw=="
+secured: "wG0aHV0G7oQEqhl8p9fYrn2vathYNtmIthKgmbxRuQa0W9NpGq0shAf/2GZYDUo36PVPorA0TscKHSVSwcySbRp8iaPX1yKGlk9RK6Vz5EW2PDTeTLsX736gbr/oC/D4bx34MDFGbMdNPSVvy2otfQqGmqEuzlypHuGf5fhkRgZn0+5Ph5ii80W0r8iKPSJEzj8TH8mU7GTWpvbc5G04zGoPggqQXBin2Hw99t9X5dPvPMidMb6ysNm9lfADWX/Lfp+4oXd+Sa4iUwMXPe9AqzOHSok4OU44d40Mv4Rc3QXnqH7KwQRWlq/eHks4EUU5gYUkOLzFpQ7lcalPh0BeDjjhB4xHMcqRrnBoN4e8yIWtN1e0vKRoGHFwq6cT7OhwFzQIojE96FarTlIeic5yUInXxindidoloQkKtgL8uMcFZ7tRGkcKyvfRpDscn5SjaRUDFzpOC+r8V8ZY5EwOGn+d1nkxU0nHkO2PoQvYs0Wrsn4yqbyVKN+2aHnyrnnupTVmpbk8tFSBoqUyeuoT8w==;+0R2WevMvLkq6AVh3AT93g=="
 ---
 

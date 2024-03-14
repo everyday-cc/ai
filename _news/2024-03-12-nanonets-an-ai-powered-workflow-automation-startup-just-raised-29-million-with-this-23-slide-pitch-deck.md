@@ -22,6 +22,31 @@ topics:
   - AI
 
 related:
+  - title: "Nanonets gets Accel’s backing to improve AI-based workflow automation"
+    excerpt: "Prathamesh Juvatkar, co-founder and CTO at Nanonets, told TechCrunch that the startup initially used convolutional neural networks (neural network architectures used in computer vision for image classification and object recognition) to examine images and ..."
+    publishedDateTime: 2024-03-12T12:01:00Z
+    webUrl: "https://techcrunch.com/2024/03/12/nanonets-funding-accel-india/"
+    ampWebUrl: "https://techcrunch.com/2024/03/12/nanonets-funding-accel-india/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/nanonets-funding-accel-india/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2024/03/nanonets-founders.jpg?w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Accel Backs Startup Seeking to Use AI to Kill Finance Paperwork"
+    excerpt: "Nanonets, which uses artificial intelligence to help businesses square accounts and manage budgets, raised $29 million in an early round led by Accel India."
+    publishedDateTime: 2024-03-12T10:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2024-03-12/accel-backs-startup-seeking-to-use-ai-to-kill-finance-paperwork"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 64
   - title: "Why Enterprises Are Learning To Love Nanonets’ Automation"
     excerpt: "Nanonets has raised $29 million in a Series B round that will support the growth of the machine learning and automation specialist"
     publishedDateTime: 2024-03-12T12:00:00Z

@@ -46,6 +46,20 @@ related:
         width: 480
         height: 480
         isCached: true
+  - title: "How To Ensure Designers Using AI Retain A Sense Of Pride In Their Work"
+    excerpt: "Designers may view AI as a threat to their creative mastery, causing them to feel less pride in their work and a diminished sense of ownership over the design process."
+    publishedDateTime: 2024-03-14T17:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2024/03/14/how-to-ensure-designers-using-ai-retain-a-sense-of-pride-in-their-work/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65f32365fbb329e6af4b6a53/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 845
+        isCached: true
 
 secured: "eTWdrY/7MuielFk+OF5SGmsJ0sLGiq25SE+kmUF3LZF1DoCDy3/10frpFSYv4aHuYJGB/THhzwQ/XitYwk5BIDGuXVDPa3OodVtqf1XFHXRdA0O0OzbQsPTFShfm00UKSOqHmN0+4jgy5s992YZEViPP/dQBNWD2Iw5CoOIVKmlGt7NBozl+h2KsqXFPPlSHHUnLyGPes6a0cVlubZZ5waMmxVOZfgcYpBPNH+erE7on30ooSjFxKOTYcBB3NRl72542B87UMhxfIjHIb/IaFtGMTck2DhbOkFfzH/BBPrtvG+Td2v56FuenHL0ELf/k2GWkd9N7gbjuwDk+E1piHWb8yQXAvL8atwWUwB+CWSY=;Wk+cwiIWlm7zdVEEpHMZFA=="
 ---

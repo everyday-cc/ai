@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-work-devices-may-evolve
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-work-devices-may-evolve-to-keep-up-in-the-ai-era/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65ef584cbe564485962092d2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1350
         height: 900
+        isCached: true
+  - title: "How To Ensure Designers Using AI Retain A Sense Of Pride In Their Work"
+    excerpt: "Designers may view AI as a threat to their creative mastery, causing them to feel less pride in their work and a diminished sense of ownership over the design process."
+    publishedDateTime: 2024-03-14T17:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2024/03/14/how-to-ensure-designers-using-ai-retain-a-sense-of-pride-in-their-work/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65f32365fbb329e6af4b6a53/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 845
         isCached: true
 
 secured: "WITyHecBhSrYqDVbS17BLRL91gucvW91xHd6C0C0LVkwHwekfgtYpHhAdrd+tvQ9fb/xkYzn9HmdzVb+64SCSqgKqSr48CICHi0XcoAsCcTJa4AHauB1CRiuXGH2kS5C4e2/DhLWLeZ6UeNowrFFXcRQ8S3oR4Xw4WhtGaO/u/IZ1sVXd2+CJVb/Gf6eA1mIS5+pBw4hW0EwkXcBaLY/1jyx1hTGYqR2Fch7+yyCOcoJ8ejdIW/RbUI4QPbgxaIDdGyy/SkIx8G9zGrBtYV/JjQF/igy9vMdbHyh6yJaYzSbSwLXkZFudoRplBxvZ1vCMdIFo9bvMFf2bc+QjN7rB1R0xsJGba400eo1J4BmYGQ=;4+ThnNJYKDha4Xyf2RDw6g=="

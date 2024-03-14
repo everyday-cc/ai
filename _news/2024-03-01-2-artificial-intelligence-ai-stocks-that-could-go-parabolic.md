@@ -18,6 +18,13 @@ provider:
 topics:
   - Meta AI
   - AI
+  - AWS AI
+
+images:
+  - url: "https://g.foolcdn.com/editorial/images/766823/ai-possibilities.jpg"
+    width: 4000
+    height: 2670
+    isCached: true
 
 secured: "N8weQoISwm+qCCAczUoSVSM/KCO1rhaR/dEGD75IOllULXhTtG/yS95jlQC05ASPKIVEnjb62FW55xEOw2CAJPXOgycxfydKCsCMOfh/sZjv03eGQ39ldIuHUq/nbiaKaVCV6TkawpyB2ZBmnPpvIHhKdREpAveYMk/n2TZ6r9RGeT/GhITGuioXDpD4Bl0guRRSrSfhAl9Vs0VrJdegLjB7SUP2cC05v+IE9X7WWnPjZP24XYKfxbmsJ3jYORyl2Oi7JBoBxX5a5/21zJ7zF4U5sq6OnbfVGO/D2eAXf81CPMUJwMVQtDDTl4FhS0xR5Jk57pn4J0MtipRyu7FrsOxvX+kIBQfhXRa/rHYabYw=;86w5u4NthSl2BgZ7CT5DVA=="
 ---

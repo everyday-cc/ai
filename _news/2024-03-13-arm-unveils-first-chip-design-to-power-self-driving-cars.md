@@ -7,7 +7,7 @@ originalUrl: "https://www.ft.com/content/e1b7641c-afaa-44ff-9de4-0d82f861a354?sh
 webUrl: "https://www.ft.com/content/e1b7641c-afaa-44ff-9de4-0d82f861a354?shareType=nongift"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,20 @@ topics:
   - AI Hardware
 
 related:
+  - title: "91 Percent Of Drivers Don't Trust Self-Driving Cars: Survey"
+    excerpt: "An additional 25 percent of respondents stated that they remain “unsure” of autonomous vehicles. Only nine percept of respondents actually admitted that they trusted AVs. Despite the growing hesitation, many drivers had positive opinions of certain elements of certain automated systems, like automatic emergency braking and adaptive cruise control."
+    publishedDateTime: 2024-03-14T17:16:00Z
+    webUrl: "https://jalopnik.com/91-percent-of-drivers-dont-trust-self-driving-cars-sur-1851335940"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 24
+    images:
+      - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/344232da59cca0e8227846a665be036a.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Study cautions from self-driving cars, advising people to pay more attention"
     excerpt: "(MENAFN) A recent study conducted by the Insurance Institute for Highway Safety (IIHS) has shed light on the inadequacies of most electronic systems designed to assist drivers with various driving tasks. Published on Tuesday, the study highlights concerns ..."
     publishedDateTime: 2024-03-12T07:22:00Z

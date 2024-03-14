@@ -35,6 +35,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Tech Layoffs 2024: IBM Announces Job Cuts In A Seven-Minute Meeting; Will Replace Several Jobs With AI"
+    excerpt: "International Business Machines Corp ( #IBM) has announced layoffs in the company's marketing and communications division, says report. Currently, no specific number on the number of cuts have been announced. Read here: https://t.co/B7QK1TeqCX pic.twitter.com/SxIcexmV5O — Mint (@livemint) March 13, 2024"
+    publishedDateTime: 2024-03-14T12:48:00Z
+    webUrl: "https://in.mashable.com/tech/71440/tech-layoffs-2024-ibm-announces-job-cuts-in-a-seven-minute-meeting-will-replace-several-jobs-with-ai"
+    type: article
+    provider:
+      name: in.mashable
+      domain: mashable.com
+    quality: 53
+    images:
+      - url: "https://sm.mashable.com/mashable_in/seo/6/69848/69848_1r37.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "1Bxeycp3BjMc5huAEy6ELffyjbsDuCYycJ8avaU20lFERFJnc58JTZzwZ/0FWar9wPuAqrrct6UcppzhatE/neyU+gjP7TQQeUjiBN4/KEf+luW7cxIMVmiFAWsIKKCFJF+TESdgek/wSLKo/wd8R9XrbVLocs/Iuc9VXyAGE+f5sGnpCxvbM4sWhSv7b8l/w0G9vctq8Z4cGaeufFsn746XwA8kEsGYfkWPs9iEXQcTMEpG2GUZR3AxMwRy3grmIo3HFUwOkT57HiNvoV3UPQ7hYO2GfMZdbhZ0WB1naGouF8SIU5Ua+v/W9BitWhcWRqtPkrdhm8+eeL/sEOYOnXwP885BSJ7Ah8gkaRQQZ9wKMD7GDYGT1+d0h1B/XsSCL9o/yyPJvCFIthyQwLS6xNKZ4DPXiz+0Q52nfD+Gf0p6Ax5oPGKPWy713CshFZMaocsqa4gK1ir9HfFsouVfRhqdfUmXxoMd0uTsNgcpke1Oc12TVXusv5iQvQdYFt+RJDshIhOea9wvX0D86Y5o4g==;98VOIhNsJCd9QsZRrgwgHw=="
 ---

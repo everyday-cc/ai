@@ -42,15 +42,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "5 Indian AI Startups to Watch Out For in 2024"
-    excerpt: "It stemmed out of Microsoft Research in 2017 and currently has crossed 35,000 rural Indians with 40M+ paid in digital tasks. Microsoft, The Bill and Melinda Gates Foundation, and Google are all tapping into it to gather speech data. CoRover AI- CoRover.ai ..."
-    publishedDateTime: 2024-03-14T00:01:00Z
-    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/5-indian-ai-startups-to-watch-out-for-in-2024/471142"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 49
   - title: "Wall Street Favorites: 3 AI Stocks With Strong Buy Ratings for March 2024"
     excerpt: "Stock Market News, Stock Advice & Trading Tips The U.S. economy is currently benefitting from new jobs and a rise in the"
     publishedDateTime: 2024-03-12T19:00:00Z

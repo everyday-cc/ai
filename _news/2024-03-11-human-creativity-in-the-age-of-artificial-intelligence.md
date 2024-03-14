@@ -56,6 +56,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "The imperative of ethical AI practices in higher education"
+    excerpt: "The journey to building ethical AI in higher education is challenging, yet it also is an opportunity for tech to serve as a force for good."
+    publishedDateTime: 2024-03-14T09:00:00Z
+    webUrl: "https://www.ecampusnews.com/teaching-learning/2024/03/14/imperative-ethical-ai-practices-higher-education/"
+    type: article
+    provider:
+      name: ecampusnews.com
+      domain: ecampusnews.com
+    quality: 71
+    images:
+      - url: "https://www.ecampusnews.com/files/2024/03/ethical-AI-in-higher-education-AI-ethics.jpeg"
+        width: 500
+        height: 326
+        isCached: true
   - title: "AI enabling behavioral health innovation"
     excerpt: "A hospital in the Middle East is embracing AI, pushing to bring behavioral healthcare more fully into the digital realm."
     publishedDateTime: 2024-03-13T14:51:00Z
@@ -84,6 +98,20 @@ related:
         width: 1360
         height: 765
         isCached: true
+  - title: "AI innovation takes center stage at the World Governments Summit 2024"
+    excerpt: "Learn how governments are working together with Microsoft and other industry leaders to embrace AI to solve major global challenges, following the World Governments Summit 2024"
+    publishedDateTime: 2024-03-14T15:00:00Z
+    webUrl: "https://www.microsoft.com/en-us/industry/blog/government/2024/03/14/ai-innovation-takes-center-stage-at-the-world-governments-summit-2024/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 39
+    images:
+      - url: "https://www.microsoft.com/en-us/industry/blog/wp-content/uploads/2024/03/MSC24-CEMA-lifestyle-Getty-1483022571-rgb-1.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "IDS joins the Innovation Park Artificial Intelligence (IPAI)"
     excerpt: "The Innovation Park Artificial Intelligence (IPAI) is probably the most ambitious project for applied artificial intelligence in Europe. Its home will be a large, circular campus in Heilbronn,"
     publishedDateTime: 2024-03-12T11:04:00Z
@@ -107,6 +135,17 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Transforming financial services in the age of innovation and inclusion"
+    excerpt: "Looking ahead, the digital revolution is expected to continue shaping the future of financial services. The International Monetary Fund said that emerging technologies, such as machine learning, IoT, and decentralized finance are geared to further disrupt ..."
+    publishedDateTime: 2024-03-14T16:06:00Z
+    webUrl: "https://www.bworldonline.com/special-features/2024/03/15/581775/transforming-financial-services-in-the-age-of-innovation-and-inclusion/"
+    ampWebUrl: "https://www.bworldonline.com/special-features/2024/03/15/581775/transforming-financial-services-in-the-age-of-innovation-and-inclusion/?amp"
+    cdnAmpWebUrl: "https://www-bworldonline-com.cdn.ampproject.org/c/s/www.bworldonline.com/special-features/2024/03/15/581775/transforming-financial-services-in-the-age-of-innovation-and-inclusion/?amp"
+    type: article
+    provider:
+      name: BusinessWorld
+      domain: bworldonline.com
+    quality: 24
   - title: "Advancing Equitable AI in the US Social Sector"
     excerpt: "How thoughtfully designed AI-powered applications can drive stronger and more equitable outcomes for nonprofits."
     publishedDateTime: 2024-03-12T12:38:00Z

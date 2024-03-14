@@ -104,6 +104,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Google DeepMind introduces SIMA, an AI-based virtual gaming partner: Know what all it can do"
+    excerpt: "Google's SIMA AI agent, equipped with natural language instruction and image recognition capabilities, learns and adapts gaming skills from diverse environments, partnering with game studios to enhance its capabilities."
+    publishedDateTime: 2024-03-14T07:26:00Z
+    webUrl: "https://www.livemint.com/ai/google-deepmind-introduces-sima-an-ai-based-virtual-gaming-partner-know-what-all-it-can-do-11710400937006.html"
+    ampWebUrl: "https://www.livemint.com/ai/google-deepmind-introduces-sima-an-ai-based-virtual-gaming-partner-know-what-all-it-can-do/amp-11710400937006.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/google-deepmind-introduces-sima-an-ai-based-virtual-gaming-partner-know-what-all-it-can-do/amp-11710400937006.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 63
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2024/03/14/1600x900/SIMA_1710401035161_1710401047312.webp"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "LRI601wFlE9UKBxCjXEKqXIUXjw43npxZBUOc/BOuNanKrA87X73c488nGQ7Qoabv2MPyM1cQO8t1ULYTDGiXV/+vXI20eucrHcj2u4btmjGYejHUfwxWU5nMOLcKM81aenweFyY/EAgQ3hm79H/U9NsY7y8Hokrz7MUj1KFoP8JLWI2biDT6fVeKZpDtflASR1lGr9htV89A3aaQU7jA/4093UmNNuW1K4qNxkcJoa9YBT/rOaKXfx27K+zuEjdLEHYK31cOd/LjGBQwrE3MKveJfduvqVHaPQZg9kQ5iggU4i69J9kRkADjMIWJCWahgbwwxlPXtIc3ift169XvIXZnoWrYYeH5zbBV0wwzVsMurLLtvL03DDhQ0mO4QEbhMqsNwOMbdS7yRpOtzhgEDLMNTb5s42U5WQew5tuBPtOWVICCP/PlhlOLF+2DkXeLTulOr9DcraPco0DYFZhPxGxP2C/D59QH9Pg69TkFZRomWAr7Qygh3ZLMveRW7OOXaO32jWaSvYRyUEb94r1eA==;Lrn3Naaym6WEaer+Jyv4Vg=="
 ---

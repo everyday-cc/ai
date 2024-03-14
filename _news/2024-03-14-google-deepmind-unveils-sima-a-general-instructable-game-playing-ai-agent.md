@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How AI In Sports Can Score For Environment And Climate"
+    excerpt: "From athlete injury prevention, predictive modelling, gamification and strategy creation are energy efficiency, we explore how AI can support sport and the environment"
+    publishedDateTime: 2024-03-12T09:01:00Z
+    webUrl: "https://www.forbes.com/sites/clairepoolesp/2024/03/12/how-ai-in-sports-can-score-for-environment-and-climate/"
+    ampWebUrl: "https://www.forbes.com/sites/clairepoolesp/2024/03/12/how-ai-in-sports-can-score-for-environment-and-climate/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/clairepoolesp/2024/03/12/how-ai-in-sports-can-score-for-environment-and-climate/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65d0cc81a0825e355be6d66a/0x0.jpg?format=jpg&crop=3029,1702,x0,y30,safe&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 899
+        isCached: true
   - title: "Google DeepMind’s SIMA AI agent can play video games its never seen before"
     excerpt: "Google LLC’s artificial intelligence research unit DeepMind today revealed it has been experimenting with a new kind of AI agent that can carry out multiple kinds of tasks in 3D video games that it has never played before."
     publishedDateTime: 2024-03-14T01:11:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/alexknapp/2024/03/11/basecamp-researc
 webUrl: "https://www.forbes.com/sites/alexknapp/2024/03/11/basecamp-research-protein-folding-ai-deepmind-alphafold/"
 type: article
 quality: 86
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -103,6 +103,22 @@ related:
       - url: "https://itc.ua/wp-content/uploads/2024/03/unnamed.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Google DeepMind introduces SIMA, an AI-based virtual gaming partner: Know what all it can do"
+    excerpt: "Google's SIMA AI agent, equipped with natural language instruction and image recognition capabilities, learns and adapts gaming skills from diverse environments, partnering with game studios to enhance its capabilities."
+    publishedDateTime: 2024-03-14T07:26:00Z
+    webUrl: "https://www.livemint.com/ai/google-deepmind-introduces-sima-an-ai-based-virtual-gaming-partner-know-what-all-it-can-do-11710400937006.html"
+    ampWebUrl: "https://www.livemint.com/ai/google-deepmind-introduces-sima-an-ai-based-virtual-gaming-partner-know-what-all-it-can-do/amp-11710400937006.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/google-deepmind-introduces-sima-an-ai-based-virtual-gaming-partner-know-what-all-it-can-do/amp-11710400937006.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 63
+    images:
+      - url: "https://www.livemint.com/lm-img/img/2024/03/14/1600x900/SIMA_1710401035161_1710401047312.webp"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "mLKcDOpNgoiiku7PniRXt5EVLaxqe/HUM9DNxf/3EK3/OsXzPEQG/aXEoNtp1w0Ebq7Qd0JYrjGINlA9mwUAp8RdOqwmhfGMfB81u+oMgO7eaEm1VmgbIzNjvhT9h903/XkGPRIyHFPuP1Uy6zJ4Syv+ylU3TiP6D9iCfXGHJ3Xl2qyM54IlzLLKMDNxY6ZEs58kEfjRELC7ufsJ/jce9pewMcs76cHs809FKuM5S/jExUG6JybE1ywuEZ8nQIPqM5U8pyzmBF/qprRFRFymWim6vInqICtGKDgV3cNsGbEQhhX0c1+gNzUJ7OIboE2cx8DIr41c73dd2Ui9AZvzryTtujFnuZ9rs1tdUI5hUi0x7eAIXAP/6v9zZWX+nvd4UuldjpCyxd/fgbMVZdXXv2hE1nwYbFMfpO2Ou546CVzuexFMcsAzbb5r6V474dguDCWYh7T5s3fOMgDFqsbwafIG7gx7Q4CVnmpQKqsGxFk53m82DtUFE6hEmXG7pXMztY+tGSJw2BBu/mMGtJ3YWw==;GsUG1zmRUnZvnFYncDm8bg=="

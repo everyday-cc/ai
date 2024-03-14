@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Is This Fintech Stock a Buy Now?"
-excerpt: "Real-time index price for TSX Income Trust Index (RTCM), along with buy or sell indicators, analysis, charts, historical performance, news and more"
-publishedDateTime: 2024-03-12T19:41:00Z
-originalUrl: "https://www.theglobeandmail.com/investing/markets/indices/RTCM/pressreleases/24735863/is-this-fintech-stock-a-buy-now/"
-webUrl: "https://www.theglobeandmail.com/investing/markets/indices/RTCM/pressreleases/24735863/is-this-fintech-stock-a-buy-now/"
+excerpt: "Fintech companies use technology to deliver financial services and solutions. These companies use cutting-edge tech - which could include artificial intelligence (AI), machine learning, blockchain, data analytics, mobile apps, and more - to improve and ..."
+publishedDateTime: 2024-03-12T21:04:00Z
+originalUrl: "https://www.nasdaq.com/articles/is-this-fintech-stock-a-buy-now"
+webUrl: "https://www.nasdaq.com/articles/is-this-fintech-stock-a-buy-now"
 type: article
-quality: 4
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: The Globe and Mail
-  domain: theglobeandmail.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI in Finance
@@ -66,6 +66,6 @@ related:
       domain: fintechmagazine.com
     quality: 4
 
-secured: "FAfuIl3pt+5JjAadB0IBEMCs6yn0t5AZjKFa9Vxquch66oksFV+9Kh4DzHfDabJjF1uNx9aINPXqR/m90pie238ICE+g6ZVED7q0+J+z2/1jApXO/BE09QwSrj4j+1T2OzZWUYTyPfDl4Zv98o7d1+jjFAnlMMIcRoReH7X35GZZt8iJ50Xhd2aggLq66gZR511LMzecoefX2chb9Xe5TSqefgKJ0hUJ+hy51kFJkHyoTHAHlnFPkFyY6nSiK+YEBNpJvtz+T89e5WoUB+Ql+xKpiLayxcQpKvmdhaeYgnrkQmqwNi/qLh4ZiFMSEAtk9nX03CfbZag6e4704LsG9hQq/ncsVgYmaITGpXvRebo=;jF/+x4CnHnqhgaGwPOuApA=="
+secured: "PTbZFubW0jA4sWfXN8wwfhYGF3M8jb5zJrBNa4+/2dVd+u2T3NARq6tUy1tIHxWJN0sxbtRx7jF9PUbtFAU+RR1Dq+pvXeyBixDpB6QmONjoakJEPa9MNBCsbKDmSz9Fx6wd2MFgP3aZ2AxquH/CSimEO881UBqECwORmk8raKNzi6/0UV3R0bdREZwBLpmTbCtruPDU9ADt9VPOm6djnsbbAVoXY3ZNyGKvKbbDjU4XJG9m8BKAKkhRNDjR2xw5o5iwg5ayLKQs6G9YeG5z2xr7O+0fx4LSXhw6uzDxCBA0v0o5XXmvV+A/ZntKSEIL0UPX/EigyR6PD8sTsEmJglA1PYAx6vmgVqrrWAQDz38=;Gqo4aQ+UjLdU1ENIdFnbeA=="
 ---
 

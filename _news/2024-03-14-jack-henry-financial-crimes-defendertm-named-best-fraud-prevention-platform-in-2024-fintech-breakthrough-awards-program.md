@@ -7,7 +7,7 @@ originalUrl: "https://stockhouse.com/news/press-releases/2024/03/14/jack-henry-f
 webUrl: "https://stockhouse.com/news/press-releases/2024/03/14/jack-henry-financial-crimes-defender-tm-named-best-fraud-prevention-platform-in"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "Obligo Wins \"Open Banking Innovation Award\" in 2024 FinTech Breakthrough Awards"
+    excerpt: "Annual Awards Recognize Outstanding Financial Technology Products and Companies Around the World"
+    publishedDateTime: 2024-03-14T17:37:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/14/9978703.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
 
 secured: "Eicyr8hTsEnsLia+1KPAfAHuG97CgqhhyGDowNcere3p7cWHCle0J1F3jlLoF11Dtnjy6lj+zJ131PdXw6qjqbbkiQgGPBggkJdpKqXEr3yDs8zhyP1e39M/lzNTmqj0K4zKbOuzCi9Z8G4F/YLtoGqwfNGqZ03rEBTz1D2vT+UgLh1SsUUlOoTXwKp5AqB+b+0ifowTrwCFUFFMe3IGFXVq7fV6PBXw7/Np23vqBSFwnEcXeUAPfNsMQfpH0Ms9rm7MNELbOLKhKMo2nXXMk2tP8UNNbuxd3a4ZbJXacjmubpqDxLwmhfSoUuVTc58zntojAf2pilqgD0i7kRyUL/KVyLuTddOBB5TdFnT7L+Y=;+ZAEmg2cxNY8yumNLerxkg=="
 ---

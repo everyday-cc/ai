@@ -6,8 +6,8 @@ publishedDateTime: 2024-03-14T12:30:00Z
 originalUrl: "https://arstechnica.com/security/2024/03/hackers-can-read-private-ai-assistant-chats-even-though-theyre-encrypted/"
 webUrl: "https://arstechnica.com/security/2024/03/hackers-can-read-private-ai-assistant-chats-even-though-theyre-encrypted/"
 type: article
-quality: 46
-heat: 46
+quality: 68
+heat: 68
 published: false
 
 provider:
@@ -20,7 +20,14 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
-secured: "ERCWOLB/uqlcZDybYpxXdbhXOgQqPECdlq150iCeJAenEYcrZ6gTM9WNMsYok9KGE9WzKIP6IItLGQkV3U7ir5B0zOp0CzgjCH6UdWbUF3QH6ue9oGClZRAXCZQdcfiJZ+T37OCC/pwXNmjD06bXGj0uS4+rf/GrAUBCFJZISSa8U+uQAacpEEckelywfa5+woFWo9QP+OQC9O7FPAjlv9l0QPxwgVG4v6as2YEpGhGUgBlPSiMc4QJ3MbP1M+iPv+V9z/x4utma7cvIg+HfMQyH8/d/YmtaHhlggQFT0aBzeCrhYsYv0P36Zv0+2s+REGp8m6Ull+N/sLJNakRCy9Jhplv2jOMldpQWZQdaCfECdSN1xHIR47vGgTNMvnS08nw/1oKhg4pb7RCwmhemQQ4v28M4LlTYl9tnLbsxBvW+Lo2UzyLA7UPjtMpguWigrPE0PzF8Oj2klEgUGgtXXipqEn/pRUJacMGcQ0f434bhWPPCyeLgpYb/K03vy4z+khs491VrRhSfsWsljZfwnA==;ph27eYhjHsf7A+qekxrIxw=="
+images:
+  - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/03/hacking-private-ai-chats-760x380.jpg"
+    width: 760
+    height: 380
+    isCached: true
+
+secured: "ssg9LbXowjY/Hh4d6vEZ1/cb7T0Zs3AKf53fVhuk96WVTaEqVAu8nFATXURsBFqadqm2VGKKp7nlrsZutXZz61omoExQx1xTg6J+wPrNzsJr5CbvAk2t6/XrlCJX2avrFaF5BFfL7n59Oh1swvtHFfgQYy9Lr3enPejqeRkSjG5iXQ85/Ipogw/QuBL0/3p+RN8RAw7afYtYKHmTMq7nabMzZrivnVSAcvXb7K0U/OQrYkiWdahLX63PyGWMtUe2yIzAkbuUJAKT6gfGo+objYZ2jt40uO2dydUZ1Co/3+DVS8cCXSc/W+psc5sN3SAvlATw2bc8UhYObQYX4CSayyR0shFLlyeKhRKNgw181es=;z7QcXQu37BSoBbjgKsHNQg=="
 ---
 

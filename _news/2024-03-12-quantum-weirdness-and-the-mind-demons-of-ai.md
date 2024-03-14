@@ -9,8 +9,8 @@ ampWebUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202403/quan
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-digital-self/202403/quantum-weirdness-and-the-mind-demons-of-ai?amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Psychology Today
@@ -26,6 +26,17 @@ images:
     isCached: true
 
 related:
+  - title: "The Blessings and Burdens of AI That Never Forgets"
+    excerpt: "On the surface, the idea of an AI assistant that never forgets a single moment of our shared history is an undeniably alluring prospect. Imagine ha"
+    publishedDateTime: 2024-03-14T15:30:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202403/the-blessings-and-burdens-of-ai-that-never-forgets"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202403/the-blessings-and-burdens-of-ai-that-never-forgets?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-digital-self/202403/the-blessings-and-burdens-of-ai-that-never-forgets?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 37
   - title: "Tech experts assess the benefits and pitfalls of artificial intelligence"
     excerpt: "Design software company Canva could list “in the next couple of years”, co-founder Cliff Obrecht told a Sydney business conference on Tuesday."
     publishedDateTime: 2024-03-12T08:14:00Z

@@ -43,6 +43,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Story Protocol Works With Crypto-AI Firm Ritual To Train and Track Models On-Chain"
+    excerpt: "Story Protocol, a blockchain-based IP-tracking platform, has partnered with the AI startup Ritual to let builders create AI models and track their outputs on-chain. Story Protocol raised more than $54 million last year from the likes of Andreessen Horowitz ..."
+    publishedDateTime: 2024-03-14T11:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/currencies/story-protocol-works-with-crypto-ai-firm-ritual-to-train-and-track-models-on-chain-1033165206"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 41
   - title: "Coinbase Issues ‘Contrarian’ Crypto Warning, Says Value of Artificial Intelligence Altcoins Overstated – Here’s Why"
     excerpt: "The biggest crypto exchange in the US is giving a warning in regards to the artificial intelligence (AI) narrative within the digital asset space."
     publishedDateTime: 2024-03-11T16:56:00Z

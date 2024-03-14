@@ -39,6 +39,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "Global FinTech Innovators Recognized in 8th Annual FinTech Breakthrough Awards Program"
+    excerpt: "The FinTech Breakthrough Awards is the premier awards program founded to recognize the FinTech innovators, leaders and visionaries from around the world in a range of categories, including Digital Banking,"
+    publishedDateTime: 2024-03-14T14:50:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/14/9978543.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 16
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "5Mu5ahIOAsdb8uyc2v1uvw3YNW+S2mv7pKhcXLxqEeHM6G2TtTk9uz0n0Dt/i5K71D4jfXbkvB+HN3o7o8kZbPGdaDHljWUlQrCR/qwmvCWO4b/6ic3CrH4tSxHb+XMbc+C/HM0m2hm3mTzLZxDmL/U/UnAcWTCcm3ClqlL8iwjaLmRAByaDKbiDQmj0Uxsgv4zUYIuZ1Z2GvehLTlhGU+nywuJNaP26I8Iy3jc3fpTtZp9WNtyuzajyWttF2QR2zKRi2JAiFNN6MR5tmjHqKiKGiyUfvHTDvW3beKabYHqUmC5UWsMXYxtGVmZzy9IZKpFW2iJ9xdBPYkFKgM5Z9F22rwbZCVSReAvP2jmK9oI=;uHJx7eoreAc1pnfjLkeyxg=="
 ---

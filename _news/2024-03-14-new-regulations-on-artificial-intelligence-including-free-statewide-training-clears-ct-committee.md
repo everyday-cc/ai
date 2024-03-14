@@ -34,6 +34,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Forbes Daily: How European Union’s AI Act Aims To Regulate The Technology"
+    excerpt: "The European Union approved the world’s first regulations on artificial intelligence, amid growing concerns that ... or medical devices will face more regulations, for instance. Waymo, Google parent Alphabet Inc.’s self-driving vehicle unit, is ..."
+    publishedDateTime: 2024-03-14T12:11:00Z
+    webUrl: "https://www.forbes.com/sites/forbesdaily/2024/03/14/forbes-daily-how-european-unions-ai-act-aims-to-regulate-the-technology/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 68
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65f2e8d5022306b37a30e4a1/0x0.jpg?format=jpg&crop=3000,1687,x0,y185,safe&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "EU enacts landmark AI law to protect citizens' rights and prevent risky uses of artificial intelligence"
     excerpt: "What just happened? European Union lawmakers on Wednesday voted overwhelmingly to enact a landmark law governing artificial intelligence. Called the AI Act, the new regulation was approved by 523 votes to 46 and is expected to change the way AI is used by ..."
     publishedDateTime: 2024-03-14T00:01:00Z

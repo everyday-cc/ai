@@ -7,7 +7,7 @@ originalUrl: "https://www.hemeltoday.co.uk/education/official-opening-of-kings-l
 webUrl: "https://www.hemeltoday.co.uk/education/official-opening-of-kings-langley-sixth-form-and-recognition-of-service-of-the-chair-of-governors-4552512"
 type: article
 quality: 26
-heat: 26
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Voice Cloning in Education: Bridging Language Gaps in Learning Environments"
+    excerpt: "In education, language barriers might be severe obstacles for students globally. With the increased use of online learning platforms, especially during and post-COVID-19 pandemic, the need for flexible and inclusive educational platforms has become increasingly common in academic institutions globally."
+    publishedDateTime: 2024-03-12T00:00:00Z
+    webUrl: "https://cursus.edu/en/30329/voice-cloning-in-education-bridging-language-gaps-in-learning-environments"
+    type: article
+    provider:
+      name: cursus.edu
+      domain: cursus.edu
+    quality: 39
+    images:
+      - url: "https://cursus.edu/storage/images/XywRtjMfb0C5C6XA7zcLHA19xEBnOKRe06D3Q90G.jpeg"
+        width: 300
+        height: 322
+        isCached: true
 
 secured: "o6MRMVjcil/YFS5lHMfxdteK339Yqkilom9U0eS6oWsSNWj/WBSjnp7JhLEh4zQSRM+xmoPMS0rE62aw5gWcnZscHe9Gg2Ut2czwlktRl2XwVL8dJA1mNnwj2/LQZilrMek+JaGvSubhszRL7lzk7I3+V3Xb11cLA5fajcDaK1213lCVeJj5jKEhrv3bUj9riAbky9YCe/rah00uiDSumgCSjpTFucFNU9Rs0xi2/LZLyxzOBJJGom7faeNnVTcndXob39Im1RuVdXwDjkbAMMdCWfXTKyLzxy09UF+GWbx1UaFWZm85id77AwYTeEZ9cdp2YhVog8RJ4fwnu0yiUP/TBeRNVqhjhvddEN3gNhk=;Ob3FagEK1XpLKElyucNzLQ=="
 ---

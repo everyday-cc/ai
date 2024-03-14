@@ -25,45 +25,42 @@ images:
     isCached: true
 
 related:
-  - title: "Maximizing business outcomes and scaling AI adoption with a Hybrid by design approach "
-    excerpt: "Businesses aiming to derive value and harness the potential of artificial intelligence (AI) must adopt an intentional approach. \nThe post Maximizing business outcomes and scaling AI adoption with a Hybrid by design approach  appeared first on IBM Blog.\n"
-    publishedDateTime: 2024-03-14T12:00:00Z
-    webUrl: "https://www.ibm.com/blog/hybrid-by-design-approach/"
+  - title: "Key Principles for Interpreting Dreams with AI"
+    excerpt: "Such general guidelines are familiar to anyone who has done research or therapy with dreams over the past few decades, and there seems no reason why the same principles should not apply to this new technology, too. Following these guidelines will enable ..."
+    publishedDateTime: 2024-03-10T12:21:00Z
+    webUrl: "https://www.psychologytoday.com/za/blog/dreaming-in-the-digital-age/202403/key-principles-for-interpreting-dreams-with-ai"
+    ampWebUrl: "https://www.psychologytoday.com/za/blog/dreaming-in-the-digital-age/202403/key-principles-for-interpreting-dreams-with-ai?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/dreaming-in-the-digital-age/202403/key-principles-for-interpreting-dreams-with-ai?amp"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 91
-  - title: "Tackling deforestation and forest degradation with AI and remote sensing"
-    excerpt: "Deforestation and forest degradation are both significant conservation issues. But charities around the world are starting to use advanced technologies, such as AI and remote sensing, to get on top of the challenge."
-    publishedDateTime: 2024-03-13T09:12:00Z
-    webUrl: "https://diginomica.com/tackling-deforestation-and-forest-degradation-ai-and-remote-sensing"
-    ampWebUrl: "https://diginomica.com/tackling-deforestation-and-forest-degradation-ai-and-remote-sensing?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/tackling-deforestation-and-forest-degradation-ai-and-remote-sensing?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 58
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 59
     images:
-      - url: "https://diginomica.com/sites/default/files/images/2024-03/IMG_2082.jpeg"
-        width: 640
-        height: 427
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2024-03/IMG_8627.JPG.jpg?itok=5609qzT5"
+        width: 1528
+        height: 800
         isCached: true
-  - title: "Verve relaunches as the artificial intelligence, human and cultural understanding business"
-    excerpt: "Verve today relaunches as 'the artificial intelligence, human and cultural understanding business'. The announcement follows Verve’s new strategy of ‘combining artificial intelligence with human intelligence and cultural intelligence in order to help ..."
-    publishedDateTime: 2024-03-13T09:35:00Z
-    webUrl: "https://www.bizcommunity.com/article/verve-relaunches-as-the-artificial-intelligence-human-and-cultural-understanding-business-783822a"
+  - title: "Key Principles for Interpreting Dreams with AI"
+    excerpt: "Such general guidelines are familiar to anyone who has done research or therapy with dreams over the past few decades, and there seems no reason why the same principles should not apply to this new technology, too. Following these guidelines will enable ..."
+    publishedDateTime: 2024-03-13T05:11:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/dreaming-in-the-digital-age/202403/key-principles-for-interpreting-dreams-with-ai"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/dreaming-in-the-digital-age/202403/key-principles-for-interpreting-dreams-with-ai?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/dreaming-in-the-digital-age/202403/key-principles-for-interpreting-dreams-with-ai?amp"
     type: article
     provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 27
-    images:
-      - url: "https://biz-file.com/c/2403/730496.jpg"
-        width: 700
-        height: 364
-        isCached: true
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 39
+  - title: "Quantexa Decision Intelligence Platform to Help Enterprises with Getting Data Ready for AI"
+    excerpt: "Quantexa, a firm focused on decision intelligence solutions for the public and private sectors reveals its Decision Intelligence Platform roadmap."
+    publishedDateTime: 2024-03-13T16:27:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/03/222606-quantexa-decision-intelligence-platform-to-help-enterprises-with-getting-data-ready-for-ai/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 11
 
 secured: "uVdQmQlBB3C856GNw9QHd2e+fIpdJ+A6nTLXBwK2yFnduktkk9ojaOF0XeiX/U8rDY5f67R9xhGuGSmreleSBU5kB6DaVeV7FpOcOLYzwJ/7rMiXVQJffBsH7GGSWylMfpkbN7GJ/lZ3Jx/yf0acPTCk7z3Ahi5vQhlEA2q26laaOaYNUSt5LVSmoSb9vagZp805ie2EBBRD2xHN4WWKmk0jdWrxNV6PFetuRlt75LWNHW70FG48zLVBmsHx+CUhWo+Z2RbNHSifpBrhMjw5EHKDdrsap5n/ebpKYLcb+DFJqn88ebpJsSD+LS6ngqvaZ/6hc1QZoYPQ7H0HvOrMC0vZ76D3CFrbMn3UjNPWcOtFD2hbilM1oK0y/NVnNPW2oQ20mde/L8fPzxq/OPUzThJ2+Gh8Jc4fSyKULIuWbV3JJ+iUXuQ4N560aJK7rOcHl85N40dqi0Huma/UylNetwXOpMTJtWB3iDQFScxjIikd/1meufDh1D/DLDBQSJNrDZ2zchQlWSeM95ArEF2qGQ==;YXoLRTYKo2+lQq3sppiSKg=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2024-03-14T14:36:00Z
 originalUrl: "https://www.healthcaredive.com/news/hhs-artificial-intelligence-task-force-details/710250/"
 webUrl: "https://www.healthcaredive.com/news/hhs-artificial-intelligence-task-force-details/710250/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI Ethics
 
 images:
   - url: "https://www.healthcaredive.com/static/img/article-signup.png?320916100822"

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Akamai and Neural Magic Partner to Accelerate Deep Learning AI"
-excerpt: "Companies announce plan to deploy high-powered deep learning artificial intelligence software at a massive global scale . CAMBRIDGE, Mass.,  /PRNewswire/ -- Akamai T"
+excerpt: "Akamai Technologies (NASDAQ: AKAM), the cloud company that powers and protects life online, and Neural Magic, a developer of software that accelerates artificial intelligence (AI) workloads, today announced a strategic partnership intended to supercharge deep learning capabilities on Akamai's distributed computing infrastructure."
 publishedDateTime: 2024-03-12T11:51:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2024/03/12/9976460.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2024/03/12/9976460.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-akamai-neural-magic-partner-accelerate-deep-learning-ai-/2024/03/12/9976460.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-akamai-neural-magic-partner-accelerate-deep-learning-ai-/2024/03/12/9976460.htm"
 type: article
 quality: 34
 heat: -1
@@ -78,6 +78,6 @@ related:
         height: 552
         isCached: true
 
-secured: "jsOYMXWOoeZ76pDzHbqTyEsv17FRa9uNc3sKcLkcltDKdq1f7u7dDPzjuxbpz3pFQpJ/I5e0j0TESTxIAHvz3HvXaepU00Zi71oyeVY+1HZBMg1G3R2mdX1CNGXnpID/0uOm2G1s56gdOs8CuWp9qSaYoBSwRtxHwxx3lX2xtWCDFs34SF0KUzZ+V/9a7CKe4r7XXbq99JCaHOpViJVIeDisLxx5yeL+bxAsn3ZQ5AEHOAD3OK6uQITMcQlU/6IQf7Uny9NDy2rofVOjPCViFKdjwSrr8GOa7Jw1ZZ/7L4neWoW07B4EFG8kOujmKP5eaB3IBGN0p9AVFy7qbUEGcmyaAH1mGdIYN1UHTfUId7cYxASQVhoEHly5cDbsveUrkUovxVH+jUt0MIZFmokNWmyXJGOJDExR/mygEhOLsKlyDvKslc284ENneIiLgXwI3IBEr/o8UHrZoslxyX6zOcms4GVgrgh56Belj3yAOd+DQXAbTgoHeURYpNtRTw3dszoPLyXPhSt2tyFNkeJPfw==;2RSTMYMgQFJpKXbsC0quEw=="
+secured: "4a3YQt7mPYVHzYdJ1WjQ0bsqpdNqjy3wWkzpCyxQYD7W9BIhikyk/PT3dUeWHAPAdK3EDLL1Jqrdn3Nq8rQ5NzSHs/HeaXJSNh0nh++evqTtSthEVxGQ3a8UF9E+e+9GHV3o6ot/se4z+AkPGnds4rdyrBS8d73j5URA5Yyidw0mdZFo1TbRyjcEE5hXuUjQnxK1miyOO3nsmpjxWIq+UzGGXYlwL1JJodd7enKf72Wzi8k+KaefDK2Mkd3V7pGI5HWTGCnQgeTcsE12owAxtcedvj2Kdrv4BxDeUMIN1ce1GJhmzoPQD76AWnsRufT/B2ktshYrTQ6g8zLFkngaeJ86yt6oy+satDFwOlymJiVQFH/dET1FTRQc6dcFrz62uqNdRmgrKkYsxFn1lZg2BilPNa4cu8bC4UMOike9rnXi+6v/qHTm8KBt0WfjSBPdsgNSi5+q5kIKUaGpNcip3I0Ms9yCD37KbzUndHHiBBigXXHhDrgN8AhPipRr/UQphtqoDqDGwT6obAQPeIZCqg==;/GZOXWGeI2Cg4QG5G7ifBA=="
 ---
 

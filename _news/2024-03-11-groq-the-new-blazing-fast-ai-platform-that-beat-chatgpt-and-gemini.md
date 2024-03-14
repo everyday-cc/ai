@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Researchers Find Flaws in OpenAI ChatGPT, Google Gemini"
+    excerpt: "The number of generative AI chatbots and their adoption by enterprises have exploded in the year-plus since OpenAI rolled out ChatGPT, but so have"
+    publishedDateTime: 2024-03-14T15:53:00Z
+    webUrl: "https://securityboulevard.com/2024/03/researchers-find-flaws-in-openai-chatgpt-google-gemini/"
+    ampWebUrl: "https://securityboulevard.com/2024/03/researchers-find-flaws-in-openai-chatgpt-google-gemini/amp/"
+    cdnAmpWebUrl: "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2024/03/researchers-find-flaws-in-openai-chatgpt-google-gemini/amp/"
+    type: article
+    provider:
+      name: Security Boulevard
+      domain: securityboulevard.com
+    quality: 76
+    images:
+      - url: "https://securityboulevard.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
+        isCached: true
   - title: "How the A.I. That Drives ChatGPT Will Move Into the Physical World"
     excerpt: "In a move aimed at addressing fears that A.I. could be used to create bioweapons, over 90 biologists and other scientists have signed an agreement that seeks to ensure that their research will move forward without exposing the world to serious harm."
     publishedDateTime: 2024-03-11T16:00:00Z

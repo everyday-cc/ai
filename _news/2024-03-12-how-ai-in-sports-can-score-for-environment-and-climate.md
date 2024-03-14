@@ -30,24 +30,48 @@ images:
     isCached: true
 
 related:
-  - title: "How utilities can prepare for extreme weather with data and AI"
-    excerpt: "Today, utilities are meeting these challenges and risks with innovation by leaning on data and AI to prepare for the next event.\nThe post How utilities can prepare for extreme weather with data and AI appeared first on IBM Blog.\n"
-    publishedDateTime: 2024-03-12T12:00:00Z
-    webUrl: "https://www.ibm.com/blog/how-utilities-can-prepare-for-extreme-weather-with-data-and-ai/"
+  - title: "SIMA generalist AI agent for 3D virtual environments"
+    excerpt: "Introducing SIMA, a Scalable Instructable Multiworld Agent"
+    publishedDateTime: 2024-03-13T14:00:00Z
+    webUrl: "https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/"
     type: article
     provider:
-      name: IBM
-      domain: ibm.com
-    quality: 99
-  - title: "How Texas is preparing higher education for AI"
-    excerpt: "Texas colleges are thinking about how to prepare students for a changing workforce and an already overburdened faculty for new challenges in the classroom."
-    publishedDateTime: 2024-03-12T13:30:00Z
-    webUrl: "https://www.chron.com/news/houston-texas/education/article/texas-higher-education-ai-18920115.php"
+      name: DeepMind
+      domain: deepmind.com
+    quality: 89
+    images:
+      - url: "https://lh3.googleusercontent.com/2GNumOaJCB48RQIFbwJmmZro-AFdBebufxvY_ZkSdUs9RQ-0nSTgBMXuhUdIE5zpPknqevL4ZyP44PLOpJlg0U0ArlOCcJHfoOagzSnZZoXLnq7hdQ=w1200-h630-n-nu"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Google DeepMind Unveils SIMA, a General, Instructable Game-Playing AI Agent"
+    excerpt: "SIMA has been trained across multiple games, including collaborations with eight game studios, and tested on nine different video games, such as No Man’s Sky by Hello Games and Teardown by Tuxedo Labs"
+    publishedDateTime: 2024-03-14T05:01:00Z
+    webUrl: "https://analyticsindiamag.com/google-deepmind-unveils-sima-a-general-instructable-game-playing-ai-agent/"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 34
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 52
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2023/06/Neo4js-Role-in-Fueling-Generative-AI-with-Graph-Technology-1-768x432.jpg"
+        width: 768
+        height: 432
+        isCached: true
+  - title: "Google DeepMind’s SIMA AI agent can play video games its never seen before"
+    excerpt: "Google LLC’s artificial intelligence research unit DeepMind today revealed it has been experimenting with a new kind of AI agent that can carry out multiple kinds of tasks in 3D video games that it has never played before."
+    publishedDateTime: 2024-03-14T01:11:00Z
+    webUrl: "https://siliconangle.com/2024/03/13/google-deepminds-sima-ai-agent-can-play-video-games-never-seen/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 52
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/03/image_2024-03-14_075904408.png"
+        width: 959
+        height: 531
+        isCached: true
 
 secured: "FR8RzNhGeYNidEntJWw16Pl8eZaf7qiOtUZlzG9ycCfaYaObEG5Q2ccqENg1tHmC1oN2ERj+Sts3aNy+F8Y1kkT0DDfJDYJlNK0WnnoTEi0rBctLKsVCsxMeurpQlnRkqwI/vXSpX19ouTRdLRen2EOkOFeSKilKsfphJvoVhV+emhZl3DYFjhW2w+n8X9j50JJZa1kPPpwq/kqYWiHIWUA4dSfQTDfzhO3jsyrLHzty9dDiqUElIy5WM9F7+qy3pvrmzPKBLBFsn9+H/JtoZNKbxArfkUg43GrLPotx1FK+SGYtAu7TfXO7248ZXX82SoDno35DiqnDIhwPmB+KhBkiPqKfeL0rXVcan/SRtE8=;8GhWIkY/xZKjdVWHEgjxzA=="
 ---

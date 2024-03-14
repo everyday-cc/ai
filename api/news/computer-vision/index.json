@@ -55,6 +55,58 @@
       ]
     },
     {
+      "path": "_news/2024-03-12-nanonets-gets-accels-backing-to-improve-ai-based-workflow-automation.md",
+      "title": "Nanonets gets Accel’s backing to improve AI-based workflow automation",
+      "excerpt": "Prathamesh Juvatkar, co-founder and CTO at Nanonets, told TechCrunch that the startup initially used convolutional neural networks (neural network architectures used in computer vision for image classification and object recognition) to examine images and ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/03/12/nanonets-funding-accel-india/",
+      "originalUrl": "https://techcrunch.com/2024/03/12/nanonets-funding-accel-india/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/03/nanonets-founders.jpg?w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/03/12/nanonets-funding-accel-india/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/nanonets-funding-accel-india/amp/",
+      "publishedDateTime": "2024-03-12T12:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-12-metas-ceo-disses-apples-vision-pro.md",
       "title": "Meta’s CEO Disses Apple's Vision Pro",
       "excerpt": "Despite acknowledging the Vision Pro's entertainment capabilities ... Alternatively, one could buy a multi-use computer, including the early Macintosh, and do word processing. By the 1980s, the word processor had become a much more affordable option.",
@@ -1303,49 +1355,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-25-department-of-computer-science-and-software-engineering.md",
-      "title": "Department of Computer Science and Software Engineering",
-      "excerpt": "image processing & computer vision, high performance computing, and cybersecurity. Is it any wonder that growth in the number of software developer positions is expected to increase 25% in the next ten years and that Baron's magazine recently identified ...",
-      "sourceUrl": null,
-      "webUrl": "https://miamioh.edu/cec/departments/computer-science-software-engineering/index.html",
-      "originalUrl": "https://miamioh.edu/cec/departments/computer-science-software-engineering/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://miamioh.edu/cec/departments/computer-science-software-engineering/_images/home/cse-landing-1200x800.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-25T14:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Miami University",
-        "domain": "miamioh.edu",
-        "images": null,
         "publishers": null,
         "authors": null
       },

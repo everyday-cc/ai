@@ -37,6 +37,20 @@ related:
         width: 1528
         height: 800
         isCached: true
+  - title: "Growth and recognition of exporting businesses with the aid of AI"
+    excerpt: "“The IEA is the connecting force for Irish exporters, providing practical knowledge and support across the Island of Ireland and in foreign markets – and, growing in strength and recognition each year, the Export Industry Awards (EIA) have been recognising the tremendous achievements of companies working in the exporting industry for 24 years."
+    publishedDateTime: 2024-03-10T00:38:00Z
+    webUrl: "https://www.businesspost.ie/commercial-reports/growth-and-recognition-of-exporting-businesses-with-the-aid-of-ai/"
+    type: article
+    provider:
+      name: The Sunday Business Post
+      domain: businesspost.ie
+    quality: 39
+    images:
+      - url: "https://imengine.public.prod.sbp.infomaker.io/?uuid=76c49c61-c138-5721-9b61-fb02297c05a6&type=preview&function=original"
+        width: 1600
+        height: 1066
+        isCached: true
   - title: "Quantexa Decision Intelligence Platform to Help Enterprises with Getting Data Ready for AI"
     excerpt: "Quantexa, a firm focused on decision intelligence solutions for the public and private sectors reveals its Decision Intelligence Platform roadmap."
     publishedDateTime: 2024-03-13T16:27:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.entrepreneur.com/business-news/how-are-editors-using-a
 webUrl: "https://www.entrepreneur.com/business-news/how-are-editors-using-ai-in-2024/471119"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: -1
+published: false
 
 provider:
   name: Entrepreneur
@@ -28,19 +28,44 @@ images:
     isCached: true
 
 related:
-  - title: "How Labor Unions Are Navigating AI"
-    excerpt: "Labor unions have an important role to play in ensuring that AI is a win-win for workers and employers and that good jobs exist in the innovation economy."
-    publishedDateTime: 2024-03-13T22:38:00Z
-    webUrl: "https://www.newamerica.org/education-policy/edcentral/how-labor-unions-are-navigating-ai/"
+  - title: "Will You Want An AI PC In 2024?"
+    excerpt: "From the recent MacBook Air product launch press release: “With the transition to Apple silicon, every Mac is a great platform for AI. M3 includes a faster and more efficient 16-core Neural Engine, along with accelerators in the CPU and GPU to boost on ..."
+    publishedDateTime: 2024-03-13T16:07:00Z
+    webUrl: "https://www.forbes.com/sites/tiriasresearch/2024/03/13/will-you-want-an-ai-pc-in-2024/"
+    ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2024/03/13/will-you-want-an-ai-pc-in-2024/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2024/03/13/will-you-want-an-ai-pc-in-2024/amp/"
     type: article
     provider:
-      name: New America
-      domain: newamerica.org
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://d1y8sb8igg2f8e.cloudfront.net/images/AI_Labor_Unions_Writers_Guild_of_.2e16d0ba.fill-1200x630.png"
-        width: 1200
-        height: 630
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65f231594bd589c2f720cec3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1252
+        height: 900
+        isCached: true
+  - title: "5 Indian AI Startups to Watch Out For in 2024"
+    excerpt: "It stemmed out of Microsoft Research in 2017 and currently has crossed 35,000 rural Indians with 40M+ paid in digital tasks. Microsoft, The Bill and Melinda Gates Foundation, and Google are all tapping into it to gather speech data. CoRover AI- CoRover.ai ..."
+    publishedDateTime: 2024-03-14T00:01:00Z
+    webUrl: "https://www.entrepreneur.com/en-in/news-and-trends/5-indian-ai-startups-to-watch-out-for-in-2024/471142"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 49
+  - title: "Taiwanese IC distributors to capitalize on handset and PC inventory shrinkage, AI chip boom in 2024"
+    excerpt: "Taiwan's major IC distributors, including WPG Holdings, WT Microelectronics, Supreme Electronics, and Edom Technology, anticipate several significant trends for 2024 in the semiconductor industry. These trends include the continuation of inventory clearance,"
+    publishedDateTime: 2024-03-14T08:10:00Z
+    webUrl: "https://www.digitimes.com/news/a20240314PD201/taiwan-ic-distribution-handset-ai-chips-pc.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 40
+    images:
+      - url: "https://img.digitimes.com/newsshow/20240314pd201_files/1_b.jpg"
+        width: 640
+        height: 427
         isCached: true
 
 secured: "L1rnkwekzO0JOKW/gTf/qF50FhGdW3MmPUT4K6CdZnMNUYWVs0Qr3c36y/nMwo7pq8tgs5WZIWMH/ByU0QxGceaSr0r4pBPEVjJr83jeC13+eL9hD0EhfmOYYBziVvR8D7FHvF7TC7H+h15A7pfQilbZ8l8FEa2Aw8aS8cLdcPR3jA9b8+SzINc/ZCbST/TttSsv5Ws5WGCFT9X+fxP5vaeB6BzrEE/4R9KvwzSRdjmNMfrGlvCGBSuk9ZjY3NzKCM7fua8uggQZ95wfndsPwrY20v7rr3wk/LqfkgZUIbfT/hOHVqHYpEt5D4ME0D6L1CiWvxwcjecFegzmDDlQtzwq7aTCSJJSUmaBtVONZedKYW/hlYtjLTDzTGU186ehvFkrrdUJBSKYz8XSFZyB/K4duNDlv64u28r2nW4FnCHcURLhCGc5klFbY94lNFrJMOR7DXumqEvrZFdbJWsRntDumeJBO0gvvVw9MhIJBAcqMjZsHlmv5Sf7h8AC+s7yOkYT+9MvMP/LciGM11erXw==;FeUkri20muHns2wwDgTa6g=="

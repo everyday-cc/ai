@@ -36,6 +36,17 @@ related:
         width: 1528
         height: 800
         isCached: true
+  - title: "The Blessings and Burdens of AI That Never Forgets"
+    excerpt: "On the surface, the idea of an AI assistant that never forgets a single moment of our shared history is an undeniably alluring prospect. Imagine ha"
+    publishedDateTime: 2024-03-14T15:30:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202403/the-blessings-and-burdens-of-ai-that-never-forgets"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-digital-self/202403/the-blessings-and-burdens-of-ai-that-never-forgets?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-digital-self/202403/the-blessings-and-burdens-of-ai-that-never-forgets?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 37
 
 secured: "9crM1wtELLbl+67Ck14caHphtlKanNQGk8Sv+uxQFTZfUWK6XviKdlcL7pMNbVhJ4jKae8+M2mb7/7v/ZVG9e/Loh4HGIVmgBnomSAx9Uu0HWwpHkcCEVoq1WIUcaTi2g+vxRhiay0cOuPqTmbyz/1X265VZACwYKM0eGWFNZmBcAoeYplol1nKx+O5CJoiuAipljg59wVqkyDt4hr4R6NLf+H5vSS8veqL7IxxKIGVILoGxkW3woA9/EZgbOcvz8122I0a0Q9U0ZGAgtakB455VNYdmFAZxmXw/1FMz4j6eBBPsBxl8PCivZ5ltFK5niqYUTxo1fG11E206JBWSvmrxxQ76Xb1jmNgfmBYEa87mzr/E+oaImNa5jWUOlCU5lVyuUE+seEryRw7Uyh2XVimaSVtmL8vM9GCactytp5PLWtcBkqsGoL3MCyFDUc38isgyYB5EhIWXtka7tXKeaOCEguEtEPDSv+pyP0smENFOOl40p3Q3Df9XhQwcqEEp5WEIkBkYkF9g76uvTlTFmQ==;AKNBQHVJR3LA1cw4uIDhBw=="
 ---

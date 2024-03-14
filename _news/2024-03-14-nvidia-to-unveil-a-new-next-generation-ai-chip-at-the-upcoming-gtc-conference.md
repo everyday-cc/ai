@@ -137,6 +137,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Meta is using two Nvidia GPU clusters to train Llama 3"
+    excerpt: "Meta has shared details on two of its new GPU clusters that each use 24,000 Nvidia H100 GPUs, which are being used to train its Llama 3 AI."
+    publishedDateTime: 2024-03-13T13:50:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/meta-is-using-two-nvidia-gpu-clusters-to-train-llama-3"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 56
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2024/03/AdobeStock_369529490.jpeg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Chip giant Nvidia sued by authors over AI use of copyrighted work"
     excerpt: "Nvidia has been sued by three authors who said that the company used their copyrighted books without permission to train its NeMo AI platform. According to a report by news agency Reuters, the authors Brian Keene, Abdi Nazemian and Stewart O'Nan said that ..."
     publishedDateTime: 2024-03-11T07:44:00Z
@@ -191,6 +205,20 @@ related:
       - url: "https://img.digitimes.com/newsshow/20240312pd229_files/1_b.jpg"
         width: 640
         height: 427
+        isCached: true
+  - title: "Nvidia Offers Developers a Peek at New AI Chip Next Week"
+    excerpt: "Nvidia will also likely introduce a raft of updates to its software known as CUDA, which provides tools for developers to run their AI programs on its chips, helping keep develope"
+    publishedDateTime: 2024-03-14T17:10:00Z
+    webUrl: "https://www.inc.com/reuters/nvidia-offers-developers-a-peek-at-new-ai-chip-next-week.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 54
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/nvidia-chip-jensen-huang-inc_538471_cempcm.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Meta has two new AI data centers equipped with over 24,000 NVIDIA H100 GPUs"
     excerpt: "By the end of 2024, Meta plans to have 350,000 NVIDIA H100 GPUs powering its AI infrastructure - it's all part of its 'ambitious' AI roadmap."
@@ -409,6 +437,6 @@ related:
       domain: usatoday.com
     quality: 13
 
-secured: "4G5v7kaWxnTlYVHTPeC5qlE4uJ6S+lNj0nMedge4QgkNUePrto2xaBI0YtoMky8nxazSub8twLjYk+O4DuzvGip8kNaGJx0LqOWEYFQIsRDCeWxDmvfZtL7GRa/m5D5dZeFxspEplqpU+OUDHuu0x8xwYCuLG3BQGnJjrYT4pMpHFuaMv7HcSKd96OLspL+BOimQ3fj4ARCiXcm6bJgVF/msJ9I2h4MEi042gh8Dybcnmk5fVj6PmGz9vPSRcS5A1OtjnqHj+Cd7yf65JO6aIY+wN9zjsH5u66dhNGV5cezpgeOZ/CudfFvjJkqtHC5tElr9v3PbAHbW4Pr2Z/tUW3ylKm+62XiBe1XTcq5OAq8=;W0UjvG1F0wKUg/mlawKm6w=="
+secured: "etIEZ7snDw54u9y7nKlK4WJ+BQsAoUVccHlwKXFc77QW3rxXiCj8SulZ868LerYwNd8gqVbwER5hWN2VRu+/Z5JcT2vAsU2BjXcBJDy5s6OnFG1tWsIizH+2MV8kVAx85UZCicpzVT0IkcwPZ4rrRqON1XS7eDw59vCJxsL+ODiYFgMwkhESlCc3zZPGlznEcFy+1DcQTMuHh2sLSjFyu41SPbCWbjYTCzuE9d9YRACDVMRA10h9O0G5XutS6O4Lu4XiWu9+pDaElRpMv7hkRo2p2Ouq1xHHMpTL8udxMNNAijgPE0jMBtbWNpvUOfROYCsYdpnSZ6cU/WScffuESDjguECkdlzh5+Te8xPx/wP10HZVbpacaSZXvZoD0tNdRcd8WluWbjKAUZpNA4hC1/UXLIO0svG2myGApwaXY5HZ4mfQttKkAFb3Z3hkc6bdDbgnlB5d7gEhrLyZNreCqMP4T53P15xpo8N2F+Xiq8/u6v/NxUGZXFFQJELBGBHP5MydOlir7DiDLcR8tzHRvw==;nr3sE0kP6nHkvRLegOlarA=="
 ---
 

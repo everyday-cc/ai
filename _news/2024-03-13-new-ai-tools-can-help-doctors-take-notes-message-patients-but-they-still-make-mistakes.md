@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/us/new-ai-tools-help-doctors-take-notes-mess
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/new-ai-tools-help-doctors-take-notes-message-patients-still-make-mistakes.amp"
 type: article
 quality: 78
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -58,6 +58,15 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Lost in translation: AI models can simplify post-discharge notes, but still make mistakes, study finds"
+    excerpt: "AI shows the potential to convert med-language into something more “patient-friendly,” but right now makes mistakes, researchers argue."
+    publishedDateTime: 2024-03-14T13:27:00Z
+    webUrl: "https://www.mcknightsseniorliving.com/home/news/tech-daily-news/lost-in-translation-ai-models-can-simplify-post-discharge-notes-but-still-make-mistakes-study-finds/"
+    type: article
+    provider:
+      name: McKnight's Senior Living
+      domain: mcknightsseniorliving.com
+    quality: 3
 
 secured: "TVmIALBY6JWjXcMK/yfkUm8rre9SboAOuxe+Nu9KjcL1Ex13Tb5zpkx/1BBWpByXIJ6DiWhcmAyzhE9ACKmOvCy9DVqpLSniYmva6lssep9ci4lW2jGmKUOUEgLWimaIaIGVp8vYrANWK+vkC2mVW841keD/uTc5tyPaxYuTbyIKb9LyIntdNyGDc8/GojZ0uvq621DcNNYn5Pa2Ps9ZkqrUxylOdLM2Mp+wtfebTD+HaCm7eI4oiJu588MidVtOaHxDHkgpdnw9OE2a5x0Pe+/SXKHlppCwxf88tGDQXH54+AkJYdfpBdojONTFu0hJJ+ACtDD4Uw44Rk5wTApVi/DP3ivlH77ZMTYyq36ODQM=;eqSaKAC/q4vYokHa7EsACA=="
 ---

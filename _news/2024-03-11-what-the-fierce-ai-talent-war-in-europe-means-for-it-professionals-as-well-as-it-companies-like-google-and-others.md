@@ -96,6 +96,15 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
+  - title: "EU Parliament passed landmark Artificial Intelligence Act for AI transparency and copyright"
+    excerpt: "Artificial Intelligence Act gets approved with a grand majority in the EU parliament with provisions to safeguard human rights."
+    publishedDateTime: 2024-03-14T12:40:00Z
+    webUrl: "https://www.medianama.com/2024/03/223-eu-parliament-passed-landmark-artificial-intelligence-act-for-ai-transparency-and-copyright/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 24
   - title: "High conviction stocks with exposure to AI in European data centers - MS"
     excerpt: "Artificial intelligence data center energy use is expected to rise from 1% to 4% of total power consumption by 2035, according to Morgan Stanley’s Utility team."
     publishedDateTime: 2024-03-12T18:39:00Z

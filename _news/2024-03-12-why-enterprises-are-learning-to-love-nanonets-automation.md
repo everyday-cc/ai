@@ -7,8 +7,8 @@ originalUrl: "https://www.forbes.com/sites/davidprosser/2024/03/12/why-enterpris
 webUrl: "https://www.forbes.com/sites/davidprosser/2024/03/12/why-enterprises-are-learning-to-love-nanonets-automation/"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,6 +30,31 @@ images:
     isCached: true
 
 related:
+  - title: "Nanonets gets Accel’s backing to improve AI-based workflow automation"
+    excerpt: "Prathamesh Juvatkar, co-founder and CTO at Nanonets, told TechCrunch that the startup initially used convolutional neural networks (neural network architectures used in computer vision for image classification and object recognition) to examine images and ..."
+    publishedDateTime: 2024-03-12T12:01:00Z
+    webUrl: "https://techcrunch.com/2024/03/12/nanonets-funding-accel-india/"
+    ampWebUrl: "https://techcrunch.com/2024/03/12/nanonets-funding-accel-india/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/nanonets-funding-accel-india/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2024/03/nanonets-founders.jpg?w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Accel Backs Startup Seeking to Use AI to Kill Finance Paperwork"
+    excerpt: "Nanonets, which uses artificial intelligence to help businesses square accounts and manage budgets, raised $29 million in an early round led by Accel India."
+    publishedDateTime: 2024-03-12T10:00:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2024-03-12/accel-backs-startup-seeking-to-use-ai-to-kill-finance-paperwork"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 64
   - title: "Nanonets, an AI-powered workflow automation startup, just raised $29 million with this 23-slide pitch deck"
     excerpt: "San Francisco-based Nanonets works with finance teams at large companies to automate workflows, reducing the time taken for manual tasks."
     publishedDateTime: 2024-03-12T12:28:00Z

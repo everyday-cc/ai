@@ -104,6 +104,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "EU Parliament passed landmark Artificial Intelligence Act for AI transparency and copyright"
+    excerpt: "Artificial Intelligence Act gets approved with a grand majority in the EU parliament with provisions to safeguard human rights."
+    publishedDateTime: 2024-03-14T12:40:00Z
+    webUrl: "https://www.medianama.com/2024/03/223-eu-parliament-passed-landmark-artificial-intelligence-act-for-ai-transparency-and-copyright/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 24
   - title: "Analysis-AI talent war heats up in Europe"
     excerpt: "An influx of artificial intelligence (AI) startups is heating up the battle for technical talent in Europe, leaving companies like Google DeepMind to choose between paying big or losing out on the region's best minds."
     publishedDateTime: 2024-03-11T13:03:00Z

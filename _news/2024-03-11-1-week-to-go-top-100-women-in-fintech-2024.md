@@ -47,6 +47,15 @@ related:
         width: 409
         height: 269
         isCached: true
+  - title: "Is This Fintech Stock a Buy Now?"
+    excerpt: "Fintech companies use technology to deliver financial services and solutions. These companies use cutting-edge tech - which could include artificial intelligence (AI), machine learning, blockchain, data analytics, mobile apps, and more - to improve and ..."
+    publishedDateTime: 2024-03-12T21:04:00Z
+    webUrl: "https://www.nasdaq.com/articles/is-this-fintech-stock-a-buy-now"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
   - title: "Stax founders launch new Orlando-based fintech Worth AI"
     excerpt: "Salman Rehmetullah and Suneera Madhani's fintech Worth AI aims to transform financial underwriting for small- and medium-sized business loans."
     publishedDateTime: 2024-03-12T10:00:00Z
@@ -56,15 +65,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
-  - title: "Is This Fintech Stock a Buy Now?"
-    excerpt: "Real-time index price for TSX Income Trust Index (RTCM), along with buy or sell indicators, analysis, charts, historical performance, news and more"
-    publishedDateTime: 2024-03-12T19:41:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/indices/RTCM/pressreleases/24735863/is-this-fintech-stock-a-buy-now/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 4
 
 secured: "aZO2CAspmxIg8H6LHNbPvi6Zskz5R9FeFHzSVIpC/chmI67n6l1D45qLGDWZDErB8k+rza7vN6Ot3zGt/6j8T+lGQ28mAFtjuWy95iDP90WlvtYEMzC2VlvpMpT7netPXMJoZZyuvKSezkfkWLZsPdk8OMXi7uaJ63C8HiDEGFUNjrr3wxV9252PW1jcxQ0RFGGNUFXR9gppMZARGrLhMgjvUZm2vf4fjDTsQcWzCwzxGkO/XIzTzPC7ltGN6dFpkJW3srIqCqFbXTFiHoEiITRc4us2G1LT2UG/X3MR032yig9V67AuqJPxIaPPQtPJbeST/hD3vmrzGCR/IGC0BPRUpsgVxjftosS8VKztDBjURfVoNXuPcm9is//pks15hrDycqw2UYEQVEQ8f3uGZ+xfXjWEPxz+mQ+N5vdLY5Vu6XRSOG0rTRj/RSL2Bs4zIkABOaWP4zSWCbSZyXKDCW6SPVP3f3LQq+uXHIT6a2tk9anz8ATVgBcEclXSGsTbyXq+GjakWWdLTduY5HXCCw==;94VGbRcXhq4qIgXFl2Rzdg=="
 ---

@@ -54,6 +54,15 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Lost in translation: AI models can simplify post-discharge notes, but still make mistakes, study finds"
+    excerpt: "AI shows the potential to convert med-language into something more “patient-friendly,” but right now makes mistakes, researchers argue."
+    publishedDateTime: 2024-03-14T13:27:00Z
+    webUrl: "https://www.mcknightsseniorliving.com/home/news/tech-daily-news/lost-in-translation-ai-models-can-simplify-post-discharge-notes-but-still-make-mistakes-study-finds/"
+    type: article
+    provider:
+      name: McKnight's Senior Living
+      domain: mcknightsseniorliving.com
+    quality: 3
 
 secured: "Hxv+8ZFxfrhLk2v4CEemRQIlH/MDKCJ/7JknIdDO75hipuQVH0AVvSWPnMyAFtwg2J6HHhIKNtKNdo1TAubSMycRV5zrLJI420iqiPduX7OSgXGIljvVnv9M/+0RPDTP13t7kLqmJlfazpg0R0rRNyZwYBVu6cxRs1GCfuR80WAOKkB+YfsOOe6zKXUZ9maNpkn/IOg4UlWtlgoSFbQny19Pl7bXH5T+XhlafQRl0H3NmAq2+7iIqn+R8rrypWF6C4fjaEzpSXZUPP7Zjv3+E5BJwBHTzMZ5p9sv6QDYvLBVElNwPtaW3oGSQSDgCtSs2OpqzD2cz8ewL3veggFFGMeuJHh7z6z3Bg5jYP905Qg=;eg3/nCIMlZLoSSyY1pIdIg=="
 ---

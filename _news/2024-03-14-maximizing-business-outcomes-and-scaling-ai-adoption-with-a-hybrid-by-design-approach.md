@@ -7,8 +7,8 @@ originalUrl: "https://www.ibm.com/blog/hybrid-by-design-approach/"
 webUrl: "https://www.ibm.com/blog/hybrid-by-design-approach/"
 type: article
 quality: 91
-heat: 121
-published: true
+heat: -1
+published: false
 
 provider:
   name: IBM
@@ -23,51 +23,44 @@ topics:
   - AI
 
 related:
-  - title: "Tackling deforestation and forest degradation with AI and remote sensing"
-    excerpt: "Deforestation and forest degradation are both significant conservation issues. But charities around the world are starting to use advanced technologies, such as AI and remote sensing, to get on top of the challenge."
-    publishedDateTime: 2024-03-13T09:12:00Z
-    webUrl: "https://diginomica.com/tackling-deforestation-and-forest-degradation-ai-and-remote-sensing"
-    ampWebUrl: "https://diginomica.com/tackling-deforestation-and-forest-degradation-ai-and-remote-sensing?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/tackling-deforestation-and-forest-degradation-ai-and-remote-sensing?amp"
+  - title: "Tackling AI’s data challenges with IBM databases on AWS"
+    excerpt: "SaaS database solutions on (AWS) enables enterprises to scale applications, analytics and AI across the hybrid cloud landscape.\nThe post Tackling AI&#8217;s data challenges with IBM databases on AWS appeared first on IBM Blog.\n"
+    publishedDateTime: 2024-03-14T16:13:51Z
+    webUrl: "https://www.ibm.com/blog/tackling-ais-data-challenges-with-ibm-databases-on-aws/"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 58
+      name: IBM
+      domain: ibm.com
+    quality: 136
     images:
-      - url: "https://diginomica.com/sites/default/files/images/2024-03/IMG_2082.jpeg"
-        width: 640
-        height: 427
+      - url: "https://www.ibm.com/blog/wp-content/uploads/2024/03/GettyImages-588932755-database-management-solutions-leadspace-edit_blog-lead-space-40x21-1.jpg"
+        width: 2400
+        height: 1260
         isCached: true
-  - title: "Growth and recognition of exporting businesses with the aid of AI"
-    excerpt: "“The IEA is the connecting force for Irish exporters, providing practical knowledge and support across the Island of Ireland and in foreign markets – and, growing in strength and recognition each year, the Export Industry Awards (EIA) have been recognising the tremendous achievements of companies working in the exporting industry for 24 years."
-    publishedDateTime: 2024-03-10T00:38:00Z
-    webUrl: "https://www.businesspost.ie/commercial-reports/growth-and-recognition-of-exporting-businesses-with-the-aid-of-ai/"
+  - title: "Best practices to build generative AI applications on AWS"
+    excerpt: "Generative AI applications driven by foundational models (FMs) are enabling organizations with significant business value in customer experience, productivity, process optimization, and innovations. However, adoption of these FMs involves addressing some key challenges, including quality output, data"
+    publishedDateTime: 2024-03-14T17:15:48Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/best-practices-to-build-generative-ai-applications-on-aws/"
     type: article
     provider:
-      name: The Sunday Business Post
-      domain: businesspost.ie
-    quality: 39
+      name: AWS
+      domain: aws.amazon.com
+    quality: 104
     images:
-      - url: "https://imengine.public.prod.sbp.infomaker.io/?uuid=76c49c61-c138-5721-9b61-fb02297c05a6&type=preview&function=original"
-        width: 1600
-        height: 1066
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/03/14/best-practices-generative-ai-on-aws.jpg"
+        width: 920
+        height: 515
         isCached: true
-  - title: "Verve relaunches as the artificial intelligence, human and cultural understanding business"
-    excerpt: "Verve today relaunches as 'the artificial intelligence, human and cultural understanding business'. The announcement follows Verve’s new strategy of ‘combining artificial intelligence with human intelligence and cultural intelligence in order to help ..."
-    publishedDateTime: 2024-03-13T09:35:00Z
-    webUrl: "https://www.bizcommunity.com/article/verve-relaunches-as-the-artificial-intelligence-human-and-cultural-understanding-business-783822a"
+  - title: "How utilities can prepare for extreme weather with data and AI"
+    excerpt: "Today, utilities are meeting these challenges and risks with innovation by leaning on data and AI to prepare for the next event.\nThe post How utilities can prepare for extreme weather with data and AI appeared first on IBM Blog.\n"
+    publishedDateTime: 2024-03-12T12:00:00Z
+    webUrl: "https://www.ibm.com/blog/how-utilities-can-prepare-for-extreme-weather-with-data-and-ai/"
     type: article
     provider:
-      name: Bizcommunity
-      domain: bizcommunity.com
-    quality: 27
-    images:
-      - url: "https://biz-file.com/c/2403/730496.jpg"
-        width: 700
-        height: 364
-        isCached: true
+      name: IBM
+      domain: ibm.com
+    quality: 99
 
-secured: "dxAjo0m14g4dC4uOthJRBkG0zCDAk2kDTE6Shgcj0/BGlNv56kmwNTzTZQsY6Ip7eCEDuaCLp+iO3WppJbtHcM3qN7khn8cVvkdxyG48DQe44DOJMPutJ8eZ6JZ4OeDHE/CRB2fzSe5ZZZoCyc0BYYJy2PdpAwEOUVp+yXjW7yjRv7n3xsSXGxhNee561sCnJcUtfo7dcKyT+BXVlMoVGaQgf1ICfrR+SRlAilaNIaVQMfffh8mmU6/VKh3pf8ocfsbfx8R+1pEYQ6XYM0NYi28EcnNM+FLFyOGZJtKhAMD39mnDujLhObmGmPuCBWqnXdicHLn18SnVBNTHETecG+NDLAsqNtrMLMQZZCMX98o=;U8EPLf3I3bR2wJZg0gatQQ=="
+secured: "VjLPvO95D6QHptzQQ1ZzrV2HWHBzsOHmWiAiDXWvUXlNkxrKogGRTQWhDm3vWhpvC3TdLAQzjjbnRLmg+AizgPg8NH4HKF0yYXYz88bzfzVN1vUaIgFo1tOi4/1KApc0uTi2PGzf1VvwjCXlzA2YqH/S9zKbFUiMoRph16cup3RT+rxN/3Ew9ahIZuES4uYNWA0xXvWZCW76wHYKl49DL2u1o5hj4AZCl4Os0fnhxd/90NL/TD1eamtMirNFjMoHciN6aETVRLj6/oER41gzxdndmCOXmrIGjEmb69D+sK+CPGflxOMaYgc8pH/cIQ2VS+MRyyyvmHzPfwLmLRb12ep2Jr/pU98nH48r/XGbI9o=;ecUnnWxrBN7E3VL0r9XB3g=="
 ---
 
