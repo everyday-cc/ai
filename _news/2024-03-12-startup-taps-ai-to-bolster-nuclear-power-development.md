@@ -34,20 +34,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Welcome to the Valley of the Creepy AI Dolls"
-    excerpt: "Wendy Moyle is a professor at the School of Nursing & Midwifery Griffith University in Australia who works with patients experiencing dementia. She says her work with social robots has angered people, who sometimes see giving robot dolls to older adults as infantilizing."
-    publishedDateTime: 2024-03-09T11:00:00Z
-    webUrl: "https://www.wired.com/story/ai-dolls-for-older-adults/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
-    images:
-      - url: "https://media.wired.com/photos/65eb4f1df0b575321bdc1cf1/191:100/w_1280,c_limit/AI-Dolls-Featured-Gear.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "AI language model provides new insights into the development of brain diseases"
     excerpt: "A new AI language model identifies clinical symptoms in medical summaries and links them to brain tissue from donors of the Netherlands Brain Bank. This yields new insights into the development of individual disease progression and contributes to a better understanding of common misdiagnoses of brain diseases."
     publishedDateTime: 2024-03-12T17:15:00Z

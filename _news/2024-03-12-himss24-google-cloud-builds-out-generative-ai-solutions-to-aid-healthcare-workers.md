@@ -60,6 +60,22 @@ related:
         width: 1513
         height: 900
         isCached: true
+  - title: "How Generative AI Will Change The Jobs Of Lawyers"
+    excerpt: "Generative AI promises to revolutionize the legal profession by streamlining research and document analysis, enhancing risk assessment."
+    publishedDateTime: 2024-03-14T07:14:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/03/14/how-generative-ai-will-change-the-jobs-of-lawyers/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/03/14/how-generative-ai-will-change-the-jobs-of-lawyers/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/03/14/how-generative-ai-will-change-the-jobs-of-lawyers/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65f2a3a5a9d6edfffef7df48/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "How generative AI will change low-code development"
     excerpt: "AI copilots and code generators offer similar benefits to low-code platforms, but they're not the same. Here's what industry leaders are saying about the future of low-code development."
     publishedDateTime: 2024-03-11T09:00:00Z

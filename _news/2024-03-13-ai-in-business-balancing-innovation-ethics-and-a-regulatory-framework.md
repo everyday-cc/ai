@@ -7,8 +7,8 @@ originalUrl: "https://www.thejakartapost.com/business/2024/03/13/ai-in-business-
 webUrl: "https://www.thejakartapost.com/business/2024/03/13/ai-in-business-balancing-innovation-ethics-and-a-regulatory-framework.html"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: The Jakarta Post
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Do’s And Don’ts Of Using Artificial Intelligence In Business School"
+    excerpt: "Can AI tools help you in business school? Is AI resume help a good idea in your job search? We spoke to the dean of Villanova School of Business to find out"
+    publishedDateTime: 2024-03-14T10:06:00Z
+    webUrl: "https://www.businessbecause.com/news/mba-jobs/9260/dos-donts-using-artificial-intelligence-business-school"
+    type: article
+    provider:
+      name: Business Because
+      domain: businessbecause.com
+    quality: 37
+    images:
+      - url: "https://www.businessbecause.com/uploads/default/news/images/845a9791142b82a8b5536bae844a83976fc67680.png"
+        width: 750
+        height: 468
+        isCached: true
   - title: "Three Lessons for (Business) Leaders in the Age of AI"
     excerpt: "Artificial intelligence can potentially transform our lives in ways we can barely even imagine. But for all the potential upside, there are important considerations business leaders should keep in mind."
     publishedDateTime: 2024-03-11T06:37:00Z

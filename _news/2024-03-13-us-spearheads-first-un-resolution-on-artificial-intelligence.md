@@ -42,6 +42,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Session AI Announces World's First Solution for Real-Time AI Incentive Optimization"
+    excerpt: "Session AI, the pioneer of in-session marketing, today announced AI Incentive Optimization, a real-time AI solution for ecommerce retailers to achieve commercial goals. AI Incentive Optimization is the first technology of its kind to autonomously deploy,"
+    publishedDateTime: 2024-03-14T08:22:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/14/9978132.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 33
+    images:
+      - url: "https://mma.prnewswire.com/media/2210105/Session_AI_logo.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "US spearheads first UN resolution on artificial intelligence -- aimed at ensuring world has access"
     excerpt: "The United States is spearheading the first United Nations resolution on artificial intelligence, aimed at ensuring the new technology is “safe, secure and trustworthy” and that all countries, especially those in the developing world,"
     publishedDateTime: 2024-03-12T19:52:00Z

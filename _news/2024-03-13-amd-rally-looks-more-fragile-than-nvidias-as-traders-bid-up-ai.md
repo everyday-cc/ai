@@ -218,6 +218,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Nvidia Stock’s Premium Price Tag Is a Small Fee for a First-Class Ticket to AI Riches"
+    excerpt: "Nvidia’s earnings growth from AI-compatible chips outweighs the impact on NVDA’s share price. This implies that the impact on NVDA’s share price does not fully reflect the prior and recent success of Nvidia’s earnings growth from AI-compatible chips."
+    publishedDateTime: 2024-03-14T05:40:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-stocks-premium-price-tag-is-a-small-fee-for-a-first-class-ticket-to-ai-riches-1033163250"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
   - title: "Nvidia: We Were Right About Data Center And AI"
     excerpt: "Nvidia Corporation's commitment to innovation in the data center drives strong revenue growth, surpassing competitors. Find out why NVDA stock is a Strong Buy."
     publishedDateTime: 2024-03-11T19:24:00Z

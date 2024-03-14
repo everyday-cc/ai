@@ -25,34 +25,49 @@ images:
     isCached: true
 
 related:
-  - title: "New AI, Robotics, Spacetech And Fintech Unicorns Trot Onto The Unicorn Board In February"
-    excerpt: "Ten new unicorns added more than $18 billion in value to The Crunchbase Unicorn Board in February, but one company was also downgraded from unicorn status and fell off the board."
-    publishedDateTime: 2024-03-12T11:00:00Z
-    webUrl: "https://news.crunchbase.com/ai/new-unicorn-board-companies-february-2024-moonshot-ai/"
+  - title: "Teachers’ Venture Growth mints new unicorn in Indian fintech Perfios"
+    excerpt: "Teachers’ Venture Growth, the late-stage venture and growth investment arm of Ontario Teachers’ Pension Plan, is investing $80 million in Perfios, an Indian fintech that provides real-time credit underwriting solutions to banks and other financial ..."
+    publishedDateTime: 2024-03-13T00:00:00Z
+    webUrl: "https://techcrunch.com/2024/03/12/ontario-teachers-mints-new-unicorn-in-indian-fintech-perfios/"
+    ampWebUrl: "https://techcrunch.com/2024/03/12/ontario-teachers-mints-new-unicorn-in-indian-fintech-perfios/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/ontario-teachers-mints-new-unicorn-in-indian-fintech-perfios/amp/"
     type: article
     provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 62
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
     images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/unicornboard_hero-resized.jpg"
-        width: 900
-        height: 506
+      - url: "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1197511920.jpg?resize=1200,800"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "How fintech is reshaping the landscape of business finance"
-    excerpt: "Simon Moorcroft, above, director and chief technology officer at Capalona, sheds light on the changing fintech landscape and how it continues transforming"
-    publishedDateTime: 2024-03-11T12:09:00Z
-    webUrl: "https://www.smeweb.com/how-fintech-is-reshaping-the-landscape-of-business-finance/"
+  - title: "B2B fintech Perfios raises $80 mn from TVG"
+    excerpt: "The company aims to use the funds to expand its international footprint and explore inorganic growth opportunities. With this round, the startup has become a unicorn."
+    publishedDateTime: 2024-03-13T18:52:00Z
+    webUrl: "https://www.livemint.com/companies/b2b-fintech-perfios-raises-80-mn-from-tvg-11710314247470.html"
+    ampWebUrl: "https://www.livemint.com/companies/b2b-fintech-perfios-raises-80-mn-from-tvg/amp-11710314247470.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/b2b-fintech-perfios-raises-80-mn-from-tvg/amp-11710314247470.html"
     type: article
     provider:
-      name: SMEweb
-      domain: smeweb.com
-    quality: 39
+      name: Mint
+      domain: livemint.com
+    quality: 59
     images:
-      - url: "https://www.smeweb.com/wp-content/uploads/2024/03/Picture1.jpg"
-        width: 409
-        height: 269
+      - url: "https://www.livemint.com/lm-img/img/2024/03/13/1600x900/EM_1_1698917893533_1710314358810.png"
+        width: 1599
+        height: 900
         isCached: true
+  - title: "Fintech firm Perfios raises $80 mn funding from Teachers' Venture Growth"
+    excerpt: "Perfios helps financial institutions with processes such as origination, onboarding, decisioning, underwriting, and monitoring"
+    publishedDateTime: 2024-03-13T10:11:00Z
+    webUrl: "https://www.business-standard.com/companies/start-ups/fintech-firm-perfios-raises-80-mn-funding-from-teachers-venture-growth-124031300555_1.html"
+    ampWebUrl: "https://www.business-standard.com/amp/companies/start-ups/fintech-firm-perfios-raises-80-mn-funding-from-teachers-venture-growth-124031300555_1.html"
+    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/companies/start-ups/fintech-firm-perfios-raises-80-mn-funding-from-teachers-venture-growth-124031300555_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 38
   - title: "Fintech Firm Perfios Becomes India's Second Unicorn Of This Year"
     excerpt: "B2B SaaS fintech company Perfios has become India's second unicorn of 2024 as it raised $80 million in a new funding round"
     publishedDateTime: 2024-03-13T09:50:00Z
@@ -67,33 +82,15 @@ related:
         width: 416
         height: 250
         isCached: true
-  - title: "Stax founders launch new Orlando-based fintech Worth AI"
-    excerpt: "Salman Rehmetullah and Suneera Madhani's fintech Worth AI aims to transform financial underwriting for small- and medium-sized business loans."
-    publishedDateTime: 2024-03-12T10:00:00Z
-    webUrl: "https://www.bizjournals.com/orlando/news/2024/03/12/stax-founders-worth-ai-company.html"
+  - title: "Use of Indian languages key for increasing internet access in India: Report"
+    excerpt: "The report also shows that in the recent past, the use of the internet in Indian languages is increasing. It shows that 57 per cent of internet users prefer to access the internet in Indian languages, with Hindi topping the chart."
+    publishedDateTime: 2024-03-10T13:23:00Z
+    webUrl: "https://www.business-standard.com/india-news/use-of-indian-languages-key-for-increasing-internet-access-in-india-report-124031000395_1.html"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
-  - title: "1 Week to Go! Top 100 Women in FinTech 2024"
-    excerpt: "In honour of International Women’s Month, FinTech Magazine - in association with Amberdata, JP Morgan Payments, and AWS - will be releasing its Top 100 Women in FinTech for 2024."
-    publishedDateTime: 2024-03-11T12:45:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/1-week-to-go-top-100-women-in-fintech-2024"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 4
-  - title: "Is This Fintech Stock a Buy Now?"
-    excerpt: "Real-time index price for TSX Income Trust Index (RTCM), along with buy or sell indicators, analysis, charts, historical performance, news and more"
-    publishedDateTime: 2024-03-12T19:41:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/indices/RTCM/pressreleases/24735863/is-this-fintech-stock-a-buy-now/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 4
+      name: Business Standard
+      domain: business-standard.com
+    quality: 2
 
 secured: "voxmnOyXM+CMhuSRS8htFyYebE6sryu55XUqvGJFc/FwfJ9BicjSEw6GLjaYt7wweRo1A2lJNvaZuVW1ynlh7a6/YkClQ96IlQLQtKLUE2zvrdcycse/UG0uC1oAw/JbAPa6J+ijEn7Plm08ZB5oQrlO0MLZRAZKXfhurWrWQe5LevzwkJ3Uf5Cfq8ZZhjlnoaElRFexjq8goI4hg1Pf+zZ5XlgI1l5I0Q1EXTHEWO7WgsEyLVEaZNYbbl3OMMGtL/w3XA2fCx/5PLheqJXRScqXQdow2sZsiFyhqASkcxtMsfYEPpS5m/NwKTfVOfOvwuPyh2X7t6zTZyttiYDBZqfkBP5ac3U8fnq2KcPCCM1Nw8Bgl/V5zmUEMffCO1nzdPvJjvZUW1fpTDxvZAPbmlWfUA9FntUYM2L5AWJ8TS13ib5JRDird3nJoPGfir2DbIRDh7+WlgtAFfKEp3+QNR6Ik/CDtul+13fozoM/5KPsXqjLdnpa4wkBMnX631tSINBj5F0lwLxeq9SgfdDuKg==;QurptjJR3tphh4K3gqaT/Q=="
 ---

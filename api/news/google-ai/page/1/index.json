@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-14-googles-new-ai-can-play-3d-games-with-you-by-following-natural-language-instructions.md",
+      "title": "Google's new AI can play 3D games with you by following natural-language instructions",
+      "excerpt": "Google DeepMind's new AI takes things a step further by learning human-like gaming skills. Google's DeepMind research group unveiled a new AI program that is capable of learning how to complete tasks in a number of games. Called Scalable Instructable ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/googles-new-ai-can-play-3d-games-with-you-by-following-natural-language-instructions/",
+      "originalUrl": "https://www.neowin.net/news/googles-new-ai-can-play-3d-games-with-you-by-following-natural-language-instructions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2021/01/1611767819_google_logo_red_1_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/googles-new-ai-can-play-3d-games-with-you-by-following-natural-language-instructions/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/googles-new-ai-can-play-3d-games-with-you-by-following-natural-language-instructions/",
+      "publishedDateTime": "2024-03-14T09:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-13-google-paid-out-10-million-in-bug-bounties-to-security-researchers-in-2023.md",
       "title": "Google paid out $10 million in bug bounties to security researchers in 2023",
       "excerpt": "and Kai's \"Hacking Google Bard - From Prompt Injection to Data Exfiltration\" and Roni, Justin, and Joseph's \"We Hacked Google A.I. for $50,000.\" The $10 million that Google paid in bug bounties in 2023 was lower than the $12 million the company spent in 2022.",
@@ -324,7 +376,7 @@
       "originalUrl": "https://www.thehansindia.com/technology/tech-news/gemini-ai-image-generation-tool-to-be-back-after-improved-accuracy-864311",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1426,59 +1478,6 @@
         "Natural Language Processing",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-25-tensorflow-lite-in-google-play-services-java-api.md",
-      "title": "TensorFlow Lite in Google Play services Java API",
-      "excerpt": "TensorFlow Lite in Google Play services can also be accessed using Java APIs, in addition to the Native API. In particular, TensorFlow Lite in Google Play services is available through the TensorFlow Lite Task API and the TensorFlow Lite Interpreter API.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/lite/android/java",
-      "originalUrl": "https://www.tensorflow.org/lite/android/java",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/static/site-assets/images/project-logos/tensorflow-lite-logo-social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-24T22:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
       ]
     }
   ],

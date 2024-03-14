@@ -43,7 +43,21 @@ related:
         width: 1280
         height: 1920
         isCached: true
+  - title: "Generative AI in E-Discovery—Getting Beyond the Hype"
+    excerpt: "Nowhere is that excitement and uncertainty more keenly felt than in the world of e-discovery. Yet, it is crucial to understand the ways that Gen AI is transforming the traditional e-discovery practice,"
+    publishedDateTime: 2024-03-09T18:29:00Z
+    webUrl: "https://www.law.com/thelegalintelligencer/2024/03/09/generative-ai-in-e-discovery-getting-beyond-the-hype/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 37
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/402/2024/01/Cohen-Krieger-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
-secured: "a86y3BWtd6qpdaglOckSQd7jMR7xVFwNPEaFPkO+dGo8x4VjJRr0vo1Zz5YTrcPkB2nDwz8y2TWeEVPNlKOppVbVyYetJbCdy8XC0CZd1J6VbM0+fBPUDB01P7N9iK9DgmrE6Hc9RiIZSTVn2c+Wc8gVTFDSuabkCkjbpyHsp48h0ZADxTRlHTf2/RQs26qkDv2nGlfT6spM3HxbBd0eFzUfSuKgrZNu/bci3f6+iW7tDCqgn3CqtbAE9mXpcfAlqttmBmeXQIGJgmGA+REz1S7dWbOKa8N56eK2iNFO5Or3p7Xl7STWUbZJtGGhvBkML3T01yiLxq/BRmq4WfiDrI5vdlwbnyfxZ90Jetx9oVE=;/KyUZzWZ0gkAi2MuaapMEg=="
+secured: "mEIPwJT3LEZd2/UTuIjpmdGtNBK++vmkzGgcjIKmwFymBiSBV/V52hcg4V3xbrH77MmpRuqmFQLR64+mugTOv0FdcGKzoGGVciyEVABC+3rI4QrWaktfj83PwCzn5BUmY9pf5lOPcGHYxw59ijD/IHCtZ6ieBoxQu3SpM5itBcQ9fQaadB/ozH3JYj7+xD46ylHLiyM/lGPtX8p5itLAmTq8z1MxRplY+rjr9sHJgef6Z4ISXlixroLoyUwH2h/tA3dHuK/nFwxCzSpMtUAoj0VoEy6KLyBxXb70t15hiCo6m+bAhbpaDQx3crCbAgETdL6VQ7cdSIflT7CYVc5ou62SHo1xqlDJHQRPI/8m3wo2yRATPUcIV54/QvFmxN8CLr1KR90Bom2YNe3DI7agEuH76RQyup2aYC4BVynFO8zF/TwfU9bf6EGIJ6da3zKxGlfvjBYdrhQvDHnQWHBEO8yewdDT9swV3A3s8nyoJk+9JnladkkmzPpapIxV6teahbwkaJEGPurtuGlXgynJrA==;psledzjsDEGgjJ7LfUJb+A=="
 ---
 

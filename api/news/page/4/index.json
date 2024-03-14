@@ -2,6 +2,310 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-03-12-deepgrams-aura-gives-ai-agents-a-voice.md",
+      "title": "Deepgram’s Aura gives AI agents a voice",
+      "excerpt": "Deepgram has made a name for itself as one of the go-to startups for voice recognition. Today, the well-funded company announced the launch of Aura, its new real-time text-to-speech API. Aura combines highly realistic voice models with a low-latency API to ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/03/12/deepgrams-aura-gives-ai-agents-a-voice/",
+      "originalUrl": "https://techcrunch.com/2024/03/12/deepgrams-aura-gives-ai-agents-a-voice/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1127591772.jpg?resize=1200,900",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/03/12/deepgrams-aura-gives-ai-agents-a-voice/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/deepgrams-aura-gives-ai-agents-a-voice/amp/",
+      "publishedDateTime": "2024-03-12T14:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-empathy-closes-47m-for-ai-to-help-with-the-practical-and-emotional-bereavement-process.md",
+      "title": "Empathy closes $47M for AI to help with the practical and emotional bereavement process",
+      "excerpt": "Although there have been a lot of efforts made in the area of considering what role AI can play in empathy (with a little “e”) the startup Empathy, Gura said, remains focused on keeping a human team in place for that aspect of its service, focusing ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/03/12/empathy-berevement-death-ai/",
+      "originalUrl": "https://techcrunch.com/2024/03/12/empathy-berevement-death-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/04/15990492171_d21c81e484_k.jpg?resize=1200,655",
+          "width": 1200,
+          "height": 655,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/03/12/empathy-berevement-death-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/empathy-berevement-death-ai/amp/",
+      "publishedDateTime": "2024-03-12T13:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-google-wont-let-you-use-its-ai-to-answer-questions-about-an-upcoming-election-in-your-country.md",
+      "title": "Google won’t let you use its AI to answer questions about an upcoming election in your country",
+      "excerpt": "After facing some backlash from global VCs and AI startup founders, the Indian government clarified that the restriction was for “significant” tech companies and not for startups. The advisory followed a mini-scandal over Gemini and the Indian ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/03/12/google-gemini-election-related-queries/",
+      "originalUrl": "https://techcrunch.com/2024/03/12/google-gemini-election-related-queries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/03/google-gemini.jpg?w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/03/12/google-gemini-election-related-queries/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/google-gemini-election-related-queries/amp/",
+      "publishedDateTime": "2024-03-12T12:48:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-science-offers-a-new-way-to-save-birds-from-the-jaws-of-wind-turbines.md",
+      "title": "Science Offers A New Way To Save Birds From The Jaws Of Wind Turbines",
+      "excerpt": "Many migratory birds die each year flying into the blades of our wind farms. Weather radar data is showing us how we can be nicer to our sky-fairing friends.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/scotttravers/2024/03/12/science-offers-a-new-way-to-save-birds-from-the-jaws-of-wind-turbines/",
+      "originalUrl": "https://www.forbes.com/sites/scotttravers/2024/03/12/science-offers-a-new-way-to-save-birds-from-the-jaws-of-wind-turbines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e9e260d2b8171cfa7a3de2/0x0.jpg?format=jpg&crop=2751,1290,x0,y171,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/scotttravers/2024/03/12/science-offers-a-new-way-to-save-birds-from-the-jaws-of-wind-turbines/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/scotttravers/2024/03/12/science-offers-a-new-way-to-save-birds-from-the-jaws-of-wind-turbines/amp/",
+      "publishedDateTime": "2024-03-12T12:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-how-utilities-can-prepare-for-extreme-weather-with-data-and-ai.md",
+      "title": "How utilities can prepare for extreme weather with data and AI",
+      "excerpt": "Today, utilities are meeting these challenges and risks with innovation by leaning on data and AI to prepare for the next event.\nThe post How utilities can prepare for extreme weather with data and AI appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-utilities-can-prepare-for-extreme-weather-with-data-and-ai/",
+      "originalUrl": "https://www.ibm.com/blog/how-utilities-can-prepare-for-extreme-weather-with-data-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-12T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-why-enterprises-are-learning-to-love-nanonets-automation.md",
+      "title": "Why Enterprises Are Learning To Love Nanonets’ Automation",
+      "excerpt": "Nanonets has raised $29 million in a Series B round that will support the growth of the machine learning and automation specialist",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidprosser/2024/03/12/why-enterprises-are-learning-to-love-nanonets-automation/",
+      "originalUrl": "https://www.forbes.com/sites/davidprosser/2024/03/12/why-enterprises-are-learning-to-love-nanonets-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ef20424217d681add18649/0x0.jpg?format=jpg&crop=2324,1088,x0,y139,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 749,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-12T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2024-03-12-bridging-the-trust-gap-in-workplace-ai.md",
       "title": "Bridging The Trust Gap In Workplace AI",
       "excerpt": "A key element of the AI trust gap is not so much about technology but about whether the motivations around its appeal are mutually aligned and beneficial.",
@@ -61,7 +365,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2024/03/12/prompt-engineering-technique-known-as-the-step-around-is-gaining-steam-as-generative-ai-becomes-less-forthright/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -114,7 +418,7 @@
       "originalUrl": "https://news.crunchbase.com/ai/new-unicorn-board-companies-february-2024-moonshot-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -685,7 +989,7 @@
       "originalUrl": "https://www.thehansindia.com/technology/tech-news/gemini-ai-image-generation-tool-to-be-back-after-improved-accuracy-864311",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -769,6 +1073,48 @@
       "topics": [
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-meta-sues-former-executive-over-alleged-ai-theft.md",
+      "title": "Meta sues former executive over alleged AI theft",
+      "excerpt": "Meta has alleged that a former vice president stole “highly confidential” data about the company’s top performers and supply chain partners.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3714344/meta-sues-former-executive-over-alleged-ai-theft.html",
+      "originalUrl": "https://www.computerworld.com/article/3714344/meta-sues-former-executive-over-alleged-ai-theft.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/03/screen-shot-2019-03-19-at-4.31.06-pm-100791434-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3714344/meta-sues-former-executive-over-alleged-ai-theft.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3714344/meta-sues-former-executive-over-alleged-ai-theft.amp.html",
+      "publishedDateTime": "2024-03-12T04:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -864,362 +1210,6 @@
         "AI Hardware",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-manipulated-kate-middleton-photo-sparks-royal-frenzy-of-jokes-and-memes.md",
-      "title": "Manipulated Kate Middleton Photo Sparks Royal Frenzy Of Jokes And Memes",
-      "excerpt": "After Kate apologizes for a Photoshopped family picture, the online masses can't resist poking fun at the latest controversy to hit Kensington Palace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lesliekatz/2024/03/11/altered-kate-middleton-photo-sparks-royal-frenzy-of-jokes-and-memes/",
-      "originalUrl": "https://www.forbes.com/sites/lesliekatz/2024/03/11/altered-kate-middleton-photo-sparks-royal-frenzy-of-jokes-and-memes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65efa845bfb4c6bde5d6755b/0x0.jpg?format=jpg&crop=640,360,x25,y57,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lesliekatz/2024/03/11/altered-kate-middleton-photo-sparks-royal-frenzy-of-jokes-and-memes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lesliekatz/2024/03/11/altered-kate-middleton-photo-sparks-royal-frenzy-of-jokes-and-memes/amp/",
-      "publishedDateTime": "2024-03-12T01:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-12-best-ai-productivity-tools-2024.md",
-      "title": "12 Best AI Productivity Tools 2024",
-      "excerpt": "Artificial intelligence (AI) productivity tools are designed to help you complete ... monday.com’s artificial intelligence leverages Azure OpenAI as its large language model (LLM) provider to optimize productivity and streamline workflow processes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/artificial-intelligence/ai-productivity-tools/",
-      "originalUrl": "https://www.eweek.com/artificial-intelligence/ai-productivity-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2024/03/ew_20240312-ai-productivity-tools.png",
-          "width": 1400,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-12T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-glacier-is-training-ai-powered-recycling-robots.md",
-      "title": "Glacier is training AI-powered recycling robots",
-      "excerpt": "The future of recycling is here, and of course, it involves robots and artificial intelligence. Rebecca Hu, the co-founder of the robotics company Glacier, creates robots that help recycling plants separate and, well, recycle material. Before, sorting ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/03/12/glacier-is-training-ai-powered-recycling-robots/",
-      "originalUrl": "https://techcrunch.com/2024/03/12/glacier-is-training-ai-powered-recycling-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 224,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/found-2022-featured.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/03/12/glacier-is-training-ai-powered-recycling-robots/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/glacier-is-training-ai-powered-recycling-robots/amp/",
-      "publishedDateTime": "2024-03-12T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-microsoft-insiders-worry-the-company-has-become-just-it-for-openai.md",
-      "title": "Microsoft insiders worry the company has become just 'IT for OpenAI'",
-      "excerpt": "Microsoft's AI strategy has increasingly focused on OpenAI. The shift has led to some executive departures and less focus on Microsoft's own services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/microsoft-insiders-worry-company-has-become-just-it-for-openai-2024-3",
-      "originalUrl": "https://www.businessinsider.com/microsoft-insiders-worry-company-has-become-just-it-for-openai-2024-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65ef4f7b6080194819feb5de?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-11T23:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-team-working-on-the-ai-brain-for-the-apple-car-move-to-apples-artificial-intelligencemachine-learning-group.md",
-      "title": "Team working on the AI ‘brain’ for the Apple Car move to Apple’s artificial intelligence/machine learning group",
-      "excerpt": "In a Q&A session focused on the Apple Car, Bloomberg‘s Mark Gurman explained what has happened with the Apple Car team once the project was canceled. Here’s what he says: The Apple car team was broken up.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mactech.com/2024/03/11/team-working-on-the-ai-brain-for-the-apple-car-move-to-apples-artificial-intelligence-machine-learning-group/",
-      "originalUrl": "https://www.mactech.com/2024/03/11/team-working-on-the-ai-brain-for-the-apple-car-move-to-apples-artificial-intelligence-machine-learning-group/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mactech.com/wp-content/uploads/2024/02/Artificial-Intelligence-icon-1024x973.jpg",
-          "width": 1024,
-          "height": 973,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.mactech.com/2024/03/11/team-working-on-the-ai-brain-for-the-apple-car-move-to-apples-artificial-intelligence-machine-learning-group/amp/",
-      "cdnAmpWebUrl": "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2024/03/11/team-working-on-the-ai-brain-for-the-apple-car-move-to-apples-artificial-intelligence-machine-learning-group/amp/",
-      "publishedDateTime": "2024-03-11T22:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MacTech",
-        "domain": "mactech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-in-ironic-twist-midjourney-bans-rival-ai-firm-employees-for-scraping-its-image-data.md",
-      "title": "In ironic twist, Midjourney bans rival AI firm employees for scraping its image data",
-      "excerpt": "Midjourney banned all employees from image synthesis rival Stability AI from its service indefinitely after it detected \"botnet-like\" activity suspected to be a Stability employee attempting to scrape prompt and image pairs in bulk.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2024/03/in-ironic-twist-midjourney-bans-rival-ai-firm-employees-for-scraping-its-image-data/",
-      "originalUrl": "https://arstechnica.com/information-technology/2024/03/in-ironic-twist-midjourney-bans-rival-ai-firm-employees-for-scraping-its-image-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/file_theft_1-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-11T21:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-how-to-use-google-gemini-the-main-challenger-to-chatgpt.md",
-      "title": "How to use Google Gemini, the main challenger to ChatGPT",
-      "excerpt": "Gemini Advanced is Google’s paid chatbot version that costs $20 per month and comes with a host of perks under the Google One AI Premium subscription tier. Gemini Advanced runs the Gemini Ultra 1.0 language model, which excels at understanding longer prompts and the context of previous prompts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/how-to-use-google-gemini/",
-      "originalUrl": "https://www.digitaltrends.com/computing/how-to-use-google-gemini/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 276,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2023/12/google-gemini-logo.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/how-to-use-google-gemini/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-use-google-gemini/?amp",
-      "publishedDateTime": "2024-03-11T21:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

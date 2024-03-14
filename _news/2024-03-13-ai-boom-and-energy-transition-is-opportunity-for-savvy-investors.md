@@ -25,29 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "A Once-in-a-Decade Investment Opportunity: 1 Artificial Intelligence (AI) Stock to Buy Now and Hold Long-Term"
-    excerpt: "Artificial intelligence will reshape IT systems in the coming years, and ServiceNow is well-positioned to benefit."
-    publishedDateTime: 2024-03-09T10:45:00Z
-    webUrl: "https://www.fool.com/investing/2024/03/09/once-in-decade-investment-1-ai-growth-stock-to-buy/"
+  - title: "How Will Artificial Intelligence Impact Inequality And Energy?"
+    excerpt: "Artificial Intelligence will escalate economic change, affecting every industry and everyone who has a job — especially those working in energy."
+    publishedDateTime: 2024-03-11T12:45:00Z
+    webUrl: "https://www.forbes.com/sites/kensilverstein/2024/03/11/how-will-artificial-intelligence-impact-inequality-and-energy/"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 63
-    images:
-      - url: "https://g.foolcdn.com/editorial/images/768054/strategy-3.jpg"
-        width: 7500
-        height: 4218
-        isCached: true
-  - title: "ServiceNow: A Strong Investment Opportunity For The AI Era"
-    excerpt: "ServiceNow exceeds Q4 2023 revenue and earnings expectations, benefiting from strong AI product adoption and a solid position for future growth. Read what investors need to know."
-    publishedDateTime: 2024-03-11T21:34:00Z
-    webUrl: "https://seekingalpha.com/article/4677437-servicenow-a-strong-investment-opportunity-for-the-ai-era"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 17
+      name: Forbes
+      domain: forbes.com
+    quality: 49
 
 secured: "XkuhRKQZgTsPU6ltxq4WkWvXlWo9y1xrRq/KGit8uvIkBtaL1k5UwOtLfqdrRhmiRCOTGirHaUKcbdJifsV2oU96oeLsFRTgRoz/84g2yIZZvRZvXrxL0cDumg1EpBrWQT5HCXNZTZguC0HP/SPVBpopEK0tLLjQx6Ze0U2Ic9yag5ETuJo/NwA/D6tGzc1AlYOO+XrQ81LeZMV1vBh7G8/pFwVU7sD8OaSmE9Ss7TJmVEGh2thL8e5fBpbL4Off5U1tl2ypiH4W2YbsFYljCjGHUl9/6L9kpMJvsZP9rlrVeHn9EaG8YmxLqlkQIBD60mbsZDinCER/Ztr50fTRnVS/+/GHxFnCa+7KI9AuGCI=;1ueRU0v5mbAgwv1prqgK4w=="
 ---

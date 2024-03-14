@@ -2,6 +2,59 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2024-01-25-after-gen-ais-82-stock-surge-in-2023-three-keys-to-profiting-from-davos-takeaways.md",
+      "title": "After Gen AI’s 82% Stock Surge In 2023, Three Keys To Profiting From Davos Takeaways",
+      "excerpt": "If Generative AI stocks grow faster than investors expect, their shares will rise. A case in point is ASML — the Dutch provider of a critical machine for manufacturing the chips used to train large language models. In 2023, ASML’s stock rose 36%.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/petercohan/2024/01/24/after-gen-ais-82-stock-surge-in-2023-three-keys-to-profiting-from-davos-takeaways/",
+      "originalUrl": "https://www.forbes.com/sites/petercohan/2024/01/24/after-gen-ais-82-stock-surge-in-2023-three-keys-to-profiting-from-davos-takeaways/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65aa33fd62a08db8addbaef6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/petercohan/2024/01/24/after-gen-ais-82-stock-surge-in-2023-three-keys-to-profiting-from-davos-takeaways/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2024/01/24/after-gen-ais-82-stock-surge-in-2023-three-keys-to-profiting-from-davos-takeaways/amp/",
+      "publishedDateTime": "2024-01-24T20:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-24-sama-launches-multi-cloud-integration-increases-speed-of-new-project-onboarding-by-7x.md",
       "title": "Sama Launches Multi-Cloud Integration; Increases Speed of New Project Onboarding by 7x",
       "excerpt": "Sama, the leader in providing data annotation and model validation solutions, today announced the launch of a multi-cloud integration strategy within",
@@ -1342,49 +1395,6 @@
         "name": "Redmond Magazine",
         "domain": "redmondmag.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-12-what-are-the-best-paying-tech-jobs-to-have-in-2024.md",
-      "title": "What are the best paying tech jobs to have in 2024?",
-      "excerpt": "A complete list of the highest paying roles to go for in your field: software development, cybersecurity, data science, cloud, SDLC, leadership, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pluralsight.com/resources/blog/it-ops/best-paying-tech-jobs-2024",
-      "originalUrl": "https://www.pluralsight.com/resources/blog/it-ops/best-paying-tech-jobs-2024",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-12T10:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

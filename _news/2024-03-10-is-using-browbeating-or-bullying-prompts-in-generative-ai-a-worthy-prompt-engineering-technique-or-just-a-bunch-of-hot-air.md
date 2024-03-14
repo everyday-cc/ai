@@ -31,65 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Why Generative AI Isn’t Just About Creating Marketing Content"
-    excerpt: "Amid this environment of promise and anguish, companies are already forging ahead to serve customers with AI-generated content."
-    publishedDateTime: 2024-03-13T11:01:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2024/03/13/why-generative-ai-isnt-just-about-creating-marketing-content/"
+  - title: "Prompt Engineering Technique Known As The Step-Around Is Gaining Steam As Generative AI Becomes Less Forthright"
+    excerpt: "A prompt engineering technique known as the step-around is gaining attention due to generative AI increasingly being less forthright. Here's what you need to know."
+    publishedDateTime: 2024-03-12T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/12/prompt-engineering-technique-known-as-the-step-around-is-gaining-steam-as-generative-ai-becomes-less-forthright/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2024/03/12/prompt-engineering-technique-known-as-the-step-around-is-gaining-steam-as-generative-ai-becomes-less-forthright/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2024/03/12/prompt-engineering-technique-known-as-the-step-around-is-gaining-steam-as-generative-ai-becomes-less-forthright/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 84
+    quality: 71
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65f0ba0d70b8ded757ed7a54/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65ee4ffd8c25253909e03855/0x0.jpg?format=jpg&crop=997,549,x0,y50,safe&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 881
         isCached: true
-  - title: "Detecting AI-manipulated content is a challenging arms race"
-    excerpt: "Nude photos of pop superstar Taylor Swift recently flooded social media X, where they were viewed and shared by millions of users. But the images weren't realâthey were deepfakes created using artificial intelligence (AI)."
-    publishedDateTime: 2024-03-11T16:56:00Z
-    webUrl: "https://techxplore.com/news/2024-03-ai-content-arms.html"
-    ampWebUrl: "https://techxplore.com/news/2024-03-ai-content-arms.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2024-03-ai-content-arms.amp"
+  - title: "Cognition launches Devin, a generative AI-powered coding engineer"
+    excerpt: "A new generative artificial intelligence startup called Cognition AI Inc. is looking to disrupt coding with the launch of a new tool that can autonomously create code for entire engineering jobs, including its own AI models."
+    publishedDateTime: 2024-03-13T02:49:00Z
+    webUrl: "https://siliconangle.com/2024/03/12/cognition-launches-devin-generative-ai-powered-coding-engineer/"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2024/detecting-ai-manipulat.jpg"
-        width: 1280
-        height: 1426
-        isCached: true
-  - title: "Critically Thinking About Identifying AI Creations"
-    excerpt: "With AI-generated media, it’s about the decision-making process for accepting what to believe. Since the turn of the millennium, we have seen an exponential increase in the amount of new information. The world is forever evolving, and, so, we must adapt, ensuring not to solely rest on decline biases."
-    publishedDateTime: 2024-03-12T17:23:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/thoughts-on-thinking/202403/critically-thinking-about-identifying-ai-creations"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/thoughts-on-thinking/202403/critically-thinking-about-identifying-ai-creations?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/thoughts-on-thinking/202403/critically-thinking-about-identifying-ai-creations?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-03/Blog-AI.png.jpg?itok=RttujwDh"
-        width: 1528
-        height: 800
-        isCached: true
-  - title: "Generative AI in E-Discovery—Getting Beyond the Hype"
-    excerpt: "Nowhere is that excitement and uncertainty more keenly felt than in the world of e-discovery. Yet, it is crucial to understand the ways that Gen AI is transforming the traditional e-discovery practice,"
-    publishedDateTime: 2024-03-09T18:29:00Z
-    webUrl: "https://www.law.com/thelegalintelligencer/2024/03/09/generative-ai-in-e-discovery-getting-beyond-the-hype/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
+      name: SiliconANGLE
+      domain: siliconangle.com
     quality: 37
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/402/2024/01/Cohen-Krieger-767x633.jpg"
-        width: 767
-        height: 633
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/03/robo-advisor-chatbot-robotic-concept-robot-finger-point-laptop-button-generative-ai.jpg"
+        width: 2000
+        height: 1121
         isCached: true
 
 secured: "1dQOwuOtuxzykNh51WJO/uohSp+Gat73922mTE890SGVdfC5fhlj1RuEBg8xQX2jqPxxv+nrxUwqozUYrOiK1YnE6MlLAzNEHZXxSwdojs4x8vd0+DADQyXwLbADkliYNNg16dw339oNJtFmAK5AAGELEvmMBN3Fk/DApUoSDrnGNpEGZTse+CPX70feWuCjd7Ajyh/jqZV76lJRF5N8FWJ4M5g9Wui0m0GXJzddqd2mp7YTju/exCjPUnXoHDpWO0vXmpKiMqBoWxpfHbOjmk8BDU1hzFBNnPst6lwdiLuN3gY9YvIzeonyVoRhxF73c/3rxa6EkbGWl1wahoTZDy5mN6KMh7Z7JLN0ZFBfRiAp8dNh7QaKZY/WghRl/o5FV3hwO8oJcFM7Vxm1KaY3OI1oKegi45TAY1KV732pBPvViGAROJsmThMydL4MQ2Fl6Fu360+Siv/I0OK/SXO7vqzp1ayGbknp5mEZg5buxxMYkJsWI40DI7VOfVft7RooeK8MALtrjULNf57QgKB+Eg==;yv3tOlqUkyUxTOjI3agwgA=="

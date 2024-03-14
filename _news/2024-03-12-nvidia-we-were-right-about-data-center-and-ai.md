@@ -230,6 +230,15 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 49
+  - title: "Nvidia Stock’s Premium Price Tag Is a Small Fee for a First-Class Ticket to AI Riches"
+    excerpt: "Nvidia’s earnings growth from AI-compatible chips outweighs the impact on NVDA’s share price. This implies that the impact on NVDA’s share price does not fully reflect the prior and recent success of Nvidia’s earnings growth from AI-compatible chips."
+    publishedDateTime: 2024-03-14T05:40:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-stocks-premium-price-tag-is-a-small-fee-for-a-first-class-ticket-to-ai-riches-1033163250"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
   - title: "Nvidia, Databricks Hit With Suits From Authors Over AI Training"
     excerpt: "Chipmaker Nvidia Corp. and software firm Databricks Inc. are facing copyright infringement lawsuits from a group of authors alleging the companies’ respective AI models are trained on their books without permission."
     publishedDateTime: 2024-03-11T14:11:00Z

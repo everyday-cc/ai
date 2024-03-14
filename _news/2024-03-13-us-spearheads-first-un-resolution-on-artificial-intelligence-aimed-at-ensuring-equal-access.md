@@ -9,7 +9,7 @@ ampWebUrl: "https://www.twincities.com/2024/03/12/us-spearheads-first-un-resolut
 cdnAmpWebUrl: "https://www-twincities-com.cdn.ampproject.org/c/s/www.twincities.com/2024/03/12/us-spearheads-first-un-resolution-on-artificial-intelligence-aimed-at-ensuring-equal-access/amp/"
 type: article
 quality: 61
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Session AI Announces World's First Solution for Real-Time AI Incentive Optimization"
+    excerpt: "Session AI, the pioneer of in-session marketing, today announced AI Incentive Optimization, a real-time AI solution for ecommerce retailers to achieve commercial goals. AI Incentive Optimization is the first technology of its kind to autonomously deploy,"
+    publishedDateTime: 2024-03-14T08:22:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/14/9978132.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 33
+    images:
+      - url: "https://mma.prnewswire.com/media/2210105/Session_AI_logo.jpg"
+        width: 400
+        height: 400
         isCached: true
   - title: "US spearheads first UN resolution on artificial intelligence -- aimed at ensuring world has access"
     excerpt: "The United States is spearheading the first United Nations resolution on artificial intelligence, aimed at ensuring the new technology is “safe, secure and trustworthy” and that all countries, especially those in the developing world,"

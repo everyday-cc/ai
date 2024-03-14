@@ -7,7 +7,7 @@ originalUrl: "https://healthtechmagazine.net/article/2024/03/himss24-how-ai-will
 webUrl: "https://healthtechmagazine.net/article/2024/03/himss24-how-ai-will-help-healthcare-take-another-quantum-leap-forward"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+related:
+  - title: "HIMSS24: How Epic is building out AI, ambient technology for clinicians"
+    excerpt: "A year ago, at HIMSS23 in Las Vegas, Epic announced it was working with Microsoft to integrate large language model tools and AI into its electronic health record software. | ORLANDO, Florida—AI technology in healthcare is rapidly evolving,"
+    publishedDateTime: 2024-03-13T23:00:00Z
+    webUrl: "https://www.fiercehealthcare.com/ai-and-machine-learning/himss24-how-epic-building-out-ai-ambient-technology-clinicians"
+    type: article
+    provider:
+      name: Fierce Healthcare
+      domain: fiercehealthcare.com
+    quality: 39
+    images:
+      - url: "https://qtxasset.com/quartz/qcloud5/media/image/Epic.jpg?VersionId=HzMkg5TqtUK9hQ4ub6Wka2RijOQvVAl2"
+        width: 2016
+        height: 1512
+        isCached: true
 
 secured: "zrrtZJsTw2XaOzYSOwHXlGbEH6H2ZilXWLUiC9b1WbGl3VLB7RyATZpbjAZozx/FL36ucUg3ggy9bw8lsjp+pyx8PcoI1JJu3frn/GrTacOeP6jcg9ntml66xp0yc5G3+Hd3yWgEQ5hT3daf7DSS8jLEy8CoofrznabwlCe20GhxskAiENrC6OFoeHxYiAuX1nnfh5db3Vw9D5dmKIbHZIdVBTXBEdkSihdXIMi/pjV9YQ9d60uy8zTP93PbRQ5GJ1R+Rlu/0nm+VoXpSUdPxGlUCjPPLiPczuLa6RD4CMBPrf8QhgEd4rrY6MQyjp4+uGXtdain8OTScTuT9K/sppJTFui3excx02yZp/dcuvbqa1DcbknC9FJUJv1fbfGtTojO4S/WdMiC7aG6tP66cpVCVIJsJ/n6TIyQYQnITj4gB1M4zYMAA5Txb5mr+jYzU2zw/wLszgbpXyFYDT8fMmtWuglkE08ZiBaqhD81xGYI8b46eqt8XU6so2KidCDAVXG7OUT94U/rjCn9XzavZA==;1WvWpLux4hv08aqmnr86Gg=="
 ---

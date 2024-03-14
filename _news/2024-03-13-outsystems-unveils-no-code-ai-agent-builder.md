@@ -22,6 +22,22 @@ topics:
   - Microsoft AI
   - AI
 
+related:
+  - title: "Milestone Systems first to adopt G7 Code of Conduct for Artificial Intelligence"
+    excerpt: "Milestone Systems, a leading provider of data-driven video management software, has decided to adopt and implement the G7 Code of Conduct for advanced Artificial Intelligence (AI) systems, becoming one of the first companies to do so."
+    publishedDateTime: 2024-03-14T11:46:00Z
+    webUrl: "https://business-review.eu/tech/it/milestone-systems-first-to-adopt-g7-code-of-conduct-for-artificial-intelligence-258234"
+    type: article
+    provider:
+      name: business-review.eu
+      domain: business-review.eu
+    quality: 33
+    images:
+      - url: "https://business-review.eu/wp-content/uploads/2024/03/Milestone-Systems-CEO_Thomas-Jensen.jpg"
+        width: 1000
+        height: 666
+        isCached: true
+
 secured: "9c1SWHFgstwvvJmpTu0NvLNDliWFRsxDMbHHs5E/2GRZ3BzGwKiBKoWADxzHAH3lEnPDC6EdoC4UVlU1Igw9xgXh2ljFamfAqgDaFiTl3H+mDkK2OdrYQle0WXV/Hmj7/SXSS8JxLjdPZWlLXwlH7weooT8LEaqaOLf51dgWLYcSHXGC1Uhvkt0G2akITWdcRVIZpNeJafjOscYr+D5Ow19/FtVJ9pQ0Y/4F/noaGasLRZn9m8sA0AsfgjgiyDQ5TFQ5oSViLdSzIZk5vwxz7/kGV9e5Wrl0XnoLMzviNvX/FAc8De0Q9RJUR42RTEYYXDU20Vb7iNhidfqHfRsuC/wh7nWXfoIgXKEAdo34F1pk9bOiBrDqg+SXMwQrFwbPw4EQg0Pk3/eXjQdmFz9Z5P2QWIOmqTU2y85fo9iwJRJO+Hxway/f7XzeGC83dL6JVS2FOLR5pJtsVSoi0/oFXaUbUAymbqKPbRRPdPxgk7hx+xlTkwz83FhGUMkgNpPD4yWLBZJMBjTV4L2oaJUvQA==;wb/gdUvvML26+xSJnxgfFQ=="
 ---
 

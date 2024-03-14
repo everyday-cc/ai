@@ -126,6 +126,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 33
+  - title: "HEALWELL AI Announces New Commercial Agreements with WELL HEALTH USA and Circle Medical, Bringing AI-Based Preventative Care Solutions to U.S. Market"
+    excerpt: "HEALWELL AI has signed services agreements with both WELL Health USA and U.S. based Circle Medical Technologies Inc., which expands its footprint in the U.S. and will enable U.S. healthcare providers with a suite of artificial intelligence (AI) powered preventative care solutions."
+    publishedDateTime: 2024-03-14T11:28:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/14/9978201.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "mNrTp7U7SFgW8mMoEz6v3akh42Xa8bHyzgAUFkCP/QnxOB+9YhhBo9PkqCXF6dr5HtJbpDw4haEPm5N3s0RpqiwM6YPIKsWdndGId++BMpHbjFvzuzvohCWW7PPN7hDam9POMCQ5AkxkDAFlFyi/fRfZIKQ28YQCWEcdXcvCONuRap+pzV5XRY9wts+0HhTuHwkB76tRx/22YxZo173pTt1t33b0kMcT2GQ3pNbCIYIpNiZkYTDTJ6dRXMOlhfvdhjtTIMEz/oFdkyWqhnFCWBJezG7bed+0mQFeXtXTrS3iIcLQdDlMUfCv9Rj7X8PyMDNGR/JWVy4bnLJjTUFjh65jLgIF+RAuTwJWWEMZAUI=;kADiImE7S48YQdXLd4dK5w=="
 ---

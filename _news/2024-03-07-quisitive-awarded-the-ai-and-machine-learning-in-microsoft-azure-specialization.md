@@ -1,29 +1,25 @@
 ---
 category: news
 title: "Quisitive Awarded the AI and Machine Learning in Microsoft Azure Specialization"
-excerpt: "as well as executing Azure solutions for AI-powered applications and machine learning life cycles. Securing this advanced specialization requires multiple certifications, a successful track record ..."
-publishedDateTime: 2024-03-07T00:00:00Z
-originalUrl: "https://winnipegsun.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization"
-webUrl: "https://winnipegsun.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization"
-ampWebUrl: "https://winnipegsun.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization/wcm/ba3e0bf0-f7ce-4c4a-9213-b5d8012c4cd3/amp/"
-cdnAmpWebUrl: "https://winnipegsun-com.cdn.ampproject.org/c/s/winnipegsun.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization/wcm/ba3e0bf0-f7ce-4c4a-9213-b5d8012c4cd3/amp/"
+excerpt: "Quisitive Technology Solutions Inc. (“Quisitive” or the “Company”) (TSXV: QUIS, OTCQX: QUISF), a premier Microsoft solutions provider, announced it has earned the prestigious AI and Machine Learning in Microsoft Azure Specialization."
+publishedDateTime: 2024-03-07T14:30:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization-1033142131"
+webUrl: "https://markets.businessinsider.com/news/stocks/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization-1033142131"
 type: article
 
 provider:
-  name: winnipegsun
-  domain: winnipegsun.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Microsoft AI
-  - AI
   - Machine Learning
+  - AI
+  - Microsoft AI
 
-images:
-  - url: "https://dcs-static.gprod.postmedia.digital/15.6.0/websites/images/canada/fallback.jpg"
-    width: 640
-    height: 480
-    isCached: true
-
-secured: "Id2XAvyUakewIyMU1cOGYJ2neocn1uGPo4pBwOifpyqEnv6+5mdBgHt3VMJzpc0p9/dL+HyGw25mcVgn4WQfQgRjPZe9K+iJBXVTt+whbbs5VHtIBMLSFtVYq6gyeb44xCoxwLMT66mlM+Z70SRqZ6T7Yve6oe1vflLv6Y5wSN8kNEsrjMJ5gq0Zk7HZ5tidMLG1h2kusdXUy77dDMZ90uBluQR9o78XEu9zYontkTKKvTbKGyhu7gcSpO7PNuRNURguhwixZ+iUjXBRuiRXrV9tN/FnnbwR9gKjeTTcX+dLAJ2lSVI+aRamcKiDKStl9DlyJU5t6vYp4KhDi55UX/OI0W6jgmxSJl4k49HFLjg=;VzlWQ5Q5M4Zjds44PVihZQ=="
+secured: "AKR0eYrmqVlaBat4B9um38VmW1i3nZ00plVhtFa+EatzRbAq9Nsmo21kxIVbzQWpqJVDqfSLKK8VtaDVSd8fn1M/jb4XcamzECjFAyRJiA+5uvmg25X2/Ut+grnsMw8nbBr3ZdkgkQxtpQfXjKQgBMzFUsq93qtiAsLcGcIQAvuvSGi/a0h7+ygOuTn+5O9URUeDJR87v3Y0ibkLb7s7gHuKfF+oVL4w4bqHEvP5BHhw5cXbNJ33BZJS3RFqB7EjPfTpCZJTKXDhoUs4CtUCWwga7J7bGgGdsOKfLPn66c3Djg3eQT/FkcD937Fa+2knJdUWdR9pQcnmps7Ig52opF6hf2K/gQjimLB8VZD+NNo=;XLxlGm0Dpzt3uSNUsuYaMA=="
 ---
 

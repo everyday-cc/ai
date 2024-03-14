@@ -33,6 +33,20 @@ related:
         width: 1360
         height: 907
         isCached: true
+  - title: "The Do’s And Don’ts Of Using Artificial Intelligence In Business School"
+    excerpt: "Can AI tools help you in business school? Is AI resume help a good idea in your job search? We spoke to the dean of Villanova School of Business to find out"
+    publishedDateTime: 2024-03-14T10:06:00Z
+    webUrl: "https://www.businessbecause.com/news/mba-jobs/9260/dos-donts-using-artificial-intelligence-business-school"
+    type: article
+    provider:
+      name: Business Because
+      domain: businessbecause.com
+    quality: 37
+    images:
+      - url: "https://www.businessbecause.com/uploads/default/news/images/845a9791142b82a8b5536bae844a83976fc67680.png"
+        width: 750
+        height: 468
+        isCached: true
 
 secured: "Seqj+h1Ehg3xU40UMbz3NeSdYBYqq02MAmMAeJ9bDPDKsIZn0ALdZotA1GW2Wv9vnqXiusnq96ScsvTAnYoc0TIWQ3L5RJYYnlv4VRiEbFbOmO7xU/4yzuT5pLBQAqmTQAsqGJ/2gN+7DAoKIJ38a7QfJK7fvG0ti0JXxkyLOpP3O3JzjYPJmKHnGp04wtr1VLUa52hBSRfy4pi5lUZJcZAtcPa/GZF/bISXJEfFZXYTLl7yt10TtzwxXWjbWa6zPYMP/DZHxqwSJPXyfYRkMp7KKb1jWZDL5cfeuK+32XoBv+9HpAe2z49Yr0k49SpR+3Wdt1Ft4M24Vq1XtHuLF6JDYOlSvXpxedQklJaZJFQ=;rgjkh2jGNTBxs9vEKL3z0Q=="
 ---

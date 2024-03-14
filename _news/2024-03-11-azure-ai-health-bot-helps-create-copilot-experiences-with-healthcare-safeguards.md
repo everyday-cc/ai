@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/blog/azure-ai-health-bot-helps-c
 webUrl: "https://azure.microsoft.com/en-us/blog/azure-ai-health-bot-helps-create-copilot-experiences-with-healthcare-safeguards/"
 type: article
 quality: 117
-heat: 197
+heat: 207
 published: true
 
 provider:
@@ -131,6 +131,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 33
+  - title: "HEALWELL AI Announces New Commercial Agreements with WELL HEALTH USA and Circle Medical, Bringing AI-Based Preventative Care Solutions to U.S. Market"
+    excerpt: "HEALWELL AI has signed services agreements with both WELL Health USA and U.S. based Circle Medical Technologies Inc., which expands its footprint in the U.S. and will enable U.S. healthcare providers with a suite of artificial intelligence (AI) powered preventative care solutions."
+    publishedDateTime: 2024-03-14T11:28:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/14/9978201.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "YJeni5hqE0omhqYGBSPrQ/2JW/t/n/cppC4TC/8eIDGisuz/vPZE4ZA0bqcdKKTiOmHIWiewNeVJW+TY+DApKXgV3LSoZ6nKS+P5zv+yzjyJO092e0crzBq0zSJ9kVnLo9NLU5G2r+IzIy9LhKCXqrIb1trlCSK8P7UtbiecjJXytJLL7UkXC8kcEL/YhyapAfQpDTLZ/xGWzom+YJu6c2bawWYBt8cDkkGa2TjcKyfJymSvBT9+iRUJhI0y1SSyQHSjW1ji1M3z6x7ZrdYMCb2NYdYa4hvxuvGzf97M9AicaRjk/SVk7JIU2zigWPxEalAr0SstE6Bt4mTx4axA9MHpyGXPYu0KJGHQVc1jpOE=;VKwTxJy4HOJY+5sTiy5iyA=="
 ---

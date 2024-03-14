@@ -2,6 +2,40 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-02-03-10-surgical-robotics-companies-to-follow-in-2024.md",
+      "title": "10 surgical robotics companies to follow in 2024",
+      "excerpt": "Here is a list of 10 surgical robotics companies that continue to attract attention from our editors and audience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/10-surgical-robotics-companies-worth-following-in-2024/",
+      "originalUrl": "https://www.therobotreport.com/10-surgical-robotics-companies-worth-following-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-03T14:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-02-amp-robotics-rebrand-highlights-expanded-portfolio.md",
       "title": "AMP Robotics rebrand highlights expanded portfolio",
       "excerpt": "AMP was founded nearly a decade ago, with the goal of proving AI, machine learning, and robotics can transform recycling.",
@@ -1291,59 +1325,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-most-top-news-sites-block-ai-bots-right-wing-media-welcomes-them.md",
-      "title": "Most Top News Sites Block AI Bots. Right-Wing Media Welcomes Them",
-      "excerpt": "Originality tallied which sites block GPTbot and other AI scrapers by surveying the robots.txt files that websites use to inform automated web crawlers which pages they are welcome to visit or barred from. The startup used Internet Archive data to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/most-news-sites-block-ai-bots-right-wing-media-welcomes-them/",
-      "originalUrl": "https://www.wired.com/story/most-news-sites-block-ai-bots-right-wing-media-welcomes-them/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/65b07abd3461909d851157ff/191:100/w_1280,c_limit/business_rightwing_news_ai_bots.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-24T07:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

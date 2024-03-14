@@ -71,6 +71,22 @@ related:
         width: 1513
         height: 900
         isCached: true
+  - title: "How Generative AI Will Change The Jobs Of Lawyers"
+    excerpt: "Generative AI promises to revolutionize the legal profession by streamlining research and document analysis, enhancing risk assessment."
+    publishedDateTime: 2024-03-14T07:14:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/03/14/how-generative-ai-will-change-the-jobs-of-lawyers/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/03/14/how-generative-ai-will-change-the-jobs-of-lawyers/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/03/14/how-generative-ai-will-change-the-jobs-of-lawyers/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65f2a3a5a9d6edfffef7df48/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Why generative AI systems are stupid"
     excerpt: "Generative AI systems for business are alarmingly inaccurate. Data needs some serious attention to avoid wrong info, bias, or legal trouble."
     publishedDateTime: 2024-03-12T09:10:00Z

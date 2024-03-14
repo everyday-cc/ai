@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-avoid-the-headaches-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-avoid-the-headaches-of-ai-skills-development/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Welcome to the Valley of the Creepy AI Dolls"
-    excerpt: "Wendy Moyle is a professor at the School of Nursing & Midwifery Griffith University in Australia who works with patients experiencing dementia. She says her work with social robots has angered people, who sometimes see giving robot dolls to older adults as infantilizing."
-    publishedDateTime: 2024-03-09T11:00:00Z
-    webUrl: "https://www.wired.com/story/ai-dolls-for-older-adults/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 69
-    images:
-      - url: "https://media.wired.com/photos/65eb4f1df0b575321bdc1cf1/191:100/w_1280,c_limit/AI-Dolls-Featured-Gear.jpg"
-        width: 1280
-        height: 670
-        isCached: true
   - title: "Startup taps AI to bolster nuclear power development"
     excerpt: "A new startup called Atomic Canyon is harnessing artificial intelligence to help nuclear developers navigate complex federal licensing processes. Why it matters: The firm's emergence from stealth comes as developers — including small modular reactor companies — will increasingly seek Nuclear Regulatory Commission approvals."
     publishedDateTime: 2024-03-12T12:40:00Z

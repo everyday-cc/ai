@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "Google Restricts Replies to Queries on India Polls Via Gemini AI"
+    excerpt: "Alphabet Inc.’s Google is curbing its generative artificial intelligence chatbot, Gemini, from responding to queries directly related to Indian general elections starting next month, conforming with similar controls in the US and other countries holding elections."
+    publishedDateTime: 2024-03-13T10:40:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2024-03-13/google-restricts-replies-to-queries-on-india-polls-via-gemini-ai"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
   - title: "Opinion: Gemini, Google’s latest AI tool, had a troubling talk with my ‘son’"
     excerpt: "Anti-White bias is hardly the only problem despite the company promise of “the most comprehensive safety evaluations”"
     publishedDateTime: 2024-03-12T12:30:00Z

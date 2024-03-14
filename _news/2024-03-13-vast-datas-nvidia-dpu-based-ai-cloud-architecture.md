@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2024/03/12/vast-datas-nvi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2024/03/12/vast-datas-nvidia-dpu-based-ai-cloud-architecture/amp/"
 type: article
 quality: 89
-heat: 369
+heat: 379
 published: true
 
 provider:
@@ -219,6 +219,15 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 49
+  - title: "Nvidia Stock’s Premium Price Tag Is a Small Fee for a First-Class Ticket to AI Riches"
+    excerpt: "Nvidia’s earnings growth from AI-compatible chips outweighs the impact on NVDA’s share price. This implies that the impact on NVDA’s share price does not fully reflect the prior and recent success of Nvidia’s earnings growth from AI-compatible chips."
+    publishedDateTime: 2024-03-14T05:40:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nvidia-stocks-premium-price-tag-is-a-small-fee-for-a-first-class-ticket-to-ai-riches-1033163250"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
   - title: "Nvidia: We Were Right About Data Center And AI"
     excerpt: "Nvidia Corporation's commitment to innovation in the data center drives strong revenue growth, surpassing competitors. Find out why NVDA stock is a Strong Buy."
     publishedDateTime: 2024-03-11T19:24:00Z
@@ -386,6 +395,6 @@ related:
       domain: usatoday.com
     quality: 13
 
-secured: "HDnZpIikiWn+i/mxNhHYOzq1XXVhfdGFX+E4n5tGPxtXiPlfeRRnMcCVnhR2ZPIGEZe84+CBZz6/Vr4Kei4eJ4+lSIbQ13YecU2/bK3i+uv2N41bqL2meQ/deP3p7QwKGqrPCV6968CuRzuLocnVNsD0pm+FOYTKlLRbEdJCcYhbnEC4JDxmPR4dgP3PmGoqeCIJMjmNDXCB5EFchIjyxcHGJWkoa11q3ETxCEZUTG5JsGo/QR8GyhXdH+YMDHJYugTO+1huMGHeL/cswDJ7DnX3OVekqSSGh5WuSDLoZXtyHmSJTGOQ9zPlrCw9H+4MnZt9WNtJ++0yO+ocwW8QdVwU9Rqipy/HDUZnA6FQTA0=;fC3HDF6UhRTY/yqKwBEoSA=="
+secured: "cvfRWP3TfmGohikuhLFbXFfd1ss0XaVFKDunMhY8UMuf+BhamshRQK/fcq4ykjNGR/SxOCltmxoQlMi5Tx72cqeWidgPJGLx1bobZHtKtkmQ6wyrI/5xwnkD6YHoPb5BQSQ1cNNcrunhNe5VDfCn/HAFXxBIkhxXmoAdr5F4f0D0LJVGDHUotsqt5GbY3Dt0P4bpQkQhd6QUtjpRtkg+xx0LnSeCDlSsvtQZX+avvDoMuaSpSYmk4KCMdcrzQs1F3BdxIE2R8jMoQ5iLHqEAjO/XIgmuEEbaunoza1KFG/hHDUuQ7rQLO9GnTSMPLMFWuwV8BzQ14DUd69yrOtJJMT8fUShW2VN2aQNRX1xkqjHzF2ileRrvln9GpAI7KVoCXNuPue9J4+DTzSwM3/YzYsZUwtq697S0nMqgzL8SNtEdbzYa5lK5i5ycOkcoK1pPG0ULAPAnm4K0FC5UCCipBMq6nmgaRj7pKc5zoemgPFk6TMARZA2Edpk6mSwqUep8HfgmKkou8ZBW14nSaOHlbQ==;HE7RFbw4+oFJBLvqCaMSgA=="
 ---
 

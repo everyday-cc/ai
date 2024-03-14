@@ -1,15 +1,15 @@
 ---
 category: news
 title: "AI Identifies Risk of Developing Diseases Decades in Advance"
-excerpt: "therapy or in health care,” the scientists concluded. Artificial intelligence machine learning is rapidly emerging as a promising tool for clinicians and researchers to spot meaningful patterns from massive amounts of complex healthcare data to ..."
-publishedDateTime: 2024-03-13T00:00:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202403/ai-identifies-risk-of-developing-diseases-decades-in-advance"
-webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202403/ai-identifies-risk-of-developing-diseases-decades-in-advance"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202403/ai-identifies-risk-of-developing-diseases-decades-in-advance?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202403/ai-identifies-risk-of-developing-diseases-decades-in-advance?amp"
+excerpt: "Interestingly, the AI algorithm identified 70 pairs of disease trajectories that share some diagnoses earlier in life but eventually diverge later in life into separate diagnoses. The scientists point out that although no conclusion on causality can be made, the AI algorithm suggests potential early risk factors."
+publishedDateTime: 2024-03-13T16:06:00Z
+originalUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202403/ai-identifies-risk-of-developing-diseases-decades-in-advance"
+webUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202403/ai-identifies-risk-of-developing-diseases-decades-in-advance"
+ampWebUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202403/ai-identifies-risk-of-developing-diseases-decades-in-advance?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202403/ai-identifies-risk-of-developing-diseases-decades-in-advance?amp"
 type: article
-quality: 59
-heat: 69
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -20,30 +20,6 @@ topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://cdn2.psychologytoday.com/assets/styles/article_inline_half_caption/public/field_blog_entry_images/2024-03/pic15156.jpg?itok=2szWLA-e"
-    width: 320
-    height: 273
-    isCached: true
-
-related:
-  - title: "Chinese Researchers on the Brink of Developing 'Real AI Scientists' Capable of Conducting Experiments, Solving Scientific Problems"
-    excerpt: "Chinese researchers are on the brink of pioneering a groundbreaking approach to developing 'AI scientists capable of conducting experiments and solving scientific problems. Recent advances in deep learning models have revolutionized scientific research ..."
-    publishedDateTime: 2024-03-10T09:03:00Z
-    webUrl: "https://www.techtimes.com/articles/302436/20240310/chinese-researchers-brink-developing-real-ai-scientists-capable-conducting-experiments.htm"
-    ampWebUrl: "https://www.techtimes.com/amp/articles/302436/20240310/chinese-researchers-brink-developing-real-ai-scientists-capable-conducting-experiments.htm"
-    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/302436/20240310/chinese-researchers-brink-developing-real-ai-scientists-capable-conducting-experiments.htm"
-    type: article
-    provider:
-      name: techtimes
-      domain: techtimes.com
-    quality: 29
-    images:
-      - url: "https://1734811051.rsc.cdn77.org/data/images/full/444543/2022-world-robot-conference.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-
-secured: "p60EsQyH2+/PHJjuENB+E5d4UWurUzk4Zm8Dn0IgBooXXH/HY3Wc94MZ7GLL/m7AGlyNDSK8xQMX0hxKfpRDYY84dSMEaYRj/KLsCHxYIF8OzUF2/Bnh5imnJLJcXaYJ3p+PtkZgYLPomOQfhSBRCuE/VBsPQS7+Rxg42pbn675aFQAk1cRwaCv5inC0PA4vd8Md4WQXFxm0Cn9SArpVQO8V5ecBl6bEFBSGCeMDxVNeUvL54md6+F3oRfzsrwPn9mM3AtwcxIdxJbcY1EqCOHxwQ4R49oIcI3IWXZM6N5egMJboiEcoZmZHv3DujriVhqRWYk0H9xgXXW7ZEHmDGPenzje9+AjwQkjgx4ZWyaE=;XPFL2eeHIKTJ8rtBRqpY8w=="
+secured: "M1i9F01cCNNVh3kz0OqiFu1/kyNp3pNT6B1Wv9SkYr+bbd3W69cB2VmK3oc09j5UEjPFG13OYWBVqO8tj0JzHcLocGV0kS7CsVtNE5c+X3cHipv9FOLkydL6bbZV5P05sAzxSwX+eveX68Sm+N65coYYA4rfhd723yvBdWPuNgaCdHpYK8J9lg2lztfVmMoH+I27zlORO5KUHqoJB/BkKO0ubO5PCkddHYO/jAXgHzZMj8qu3IrVPdZty/IBfvinKm4NL1ICNfPoRaJub/UAtSaB6MmSFwLfzdVEO0lkwGUrBDZkB59mBDR+e50Qr/8ueyFU3+gzClo0KsEgeobHkkWu0/uwpHckvYjtf1PWyZso58ShiFIETTFt0tcJh/iG6ES241JEpaK2CTWMRZH3L+sfbH4OEfTqGJK+/Rv6l8wRITyM0PhfTM752LXMn8kvmdpjf6OSNih6PAdAiA/jtioWCLv24i2wSg7Qn02EIp8Z8PqMY1bCQH1qK9YYFnurcikSL0AzHSogqrnpviq4ZA==;QmK/gtlZlN1+V58CWrUPrw=="
 ---
 

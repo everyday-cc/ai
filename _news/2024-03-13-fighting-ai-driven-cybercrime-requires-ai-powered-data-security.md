@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "I got a massage from an AI-powered robot, and it was surprisingly relaxing"
+    excerpt: "Aescape is launching ten AI massage robot tables at Equinox locations around New York City this spring. Here's what it's like to be massaged by a robot."
+    publishedDateTime: 2024-03-13T06:00:00Z
+    webUrl: "https://www.zdnet.com/article/i-got-a-massage-from-an-ai-powered-robot-and-it-was-surprisingly-relaxing/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/i-got-a-massage-from-an-ai-powered-robot-and-it-was-surprisingly-relaxing/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-got-a-massage-from-an-ai-powered-robot-and-it-was-surprisingly-relaxing/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 102
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/bec27503cc14d523681daf521ed405297e8d9c7e/2024/03/12/e0b75899-4654-4711-90c8-0ba59cba41f1/img-2076.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The Future Of Learning: Reskilling And Rethinking In The AI Age"
     excerpt: "The rise of AI presents a paradigm shift for the business world, demanding a complete reimagining of both education and the future of work."
     publishedDateTime: 2024-03-12T03:30:00Z

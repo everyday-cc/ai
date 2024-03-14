@@ -2,6 +2,160 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-14-this-investor-predicted-the-dot-com-bust-he-thinks-ai-is-a-bubble-that-will-deflate.md",
+      "title": "This investor predicted the dot-com bust. He thinks AI is a bubble that will ‘deflate’",
+      "excerpt": "Is the artificial intelligence boom a bubble or the real deal? GMO’s Jeremy Grantham has an answer Wall Street may not like.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2024/03/14/investing/premarket-stocks-trading-ai-bubble-grantham/index.html",
+      "originalUrl": "https://www.cnn.com/2024/03/14/investing/premarket-stocks-trading-ai-bubble-grantham/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1605854455.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2024/03/14/investing/premarket-stocks-trading-ai-bubble-grantham/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2024/03/14/investing/premarket-stocks-trading-ai-bubble-grantham/index.html",
+      "publishedDateTime": "2024-03-14T11:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-14-the-ai-revolution-is-here-to-stay-are-your-systems-ready.md",
+      "title": "The AI Revolution Is Here To Stay: Are Your Systems Ready?",
+      "excerpt": "If you take time now to harden your cybersecurity and set up proper review procedures, you’ll be well on your way to making the AI revolution work for you.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/14/the-ai-revolution-is-here-to-stay-are-your-systems-ready/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/14/the-ai-revolution-is-here-to-stay-are-your-systems-ready/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65c665858486a2b4671d9af8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1300,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/14/the-ai-revolution-is-here-to-stay-are-your-systems-ready/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/14/the-ai-revolution-is-here-to-stay-are-your-systems-ready/amp/",
+      "publishedDateTime": "2024-03-14T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-14-what-cios-should-consider-when-exploring-generative-ai.md",
+      "title": "What CIOs Should Consider When Exploring Generative AI",
+      "excerpt": "In 2024, generative AI presents a wide range of opportunities and considerations that are important for CIOs to reflect on. It excels in analyzing vast datasets more efficiently than human capability,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/14/what-cios-should-consider-when-exploring-generative-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/14/what-cios-should-consider-when-exploring-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/640f2ca26c680dae90216405/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/14/what-cios-should-consider-when-exploring-generative-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/14/what-cios-should-consider-when-exploring-generative-ai/amp/",
+      "publishedDateTime": "2024-03-14T10:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-14-founder-of-chip-testing-firm-rides-ai-boom-to-become-south-koreas-newest-billionaire.md",
       "title": "Founder Of Chip-Testing Firm Rides AI Boom To Become South Korea’s Newest Billionaire",
       "excerpt": "Shares of Leeno Industrial, an under-the-radar semiconductor firm in Busan, have soared over 70% since November, making founder and CEO Lee Chae-yoon a billionaire.",
@@ -93,6 +247,58 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-14-googles-new-ai-can-play-3d-games-with-you-by-following-natural-language-instructions.md",
+      "title": "Google's new AI can play 3D games with you by following natural-language instructions",
+      "excerpt": "Google DeepMind's new AI takes things a step further by learning human-like gaming skills. Google's DeepMind research group unveiled a new AI program that is capable of learning how to complete tasks in a number of games. Called Scalable Instructable ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/googles-new-ai-can-play-3d-games-with-you-by-following-natural-language-instructions/",
+      "originalUrl": "https://www.neowin.net/news/googles-new-ai-can-play-3d-games-with-you-by-following-natural-language-instructions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2021/01/1611767819_google_logo_red_1_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/googles-new-ai-can-play-3d-games-with-you-by-following-natural-language-instructions/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/googles-new-ai-can-play-3d-games-with-you-by-following-natural-language-instructions/",
+      "publishedDateTime": "2024-03-14T09:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI"
       ]
     },
@@ -336,6 +542,58 @@
         "AI in Robotics",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2024-03-14-visual-studio-taps-more-github-copilot-capabilities.md",
+      "title": "Visual Studio taps more GitHub Copilot capabilities",
+      "excerpt": "Microsoft has released a second preview of Visual Studio 2022 17.10, featuring GitHub Copilot integrations for generating pull request descriptions and explaining commits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3714267/visual-studio-taps-more-github-copilot-capabilities.html",
+      "originalUrl": "https://www.infoworld.com/article/3714267/visual-studio-taps-more-github-copilot-capabilities.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/06/29/14/shutterstock_716332027-100940548-large-100942755-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3714267/visual-studio-taps-more-github-copilot-capabilities.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3714267/visual-studio-taps-more-github-copilot-capabilities.amp.html",
+      "publishedDateTime": "2024-03-13T20:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -988,257 +1246,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-uk-chips-in-44m-for-a-piece-of-europes-14b-pot-for-semiconductors.md",
-      "title": "UK chips in $44M for a piece of Europe’s $1.4B pot for semiconductors",
-      "excerpt": "Chips are an essential — and thus very valuable — building block for the development of the future of technology, whether it’s for advances in AI that require massive computing power, or the development of new consumer electronics, or the next ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/03/13/uk-europe-semiconductors-chips/",
-      "originalUrl": "https://techcrunch.com/2024/03/13/uk-europe-semiconductors-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1359446412.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/03/13/uk-europe-semiconductors-chips/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/13/uk-europe-semiconductors-chips/amp/",
-      "publishedDateTime": "2024-03-13T15:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-the-difference-between-artificial-intelligence-and-machine-learning-and-why-it-matters.md",
-      "title": "The difference between artificial intelligence and machine learning and why it matters",
-      "excerpt": "A Breaking Defense webinar with experts from CDAO, APL, and CNAS gets into the question of defining artificial intelligence vs machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://breakingdefense.com/2024/03/the-difference-between-artificial-intelligence-and-machine-learning-and-why-it-matters/",
-      "originalUrl": "https://breakingdefense.com/2024/03/the-difference-between-artificial-intelligence-and-machine-learning-and-why-it-matters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sites.breakingmedia.com/uploads/sites/3/2022/05/220526_pentagon_AI_brain-e1653573962375.png",
-          "width": 2105,
-          "height": 1184,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://breakingdefense.com/2024/03/the-difference-between-artificial-intelligence-and-machine-learning-and-why-it-matters/?amp=1",
-      "cdnAmpWebUrl": "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2024/03/the-difference-between-artificial-intelligence-and-machine-learning-and-why-it-matters/?amp=1",
-      "publishedDateTime": "2024-03-13T15:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Breaking Defense",
-        "domain": "breakingdefense.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-zendesk-adds-flexible-ai-agent-capabilities-with-ultimate-acquisition.md",
-      "title": "Zendesk adds flexible AI agent capabilities with Ultimate acquisition",
-      "excerpt": "On Wednesday, the company announced it intends to acquire Ultimate, a German customer automation startup. The companies did not share the purchase price. The idea of an AI agent has come to the forefront recently as companies look to build bots that do ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/03/13/zendesk-adds-flexible-ai-agent-capabilities-with-ultimate-acquisition/",
-      "originalUrl": "https://techcrunch.com/2024/03/13/zendesk-adds-flexible-ai-agent-capabilities-with-ultimate-acquisition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1173671080.jpg?resize=1200,1148",
-          "width": 1200,
-          "height": 1148,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/03/13/zendesk-adds-flexible-ai-agent-capabilities-with-ultimate-acquisition/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/13/zendesk-adds-flexible-ai-agent-capabilities-with-ultimate-acquisition/amp/",
-      "publishedDateTime": "2024-03-13T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-ai-in-the-culinary-world-revolutionizing-restaurant-ops-customer-experience.md",
-      "title": "AI In The Culinary World: Revolutionizing Restaurant Ops & Customer Experience",
-      "excerpt": "The integration of AI in the restaurant industry is reshaping dining experiences and operational efficiencies, spanning kitchen processes to customer interactions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/neilsahota/2024/03/13/ai-in-the-culinary-world-revolutionizing-restaurant-ops--customer-experience/",
-      "originalUrl": "https://www.forbes.com/sites/neilsahota/2024/03/13/ai-in-the-culinary-world-revolutionizing-restaurant-ops--customer-experience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65ee9bd5d8bc600924275362/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-13T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-ai-startup-cerebras-unveils-the-wse-3-the-largest-chip-yet-for-generative-ai.md",
-      "title": "AI startup Cerebras unveils the WSE-3, the largest chip yet for generative AI",
-      "excerpt": "Also: AI pioneer Cerebras is having 'a monster year' in hybrid AI ... The Cerebras machine is easier to program than a GPU, Feldman argued. In order to train the 175-billion parameter GPT-3, a GPU would require 20,507 lines of combined Python, C/C++ ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/",
-      "originalUrl": "https://www.zdnet.com/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/fly/bundles/zdnetcore/images/logos/zdnet-logo-yellow.png",
-          "width": 480,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/",
-      "publishedDateTime": "2024-03-13T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }
