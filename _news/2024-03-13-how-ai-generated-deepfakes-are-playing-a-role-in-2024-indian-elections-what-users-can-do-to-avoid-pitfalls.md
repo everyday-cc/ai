@@ -26,6 +26,17 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "AI deepfakes stoke concern among San Francisco lawmakers"
+    excerpt: "Beyond San Francisco, Preston is also hoping to learn how action at the state and federal levels might help address local AI election concerns. So far, Congress has not passed any law that blocks the creation or sharing of deepfakes."
+    publishedDateTime: 2024-03-14T11:00:00Z
+    webUrl: "https://www.sfexaminer.com/news/politics/ai-deepfakes-stoke-concern-among-san-francisco-lawmakers/article_3914cbc2-e184-11ee-9b5f-2b54cd76f1a7.html"
+    type: article
+    provider:
+      name: San Francisco Examiner
+      domain: sfexaminer.com
+    quality: 19
+
 secured: "xrXEvJ8lpzdp2ST7DV2dHZMOV9dUGFiCbqpKicKn4sv8cuZqH9S3fTK05Kv1tRHO1W3N5fb+PCymUKIWK5SmWytSJ/38gy2CaAhHpy6BSr0i+8DNQ9KvjTTf80/guoRieoXcDDPGvQ/KqWYXh0PypKdaOiYqY1J6ei6JNhmYJ20y4jQIdGOTQcbul+nIFAbaKquVx59HXL8Gbt+ryBFg1dipjOvUj2hnKDJ/h5y+c6PlRZNj2OM1iocfO2Iyi3AY4dvHPVKlbUZxHFGcxmWi9GHTQZh3CmbsZHgzqPtawqfQgbg0lythUU+0J5FfRO2MvNQSirClNsQaBl+t4YyH2M7YWmcG1oTTNmUVx1GL6TY=;mIDqnWCeb0soNKBK4/S3Vw=="
 ---
 

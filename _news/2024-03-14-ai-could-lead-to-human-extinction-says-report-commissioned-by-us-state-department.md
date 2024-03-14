@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/ai-report-risks-human-extinction-sta
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-report-risks-human-extinction-state-department-expert-reaction-2024-3?amp"
 type: article
 quality: 81
-heat: 103
+heat: 104
 published: true
 
 provider:

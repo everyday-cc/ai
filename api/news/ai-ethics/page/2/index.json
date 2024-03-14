@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-29-tsmc-founder-foresees-the-need-for-up-to-10-new-fabs-for-ai-chip-manufacturing.md",
+      "title": "TSMC founder foresees the need for up to 10 new fabs for AI chip manufacturing",
+      "excerpt": "Read our ethics statement. A hot potato ... Chang recently stated that the current demand for AI hardware accelerators is so high that his company will soon have to multiply its production capacity at staggering rates. Chang spoke during the inauguration ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/102074-tsmc-founder-foresees-need-up-ten-new-fabs.html",
+      "originalUrl": "https://www.techspot.com/news/102074-tsmc-founder-foresees-need-up-ten-new-fabs.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T23:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2024-02-29-ibms-ai-enhanced-storage-platform-can-identify-ransomware-in-under-a-minute.md",
       "title": "IBM's AI-enhanced storage platform can identify ransomware in under a minute",
       "excerpt": "Read our ethics statement. Forward-looking ... without impacting performance. The new AI-enhanced FlashCore Module 4 is even more advanced, continuously monitoring stats gathered from every single I/O to look for anomalies like ransomware starting to ...",
@@ -1447,58 +1491,6 @@
         "AI Ethics",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2024-02-17-the-ai-alliance-how-to-make-friends-and-influence-ai-policy.md",
-      "title": "The AI Alliance: How To Make Friends And Influence AI Policy",
-      "excerpt": "Goodson discusses the work of the AI Alliance and considers the possible outcomes of several companies being notably absent from its membership.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2024/02/16/the-ai-alliance-how-to-make-friends-and-influence-ai-policy/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2024/02/16/the-ai-alliance-how-to-make-friends-and-influence-ai-policy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65cfcb347d195aa4fef03729/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 870,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2024/02/16/the-ai-alliance-how-to-make-friends-and-influence-ai-policy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2024/02/16/the-ai-alliance-how-to-make-friends-and-influence-ai-policy/amp/",
-      "publishedDateTime": "2024-02-16T20:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

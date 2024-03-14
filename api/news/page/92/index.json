@@ -2,6 +2,264 @@
   "page": 92,
   "value": [
     {
+      "path": "_news/2023-12-28-pinecones-ceo-is-on-a-quest-to-give-ai-something-like-knowledge.md",
+      "title": "Pinecone's CEO is on a quest to give AI something like knowledge",
+      "excerpt": "Companies have been trying to perform searches across the vectors at the heart of AI for a long time. Is this the focused technology the field has been looking for?",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/pinecones-ceo-is-on-a-quest-to-give-ai-something-like-knowledge/",
+      "originalUrl": "https://www.zdnet.com/article/pinecones-ceo-is-on-a-quest-to-give-ai-something-like-knowledge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/fly/bundles/zdnetcore/images/logos/zdnet-logo-yellow.png",
+          "width": 480,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/pinecones-ceo-is-on-a-quest-to-give-ai-something-like-knowledge/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/pinecones-ceo-is-on-a-quest-to-give-ai-something-like-knowledge/",
+      "publishedDateTime": "2023-12-28T12:57:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-28-navigate-the-promises-and-risks-of-ai-assisted-coding.md",
+      "title": "Navigate The Promises And Risks Of AI-Assisted Coding",
+      "excerpt": "AI-assisted coding today is imprecise and error-prone. A 2023 study found that popular AI assistants only generate correct code between 31.1% and 65.2% of the cases. A human developer shipping code of such low quality would have a hard time keeping their job, so why do we accept such a low performance rate when it comes to AI?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/28/navigate-the-promises-and-risks-of-ai-assisted-coding/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/28/navigate-the-promises-and-risks-of-ai-assisted-coding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62dae46f55a065951d9391bd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/28/navigate-the-promises-and-risks-of-ai-assisted-coding/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/28/navigate-the-promises-and-risks-of-ai-assisted-coding/amp/",
+      "publishedDateTime": "2023-12-28T12:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-28-spying-on-beavers-from-space-could-help-save-california.md",
+      "title": "Spying on Beavers From Space Could Help Save California",
+      "excerpt": "A group of scientists taught an algorithm to spot beaver ponds in satellite imagery, which has the potential to help drought-ridden areas like California bounce back.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/spying-on-beavers-from-space-could-help-save-california/",
+      "originalUrl": "https://www.wired.com/story/spying-on-beavers-from-space-could-help-save-california/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/65846185a032f4fcd48c037c/191:100/w_1280,c_limit/science_beavers_climate_environment.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-28T11:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-28-how-to-make-responsible-ai-a-competitive-advantage.md",
+      "title": "How To Make Responsible AI A Competitive Advantage",
+      "excerpt": "To ensure the success of responsible AI programs, it is critical to establish a set of clear, non-negotiable guiding principles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/28/how-to-make-responsible-ai-a-competitive-advantage/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/28/how-to-make-responsible-ai-a-competitive-advantage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/648c6843d9c37c71b63b363e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/28/how-to-make-responsible-ai-a-competitive-advantage/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/28/how-to-make-responsible-ai-a-competitive-advantage/amp/",
+      "publishedDateTime": "2023-12-28T11:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-28-using-sentiment-analysis-to-elevate-the-quality-of-patient-care.md",
+      "title": "Using Sentiment Analysis To Elevate The Quality Of Patient Care",
+      "excerpt": "Technologies that unsettle even the most informed experts and business leaders due to their potential require regulation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/28/using-sentiment-analysis-to-elevate-the-quality-of-patient-care/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/28/using-sentiment-analysis-to-elevate-the-quality-of-patient-care/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/658c44dd6593d3aae253c47b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1311,
+          "height": 874,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/28/using-sentiment-analysis-to-elevate-the-quality-of-patient-care/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/28/using-sentiment-analysis-to-elevate-the-quality-of-patient-care/amp/",
+      "publishedDateTime": "2023-12-28T11:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-28-become-a-strategic-ai-leader-how-ai-is-game-changing-for-leaders.md",
       "title": "Become A Strategic AI Leader: How AI Is Game-Changing For Leaders",
       "excerpt": "How Leaders Can Use AI. So what can you as a leader do to best use AI? Let's take a look. 1. Embrace Data-Driven Decision Making: 'The Decisive Code' Leadership in the age of AI r",
@@ -972,258 +1230,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2023-12-27-can-artificial-intelligence-replace-humans-an-engineering-perspective.md",
-      "title": "Can Artificial Intelligence Replace Humans? An Engineering Perspective",
-      "excerpt": "Our world is and should be evolving, but technology is far from being able to fully replace highly skilled engineers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/27/can-artificial-intelligence-replace-humans-an-engineering-perspective/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/27/can-artificial-intelligence-replace-humans-an-engineering-perspective/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/658ad7ec4ac7a8c76b5ab395/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1276,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/27/can-artificial-intelligence-replace-humans-an-engineering-perspective/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/27/can-artificial-intelligence-replace-humans-an-engineering-perspective/amp/",
-      "publishedDateTime": "2023-12-27T11:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2023-12-27-best-ai-tools-of-2023-chatgpt-rules-the-roost-followed-by-copilot-midjourney-and-more.md",
-      "title": "Best AI tools of 2023: ChatGPT rules the roost, followed by Copilot, Midjourney, and more",
-      "excerpt": "The year witnessed some insane AI tools coming to the fore. Here’s a look at some that we tried and what lies ahead for AI in 2024",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/technology/artificial-intelligence/best-ai-tools-of-2023-chatgpt-microsoft-copilot-midjourney-9084729/",
-      "originalUrl": "https://indianexpress.com/article/technology/artificial-intelligence/best-ai-tools-of-2023-chatgpt-microsoft-copilot-midjourney-9084729/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2023/12/Social-Media-1.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/technology/artificial-intelligence/best-ai-tools-of-2023-chatgpt-microsoft-copilot-midjourney-9084729/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/best-ai-tools-of-2023-chatgpt-microsoft-copilot-midjourney-9084729/lite/",
-      "publishedDateTime": "2023-12-27T09:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-27-big-tech-is-spending-more-than-vc-firms-on-ai-startups.md",
-      "title": "Big Tech is spending more than VC firms on AI startups",
-      "excerpt": "The rise of generative AI—systems capable of producing humanlike video ... Tech companies which can provide cloud infrastructure and access to the most powerful chips as well as dollars. That has rapidly pushed up the valuations of private start-ups ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/ai/2023/12/big-tech-is-spending-more-than-vc-firms-on-ai-startups/",
-      "originalUrl": "https://arstechnica.com/ai/2023/12/big-tech-is-spending-more-than-vc-firms-on-ai-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/bt-sv-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-27T07:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-27-you-can-now-run-microsofts-ai-powered-copilot-as-a-free-android-app.md",
-      "title": "You can now run Microsoft's AI-powered Copilot as a free Android app",
-      "excerpt": "Android users now have yet another AI-powered app they can run on their devices. Courtesy of Microsoft, the new Copilot app works similarly to OpenAI's ChatGPT app and Microsoft's own Bing AI app and kicks in the latest models for GPT-4 and DALL-E 3.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/you-can-now-run-microsofts-ai-powered-copilot-as-a-free-android-app/",
-      "originalUrl": "https://www.zdnet.com/article/you-can-now-run-microsofts-ai-powered-copilot-as-a-free-android-app/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 304,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/91de305b1ff9b91f5fa2ee3e2cccf31c7fb36338/2023/12/27/8bb71652-c584-4532-a5b5-af0318dbb2c9/gettyimages-1684489759.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/you-can-now-run-microsofts-ai-powered-copilot-as-a-free-android-app/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/you-can-now-run-microsofts-ai-powered-copilot-as-a-free-android-app/",
-      "publishedDateTime": "2023-12-27T07:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-27-how-is-ai-moving-finance-forward.md",
-      "title": "How is AI moving finance forward?",
-      "excerpt": "Since the public launch of ChatGPT in November 2022, many people have become aware of AI's ability to augment their skills in a wide variety of activities, including finance. This has been made possible thanks to breakthroughs in computing power, unlocking the ability to train ML using large volumes of quality data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/storyworks/no-progress-without-passion/how-is-ai-moving-finance-forward",
-      "originalUrl": "https://www.bbc.com/storyworks/no-progress-without-passion/how-is-ai-moving-finance-forward",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ychef.files.bbci.co.uk/1780x1080/p0gz6ysy.png",
-          "width": 1780,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-27T04:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "AI in Finance"
       ]

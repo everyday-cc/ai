@@ -88,6 +88,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Google DeepMind has created SIMA, an AI model that plays games. They don’t know why — yet."
+    excerpt: "Google's DeepMind lab has unveiled SIMA — a learning artificial intelligence model that will play games for you. It's customized to play more like a"
+    publishedDateTime: 2024-03-13T20:47:00Z
+    webUrl: "https://itc.ua/en/news/google-deepmind-has-created-sima-an-ai-model-that-plays-games-they-don-t-know-why-yet/"
+    ampWebUrl: "https://itc.ua/en/news/google-deepmind-has-created-sima-an-ai-model-that-plays-games-they-don-t-know-why-yet/amp/"
+    cdnAmpWebUrl: "https://itc-ua.cdn.ampproject.org/c/s/itc.ua/en/news/google-deepmind-has-created-sima-an-ai-model-that-plays-games-they-don-t-know-why-yet/amp/"
+    type: article
+    provider:
+      name: itc.ua
+      domain: itc.ua
+    quality: 64
+    images:
+      - url: "https://itc.ua/wp-content/uploads/2024/03/unnamed.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "QPzgWspkVj+sQLw6/BIkh1Nb0F8tustrmu6LzOtl2vmEmoeatY9AOL3Fbia5c4HH+04iHEmtVCee9/0oyv11LDjX7BEK7EHvjbxUpT0ngGxSBXfxkfUotyEM0zKghav4OCn3l5d4amJEcA44BQXhGuPAdm1Ddn9xIJXkxfsU+BNg1WDaeIwGFk11YnRfCRrILExOp4kPJSV8XQ9lbIfSi1OSDTvPqFAJLheMKdPUxc7VPUBBeWOgf1Twla9oKTbFl/KikLhvkgrugFOTjuIlxIbL2lknta/q9N7c6Fz5WfRYleX2xaCgK6eOnCHl0o5I7wmXt8s05GPFRTKbzXd1KTu94eiUZS0AUTMVEV3KZGE=;zrsC45tXoAl6UWQhZRC3mw=="
 ---

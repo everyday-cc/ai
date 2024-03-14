@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/googles-new-ai-can-play-3d-games-with-you
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/googles-new-ai-can-play-3d-games-with-you-by-following-natural-language-instructions/"
 type: article
 quality: 82
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -31,6 +31,15 @@ images:
     isCached: true
 
 related:
+  - title: "Google's new video game-playing AI follows verbal instructions"
+    excerpt: "Serving tech enthusiasts for over 25 years. TechSpot means tech analysis and advice you can trust. In brief: Google DeepMind's AIs have spent years humiliating the champions of board and video games, but a new project from the research division is instead ..."
+    publishedDateTime: 2024-03-14T06:15:00Z
+    webUrl: "https://www.techspot.com/news/102255-google-new-video-game-playing-ai-follows-verbal.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 49
   - title: "Google’s new ‘SIMA’ AI is your future co-op gaming buddy"
     excerpt: "Google's AI-focused subsidiary, DeepMind, recently announced SIMA, its new \"instructable game-playing AI agent.\""
     publishedDateTime: 2024-03-14T09:18:00Z
@@ -46,6 +55,6 @@ related:
         height: 1000
         isCached: true
 
-secured: "jcHjj0a793mNY6sfvIJWnKY4gswsczYzLRcT9zqfnF5PN6PGx6IH/RHTKBTlNzUofuvF39D3BsX/6hWSVj4cUsNvJA78lOzV91vhawOJLkxylz59VmBlbw5VgHhDfD52mF5lsOd6/OlTnesyGfONh3EI411RGpIgeCvLBQENY8TOioyHXmyxyTCfqEt4UzgqnpyNOvT3LWaft5EchXx23MKHwu57tCBPMBWhkdNmIQv+m2b5joc7WbXJexApG6ysVnsg+rfwR0wyAFwxLX+C5xfYdOnepBo2bx0kys1Itnz7QWbqFWPWWjFj5keoH2iLYnl12hBgkcGIRUh3au30nK+pGll0I/gRIINzjr31v7I=;DfldEMgelzrYZnnYxND12w=="
+secured: "XFrwLU+dFibOIQyHt7Tdc0/UO3/h4HAAeB7aWFavNUiYbDfPIEy/+EfCfYSpHVjTWLcva2FxQj6TzIhaHJP8rT4MjtrwVnLmMbPNNlXtD42iTEQFNRm8XmzBHvzYNrZamm1NOw98fe9q9/YCA6f0Qo0e5aUJiK8J6AuU9JnuLneYSv+R0DpNCc2i5Zk7YJujZ20WYeemzYgKn4kVcDUat14xAYEGqvnd2+AGwPQEjfzsvq5NyMBKfjKTQ7GEqsDJzuooBqCsmv4R8Gz3DlJM5eOzcujKJgvYwv6nRdyntdKj5byHq/pLoEbYLiNRXA4ekOs+p6vlqpZ3stwLhAciBt63BMkj2k8nwyvZ4egg0/6KAH4NVDQCvTloGd6ZuNtrBd3n2Ahmz21R4AlZPNNf9+3A8894NpXkVYWuGVAS3nVtLqcEsVorxyaT+aZUgAizYQEKrCtQAXr9Htio9VWkDI7KXFDIdWMFR10YiUcNT0EQCfTzQa5fx5Tl8YG6wbKrWOa5L++q6rBkGMgHfNzJxg==;nZ6MfsFz1Xdk7ZCF9Ez7jw=="
 ---
 

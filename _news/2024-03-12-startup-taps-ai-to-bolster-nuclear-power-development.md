@@ -6,7 +6,7 @@ publishedDateTime: 2024-03-12T12:40:00Z
 originalUrl: "https://www.axios.com/2024/03/12/artificial-intelligence-nuclear-power"
 webUrl: "https://www.axios.com/2024/03/12/artificial-intelligence-nuclear-power"
 type: article
-quality: 17
+quality: 19
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Meta AI
 
 related:
   - title: "How to avoid the headaches of AI skills development"

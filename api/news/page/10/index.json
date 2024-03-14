@@ -2,6 +2,246 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2024-03-06-cloud-migration-best-practices-optimizing-your-cloud-migration-strategy.md",
+      "title": "Cloud migration best practices: Optimizing your cloud migration strategy ",
+      "excerpt": "As businesses evolve with the digital landscape, learn why cloud migration can help them achieve greater efficiency, scalability and security.\nThe post Cloud migration best practices: Optimizing your cloud migration strategy  appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/cloud-migration-strategy/",
+      "originalUrl": "https://www.ibm.com/blog/cloud-migration-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2024/03/sf_180317_2362_submit_blog-lead-space-40x21-1.jpg",
+          "width": 2400,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T19:57:41Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-facial-recognition-industries-strive-to-balance-benefits-and-privacy-concerns.md",
+      "title": "Facial recognition industries strive to balance benefits and privacy concerns",
+      "excerpt": "Facial recognition technology is rapidly gaining traction in real-world applications as it continues to develop. Companies use this technology to revolutionize everyday life, from expediting processing to enhancing security measures in all industries.",
+      "sourceUrl": null,
+      "webUrl": "https://scotscoop.com/facial-recognition-industries-strive-to-balance-benefits-and-privacy-concerns/",
+      "originalUrl": "https://scotscoop.com/facial-recognition-industries-strive-to-balance-benefits-and-privacy-concerns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scotscoop.com/wp-content/uploads/2024/03/businessandtechfeaturephoto16.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T19:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Carlmont High Scot Scoop",
+        "domain": "scotscoop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-weights-biases-achieves-the-aws-generative-ai-competency.md",
+      "title": "Weights & Biases Achieves the AWS Generative AI Competency",
+      "excerpt": "Achieving the AWS Generative AI Competency in the Foundational Models and App Development category differentiates Weights & Biases as an AWS Partner that has demonstrated technical proficiency and proven customer success supporting the development and governance for generative AI models and applications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2024/03/06/9974204.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2024/03/06/9974204.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/tmc/world.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T18:11:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-producing-more-but-understanding-less-the-risks-of-ai-for-scientific-research.md",
+      "title": "Producing more but understanding less: The risks of AI for scientific research",
+      "excerpt": "Enlarge / Current concerns about AI tend to focus on its obvious errors. But psychologist Molly Crockett and anthropologist Lisa Messeri argue that AI also poses potential long-term epistemic risks to the practice of science.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/science/2024/03/producing-more-but-understanding-less-the-risks-of-ai-for-scientific-research/",
+      "originalUrl": "https://arstechnica.com/science/2024/03/producing-more-but-understanding-less-the-risks-of-ai-for-scientific-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/ai-brain-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T18:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-aws-launches-generative-ai-competency-to-grade-ai-offerings.md",
+      "title": "AWS launches Generative AI Competency to grade AI offerings",
+      "excerpt": "To help address this problem, Amazon Web Services (AWS) today launched a way to validate the helpfulness of these AI models. AWS' Generative AI Competency program aims to validate generative AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/aws-launches-a-generative-ai-competency-to-grade-ai-offerings/",
+      "originalUrl": "https://www.zdnet.com/article/aws-launches-a-generative-ai-competency-to-grade-ai-offerings/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/75a15e995d758da0f83fd69a37fa69412fff4b77/2023/07/26/555753b7-65f1-4cac-b013-6d5c50a28bfc/img-7865.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aws-launches-a-generative-ai-competency-to-grade-ai-offerings/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-launches-a-generative-ai-competency-to-grade-ai-offerings/",
+      "publishedDateTime": "2024-03-06T18:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-07-us-officials-face-tough-choices-for-subsidising-ai-chip-manufacturing.md",
       "title": "US officials face tough choices for subsidising AI chip manufacturing",
       "excerpt": "Betting on AI chips is also challenging in the rapidly evolving industry. Handing out subsidies today to the likes of Intel, TSMC, or Samsung Electronics, which is also vying for federal dollars and is the only other firm in the world that can make advanced chips,",
@@ -932,243 +1172,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2024-03-06-nvidia-microsoft-and-jeff-bezos-invested-in-a-26-billion-robotics-start-up-heres-why-thats-good-news-for-tesla.md",
-      "title": "Nvidia, Microsoft, and Jeff Bezos Invested in a $2.6 Billion Robotics Start-Up. Here's Why That's Good News for Tesla.",
-      "excerpt": "The deal with Figure AI is just another stat-line showing that there is a big interest in this area of robotics. Furthermore, given the number of artificial intelligence (AI) businesses fueling ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2024/03/06/nvidia-microsoft-and-jeff-bezos-invested-in-a/",
-      "originalUrl": "https://www.fool.com/investing/2024/03/06/nvidia-microsoft-and-jeff-bezos-invested-in-a/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-06T06:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-06-watad-energy-communications-unveils-mulhem-first-locally-trained-arabic-language-large-language-model-in-saudi-arabia.md",
-      "title": "Watad Energy & Communications Unveils \"Mulhem,\" First Locally Trained Arabic-Language Large Language Model in Saudi Arabia",
-      "excerpt": "In a significant development for the Arabic-speaking AI sector, Watad Energy & Communications today announced the launch of \"Mulhem,\" the",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/watad-energy--communications-unveils-mulhem-first-locally-trained-arabic-language-large-language-model-in-saudi-arabia-302080084.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/watad-energy--communications-unveils-mulhem-first-locally-trained-arabic-language-large-language-model-in-saudi-arabia-302080084.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2355087/Watad.jpg?p=facebook",
-          "width": 1599,
-          "height": 838,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-06T05:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-06-us-blocks-amd-from-selling-ai-chip-tailored-for-china-without-licence-sources.md",
-      "title": "US blocks AMD from selling AI chip tailored for China without licence: sources",
-      "excerpt": "The US company had hoped to get Washington’s approval to sell to Chinese customers its MI309 processor, which performs at a lower level than what the company sells globally.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-war/article/3254327/us-blocks-amd-selling-ai-chip-tailored-china-without-licence-sources",
-      "originalUrl": "https://www.scmp.com/tech/tech-war/article/3254327/us-blocks-amd-selling-ai-chip-tailored-china-without-licence-sources",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/03/06/17dbafef-d2ea-4e14-9aad-c157ae6799bb_f578f2f2.jpg?itok=1P5ZJByg&v=1709694364",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-06T03:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-06-single-chip-mpu-bring-vision-ai-to-next-gen-robotics.md",
-      "title": "Single-chip MPU bring vision AI to next-gen robotics",
-      "excerpt": "Renesas Electronics Corporation has expanded its popular RZ Family of microprocessors (MPUs) with a new device targeting high-performance robotics applications. Offering the highest levels of performance within the family,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eeworldonline.com/single-chip-mpu-bring-vision-ai-to-next-gen-robotics/",
-      "originalUrl": "https://www.eeworldonline.com/single-chip-mpu-bring-vision-ai-to-next-gen-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eeworldonline.com/wp-content/uploads/2024/03/rzv2h-pressphoto-notext.jpeg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-06T00:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eeworldonline",
-        "domain": "eeworldonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Hardware",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-03-06-salesforce-rolls-out-customization-tool-for-einstein-copilot-generative-ai-assistant.md",
-      "title": "Salesforce Rolls Out Customization Tool for Einstein Copilot Generative AI Assistant",
-      "excerpt": "On March 6, the CRM giant rolled out: Einstein 1 Studio, which can be used to customize the Einstein AI assistant. A Slack Developer Program. Research on how tech leaders and IT workers perceive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/salesforce-trailblazer-tdx-generative-ai/",
-      "originalUrl": "https://www.techrepublic.com/article/salesforce-trailblazer-tdx-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.techrepublic.com/uploads/2024/03/salesforce-einstein-copilot.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-06T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
       ]
     }
   ],

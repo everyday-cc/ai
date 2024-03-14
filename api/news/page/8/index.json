@@ -2,6 +2,236 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2024-03-08-how-stitch-fix-is-using-generative-ai-to-help-us-dress-better.md",
+      "title": "How Stitch Fix Is Using Generative AI To Help Us Dress Better",
+      "excerpt": "What makes Stitch Fix really special is its ability to strike that perfect balance between human knowledge and machine capabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2024/03/08/how-stitch-fix-is-using-generative-ai-to-help-us-dress-better/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2024/03/08/how-stitch-fix-is-using-generative-ai-to-help-us-dress-better/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e4a9bf6aa5b8be3b7e9175/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1599,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2024/03/08/how-stitch-fix-is-using-generative-ai-to-help-us-dress-better/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/03/08/how-stitch-fix-is-using-generative-ai-to-help-us-dress-better/amp/",
+      "publishedDateTime": "2024-03-08T05:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-08-ayushmann-khurrana-need-to-develop-certain-laws-related-to-artificial-intelligence.md",
+      "title": "Ayushmann Khurrana: 'Need to develop certain laws related to artificial intelligence'",
+      "excerpt": "Actor Ayushmann Khurrana on Thursday said while filmmaking and technology go hand-in-hand, there is a need to regulate the use of artificial intelligence (AI). Khurrana was speaking on the third day of FICCI Frames 2024 here at the session titled \"From ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraphindia.com/entertainment/ayushmann-khurrana-need-to-develop-certain-laws-related-to-artificial-intelligence/cid/2005506",
+      "originalUrl": "https://www.telegraphindia.com/entertainment/ayushmann-khurrana-need-to-develop-certain-laws-related-to-artificial-intelligence/cid/2005506",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.telegraphindia.com/telegraph/2023/Apr/1681115561_ayushmann-khurrana.jpeg",
+          "width": 900,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.telegraphindia.com/amp/entertainment/ayushmann-khurrana-need-to-develop-certain-laws-related-to-artificial-intelligence/cid/2005506",
+      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/entertainment/ayushmann-khurrana-need-to-develop-certain-laws-related-to-artificial-intelligence/cid/2005506",
+      "publishedDateTime": "2024-03-08T04:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Telegraph",
+        "domain": "telegraphindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-08-caricom-llama-a-onu-eeuu-francia-y-canada-a-reunion-sobre-haiti.md",
+      "title": "Caricom Llama A ONU, EEUU, Francia Y Canadá A Reunión Sobre Haití",
+      "excerpt": "La Comunidad del Caribe (Caricom) convocó este viernes a Estados Unidos, Francia, Canadá y la ONU a una reunión el lunes en Jamaica para tratar la \"grave ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/spanish/caricom-llama-a-onu-eeuu-francia-y-canada-a-reunion-sobre-haiti-3886c497",
+      "originalUrl": "https://www.barrons.com/news/spanish/caricom-llama-a-onu-eeuu-francia-y-canada-a-reunion-sobre-haiti-3886c497",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg",
+          "width": 1320,
+          "height": 742,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/spanish/caricom-llama-a-onu-eeuu-francia-y-canada-a-reunion-sobre-haiti-3886c497",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/spanish/caricom-llama-a-onu-eeuu-francia-y-canada-a-reunion-sobre-haiti-3886c497",
+      "publishedDateTime": "2024-03-08T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-08-how-do-computers-and-humans-process-language.md",
+      "title": "How Do Computers and Humans Process Language?",
+      "excerpt": "The human natural language model and the natural language model ... And yet the computational and human language processing models also show remarkable differences. The amount of language data the computational model needs to be trained is very different ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/za/blog/keeping-those-words-in-mind/202403/how-do-computers-and-humans-process-language",
+      "originalUrl": "https://www.psychologytoday.com/za/blog/keeping-those-words-in-mind/202403/how-do-computers-and-humans-process-language",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/teaser_image/blog_entry/2023-12/world.jpg?itok=m16iHO5f",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/za/blog/keeping-those-words-in-mind/202403/how-do-computers-and-humans-process-language?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/keeping-those-words-in-mind/202403/how-do-computers-and-humans-process-language?amp",
+      "publishedDateTime": "2024-03-08T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-08-the-necessity-of-building-strong-data-ai-executive-leadership-for-an-ai-future.md",
+      "title": "The Necessity Of Building Strong Data & AI Executive Leadership For An AI Future",
+      "excerpt": "Much has been written recently about the impact that AI will have on global organizations — companies, governments, non-profits – and how organizations must prepare",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/randybean/2024/03/07/the-necessity-of-building-strong-data--ai-executive-leadership-for-an-ai-future/",
+      "originalUrl": "https://www.forbes.com/sites/randybean/2024/03/07/the-necessity-of-building-strong-data--ai-executive-leadership-for-an-ai-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ea2cfdacdb5dd5eb110ac0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-07T21:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-07-the-diversity-dividend-how-inclusive-businesses-gain-competitive-advantage.md",
       "title": "The diversity dividend: How inclusive businesses gain competitive advantage",
       "excerpt": "Companies with diverse workforces are better positioned to deliver truly customer-centric experiences to all consumers.\nThe post The diversity dividend: How inclusive businesses gain competitive advantage appeared first on IBM Blog.\n",
@@ -809,6 +1039,49 @@
       ]
     },
     {
+      "path": "_news/2024-03-07-sonata-software-supercharges-harmoniai-with-microsoft-azure-ai-to-drive-responsible-first-ai-adoption-across-enterprises.md",
+      "title": "Sonata Software Supercharges Harmoni.AI with Microsoft Azure AI to Drive Responsible-First AI Adoption Across Enterprises",
+      "excerpt": "Sonata Harmoni.AI, integrating Microsoft Azure AI services, will help customer reimagine business with Generative AI, differentiating themselves in the marketplace . BANGALORE, In",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2024/03/07/9974547.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2024/03/07/9974547.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/689012/4257625/Sonata_Software_Logo.jpg",
+          "width": 400,
+          "height": 279,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-07T12:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-07-the-role-of-ai-in-solving-the-volume-cost-equation-in-customer-service.md",
       "title": "The Role Of AI In Solving The Volume-Cost Equation In Customer Service",
       "excerpt": "It’s important to recognize that generative AI is not the catch-all answer to the volume-cost equation and that everything becomes immediately balanced once implemented.",
@@ -841,282 +1114,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-salesforce-launches-ai-solutions-for-healthcare-professionals-to-ease-administrative-burden.md",
-      "title": "Salesforce Launches AI Solutions for Healthcare Professionals to Ease Administrative Burden",
-      "excerpt": "Salesforce introduced new data and artificial intelligence solutions tailored for healthcare professionals, intending to ease their administrative burdens. One key tool, Einstein Copilot: Health Actions, enables doctors to streamline tasks like appointment ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techtimes.com/articles/302391/20240307/salesforce-launches-ai-solutions-healthcare-professionals-ease-administrative-burden.htm",
-      "originalUrl": "https://www.techtimes.com/articles/302391/20240307/salesforce-launches-ai-solutions-healthcare-professionals-ease-administrative-burden.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://1734811051.rsc.cdn77.org/data/images/full/444500/salesforce-to-report-quarterly-earnings.jpg",
-          "width": 1024,
-          "height": 684,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.techtimes.com/amp/articles/302391/20240307/salesforce-launches-ai-solutions-healthcare-professionals-ease-administrative-burden.htm",
-      "cdnAmpWebUrl": "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/302391/20240307/salesforce-launches-ai-solutions-healthcare-professionals-ease-administrative-burden.htm",
-      "publishedDateTime": "2024-03-07T12:03:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techtimes",
-        "domain": "techtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-the-integral-role-of-robotics-ai-and-automation-in-healthcare.md",
-      "title": "The Integral Role Of Robotics, AI And Automation In Healthcare",
-      "excerpt": "With the advent of robotics, automation and artificial intelligence (AI), we are not merely witnessing a change in how healthcare is delivered; we are at the dawn of a new era where the boundaries of what is possible are being redefined.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/03/07/the-integral-role-of-robotics-ai-and-automation-in-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2024/03/07/the-integral-role-of-robotics-ai-and-automation-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 196,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e8cb84703655ecfeca6379/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1346,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-07T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-yeo-messaging-unveils-revolutionary-continuous-facial-recognition-sdk.md",
-      "title": "YEO Messaging Unveils Revolutionary Continuous Facial Recognition SDK",
-      "excerpt": "YEO Messaging has introduced Continuous Facial Recognition SDK at MWC Barcelona, preventing unauthorised access and breaches in confidentiality.",
-      "sourceUrl": null,
-      "webUrl": "https://techround.co.uk/news/yeo-messaging-unveils-facial-recognition/",
-      "originalUrl": "https://techround.co.uk/news/yeo-messaging-unveils-facial-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techround.co.uk/wp-content/uploads/2024/03/YEOSDK1-1.png",
-          "width": 1024,
-          "height": 783,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techround.co.uk/news/yeo-messaging-unveils-facial-recognition/amp/",
-      "cdnAmpWebUrl": "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/news/yeo-messaging-unveils-facial-recognition/amp/",
-      "publishedDateTime": "2024-03-07T10:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRound",
-        "domain": "techround.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-bengalurus-first-driverless-metro-train-aided-by-ai-all-you-need-to-know.md",
-      "title": "Bengaluru’s first driverless metro train, aided by AI: All you need to know",
-      "excerpt": "The train is set to be commissioned for the under-construction yellow line, connecting RV Road and Bommasandra. The new train will also use artificial intelligence (AI) for safety purposes.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/explained/bengaluru-first-driverless-metro-yellow-line-ai-9201108/",
-      "originalUrl": "https://indianexpress.com/article/explained/bengaluru-first-driverless-metro-yellow-line-ai-9201108/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2024/03/bengaluru-metro-yellow-line.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/explained/bengaluru-first-driverless-metro-yellow-line-ai-9201108/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/explained/bengaluru-first-driverless-metro-yellow-line-ai-9201108/lite/",
-      "publishedDateTime": "2024-03-07T10:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-ex-google-engineer-charged-with-theft-of-ai-tech-for-chinese-firms.md",
-      "title": "Ex-Google engineer charged with theft of AI tech for Chinese firms",
-      "excerpt": "The stolen trade secrets were critical to Google’s AI prowess, involving the specialized hardware and software that power the company’s supercomputing centers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.csoonline.com/article/1312173/ex-google-engineer-charged-with-theft-of-ai-tech-for-chinese-firms.html",
-      "originalUrl": "https://www.csoonline.com/article/1312173/ex-google-engineer-charged-with-theft-of-ai-tech-for-chinese-firms.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.csoonline.com/wp-content/uploads/2024/03/hacker-laptop-digits-computer-screen-cyber-crime-cyber-crime-theft-money-digital-100937829-orig-100947552-orig.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.csoonline.com/article/1312173/ex-google-engineer-charged-with-theft-of-ai-tech-for-chinese-firms.html/amp/",
-      "cdnAmpWebUrl": "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/1312173/ex-google-engineer-charged-with-theft-of-ai-tech-for-chinese-firms.html/amp/",
-      "publishedDateTime": "2024-03-07T10:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CSOonline",
-        "domain": "csoonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-how-to-try-samsungs-galaxy-ai-on-any-iphone-or-android-phone.md",
-      "title": "How to try Samsung’s Galaxy AI on any iPhone or Android phone",
-      "excerpt": "Galaxy AI is a major selling point for the Galaxy S24. Now, you can take Galaxy AI for a test drive on any Android phone or iPhone. Here's how.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/mobile/how-to-try-samsung-galaxy-ai-on-any-iphone-or-android-phone/",
-      "originalUrl": "https://www.digitaltrends.com/mobile/how-to-try-samsung-galaxy-ai-on-any-iphone-or-android-phone/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2024/01/galaxy-s24-ultra-chat-assist.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/mobile/how-to-try-samsung-galaxy-ai-on-any-iphone-or-android-phone/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/how-to-try-samsung-galaxy-ai-on-any-iphone-or-android-phone/?amp",
-      "publishedDateTime": "2024-03-07T09:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

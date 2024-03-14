@@ -37,6 +37,22 @@ related:
         width: 1200
         height: 643
         isCached: true
+  - title: "Tesla Optimus can’t do that. The Figure AI robot received voice, hearing and vision thanks to OpenAI technologies"
+    excerpt: "Figure AI startup, which announced cooperation with OpenAI two weeks ago, has already demonstrated its first results. In the new video, Figure 01 is a"
+    publishedDateTime: 2024-03-14T12:26:00Z
+    webUrl: "https://itc.ua/en/news/tesla-optimus-can-t-do-that-the-figure-ai-robot-received-voice-hearing-and-vision-thanks-to-openai-technologies/"
+    ampWebUrl: "https://itc.ua/en/news/tesla-optimus-can-t-do-that-the-figure-ai-robot-received-voice-hearing-and-vision-thanks-to-openai-technologies/amp/"
+    cdnAmpWebUrl: "https://itc-ua.cdn.ampproject.org/c/s/itc.ua/en/news/tesla-optimus-can-t-do-that-the-figure-ai-robot-received-voice-hearing-and-vision-thanks-to-openai-technologies/amp/"
+    type: article
+    provider:
+      name: itc.ua
+      domain: itc.ua
+    quality: 70
+    images:
+      - url: "https://itc.ua/wp-content/uploads/2024/02/Figure-01-835x505.png"
+        width: 835
+        height: 505
+        isCached: true
 
 secured: "7f9lTYVf9gKZodfk5Iv/aRk81mc9A+W2UkZjDTmH1G3i7OOwvSG2p4PAzaoiqrt4CErGQ8OYeXtXTE0kPXzG5b36L9J3luleOhLD6HkUkbbnln6YhppzN1jtaAvCOVDMODm+4g3mB5syiFweg+rshHLvkmf0Mq5aUwP+lOm9bo09pdlZq5IdQtTmNdGbqdZ+EW+ACoRg2KPqxcxCfDQ4AVlnrIlxFMXdQwquamIeRe43elEVUsrULjQ7lHRH/phFrMrTiV+9B+PKUWtBjSeNKHUWLQ9T9gFjGGkLw7iN0+r3i4eEayTHxKr5WWKtFXXkUEycSOoFVgTbVIVKBeppTGucpO5QTI6u0BlZJNKpzrL6N/YWqocvtoa9p7JzzRYdBbY6MtV/Fs1g+/3BHnhqybThPCJ2qSgcMGj2uXx4ajaYpYJJskuy7HCROXxYKbJX1vQbFiqnDAEcUT1V/FKTir1sSt2EDZvsoIfwJIQgQvkslkb6O3D9gIAb8oQ6XBhZLuuiPmds8jc70aRiT9PiNw==;RVe4gO9QEJ3Akj8GcQYF7g=="
 ---

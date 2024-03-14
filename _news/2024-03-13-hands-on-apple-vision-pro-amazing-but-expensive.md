@@ -53,6 +53,15 @@ related:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
     quality: 21
+  - title: "Hospital Scrubs In Apple Vision Pro For Spine Surgery, Is This The Future Of Healthcare?"
+    excerpt: "Cromwell Hospital is the first hospital in the UK and Europe to use Apple's Vision Pro headset during surgery."
+    publishedDateTime: 2024-03-14T13:10:00Z
+    webUrl: "https://hothardware.com/news/hospital-scrubs-in-apple-vision-pro-spine-surgery"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 10
 
 secured: "B5fdpqbsu0wVsAeDy221zI9XoSJTaAlUzTIyHMp97pToMMaxAUJ2ugvKHt7DQU2MPDnK0suFJOqTRUeyE6AQX357hIA4/dNu/t9vFOtF7/8biWS3Ce2Ktasey/OvZdoqCCpuY9oqjtMin+CHWiXipMjjhjnccAWHCffp2SYI5FPuFbGtt6t0DfddhXZ+TJcPL891sSRohDxfd/XtOAo9ojR4ROr+bZesaXYvM8JR56pNZewgqibTPKzfytzpXC/b20ZxqXSTMVQt/BB1/XDtL7mBbCF8RMsEfNKv3s3yo1YaU83AJL7Ts0OR6kQPlXx33m2+tKhis7CECCLKHzHLGYlfpbYeZtF6YbeqCkp7YvVeI0tFloBFFqNbe09/bdp2CSdM1G0O556kkBi7U6YzJcQ0SrlVfW6mkGr5zOLBbbuePzUzjFyfLYNNlcIY0hpEu7B7bnUz2P0dgiKxKjVuNC5Vp34pGn0d+9nUFw9tGbbMUcgf/ZeIywph1lirnGw6x0VQpDkAIywt1UMmOu/Yvg==;Og6zwqCzOXYygj4O74zWVg=="
 ---

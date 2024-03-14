@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Akamai and Neural Magic Partner to Accelerate Deep Learning AI"
-excerpt: "Akamai Technologies (NASDAQ: AKAM), the cloud company that powers and protects life online, and Neural Magic, a developer of software that accelerates artificial intelligence (AI) workloads, today announced a strategic partnership intended to supercharge deep learning capabilities on Akamai's distributed computing infrastructure."
+excerpt: "Companies announce plan to deploy high-powered deep learning artificial intelligence software at a massive global scale . CAMBRIDGE, Mass.,  /PRNewswire/ -- Akamai T"
 publishedDateTime: 2024-03-12T11:51:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-akamai-neural-magic-partner-accelerate-deep-learning-ai-/2024/03/12/9976460.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-akamai-neural-magic-partner-accelerate-deep-learning-ai-/2024/03/12/9976460.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2024/03/12/9976460.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2024/03/12/9976460.htm"
 type: article
-quality: 36
+quality: 34
 heat: -1
 published: false
 
@@ -17,7 +17,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-  - AI Hardware
 
 related:
   - title: "The difference between artificial intelligence and machine learning and why it matters"
@@ -79,6 +78,6 @@ related:
         height: 552
         isCached: true
 
-secured: "kH194+ApifZhALN/EgMgsD7UAnmLPDZBr0AnYL+Tb3jdxtu7vVUYJy2mT38k8zSsixLheGYpJfi0nI/rETmTUx09jyQu+caE6Nib51PfzkETLXMFlNqpShQ+IyAbeqYhcdP9B+8k2KkJ4Eq1agjUukc46Au8Xyl7eVu1nOW7tqKPW+zwwY3LieaE4y1E/yJP9Bjyh1gLavSMemHcbK0CXvOJEYv5urO6yW9e54B/+RNfJuNGKiaDu9Gr5lB58bFl8/geShuU40n6mXOLUoPTURT61Zjonrd6Gr4LVcFf7eq0sgly+vENxKty1TqqG0YYqdvdAXiB0Vmbu/An9MP74xxFHXUoGdb2Iz1BzTVNCAAXqQHN0N60xE86fA4QyguVcA8x6/kpJYO+J1bWm2hjzzE1wndbJ1xdI7J0xwz+QDwUIkRYB4OI4/eaa1s8Cb8IUWSaQSkiuoWEUrKiZAIET4pPTR3VyLNJNDQ7dy74pCEPzeb1ZgMAEgIs8XG9fv2JEzdX1AGyAiyiTrPoFRDwRQ==;Z9qKArQmzDJDvZWVZftG+w=="
+secured: "jsOYMXWOoeZ76pDzHbqTyEsv17FRa9uNc3sKcLkcltDKdq1f7u7dDPzjuxbpz3pFQpJ/I5e0j0TESTxIAHvz3HvXaepU00Zi71oyeVY+1HZBMg1G3R2mdX1CNGXnpID/0uOm2G1s56gdOs8CuWp9qSaYoBSwRtxHwxx3lX2xtWCDFs34SF0KUzZ+V/9a7CKe4r7XXbq99JCaHOpViJVIeDisLxx5yeL+bxAsn3ZQ5AEHOAD3OK6uQITMcQlU/6IQf7Uny9NDy2rofVOjPCViFKdjwSrr8GOa7Jw1ZZ/7L4neWoW07B4EFG8kOujmKP5eaB3IBGN0p9AVFy7qbUEGcmyaAH1mGdIYN1UHTfUId7cYxASQVhoEHly5cDbsveUrkUovxVH+jUt0MIZFmokNWmyXJGOJDExR/mygEhOLsKlyDvKslc284ENneIiLgXwI3IBEr/o8UHrZoslxyX6zOcms4GVgrgh56Belj3yAOd+DQXAbTgoHeURYpNtRTw3dszoPLyXPhSt2tyFNkeJPfw==;2RSTMYMgQFJpKXbsC0quEw=="
 ---
 

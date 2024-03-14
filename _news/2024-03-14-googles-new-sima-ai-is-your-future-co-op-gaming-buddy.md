@@ -41,6 +41,15 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Google's new video game-playing AI follows verbal instructions"
+    excerpt: "Serving tech enthusiasts for over 25 years. TechSpot means tech analysis and advice you can trust. In brief: Google DeepMind's AIs have spent years humiliating the champions of board and video games, but a new project from the research division is instead ..."
+    publishedDateTime: 2024-03-14T06:15:00Z
+    webUrl: "https://www.techspot.com/news/102255-google-new-video-game-playing-ai-follows-verbal.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 49
 
 secured: "FUjZANcy+Em0tXXATkD1mp6kvdVugzEne30Wk3WVyDIiTIJjZdDFuL8Cu6jdUboQC1mRMBEmHI0pP1q04K7vh7ZRy7gvuaFzHDoAwSPsdmXc2ygSikRzIuDMq2I3JTFvVEgY34sYyqtNxYBTtZOpZjBMUdv1dJOfIWVXeHl+nn+wrawCbV8R4lA8luVliI4ahge8pmMFexh6OSQB4w13ODCmjCT9fgkFWtXMzxlZ0czqK3eY9hBAnNp/ztSLchbVfIV90RxrcFDYbhkCaqA859ItjG3ncxkO5JDWM/GiTFGwOmrzaVdU8Aoi+sWnYuijbK6Iad1uqVdWdpSFC35KjhNsCg1sFO4OMeyHyXWEamc=;eZBHpxKiRhsOuhbhF7RnPQ=="
 ---

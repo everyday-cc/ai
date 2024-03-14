@@ -97,6 +97,58 @@
       ]
     },
     {
+      "path": "_news/2024-03-14-how-work-devices-may-evolve-to-keep-up-in-the-ai-era.md",
+      "title": "How work devices may evolve to keep up in the AI era",
+      "excerpt": "Th neural processing unit may be a game changer, but we need the right balance in product design to deliver what consumers seek.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/how-work-devices-may-evolve-to-keep-up-in-the-ai-era/",
+      "originalUrl": "https://www.zdnet.com/article/how-work-devices-may-evolve-to-keep-up-in-the-ai-era/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/fly/bundles/zdnetcore/images/logos/zdnet-logo-yellow.png",
+          "width": 480,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-work-devices-may-evolve-to-keep-up-in-the-ai-era/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-work-devices-may-evolve-to-keep-up-in-the-ai-era/",
+      "publishedDateTime": "2024-03-14T08:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-14-amd-is-optimistic-on-ai-pcs-bringing-greater-efficiency-to-enterprise.md",
       "title": "AMD Is Optimistic on AI PCs Bringing Greater Efficiency to Enterprise",
       "excerpt": "AMD CEO Lisa Su and VP of Product Management Jason Banta expressed optimism about the hot on-device AI market.",
@@ -209,7 +261,7 @@
       "originalUrl": "https://www.zdnet.com/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 161,
+      "heat": 171,
       "tags": null,
       "images": [
         {
@@ -444,7 +496,7 @@
       "originalUrl": "https://www.forbes.com/sites/stevemcdowell/2024/03/12/vast-datas-nvidia-dpu-based-ai-cloud-architecture/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 379,
+      "heat": 389,
       "tags": null,
       "images": [
         {
@@ -1371,58 +1423,6 @@
         "AI Hardware",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2024-03-06-us-blocks-amd-from-selling-ai-chip-tailored-for-china-without-licence-sources.md",
-      "title": "US blocks AMD from selling AI chip tailored for China without licence: sources",
-      "excerpt": "The US company had hoped to get Washington’s approval to sell to Chinese customers its MI309 processor, which performs at a lower level than what the company sells globally.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-war/article/3254327/us-blocks-amd-selling-ai-chip-tailored-china-without-licence-sources",
-      "originalUrl": "https://www.scmp.com/tech/tech-war/article/3254327/us-blocks-amd-selling-ai-chip-tailored-china-without-licence-sources",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/03/06/17dbafef-d2ea-4e14-9aad-c157ae6799bb_f578f2f2.jpg?itok=1P5ZJByg&v=1709694364",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-06T03:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

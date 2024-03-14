@@ -41,17 +41,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "Investment Association’s Fintech Hub Announces New Firms Joining Innovator Program, Key Partnerships in Canada"
-    excerpt: "The Investment Association’s (IA) Fintech hub and accelerator, IA Engine, has announced the latest firms to join its Innovator Program, as well as new global Fintech partnerships between Engine and Canada."
-    publishedDateTime: 2024-03-09T16:06:00Z
-    webUrl: "https://www.crowdfundinsider.com/2024/03/222443-investment-associations-fintech-hub-announces-new-firms-joining-innovator-program-key-partnerships-in-canada/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2024/03/222443-investment-associations-fintech-hub-announces-new-firms-joining-innovator-program-key-partnerships-in-canada/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2024/03/222443-investment-associations-fintech-hub-announces-new-firms-joining-innovator-program-key-partnerships-in-canada/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 4
 
 secured: "57k5GwmH4RgAdeiuLsQFXqmst0BZIADkV9/D8RjluHULnPl0/0/ksW9yFfUn17Zb7nlhrhOoO666owBAKRLIBn0g7OQe3Z98wcpQ27j+VjRJnbOzH8khQ6QKyBQ6d0wgc+qmTbsVLmzARV04Xud2cm9yi9Q2TWpV1/K09LyhL+3vSXj6D3JLC4tH36ZxLYma2nqhghGM0CT0C/boHFdShGn7q4itCsSUb0orYDrWHgPTd0jicFZMDS6/wIYCEeo4Tr3yLFPunPFuElzd27AZOJAgHjYt/5Hd0jT3e4LK4IhhAu6pyIjbliXxClEcbEDXz6ICFuT7/gGVNOXHo/jAQuIs1o4Sub8KPSmB3rQNObE=;QzJN6lm+o0GcGlcOXmzBKA=="
 ---

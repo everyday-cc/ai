@@ -38,7 +38,7 @@ related:
     provider:
       name: Axios
       domain: axios.com
-    quality: 17
+    quality: 19
   - title: "AI language model provides new insights into the development of brain diseases"
     excerpt: "A new AI language model identifies clinical symptoms in medical summaries and links them to brain tissue from donors of the Netherlands Brain Bank. This yields new insights into the development of individual disease progression and contributes to a better understanding of common misdiagnoses of brain diseases."
     publishedDateTime: 2024-03-12T17:15:00Z

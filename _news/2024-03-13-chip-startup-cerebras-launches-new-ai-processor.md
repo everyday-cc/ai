@@ -83,6 +83,15 @@ related:
         width: 1500
         height: 791
         isCached: true
+  - title: "Cerebras Systems debuts wafer-scale AI training chip with 4T transistors"
+    excerpt: "Semiconductor startup Cerebras Systems Inc. today debuted a new wafer-sized chip, the WSE-3, that features 4 trillion transistors organized into nearly 1 million cores."
+    publishedDateTime: 2024-03-13T22:25:00Z
+    webUrl: "https://siliconangle.com/2024/03/13/cerebras-systems-debuts-wafer-scale-ai-training-chip-4t-transistors/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 33
   - title: "Cerebras unveils four trillion-transistor giant chip, targets generative AI"
     excerpt: "Cerebras Systems has introduced the latest version of its wafer-sized semiconductor. The Wafer Scale Engine 3 boasts four trillion transistors and 900,000 'AI cores,' alongside 44GB of on-chip SRAM."
     publishedDateTime: 2024-03-13T18:37:00Z

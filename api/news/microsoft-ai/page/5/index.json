@@ -2,58 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2024-02-03-tech-execs-are-telling-investors-they-have-to-spend-money-to-make-money-on-ai.md",
-      "title": "Tech execs are telling investors they have to spend money to make money on AI",
-      "excerpt": "On this week's earnings calls, tech executives highlighted the need in AI to build infrastructure and the opportunities to make money with agents.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/02/02/techs-new-ai-game-plan-spend-money-to-make-money.html",
-      "originalUrl": "https://www.cnbc.com/2024/02/02/techs-new-ai-game-plan-spend-money-to-make-money.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107300076-1694615430004-gettyimages-1662694510-AFP_33V72TK.jpeg?v=1706903237",
-          "width": 3840,
-          "height": 2560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/02/02/techs-new-ai-game-plan-spend-money-to-make-money.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/02/techs-new-ai-game-plan-spend-money-to-make-money.html",
-      "publishedDateTime": "2024-02-02T19:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-02-microsoft-ai-at-scale-drives-azure-revenue-growth.md",
       "title": "Microsoft AI at scale drives Azure revenue growth",
       "excerpt": "Microsoft reported a record quarter fueled by the Microsoft Azure cloud and the shift from talking about artificial intelligence (AI) to actually applying the technology at scale. Azure revenue grew 24% year-over-year to reach $33 billion in Q2 2024 ...",
@@ -1506,6 +1454,59 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-25-after-gen-ais-82-stock-surge-in-2023-three-keys-to-profiting-from-davos-takeaways.md",
+      "title": "After Gen AI’s 82% Stock Surge In 2023, Three Keys To Profiting From Davos Takeaways",
+      "excerpt": "If Generative AI stocks grow faster than investors expect, their shares will rise. A case in point is ASML — the Dutch provider of a critical machine for manufacturing the chips used to train large language models. In 2023, ASML’s stock rose 36%.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/petercohan/2024/01/24/after-gen-ais-82-stock-surge-in-2023-three-keys-to-profiting-from-davos-takeaways/",
+      "originalUrl": "https://www.forbes.com/sites/petercohan/2024/01/24/after-gen-ais-82-stock-surge-in-2023-three-keys-to-profiting-from-davos-takeaways/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65aa33fd62a08db8addbaef6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/petercohan/2024/01/24/after-gen-ais-82-stock-surge-in-2023-three-keys-to-profiting-from-davos-takeaways/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2024/01/24/after-gen-ais-82-stock-surge-in-2023-three-keys-to-profiting-from-davos-takeaways/amp/",
+      "publishedDateTime": "2024-01-24T20:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/anthropic-releases-claude-3-haiku-an-ai
 webUrl: "https://venturebeat.com/ai/anthropic-releases-claude-3-haiku-an-ai-model-built-for-speed-and-affordability/"
 type: article
 quality: 62
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 1920
         height: 960
         isCached: true
+  - title: "Anthropic launches its fastest and cheapest AI model yet"
+    excerpt: "Claude 3 Haiku will be three times faster than existing AI models and will also be its cheapest yet, the company claimed."
+    publishedDateTime: 2024-03-14T09:04:00Z
+    webUrl: "https://www.computerworld.com/article/3714446/anthropic-launches-its-fastest-and-cheapest-ai-model-yet.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 19
 
 secured: "EGGsG8/QcHsQgoUQUUqCtnZojcJrL7032dZQZCJA6JxKtoBayE6oNu+m99qp+2wFOC2LROSVPPSvOGLwRQu1aUdq2Pb723nZdsKgUVIpMJUPFta1UX5SD6ib43HWg9ZwJKMHz12M7XrrsA33qkULL3QINZoTti9weA/jxbHARGn8HuUo025MlnYKaTkmyfeP1+Hs9oYhXCiKQZlni/ueEO8YRtvVhd3sgvBQCy/UvUWejLIwuKp6XoTSk39Oriegt4+mQ2A4evEPu+rZRTT/j30YPQsLgCYlYYqo2HyOvamfOCdHLsJbipcmc3F8kYvJco5cxTVn63gELeV5n26yQhtc3mE78IN4+EJGrxFrt2M=;aeWeWpkk8YUhn6uH3afyUg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/alexknapp/2024/03/11/basecamp-researc
 webUrl: "https://www.forbes.com/sites/alexknapp/2024/03/11/basecamp-research-protein-folding-ai-deepmind-alphafold/"
 type: article
 quality: 86
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -87,6 +87,22 @@ related:
       - url: "https://static.digit.in/AI-2-2.png"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Google DeepMind has created SIMA, an AI model that plays games. They don’t know why — yet."
+    excerpt: "Google's DeepMind lab has unveiled SIMA — a learning artificial intelligence model that will play games for you. It's customized to play more like a"
+    publishedDateTime: 2024-03-13T20:47:00Z
+    webUrl: "https://itc.ua/en/news/google-deepmind-has-created-sima-an-ai-model-that-plays-games-they-don-t-know-why-yet/"
+    ampWebUrl: "https://itc.ua/en/news/google-deepmind-has-created-sima-an-ai-model-that-plays-games-they-don-t-know-why-yet/amp/"
+    cdnAmpWebUrl: "https://itc-ua.cdn.ampproject.org/c/s/itc.ua/en/news/google-deepmind-has-created-sima-an-ai-model-that-plays-games-they-don-t-know-why-yet/amp/"
+    type: article
+    provider:
+      name: itc.ua
+      domain: itc.ua
+    quality: 64
+    images:
+      - url: "https://itc.ua/wp-content/uploads/2024/03/unnamed.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "mLKcDOpNgoiiku7PniRXt5EVLaxqe/HUM9DNxf/3EK3/OsXzPEQG/aXEoNtp1w0Ebq7Qd0JYrjGINlA9mwUAp8RdOqwmhfGMfB81u+oMgO7eaEm1VmgbIzNjvhT9h903/XkGPRIyHFPuP1Uy6zJ4Syv+ylU3TiP6D9iCfXGHJ3Xl2qyM54IlzLLKMDNxY6ZEs58kEfjRELC7ufsJ/jce9pewMcs76cHs809FKuM5S/jExUG6JybE1ywuEZ8nQIPqM5U8pyzmBF/qprRFRFymWim6vInqICtGKDgV3cNsGbEQhhX0c1+gNzUJ7OIboE2cx8DIr41c73dd2Ui9AZvzryTtujFnuZ9rs1tdUI5hUi0x7eAIXAP/6v9zZWX+nvd4UuldjpCyxd/fgbMVZdXXv2hE1nwYbFMfpO2Ou546CVzuexFMcsAzbb5r6V474dguDCWYh7T5s3fOMgDFqsbwafIG7gx7Q4CVnmpQKqsGxFk53m82DtUFE6hEmXG7pXMztY+tGSJw2BBu/mMGtJ3YWw==;GsUG1zmRUnZvnFYncDm8bg=="

@@ -80,6 +80,29 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Auto industry calls on government to accelerate self-driving revolution by backing Automated Vehicles bill"
+    excerpt: "Talking at SMMT Connected 2024, a major event exploring the future of personal mobility and mass transport organised by automotive trade association the SMMT, the body’s CEO Mike Hawes said that widespread deployment of self-driving vehicles could save ..."
+    publishedDateTime: 2024-03-14T00:01:00Z
+    webUrl: "https://www.theengineer.co.uk/content/news/auto-industry-calls-on-government-to-accelerate-self-driving-revolution-by-backing-automated-vehicles-bill"
+    type: article
+    provider:
+      name: The Engineer
+      domain: theengineer.co.uk
+    quality: 6
+    images:
+      - url: "https://www.theengineer.co.uk/media/fxvh3p4m/bus.png"
+        width: 960
+        height: 664
+        isCached: true
+  - title: "AAA survey: most US drivers fear self-driving vehicles"
+    excerpt: "AAA’s latest autonomous vehicle survey shows most U.S. drivers express either fear (66%) or uncertainty (25%) about fully-self-driving vehicles."
+    publishedDateTime: 2024-03-14T11:51:00Z
+    webUrl: "https://www.thecentersquare.com/michigan/article_288809ca-e1f9-11ee-902d-cbd96a9cb02d.html"
+    type: article
+    provider:
+      name: The Center Square
+      domain: thecentersquare.com
+    quality: 4
   - title: "The Rivian R3 Is Proof That Full Self-Driving Doesn't Need To Be a Major Selling Point"
     excerpt: "Rivian is dealing with the same sales issues as every other EV maker, but unlike Tesla, it’s making cars like the R3 and R3X that aren’t sold on their ability to drive themselves."
     publishedDateTime: 2024-03-11T18:59:00Z

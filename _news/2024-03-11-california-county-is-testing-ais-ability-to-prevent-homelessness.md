@@ -7,7 +7,7 @@ originalUrl: "https://smdp.com/2024/03/09/california-county-is-testing-ai-to-pre
 webUrl: "https://smdp.com/2024/03/09/california-county-is-testing-ai-to-prevent-homelessness/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "This California county is testing AI’s ability to prevent homelessness"
-    excerpt: "You’ve likely heard about AI powering driverless cars, writing term papers and creating unsettling deep fakes.  Can that same technology also prevent people from becoming homeless? That’s what Los Angeles County is trying to find out."
-    publishedDateTime: 2024-03-09T15:58:00Z
-    webUrl: "https://smdp.com/2024/03/09/this-california-county-is-testing-ais-ability-to-prevent-homelessness/"
-    type: article
-    provider:
-      name: Santa Monica Daily Press
-      domain: smdp.com
-    quality: 39
-    images:
-      - url: "https://calmatters.network/wp-content/uploads/2024/03/AI-Homelessness-Help-JAH_CM_09-1.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Airports using biometric facial recognition in California"
     excerpt: "Airports using the technology in California include: Southern California Logistics (Victorville) Airport (Airport code: VCV; located in Victorville) San Francisco International Airport (Airport code: SFO; located in San Francisco) San Bernardino International Airport (Airport code: SBD; located in San Bernardino)"
     publishedDateTime: 2024-03-10T19:14:00Z

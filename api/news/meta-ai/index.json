@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2024-03-13-tackling-deforestation-and-forest-degradation-with-ai-and-remote-sensing.md",
-      "title": "Tackling deforestation and forest degradation with AI and remote sensing",
-      "excerpt": "Deforestation and forest degradation are both significant conservation issues. But charities around the world are starting to use advanced technologies, such as AI and remote sensing, to get on top of the challenge.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/tackling-deforestation-and-forest-degradation-ai-and-remote-sensing",
-      "originalUrl": "https://diginomica.com/tackling-deforestation-and-forest-degradation-ai-and-remote-sensing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2024-03/IMG_2082.jpeg",
-          "width": 640,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/tackling-deforestation-and-forest-degradation-ai-and-remote-sensing?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/tackling-deforestation-and-forest-degradation-ai-and-remote-sensing?amp",
-      "publishedDateTime": "2024-03-13T09:12:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-03-13-new-study-shows-how-ai-can-help-us-better-understand-global-threats-to-wildlife.md",
       "title": "New study shows how AI can help us better understand global threats to wildlife",
       "excerpt": "A new study published in Conservation Biology by the University of Sussex shows how researchers are using AI technology and social media to help identify global threats to wildlife.",
@@ -53,7 +10,7 @@
       "originalUrl": "https://phys.org/news/2024-03-ai-global-threats-wildlife.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -149,7 +106,7 @@
       "originalUrl": "https://www.forbes.com/sites/alexknapp/2024/03/11/basecamp-research-protein-folding-ai-deepmind-alphafold/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -1422,6 +1379,59 @@
       "topics": [
         "Meta AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-educators-teaching-ai-literacy-to-students-should-include-ethics-in-their-lesson-plans-scholars-say.md",
+      "title": "Educators teaching AI literacy to students should include ethics in their lesson plans, scholars say",
+      "excerpt": "Assertions about expanding the use of artificial intelligence are typically rooted in one of two schools of thought: \"Be ahead of the curve,\" or, \"Don't fix what isn't broken.\" Whichever side of the coin someone is on, it's clear that the rapidly emerging ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-literacy-ethics-teaching-students-educators-scholars-2024-2",
+      "originalUrl": "https://www.businessinsider.com/ai-literacy-ethics-teaching-students-educators-scholars-2024-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65d8eb23ce7f1785b2e38c28?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-literacy-ethics-teaching-students-educators-scholars-2024-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-literacy-ethics-teaching-students-educators-scholars-2024-2?amp",
+      "publishedDateTime": "2024-02-27T16:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Meta AI"
       ]
     }
   ],

@@ -2,6 +2,179 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-14-us-sanctions-three-israeli-west-bank-settlers-and-their-outposts-for-violence-against-palestinians.md",
+      "title": "US sanctions three Israeli West Bank settlers and their outposts for violence against Palestinians",
+      "excerpt": "The U.S. imposed sanctions Thursday on a group of three extremist Israeli West Bank settlers who are accused of harassing and attacking Palestinians in an attempt to pressure",
+      "sourceUrl": null,
+      "webUrl": "https://www.kxan.com/news/political-news/ap-us-sanctions-three-israeli-west-bank-settlers-and-their-outposts-for-violence-against-palestinians/",
+      "originalUrl": "https://www.kxan.com/news/political-news/ap-us-sanctions-three-israeli-west-bank-settlers-and-their-outposts-for-violence-against-palestinians/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.kxan.com/wp-content/uploads/sites/40/2024/03/65f3198b2ea963.27261369.jpeg?w=1280",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.kxan.com/news/political-news/ap-us-sanctions-three-israeli-west-bank-settlers-and-their-outposts-for-violence-against-palestinians/amp/",
+      "cdnAmpWebUrl": "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/political-news/ap-us-sanctions-three-israeli-west-bank-settlers-and-their-outposts-for-violence-against-palestinians/amp/",
+      "publishedDateTime": "2024-03-14T15:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KXAN",
+        "domain": "kxan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2024-03-14-the-ethical-dilemma-of-ai-in-marketing-a-slippery-slope.md",
+      "title": "The Ethical Dilemma Of AI In Marketing: A Slippery Slope",
+      "excerpt": "Artificial Intelligence has revolutionized the marketing landscape, offering businesses unprecedented insights into consumer behavior and preferences.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/elijahclark/2024/03/14/the-ethical-dilemma-of-ai-in-marketing-a-slippery-slope/",
+      "originalUrl": "https://www.forbes.com/sites/elijahclark/2024/03/14/the-ethical-dilemma-of-ai-in-marketing-a-slippery-slope/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-14T13:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2024-03-14-getting-started-with-kafka-client-metrics.md",
+      "title": "Getting started with Kafka client metrics",
+      "excerpt": "Offering guidance on a set of producer and consumer metrics that customers should monitor for optimal performance.\nThe post Getting started with Kafka client metrics appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/getting-started-with-kafka-client-metrics/",
+      "originalUrl": "https://www.ibm.com/blog/getting-started-with-kafka-client-metrics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-14T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-14-maximizing-business-outcomes-and-scaling-ai-adoption-with-a-hybrid-by-design-approach.md",
+      "title": "Maximizing business outcomes and scaling AI adoption with a Hybrid by design approach ",
+      "excerpt": "Businesses aiming to derive value and harness the potential of artificial intelligence (AI) must adopt an intentional approach. \nThe post Maximizing business outcomes and scaling AI adoption with a Hybrid by design approach  appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/hybrid-by-design-approach/",
+      "originalUrl": "https://www.ibm.com/blog/hybrid-by-design-approach/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-14T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-14-this-investor-predicted-the-dot-com-bust-he-thinks-ai-is-a-bubble-that-will-deflate.md",
       "title": "This investor predicted the dot-com bust. He thinks AI is a bubble that will ‘deflate’",
       "excerpt": "Is the artificial intelligence boom a bubble or the real deal? GMO’s Jeremy Grantham has an answer Wall Street may not like.",
@@ -259,7 +432,7 @@
       "originalUrl": "https://www.neowin.net/news/googles-new-ai-can-play-3d-games-with-you-by-following-natural-language-instructions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -303,6 +476,58 @@
       ]
     },
     {
+      "path": "_news/2024-03-14-how-work-devices-may-evolve-to-keep-up-in-the-ai-era.md",
+      "title": "How work devices may evolve to keep up in the AI era",
+      "excerpt": "Th neural processing unit may be a game changer, but we need the right balance in product design to deliver what consumers seek.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/how-work-devices-may-evolve-to-keep-up-in-the-ai-era/",
+      "originalUrl": "https://www.zdnet.com/article/how-work-devices-may-evolve-to-keep-up-in-the-ai-era/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/fly/bundles/zdnetcore/images/logos/zdnet-logo-yellow.png",
+          "width": 480,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-work-devices-may-evolve-to-keep-up-in-the-ai-era/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-work-devices-may-evolve-to-keep-up-in-the-ai-era/",
+      "publishedDateTime": "2024-03-14T08:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-14-anthropic-releases-claude-3-haiku-an-ai-model-built-for-speed-and-affordability.md",
       "title": "Anthropic releases Claude 3 Haiku, an AI model built for speed and affordability",
       "excerpt": "Anthropic launches Claude 3 Haiku, the fastest and most affordable AI model in its class, featuring advanced vision capabilities and enterprise-grade security for high-volume, latency-sensitive applications.",
@@ -311,7 +536,7 @@
       "originalUrl": "https://venturebeat.com/ai/anthropic-releases-claude-3-haiku-an-ai-model-built-for-speed-and-affordability/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -657,7 +882,7 @@
       "originalUrl": "https://www.businessinsider.com/ai-report-risks-human-extinction-state-department-expert-reaction-2024-3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -988,264 +1213,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-moderate-audio-and-text-chats-using-aws-ai-services-and-llms.md",
-      "title": "Moderate audio and text chats using AWS AI services and LLMs",
-      "excerpt": "Online gaming and social communities offer voice and text chat functionality for their users to communicate. Although voice and text chat often support friendly banter, it can also lead to problems such as hate speech, cyberbullying, harassment, and scams. Today, many companies rely solely on human moderators",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/moderate-audio-and-text-chats-using-aws-ai-services-and-llms/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/moderate-audio-and-text-chats-using-aws-ai-services-and-llms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/03/05/ml-16352-diargam-1-1260x455.jpg",
-          "width": 1260,
-          "height": 455,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-13T16:54:08Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-satya-nadella-says-google-shouldve-been-the-default-winner-of-the-ai-race.md",
-      "title": "Satya Nadella says Google should've been the 'default winner' of the AI race",
-      "excerpt": "Satya Nadella said Google has the resources that should've made it the Big Tech AI leader. Instead, Microsoft now seems to hold that position.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/satya-nadella-google-default-winner-ai-race-microsoft-2024-3",
-      "originalUrl": "https://www.businessinsider.com/satya-nadella-google-default-winner-ai-race-microsoft-2024-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65f1b75ece7f1785b2e92243?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/satya-nadella-google-default-winner-ai-race-microsoft-2024-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/satya-nadella-google-default-winner-ai-race-microsoft-2024-3?amp",
-      "publishedDateTime": "2024-03-13T15:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-google-paid-out-10-million-in-bug-bounties-to-security-researchers-in-2023.md",
-      "title": "Google paid out $10 million in bug bounties to security researchers in 2023",
-      "excerpt": "and Kai's \"Hacking Google Bard - From Prompt Injection to Data Exfiltration\" and Roni, Justin, and Joseph's \"We Hacked Google A.I. for $50,000.\" The $10 million that Google paid in bug bounties in 2023 was lower than the $12 million the company spent in 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-paid-out-10-million-in-bug-bounties-to-security-researchers-in-2023/",
-      "originalUrl": "https://www.zdnet.com/article/google-paid-out-10-million-in-bug-bounties-to-security-researchers-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/d8405430cab212c3dfdcecd7ab9634be11f49abb/2024/03/13/b6f0cadc-6954-44b7-8866-151e0a2e31de/gettyimages-1972337683.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-paid-out-10-million-in-bug-bounties-to-security-researchers-in-2023/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-paid-out-10-million-in-bug-bounties-to-security-researchers-in-2023/",
-      "publishedDateTime": "2024-03-13T15:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-europe-passes-ai-act-to-ban-riskiest-tools-force-copyright-compliance.md",
-      "title": "Europe Passes AI Act to Ban Riskiest Tools, Force Copyright Compliance",
-      "excerpt": "The legislation will require AI firms to notify customers if they're speaking with an AI and bans AI from using human biometric data in most cases, among other rules.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/europe-passes-ai-act-to-ban-riskiest-tools-force-copyright-compliance",
-      "originalUrl": "https://www.pcmag.com/news/europe-passes-ai-act-to-ban-riskiest-tools-force-copyright-compliance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/05EEvCkyXHT7tmPSKhqw4gl-1.fit_lim.size_1200x630.v1710339867.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-13T15:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-fox-news-ai-newsletter-uncontrollable-systems-could-turn-on-humans-report-warns.md",
-      "title": "Fox News AI Newsletter: 'Uncontrollable' systems could turn on humans, report warns",
-      "excerpt": "Stay up to date on the latest AI technology advancements and learn about the challenges and opportunities AI presents now and for the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/fox-news-ai-newsletter-uncontrollable-systems-could-turn-humans-report-warns",
-      "originalUrl": "https://www.foxnews.com/tech/fox-news-ai-newsletter-uncontrollable-systems-could-turn-humans-report-warns",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/09/1200/675/AI.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/fox-news-ai-newsletter-uncontrollable-systems-could-turn-humans-report-warns.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/fox-news-ai-newsletter-uncontrollable-systems-could-turn-humans-report-warns.amp",
-      "publishedDateTime": "2024-03-13T15:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

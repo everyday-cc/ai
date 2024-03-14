@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 672
         isCached: true
+  - title: "Anthropic launches its fastest and cheapest AI model yet"
+    excerpt: "Claude 3 Haiku will be three times faster than existing AI models and will also be its cheapest yet, the company claimed."
+    publishedDateTime: 2024-03-14T09:04:00Z
+    webUrl: "https://www.computerworld.com/article/3714446/anthropic-launches-its-fastest-and-cheapest-ai-model-yet.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 19
 
 secured: "hNtnrCRZo+GpM1BuU6GTJhuxHuKiAQuyo9Qs4/UtWG09+w5O8MIgCHw9APtGCa58DBhYzk27Yzn4eWx1LBEjwtJEFewtVkuRVs8LC/jp4B00x0YJjWXCBpUg+D9FAVq/fHwYar0fwmzaQTrVEhXABZyQEBrjQtwP1LG5zFjXf5BCSbbgs4B+wcpm8t1GFWf47BYT+V4fmBAW6mo8PRefGkUrZOG6vwmlmGOLCqEdi8PjRaejcY9ZpEQi8C1z6EkVKROUuaPZL7Mvh7PFWOMzAEh6ad09uZe1VlOyMkn0bAayIO4XCa28qV17VgLdBvpHyxeATQrvIjsjAPCygb5TAgytZeKziVI0RJieOCJFubzp8Lqfl9Shk4VYRArHapGIs5jBzLxYbol6PGchblxisDscIbp4DIXt10PGFibmH5ZMgFgjohtyjHo26swerPF05uJIELWvr9eVWnIRyJGf0k/PTleBPP9/t2Fly7PNR5ZQ4VzMZ9Ya96FyOLVI9cu+6t0HXvGZL3VHTtJtbfwd7A==;9+U50uzSrzGh/YBuMIUAFg=="
 ---

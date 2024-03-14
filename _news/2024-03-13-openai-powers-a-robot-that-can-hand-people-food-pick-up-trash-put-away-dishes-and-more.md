@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/openai-powers-a-robot-that-can-hand-peo
 webUrl: "https://venturebeat.com/ai/openai-powers-a-robot-that-can-hand-people-food-pick-up-trash-put-away-dishes-and-more/"
 type: article
 quality: 75
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla Optimus can’t do that. The Figure AI robot received voice, hearing and vision thanks to OpenAI technologies"
+    excerpt: "Figure AI startup, which announced cooperation with OpenAI two weeks ago, has already demonstrated its first results. In the new video, Figure 01 is a"
+    publishedDateTime: 2024-03-14T12:26:00Z
+    webUrl: "https://itc.ua/en/news/tesla-optimus-can-t-do-that-the-figure-ai-robot-received-voice-hearing-and-vision-thanks-to-openai-technologies/"
+    ampWebUrl: "https://itc.ua/en/news/tesla-optimus-can-t-do-that-the-figure-ai-robot-received-voice-hearing-and-vision-thanks-to-openai-technologies/amp/"
+    cdnAmpWebUrl: "https://itc-ua.cdn.ampproject.org/c/s/itc.ua/en/news/tesla-optimus-can-t-do-that-the-figure-ai-robot-received-voice-hearing-and-vision-thanks-to-openai-technologies/amp/"
+    type: article
+    provider:
+      name: itc.ua
+      domain: itc.ua
+    quality: 70
+    images:
+      - url: "https://itc.ua/wp-content/uploads/2024/02/Figure-01-835x505.png"
+        width: 835
+        height: 505
+        isCached: true
   - title: "Watch This Humanoid Robot Talk and Complete Tasks Thanks to OpenAI Tech"
     excerpt: "The startup Figure shows off how its partnership with OpenAI promises to make the company's humanoid robots capable of having full conversations with people."
     publishedDateTime: 2024-03-13T17:50:00Z

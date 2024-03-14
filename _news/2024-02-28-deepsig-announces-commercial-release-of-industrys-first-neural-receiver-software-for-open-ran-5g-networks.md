@@ -1,20 +1,20 @@
 ---
 category: news
 title: "DeepSig Announces Commercial Release of Industry's First Neural Receiver Software for Open RAN 5G Networks"
-excerpt: "This press release features multimedia. View the full release here:  The OmniPHY 5G software transforms 5G Physical Uplink Shared Channel (PUSCH) processing in an Open Distributed Unit (O-DU), replacing conventional algorithms with a Deep Neural Network (DNN),"
-publishedDateTime: 2024-02-28T07:42:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2024/02/28/9969438.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2024/02/28/9969438.htm"
+excerpt: "This product milestone marks the launch of the industry's first 5G carrier-grade neural receiver and redefines how the physical layer in wireless networks is implemented and optimized using Artificial Intelligence/Machine Learning (AI/ML). This press ..."
+publishedDateTime: 2024-02-28T08:35:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2024-02/61528897-deepsig-announces-commercial-release-of-industry-s-first-neural-receiver-software-for-open-ran-5g-networks-004.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2024-02/61528897-deepsig-announces-commercial-release-of-industry-s-first-neural-receiver-software-for-open-ran-5g-networks-004.htm"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - Machine Learning
   - AI
 
-secured: "Nd59E+kz365jzoQJ8agKyPRTnrcOPl53sa3zLl88BF/NEJCNvekoDQpRfU0Nh4LU0SK3bL0yGnrhGoDpJiauaWur4yRE7s3evsrRBQDbB7VabEHLhg5Q4jWxvuFfSDoQNAxzLQwJ8J9ny38t/L2rKlqs1SHS6Q4ITwUEpsza9SnWn9Zj+yRuaa2k09RIij351CJJ4x5Z2kJAKpEPd6gihjxl+CwCbs+ao+CgSbX3hI4Uf6a8BvjrprT9YwTRdp+bYgu/rdhOBEbZfU14PifYlU+JptAh30hLtiwP1+UJuuUxX4/WJCkHcLcGL+6V6COAE6XbikrFtT9t4OL1eaTRcmAkgvV7wRMjl6U1a/Xt3toq4/hCp2heJe2FFeR3AzZ7NLmYaRVFCsagk0xjoUiqTARNjrRnnzXSFpgnRfdl+opwwZWWsG/xCQISbdxZp41FRQqzDpfnMX5zzKRzGBmrDKgpHBigf0eLCdKTkjhXxOniSCx3L2I5B9J+NKcukif8aSkL3n1tX585ZoAMOncWXQ==;mzZ/aivjz09wQ3VbZ3lL2A=="
+secured: "S+o/iWztc8sghfioyll2Ztwv2182EavhLADGqrCFmWM+mitDfEdt2v03qjQswscrlD9BcXFsF6SVkRK0T5vpbObgZgeSssxzN+WpJkIq6J4UHPHpCQjHUujqj1ROYu8r10XT7JdL/t6bVn0rMh5WdHif9A4E+S59fRKF5rcA8uvMK/u+Qq0a2tt2WGgD7LeGIo8rBdY/EOukWu5TzI6r6nXpL5XUPyDfiy+rCMPPhnuoo5kUqKC6l8wkx+RQVyBliJjVWKJAwnQsO4jk+F72EmuPElgfBlGh/gdiqPIMQDgeyuzleP0sE0e0ExWEqyUoabtHwzGj0qCgj3uQEO+zxEOZeC84JfY6vu8rtghIqpA=;97AMbwtL4DfTV3nJDu4ENw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/03/1
 webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/03/12/generative-ai-in-action-transforming-workforce-learning-and-development/"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -23,40 +23,36 @@ topics:
   - AI
 
 related:
-  - title: "Tackling deforestation and forest degradation with AI and remote sensing"
-    excerpt: "Deforestation and forest degradation are both significant conservation issues. But charities around the world are starting to use advanced technologies, such as AI and remote sensing, to get on top of the challenge."
-    publishedDateTime: 2024-03-13T09:12:00Z
-    webUrl: "https://diginomica.com/tackling-deforestation-and-forest-degradation-ai-and-remote-sensing"
-    ampWebUrl: "https://diginomica.com/tackling-deforestation-and-forest-degradation-ai-and-remote-sensing?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/tackling-deforestation-and-forest-degradation-ai-and-remote-sensing?amp"
+  - title: "Artificial Intelligence In Cancer Detection: How Is AI Contributing To The Diagnostic Industry and Impacting Early Detection?"
+    excerpt: "\"Artificial Intelligence (AI) is drastically changing the diagnostic industry, especially in the domain of early cancer detection\", says Mr. Hariharan Subramanian, the Managing Director of Siemens Healthcare Private Limited."
+    publishedDateTime: 2024-03-12T10:05:00Z
+    webUrl: "https://www.thehealthsite.com/diseases-conditions/artificial-intelligence-in-cancer-detection-how-is-ai-contributing-to-the-diagnostic-industry-and-impacting-early-detection-1071193/"
+    ampWebUrl: "https://www.thehealthsite.com/diseases-conditions/artificial-intelligence-in-cancer-detection-how-is-ai-contributing-to-the-diagnostic-industry-and-impacting-early-detection-1071193/amp/"
+    cdnAmpWebUrl: "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/diseases-conditions/artificial-intelligence-in-cancer-detection-how-is-ai-contributing-to-the-diagnostic-industry-and-impacting-early-detection-1071193/amp/"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 58
+      name: TheHealthSite
+      domain: thehealthsite.com
+    quality: 47
     images:
-      - url: "https://diginomica.com/sites/default/files/images/2024-03/IMG_2082.jpeg"
-        width: 640
-        height: 427
+      - url: "https://st1.thehealthsite.com/wp-content/uploads/2024/03/neurological-doctor-cheking-eeg-headset-explaining-patient-diagnosis-disease-treatment-nervous-system-scientist-researcher-analysing-brain-scan-tomography-monitor-lab.jpg"
+        width: 1200
+        height: 900
         isCached: true
-  - title: "Future-Proofing Frontier AI Regulation"
-    excerpt: "The amount of computation (compute) used to train frontier AI models could increase significantly in the next decade. By the late 2020s or early 2030s, the amount of compute used to train frontier AI models could be approximately 1,"
-    publishedDateTime: 2024-03-13T16:02:00Z
-    webUrl: "https://www.cnas.org/publications/reports/future-proofing-frontier-ai-regulation"
+  - title: "Chemists develop machine learning model for atomic-level interactions"
+    excerpt: "Mathematical functions used to calculate the potential energy of a system of atoms are called interatomic potentials. Machine learning interatomic potentials (MLIP)s have become an efficient and less expensive alternative to traditional quantum chemical ..."
+    publishedDateTime: 2024-03-13T00:00:00Z
+    webUrl: "https://www.nanowerk.com/nanotechnology-news3/newsid=64842.php"
     type: article
     provider:
-      name: CNAS
-      domain: cnas.org
-    quality: 19
-  - title: "GetResponse launches AI email writing assistant: latest addition to its AI-powered solution suite"
-    excerpt: "GetResponse, a leading global all-in-one email marketing platform, has announced the newest addition to its AI-powered toolset – an AI email writing assistant. It's the ideal solution for people struggling with a lack of time,"
-    publishedDateTime: 2024-03-12T16:29:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/03/12/9977092.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 6
+      name: Nanowerk
+      domain: nanowerk.com
+    quality: 39
+    images:
+      - url: "https://www.nanowerk.com/nanotechnology-news3/id64842_1.jpg"
+        width: 700
+        height: 449
+        isCached: true
   - title: "Biden administration requests $3B for federal AI application development, procurement and integration in 2025 budget"
     excerpt: "The President’s budget looks to fund the National AI Research Resource pilot, agencies’ establishment of Chief AI Officers, the AI talent surge and more AI development across agencies."
     publishedDateTime: 2024-03-11T19:28:00Z

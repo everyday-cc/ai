@@ -111,6 +111,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Elma man arrested in child porn case using facial recognition technology"
+    excerpt: "In a groundbreaking use of technology, Matthew A. Steele, 53, from Elma, New York, has been arrested and charged with the production and distribution of child pornography, announced U.S. Attorney Trini E. Ross. The charges could result in a prison sentence ranging from a mandatory minimum of 15 years to a maximum of 30 years."
+    publishedDateTime: 2024-03-14T09:29:00Z
+    webUrl: "https://www.fingerlakes1.com/2024/03/14/elma-man-arrested-in-child-porn-case-using-facial-recognition-technology/"
+    type: article
+    provider:
+      name: fingerlakes1
+      domain: fingerlakes1.com
+    quality: 18
 
 secured: "js0nhirhJY/CfRie9Xk1LOzUu+hmaPH/q29Q7X5lyZFT2F9hLbLmzSafinrRk9bkRtHia/5zQxep/e85Ap3BFOGCvD7SQ0gO8Id12HNzD/yk96Ku+xrPuTmCLM2sh2MjdRss0cAfBdYC4vtP/b5XKB67WonC3UZ78WbQ/M4iGFvzNL1svkp8WInUfUkfMZzKbXVJk2AgCIjw4/3F5rwX5fMjmLmaSMVAlOTh8KgjqxHwAPI6+YEoBAhQ2bgttw0lWCLoHm8L1HBbnchT8ev6cYji8itcVjCXSiYfIgp/d1j653x/NIC5rhDeqOnnJLTlXhCO2/rDQW06x4uL1m0g0b+zrb0O6wif2JoPb9ZxgkRfZxC7cqY+KFuI7lRSWbb78yj5RLxdU4jKdcBrsPX2JRXgCkxRTH+YBOweNZtTJPcpxja52cEYUqAjxQeowOukDky5LQlw3LDYMk/2yWrZafxK18QV1W/014hgey4T4x5BQCf5mOmqyObN9hwlRptauzob5vd+rzK/et7gMLtxvw==;b9p+1pJ8X3kStG2piFLXOA=="
 ---

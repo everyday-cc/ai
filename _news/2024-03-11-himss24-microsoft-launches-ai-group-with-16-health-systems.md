@@ -58,6 +58,15 @@ related:
       name: TweakTown
       domain: tweaktown.com
     quality: 38
+  - title: "Microsoft’s AI-Bolstered Rise: Driving Stock Prices to New Heights"
+    excerpt: "Microsoft’s deliberate adoption of artificial intelligence (AI) has had a significant impact on driving technological improvements and raising stock prices. This article discusses how Microsoft’s aggressive use of AI technologies has cemented the company’s standing as a significant force in the tech sector and is key to driving Micrsoft price chart to new heights."
+    publishedDateTime: 2024-03-14T12:07:00Z
+    webUrl: "https://techbullion.com/microsofts-ai-bolstered-rise-driving-stock-prices-to-new-heights/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 36
 
 secured: "tKYvFsM4C9sr0UA1mfmaGh9Xtq0ba75tWbjU/of2qHbCrtxoOglDHyU5b1siC/U4gkMpUS6bK+7/01fxa8sm+aCh7Oa4uc+J9tynEx8NvZ2r+3Apvr/01WFq/2Tr+lzMeF05P36IqIJB7UuW1byIWDoagM+bybM45N612dECnUyXnVdr7zBDXrUZZd9yCxiCphQj9aiXGB0dYak5dDTjjBefcMIKpQk+sxUorR2aNHRtsutWizbQdEKPZV8qeyrbzH82KneCXyPAIOaGYT+mbj8ID1Yq9F8RdmaNKHbXmd/GPO2i/5Que8+sBtVHtKTiPGaWcXw0yRVRiSoxRmxADS2pC0UoQgScu0jgXx8uLck3HSg36ZDPaIlvWgCojJK2+ZNloKKSDpUmiwe2YsMQ6+wc8G0cwfBdbgPqhlvAv0Cf/jIM91sUL5mliAuu77j3cHNJvWX+5qFVSAETLe7aOFDzrp1iA6afkISpoxyW4jaHjUZz4nMDnxyYRG5mN3XQsvkvYuS2RP6k10UMW7v8cA==;ddQk3/2P+sgQGlv7CeLPVg=="
 ---

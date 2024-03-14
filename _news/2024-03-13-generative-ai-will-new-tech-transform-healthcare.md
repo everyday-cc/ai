@@ -126,6 +126,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 33
+  - title: "Microsoft makes the promise of AI in healthcare real through new collaborations with healthcare organizations and partners"
+    excerpt: "Just over a year ago, the healthcare industry was energized by the debut of generative AI and the promise this new technology held for delivering real-world outcomes that positively impact clinicians,"
+    publishedDateTime: 2024-03-13T16:35:00Z
+    webUrl: "https://blogs.microsoft.com/blog/2024/03/11/microsoft-makes-the-promise-of-ai-in-healthcare-real-through-new-collaborations-with-healthcare-organizations-and-partners/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 25
   - title: "HEALWELL AI Announces New Commercial Agreements with WELL HEALTH USA and Circle Medical, Bringing AI-Based Preventative Care Solutions to U.S. Market"
     excerpt: "HEALWELL AI has signed services agreements with both WELL Health USA and U.S. based Circle Medical Technologies Inc., which expands its footprint in the U.S. and will enable U.S. healthcare providers with a suite of artificial intelligence (AI) powered preventative care solutions."
     publishedDateTime: 2024-03-14T11:28:00Z

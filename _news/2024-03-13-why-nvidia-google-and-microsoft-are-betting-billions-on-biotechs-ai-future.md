@@ -6,7 +6,7 @@ publishedDateTime: 2024-03-13T10:30:00Z
 originalUrl: "https://www.forbes.com/sites/richardnieva/2024/03/13/why-nvidia-google-and-microsoft-are-betting-billions-on-biotechs-ai-future/"
 webUrl: "https://www.forbes.com/sites/richardnieva/2024/03/13/why-nvidia-google-and-microsoft-are-betting-billions-on-biotechs-ai-future/"
 type: article
-quality: 85
+quality: 87
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ topics:
   - AI
   - Microsoft AI
   - AWS AI
+  - Meta AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/65f0f81fab4ec72de094a838/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&height=900&width=1600&fit=bounds"
@@ -46,6 +47,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65f0c54c13205bd9ccd1cee6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 959
         height: 424
+        isCached: true
+  - title: "Nvidia to Unveil a New Next-generation AI Chip at the Upcoming GTC Conference"
+    excerpt: "Analysts predict revenue to double in 2024 driven by the demand for their top-tier AI chips. But the focus isn’t just on present success; it’s on futureproofing that success. The GTC is expected to unveil the B100, the next generation of Nvidia’s AI ..."
+    publishedDateTime: 2024-03-14T00:01:00Z
+    webUrl: "https://www.gizmochina.com/2024/03/14/nvidia-to-unveil-next-gen-chip-gtc/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 81
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/11/image-10.png"
+        width: 1022
+        height: 576
         isCached: true
   - title: "Novelists sue Nvidia to stop spread of AI models trained on copyrighted books"
     excerpt: "Book authors are suing Nvidia, alleging that the chip maker's AI platform NeMo—used to power customized chatbots—was trained on a controversial dataset that illegally copied and distributed their books without their consent."

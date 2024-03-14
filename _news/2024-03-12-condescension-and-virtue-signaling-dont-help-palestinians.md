@@ -7,7 +7,7 @@ originalUrl: "https://www.aei.org/op-eds/condescension-and-virtue-signaling-dont
 webUrl: "https://www.aei.org/op-eds/condescension-and-virtue-signaling-dont-help-palestinians/"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,24 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "US sanctions three Israeli West Bank settlers and their outposts for violence against Palestinians"
+    excerpt: "The U.S. imposed sanctions Thursday on a group of three extremist Israeli West Bank settlers who are accused of harassing and attacking Palestinians in an attempt to pressure"
+    publishedDateTime: 2024-03-14T15:34:00Z
+    webUrl: "https://www.kxan.com/news/political-news/ap-us-sanctions-three-israeli-west-bank-settlers-and-their-outposts-for-violence-against-palestinians/"
+    ampWebUrl: "https://www.kxan.com/news/political-news/ap-us-sanctions-three-israeli-west-bank-settlers-and-their-outposts-for-violence-against-palestinians/amp/"
+    cdnAmpWebUrl: "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/political-news/ap-us-sanctions-three-israeli-west-bank-settlers-and-their-outposts-for-violence-against-palestinians/amp/"
+    type: article
+    provider:
+      name: KXAN
+      domain: kxan.com
+    quality: 62
+    images:
+      - url: "https://www.kxan.com/wp-content/uploads/sites/40/2024/03/65f3198b2ea963.27261369.jpeg?w=1280"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "0MwpeW/5rSttsaJ78TFHRenTFQonCCnBFJRALL9qQpuVe9Wmi6zR/7YBuhUgwvshNrlpUZwdRXH9/6BRUVNhuv5oqlOA1OII9Ob9q0bJBvOrKTGjR8Va6hx7/SgEBOfZzPilz0//b9mTSbkxmGs9IkyizP9BlkZdqt27NqxQUYbD50mhSGiIhwYVStm3MYpGpdXTlXyIbwl5twKxxEc/QpJZXPzeMB/2awsEINLXvE9Buw9eVOoIllbYxOIuf1EA38OqX6E+7ou61mWcIDbsO/kSafgLneeX+Y+d2/pjzbVj+JJuE8s0tQpUnGE80zDVDRSpob5oAAVq+XaIMaF0GTAOG/xq9aMw123GJJ0UGb8=;MCG+5iDLXDHs4QXT24vf8A=="
 ---

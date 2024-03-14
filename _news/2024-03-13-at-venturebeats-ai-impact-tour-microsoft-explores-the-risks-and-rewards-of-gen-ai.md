@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/at-venturebeats-ai-impact-tour-microsof
 webUrl: "https://venturebeat.com/ai/at-venturebeats-ai-impact-tour-microsoft-explores-the-risks-and-rewards-of-gen-ai/"
 type: article
 quality: 80
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -55,6 +55,15 @@ related:
       name: TweakTown
       domain: tweaktown.com
     quality: 38
+  - title: "Microsoft’s AI-Bolstered Rise: Driving Stock Prices to New Heights"
+    excerpt: "Microsoft’s deliberate adoption of artificial intelligence (AI) has had a significant impact on driving technological improvements and raising stock prices. This article discusses how Microsoft’s aggressive use of AI technologies has cemented the company’s standing as a significant force in the tech sector and is key to driving Micrsoft price chart to new heights."
+    publishedDateTime: 2024-03-14T12:07:00Z
+    webUrl: "https://techbullion.com/microsofts-ai-bolstered-rise-driving-stock-prices-to-new-heights/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 36
   - title: "HIMSS24: Microsoft launches AI group with 16 health systems"
     excerpt: "Microsoft said the group would create a process where providers can register for the usage of AI in clinical settings and offer tools to enable measurement of outcomes associated with the technology."
     publishedDateTime: 2024-03-11T14:28:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3714400/healthcare-pros-show-i
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3714400/healthcare-pros-show-interest-in-apples-vision-pro-survey.amp.html"
 type: article
 quality: 61
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
     quality: 21
+  - title: "Hospital Scrubs In Apple Vision Pro For Spine Surgery, Is This The Future Of Healthcare?"
+    excerpt: "Cromwell Hospital is the first hospital in the UK and Europe to use Apple's Vision Pro headset during surgery."
+    publishedDateTime: 2024-03-14T13:10:00Z
+    webUrl: "https://hothardware.com/news/hospital-scrubs-in-apple-vision-pro-spine-surgery"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 10
   - title: "Hands-on Apple Vision Pro: Amazing but expensive"
     excerpt: "After some thorough hands-on time with the Apple Vision Pro, here’s my review, as originally shared in the Rich on Tech Newsletter. This is the first product I’m at the same time in love"
     publishedDateTime: 2024-03-13T11:58:00Z

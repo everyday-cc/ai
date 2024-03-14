@@ -23,6 +23,17 @@ images:
     height: 853
     isCached: true
 
-secured: "4f6EXpJYxhaFpWadJtjsDYPi1coHDmxtsfDDFkbRHLP81cQw/8fx44VM2thGq68rDVI7eMd0gv39K+mR7E8It5UJaOVro09uRBbze55k6rR8A4TTfWYyIomuFXTk0x8Ua3Gc7m14/h9IQs1LLeUKj1SWjqMjS36bB3DnujjS9QqN8ZgSjTCEpSlcBiUuBJsqymAiNsymJY5aVM3IPD6m/ui35aDwuVo1RJGrElu4W5z5yBDjbr0w6KxLdeT2VevnRkvGIU8yRPLniFHxPRUcIvg6TY7n+UHMTLcQDR8+vm1MlX3wtSnwexuSXQB3W5FrPMvcLuXLRdLnoar6GMN8Tn9+5IXDezjl1epfhl9stwg=;zzZ1VcG/JPUkgUWNuDR9fw=="
+related:
+  - title: "Paytm integrates AI into operations, aims to streamline processes"
+    excerpt: "Popular fintech company Paytm is embracing artificial intelligence (AI) to enhance its operational efficiency, besides positioning itself alongside major global tech giants. By integrating AI into its operations,"
+    publishedDateTime: 2024-03-14T12:17:00Z
+    webUrl: "https://theprint.in/economy/paytm-integrates-ai-into-operations-aims-to-streamline-processes/2001030/"
+    type: article
+    provider:
+      name: ThePrint
+      domain: theprint.in
+    quality: 19
+
+secured: "tdVzFgGUvdCz04T+l3TgJx4nckp0TzmPvVtVm5NRDo7kc2GZS3K/wQTFU5x4v6DAGRLUwhyB2j7JVCZfRNFAKM5rN2TrQ3V0Ss0jyzb2kpFR+R+WsJMyxBQ+pasiVfa1IlzZ0Pbqpz+qFrWcADkTIXMsm0vnWrKX3+EOhnXrH3QT3wBRxj9h7f4D9CwqrSe8poO+UTP0n66jE7bkIvWOnLLk0EPfqeUpdeYWj+dIX0Ip0eV0o8l7Rnqqq5I+t3jqC40mJujZaD+CRaP3cQxxDtgcXbzulTq2e1oylnVpjNtqDIAc3sOuPxUmzVhBe0s/V5D6eofpNC1gaWbxX3Bhldj4o1M48n3n4ozpIY6sA9n6iCq6Ra6Shono7WtenaZTei92Pa6MhGCyZRSXOWY3DzHgp2HSp2SS7A0xG0Az/O2GUVftW2v2zfrJX63867hwo2XBwhCkMDdTSrx67DoTe6MwTrkYZseo/gy5C+g/kILBf++wJq/y+5U0geecIOLHSVlCNyf0MzdFVAiX0+O9Xw==;auY8GCwjmXwqLsvuXqxYzA=="
 ---
 

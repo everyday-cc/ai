@@ -88,6 +88,29 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Auto industry calls on government to accelerate self-driving revolution by backing Automated Vehicles bill"
+    excerpt: "Talking at SMMT Connected 2024, a major event exploring the future of personal mobility and mass transport organised by automotive trade association the SMMT, the body’s CEO Mike Hawes said that widespread deployment of self-driving vehicles could save ..."
+    publishedDateTime: 2024-03-14T00:01:00Z
+    webUrl: "https://www.theengineer.co.uk/content/news/auto-industry-calls-on-government-to-accelerate-self-driving-revolution-by-backing-automated-vehicles-bill"
+    type: article
+    provider:
+      name: The Engineer
+      domain: theengineer.co.uk
+    quality: 6
+    images:
+      - url: "https://www.theengineer.co.uk/media/fxvh3p4m/bus.png"
+        width: 960
+        height: 664
+        isCached: true
+  - title: "AAA survey: most US drivers fear self-driving vehicles"
+    excerpt: "AAA’s latest autonomous vehicle survey shows most U.S. drivers express either fear (66%) or uncertainty (25%) about fully-self-driving vehicles."
+    publishedDateTime: 2024-03-14T11:51:00Z
+    webUrl: "https://www.thecentersquare.com/michigan/article_288809ca-e1f9-11ee-902d-cbd96a9cb02d.html"
+    type: article
+    provider:
+      name: The Center Square
+      domain: thecentersquare.com
+    quality: 4
 
 secured: "gxQXu8wq2iiLkuVbK8rVD/Juc0q4Yd7qUD2StIZLAts5q4wHpP0jQVv92GEW2xOx+f9vGbO7gSvkcLO4arIz8JQdymJ+m509WKTcks7IS7oGNyHGIvqhGE7qPNsgjZtaz/RH85MqmCI0Oo0QnNFNIJ8PS9PzNtJcdf2SA4fJiO9sJMTWMJEOI3kh3xo99EzwseM33loVi5WA8OFeKR3X0t75FMED5xFzBRPq761YCohEVuPlzxOTL6aVdBcIpWOHD2LfIKUSB+5SMgOa7vmBSjsy52O4kWnxxhpi4uwgZ/Zh5GKHgAUAfnzt8KyO8oq11Uq+eFuOx5Dy6MRLkRrcOSYJAobjhlskzrSl3n++43fTlatjaPdFHpafPWU6ovGjCxRMt4iaNR1aQUTirAPoOLoKpyRM5Y03lQckkayj7lWfNA5hEapNThjbX8PiWydbaoYsnLyeqhC1aRpGJEK6lFfqM5GP6ld4QPXAK3dZtFd81WjrZ+1h7IzJT+ustA2dZ8OqThvVgotCg7Hvna/iyA==;cPV+2J8XjasPeZuhg6DLIQ=="
 ---

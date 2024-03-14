@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2024-03-13-visa-joins-dubai-fintech-summit-as-founding-partner-co-host.md",
-      "title": "Visa joins Dubai FinTech Summit as Founding Partner & Co-Host",
-      "excerpt": "The collaboration reinforces Dubai FinTech Summit and Visa’s shared commitment to nurture and strengthen the global financial ecosystem through innovation, meaningful discussions and connections. Dubai: Visa, a global leader in digital payments ...",
+      "path": "_news/2024-03-14-us-sanctions-three-israeli-west-bank-settlers-and-their-outposts-for-violence-against-palestinians.md",
+      "title": "US sanctions three Israeli West Bank settlers and their outposts for violence against Palestinians",
+      "excerpt": "The U.S. imposed sanctions Thursday on a group of three extremist Israeli West Bank settlers who are accused of harassing and attacking Palestinians in an attempt to pressure",
       "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/events-and-conferences/visa-joins-dubai-fintech-summit-as-founding-partner-and-co-host-ud3mw8yk",
-      "originalUrl": "https://www.zawya.com/en/press-release/events-and-conferences/visa-joins-dubai-fintech-summit-as-founding-partner-and-co-host-ud3mw8yk",
+      "webUrl": "https://www.kxan.com/news/political-news/ap-us-sanctions-three-israeli-west-bank-settlers-and-their-outposts-for-violence-against-palestinians/",
+      "originalUrl": "https://www.kxan.com/news/political-news/ap-us-sanctions-three-israeli-west-bank-settlers-and-their-outposts-for-violence-against-palestinians/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 72,
       "tags": null,
       "images": [
         {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/M2MzOTY1NjAtNWE4Yi00/0/mousigningpicture3-jpg.jpeg?f=3%3A2",
-          "width": 900,
-          "height": 600,
+          "url": "https://www.kxan.com/wp-content/uploads/sites/40/2024/03/65f3198b2ea963.27261369.jpeg?w=1280",
+          "width": 1280,
+          "height": 853,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/press-release/events-and-conferences/visa-joins-dubai-fintech-summit-as-founding-partner-and-co-host-ud3mw8yk?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/events-and-conferences/visa-joins-dubai-fintech-summit-as-founding-partner-and-co-host-ud3mw8yk?amp=1",
-      "publishedDateTime": "2024-03-13T05:51:00Z",
+      "ampWebUrl": "https://www.kxan.com/news/political-news/ap-us-sanctions-three-israeli-west-bank-settlers-and-their-outposts-for-violence-against-palestinians/amp/",
+      "cdnAmpWebUrl": "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/political-news/ap-us-sanctions-three-israeli-west-bank-settlers-and-their-outposts-for-violence-against-palestinians/amp/",
+      "publishedDateTime": "2024-03-14T15:34:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
+        "name": "KXAN",
+        "domain": "kxan.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,8 +40,9 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
-        "AI"
+        "AI in Autos",
+        "AI",
+        "AI in Finance"
       ]
     },
     {

@@ -15,12 +15,6 @@ topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://media.zenfs.com/en/aol_bbc_articles_618/ffb140cc594fbd1ec204943423b80d9b"
-    width: 976
-    height: 549
-    isCached: true
-
-secured: "IFqT2cd7UYkZu2OlMUidEc+kSZtLRArUfq6U4oiFIvmsQNYK1y3Ynv52oxwfnliE8oAZZfCNqDNZ8JnOFUsCUynvricR1BLvuzM0pGH2+CJIJMuLMizf7iC7DarDk4oHE0jgSjccsdlSQL9GKkBYEJUbCwqYHGZ89azVkBZZTI399Q340duwu/rK6AD9SwNrnDmbjXwviLpsYKbTkEgKVuHFuwHk4ki278EtfWlpPGpJo0coLHyhcZt3B9ZvW+uVPM+8qdTk70pYKPjobSJGnO1Ai5xtmn05ZZd1MA7vN6VJKKntlHBmuJzR94F4KLUGGAzvO9TuzT+UGScb005ALS2R+fVWCtwkWA9fD6qJ9pY=;UEwPUa9x7Kj0X0AODxbTaA=="
+secured: "YxGdzJDe7zxmxikGQ5b/ettThEHREK1IjsjOVMJpo3retH9eu3vvwLEd1Ye4IMqOeBwNvWCmSvAKpjDRvTT5qe2hAc2fPNmiXmbZNbZjl4bkn8HVZ3ZWhVJiMs4wmrZb5ZJTdEoiZC9kFnbozamBOgBstRHPzUqsupXr5SFd7czIGifb2J9Xu17Gx98cRHO7SNH9nxyA9sw1EbSL5h7ibeWXaItpjIIRwlpmWycs2Z8ct5B104OVInzCX97CpmjNQjLzaMRvxisXZfvaExLa7vXSfVkIKhYpFCgeOh05VQDJVtwCEP1Bo/KxC83HXyCy36BPRpC7Pu+85smoSTlWcDJWBP3VtLUwtKzdiGqMQ0U=;zjwULtD4JGMcAv33v+VuKg=="
 ---
 

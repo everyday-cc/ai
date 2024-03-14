@@ -53,11 +53,25 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 85
+    quality: 87
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65f0f81fab4ec72de094a838/0x0.jpg?format=jpg&crop=1920,1080,x0,y0,safe&height=900&width=1600&fit=bounds"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Nvidia to Unveil a New Next-generation AI Chip at the Upcoming GTC Conference"
+    excerpt: "Analysts predict revenue to double in 2024 driven by the demand for their top-tier AI chips. But the focus isn’t just on present success; it’s on futureproofing that success. The GTC is expected to unveil the B100, the next generation of Nvidia’s AI ..."
+    publishedDateTime: 2024-03-14T00:01:00Z
+    webUrl: "https://www.gizmochina.com/2024/03/14/nvidia-to-unveil-next-gen-chip-gtc/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 81
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/11/image-10.png"
+        width: 1022
+        height: 576
         isCached: true
   - title: "Nvidia is sued by authors over AI use of copyrighted works"
     excerpt: "2024 shows a US multinational Nvidia's graphic processing unit (GPU). Nvidia, whose chips power artificial intelligence, has been sued by three authors who said it used their copyrighted books without permission to train its NeMo AI platform. Brian Keene ..."

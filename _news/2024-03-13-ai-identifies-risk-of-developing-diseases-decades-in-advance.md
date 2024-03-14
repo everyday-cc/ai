@@ -1,15 +1,13 @@
 ---
 category: news
 title: "AI Identifies Risk of Developing Diseases Decades in Advance"
-excerpt: "Interestingly, the AI algorithm identified 70 pairs of disease trajectories that share some diagnoses earlier in life but eventually diverge later in life into separate diagnoses. The scientists point out that although no conclusion on causality can be made, the AI algorithm suggests potential early risk factors."
-publishedDateTime: 2024-03-13T16:06:00Z
-originalUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202403/ai-identifies-risk-of-developing-diseases-decades-in-advance"
-webUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202403/ai-identifies-risk-of-developing-diseases-decades-in-advance"
-ampWebUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202403/ai-identifies-risk-of-developing-diseases-decades-in-advance?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202403/ai-identifies-risk-of-developing-diseases-decades-in-advance?amp"
+excerpt: "therapy or in health care,” the scientists concluded. Artificial intelligence machine learning is rapidly emerging as a promising tool for clinicians and researchers to spot meaningful patterns from massive amounts of complex healthcare data to ..."
+publishedDateTime: 2024-03-13T00:00:00Z
+originalUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202403/ai-identifies-risk-of-developing-diseases-decades-in-advance"
+webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202403/ai-identifies-risk-of-developing-diseases-decades-in-advance"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -20,6 +18,6 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "M1i9F01cCNNVh3kz0OqiFu1/kyNp3pNT6B1Wv9SkYr+bbd3W69cB2VmK3oc09j5UEjPFG13OYWBVqO8tj0JzHcLocGV0kS7CsVtNE5c+X3cHipv9FOLkydL6bbZV5P05sAzxSwX+eveX68Sm+N65coYYA4rfhd723yvBdWPuNgaCdHpYK8J9lg2lztfVmMoH+I27zlORO5KUHqoJB/BkKO0ubO5PCkddHYO/jAXgHzZMj8qu3IrVPdZty/IBfvinKm4NL1ICNfPoRaJub/UAtSaB6MmSFwLfzdVEO0lkwGUrBDZkB59mBDR+e50Qr/8ueyFU3+gzClo0KsEgeobHkkWu0/uwpHckvYjtf1PWyZso58ShiFIETTFt0tcJh/iG6ES241JEpaK2CTWMRZH3L+sfbH4OEfTqGJK+/Rv6l8wRITyM0PhfTM752LXMn8kvmdpjf6OSNih6PAdAiA/jtioWCLv24i2wSg7Qn02EIp8Z8PqMY1bCQH1qK9YYFnurcikSL0AzHSogqrnpviq4ZA==;QmK/gtlZlN1+V58CWrUPrw=="
+secured: "eJF1qYLiCsldU2WnAUW1D0i5Res0OG9q0OVaZQa/LG0NiwUrYpdRVDh0tm0jW097c6F8re1/Ygmm/DWu1Nck6jQ2rNTO/t6w6h/XrVU21ZP7dpA5mZrXfps9VHiFliYRuUqSpcex0QoaLTiULLNGhGfj/HQsIN/nRpI89ciEkHec9avqMGXLNDaCXQnaI6wE3GeIR8pYDO9yoP+fIdw+bA/MIPUnyyjioxiTJTpXjMpfo4Y4y/6vkDfun1FApYSipckG3DU2Rd6fA+iFI1l5BrXZnc4+vlhvr49M8zT7TC92RjugRwpM2zKaF3yYhNNZn2b81cW05K3AXWz1v0kMsFg5Vq8f4gWO0lz3JHVL76shIDtQrSU/5HFOD9wEHK3Kj2NA3x4551GDvLHo2bosLwWNDuC+/agaQNax5uFrNo+cxw4JX0wfCEtibGTocf/AYrHOrwOdLDcbqgmDsavW+fQqEYdlm9WgN44GGTz1hUtOKGmV+VDWUu2iTe02MGcOC94XpKT6gouYcTudowh9uA==;2fPRJzEvmQYw+QPkkc2EEg=="
 ---
 

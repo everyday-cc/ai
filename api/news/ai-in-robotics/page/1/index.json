@@ -330,7 +330,7 @@
       "originalUrl": "https://venturebeat.com/ai/openai-powers-a-robot-that-can-hand-people-food-pick-up-trash-put-away-dishes-and-more/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -361,6 +361,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-13-new-study-claims-ai-robots-new-tech-in-workplace-deteriorates-quality-of-life.md",
+      "title": "New Study Claims AI, Robots, New Tech in Workplace Deteriorates Quality of Life",
+      "excerpt": "A United Kingdom study of nearly 5000 workers reportedly found that AI, robots, trackers, and other new technology are bad for people's well-being while laptops, computers, and other long-established technologies prove to improve people's health.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techtimes.com/articles/302511/20240312/new-study-claims-ai-robots-tech-workplace-deteriorates-quality-life.htm",
+      "originalUrl": "https://www.techtimes.com/articles/302511/20240312/new-study-claims-ai-robots-tech-workplace-deteriorates-quality-life.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1734811051.rsc.cdn77.org/data/images/full/443655/china-technology-ai-romace.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.techtimes.com/amp/articles/302511/20240312/new-study-claims-ai-robots-tech-workplace-deteriorates-quality-life.htm",
+      "cdnAmpWebUrl": "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/302511/20240312/new-study-claims-ai-robots-tech-workplace-deteriorates-quality-life.htm",
+      "publishedDateTime": "2024-03-13T03:11:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techtimes",
+        "domain": "techtimes.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -819,6 +862,49 @@
       ]
     },
     {
+      "path": "_news/2024-03-09-robot-ships-huge-remote-controlled-vessels-are-setting-sail.md",
+      "title": "Robot ships: Huge remote controlled vessels are setting sail",
+      "excerpt": "Marian Meza Chavira is learning to pilot underwater robots from a remote control centre Entering the ... Many questions spring to mind about remotely operated and autonomous shipping, just as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/science-environment-68486462.amp?amp_js_v=0.1&amp_gsa=1",
+      "originalUrl": "https://www.bbc.com/news/science-environment-68486462.amp?amp_js_v=0.1&amp_gsa=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-08T19:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-08-cambrian-robotics-obtains-seed-funding-to-provide-vision-for-complex-tasks.md",
       "title": "Cambrian Robotics obtains seed funding to provide vision for complex tasks",
       "excerpt": "Cambrian will use the funding to continue its mission of giving industrial robots human-level capabilities for complex tasks.",
@@ -1132,16 +1218,7 @@
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://media.zenfs.com/en/aol_bbc_articles_618/ffb140cc594fbd1ec204943423b80d9b",
-          "width": 976,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "",
       "type": "article",
       "ampWebUrl": null,
@@ -1302,95 +1379,6 @@
         "AI",
         "AI in Autos",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-06-single-chip-mpu-bring-vision-ai-to-next-gen-robotics.md",
-      "title": "Single-chip MPU bring vision AI to next-gen robotics",
-      "excerpt": "Renesas Electronics Corporation has expanded its popular RZ Family of microprocessors (MPUs) with a new device targeting high-performance robotics applications. Offering the highest levels of performance within the family,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eeworldonline.com/single-chip-mpu-bring-vision-ai-to-next-gen-robotics/",
-      "originalUrl": "https://www.eeworldonline.com/single-chip-mpu-bring-vision-ai-to-next-gen-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eeworldonline.com/wp-content/uploads/2024/03/rzv2h-pressphoto-notext.jpeg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-06T00:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eeworldonline",
-        "domain": "eeworldonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Hardware",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-orlando-health-embraces-cutting-edge-robotics-technology.md",
-      "title": "Orlando Health Embraces Cutting-Edge Robotics Technology",
-      "excerpt": "Robotic arms of a robotic surgical system demonstrate how doctors at Orlando Health Cancer Institute use the system during procedures for treatment of lung cancer. Orlando Health recognizes the pivotal role of technology in providing high-quality healthcare.",
-      "sourceUrl": null,
-      "webUrl": "https://www.orlandomagazine.com/orlando-health-embraces-cutting-edge-robotics-technology/",
-      "originalUrl": "https://www.orlandomagazine.com/orlando-health-embraces-cutting-edge-robotics-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.orlandomagazine.com/content/uploads/2024/02/a/p/orlandohealthcancerinstitute-roboticsurgeryinterior-scaled.jpg",
-          "width": 2560,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.orlandomagazine.com/orlando-health-embraces-cutting-edge-robotics-technology/",
-      "cdnAmpWebUrl": "https://www-orlandomagazine-com.cdn.ampproject.org/c/s/www.orlandomagazine.com/orlando-health-embraces-cutting-edge-robotics-technology/",
-      "publishedDateTime": "2024-03-05T13:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Orlando",
-        "domain": "orlandomagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

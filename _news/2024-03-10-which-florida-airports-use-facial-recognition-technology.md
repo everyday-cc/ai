@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wfla.com/news/florida/which-florida-airports-use-facial-
 cdnAmpWebUrl: "https://www-wfla-com.cdn.ampproject.org/c/s/www.wfla.com/news/florida/which-florida-airports-use-facial-recognition-technology/amp/"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -103,6 +103,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Elma man arrested in child porn case using facial recognition technology"
+    excerpt: "In a groundbreaking use of technology, Matthew A. Steele, 53, from Elma, New York, has been arrested and charged with the production and distribution of child pornography, announced U.S. Attorney Trini E. Ross. The charges could result in a prison sentence ranging from a mandatory minimum of 15 years to a maximum of 30 years."
+    publishedDateTime: 2024-03-14T09:29:00Z
+    webUrl: "https://www.fingerlakes1.com/2024/03/14/elma-man-arrested-in-child-porn-case-using-facial-recognition-technology/"
+    type: article
+    provider:
+      name: fingerlakes1
+      domain: fingerlakes1.com
+    quality: 18
   - title: "Stc Bahrain, the first telecom to launch instant mobile SIM Activation using AI Face Recognition Technology"
     excerpt: "Pioneering technology-driven solutions that empower customers and drive forward Bahrain’s digital transformation"
     publishedDateTime: 2024-03-12T12:48:00Z

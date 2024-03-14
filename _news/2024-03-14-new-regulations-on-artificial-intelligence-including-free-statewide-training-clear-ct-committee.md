@@ -6,7 +6,7 @@ publishedDateTime: 2024-03-13T18:54:00Z
 originalUrl: "https://www.stamfordadvocate.com/politics/article/ai-ct-new-rules-free-training-legislation-18964353.php"
 webUrl: "https://www.stamfordadvocate.com/politics/article/ai-ct-new-rules-free-training-legislation-18964353.php"
 type: article
-quality: 19
+quality: 21
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "EU approves landmark AI law, leapfrogging US to regulate critical but worrying new technology"
@@ -33,6 +34,20 @@ related:
       - url: "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-180405277.jpg?c=16x9&q=w_800,c_fill"
         width: 800
         height: 450
+        isCached: true
+  - title: "EU enacts landmark AI law to protect citizens' rights and prevent risky uses of artificial intelligence"
+    excerpt: "What just happened? European Union lawmakers on Wednesday voted overwhelmingly to enact a landmark law governing artificial intelligence. Called the AI Act, the new regulation was approved by 523 votes to 46 and is expected to change the way AI is used by ..."
+    publishedDateTime: 2024-03-14T00:01:00Z
+    webUrl: "https://www.techspot.com/news/102260-eu-enacts-landmark-ai-law-protect-citizens-rights.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 66
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2024/03/2024-03-14-image-8.jpg"
+        width: 2000
+        height: 1125
         isCached: true
   - title: "EU lawmakers endorse political deal on artificial intelligence rules"
     excerpt: "Reuters. AI Artificial intelligence words, miniature of robot and EU flag are seen in this illustration taken December 21, 2023. REUTERS/Dado Ruvic/Illustration/File Photo STRASBOURG (Reuters) - EU lawmakers on Wednesday endorsed a provisional agreement on ..."

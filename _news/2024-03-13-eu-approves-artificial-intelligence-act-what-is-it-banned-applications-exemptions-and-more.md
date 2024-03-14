@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "The EU AI Act Passes Another Hurdle Towards Becoming Law"
+    excerpt: "What Will Happen Once the EU AI Act Becomes Law? The AI Act will start to apply in phases. The first AI Act provisions to kick in will be the ones which prohibit certain applications of AI (e.g., AI systems that exploit individuals’ vulnerabilities ..."
+    publishedDateTime: 2024-03-14T00:01:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/the-eu-ai-act-passes-another-hurdle-2201330/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 37
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.7499_58.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "EU Parliament passes landmark AI Act — here’s what to expect"
     excerpt: "The EU Parliament greenlights the world's first major AI law, the EU AI Act, which categorizes AI risks, bans harmful practices and promotes transparency. It aims to ensure AI development safeguards human rights and fosters trustworthy AI for the EU."
     publishedDateTime: 2024-03-13T11:57:00Z

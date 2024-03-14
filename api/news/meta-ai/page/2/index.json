@@ -2,59 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2024-02-28-educators-teaching-ai-literacy-to-students-should-include-ethics-in-their-lesson-plans-scholars-say.md",
-      "title": "Educators teaching AI literacy to students should include ethics in their lesson plans, scholars say",
-      "excerpt": "Assertions about expanding the use of artificial intelligence are typically rooted in one of two schools of thought: \"Be ahead of the curve,\" or, \"Don't fix what isn't broken.\" Whichever side of the coin someone is on, it's clear that the rapidly emerging ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-literacy-ethics-teaching-students-educators-scholars-2024-2",
-      "originalUrl": "https://www.businessinsider.com/ai-literacy-ethics-teaching-students-educators-scholars-2024-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65d8eb23ce7f1785b2e38c28?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-literacy-ethics-teaching-students-educators-scholars-2024-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-literacy-ethics-teaching-students-educators-scholars-2024-2?amp",
-      "publishedDateTime": "2024-02-27T16:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Meta AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-27-sell-amd-stock-before-the-ai-hype-crashes-and-burns.md",
       "title": "Sell AMD Stock Before the AI Hype Crashes and Burns",
       "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips There’s no denying that Advanced Micro Devices (NASDAQ:AMD) is a massive",
@@ -1482,6 +1429,59 @@
         "Google AI",
         "AI",
         "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-chinas-rush-to-dominate-ai-comes-with-a-twist-it-depends-on-us-technology.md",
+      "title": "China’s Rush to Dominate A.I. Comes With a Twist: It Depends on U.S. Technology",
+      "excerpt": "In interviews, Mr. Lee presented his A.I. system as an alternative to options like Meta’s generative A.I. model, called LLaMA. There was just one twist: Some of the technology in 01.AI’s system came from LLaMA. Mr. Lee’s start-up then built on Meta ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2024/02/21/technology/china-united-states-artificial-intelligence.html",
+      "originalUrl": "https://www.nytimes.com/2024/02/21/technology/china-united-states-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2024/02/21/business/21CHINA-AI/21CHINA-AI-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T16:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

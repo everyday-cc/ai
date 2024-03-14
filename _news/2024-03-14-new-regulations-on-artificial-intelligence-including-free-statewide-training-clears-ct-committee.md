@@ -34,6 +34,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "EU enacts landmark AI law to protect citizens' rights and prevent risky uses of artificial intelligence"
+    excerpt: "What just happened? European Union lawmakers on Wednesday voted overwhelmingly to enact a landmark law governing artificial intelligence. Called the AI Act, the new regulation was approved by 523 votes to 46 and is expected to change the way AI is used by ..."
+    publishedDateTime: 2024-03-14T00:01:00Z
+    webUrl: "https://www.techspot.com/news/102260-eu-enacts-landmark-ai-law-protect-citizens-rights.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 66
+    images:
+      - url: "https://www.techspot.com/images2/news/bigimage/2024/03/2024-03-14-image-8.jpg"
+        width: 2000
+        height: 1125
+        isCached: true
   - title: "EU lawmakers endorse political deal on artificial intelligence rules"
     excerpt: "Reuters. AI Artificial intelligence words, miniature of robot and EU flag are seen in this illustration taken December 21, 2023. REUTERS/Dado Ruvic/Illustration/File Photo STRASBOURG (Reuters) - EU lawmakers on Wednesday endorsed a provisional agreement on ..."
     publishedDateTime: 2024-03-13T11:21:00Z
@@ -131,15 +145,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Europe passes world’s first major act to regulate AI"
-    excerpt: "The European Union Parliament made history on Wednesday by approving the world's inaugural comprehensive regulatory framework for artificial intelligence."
-    publishedDateTime: 2024-03-13T13:10:00Z
-    webUrl: "https://invezz.com/news/2024/03/13/europe-passes-worlds-first-major-act-to-regulate-ai/"
-    type: article
-    provider:
-      name: Invezz
-      domain: invezz.com
-    quality: 19
   - title: "New regulations on artificial intelligence, including free statewide training, clear CT committee"
     excerpt: "The legislative General Law Committee on Tuesday recommended new rules for CT's fast-moving artificial intelligence landscape."
     publishedDateTime: 2024-03-13T18:54:00Z
@@ -148,6 +153,15 @@ related:
     provider:
       name: StamfordAdvocate
       domain: stamfordadvocate.com
+    quality: 21
+  - title: "Europe passes world’s first major act to regulate AI"
+    excerpt: "The European Union Parliament made history on Wednesday by approving the world's inaugural comprehensive regulatory framework for artificial intelligence."
+    publishedDateTime: 2024-03-13T13:10:00Z
+    webUrl: "https://invezz.com/news/2024/03/13/europe-passes-worlds-first-major-act-to-regulate-ai/"
+    type: article
+    provider:
+      name: Invezz
+      domain: invezz.com
     quality: 19
   - title: "New regulations on artificial intelligence, including free statewide training, clears CT committee"
     excerpt: "HARTFORD — A key legislative committee on Tuesday approved a framework for regulating the nascent artificial intelligence industry in an attempt to make the technology more transparent and accountable. It also outlines criminal consequences for those who ..."

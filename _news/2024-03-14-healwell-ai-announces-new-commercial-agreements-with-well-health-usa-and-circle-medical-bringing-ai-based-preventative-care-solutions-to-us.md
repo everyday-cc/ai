@@ -140,6 +140,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 33
+  - title: "Microsoft makes the promise of AI in healthcare real through new collaborations with healthcare organizations and partners"
+    excerpt: "Just over a year ago, the healthcare industry was energized by the debut of generative AI and the promise this new technology held for delivering real-world outcomes that positively impact clinicians,"
+    publishedDateTime: 2024-03-13T16:35:00Z
+    webUrl: "https://blogs.microsoft.com/blog/2024/03/11/microsoft-makes-the-promise-of-ai-in-healthcare-real-through-new-collaborations-with-healthcare-organizations-and-partners/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 25
 
 secured: "ZP6pbp2wg2myFQA+gMvtm2YmmTxPSPeeXvpVl/GcMcSTiWVxBTDni+wr1kaNKqM0+TEt4FL759wQ4VNAsUiNI2of/vm+Fc3Qy8tiBgkB1AIg8tAKKqt0K8g7S1Mcdji4A0RcZB5cqlcWRX3lP3LvEREJjWLYwQx2Lva9j1a0jxrWP0gHXBUhQb+Hf0MZ6xXYr4W9yaS0iQz9HpI+f06RRSHyeAdolu/3il9W7EWgIhte6ZsGeKqJp8307zjNNYRO034/ZUG65DjwecJ1kKkel1t5D3bL41Co/BL42QR37incNQd1deLwSlU/jZJcgLEp5+fS5HwN4m9SYhEAirp5mLp3h06RsIDZcJMnm5RKtzY=;T2iofceP4cOQJYMa/cpetA=="
 ---
