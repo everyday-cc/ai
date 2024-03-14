@@ -37,6 +37,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
+  - title: "Billionaire Mark Cuban rolls out more national AI boot camps, including in St. Louis"
+    excerpt: "The AI camps, hosted by the Mark Cuban Foundation in 18 cities including St. Louis, will be open to high school students."
+    publishedDateTime: 2024-03-13T15:40:00Z
+    webUrl: "https://www.bizjournals.com/stlouis/inno/stories/news/2024/03/13/mark-cuban-ai-boot-camp-st-louis.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 12
 
 secured: "9PifOQVAOmEm+fr6O+TMP3qhj7v2Hv+q37yvLTvT+eWSk3sosyeAdFegZdkeqgH+DylNn5aW1esVgqP3uATg3JRWxN5EmYXDXUeFz7SD/Ub9YDUhV/6m/xqFen4CDPW8Jl0sd/fbzUmuZOsukkj9cfWv28xQxl0Iv+DvlkUEu57WVlVHJRqB4iV1YX45dd7flD6GWP39nbu7SYtFf9BrFxAVC3U25KrRWGuhYnnZbyuBwflJnP0vp5tNcbFDt5yiPvs5ck1zyFG7jp/fdI/xsMcJVdkD/g1bkvQ2JntDq4zow9CDDRdVaXQdfXnnOnDIRZsBxCby6bBG07vHJRCEFunNfgEpyfhQ8sfOrhqdJeJq5aBAbREjnE1/T3LIsouJxLd37qepvlHGG656jV+hEGWLjB5zkbQZJJNVvy6K7UIoLrMDkbgJE4nduD4vwKYMvtCWfXL2RcaeSnO2mH3tz6r74S2mERxhDCN6bhSjvYeiKBpHxzr0CW2J3Dnmd/nY5n7aUmPl+SZdUSTET0qNfQ==;5F+MUjZ2Wvk40YfHMlgwEQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/moorinsights/2024/03/12/qualcomm-on-dev
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2024/03/12/qualcomm-on-device-ai-powers-future-products-from-phones-to-pcs/amp/"
 type: article
 quality: 91
-heat: 112
+heat: 111
 published: true
 
 provider:

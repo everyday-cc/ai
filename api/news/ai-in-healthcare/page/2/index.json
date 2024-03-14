@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-26-market-downturn-3-artificial-intelligence-ai-stocks-to-buy-with-1000-and-hold-forever.md",
+      "title": "Market Downturn? 3 Artificial Intelligence (AI) Stocks to Buy With $1,000 and Hold Forever",
+      "excerpt": "Some of the leading artificial intelligence (AI) stocks come to mind here. Here are three stocks that investors can buy for under $1,000 and confidently hold for the long term. Consider nibbling ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/02/26/market-downturn-artificial-intelligence-ai-stock/",
+      "originalUrl": "https://www.fool.com/investing/2024/02/26/market-downturn-artificial-intelligence-ai-stock/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/766231/big-data-analyst-ai-research.jpg",
+          "width": 3840,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-26T05:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-26-artificial-intelligence-already-plays-a-part-in-kansas-city-health-care-without-much-regulation.md",
       "title": "Artificial intelligence already plays a part in Kansas City health care, without much regulation",
       "excerpt": "It’s an increasingly common scenario: Patients are looking to artificial intelligence for health care answers.",
@@ -1317,49 +1369,6 @@
       "provider": {
         "name": "ABC News",
         "domain": "abcnews.go.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-roundtable-healthcare-organizations-put-generative-ai-under-the-microscope.md",
-      "title": "Roundtable: Healthcare Organizations Put Generative AI Under the Microscope",
-      "excerpt": "The good, the bad and the unpredictable? Four industry experts discuss the role of generative artificial intelligence in healthcare and its potential.",
-      "sourceUrl": null,
-      "webUrl": "https://healthtechmagazine.net/article/2024/02/roundtable-healthcare-organizations-put-generative-ai-under-microscope",
-      "originalUrl": "https://healthtechmagazine.net/article/2024/02/roundtable-healthcare-organizations-put-generative-ai-under-microscope",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthtechmagazine.net/sites/healthtechmagazine.net/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202402/HTQ124_Feature_Gimbel_Hero.jpg?itok=aixW-18e",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://healthtechmagazine.net/article/2024/02/roundtable-healthcare-organizations-put-generative-ai-under-microscope?amp",
-      "cdnAmpWebUrl": "https://healthtechmagazine-net.cdn.ampproject.org/c/s/healthtechmagazine.net/article/2024/02/roundtable-healthcare-organizations-put-generative-ai-under-microscope?amp",
-      "publishedDateTime": "2024-02-13T23:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HealthTech",
-        "domain": "healthtechmagazine.net",
         "images": null,
         "publishers": null,
         "authors": null

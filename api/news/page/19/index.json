@@ -2,6 +2,162 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2024-02-28-the-most-popular-neural-network-styles-and-how-they-work.md",
+      "title": "The most popular neural network styles and how they work",
+      "excerpt": "Understanding the basics of neural networks also helps us address deeper questions about the nature of consciousness and what artificial intelligence (in its current incarnation) means for it. Fortunately, the fundamental ideas of neural networks are not ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3713023/the-most-popular-neural-network-styles-and-how-they-work.html",
+      "originalUrl": "https://www.infoworld.com/article/3713023/the-most-popular-neural-network-styles-and-how-they-work.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/11/11/10/brain_mind_neural_network_connections_artificial_intelligence_machine_learning_by_metamorworks_gettyimages-916414870_1200x800-100767999-large-100934453-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3713023/the-most-popular-neural-network-styles-and-how-they-work.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3713023/the-most-popular-neural-network-styles-and-how-they-work.amp.html",
+      "publishedDateTime": "2024-02-28T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-10-best-graphics-cards-of-2024-finding-the-best-gpu-for-gaming.md",
+      "title": "10 best graphics cards of 2024: finding the best GPU for gaming",
+      "excerpt": "The previous GPU champion, the RTX 3090 Ti ... On top of that, the card also supports Intel's XeSS upscaling feature, which uses AI to upscale your games and improve performance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/best-graphics-cards/",
+      "originalUrl": "https://www.digitaltrends.com/computing/best-graphics-cards/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/01/12gb-rtx-3080-review-07.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/best-graphics-cards/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/best-graphics-cards/?amp",
+      "publishedDateTime": "2024-02-28T09:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-is-it-too-late-to-buy-soundhound-ai-stock-now.md",
+      "title": "Is It Too Late to Buy SoundHound AI Stock Now?",
+      "excerpt": "SoundHound AI develops voice-based recognition software, a market the company estimates is worth $160 billion in annual revenues. Nvidia is a small investor in SoundHound AI, a move that may not ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/02/28/is-it-too-late-to-buy-soundhound-ai-stock-now/",
+      "originalUrl": "https://www.fool.com/investing/2024/02/28/is-it-too-late-to-buy-soundhound-ai-stock-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/766726/amazon-alexa-voice-remote-being-used-by-person-on-tv.png",
+          "width": 2000,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T09:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-28-deepsig-announces-commercial-release-of-industrys-first-neural-receiver-software-for-open-ran-5g-networks.md",
       "title": "DeepSig Announces Commercial Release of Industry's First Neural Receiver Software for Open RAN 5G Networks",
       "excerpt": "This press release features multimedia. View the full release here:  The OmniPHY 5G software transforms 5G Physical Uplink Shared Channel (PUSCH) processing in an Open Distributed Unit (O-DU), replacing conventional algorithms with a Deep Neural Network (DNN),",
@@ -1046,144 +1202,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-intel-aims-to-deliver-chips-for-100-million-ai-pcs-by-2025.md",
-      "title": "Intel aims to deliver chips for 100 million AI PCs by 2025",
-      "excerpt": "Intel Vice President of Client Computing Group David Feng said his company expects to deliver 40 million AI PCs this year and 60 million next year -- more than 20% of the projected total global PC market in 2025.",
-      "sourceUrl": null,
-      "webUrl": "https://asia.nikkei.com/cms/Business/Technology/Intel-aims-to-deliver-chips-for-100-million-AI-PCs-by-2025",
-      "originalUrl": "https://asia.nikkei.com/cms/Business/Technology/Intel-aims-to-deliver-chips-for-100-million-AI-PCs-by-2025",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F8%2F8%2F8%2F4%2F47334888-1-eng-GB%2F2024-01-08T220541Z_1510761602_RC2YD5ADZUKN_RTRMADP_3_TECH-AI+%281%29.jpg?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-27T17:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nikkei Asia",
-        "domain": "nikkei.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-k-state-social-media-week-to-feature-events-in-artificial-intelligence-content-creation.md",
-      "title": "K-State Social Media Week to feature events in artificial intelligence, content creation",
-      "excerpt": "including key themes of AI-powered personalization, user privacy and data security, content moderation and ethics, misinformation, and future trends and innovations. “AI is making a major impact in many areas of life, including social media,” said ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wibw.com/2024/02/27/k-state-social-media-week-feature-events-artificial-intelligence-content-creation/",
-      "originalUrl": "https://www.wibw.com/2024/02/27/k-state-social-media-week-feature-events-artificial-intelligence-content-creation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wibw-prod.cdn.arcpublishing.com/resizer/v2/PMKOXL746BBJBHH42WDQK34DLI.jpg?auth=b29d71430cac1bfc561d468e22bb9990b63a0d9b63215e1c4ba5fe4f25c6c768&width=800&height=450&smart=true",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.wibw.com/2024/02/27/k-state-social-media-week-feature-events-artificial-intelligence-content-creation/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wibw-com.cdn.ampproject.org/c/s/www.wibw.com/2024/02/27/k-state-social-media-week-feature-events-artificial-intelligence-content-creation/?outputType=amp",
-      "publishedDateTime": "2024-02-27T17:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WIBW",
-        "domain": "wibw.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-please-include-csiro-ai-and-australia-in-the-title-and-any-other-relevant-brands-if-it-makes-sense.md",
-      "title": "Please include CSIRO, AI, and Australia in the Title and any other relevant brands if it makes sense.",
-      "excerpt": "Australia’s CSIRO, with Google and Stone & Chalk, has launched a $500,000 competition to support the development of AI apps in Australia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/csiro-ai-commercialisation-program-australia/",
-      "originalUrl": "https://www.techrepublic.com/article/csiro-ai-commercialisation-program-australia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.techrepublic.com/uploads/2024/02/AdobeStock_625988548.jpeg",
-          "width": 1400,
-          "height": 784,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-27T16:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
       ]
     }
   ],

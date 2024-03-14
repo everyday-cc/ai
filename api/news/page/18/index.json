@@ -2,6 +2,162 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2024-02-29-innovationrx-exploring-the-future-of-healthcare-ai.md",
+      "title": "InnovationRx: Exploring The Future Of Healthcare AI",
+      "excerpt": "Lightspeed Venture Partners and Redpoint Ventures have co-led a $150 million Series C investment in Pittsburgh-based startup Abridge, which uses AI to transcribe patient conversations with doctors and automatically transform them into medical notes. The company’s post-money valuation is $850 million, according to a person familiar with the deal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/katiejennings/2024/02/28/innovationrx-exploring-the-future-of-healthcare-ai/",
+      "originalUrl": "https://www.forbes.com/sites/katiejennings/2024/02/28/innovationrx-exploring-the-future-of-healthcare-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65dfaf39f3e15d8eac74e26c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T22:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-c3ai-shares-pop-after-company-beats-estimates-narrows-annual-revenue-forecast.md",
+      "title": "C3.ai shares pop after company beats estimates, narrows annual revenue forecast",
+      "excerpt": "Software firm C3.ai on Wednesday posted better-than-expected quarterly results and narrowed its full-year revenue forecast range which was still ahead of Wall Street estimates, sending its shares up more than 14% in extended trading. The company also named Hitesh Lath as its chief financial officer, effective March 1, replacing Juho Parkkinen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/02/28/c3ai-shares-pop-after-company-beats-estimates-narrows-annual-revenue-forecast-.html",
+      "originalUrl": "https://www.cnbc.com/2024/02/28/c3ai-shares-pop-after-company-beats-estimates-narrows-annual-revenue-forecast-.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107241946-1684255273555-sei.jpg?v=1694098121",
+          "width": 3000,
+          "height": 2000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/02/28/c3ai-shares-pop-after-company-beats-estimates-narrows-annual-revenue-forecast-.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/02/28/c3ai-shares-pop-after-company-beats-estimates-narrows-annual-revenue-forecast-.html",
+      "publishedDateTime": "2024-02-28T21:24:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-the-us-department-of-defense-is-using-ml-algorithms-to-find-airstrike-targets.md",
+      "title": "The US Department of Defense is using ML algorithms to find airstrike targets",
+      "excerpt": "Since early February, the US Department of Defense has employed ML algorithms to identify targets for over 85 air strikes in Iraq and Syria. According to",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/102066-us-department-defense-using-ml-algorithms-find-airstrike.html",
+      "originalUrl": "https://www.techspot.com/news/102066-us-department-defense-using-ml-algorithms-find-airstrike.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-28-image-23.jpg",
+          "width": 2000,
+          "height": 1261,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T21:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2024-02-29-google-ceo-pichai-says-geminis-ai-image-results-offended-our-users.md",
       "title": "Google CEO Pichai says Gemini's AI image results 'offended our users'",
       "excerpt": "Google CEO Sundar Pichai told employees in an internal memo that the AI tool’s problematic images were unacceptable. He vowed to re-release a better version of the service in the coming weeks.",
@@ -1036,162 +1192,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-the-most-popular-neural-network-styles-and-how-they-work.md",
-      "title": "The most popular neural network styles and how they work",
-      "excerpt": "Understanding the basics of neural networks also helps us address deeper questions about the nature of consciousness and what artificial intelligence (in its current incarnation) means for it. Fortunately, the fundamental ideas of neural networks are not ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3713023/the-most-popular-neural-network-styles-and-how-they-work.html",
-      "originalUrl": "https://www.infoworld.com/article/3713023/the-most-popular-neural-network-styles-and-how-they-work.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/11/11/10/brain_mind_neural_network_connections_artificial_intelligence_machine_learning_by_metamorworks_gettyimages-916414870_1200x800-100767999-large-100934453-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3713023/the-most-popular-neural-network-styles-and-how-they-work.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3713023/the-most-popular-neural-network-styles-and-how-they-work.amp.html",
-      "publishedDateTime": "2024-02-28T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-10-best-graphics-cards-of-2024-finding-the-best-gpu-for-gaming.md",
-      "title": "10 best graphics cards of 2024: finding the best GPU for gaming",
-      "excerpt": "The previous GPU champion, the RTX 3090 Ti ... On top of that, the card also supports Intel's XeSS upscaling feature, which uses AI to upscale your games and improve performance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/best-graphics-cards/",
-      "originalUrl": "https://www.digitaltrends.com/computing/best-graphics-cards/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/01/12gb-rtx-3080-review-07.jpg?resize=1200%2C630&p=1",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/best-graphics-cards/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/best-graphics-cards/?amp",
-      "publishedDateTime": "2024-02-28T09:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-is-it-too-late-to-buy-soundhound-ai-stock-now.md",
-      "title": "Is It Too Late to Buy SoundHound AI Stock Now?",
-      "excerpt": "SoundHound AI develops voice-based recognition software, a market the company estimates is worth $160 billion in annual revenues. Nvidia is a small investor in SoundHound AI, a move that may not ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2024/02/28/is-it-too-late-to-buy-soundhound-ai-stock-now/",
-      "originalUrl": "https://www.fool.com/investing/2024/02/28/is-it-too-late-to-buy-soundhound-ai-stock-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/766726/amazon-alexa-voice-remote-being-used-by-person-on-tv.png",
-          "width": 2000,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T09:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

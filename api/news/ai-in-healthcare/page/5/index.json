@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-01-11-the-future-of-artificial-intelligence-ai-in-2024-and-beyond.md",
+      "title": "The future of artificial intelligence (AI) in 2024 and beyond",
+      "excerpt": "Find out how artificial intelligence (AI) will shape the future in 2024 and why 'future literacy' and 'future agency' are crucial. We shed light on the technological trend, the social impact and the need for new skills in this hyper-digital era.",
+      "sourceUrl": null,
+      "webUrl": "https://morethandigital.info/en/the-future-of-artificial-intelligence-ai-in-2024-and-beyond/",
+      "originalUrl": "https://morethandigital.info/en/the-future-of-artificial-intelligence-ai-in-2024-and-beyond/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://morethandigital.info/wp-content/uploads/2023/12/Die-Zukunft-von-Kuenstlicher-Intelligenz-KI-in-2024-und-darueber-hinaus.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T07:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "morethandigital",
+        "domain": "morethandigital.info",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-11-americans-are-skeptical-about-ai-in-health-care-cincinnati-hospitals-are-already-using-it.md",
       "title": "Americans are skeptical about AI in health care. Cincinnati hospitals are already using it",
       "excerpt": "All of Cincinnati’s major hospital systems are using artificial intelligence ... \"It’s evolved from many years ago. Health care has been using AI in the back office for quite some time.”",
@@ -1284,49 +1327,6 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-12-20-genais-role-in-the-accelerating-growth-of-artificial-intelligence.md",
-      "title": "GenAI's role in the accelerating growth of artificial intelligence",
-      "excerpt": "Improving the Patient Financial Experience Throughout the Patient Journey While many healthcare providers believe that improving the patient financial experience is a critical step for their organization, few have done so successfully. Read this brief to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.healthcarefinancenews.com/video/genais-role-accelerating-growth-artificial-intelligence",
-      "originalUrl": "https://www.healthcarefinancenews.com/video/genais-role-accelerating-growth-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.healthcarefinancenews.com/sites/healthcarefinancenews.com/files/RobertHavasy1200.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-19T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Healthcare Finance News",
-        "domain": "healthcarefinancenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

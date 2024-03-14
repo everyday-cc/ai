@@ -2,6 +2,162 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2024-01-25-will-ai-take-our-jobs.md",
+      "title": "Will AI Take Our Jobs?",
+      "excerpt": "When you listen to people talk about AI, there's one thing that many of them are worried about: \"Will it take our jobs?\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnwerner/2024/01/24/will-ai-take-our-jobs/",
+      "originalUrl": "https://www.forbes.com/sites/johnwerner/2024/01/24/will-ai-take-our-jobs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65b17a07775fc9eb7d0b88cd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 852,
+          "height": 568,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2024/01/24/will-ai-take-our-jobs/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2024/01/24/will-ai-take-our-jobs/amp/",
+      "publishedDateTime": "2024-01-24T21:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-25-after-gen-ais-82-stock-surge-in-2023-three-keys-to-profiting-from-davos-takeaways.md",
+      "title": "After Gen AI’s 82% Stock Surge In 2023, Three Keys To Profiting From Davos Takeaways",
+      "excerpt": "If Generative AI stocks grow faster than investors expect, their shares will rise. A case in point is ASML — the Dutch provider of a critical machine for manufacturing the chips used to train large language models. In 2023, ASML’s stock rose 36%.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/petercohan/2024/01/24/after-gen-ais-82-stock-surge-in-2023-three-keys-to-profiting-from-davos-takeaways/",
+      "originalUrl": "https://www.forbes.com/sites/petercohan/2024/01/24/after-gen-ais-82-stock-surge-in-2023-three-keys-to-profiting-from-davos-takeaways/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65aa33fd62a08db8addbaef6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/petercohan/2024/01/24/after-gen-ais-82-stock-surge-in-2023-three-keys-to-profiting-from-davos-takeaways/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2024/01/24/after-gen-ais-82-stock-surge-in-2023-three-keys-to-profiting-from-davos-takeaways/amp/",
+      "publishedDateTime": "2024-01-24T20:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-25-gen-z-investing-app-alinea-raises-34m-plans-to-launch-an-ai-copilot.md",
+      "title": "Gen Z investing app Alinea raises $3.4M, plans to launch an ‘AI copilot’",
+      "excerpt": "Alinea Invest, a fintech app offering AI-powered wealth management aimed at Gen Z women, has $3.4 million in seed funding ahead of the launch of a virtual",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/01/24/gen-z-investing-app-alinea-raises-3-4m-plans-to-launch-an-ai-copilot/",
+      "originalUrl": "https://techcrunch.com/2024/01/24/gen-z-investing-app-alinea-raises-3-4m-plans-to-launch-an-ai-copilot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/01/Alinea-post-1.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/01/24/gen-z-investing-app-alinea-raises-3-4m-plans-to-launch-an-ai-copilot/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/01/24/gen-z-investing-app-alinea-raises-3-4m-plans-to-launch-an-ai-copilot/amp/",
+      "publishedDateTime": "2024-01-24T20:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-25-pope-francis-warns-of-ai-dangers-after-fake-image-of-himself-went-viral.md",
       "title": "Pope Francis Warns Of AI Dangers After Fake Image Of Himself Went Viral",
       "excerpt": "Pope Francis warned about the dangers of AI in a speech in Vatican City on Wednesday, calling the potential of such technology, “both exciting and disorienting.”",
@@ -1026,146 +1182,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-facial-recognition-used-after-sunglass-hut-robbery-led-to-mans-wrongful-jailing-says-suit.md",
-      "title": "Facial recognition used after Sunglass Hut robbery led to man’s wrongful jailing, says suit",
-      "excerpt": "Harvey Eugene Murphy Jr’s lawsuit claims he was misidentified as culprit of armed robbery and put in jail, where he says he was raped A 61-year-old man is suing Macy’s and the parent company of Sunglass Hut over the stores’ alleged use of a facial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit?ref=applespbevent.ru",
-      "originalUrl": "https://www.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit?ref=applespbevent.ru",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/ae12f5dc427031b0049b47b68d64c480f4e93938/0_0_4000_2666/master/4000.jpg?width=620&quality=85&auto=format&fit=max&s=515020e831547538a72a100d53066eb3",
-          "width": 620,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/jan/22/sunglass-hut-facial-recognition-wrongful-arrest-lawsuit",
-      "publishedDateTime": "2024-01-24T09:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-how-did-facial-recognition-technology-send-the-wrong-man-to-jail-where-he-was-brutally-attacked.md",
-      "title": "How did facial recognition technology send the wrong man to jail where he was brutally attacked?",
-      "excerpt": "One Houston man is suing after he claims facial recognition software caused him to be falsely arrested and attacked in jail.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/news/did-facial-recognition-technology-send-002801018.html",
-      "originalUrl": "https://www.aol.com/news/did-facial-recognition-technology-send-002801018.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-24T07:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-24-most-top-news-sites-block-ai-bots-right-wing-media-welcomes-them.md",
-      "title": "Most Top News Sites Block AI Bots. Right-Wing Media Welcomes Them",
-      "excerpt": "Originality tallied which sites block GPTbot and other AI scrapers by surveying the robots.txt files that websites use to inform automated web crawlers which pages they are welcome to visit or barred from. The startup used Internet Archive data to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/most-news-sites-block-ai-bots-right-wing-media-welcomes-them/",
-      "originalUrl": "https://www.wired.com/story/most-news-sites-block-ai-bots-right-wing-media-welcomes-them/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/65b07abd3461909d851157ff/191:100/w_1280,c_limit/business_rightwing_news_ai_bots.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-24T07:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

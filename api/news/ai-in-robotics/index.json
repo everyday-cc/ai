@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-14-mountain-view-robot-security-company-partners-with-canadian-company.md",
+      "title": "Mountain View robot security company partners with Canadian company",
+      "excerpt": "\"The Autonomous Security Drones can be programmed to patrol specific areas, follow predetermined routes, or be dispatched to investigate alarms,\" Knightscope said in a statement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/sanjose/news/2024/03/13/knightscope-partners-with-draganfly.html",
+      "originalUrl": "https://www.bizjournals.com/sanjose/news/2024/03/13/knightscope-partners-with-draganfly.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.bizj.us/view/img/12197002/knightscope-robotos-for-allied-universal*1200xx3840-2160-0-0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-13T20:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2024-03-14-abb-opens-revamped-robotics-center-in-michigan-amid-growing-demand-for-ai-robots.md",
       "title": "ABB Opens Revamped Robotics Center in Michigan Amid Growing Demand for AI Robots",
       "excerpt": "ABB, a Zurich-based automation technology provider, Wednesday opened a $20 million expansion to its U.S. robotics headquarters in Auburn Hills, Mich. The move comes as demand for automation grows not just in traditional industries like logistics and manufacturing,",
@@ -96,7 +140,7 @@
       "originalUrl": "https://gizmodo.com/jennifer-lopez-atlas-netflix-scifi-mech-movie-titanfall-1851328946",
       "featuredContent": null,
       "highlight": null,
-      "heat": 100,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -1336,49 +1380,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-04-from-apprentice-to-pro-ais-workforce-promotion-awaits.md",
-      "title": "From Apprentice to Pro: AI’s workforce promotion awaits",
-      "excerpt": "Billionaire Elon Musk took to the X platform recently to agree with David Holz, the founder of artificial intelligence research lab Midjourney, on Holz’s assertion that there will be one billion humanoid robots on earth by the 2040s—a mere 16 years ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmr.com/article/from_apprentice_to_pro_ais_workforce_promotion_awaits",
-      "originalUrl": "https://www.scmr.com/article/from_apprentice_to_pro_ais_workforce_promotion_awaits",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.scmr.com/images/2024_article/SCMR2403_F_Spotlight_AI-800px.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-04T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Supply Chain Management Review",
-        "domain": "scmr.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-03-13-locus-robotics-success-is-a-tale-of-focusing-on-what-works.md",
+      "title": "Locus Robotics’ success is a tale of focusing on what works",
+      "excerpt": "The new software offering uses AI to process the massive troves of data collected ... Former executives from the robotics startup launched their own Locus competitor, 6 River Systems. That company has struggled in recent years, however, following its ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/03/12/locus-robotics-success-is-a-tale-of-focusing-on-what-works/",
+      "originalUrl": "https://techcrunch.com/2024/03/12/locus-robotics-success-is-a-tale-of-focusing-on-what-works/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/03/IMG_0748.jpg?resize=1200,900",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/03/12/locus-robotics-success-is-a-tale-of-focusing-on-what-works/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/locus-robotics-success-is-a-tale-of-focusing-on-what-works/amp/",
+      "publishedDateTime": "2024-03-12T17:48:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-13-us-pushes-to-weaken-international-human-rights-treaty-on-use-of-ai-software.md",
       "title": "US pushes to weaken international human rights treaty on use of AI software",
       "excerpt": "The Council of Europe, of which the US is an observer, is drafting a treaty that will call on its member states to ensure that AI systems respect international obligations to protect human rights.",
@@ -1186,59 +1238,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-make-the-most-of-gpus-for-machine-learning-applications.md",
-      "title": "Make the most of GPUs for machine learning applications",
-      "excerpt": "There are also examples of AI that are appropriate for CPUs, such as telemetry and network routing, object recognition in CCTV cameras, fault detection in manufacturing, and object detection in CT and MRI scans. While the above CPU use cases continue to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3714285/make-the-most-of-gpus-for-machine-learning-applications.html",
-      "originalUrl": "https://www.infoworld.com/article/3714285/make-the-most-of-gpus-for-machine-learning-applications.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/03/10/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-large-100920809-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3714285/make-the-most-of-gpus-for-machine-learning-applications.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3714285/make-the-most-of-gpus-for-machine-learning-applications.amp.html",
-      "publishedDateTime": "2024-03-12T09:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -2,6 +2,126 @@
   "page": 114,
   "value": [
     {
+      "path": "_news/2023-12-08-automated-system-teaches-users-when-to-collaborate-with-an-ai-assistant.md",
+      "title": "Automated system teaches users when to collaborate with an AI assistant",
+      "excerpt": "A customized onboarding process could help this radiologist answer that question, according to researchers at MIT and the MIT-IBM Watson AI Lab. They designed a system that teaches a user when to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/1010525",
+      "originalUrl": "https://www.eurekalert.org/news-releases/1010525",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-07T21:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-08-automation-anywhere-collaborateswith-aws-to-expand-genai-for-customers.md",
+      "title": "Automation Anywhere collaborateswith AWS to expand GenAI for customers",
+      "excerpt": "Automation Anywhere continues to work with AWS to build and deploy generative AI powered solutions in customer experience, document processing and contact center intelligence using Amazon ...",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/automation-anywhere-collaborateswith-aws-to-expand-genai-for-customers/105810802",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/automation-anywhere-collaborateswith-aws-to-expand-genai-for-customers/105810802",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-105810802,imgsize-54728,width-1200,height=765,overlay-etcio/artificial-intelligence/automation-anywhere-collaborateswith-aws-to-expand-genai-for-customers.jpg",
+          "width": 1200,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-07T21:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cio.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-08-supermicro-extends-ai-and-gpu-rack-scale-solutions-with-support-for-amd-instinct-mi300-series-accelerators.md",
+      "title": "Supermicro Extends AI and GPU Rack Scale Solutions with Support for AMD Instinct MI300 Series Accelerators",
+      "excerpt": "SAN JOSE, Calif., Dec. 7, 2023 — Supermicro, Inc., a Total IT Solution Manufacturer for AI, Cloud, Storage, and 5G/Edge, is announcing three new additions to its AMD-based H13 generation of GPU Servers, optimized to deliver leading-edge performance and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/this-just-in/supermicro-extends-ai-and-gpu-rack-scale-solutions-with-support-for-amd-instinct-mi300-series-accelerators/",
+      "originalUrl": "https://www.datanami.com/this-just-in/supermicro-extends-ai-and-gpu-rack-scale-solutions-with-support-for-amd-instinct-mi300-series-accelerators/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.datanami.com/wp-content/uploads/2023/12/press12052023AMDMI300-300x300.jpg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-07T20:37:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-08-llama-power-tiny-llama-nanobodies-neutralize-different-noroviruses-can-they-improve-human-anti-viral-therapies.md",
       "title": "Llama power: Tiny llama nanobodies neutralize different noroviruses. Can they improve human anti-viral therapies?",
       "excerpt": "Llama nanobodies may give an upper hand Llamas and related animals such as camels and alpacas, produce antibodies for protection against disease just like people do. However, compared to people ...",
@@ -979,126 +1099,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-07-cea-leti-paper-reports-memristor-based-bayesian-neural-network-implementation.md",
-      "title": "CEA-Leti Paper Reports Memristor-Based Bayesian Neural Network Implementation",
-      "excerpt": "GRENOBLE, France – Dec. 7, 2023 – A team comprising CEA-Leti, CEA-List and two CNRS laboratories has published a paper in Nature Communications presenting what the authors said is the first complete memristor-based Bayesian neural network ...",
-      "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/2023/12/cea-leti-paper-reports-memristor-based-bayesian-neural-network-implementation/",
-      "originalUrl": "https://insidehpc.com/2023/12/cea-leti-paper-reports-memristor-based-bayesian-neural-network-implementation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidehpc.com/wp-content/uploads/2023/12/CEA-Leti-logo-2-1-1223.png",
-          "width": 419,
-          "height": 212,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-07T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-07-kinetica-unveils-1st-sql-gpt-for-telecom-transforming-natural-language-into-sql-fine-tuned-for-the-telco-industry.md",
-      "title": "Kinetica Unveils 1st SQL-GPT for Telecom, Transforming Natural Language into SQL Fine-Tuned for the Telco Industry",
-      "excerpt": "the industry’s only real-time solution that leverages generative AI and vectorized processing to enable telco professionals to have an interactive conversation with their data using natural language, simplifying data exploration and analysis to make ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/this-just-in/kinetica-unveils-1st-sql-gpt-for-telecom-transforming-natural-language-into-sql-fine-tuned-for-the-telco-industry/",
-      "originalUrl": "https://www.datanami.com/this-just-in/kinetica-unveils-1st-sql-gpt-for-telecom-transforming-natural-language-into-sql-fine-tuned-for-the-telco-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.datanami.com/wp-content/uploads/2023/09/kinetica-logo-light.png",
-          "width": 256,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-07T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-07-news-tagged-with-computer-vision.md",
-      "title": "News tagged with computer vision",
-      "excerpt": "Using an approach based on computer vision technology, researchers can work back from COVID-19 mortality data to see how infection rates changed on the day a lockdown or similar measure was ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/tags/computer+vision/",
-      "originalUrl": "https://medicalxpress.com/tags/computer+vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-07T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

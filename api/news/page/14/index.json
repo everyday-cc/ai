@@ -2,6 +2,143 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2024-03-02-how-to-unlock-your-device-using-face-recognition-check-out-these-easy-steps.md",
+      "title": "How To Unlock Your Device Using Face Recognition? Check Out These Easy Steps",
+      "excerpt": "Learn how face recognition works, and how to set it up on your smartphone. (Image: Abhijay Singh Rawat/india.com) New Delhi: Facial recognition, or face recognition technology, is a biometric ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.india.com/technology/know-these-easy-steps-how-to-unlock-your-device-using-face-recognition-apple-face-id-android-face-unlock-6758568/",
+      "originalUrl": "https://www.india.com/technology/know-these-easy-steps-how-to-unlock-your-device-using-face-recognition-apple-face-id-android-face-unlock-6758568/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.india.com/wp-content/uploads/2024/03/IDC-Story.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.india.com/technology/know-these-easy-steps-how-to-unlock-your-device-using-face-recognition-apple-face-id-android-face-unlock-6758568/amp/",
+      "cdnAmpWebUrl": "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/know-these-easy-steps-how-to-unlock-your-device-using-face-recognition-apple-face-id-android-face-unlock-6758568/amp/",
+      "publishedDateTime": "2024-03-02T02:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India.com",
+        "domain": "india.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-02-the-hype-is-gone-from-the-electric-vehicle-industry-evs-are-becoming-boring-appliances.md",
+      "title": "The hype is gone from the electric-vehicle industry. EVs are becoming boring appliances",
+      "excerpt": "This week, Apple AAPL-Q rolled its plans to create a self-driving iPhone on wheels into the ditch ... in spite of endless predictions they would be the norm by now (Waymo and Baidu run small fleets of them in a few American and Chinese cities), Tesla ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/business/commentary/article-the-hype-is-gone-from-the-electric-vehicle-industry-evs-are-becoming/",
+      "originalUrl": "https://www.theglobeandmail.com/business/commentary/article-the-hype-is-gone-from-the-electric-vehicle-industry-evs-are-becoming/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theglobeandmail.com/resizer/v2/J2XSXX54HFAYLFIFIDL3W5TF2I.jpg?auth=d1515dbf415f9a8059e3dd35b1c61613fd7c328a4e80c0489beea31b51c3bf62&width=1200&height=800&quality=80",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-02T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-02-apple-loop-iphone-17-details-leak-apples-ai-promise-ios-fixes-iphone-15-problems.md",
+      "title": "Apple Loop: iPhone 17 Details Leak, Apple’s AI Promise, iOS Fixes iPhone 15 Problems",
+      "excerpt": "This week’s Apple headlines; leaked iPhone 17 details, iPhone 15 features fixed, Apple’s AI promise, iOS long-term support, MacBook Pro repair details, Apple Arcade’s future, a potential iRing, and",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ewanspence/2024/03/01/apple-news-headlines-iphone-17-ios-macbook-pro-repair-apple-arcade-iring-car-play/",
+      "originalUrl": "https://www.forbes.com/sites/ewanspence/2024/03/01/apple-news-headlines-iphone-17-ios-macbook-pro-repair-apple-arcade-iring-car-play/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65173674770347df44065c12/0x0.jpg?format=jpg&crop=931,524,x130,y83,safe&height=900&width=1600&fit=bounds",
+          "width": 1599,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ewanspence/2024/03/01/apple-news-headlines-iphone-17-ios-macbook-pro-repair-apple-arcade-iring-car-play/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ewanspence/2024/03/01/apple-news-headlines-iphone-17-ios-macbook-pro-repair-apple-arcade-iring-car-play/amp/",
+      "publishedDateTime": "2024-03-01T22:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-01-knowledge-bases-for-amazon-bedrock-now-supports-hybrid-search.md",
       "title": "Knowledge Bases for Amazon Bedrock now supports hybrid search",
       "excerpt": "At AWS re:Invent 2023, we announced the general availability of Knowledge Bases for Amazon Bedrock. With a knowledge base, you can securely connect foundation models (FMs) in Amazon Bedrock to your company data for fully managed Retrieval Augmented Generation (RAG). In a previous post, we described how",
@@ -1089,162 +1226,6 @@
       "topics": [
         "AI Ethics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-russian-kamikaze-drone-now-seems-to-identify-its-own-targets.md",
-      "title": "Russian Kamikaze Drone Now Seems To Identify Its Own Targets",
-      "excerpt": "New video seems to show a version of the Lancet used by Russian Special Forces with automated object recognition identifying tanks, self-propelled guns and other targets",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidhambling/2024/03/01/russian-kamikaze-drone-now-seems-to-identify-its-own-targets/",
-      "originalUrl": "https://www.forbes.com/sites/davidhambling/2024/03/01/russian-kamikaze-drone-now-seems-to-identify-its-own-targets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e199afe7cc0647aba49a17/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 829,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidhambling/2024/03/01/russian-kamikaze-drone-now-seems-to-identify-its-own-targets/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2024/03/01/russian-kamikaze-drone-now-seems-to-identify-its-own-targets/amp/",
-      "publishedDateTime": "2024-03-01T09:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-apple-may-soon-be-feeling-the-heat-from-investors-over-its-slow-rollout-of-buzzy-ai-products.md",
-      "title": "Apple may soon be feeling the heat from investors over its slow rollout of buzzy AI products",
-      "excerpt": "Tim Cook attempted to reassure shareholders that the company is committed to AI innovation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/apple-investors-ai-race-tim-cook-2024-2",
-      "originalUrl": "https://www.businessinsider.com/apple-investors-ai-race-tim-cook-2024-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65e07870ce7f1785b2e4d75d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/apple-investors-ai-race-tim-cook-2024-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-investors-ai-race-tim-cook-2024-2?amp",
-      "publishedDateTime": "2024-03-01T08:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-googles-new-math-app-solves-nearly-any-problem-with-ai-heres-how-to-use-it.md",
-      "title": "Google's new math app solves nearly any problem with AI: Here's how to use it",
-      "excerpt": "The app itself isn't new, having debuted back in 2014 and picking up over 100 million downloads since. But it is now officially a Google app. It works on a wide range of math, from basic elementary school problems like division and multiplication to advanced math like trigonometry and calculus.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/googles-new-math-app-solves-nearly-any-problem-with-ai-heres-how-to-use-it/",
-      "originalUrl": "https://www.zdnet.com/article/googles-new-math-app-solves-nearly-any-problem-with-ai-heres-how-to-use-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/94cd95bd3f47fdbcb491765a0aae5b578f7836ca/2024/03/01/fe417885-de71-4396-972b-9f46d7034bc6/google-photomath.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-new-math-app-solves-nearly-any-problem-with-ai-heres-how-to-use-it/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-new-math-app-solves-nearly-any-problem-with-ai-heres-how-to-use-it/",
-      "publishedDateTime": "2024-03-01T07:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Math for AI"
       ]
     }
   ],

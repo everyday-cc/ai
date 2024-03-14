@@ -7,7 +7,7 @@ originalUrl: "https://gizmodo.com/jennifer-lopez-atlas-netflix-scifi-mech-movie-
 webUrl: "https://gizmodo.com/jennifer-lopez-atlas-netflix-scifi-mech-movie-titanfall-1851328946"
 type: article
 quality: 80
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Jennifer Lopez Battles With Robots in Brutal Teaser Trailer for New Sci-Fi Epic 'Atlas'"
+    excerpt: "According to the official press release from Netflix, Lopez's Atlas Shepherd is \"a brilliant but misanthropic data analyst with a deep distrust of artificial intelligence.\" \"[Shepherd] joins a mission to capture a renegade robot with whom she shares a ..."
+    publishedDateTime: 2024-03-13T19:43:00Z
+    webUrl: "https://www.whas11.com/article/entertainment/entertainment-tonight/jennifer-lopez-battles-with-robots-in-brutal-teaser-trailer-for-new-sci-fi-epic-atlas/603-67e335dd-d77b-4568-b098-f266f5b99ed4"
+    type: article
+    provider:
+      name: WHAS11 News
+      domain: whas11.com
+    quality: 46
+    images:
+      - url: "https://media.whas11.com/assets/ETONLINE/images/a418e6a6-834f-4655-858e-66ec66799384/a418e6a6-834f-4655-858e-66ec66799384_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Jennifer Lopez Commands an AI Robot in Netflix’s ‘Atlas’ Trailer | Video"
     excerpt: "The film’s first teaser trailer, released Wednesday, reveals that the new movie will arrive on the streamer May 24, 2024. Directed by Brad Peyton (“Rampage,” “San Andreas”), the film follows “a brilliant but misanthropic data analyst with a ..."
     publishedDateTime: 2024-03-13T06:06:00Z

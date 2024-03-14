@@ -2,6 +2,126 @@
   "page": 100,
   "value": [
     {
+      "path": "_news/2023-12-19-appvance-unleashes-aiq-50-featuring-generative-ai-v3.md",
+      "title": "Appvance unleashes AIQ 5.0, featuring Generative AI V3",
+      "excerpt": "Appvance, the leader in generative AI for software quality, is excited to announce the launch of Appvance IQ (AIQ) 5.0, a groundbreaking",
+      "sourceUrl": null,
+      "webUrl": "https://www.valdostadailytimes.com/ap/business/appvance-unleashes-aiq-5-0-featuring-generative-ai-v3/article_5983c873-3d60-523f-bd8b-e632a27d4f32.html",
+      "originalUrl": "https://www.valdostadailytimes.com/ap/business/appvance-unleashes-aiq-5-0-featuring-generative-ai-v3/article_5983c873-3d60-523f-bd8b-e632a27d4f32.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-19T09:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Valdosta Daily Times",
+        "domain": "valdostadailytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-19-artificial-intelligence-can-find-your-location-in-photos-worrying-privacy-experts.md",
+      "title": "Artificial intelligence can find your location in photos, worrying privacy experts",
+      "excerpt": "Three Stanford graduate students built an AI tool that can find a location by looking at pictures. Civil rights advocates warn more advanced versions will further erode online privacy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfdd.org/story/artificial-intelligence-can-find-your-location-photos-worrying-privacy-experts",
+      "originalUrl": "https://www.wfdd.org/story/artificial-intelligence-can-find-your-location-photos-worrying-privacy-experts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-19T08:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFDD",
+        "domain": "wfdd.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-19-tech-savvy-pm-modi-has-a-bold-vision-ai-ethics-and-transformation.md",
+      "title": "Tech-savvy PM Modi has a bold vision: AI, ethics and transformation",
+      "excerpt": "In the GPAI Summit recently, Prime Minister Narendra Modi advocated for ethical AI, stressing its pivotal role in shaping a technologically advanced and culturally rooted India",
+      "sourceUrl": null,
+      "webUrl": "https://www.firstpost.com/opinion/tech-savvy-pm-modi-has-a-bold-vision-ai-ethics-and-transformation-13520412.html",
+      "originalUrl": "https://www.firstpost.com/opinion/tech-savvy-pm-modi-has-a-bold-vision-ai-ethics-and-transformation-13520412.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.firstpost.com/wp-content/uploads/2023/12/Modi_Aircraft640PTI.jpg",
+          "width": 640,
+          "height": 362,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.firstpost.com/opinion/tech-savvy-pm-modi-has-a-bold-vision-ai-ethics-and-transformation-13520412.html/amp",
+      "cdnAmpWebUrl": "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/opinion/tech-savvy-pm-modi-has-a-bold-vision-ai-ethics-and-transformation-13520412.html/amp",
+      "publishedDateTime": "2023-12-19T08:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Firstpost",
+        "domain": "firstpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-19-hitch-integrates-generative-ai-into-immutable-miniverse-nfts.md",
       "title": "Hitch integrates generative AI into Immutable Miniverse NFTs",
       "excerpt": "Do you want to get the latest gaming industry news straight to your inbox? Sign up for our daily and weekly newsletters here. Hitch Interactive, a startup focused on AI, robotics, fintech, and the metaverse, announced it has integrated generative AI into ...",
@@ -1041,160 +1161,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2023/12/18/navigating-the-future-of-work-10-ways-to-prepare-for-the-ai-workplace/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2023/12/18/navigating-the-future-of-work-10-ways-to-prepare-for-the-ai-workplace/amp/",
       "publishedDateTime": "2023-12-18T12:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-18-amd-says-its-mi300x-ai-accelerator-is-faster-than-nvidias-h100.md",
-      "title": "AMD says its MI300X AI accelerator is faster than Nvidia's H100",
-      "excerpt": "AMD has finally launched its Instinct MI300X accelerators, a new generation of server GPUs designed to provide compelling performance levels for generative AI workloads and other",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/101238-amd-mi300x-ai-accelerator-faster-than-nvidia-h100.html",
-      "originalUrl": "https://www.techspot.com/news/101238-amd-mi300x-ai-accelerator-faster-than-nvidia-h100.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2023/12/2023-12-18-image-4.jpg",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-18T12:42:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-18-artificial-intelligence-billionaires-death-prompts-stock-selloff.md",
-      "title": "Artificial Intelligence Billionaire's Death Prompts Stock Selloff",
-      "excerpt": "Tang Xiao’ou, seen here speaking at a 2019 conference, has died at 55. (Xinhua/Zuma Press) Stock in SenseTime hit a record low Monday after the Chinese artificial-intelligence specialist said its controlling shareholder, billionaire academic Tang Xiao ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-12-18-2023/card/artificial-intelligence-billionaire-s-death-prompts-stock-selloff-TN3WO8bOsufAn2ygMHMi",
-      "originalUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-12-18-2023/card/artificial-intelligence-billionaire-s-death-prompts-stock-selloff-TN3WO8bOsufAn2ygMHMi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-902108/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-18T11:48:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-18-the-pitfalls-of-ai-in-b2b-tech-content.md",
-      "title": "The Pitfalls Of AI In B2B Tech Content",
-      "excerpt": "While businesses should be looking to responsibly and carefully work generative AI tools into their workflow, there are a few areas where the tech comes up short.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/12/18/the-pitfalls-of-ai-in-b2b-tech-content/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/12/18/the-pitfalls-of-ai-in-b2b-tech-content/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5ee8c0a4bcc30e0006c1d9f4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2023/12/18/the-pitfalls-of-ai-in-b2b-tech-content/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2023/12/18/the-pitfalls-of-ai-in-b2b-tech-content/amp/",
-      "publishedDateTime": "2023-12-18T11:45:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

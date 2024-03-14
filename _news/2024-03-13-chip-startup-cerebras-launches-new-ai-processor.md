@@ -64,6 +64,20 @@ related:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
     quality: 32
+  - title: "Cerebras Systems unveils CS-3 AI supercomputer: can train models that are 10x bigger than GPT-4"
+    excerpt: "Cerebras Systems' new CS-3 AI supercomputer revealed, can train models that are 10x bigger than GPT-4 and Gemini thanks to its huge memory pool."
+    publishedDateTime: 2024-03-13T23:36:00Z
+    webUrl: "https://www.tweaktown.com/news/96845/cerebras-systems-unveils-cs-3-ai-supercomputer-can-train-models-that-are-10x-bigger-than-gpt-4/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 27
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96845_1402_cerebras-systems-unveils-cs-3-ai-supercomputer-can-train-models-that-are-10x-bigger-than-gpt-4_full.png"
+        width: 1500
+        height: 835
+        isCached: true
 
 secured: "yHGwjPVXH6dbYIg9wsA5ydp6xesXGED3CNUElBS2aj4DmpHNSVahi9gydo4XLZfJ4wc4BUQV4c3kAKaxCv0UFUBeYG/K0YoMlM1Ki0PGw75mrvu4dUaHkOrIrEK2ArFhIhadsCFqRlAuP/DMgPfIcfMXV7j/cwF3abuuiGQMH+PxnXKnOb+010w3Iuf1+Yim/1FxNL013ATFny7cmc5jI3trHNtU39WKnRg9G3s7bg4Uax1xADGNCUFEUFb0v5/D2w6OfA4IvRir8VTaqUxH+po8rXPtcA3Rara1RaGBAzRvU1dXomOZT7RB9CB/6BKB/ZEl7eJbDbv8MSLaTVZV6Jrad3jeVJvi+VoXv8U/DMQ=;DWuUxTNUjLS17b2mImBLZw=="
 ---

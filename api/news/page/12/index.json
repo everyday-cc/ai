@@ -2,6 +2,165 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2024-03-05-ai-job-growth-lets-get-specific-starting-with-health-care.md",
+      "title": "AI Job Growth: Let’s Get Specific, Starting With Health Care",
+      "excerpt": "There’s no need to imagine this anymore. The innovation is in the organ chips. AI algorithms can analyze medical images such as X-rays, MRIs, and CT scans to assist radiologists – actually, improve their readings – in detecting abnormalities and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/eliamdur/2024/03/04/ai-job-growth-lets-get-specific-starting-with-health-care/",
+      "originalUrl": "https://www.forbes.com/sites/eliamdur/2024/03/04/ai-job-growth-lets-get-specific-starting-with-health-care/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e653692c81167a157e0694/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1501,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-04T19:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-black-trump-supporters-are-being-ai-generated.md",
+      "title": "Black Trump Supporters Are Being AI-Generated",
+      "excerpt": "Donald Trump supporters are creating and sharing AI-generated images of the former president with Black voters. The photos appear to be an attempt to inflate Trump’s popularity with the Black community, which may be irreparably harmed by his ties to white supremacist groups, but the photos are nothing but fakes.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/black-trump-supporters-are-being-ai-generated-1851305062",
+      "originalUrl": "https://gizmodo.com/black-trump-supporters-are-being-ai-generated-1851305062",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/7164473c7dd88067b9705a942e612292.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-04T19:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-artificial-intelligence-could-trigger-a-natural-gas-boom-in-europe.md",
+      "title": "Artificial Intelligence Could Trigger a Natural Gas Boom in Europe",
+      "excerpt": "When the use of seismic surveys became common place, Oil and gas drillers used to drill only in spots the human eye could detect from seismic and",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/how-artificial-intelligence-could-trigger-a-natural-gas-boom-in-europe-1033130574",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/how-artificial-intelligence-could-trigger-a-natural-gas-boom-in-europe-1033130574",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d32r1sh890xpii.cloudfront.net/tinymce/2024-03/1709579956-o_1ho5efobp5k91jrnms3pvfi9q8.jpg",
+          "width": 450,
+          "height": 251,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-04T19:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AWS AI",
+        "Machine Learning",
+        "Microsoft AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2024-03-05-amazons-aws-to-launch-saudi-arabia-data-centers-invest-over-53-bln.md",
       "title": "Amazon's AWS to launch Saudi Arabia data centers, invest over $5.3 bln",
       "excerpt": "March 4 (Reuters) - Amazon.com's AMZN.O cloud division Amazon Web Services said on Monday it will launch data centers in Saudi Arabia in 2026 and plans to invest more than $5.3 billion in the kingdom. The cloud region will enable customers to securely store content and run workloads while offering higher speed for its users.",
@@ -656,10 +815,10 @@
     {
       "path": "_news/2024-03-04-does-ai-have-a-place-on-ethics-committees-how-to-use-it-the-right-way.md",
       "title": "Does AI have a place on ethics committees? How to use it the right way",
-      "excerpt": "So it makes sense to ask the question of whether AI can be used to help make better ethics decisions. As AI is a class of computer algorithm, it relies on data. Ethics committees also rely on data ...",
+      "excerpt": "Given the importance of ethics, any tool that can be used to help come to better ethical decisions should be explored and used. Over the last couple of years, there has been an increasing recognition that artificial intelligence (AI) is a tool that can be ...",
       "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/does-ai-have-a-place-on-ethics-committees-how-to-use-it-the-right-way%3Futm_source=facebook",
-      "originalUrl": "https://thenextweb.com/news/does-ai-have-a-place-on-ethics-committees-how-to-use-it-the-right-way%3Futm_source=facebook",
+      "webUrl": "https://thenextweb.com/news/does-ai-have-a-place-on-ethics-committees-how-to-use-it-the-right-way",
+      "originalUrl": "https://thenextweb.com/news/does-ai-have-a-place-on-ethics-committees-how-to-use-it-the-right-way",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1038,152 +1197,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-04-india-reverses-ai-stance-requires-government-approval-for-model-launches.md",
-      "title": "India reverses AI stance, requires government approval for model launches",
-      "excerpt": "India has waded into global AI debate by issuing an advisory that requires tech firms to get government permission before launching new models. India's India has waded into global AI debate by issuing an advisory that requires tech firms to get government permission before launching new models.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/03/03/india-reverses-ai-stance-requires-government-approval-for-model-launches/",
-      "originalUrl": "https://techcrunch.com/2024/03/03/india-reverses-ai-stance-requires-government-approval-for-model-launches/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1096026706.jpg?resize=1200,843",
-          "width": 1200,
-          "height": 843,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/03/03/india-reverses-ai-stance-requires-government-approval-for-model-launches/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/03/india-reverses-ai-stance-requires-government-approval-for-model-launches/amp/",
-      "publishedDateTime": "2024-03-04T04:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-04-mark-cuban-says-tax-the-robots-amid-fears-of-ai-taking-over-peoples-jobs.md",
-      "title": "Mark Cuban Says 'Tax The Robots' Amid Fears Of AI Taking Over People's Jobs",
-      "excerpt": "See Also: Elon Musk Has Gone To War With Sam Altman, But OpenAI CEO Once Thought It Would Be ‘Really Helpful’ To Ha Why It Matters: Cuban’s call for taxing robots comes amid growing concerns about the impact of artificial intelligence (AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/news/24/03/37448729/mark-cuban-says-tax-the-robots-amid-fears-of-ai-taking-over-peoples-jobs",
-      "originalUrl": "https://www.benzinga.com/news/24/03/37448729/mark-cuban-says-tax-the-robots-amid-fears-of-ai-taking-over-peoples-jobs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2024/Mark-Cuban_4.jpeg?width=1200&height=800&fit=crop",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/37448729",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37448729",
-      "publishedDateTime": "2024-03-04T03:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-04-3-ways-to-succeed-in-the-rapidly-changing-ai-landscape.md",
-      "title": "3 Ways to Succeed in the Rapidly Changing AI Landscape",
-      "excerpt": "Some of the practices include storing data locally and ensuring adherence to ideology, laws, ethics, and data security at national and enterprise levels. To bring the business to the next level, AI-based LLMs should adapt to customers' specific ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/leadership/3-ways-to-succeed-in-the-rapidly-changing-ai-landscape/469952",
-      "originalUrl": "https://www.entrepreneur.com/leadership/3-ways-to-succeed-in-the-rapidly-changing-ai-landscape/469952",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1709324194-ai-tech-landscape-startup-g-825151062.jpg?format=pjeg&auto=webp",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-04T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

@@ -3,10 +3,10 @@ category: news
 title: "European Parliament Approves Landmark Artificial Intelligence Act"
 excerpt: "The European Parliament approved on Wednesday a landmark political agreement on artificial intelligence."
 publishedDateTime: 2024-03-13T17:09:00Z
-originalUrl: "https://variety.com/2024/digital/news/european-parliament-artificial-intelligence-act-approved-1235940741/"
-webUrl: "https://variety.com/2024/digital/news/european-parliament-artificial-intelligence-act-approved-1235940741/"
-ampWebUrl: "https://variety.com/2024/digital/news/european-parliament-artificial-intelligence-act-approved-1235940741/amp/"
-cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2024/digital/news/european-parliament-artificial-intelligence-act-approved-1235940741/amp/"
+originalUrl: "https://variety.com/2024/digital/global/european-parliament-artificial-intelligence-act-approved-1235940741/"
+webUrl: "https://variety.com/2024/digital/global/european-parliament-artificial-intelligence-act-approved-1235940741/"
+ampWebUrl: "https://variety.com/2024/digital/global/european-parliament-artificial-intelligence-act-approved-1235940741/amp/"
+cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2024/digital/global/european-parliament-artificial-intelligence-act-approved-1235940741/amp/"
 type: article
 quality: 59
 heat: -1
@@ -17,8 +17,8 @@ provider:
   domain: variety.com
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
 
 images:
   - url: "https://variety.com/wp-content/uploads/2024/03/eu.jpg?w=1000&h=563&crop=1"
@@ -170,6 +170,6 @@ related:
       domain: apnews.com
     quality: 8
 
-secured: "2pmzDEWecObWu/dv2YiYQsmJM7974reeZlC+1KZlY319eLQJqe7ph4UMyo3gZiXeLSB3JwTjTNlA5MIzyPq92Rg1chchSSJwPiFVjrhsHwaauuJ8gxTeCGaQrQKY6MDLX71EE0XDN0cluE1LzrtsEacDe21hXxMVPYOoldx4CunnsIxC+DjvsISeI3v3Rwq4z9BpwjkwMVubJYrdBJPMQECrd88vytw/88fInZvRNwbKj6yJfnhn9fMuBInL9mQl7Mj2ZGLCS743l123ZcEfXnn8FnQFV1cPbpNhLpewkh3okdYt+fB2GsYF/TWnQtnUFlfCxgyFY90igSFLKHW9O7IRY6mMHhmOAVx7rP7WqbQ+1K4ULByLgS4g8aN2630KhCpox5FwmmPN/I+QNYeA7S+jnxBlpUfKTt9wpOb99FSqJudpQmiEhBxgby7/fyTc5LcTpkMFpnA76mTNyber0A9B/y1vzWichxG4Iumeh75Wb2yHgaawSWaBjuHH4OGZqUixb/58/dRffViyReuNag==;d8GK9Y6Pc6MM+WZxTUbM5Q=="
+secured: "xwqC8aspqnxfq6WFSSd4Yv1qtG6pvh3pFStaVHPhPlwIfqrL784wH7lz/9dOZqvbsokP7x457gTK6mA4n2GfFYcPC4NpqdaYda06kMGR6x+WywMRIMjOb9mQpm2UvXM8PxJvzzxZgIFpd+CZwxLWxC//P4lCMsBfgfiImZlpOTX5zsRpISa/s/PTLiB8g5TUN2ejlwrRyDtCDBsIpyJUGAXy4PX6lcmezEfCba94/v6qtUAYzguFfcsLnBk6h/QPkZRyMovFXvmaHq/scEOwUlIdtrjU1jteHfcIi8EArp2NILSUK2COGp/PkVtu+rVezeFt01RQsixlAHNSvrZFOWBQGl9pnfjjBXLONc/jH4U=;cYqFYys6XZvqJ71pkfzWyg=="
 ---
 

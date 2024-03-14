@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-03-11-futurists-positive-about-ais-impact-on-jobs-urge-wide-perspective.md",
+      "title": "Futurists Positive About AI’s Impact On Jobs, Urge Wide Perspective",
+      "excerpt": "This report has been prepared by TCS futurists and is based on a survey of prominent futurists, executives, and foresight professionals around the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2024/03/11/futurists-positive-about-ais-impact-on-jobs-urge-wide-perspective/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2024/03/11/futurists-positive-about-ais-impact-on-jobs-urge-wide-perspective/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61042e95301717f598616035/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 986,
+          "height": 553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2024/03/11/futurists-positive-about-ais-impact-on-jobs-urge-wide-perspective/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2024/03/11/futurists-positive-about-ais-impact-on-jobs-urge-wide-perspective/amp/",
+      "publishedDateTime": "2024-03-11T16:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-11-litter-robot-4-vs-3-connect-which-automatic-litter-box-should-you-get.md",
       "title": "Litter-Robot 4 Vs. 3 Connect: Which Automatic Litter Box Should You Get?",
       "excerpt": "the Litter-Robot 4 is an upgraded version of the Litter-Robot 3 Connect, with advanced safety sensors, a more sophisticated (and quieter) sifting system and better odor control. I have both models in my home and my three cats use each one regularly.",
@@ -938,6 +989,49 @@
       ]
     },
     {
+      "path": "_news/2024-03-09-ai-driven-evolution-of-low-code-software-development-in-india.md",
+      "title": "AI-driven evolution of low-code software development in India",
+      "excerpt": "As low-code platforms evolve with out-of-the-box AI capabilities, organizations must conscientiously explore ways to harness its full potential. The ability to empower developers",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/",
+      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2024/03/Untitled-design-2024-03-08T174706.154.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/lite/",
+      "publishedDateTime": "2024-03-09T10:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-09-ai-update-for-hollywood.md",
       "title": "AI Update For Hollywood",
       "excerpt": "Artificial intelligence (\"AI\") developments are occurring at breakneck speed, so this article provides a snapshot on developments that affect Hollywood.",
@@ -1113,101 +1207,6 @@
         "name": "Indiatimes",
         "domain": "indiatimes.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-09-male-ai-robot-appears-to-grope-female-reporter-during-interview-at-tech-expo.md",
-      "title": "Male AI robot appears to grope female reporter during interview at tech expo",
-      "excerpt": "An AI robot called Muhammad touched a female reporter’s backside during a Saudi Arabia tech expo. The android acted ‘independently without direct human control.’",
-      "sourceUrl": null,
-      "webUrl": "https://www.nydailynews.com/2024/03/08/ai-robot-gropes-female-reporter-deepfest-tech-expo/",
-      "originalUrl": "https://www.nydailynews.com/2024/03/08/ai-robot-gropes-female-reporter-deepfest-tech-expo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nydailynews.com/wp-content/uploads/2024/03/Screenshot_2_d284ea.jpg?w=1024&h=798",
-          "width": 1024,
-          "height": 798,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.nydailynews.com/2024/03/08/ai-robot-gropes-female-reporter-deepfest-tech-expo/amp/",
-      "cdnAmpWebUrl": "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/2024/03/08/ai-robot-gropes-female-reporter-deepfest-tech-expo/amp/",
-      "publishedDateTime": "2024-03-08T23:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Daily News",
-        "domain": "nydailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-09-tech-down-as-ai-boom-stalls-tech-roundup.md",
-      "title": "Tech Down as AI Boom Stalls -- Tech Roundup",
-      "excerpt": "Nvidia shares fell by almost 5% but remained about 80% higher for the year to date. Marvell Technology shares fell by 10% as the chip maker's artificial-intelligence earnings lagged some investors' expectations. Apple has reversed course on its decision to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/tech-down-as-ai-boom-stalls-tech-roundup-d53ac4dd",
-      "originalUrl": "https://www.marketwatch.com/story/tech-down-as-ai-boom-stalls-tech-roundup-d53ac4dd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/tech-down-as-ai-boom-stalls-tech-roundup-d53ac4dd",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-down-as-ai-boom-stalls-tech-roundup-d53ac4dd",
-      "publishedDateTime": "2024-03-08T22:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

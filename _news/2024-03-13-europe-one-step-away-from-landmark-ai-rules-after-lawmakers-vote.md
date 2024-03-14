@@ -58,9 +58,9 @@ related:
   - title: "European Parliament Approves Landmark Artificial Intelligence Act"
     excerpt: "The European Parliament approved on Wednesday a landmark political agreement on artificial intelligence."
     publishedDateTime: 2024-03-13T17:09:00Z
-    webUrl: "https://variety.com/2024/digital/news/european-parliament-artificial-intelligence-act-approved-1235940741/"
-    ampWebUrl: "https://variety.com/2024/digital/news/european-parliament-artificial-intelligence-act-approved-1235940741/amp/"
-    cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2024/digital/news/european-parliament-artificial-intelligence-act-approved-1235940741/amp/"
+    webUrl: "https://variety.com/2024/digital/global/european-parliament-artificial-intelligence-act-approved-1235940741/"
+    ampWebUrl: "https://variety.com/2024/digital/global/european-parliament-artificial-intelligence-act-approved-1235940741/amp/"
+    cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2024/digital/global/european-parliament-artificial-intelligence-act-approved-1235940741/amp/"
     type: article
     provider:
       name: Variety

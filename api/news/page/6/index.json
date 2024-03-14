@@ -2,6 +2,101 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2024-03-09-male-ai-robot-appears-to-grope-female-reporter-during-interview-at-tech-expo.md",
+      "title": "Male AI robot appears to grope female reporter during interview at tech expo",
+      "excerpt": "An AI robot called Muhammad touched a female reporter’s backside during a Saudi Arabia tech expo. The android acted ‘independently without direct human control.’",
+      "sourceUrl": null,
+      "webUrl": "https://www.nydailynews.com/2024/03/08/ai-robot-gropes-female-reporter-deepfest-tech-expo/",
+      "originalUrl": "https://www.nydailynews.com/2024/03/08/ai-robot-gropes-female-reporter-deepfest-tech-expo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nydailynews.com/wp-content/uploads/2024/03/Screenshot_2_d284ea.jpg?w=1024&h=798",
+          "width": 1024,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.nydailynews.com/2024/03/08/ai-robot-gropes-female-reporter-deepfest-tech-expo/amp/",
+      "cdnAmpWebUrl": "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/2024/03/08/ai-robot-gropes-female-reporter-deepfest-tech-expo/amp/",
+      "publishedDateTime": "2024-03-08T23:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Daily News",
+        "domain": "nydailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-09-tech-down-as-ai-boom-stalls-tech-roundup.md",
+      "title": "Tech Down as AI Boom Stalls -- Tech Roundup",
+      "excerpt": "Nvidia shares fell by almost 5% but remained about 80% higher for the year to date. Marvell Technology shares fell by 10% as the chip maker's artificial-intelligence earnings lagged some investors' expectations. Apple has reversed course on its decision to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/tech-down-as-ai-boom-stalls-tech-roundup-d53ac4dd",
+      "originalUrl": "https://www.marketwatch.com/story/tech-down-as-ai-boom-stalls-tech-roundup-d53ac4dd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/tech-down-as-ai-boom-stalls-tech-roundup-d53ac4dd",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-down-as-ai-boom-stalls-tech-roundup-d53ac4dd",
+      "publishedDateTime": "2024-03-08T22:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-09-matrix-multiplication-breakthrough-could-lead-to-faster-more-efficient-ai-models.md",
       "title": "Matrix multiplication breakthrough could lead to faster, more efficient AI models",
       "excerpt": "This could eventually accelerate AI models like ChatGPT, which rely heavily on matrix multiplication to function. The findings, presented in two recent papers, have led to what is reported to be the biggest improvement in matrix multiplication efficiency in over a decade.",
@@ -751,6 +846,49 @@
       ]
     },
     {
+      "path": "_news/2024-03-08-melinda-gates-says-ai-in-pregnancy-could-help-save-womens-lives.md",
+      "title": "Melinda Gates says AI in pregnancy could help save women's lives",
+      "excerpt": "Using artificial intelligence, or AI, to provide maternal health care to women, especially those in rural and low-income areas, could be a \"game-changer\" in saving the lives of pregnant women, Melinda Gates, chairperson of the Bill & Melinda Gates Foundation, told ABC News chief medical correspondent Dr. Jennifer Ashton.",
+      "sourceUrl": null,
+      "webUrl": "https://www.goodmorningamerica.com/wellness/story/melinda-gates-artificial-intelligence-pregnancy-save-womens-lives-107816804",
+      "originalUrl": "https://www.goodmorningamerica.com/wellness/story/melinda-gates-artificial-intelligence-pregnancy-save-womens-lives-107816804",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/GMA/Gates-1-ht-er-240307_1709854892957_hpMain_16x9_992.jpeg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.goodmorningamerica.com/amp/wellness/story/melinda-gates-artificial-intelligence-pregnancy-save-womens-lives-107816804",
+      "cdnAmpWebUrl": "https://www-goodmorningamerica-com.cdn.ampproject.org/c/s/www.goodmorningamerica.com/amp/wellness/story/melinda-gates-artificial-intelligence-pregnancy-save-womens-lives-107816804",
+      "publishedDateTime": "2024-03-08T09:11:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GMA",
+        "domain": "goodmorningamerica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-08-bjp-to-use-ai-to-translate-pms-speeches.md",
       "title": "BJP to use AI to translate PM’s speeches",
       "excerpt": "BJP is using 'Bhashini', an AI-powered tool, launched under the National Language Translation Mission, to translate PM Narendra Modi's Lok Sabha campaign speeches into regional languages, bridging the language gap and connecting with audiences in southern ...",
@@ -1013,134 +1151,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-08-ayushmann-khurrana-need-to-develop-certain-laws-related-to-artificial-intelligence.md",
-      "title": "Ayushmann Khurrana: 'Need to develop certain laws related to artificial intelligence'",
-      "excerpt": "Actor Ayushmann Khurrana on Thursday said while filmmaking and technology go hand-in-hand, there is a need to regulate the use of artificial intelligence (AI). Khurrana was speaking on the third day of FICCI Frames 2024 here at the session titled \"From ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraphindia.com/entertainment/ayushmann-khurrana-need-to-develop-certain-laws-related-to-artificial-intelligence/cid/2005506",
-      "originalUrl": "https://www.telegraphindia.com/entertainment/ayushmann-khurrana-need-to-develop-certain-laws-related-to-artificial-intelligence/cid/2005506",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.telegraphindia.com/telegraph/2023/Apr/1681115561_ayushmann-khurrana.jpeg",
-          "width": 900,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.telegraphindia.com/amp/entertainment/ayushmann-khurrana-need-to-develop-certain-laws-related-to-artificial-intelligence/cid/2005506",
-      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/entertainment/ayushmann-khurrana-need-to-develop-certain-laws-related-to-artificial-intelligence/cid/2005506",
-      "publishedDateTime": "2024-03-08T04:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Telegraph",
-        "domain": "telegraphindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-08-caricom-llama-a-onu-eeuu-francia-y-canada-a-reunion-sobre-haiti.md",
-      "title": "Caricom Llama A ONU, EEUU, Francia Y Canadá A Reunión Sobre Haití",
-      "excerpt": "La Comunidad del Caribe (Caricom) convocó este viernes a Estados Unidos, Francia, Canadá y la ONU a una reunión el lunes en Jamaica para tratar la \"grave ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/spanish/caricom-llama-a-onu-eeuu-francia-y-canada-a-reunion-sobre-haiti-3886c497",
-      "originalUrl": "https://www.barrons.com/news/spanish/caricom-llama-a-onu-eeuu-francia-y-canada-a-reunion-sobre-haiti-3886c497",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://asset.barrons.com/barrons/images/afp-metadata-default.jpg",
-          "width": 1320,
-          "height": 742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/spanish/caricom-llama-a-onu-eeuu-francia-y-canada-a-reunion-sobre-haiti-3886c497",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/spanish/caricom-llama-a-onu-eeuu-francia-y-canada-a-reunion-sobre-haiti-3886c497",
-      "publishedDateTime": "2024-03-08T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-08-how-do-computers-and-humans-process-language.md",
-      "title": "How Do Computers and Humans Process Language?",
-      "excerpt": "The human natural language model and the natural language model ... And yet the computational and human language processing models also show remarkable differences. The amount of language data the computational model needs to be trained is very different ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/za/blog/keeping-those-words-in-mind/202403/how-do-computers-and-humans-process-language",
-      "originalUrl": "https://www.psychologytoday.com/za/blog/keeping-those-words-in-mind/202403/how-do-computers-and-humans-process-language",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_3_2_600x400/public/teaser_image/blog_entry/2023-12/world.jpg?itok=m16iHO5f",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/za/blog/keeping-those-words-in-mind/202403/how-do-computers-and-humans-process-language?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/keeping-those-words-in-mind/202403/how-do-computers-and-humans-process-language?amp",
-      "publishedDateTime": "2024-03-08T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

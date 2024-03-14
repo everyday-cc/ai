@@ -8,8 +8,8 @@ webUrl: "https://www.nextplatform.com/2024/03/13/inside-the-massive-gpu-buildout
 ampWebUrl: "https://www.nextplatform.com/2024/03/13/inside-the-massive-gpu-buildout-at-meta-platforms/amp/"
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2024/03/13/inside-the-massive-gpu-buildout-at-meta-platforms/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Meta AI
 
 images:
   - url: "http://www.nextplatform.com/wp-content/uploads/2022/05/meta-facebook-logo.jpg"

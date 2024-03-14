@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-03-13-why-generative-ai-isnt-just-about-creating-marketing-content.md",
+      "title": "Why Generative AI Isn’t Just About Creating Marketing Content",
+      "excerpt": "Amid this environment of promise and anguish, companies are already forging ahead to serve customers with AI-generated content.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2024/03/13/why-generative-ai-isnt-just-about-creating-marketing-content/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2024/03/13/why-generative-ai-isnt-just-about-creating-marketing-content/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65f0ba0d70b8ded757ed7a54/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-13T11:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2024-03-13-new-ai-tools-can-help-doctors-take-notes-message-patients-but-they-still-make-mistakes.md",
       "title": "New AI tools can help doctors take notes, message patients, but they still make mistakes",
       "excerpt": "New AI tools can help doctors communicate with patients, take notes during medical examinations, and even make diagnoses. But the tools are not perfect.",
@@ -691,7 +743,7 @@
       "originalUrl": "https://www.forbes.com/sites/moorinsights/2024/03/12/qualcomm-on-device-ai-powers-future-products-from-phones-to-pcs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -1181,58 +1233,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-locus-robotics-success-is-a-tale-of-focusing-on-what-works.md",
-      "title": "Locus Robotics’ success is a tale of focusing on what works",
-      "excerpt": "The new software offering uses AI to process the massive troves of data collected ... Former executives from the robotics startup launched their own Locus competitor, 6 River Systems. That company has struggled in recent years, however, following its ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/03/12/locus-robotics-success-is-a-tale-of-focusing-on-what-works/",
-      "originalUrl": "https://techcrunch.com/2024/03/12/locus-robotics-success-is-a-tale-of-focusing-on-what-works/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/03/IMG_0748.jpg?resize=1200,900",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/03/12/locus-robotics-success-is-a-tale-of-focusing-on-what-works/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/locus-robotics-success-is-a-tale-of-focusing-on-what-works/amp/",
-      "publishedDateTime": "2024-03-12T17:48:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-03-12-make-the-most-of-gpus-for-machine-learning-applications.md",
+      "title": "Make the most of GPUs for machine learning applications",
+      "excerpt": "There are also examples of AI that are appropriate for CPUs, such as telemetry and network routing, object recognition in CCTV cameras, fault detection in manufacturing, and object detection in CT and MRI scans. While the above CPU use cases continue to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3714285/make-the-most-of-gpus-for-machine-learning-applications.html",
+      "originalUrl": "https://www.infoworld.com/article/3714285/make-the-most-of-gpus-for-machine-learning-applications.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/03/10/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-large-100920809-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3714285/make-the-most-of-gpus-for-machine-learning-applications.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3714285/make-the-most-of-gpus-for-machine-learning-applications.amp.html",
+      "publishedDateTime": "2024-03-12T09:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2024-03-12-this-startup-says-it-can-beat-deepminds-gamechanging-protein-ai.md",
       "title": "This Startup Says It Can Beat Deepmind’s Gamechanging Protein AI",
       "excerpt": "Basecamp Research says its software platform can better predict the way proteins behave — not with better algorithms, but with higher-quality data.",
@@ -1193,57 +1246,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-11-futurists-positive-about-ais-impact-on-jobs-urge-wide-perspective.md",
-      "title": "Futurists Positive About AI’s Impact On Jobs, Urge Wide Perspective",
-      "excerpt": "This report has been prepared by TCS futurists and is based on a survey of prominent futurists, executives, and foresight professionals around the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2024/03/11/futurists-positive-about-ais-impact-on-jobs-urge-wide-perspective/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2024/03/11/futurists-positive-about-ais-impact-on-jobs-urge-wide-perspective/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61042e95301717f598616035/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 986,
-          "height": 553,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2024/03/11/futurists-positive-about-ais-impact-on-jobs-urge-wide-perspective/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2024/03/11/futurists-positive-about-ais-impact-on-jobs-urge-wide-perspective/amp/",
-      "publishedDateTime": "2024-03-11T16:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

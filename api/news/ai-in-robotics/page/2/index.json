@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-03-04-from-apprentice-to-pro-ais-workforce-promotion-awaits.md",
+      "title": "From Apprentice to Pro: AI’s workforce promotion awaits",
+      "excerpt": "Billionaire Elon Musk took to the X platform recently to agree with David Holz, the founder of artificial intelligence research lab Midjourney, on Holz’s assertion that there will be one billion humanoid robots on earth by the 2040s—a mere 16 years ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmr.com/article/from_apprentice_to_pro_ais_workforce_promotion_awaits",
+      "originalUrl": "https://www.scmr.com/article/from_apprentice_to_pro_ais_workforce_promotion_awaits",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.scmr.com/images/2024_article/SCMR2403_F_Spotlight_AI-800px.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-04T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Supply Chain Management Review",
+        "domain": "scmr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-04-team-naver-showcases-k-tech-at-leap-unveiling-the-worlds-first-web-platform-enabled-os-for-robotics.md",
       "title": "Team NAVER Showcases \"K-Tech\" at LEAP, Unveiling the World's First Web Platform-enabled OS for Robotics",
       "excerpt": "SEONGNAM, South Korea, March 5, 2024 /PRNewswire/ -- Team NAVER will attend the global tech exhibition LEAP 2024 in Saudi Arabia, showcasing its world-class technologies that are laying the groundwork for its global expansion.",
@@ -1305,58 +1348,6 @@
         "name": "cybersecurityintelligence.com",
         "domain": "cybersecurityintelligence.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-the-ai-seo-tango-when-robots-write-like-hemingway.md",
-      "title": "The AI-SEO Tango: When Robots Write Like Hemingway",
-      "excerpt": "As artificial intelligence (AI) reshapes content creation, its capacity to mimic human writing accelerates, transforming what once seemed like science fiction into reality. Yet, this technological leap prompts a critical inquiry: What are the bounds of AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/23/the-ai-seo-tango-when-robots-write-like-hemingway/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/23/the-ai-seo-tango-when-robots-write-like-hemingway/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63b57b0a819d2bc95e95e410/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/23/the-ai-seo-tango-when-robots-write-like-hemingway/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/23/the-ai-seo-tango-when-robots-write-like-hemingway/amp/",
-      "publishedDateTime": "2024-02-23T12:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

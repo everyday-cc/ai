@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Jennifer Lopez Battles With Robots in Brutal Teaser Trailer for New Sci-Fi Epic 'Atlas'"
+    excerpt: "According to the official press release from Netflix, Lopez's Atlas Shepherd is \"a brilliant but misanthropic data analyst with a deep distrust of artificial intelligence.\" \"[Shepherd] joins a mission to capture a renegade robot with whom she shares a ..."
+    publishedDateTime: 2024-03-13T19:43:00Z
+    webUrl: "https://www.whas11.com/article/entertainment/entertainment-tonight/jennifer-lopez-battles-with-robots-in-brutal-teaser-trailer-for-new-sci-fi-epic-atlas/603-67e335dd-d77b-4568-b098-f266f5b99ed4"
+    type: article
+    provider:
+      name: WHAS11 News
+      domain: whas11.com
+    quality: 46
+    images:
+      - url: "https://media.whas11.com/assets/ETONLINE/images/a418e6a6-834f-4655-858e-66ec66799384/a418e6a6-834f-4655-858e-66ec66799384_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Jennifer Lopez battles killer robots in action-packed trailer for Netflix sci-fi Atlas"
     excerpt: "The film follows Atlas Shepherd (Jennifer Lopez), a data analyst with a deep distrust of artificial intelligence who's enlisted for a mission to capture a renegade robot with whom she shares a mysterious past. When the plans go awry, she's left stranded ..."
     publishedDateTime: 2024-03-13T00:00:00Z

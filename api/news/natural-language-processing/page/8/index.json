@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2023-12-01-lenovos-ai-powered-sign-language-translation-solution-empowers-signers-in-brazil.md",
+      "title": "Lenovo’s AI-Powered Sign Language Translation Solution Empowers Signers in Brazil",
+      "excerpt": "A camera captured the precise movements of Gabriel’s hands while an original AI engine created a real-time text and voice translation. The language barrier between Gabriel and YY dissolved almost instantly, creating seamless and personal connection.",
+      "sourceUrl": null,
+      "webUrl": "https://www.csrwire.com/press_releases/789831-lenovos-ai-powered-sign-language-translation-solution-empowers-signers-brazil",
+      "originalUrl": "https://www.csrwire.com/press_releases/789831-lenovos-ai-powered-sign-language-translation-solution-empowers-signers-brazil",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://back.3blmedia.com/sites/default/files/inline-images/gabriel-libras_lenovo_103023.png",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T15:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CSR Wire",
+        "domain": "csrwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-01-natural-language-processing-mena.md",
       "title": "Natural Language Processing - MENA",
       "excerpt": "The market size in the Natural Language Processing market is projected to reach 0.00 in 2023. The market size is expected to show an annual growth rate (CAGR 2023-0) of 0, resulting in a market ...",

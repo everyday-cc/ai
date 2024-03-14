@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-startup-cerebras-unveils
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/"
 type: article
 quality: 101
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -65,6 +65,20 @@ related:
       name: Datacenter Dynamics
       domain: datacenterdynamics.com
     quality: 32
+  - title: "Cerebras Systems unveils CS-3 AI supercomputer: can train models that are 10x bigger than GPT-4"
+    excerpt: "Cerebras Systems' new CS-3 AI supercomputer revealed, can train models that are 10x bigger than GPT-4 and Gemini thanks to its huge memory pool."
+    publishedDateTime: 2024-03-13T23:36:00Z
+    webUrl: "https://www.tweaktown.com/news/96845/cerebras-systems-unveils-cs-3-ai-supercomputer-can-train-models-that-are-10x-bigger-than-gpt-4/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 27
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96845_1402_cerebras-systems-unveils-cs-3-ai-supercomputer-can-train-models-that-are-10x-bigger-than-gpt-4_full.png"
+        width: 1500
+        height: 835
+        isCached: true
 
 secured: "l40M5wMiMJzM/RsU3uA9YPLWGwJAGuKbp3fNFnlYsrxXA8ZOrOYyhO+WnzcEv290Oh0o1eJNKJ4qeh4HC80txy7sNtI6zUm5UQ3zfzn5MxCiLx4acehZtvTEMNh+FRdSgxUD6YOwqPEQefkXB47OpvMiRXBmII6wQbutP+y8gI6/mFA67lmImwUn60pTEFVuyFOdRBhmQvYScyK7K782PQZAQGsz7rP7cCrW5EHZnp2EVe9CjxVqRgIbfe0SHSiJSMXLrZBzRh4441xbUfWu0+7sZnLpTY5edNWoZ2W5XRMqSqqEQKAV3gdvqPzTyUsIC6+E2oQ4gXHbt+LHiwlMrHTFqHtE90rXxOJmLCLJHWVUMfgVXkTYyFw4kvm8dODYURc+LVIEJ9G39lXqDFGYXsWcl+fzWcF5Ff6aCtUIWzvL2MExJY1IZ2saZaVeVpV+QwDsAFLDVZjyshXpfOdMbtgNFTA6O9gzO0ck5FAuU1ebKDn2W6+e02lWZtBq+aZD5E4WWPc+VXxotiyM0R9TOA==;Wo/xTxeqsTN2ro75/apLRA=="
 ---

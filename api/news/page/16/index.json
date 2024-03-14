@@ -2,6 +2,152 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2024-03-01-view-artificial-intelligence-isnt-just-a-buzzword.md",
+      "title": "View: Artificial Intelligence isn't just a buzzword",
+      "excerpt": "While the global race in AI among countries and corporations focuses on developing the largest AI models, India is developing and deploying AI solutions to meet developmental challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://m.economictimes.com/opinion/et-commentary/view-artificial-intelligence-isnt-just-a-buzzword/articleshow/108116560.cms",
+      "originalUrl": "https://m.economictimes.com/opinion/et-commentary/view-artificial-intelligence-isnt-just-a-buzzword/articleshow/108116560.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.etimg.com/thumb/msid-108116616,width-1200,height-630,imgsize-207606,overlay-economictimes/photo.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/opinion/et-commentary/view-artificial-intelligence-isnt-just-a-buzzword/articleshow/108116560.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/opinion/et-commentary/view-artificial-intelligence-isnt-just-a-buzzword/articleshow/108116560.cms",
+      "publishedDateTime": "2024-02-29T18:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "economictimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-01-these-new-neural-networks-operate-at-breakneck-speed.md",
+      "title": "These New Neural Networks Operate At Breakneck Speed",
+      "excerpt": "Applying differential equations to each node, these new networks can do the same kinds of advanced things that a traditional network did with 1000 or 2000 neurons. But here's the big news – they can do these tasks with something like 19 neurons, plus a perception model. If that seems oddly specific, read on…",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnwerner/2024/02/29/these-new-neural-networks-operate-at-breakneck-speed/",
+      "originalUrl": "https://www.forbes.com/sites/johnwerner/2024/02/29/these-new-neural-networks-operate-at-breakneck-speed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e61a6eb1cef1bfece0630b/0x0.jpg?format=jpg&crop=3840,2160,x0,y0,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2024/02/29/these-new-neural-networks-operate-at-breakneck-speed/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2024/02/29/these-new-neural-networks-operate-at-breakneck-speed/amp/",
+      "publishedDateTime": "2024-02-29T17:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-01-what-not-to-do-with-ai-in-your-job-search.md",
+      "title": "What Not To Do With AI In Your Job Search",
+      "excerpt": "AI can be a powerful tool when used in job search, but beware its biases. Here are 4 things NOT do when you’re working with AI in your job search.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/shodewan/2024/02/29/what-not-to-do-with-ai-in-your-job-search/",
+      "originalUrl": "https://www.forbes.com/sites/shodewan/2024/02/29/what-not-to-do-with-ai-in-your-job-search/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e0875169ee322213dd881a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1348,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/shodewan/2024/02/29/what-not-to-do-with-ai-in-your-job-search/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shodewan/2024/02/29/what-not-to-do-with-ai-in-your-job-search/amp/",
+      "publishedDateTime": "2024-02-29T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-29-use-rag-for-drug-discovery-with-knowledge-bases-for-amazon-bedrock.md",
       "title": "Use RAG for drug discovery with Knowledge Bases for Amazon Bedrock",
       "excerpt": "Amazon Bedrock provides a broad range of models from Amazon and third-party providers, including Anthropic, AI21, Meta, Cohere, and Stability AI, and covers a wide range of use cases, including text and image generation, embedding, chat, high-level agents with reasoning and orchestration, and more. Knowledge",
@@ -1034,135 +1180,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-why-cell-and-gene-therapy-design-processes-need-more-efficient-quality-controls.md",
-      "title": "Why Cell And Gene Therapy Design Processes Need More Efficient Quality Controls",
-      "excerpt": "Drugmakers must make the entire drug testing and quality control process as efficient and innovative as the drug discovery method itself.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/29/why-cell-and-gene-therapy-design-processes-need-more-efficient-quality-controls/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/29/why-cell-and-gene-therapy-design-processes-need-more-efficient-quality-controls/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65df57417ae5a2a8d793fe21/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/29/why-cell-and-gene-therapy-design-processes-need-more-efficient-quality-controls/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/29/why-cell-and-gene-therapy-design-processes-need-more-efficient-quality-controls/amp/",
-      "publishedDateTime": "2024-02-29T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-india-leads-first-human-clinical-trial-of-gene-therapy-for-haemophilia-a-dr-jitendra-singh.md",
-      "title": "India leads first human clinical trial of gene therapy for haemophilia A: Dr Jitendra Singh",
-      "excerpt": "Union Minister Dr Jitendra Singh addressing the ''National Science Day 2024'' programme at Vigyan Bhawan, New Delhi on Wednesday. India has conducted the first human clinical trial",
-      "sourceUrl": null,
-      "webUrl": "https://medicaldialogues.in/news/health/india-leads-first-human-clinical-trial-of-gene-therapy-for-haemophilia-a-dr-jitendra-singh-125131",
-      "originalUrl": "https://medicaldialogues.in/news/health/india-leads-first-human-clinical-trial-of-gene-therapy-for-haemophilia-a-dr-jitendra-singh-125131",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://medicaldialogues.in/amp/news/health/india-leads-first-human-clinical-trial-of-gene-therapy-for-haemophilia-a-dr-jitendra-singh-125131",
-      "cdnAmpWebUrl": "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/news/health/india-leads-first-human-clinical-trial-of-gene-therapy-for-haemophilia-a-dr-jitendra-singh-125131",
-      "publishedDateTime": "2024-02-29T09:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily",
-        "domain": "medicaldialogues.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-nextgen-food-robotics-provides-update-on-its-ai-powered-food-ordering-application-lily.md",
-      "title": "NextGen Food Robotics Provides Update on its AI-Powered Food Ordering Application, Lily",
-      "excerpt": "VANCOUVER, BC, Feb. 29, 2024 (GLOBE NEWSWIRE) -- NextGen Food Robotics Corp. (the “Company” or ... food ordering and delivery experience through advanced generative artificial intelligence powered by OpenAI’s GPT-4.0 large language model.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/nextgen-food-robotics-provides-update-on-its-ai-powered-food-ordering-application-lily-1033118473",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/nextgen-food-robotics-provides-update-on-its-ai-powered-food-ordering-application-lily-1033118473",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T09:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ai-
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/lite/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Financial Express
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Google Restricts Replies to Queries on India Polls Via Gemini AI"
+    excerpt: "Alphabet Inc.’s Google is curbing its generative artificial intelligence chatbot, Gemini, from responding to queries directly related to Indian general elections starting next month, conforming with similar controls in the US and other countries holding elections."
+    publishedDateTime: 2024-03-13T10:40:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2024-03-13/google-restricts-replies-to-queries-on-india-polls-via-gemini-ai"
+    type: article
+    provider:
+      name: Bloomberg L.P.
+      domain: bloomberg.com
+    quality: 47
   - title: "Use of Indian languages key for increasing internet access in India: Report"
     excerpt: "The report also shows that in the recent past, the use of the internet in Indian languages is increasing. It shows that 57 per cent of internet users prefer to access the internet in Indian languages, with Hindi topping the chart."
     publishedDateTime: 2024-03-10T13:23:00Z

@@ -2,6 +2,159 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2024-02-26-hr-leaders-must-ensure-ai-adoption-is-a-success.md",
+      "title": "HR Leaders Must Ensure AI Adoption Is A Success",
+      "excerpt": "It's a steep learning curve, but the longer we wait to start, the steeper it gets. Because AI adoption requires frontline managers' understanding and cooperation, I believe HR leaders are integral to its success. When the discussion of AI adoption begins ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/02/26/hr-leaders-must-ensure-ai-adoption-is-a-success/",
+      "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/02/26/hr-leaders-must-ensure-ai-adoption-is-a-success/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d8989b0216c468579d5548/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/02/26/hr-leaders-must-ensure-ai-adoption-is-a-success/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2024/02/26/hr-leaders-must-ensure-ai-adoption-is-a-success/amp/",
+      "publishedDateTime": "2024-02-26T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-powerschool-powerbuddy-providing-ai-powerups-to-schools-and-students.md",
+      "title": "PowerSchool PowerBuddy Providing AI PowerUps To Schools And Students",
+      "excerpt": "Harnessing years of data and with a clear conception of what students and teacher need, PowerSchool has introduced a suite of AI tools to enhance its product suite.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rayravaglia/2024/02/26/powerschool-powerbuddy-providing-ai-powerups-to-schools-and-students/",
+      "originalUrl": "https://www.forbes.com/sites/rayravaglia/2024/02/26/powerschool-powerbuddy-providing-ai-powerups-to-schools-and-students/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d9322c1aa6b470e2297cd7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rayravaglia/2024/02/26/powerschool-powerbuddy-providing-ai-powerups-to-schools-and-students/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rayravaglia/2024/02/26/powerschool-powerbuddy-providing-ai-powerups-to-schools-and-students/amp/",
+      "publishedDateTime": "2024-02-26T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-26-whats-stopping-cybersecurity-from-being-ai-driven.md",
+      "title": "What's Stopping Cybersecurity From Being AI-Driven?",
+      "excerpt": "Cybersecurity, with its reliance on big data and moving at the speed of innovation, has one of the most compelling use cases for the latest evolution of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/26/whats-stopping-cybersecurity-from-being-ai-driven/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/26/whats-stopping-cybersecurity-from-being-ai-driven/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65d8c24e9e1d87c92efbf728/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 862,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/26/whats-stopping-cybersecurity-from-being-ai-driven/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/26/whats-stopping-cybersecurity-from-being-ai-driven/amp/",
+      "publishedDateTime": "2024-02-26T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-26-nvidia-briefly-hits-2trn-valuation-as-demand-for-ai-chips-soars.md",
       "title": "Nvidia briefly hits $2trn valuation as demand for AI chips soars",
       "excerpt": "AI is a gift that keeps generating for Nvidia as it rides on a high after demand for its chips soars globally. Nvidia briefly hit the $2trn valuation mark for the first time on Friday (23 February) soon after its latest earnings call that forecasted a ...",
@@ -970,145 +1123,6 @@
       "provider": {
         "name": "Medicine Buffalo",
         "domain": "buffalo.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-qualcomm-unveils-ai-and-connectivity-chips-at-mobile-world-congress.md",
-      "title": "Qualcomm unveils AI and connectivity chips at Mobile World Congress",
-      "excerpt": "Learn more about GamesBeat Summit sponsorship opportunities here. Qualcomm unveiled a suite of AI, 5G, and Wi-Fi devices at Mobile World Congress (MWC) in Barcelona. The chip design company said the innovations promise to usher in a new era of ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/qualcomm-unveils-ai-and-connectivity-chips-at-mobile-world-congress/",
-      "originalUrl": "https://venturebeat.com/ai/qualcomm-unveils-ai-and-connectivity-chips-at-mobile-world-congress/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/qualcomm-mwc.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 703,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-25T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-top-10-best-databases-for-machine-learning-ai-in-2024.md",
-      "title": "Top 10 Best Databases for Machine Learning & AI in 2024",
-      "excerpt": "Machine learning and artificial intelligence fundamentally rely on databases. These are crucial for holding, arranging, and accessing the necessary data for training and building AI models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.straight.com/guides/software/best-databases-for-machine-learning-and-ai/",
-      "originalUrl": "https://www.straight.com/guides/software/best-databases-for-machine-learning-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.straight.com/guides/wp-content/uploads/2023/11/BEST-OF10-Best-Databases-for-Machine-Learning-AI.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-25T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Georgia Straight",
-        "domain": "straight.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-ghmc-adopts-ai-facial-recognition-for-sanitation-staff-attendance-management.md",
-      "title": "GHMC Adopts AI Facial Recognition for Sanitation Staff Attendance Management",
-      "excerpt": "Hyderabad: The GHMC has decided to use an artificial intelligence-driven mobile-based facial recognition biometric system to manage the attendance of staff in its sanitation wing. The",
-      "sourceUrl": null,
-      "webUrl": "https://www.deccanchronicle.com/nation/ghmc-adopts-ai-facial-recognition-for-sanitation-staff-attendance-management-883376",
-      "originalUrl": "https://www.deccanchronicle.com/nation/ghmc-adopts-ai-facial-recognition-for-sanitation-staff-attendance-management-883376",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.deccanchronicle.com/h-upload/2024/02/04/1074120-ghmc.jpg",
-          "width": 400,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.deccanchronicle.com/amp/nation/ghmc-adopts-ai-facial-recognition-for-sanitation-staff-attendance-management-883376",
-      "cdnAmpWebUrl": "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/nation/ghmc-adopts-ai-facial-recognition-for-sanitation-staff-attendance-management-883376",
-      "publishedDateTime": "2024-02-25T21:19:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deccan Chronicle",
-        "domain": "deccanchronicle.com",
         "images": null,
         "publishers": null,
         "authors": null

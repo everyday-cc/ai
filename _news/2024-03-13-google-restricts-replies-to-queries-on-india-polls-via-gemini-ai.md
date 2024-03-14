@@ -22,22 +22,31 @@ topics:
   - AI
 
 related:
-  - title: "GPU access to power up India’s AI play: experts"
-    excerpt: "AI Mission will help startups make in India and for the world, say tech investors. The Rs 10,372-crore Artificial Intelligence (AI) Mission, announced on Thursday, will operate on a public-private partnership model."
-    publishedDateTime: 2024-03-09T02:40:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/articleshow/108335973.cms?from=mdr"
-    ampWebUrl: "https://m.economictimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/amp_articleshow/108335973.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/amp_articleshow/108335973.cms"
+  - title: "AI-driven evolution of low-code software development in India"
+    excerpt: "As low-code platforms evolve with out-of-the-box AI capabilities, organizations must conscientiously explore ways to harness its full potential. The ability to empower developers"
+    publishedDateTime: 2024-03-09T10:45:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/"
+    ampWebUrl: "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/lite/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 74
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
     images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1638520,msid-108336041/gpus-access-india.jpg"
-        width: 600
-        height: 450
+      - url: "https://www.financialexpress.com/wp-content/uploads/2024/03/Untitled-design-2024-03-08T174706.154.jpg"
+        width: 1200
+        height: 675
         isCached: true
+  - title: "Use of Indian languages key for increasing internet access in India: Report"
+    excerpt: "The report also shows that in the recent past, the use of the internet in Indian languages is increasing. It shows that 57 per cent of internet users prefer to access the internet in Indian languages, with Hindi topping the chart."
+    publishedDateTime: 2024-03-10T13:23:00Z
+    webUrl: "https://www.business-standard.com/india-news/use-of-indian-languages-key-for-increasing-internet-access-in-india-report-124031000395_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 2
 
 secured: "SNC1ab+97O5qmfMqkw0xaxpbrWwqtwUaxjLYkKnlWJ+5ict2Tq4sU+oyKWr9N8qyxVUJVkprTLkHYQiWLKpWBzRKuRuw1/zUXnlpW2SXJJ+AMdud05gSiQdx3Ncf710SJb4Bxv/ZuZ+MtvmL5p9WJVakXqZc11evG2auQrsaQn6ar8mck5aafN+7xjbgE1UuWLjt+SaPcRzUJ2d4+svmwvA/3uT7mhkojX5XOFRZX5MAnVsCHdlR0Bh2Mr7Rcuw8alGA8y7ylg/m9HwW/bMxeLIAevt5opnnuHlY1mIeqnNptebOUzV/ooQqFaBLb0kivB3uASe4jCh8f3DVU+T+FotvoZ2XKO3Xd0z57Dhcp71/TnugxXFVxM9RV/DHO62syPfb3YvgynVcu0W0TAYOWQiDPqLuwhj6ycqUKa0eJE4yH3aqfBM7QKAjEjn2dfGhDJGI/BYtBachWb//2E3DPpP1LcpusmARvjyXvpGhyhOE46fbRhmN7KzF4ZRGjcrgdjxzBz67EYKbaLVOQ354WA==;lpR0Zs27ifY6e2rZMaOQGw=="
 ---

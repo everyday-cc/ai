@@ -60,6 +60,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 64
+  - title: "Cerebras Systems unveils CS-3 AI supercomputer: can train models that are 10x bigger than GPT-4"
+    excerpt: "Cerebras Systems' new CS-3 AI supercomputer revealed, can train models that are 10x bigger than GPT-4 and Gemini thanks to its huge memory pool."
+    publishedDateTime: 2024-03-13T23:36:00Z
+    webUrl: "https://www.tweaktown.com/news/96845/cerebras-systems-unveils-cs-3-ai-supercomputer-can-train-models-that-are-10x-bigger-than-gpt-4/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 27
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96845_1402_cerebras-systems-unveils-cs-3-ai-supercomputer-can-train-models-that-are-10x-bigger-than-gpt-4_full.png"
+        width: 1500
+        height: 835
+        isCached: true
 
 secured: "SWVClOZeA7xGRQvhgarkOrAPLZa+A4wF+8tEkW7sjxWHgtbbiFnCQ0aNumpf+2B1NTnT482H+dlUvUNfff5b6hNJmHW1r8H2MUGzsZCVh+e9xMMCt6+mFFO3Xd954G6MvmwoC97XkOndC9QaqYeJITo07SYv1+RGTGdtDgti/2X1uIrm7Pg3RBnjBNzgKrIGFTj+3GwJp+wBrL/kUjIayxjqZ0vD8rfA9EwPy8sA730EJYjUImafyf5+EB2+Z+m0wid5A1HpsVMT5+3e79d9KgJiFK0ZvLKzeROw1F1pQ3DB8wVD+ACD/6WYMdSBmbuvMVjHpYrki2BeF/Bq6sq3Zpx4fdQ9l8P4A9ya0mgq550lcmTFIuIzK6xXKEf+jStT5nAVMdYMpcMR/3UD61XZnQWj6Ar/1tB+lYJPbVsEN01kskyT1mBhyCl4uaAUGaWDYG1KZcyb7rrIZDqgcDR3hwQVda42pOIOTz99UWgv0P32qbyuNGWa/xD0Q3gn6FJ+1JzapsmYHkEmW0CGARXN0Q==;RSLPw6doiy6DxujntywjKw=="
 ---

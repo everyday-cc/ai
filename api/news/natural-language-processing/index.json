@@ -64,7 +64,7 @@
       "originalUrl": "https://www.forbes.com/sites/moorinsights/2024/03/12/qualcomm-on-device-ai-powers-future-products-from-phones-to-pcs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -517,6 +517,49 @@
         "AI",
         "Natural Language Processing",
         "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-09-ai-driven-evolution-of-low-code-software-development-in-india.md",
+      "title": "AI-driven evolution of low-code software development in India",
+      "excerpt": "As low-code platforms evolve with out-of-the-box AI capabilities, organizations must conscientiously explore ways to harness its full potential. The ability to empower developers",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/",
+      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2024/03/Untitled-design-2024-03-08T174706.154.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/lite/",
+      "publishedDateTime": "2024-03-09T10:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -1391,40 +1434,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-israeli-speech-recognition-platform-expands-into-australia.md",
-      "title": "Israeli Speech Recognition Platform Expands Into Australia",
-      "excerpt": "An Israeli speech recognition platform for people with non-standard speech is expanding to provide its services in Australia",
-      "sourceUrl": null,
-      "webUrl": "https://nocamels.com/2024/02/israeli-speech-recognition-platform-expands-into-australia/",
-      "originalUrl": "https://nocamels.com/2024/02/israeli-speech-recognition-platform-expands-into-australia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-26T07:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NoCamels - Israeli Innovation News",
-        "domain": "nocamels.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
