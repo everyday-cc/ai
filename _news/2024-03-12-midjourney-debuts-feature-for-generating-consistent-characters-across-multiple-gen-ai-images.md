@@ -51,6 +51,20 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 43
+  - title: "AI image-generator Midjourney blocks images of Biden and Trump as election looms"
+    excerpt: "The popular artificial intelligence image-generator Midjourney has started blocking its users from creating fake images of President Joe Biden and former President Donald Trump ahead of the upcoming U.S. presidential election, according to tests of the AI ..."
+    publishedDateTime: 2024-03-13T00:00:00Z
+    webUrl: "https://keyt.com/news/2024/03/13/ai-image-generator-midjourney-blocks-images-of-biden-and-trump-as-election-looms-2/"
+    type: article
+    provider:
+      name: KEYT
+      domain: keyt.com
+    quality: 34
+    images:
+      - url: "https://keyt.b-cdn.net/2023/08/nc312-combined-commercial-slate-860x484.jpg"
+        width: 860
+        height: 484
+        isCached: true
 
 secured: "0RQz+5YRjaSNAB3DgwYnJqPn0kd5xIYubcGrTGJDK+wnIkC7xLOp07r3YsRnzqbvjjxrk9cSKAjOgcJb8P14CfrM4K3qU+eX+ea6SXPU9bH64Bqrsemh2GzQ0NW878PvFzfSjV3fhCuPEJi6/7tapOZ7Y9U6AzjJvkR966ExOP09IOXNY5rht6QH/GxFpw4e7GLKKzD5YOYsbh3e0f6rdIqXkxJcbOAfbosH+RKpGUX0bPJJ+8ttxWUeIJodbNlno90Up/lniv39wrBbn9uw93cSrru5xN2oQv2h5kiedXxYpH41s9T6QBDr+MKsHzUV4ZOjC8I3SwmzqjSKO5nhlLtdetCaXL7Ucddj11tnLxTUwmHmYn0w5ntB+FcENuQ2dZSHNSE8Xs0XUCLY0TsW/E7GWOxO8tQnMi0p54/W31j0Tv8AeWPlbR2B/7l2ntWl7e5lLSNrwzGcRX7Yowk4qnEgqbTqswfUNW09m9MWPYGfuaXfKWscHKjxykj0ZnCfBlL2xvpYlh/mWVhrialkng==;XPC3sz7uF/pXjJU4l/EKAg=="
 ---

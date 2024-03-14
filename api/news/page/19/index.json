@@ -2,6 +2,92 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2024-02-28-apple-investors-reject-call-for-ethics-transparency-on-companys-ai-use.md",
+      "title": "Apple investors reject call for ethics transparency on company’s AI use",
+      "excerpt": "Discovery Inc. Apple Inc. shareholders rejected a labor-backed request for an artificial intelligence transparency report, which would have delved into whether the company is using the technology ethically. The proposal, submitted by AFL-CIO Equity Index ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pressherald.com/2024/02/28/apple-investors-reject-call-for-ethics-transparency-on-companys-ai-use/",
+      "originalUrl": "https://www.pressherald.com/2024/02/28/apple-investors-reject-call-for-ethics-transparency-on-companys-ai-use/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pressherald.com/wp-content/uploads/sites/4/2017/01/pph-icon-red-linkforFB.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Portland Press Herald",
+        "domain": "pressherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-apples-self-driving-electric-car-project-is-officially-dead.md",
+      "title": "Apple’s Self-Driving Electric Car Project Is Officially Dead",
+      "excerpt": "As shocked as the team may have been, the news won’t be nearly as surprising to anyone who’s paid attention to Apple’s efforts to build a self-driving car. Although next to no concrete ...",
+      "sourceUrl": null,
+      "webUrl": "https://robbreport.com/motors/cars/apple-cancels-self-driving-ev-project-1235527053/#!",
+      "originalUrl": "https://robbreport.com/motors/cars/apple-cancels-self-driving-ev-project-1235527053/#!",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://robbreport.com/wp-content/uploads/2024/01/evcharger.jpg?w=681&h=383&crop=1",
+          "width": 681,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://robbreport.com/motors/cars/apple-cancels-self-driving-ev-project-1235527053/amp/",
+      "cdnAmpWebUrl": "https://robbreport-com.cdn.ampproject.org/c/s/robbreport.com/motors/cars/apple-cancels-self-driving-ev-project-1235527053/amp/",
+      "publishedDateTime": "2024-02-28T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Robb Report",
+        "domain": "robbreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-28-high-performance-simulations-with-tff.md",
       "title": "High-performance simulations with TFF",
       "excerpt": "This tutorial will describe how to setup high-performance simulations with TFF in a variety of common scenarios. TODO: b/134543154 - Populate the content, some of the things to cover here: using GPUs in a single-machine setup, multi-machine setup on GCP ...",
@@ -304,49 +390,6 @@
       ]
     },
     {
-      "path": "_news/2024-02-28-nebraska-company-gets-fda-approval-for-commercial-use-of-robotic-surgery-system.md",
-      "title": "Nebraska company gets FDA approval for commercial use of robotic surgery system",
-      "excerpt": "The Lincoln company that makes a surgical robot moved into a new office in April ... Farritor said the company will roll out commercial use of the device in a controlled way. That means the first surgeries are still months away and will be done by selected ...",
-      "sourceUrl": null,
-      "webUrl": "https://columbustelegram.com/news/state-regional/business/nebraska-company-gets-fda-approval-for-commercial-use-of-robotic-surgery-system/article_8867c1e8-e804-5e13-af52-c76d225bb504.html",
-      "originalUrl": "https://columbustelegram.com/news/state-regional/business/nebraska-company-gets-fda-approval-for-commercial-use-of-robotic-surgery-system/article_8867c1e8-e804-5e13-af52-c76d225bb504.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/columbustelegram.com/content/tncms/assets/v3/editorial/8/86/8867c1e8-e804-5e13-af52-c76d225bb504/65de01d573f17.preview.jpg?crop=960%2C504%2C0%2C17&resize=960%2C504&order=crop%2Cresize",
-          "width": 960,
-          "height": 504,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-27T21:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Columbus Telegram",
-        "domain": "columbustelegram.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-28-openai-seeks-to-dismiss-parts-of-the-new-york-timess-lawsuit.md",
       "title": "OpenAI Seeks to Dismiss Parts of The New York Times’s Lawsuit",
       "excerpt": "The artificial intelligence start-up argued that its online chatbot, ChatGPT, is not a substitute for a New York Times subscription.",
@@ -446,6 +489,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-nebraska-company-gets-fda-approval-for-commercial-use-of-robotic-surgery-system.md",
+      "title": "Nebraska company gets FDA approval for commercial use of robotic surgery system",
+      "excerpt": "Virtual Incision announced it has received marketing authorization from the Food and Drug Administration for its MIRA Surgical System, a robot-assisted surgical device used in colon resection surgeries.",
+      "sourceUrl": null,
+      "webUrl": "https://fremonttribune.com/news/state-regional/business/nebraska-company-gets-fda-approval-for-commercial-use-of-robotic-surgery-system/article_03318126-1ca8-5684-8a12-f3056dba6620.html",
+      "originalUrl": "https://fremonttribune.com/news/state-regional/business/nebraska-company-gets-fda-approval-for-commercial-use-of-robotic-surgery-system/article_03318126-1ca8-5684-8a12-f3056dba6620.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/fremonttribune.com/content/tncms/assets/v3/editorial/0/33/03318126-1ca8-5684-8a12-f3056dba6620/65de01d572330.preview.jpg?crop=960%2C504%2C0%2C17&resize=960%2C504&order=crop%2Cresize",
+          "width": 960,
+          "height": 504,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-27T20:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fremont Tribune",
+        "domain": "fremonttribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -1122,102 +1208,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-02-27-ai-momentum-is-underpriced-in-the-options-market-says-bank-of-america.md",
-      "title": "AI momentum is underpriced in the options market says Bank of America",
-      "excerpt": "Buying Nvidia call options remains a good way to profit from gains in the AI chipmaker’s share price because volatility is being undervalued, according to Bank of America. In a note published Tuesday, the BofA global equity derivatives team observed that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/ai-momentum-is-underpriced-in-the-options-market-says-bank-of-america-e2a0a24f",
-      "originalUrl": "https://www.marketwatch.com/story/ai-momentum-is-underpriced-in-the-options-market-says-bank-of-america-e2a0a24f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-65097578/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/ai-momentum-is-underpriced-in-the-options-market-says-bank-of-america-e2a0a24f",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ai-momentum-is-underpriced-in-the-options-market-says-bank-of-america-e2a0a24f",
-      "publishedDateTime": "2024-02-27T12:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2024-02-27-the-artificial-intelligence-glossary.md",
-      "title": "The Artificial Intelligence Glossary",
-      "excerpt": "Artificial intelligence is dominating conversations across ... including intent and sentiment. Neural Network: A means of machine learning that mimics the human brain, and includes the ability for multiple layers of training to occur simultaneously.",
-      "sourceUrl": null,
-      "webUrl": "https://www.law.com/legaltechnews/2024/02/27/the-artificial-intelligence-glossary/",
-      "originalUrl": "https://www.law.com/legaltechnews/2024/02/27/the-artificial-intelligence-glossary/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.law.com/contrib/content/uploads/sites/397/2023/03/Brain-Lightbulb-767x633.jpg",
-          "width": 767,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-27T12:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law",
-        "domain": "law.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

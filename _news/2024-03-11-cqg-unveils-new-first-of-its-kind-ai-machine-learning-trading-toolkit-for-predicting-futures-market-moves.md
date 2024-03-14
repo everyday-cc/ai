@@ -1,22 +1,23 @@
 ---
 category: news
 title: "CQG Unveils New First-of-its-Kind AI / Machine Learning Trading Toolkit for Predicting Futures Market Moves"
-excerpt: "Based on the firm's deep experience in analytics, mathematics and market intelligence, the new ML initiative aims to offer retail traders and buy-side firms, including proprietary trading firms and hedge funds,"
-publishedDateTime: 2024-03-11T11:36:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2024/03/11/9975734.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2024/03/11/9975734.htm"
+excerpt: "Success in Live Trading Environment Confirms Internal Test Results DENVER and BOCA RATON, Fla., March 11, 2024 /PRNewswire/ -- CQG, a leading global provider of high-performance technology"
+publishedDateTime: 2024-03-11T11:20:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2024-03/61640370-cqg-unveils-new-first-of-its-kind-ai-machine-learning-trading-toolkit-for-predicting-futures-market-moves-008.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2024-03/61640370-cqg-unveils-new-first-of-its-kind-ai-machine-learning-trading-toolkit-for-predicting-futures-market-moves-008.htm"
 type: article
-quality: 16
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
-  - Machine Learning
+  - AI in Finance
   - AI
+  - Machine Learning
 
 related:
   - title: "CQG unveils machine learning toolkit for predicting futures market moves"
@@ -48,6 +49,6 @@ related:
         height: 1568
         isCached: true
 
-secured: "cQhWk8ukRbx4jmBPLy/gS0sLMfTxA5zzR5i7fd7mlUM1J4UXMhNTiioToKa1nlHwbObLHZiOBwTVAVl5c2SiMCEsnKIRXc+p62bRk0VacQZmxs3M4XM7U3/yKd/eBYTMUCTf8pdfEKeZTQH3SpQN2XwL6fwEzoXZqMaceSn7ZvD+/EKP5tyLddBPplpbx/4eIfZg86cVJyCFkdek4jzce/SkHgO6QmzF2aVYEMjY8Dva1I5NrTHozjFnwqfylD/EG3yMLF2XpZ4W5BTygUrQYWCZRBEdBdKLOluZkRLM2HKGTkCeWIvJwlqEXBbwdf2ZaU7YMPGMiV05LL51xoRUCnotxP4ZkcfRJIZjlspTWoE=;3V2NyswQE5pgZfz+1V+L/A=="
+secured: "ZvjL1pl63pOwqagGiyWto7Yq7t3vYpaEHnkEAPtBjDBpykyBrGEpxFB2Bv/9gCuO+ieDiYlONXm+2MqYIWUgJADxNeoppmzq6VU0WVW0xNjx/5q1crnVkm2J8TMJYxGTcw94MNeeWQ9f0QKfmwFPa/pvEF0WlM74Us2L8P8Ar6Om7xe0oqDhN2j8N4wG7TJWWva6ADFDkp8E+BhsRL/jds/D2UdNw3KwKfbXi0ASKddGWts+IgZwSBh6z5DhlBZyl8Jk5vQ7FpF4S0b419E3NiPY2SzB0rs8o8leiYP22ChkTeossAKNwq3V+yry4y6geMWSmjvtMJi5XAA6+TQeFHLNEj4beXb9j7AG5aF9Qdg=;i5kLkehWBEu5jvT6aZMNng=="
 ---
 

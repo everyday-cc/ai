@@ -10,7 +10,7 @@
       "originalUrl": "https://breakingdefense.com/2024/03/the-difference-between-artificial-intelligence-and-machine-learning-and-why-it-matters/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -665,15 +665,24 @@
     {
       "path": "_news/2024-03-05-painting-a-molecular-portrait-of-the-brain-with-mass-spectrometry-and-deep-learning.md",
       "title": "Painting a molecular portrait of the brain with mass spectrometry and deep learning",
-      "excerpt": "More information: Yuxuan Richard Xie et al, Multiscale biochemical mapping of the brain through deep-learning-enhanced high-throughput mass spectrometry, Nature Methods (2024). DOI: 10.1038/s41592 ...",
+      "excerpt": "Beckman researchers led by Fan Lam, Jonathan Sweedler, and Beckman Institute Graduate Fellow Richard Xie used a biochemical imaging framework integrated with deep learning to create 3D molecular maps with cell specificity to better understand how the brain functions in health and disease.",
       "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2024-03-molecular-portrait-brain-mass-spectrometry.html",
-      "originalUrl": "https://medicalxpress.com/news/2024-03-molecular-portrait-brain-mass-spectrometry.html",
+      "webUrl": "https://www.eurekalert.org/news-releases/1036623",
+      "originalUrl": "https://www.eurekalert.org/news-releases/1036623",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/781aaaa3-8bab-4c78-bcf5-df7bb44672ab/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "",
       "type": "article",
       "ampWebUrl": null,
@@ -681,8 +690,8 @@
       "publishedDateTime": "2024-03-05T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null

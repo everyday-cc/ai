@@ -2,6 +2,101 @@
   "page": 92,
   "value": [
     {
+      "path": "_news/2023-12-26-here-are-3-stocks-other-than-nvidia-getting-an-ai-premium-from-wall-street.md",
+      "title": "Here are 3 stocks — other than Nvidia — getting an AI premium from Wall Street",
+      "excerpt": "While Nvidia was the big winner for investors this year in the generative AI boom, other tech stocks have also gotten a boost",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2023/12/26/here-are-3-stocks-other-than-nvidia-getting-ai-premium-from-investors.html",
+      "originalUrl": "https://www.cnbc.com/2023/12/26/here-are-3-stocks-other-than-nvidia-getting-ai-premium-from-investors.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/102265308-1572620689645arista.jpg?v=1685029641",
+          "width": 1968,
+          "height": 1312,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2023/12/26/here-are-3-stocks-other-than-nvidia-getting-ai-premium-from-investors.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/12/26/here-are-3-stocks-other-than-nvidia-getting-ai-premium-from-investors.html",
+      "publishedDateTime": "2023-12-26T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2023-12-26-elevating-customer-experience-on-social-media-through-ai-and-ml-insights-from-a-machine-learning-ai-expert.md",
+      "title": "Elevating Customer Experience On Social Media Through AI And ML: Insights From A Machine Learning & AI Expert",
+      "excerpt": "How AI and machine learning are allowing social media and its users to evolve is something that is yet again becoming a reason for the social media marketplace to evolve and for the users to be up to speed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freepressjournal.in/tech/elevating-customer-experience-on-social-media-through-ai-and-ml-insights-from-a-machine-learning-ai-expert",
+      "originalUrl": "https://www.freepressjournal.in/tech/elevating-customer-experience-on-social-media-through-ai-and-ml-insights-from-a-machine-learning-ai-expert",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.assettype.com/freepressjournal/2023-12/9ee2bf84-24ed-4ca3-a7b8-177d505658d5/qq.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.freepressjournal.in/amp/tech/elevating-customer-experience-on-social-media-through-ai-and-ml-insights-from-a-machine-learning-ai-expert",
+      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/tech/elevating-customer-experience-on-social-media-through-ai-and-ml-insights-from-a-machine-learning-ai-expert",
+      "publishedDateTime": "2023-12-26T11:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-26-embracing-ai-in-communications-strategies-for-successful-agency-adoption.md",
       "title": "Embracing AI In Communications: Strategies For Successful Agency Adoption",
       "excerpt": "Employing these strategies can transform AI from a daunting concept to an everyday tool, enabling you to achieve more than ever before.",
@@ -1108,109 +1203,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-24-the-end-of-originality-is-ai-replacing-real-artists.md",
-      "title": "The End Of Originality: Is AI Replacing Real Artists?",
-      "excerpt": "It's causing a significant shake-up in the creative industry, pushing artists to rethink their careers and roles in this changing world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/elijahclark/2023/12/23/the-end-of-originality-is-ai-replacing-real-artists/",
-      "originalUrl": "https://www.forbes.com/sites/elijahclark/2023/12/23/the-end-of-originality-is-ai-replacing-real-artists/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65873a759be240f1085893d9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/elijahclark/2023/12/23/the-end-of-originality-is-ai-replacing-real-artists/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/elijahclark/2023/12/23/the-end-of-originality-is-ai-replacing-real-artists/amp/",
-      "publishedDateTime": "2023-12-23T18:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-24-chip-giant-micron-is-becoming-another-ai-play-for-investors.md",
-      "title": "Chip giant Micron is becoming another AI play for investors",
-      "excerpt": "Micron Technology Inc.'s return to revenue growth last quarter as it recovers from the memory-chip downturn was in part due to the boom in AI-related chips, putting more of a spotlight on the chip maker as another potential AI investment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/WP-MKTW-0002834162?mod=article_recs_pos1_sb_hp&next_redirect=true",
-      "originalUrl": "https://www.wsj.com/articles/WP-MKTW-0002834162?mod=article_recs_pos1_sb_hp&next_redirect=true",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-319090/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-23T16:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

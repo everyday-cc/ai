@@ -33,7 +33,7 @@ related:
     provider:
       name: The Daily Beast
       domain: thedailybeast.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1710358975/240314-Anslow-AI-Doomers-hero_srjagu"
         width: 1480

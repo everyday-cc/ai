@@ -9,7 +9,7 @@ ampWebUrl: "https://breakingdefense.com/2024/03/the-difference-between-artificia
 cdnAmpWebUrl: "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2024/03/the-difference-between-artificial-intelligence-and-machine-learning-and-why-it-matters/?amp=1"
 type: article
 quality: 66
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://s.yimg.com/ny/api/res/1.2/Yd3S5pYzAQQcRSYpsPTUzQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/aol_yahoo_finance_433/d42c59090aee25fc521e482055c6743d"
         width: 1200
         height: 801
+        isCached: true
+  - title: "Edge AI Devices Eye Lifetime Learning"
+    excerpt: "Helping artificial intelligence to adapt and learn, now and later."
+    publishedDateTime: 2024-03-12T16:03:00Z
+    webUrl: "https://cacm.acm.org/news/lifetime-learning-for-ai/"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 39
+    images:
+      - url: "https://cacm.acm.org/wp-content/uploads/2024/03/031224_University-of-Texas_rcjLLFrontiers.jpg"
+        width: 611
+        height: 552
         isCached: true
   - title: "Akamai and Neural Magic Partner to Accelerate Deep Learning AI"
     excerpt: "Akamai Technologies (NASDAQ: AKAM), the cloud company that powers and protects life online, and Neural Magic, a developer of software that accelerates artificial intelligence (AI) workloads, today announced a strategic partnership intended to supercharge deep learning capabilities on Akamai's distributed computing infrastructure."

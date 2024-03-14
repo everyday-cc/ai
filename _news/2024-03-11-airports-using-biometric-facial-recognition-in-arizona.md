@@ -87,6 +87,22 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "Elma man arrested on child porn charge after facial recognition technology used on photos from 2013"
+    excerpt: "An Elma man is facing a child pornography charge after facial recognition technology was used on photos that were from 2013, the U.S. Attorney’s office said Wednesday."
+    publishedDateTime: 2024-03-13T22:33:00Z
+    webUrl: "https://www.wivb.com/news/crime/elma-man-arrested-on-child-porn-charge-after-facial-recognition-technology-used-on-photos-from-2013/"
+    ampWebUrl: "https://www.wivb.com/news/crime/elma-man-arrested-on-child-porn-charge-after-facial-recognition-technology-used-on-photos-from-2013/amp/"
+    cdnAmpWebUrl: "https://www-wivb-com.cdn.ampproject.org/c/s/www.wivb.com/news/crime/elma-man-arrested-on-child-porn-charge-after-facial-recognition-technology-used-on-photos-from-2013/amp/"
+    type: article
+    provider:
+      name: WIVB-TV
+      domain: wivb.com
+    quality: 45
+    images:
+      - url: "https://www.wivb.com/wp-content/uploads/sites/97/2024/02/handcuffs-1-e1708525374419.jpg?w=1280"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Stc Bahrain, the first telecom to launch instant mobile SIM Activation using AI Face Recognition Technology"
     excerpt: "Pioneering technology-driven solutions that empower customers and drive forward Bahrain’s digital transformation"
     publishedDateTime: 2024-03-12T12:48:00Z

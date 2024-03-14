@@ -7,7 +7,7 @@ originalUrl: "https://blog.google/products/google-play/google-for-games-develope
 webUrl: "https://blog.google/products/google-play/google-for-games-developer-summit-2024/"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

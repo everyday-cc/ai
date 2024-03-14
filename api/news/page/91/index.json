@@ -2,6 +2,109 @@
   "page": 91,
   "value": [
     {
+      "path": "_news/2023-12-28-11-data-predictions-for-ai-centric-enterprise-growth-in-2024.md",
+      "title": "11 data predictions for AI-centric enterprise growth in 2024",
+      "excerpt": "Key data predictions from industry experts and vendors to help enterprises tap the AI opportunity for growth in 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/data-infrastructure/11-data-predictions-for-ai-centric-enterprise-growth-in-2024/",
+      "originalUrl": "https://venturebeat.com/data-infrastructure/11-data-predictions-for-ai-centric-enterprise-growth-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/12/a_data_cloud_with_2024_written_inside_it_illust-e1703700507903.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-27T22:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-28-16-cybersecurity-leaders-predict-how-gen-ai-will-improve-cybersecurity-in-2024.md",
+      "title": "16 Cybersecurity leaders predict how gen AI will improve cybersecurity in 2024",
+      "excerpt": "Are you ready to bring more awareness to your brand? Consider becoming a sponsor for The AI Impact Tour. Learn more about the opportunities here. With greater AI power comes greater complexity, especially for CISOs adopting generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/16-cybersecurity-leaders-predict-how-gen-ai-will-improve-cybersecurity-in-2024/",
+      "originalUrl": "https://venturebeat.com/security/16-cybersecurity-leaders-predict-how-gen-ai-will-improve-cybersecurity-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/12/Hero-image-16-Cybersecurity-leaders-predict-how-gen-AI-will-improve-cybersecurity-in-2024-.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-27T22:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-28-ai-will-savenot-killproject-management.md",
       "title": "AI Will Save—Not Kill—Project Management",
       "excerpt": "AI is just the tool to give project managers the data they need to anticipate problems early on, set appropriate budgets and accurately set deadlines and timelines.",
@@ -1141,101 +1244,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-26-here-are-3-stocks-other-than-nvidia-getting-an-ai-premium-from-wall-street.md",
-      "title": "Here are 3 stocks — other than Nvidia — getting an AI premium from Wall Street",
-      "excerpt": "While Nvidia was the big winner for investors this year in the generative AI boom, other tech stocks have also gotten a boost",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2023/12/26/here-are-3-stocks-other-than-nvidia-getting-ai-premium-from-investors.html",
-      "originalUrl": "https://www.cnbc.com/2023/12/26/here-are-3-stocks-other-than-nvidia-getting-ai-premium-from-investors.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/102265308-1572620689645arista.jpg?v=1685029641",
-          "width": 1968,
-          "height": 1312,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2023/12/26/here-are-3-stocks-other-than-nvidia-getting-ai-premium-from-investors.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2023/12/26/here-are-3-stocks-other-than-nvidia-getting-ai-premium-from-investors.html",
-      "publishedDateTime": "2023-12-26T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-12-26-elevating-customer-experience-on-social-media-through-ai-and-ml-insights-from-a-machine-learning-ai-expert.md",
-      "title": "Elevating Customer Experience On Social Media Through AI And ML: Insights From A Machine Learning & AI Expert",
-      "excerpt": "How AI and machine learning are allowing social media and its users to evolve is something that is yet again becoming a reason for the social media marketplace to evolve and for the users to be up to speed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freepressjournal.in/tech/elevating-customer-experience-on-social-media-through-ai-and-ml-insights-from-a-machine-learning-ai-expert",
-      "originalUrl": "https://www.freepressjournal.in/tech/elevating-customer-experience-on-social-media-through-ai-and-ml-insights-from-a-machine-learning-ai-expert",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.assettype.com/freepressjournal/2023-12/9ee2bf84-24ed-4ca3-a7b8-177d505658d5/qq.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.freepressjournal.in/amp/tech/elevating-customer-experience-on-social-media-through-ai-and-ml-insights-from-a-machine-learning-ai-expert",
-      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/tech/elevating-customer-experience-on-social-media-through-ai-and-ml-insights-from-a-machine-learning-ai-expert",
-      "publishedDateTime": "2023-12-26T11:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Free Press Journal",
-        "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

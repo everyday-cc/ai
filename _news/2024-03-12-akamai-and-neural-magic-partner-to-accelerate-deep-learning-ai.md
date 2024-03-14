@@ -50,6 +50,20 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Edge AI Devices Eye Lifetime Learning"
+    excerpt: "Helping artificial intelligence to adapt and learn, now and later."
+    publishedDateTime: 2024-03-12T16:03:00Z
+    webUrl: "https://cacm.acm.org/news/lifetime-learning-for-ai/"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 39
+    images:
+      - url: "https://cacm.acm.org/wp-content/uploads/2024/03/031224_University-of-Texas_rcjLLFrontiers.jpg"
+        width: 611
+        height: 552
+        isCached: true
 
 secured: "kH194+ApifZhALN/EgMgsD7UAnmLPDZBr0AnYL+Tb3jdxtu7vVUYJy2mT38k8zSsixLheGYpJfi0nI/rETmTUx09jyQu+caE6Nib51PfzkETLXMFlNqpShQ+IyAbeqYhcdP9B+8k2KkJ4Eq1agjUukc46Au8Xyl7eVu1nOW7tqKPW+zwwY3LieaE4y1E/yJP9Bjyh1gLavSMemHcbK0CXvOJEYv5urO6yW9e54B/+RNfJuNGKiaDu9Gr5lB58bFl8/geShuU40n6mXOLUoPTURT61Zjonrd6Gr4LVcFf7eq0sgly+vENxKty1TqqG0YYqdvdAXiB0Vmbu/An9MP74xxFHXUoGdb2Iz1BzTVNCAAXqQHN0N60xE86fA4QyguVcA8x6/kpJYO+J1bWm2hjzzE1wndbJ1xdI7J0xwz+QDwUIkRYB4OI4/eaa1s8Cb8IUWSaQSkiuoWEUrKiZAIET4pPTR3VyLNJNDQ7dy74pCEPzeb1ZgMAEgIs8XG9fv2JEzdX1AGyAiyiTrPoFRDwRQ==;Z9qKArQmzDJDvZWVZftG+w=="
 ---

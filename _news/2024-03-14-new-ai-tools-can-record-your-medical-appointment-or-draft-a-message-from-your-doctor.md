@@ -2,23 +2,23 @@
 category: news
 title: "New AI tools can record your medical appointment or draft a message from your doctor"
 excerpt: "Your next check-up could be recorded by an AI-powered smartphone app that listens, documents and instantly organizes everything into a note you can read later."
-publishedDateTime: 2024-03-13T19:58:00Z
-originalUrl: "https://www.wthr.com/article/news/nation-world/new-ai-tools-for-doctors/507-59ef852d-6fc0-4f58-b9c4-a119f992f205"
-webUrl: "https://www.wthr.com/article/news/nation-world/new-ai-tools-for-doctors/507-59ef852d-6fc0-4f58-b9c4-a119f992f205"
+publishedDateTime: 2024-03-13T22:23:00Z
+originalUrl: "https://www.13wmaz.com/article/news/nation-world/new-ai-tools-for-doctors/507-59ef852d-6fc0-4f58-b9c4-a119f992f205"
+webUrl: "https://www.13wmaz.com/article/news/nation-world/new-ai-tools-for-doctors/507-59ef852d-6fc0-4f58-b9c4-a119f992f205"
 type: article
 quality: 30
 heat: -1
 published: false
 
 provider:
-  name: WTHR
-  domain: wthr.com
+  name: WMAZ
+  domain: 13wmaz.com
 
 topics:
   - AI
 
 images:
-  - url: "https://media.tegna-media.com/assets/CCT/images/caf1355f-8f8a-464c-9371-fec12b6d5684/caf1355f-8f8a-464c-9371-fec12b6d5684_1140x641.jpg"
+  - url: "https://media.13wmaz.com/assets/CCT/images/caf1355f-8f8a-464c-9371-fec12b6d5684/caf1355f-8f8a-464c-9371-fec12b6d5684_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -57,6 +57,6 @@ related:
         height: 480
         isCached: true
 
-secured: "55i0YFGNpSLZGR5GvMc9+ufiKyQz7aMXSAJGJT+s8rztY2pPRV9KBf6zWw2qZZRJAg+w0VHM0VwsJNJPUHJvQc+QjrjLoqymlrI1PNqyYnil12znRvRxkRBvkCZ/DPaxWsTtU88bcCduj/gCOhKbjCZ3VOQ43JgBzvLX9UNKnm2I+By+cVXrut8DGNN/lGthGievGEIGypR3lSb9RtF0m4XNuQMDSeGyQq50GpOrmK1ws/9SRlpgLYZ6kciE+rhN4UHvUseTfqHS5n7VdH5hD9uhJqCib03NgjcQYmR62qYBg9rY0LUKjcy5Js2uri0B1NTFWOpjVobiA7JLi9FFMZU/DFUNodIc2kAocZDCuv0=;BrxlHVlCBg3Jr42dWKW7XA=="
+secured: "nZbCbZCCs2MhkyXnCMf8aFg3k1fNRjBUYqtK1hY3RV6+qN6ISHr+KMZPKtnfidsfp0Ij41o+nwX53YrrX/ycC/6IZD9jHjFpx3q9v6idRG6fcRjW1LiaNR/EpCWd6WJvlonF8r8Oq2TlV0izOjG0Je/783+IodlaNzZXkjOa0VauL9qeWiadzofDODs+TP8tSU/oIlUUFG0sd32guMg47yQ2UHHDMb1Z21GTbpWu5yHRzusuWqz0MXguvIJuQ7epygOyl8HWxYyJPrMjgMlqedfGtvH27mJcXrozZmzc3yYqdykpMR9cWbMeP4LgJCO7yuN7OUUhMip4QE/41qaSEaCZAhnbQ+0O9LrK8k1yzVs=;OY3cdBD7e2IuZTBvR4amoQ=="
 ---
 

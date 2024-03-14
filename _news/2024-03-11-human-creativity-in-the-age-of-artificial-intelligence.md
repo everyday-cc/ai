@@ -42,6 +42,20 @@ related:
         width: 1330
         height: 900
         isCached: true
+  - title: "InnovationRx: Peer-Reviewing Health AI Tools"
+    excerpt: "InnovationRx is your weekly digest of healthcare news. To get it in your inbox, subscribe here. Z ak Kohane, the editor in chief of the journal NEJM AI, is also a pediatrician. He says his mission at the new publication is not that different from the guidance he gives the parents of his patients: “model good behavior.”"
+    publishedDateTime: 2024-03-13T22:18:00Z
+    webUrl: "https://www.forbes.com/sites/katiejennings/2024/03/13/innovationrx-peer-reviewing-health-ai-tools/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 69
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65f225bbc5a806edf1e2dc5a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "AI enabling behavioral health innovation"
     excerpt: "A hospital in the Middle East is embracing AI, pushing to bring behavioral healthcare more fully into the digital realm."
     publishedDateTime: 2024-03-13T14:51:00Z

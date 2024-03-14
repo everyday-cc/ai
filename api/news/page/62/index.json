@@ -2,6 +2,92 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2024-01-29-skusat-k-to-have-centre-for-ai-machine-learning.md",
+      "title": "SKUSAT-K to have centre for AI, machine learning",
+      "excerpt": "The Council gave in-principle approvals to various agenda points presented during the meeting including the setting up of Centre of Artificial Intelligence and Machine Learning in Agriculture (CAIML); SKUAST-K Innovation, Incubation and Entrepreneurship ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tribuneindia.com/news/j-k/skusat-k-to-have-centre-for-ai-machine-learning-585307",
+      "originalUrl": "https://www.tribuneindia.com/news/j-k/skusat-k-to-have-centre-for-ai-machine-learning-585307",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.tribuneindia.com/Content/images/Homepage_Assets/whatsapp.png",
+          "width": 360,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://m.tribuneindia.com/news/j-k/skusat-k-to-have-centre-for-ai-machine-learning-585307",
+      "cdnAmpWebUrl": "https://m-tribuneindia-com.cdn.ampproject.org/c/s/m.tribuneindia.com/news/j-k/skusat-k-to-have-centre-for-ai-machine-learning-585307",
+      "publishedDateTime": "2024-01-29T02:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Tribune",
+        "domain": "tribuneindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-29-app-scans-users-face-monitors-voice-for-signs-of-anxiety-depression.md",
+      "title": "App scans user's face, monitors voice for signs of anxiety, depression",
+      "excerpt": "Artificial intelligence is being used more often in daily life including in healthcare. One app, Together by Renee, is being marketed as a way to make healthcare more manageable. One of the app ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wral.com/story/app-scans-user-s-face-monitors-voice-for-signs-of-anxiety-depression/21258121/",
+      "originalUrl": "https://www.wral.com/story/app-scans-user-s-face-monitors-voice-for-signs-of-anxiety-depression/21258121/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wwwcache.wral.com/asset/lifestyles/healthteam/2024/01/29/21258613/TOGETHER_BY_RENEE2-DMID1-61rv3iggq-640x480.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.wral.com/amp/21258121/",
+      "cdnAmpWebUrl": "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/21258121/",
+      "publishedDateTime": "2024-01-29T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL",
+        "domain": "wral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-29-comparison-of-pathologist-and-deep-learningbased-prostate-cancer-grading-for-prediction-of-metastatic-outcomes-in-primary-prostate-cancer.md",
       "title": "Comparison of pathologist and deep learning–based prostate cancer grading for prediction of metastatic outcomes in primary prostate cancer.",
       "excerpt": "Comparison of whole slide image–based deep learning algorithms and genomic classifiers for assessing the risk of prostate cancer metastasis in surgically treated patients. Long-term results of dose escalation (80 vs 70 Gy) combined with long-term ...",
@@ -1074,100 +1160,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-27-generative-ais-enterprise-gamble-it-leaders-bet-big-on-tech-despite-security-woes.md",
-      "title": "Generative AI’s enterprise gamble: IT leaders bet big on tech despite security woes",
-      "excerpt": "A new report finds that enterprise IT teams are rapidly increasing budgets and adopting generative AI despite risks, but many lack clear ROI metrics and are willing to implement the technology quickly even if negative consequences could occur.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/generative-ais-enterprise-gamble-it-leaders-bet-big-on-tech-despite-security-woes/",
-      "originalUrl": "https://venturebeat.com/ai/generative-ais-enterprise-gamble-it-leaders-bet-big-on-tech-despite-security-woes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/01/nuneybits_Abstract_art_of_a_business_man_IT_guy_looking_at_a_co_b0eba95a-e87d-4907-b704-c6c0ccfb5b69-transformed.webp?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-27T05:11:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-01-27-from-cabs-to-ai-unicorn-olas-krutrim-is-the-first-billion-dollar-indian-ai-startup.md",
-      "title": "From cabs to AI unicorn: Ola's Krutrim is the first billion-dollar Indian AI startup",
-      "excerpt": "Ola group's AI firm Krutrim has become the first artificial intelligence unicorn from India after it raised $50 million in a funding round led by Matrix Partners. The unicorn is a privately-owned startup that is valued at over $1 billion.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/olas-krutrim-is-the-first-billion-dollar-indian-ai-startup/articleshow/107175284.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/olas-krutrim-is-the-first-billion-dollar-indian-ai-startup/articleshow/107175284.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-107179736,width-1280,height-720,resizemode-4/107179736.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/olas-krutrim-is-the-first-billion-dollar-indian-ai-startup/amp_articleshow/107175284.cms",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/olas-krutrim-is-the-first-billion-dollar-indian-ai-startup/amp_articleshow/107175284.cms",
-      "publishedDateTime": "2024-01-27T05:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

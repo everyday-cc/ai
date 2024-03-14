@@ -2,6 +2,83 @@
   "page": 89,
   "value": [
     {
+      "path": "_news/2024-01-02-unlocking-the-power-of-privacy-enhancing-technologies-in-financial-services.md",
+      "title": "Unlocking the Power of Privacy-Enhancing Technologies in Financial Services",
+      "excerpt": "Banks depend on data throughout their operations, but when it falls into the wrong hands, the results are catastrophic. Protecting data is a crucial but complicated task. Privacy-enhancing technologies (PETs) meet this challenge by specifically and efficiently safeguarding data,",
+      "sourceUrl": null,
+      "webUrl": "https://internationalbanker.com/technology/unlocking-the-power-of-privacy-enhancing-technologies-in-financial-services/",
+      "originalUrl": "https://internationalbanker.com/technology/unlocking-the-power-of-privacy-enhancing-technologies-in-financial-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-02T11:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Banker",
+        "domain": "internationalbanker.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-02-deep-learning-for-phase-recovery.md",
+      "title": "Deep learning for phase recovery",
+      "excerpt": "(a) Deep-learning-pre-processing for phase recovery. (b) Deep-learning-in-processing for phase recovery. (c) Deep-learning-post-processing for phase recovery. (d) Deep learning for phase processing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/1030138",
+      "originalUrl": "https://www.eurekalert.org/news-releases/1030138",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/48c99788-c3b5-44bf-acc5-c0c78850f1a6/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 388,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-02T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-02-the-13-best-cat-litter-boxes-of-2024-tested-and-reviewed.md",
       "title": "The 13 best cat litter boxes of 2024, tested and reviewed",
       "excerpt": "If you're looking for an automatic litter box with all the bells and whistles, the Whisker Litter-Robot 4 is a pricey ... Best for odor control: Catit Jumbo Hooded Pan - See at Chewy The ...",
@@ -1088,108 +1165,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-29-1-artificial-intelligence-ai-stock-down-58-to-buy-hand-over-fist-in-2024.md",
-      "title": "1 Artificial Intelligence (AI) Stock Down 58% to Buy Hand Over Fist in 2024",
-      "excerpt": "Fool.com contributor Parkev Tatevosian highlights how this company implements AI to improve its customer value proposition. *Stock prices used were the afternoon prices of Dec. 26, 2023. The video was published on Dec. 28, 2023. Parkev Tatevosian, CFA has ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/12/29/1-artificial-intelligence-ai-stock-down-58-to-buy/",
-      "originalUrl": "https://www.fool.com/investing/2023/12/29/1-artificial-intelligence-ai-stock-down-58-to-buy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/759620/person-looking-at-phone.jpg",
-          "width": 2119,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-29T07:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-29-artificial-intelligence-trends-to-watch-in-2024.md",
-      "title": "Artificial Intelligence Trends To Watch In 2024",
-      "excerpt": "On the cusp of a new year, it’s worth reflecting on the progress AI has made over the past twelve months, as well as what might lie ahead in 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jamesbroughel/2023/12/29/artificial-intelligence-trends-to-watch-in-2024/",
-      "originalUrl": "https://www.forbes.com/sites/jamesbroughel/2023/12/29/artificial-intelligence-trends-to-watch-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/658d83e5b7e68a7de89c3f79/0x0.jpg?format=jpg&crop=6240,2925,x0,y219,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jamesbroughel/2023/12/29/artificial-intelligence-trends-to-watch-in-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesbroughel/2023/12/29/artificial-intelligence-trends-to-watch-in-2024/amp/",
-      "publishedDateTime": "2023-12-29T07:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

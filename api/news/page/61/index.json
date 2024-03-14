@@ -2,6 +2,100 @@
   "page": 61,
   "value": [
     {
+      "path": "_news/2024-01-30-aclu-and-aclu-of-nj-file-friend-of-the-court-brief-in-challenge-to-wrongful-arrest-due-to-face-recognition-tech.md",
+      "title": "ACLU and ACLU of NJ File Friend-of-the-Court Brief in Challenge to Wrongful Arrest due to Face Recognition Tech",
+      "excerpt": "NEWARK – Today, the American Civil Liberties Union of New Jersey and the ACLU filed an amicus brief in support of Nijeer Parks – who was wrongfully arrested in 2019 following police reliance on a false match by face recognition technology. The ACLU’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aclu.org/press-releases/aclu-and-aclu-of-nj-file-friend-of-the-court-brief-in-challenge-to-wrongful-arrest-due-to-face-recognition-tech",
+      "originalUrl": "https://www.aclu.org/press-releases/aclu-and-aclu-of-nj-file-friend-of-the-court-brief-in-challenge-to-wrongful-arrest-due-to-face-recognition-tech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.aclu.org/wp-content/themes/aclu-wp/img/issues/press-release.jpg",
+          "width": 526,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-29T18:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Aclu.org",
+        "domain": "aclu.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-30-ai-companies-will-be-required-to-report-safety-tests-to-us-government.md",
+      "title": "AI Companies Will Be Required to Report Safety Tests to U.S. Government",
+      "excerpt": "(WASHINGTON) — The Biden Administration will start implementing a new requirement for the developers of major artificial intelligence systems to disclose their safety test results to the government. The White House AI Council is scheduled to meet Monday ...",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/6589627/ai-safety-tests-reporting/",
+      "originalUrl": "https://time.com/6589627/ai-safety-tests-reporting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2024/01/GettyImages-1754343700.jpg?quality=85",
+          "width": 5921,
+          "height": 3947,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-29T17:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-30-shortwave-email-client-will-show-ai-powered-summaries-automatically.md",
       "title": "Shortwave email client will show AI-powered summaries automatically",
       "excerpt": "The startup introduced AI-powered summaries last year, but you had to tap a button to generate that summary. Now, with the new instant summary feature, the client shows the gist of an email or a thread in one sentence automatically. You can tap on that ...",
@@ -1127,92 +1221,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-29-skusat-k-to-have-centre-for-ai-machine-learning.md",
-      "title": "SKUSAT-K to have centre for AI, machine learning",
-      "excerpt": "The Council gave in-principle approvals to various agenda points presented during the meeting including the setting up of Centre of Artificial Intelligence and Machine Learning in Agriculture (CAIML); SKUAST-K Innovation, Incubation and Entrepreneurship ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tribuneindia.com/news/j-k/skusat-k-to-have-centre-for-ai-machine-learning-585307",
-      "originalUrl": "https://www.tribuneindia.com/news/j-k/skusat-k-to-have-centre-for-ai-machine-learning-585307",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.tribuneindia.com/Content/images/Homepage_Assets/whatsapp.png",
-          "width": 360,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.tribuneindia.com/news/j-k/skusat-k-to-have-centre-for-ai-machine-learning-585307",
-      "cdnAmpWebUrl": "https://m-tribuneindia-com.cdn.ampproject.org/c/s/m.tribuneindia.com/news/j-k/skusat-k-to-have-centre-for-ai-machine-learning-585307",
-      "publishedDateTime": "2024-01-29T02:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tribune",
-        "domain": "tribuneindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-29-app-scans-users-face-monitors-voice-for-signs-of-anxiety-depression.md",
-      "title": "App scans user's face, monitors voice for signs of anxiety, depression",
-      "excerpt": "Artificial intelligence is being used more often in daily life including in healthcare. One app, Together by Renee, is being marketed as a way to make healthcare more manageable. One of the app ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wral.com/story/app-scans-user-s-face-monitors-voice-for-signs-of-anxiety-depression/21258121/",
-      "originalUrl": "https://www.wral.com/story/app-scans-user-s-face-monitors-voice-for-signs-of-anxiety-depression/21258121/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wwwcache.wral.com/asset/lifestyles/healthteam/2024/01/29/21258613/TOGETHER_BY_RENEE2-DMID1-61rv3iggq-640x480.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.wral.com/amp/21258121/",
-      "cdnAmpWebUrl": "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/21258121/",
-      "publishedDateTime": "2024-01-29T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL",
-        "domain": "wral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

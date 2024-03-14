@@ -117,6 +117,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Google’s Gemini AI now refuses to answer election questions"
+    excerpt: "Like many of us, Google Gemini is tired of politics. Reuters reports that Google has restricted the chatbot from answering questions about the upcoming US election, and instead, it will direct users to Google Search."
+    publishedDateTime: 2024-03-13T17:40:00Z
+    webUrl: "https://arstechnica.com/gadgets/2024/03/no-politics-google-disables-election-related-questions-for-gemini/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2023/12/gemini_header-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Explained: How the AI that drives ChatGPT will move into physical world"
     excerpt: "Like chatbots and image generators, this robotics technology learns its skills by analysing enormous amounts of digital data"
     publishedDateTime: 2024-03-12T16:54:00Z
@@ -128,20 +142,6 @@ related:
       name: Business Standard
       domain: business-standard.com
     quality: 56
-  - title: "This AI malware worm is capable of turning ChatGPT against you"
-    excerpt: "Forget about AI taking over the world - a new study shows how AI can be used against us to steal our data and spread propaganda."
-    publishedDateTime: 2024-03-08T22:34:00Z
-    webUrl: "https://bgr.com/tech/this-ai-malware-worm-is-capable-of-turning-chatgpt-against-you/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 54
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2024/03/AI-Malware.jpg?quality=82&strip=all"
-        width: 2000
-        height: 1119
-        isCached: true
   - title: "7 Tips To Make You a Google Gemini Expert"
     excerpt: "When it comes to getting text out of Gemini, the simplest method is the Copy option, which you’ll find behind the three dots at the end of every answer. You can then paste Gemini’s response into a web form, a document, an email, an instant message, or whatever you like."
     publishedDateTime: 2024-03-12T10:30:00Z

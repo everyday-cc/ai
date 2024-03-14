@@ -2,6 +2,92 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2024-02-02-how-artificial-intelligence-is-improving-research.md",
+      "title": "How Artificial Intelligence is improving research",
+      "excerpt": "Artificial Intelligence research tools are becoming increasingly ... capabilities and has the potential to drive innovation in various fields such as finance, healthcare, and marketing. To effectively use AI tools for data analysis, researchers must ...",
+      "sourceUrl": null,
+      "webUrl": "https://punchng.com/how-artificial-intelligence-is-improving-research/",
+      "originalUrl": "https://punchng.com/how-artificial-intelligence-is-improving-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.punchng.com/wp-content/uploads/2019/01/31111416/artificial-intelligence-e1548929675751.jpg",
+          "width": 800,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://punchng.com/how-artificial-intelligence-is-improving-research/?amp",
+      "cdnAmpWebUrl": "https://punchng-com.cdn.ampproject.org/c/s/punchng.com/how-artificial-intelligence-is-improving-research/?amp",
+      "publishedDateTime": "2024-02-02T01:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Punch Newspapers",
+        "domain": "punchng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-02-a-sleeker-facial-recognition-technology-tested-on-michelangelos-david.md",
+      "title": "A sleeker facial recognition technology tested on Michelangelo’s David",
+      "excerpt": "New facial recognition technology replaces lenses with a metallic surface for simple, compact and cost-effective identification systems. During a demonstration, the technology correctly identified Michelangelo’s David,",
+      "sourceUrl": null,
+      "webUrl": "https://www.acs.org/pressroom/presspacs/2024/february/sleeker-facial-recognition-technology-tested-on-michelangelos-david.html",
+      "originalUrl": "https://www.acs.org/pressroom/presspacs/2024/february/sleeker-facial-recognition-technology-tested-on-michelangelos-david.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.acs.org/pressroom/presspacs/2024/february/sleeker-facial-recognition-technology-tested-on-michelangelos-david/_jcr_content/image.scale.small.jpg/1706895432431.jpg",
+          "width": 600,
+          "height": 487,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-02T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "C&EN",
+        "domain": "acs.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-02-ai-therapy-and-icu-training-a-first-look-at-health-apps-for-apple-vision-pro.md",
       "title": "AI therapy and ICU training: A first look at health apps for Apple Vision Pro",
       "excerpt": "The company connected STAT with researchers from Cedars-Sinai and Boston Children’s Hospital who have developed applications that transform the headset into an AI powered chatbot that offers otherworldly therapy sessions or a virtual guide that can train ...",
@@ -1101,110 +1187,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-02-marketing-powered-by-ai-how-marketingbiz-changed-the-game-forever.md",
-      "title": "Marketing Powered by AI: How Marketing.biz Changed The Game Forever",
-      "excerpt": "Marketing.biz, a pioneering force in the digital marketing landscape, has consistently provided exceptional, free marketing resources to",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/marketing-powered-by-ai-how-marketing-biz-changed-the-game-forever-1033021576",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/marketing-powered-by-ai-how-marketing-biz-changed-the-game-forever-1033021576",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/mmstudio-images/gallery/jmhb0yuLYbf1hqXstoOd2g2l0mP2/1706701733367-0.jpg",
-          "width": 800,
-          "height": 522,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-01T16:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2024-02-01-first-truly-open-source-llm-from-ai2-to-drive-critical-shift-in-ai-development.md",
-      "title": "First ‘truly’ open source LLM from AI2 to drive ‘critical shift’ in AI development",
-      "excerpt": "The non-profit Allen Institute for AI (AI2) announced today that it has introduced OLMo, which it calls the first 'truly' open source LLM.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/first-truly-open-source-llm-from-ai2-to-drive-critical-shift-in-ai-development/",
-      "originalUrl": "https://venturebeat.com/ai/first-truly-open-source-llm-from-ai2-to-drive-critical-shift-in-ai-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/02/Untitled-design-2024-02-01T100255.565.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-01T15:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
         "AI"
       ]
     }

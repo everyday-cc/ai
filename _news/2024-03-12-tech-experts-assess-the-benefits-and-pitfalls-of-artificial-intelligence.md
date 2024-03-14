@@ -20,21 +20,21 @@ topics:
   - AI
 
 related:
-  - title: "Tech Down as AI Boom Stalls -- Tech Roundup"
-    excerpt: "Nvidia shares fell by almost 5% but remained about 80% higher for the year to date. Marvell Technology shares fell by 10% as the chip maker's artificial-intelligence earnings lagged some investors' expectations. Apple has reversed course on its decision to ..."
-    publishedDateTime: 2024-03-08T22:35:00Z
-    webUrl: "https://www.marketwatch.com/story/tech-down-as-ai-boom-stalls-tech-roundup-d53ac4dd"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/tech-down-as-ai-boom-stalls-tech-roundup-d53ac4dd"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-down-as-ai-boom-stalls-tech-roundup-d53ac4dd"
+  - title: "Quantum Weirdness and the Mind Demons of AI"
+    excerpt: "But recently, with the emergence of advanced large language models (LLMs), I've started to wonder if we're on the cusp of a shift even more bold and transformative than the one unleashed by quantum mechanics a century ago."
+    publishedDateTime: 2024-03-12T15:16:00Z
+    webUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202403/quantum-weirdness-and-the-mind-demons-of-ai"
+    ampWebUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202403/quantum-weirdness-and-the-mind-demons-of-ai?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-digital-self/202403/quantum-weirdness-and-the-mind-demons-of-ai?amp"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 89
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2024-03/QuantumMind.jpeg.jpg?itok=jzR3lWv6"
+        width: 1528
+        height: 800
         isCached: true
 
 secured: "9crM1wtELLbl+67Ck14caHphtlKanNQGk8Sv+uxQFTZfUWK6XviKdlcL7pMNbVhJ4jKae8+M2mb7/7v/ZVG9e/Loh4HGIVmgBnomSAx9Uu0HWwpHkcCEVoq1WIUcaTi2g+vxRhiay0cOuPqTmbyz/1X265VZACwYKM0eGWFNZmBcAoeYplol1nKx+O5CJoiuAipljg59wVqkyDt4hr4R6NLf+H5vSS8veqL7IxxKIGVILoGxkW3woA9/EZgbOcvz8122I0a0Q9U0ZGAgtakB455VNYdmFAZxmXw/1FMz4j6eBBPsBxl8PCivZ5ltFK5niqYUTxo1fG11E206JBWSvmrxxQ76Xb1jmNgfmBYEa87mzr/E+oaImNa5jWUOlCU5lVyuUE+seEryRw7Uyh2XVimaSVtmL8vM9GCactytp5PLWtcBkqsGoL3MCyFDUc38isgyYB5EhIWXtka7tXKeaOCEguEtEPDSv+pyP0smENFOOl40p3Q3Df9XhQwcqEEp5WEIkBkYkF9g76uvTlTFmQ==;AKNBQHVJR3LA1cw4uIDhBw=="

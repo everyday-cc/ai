@@ -69,20 +69,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Everyone in facial recognition wants to impress US civil rights commission"
-    excerpt: "More than a dozen people met this week with the U.S. Civil Rights Commission to talk about how facial recognition can impact the core lives of Americans."
-    publishedDateTime: 2024-03-08T22:38:00Z
-    webUrl: "https://www.biometricupdate.com/202403/everyone-in-facial-recognition-wants-to-impress-us-civil-rights-commission"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 37
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/14134710/facial-recogntiion-street-crowd-scaled.jpg"
-        width: 2048
-        height: 1152
-        isCached: true
   - title: "CP Foods Earns Recognition for Rights Protection and Gender Equality on International Women's Day"
     excerpt: "Charoen Pokphand Foods Public Company Limited (CP Foods) has received two awards in recognition as the private organization's dedication to rights protection and the promotion of gender equality throughout the organization on International Women's Day 2024."
     publishedDateTime: 2024-03-11T08:42:00Z

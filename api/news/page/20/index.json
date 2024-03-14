@@ -2,6 +2,102 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2024-02-27-ai-momentum-is-underpriced-in-the-options-market-says-bank-of-america.md",
+      "title": "AI momentum is underpriced in the options market says Bank of America",
+      "excerpt": "Buying Nvidia call options remains a good way to profit from gains in the AI chipmaker’s share price because volatility is being undervalued, according to Bank of America. In a note published Tuesday, the BofA global equity derivatives team observed that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/ai-momentum-is-underpriced-in-the-options-market-says-bank-of-america-e2a0a24f",
+      "originalUrl": "https://www.marketwatch.com/story/ai-momentum-is-underpriced-in-the-options-market-says-bank-of-america-e2a0a24f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-65097578/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/ai-momentum-is-underpriced-in-the-options-market-says-bank-of-america-e2a0a24f",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ai-momentum-is-underpriced-in-the-options-market-says-bank-of-america-e2a0a24f",
+      "publishedDateTime": "2024-02-27T12:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2024-02-27-the-artificial-intelligence-glossary.md",
+      "title": "The Artificial Intelligence Glossary",
+      "excerpt": "Artificial intelligence is dominating conversations across ... including intent and sentiment. Neural Network: A means of machine learning that mimics the human brain, and includes the ability for multiple layers of training to occur simultaneously.",
+      "sourceUrl": null,
+      "webUrl": "https://www.law.com/legaltechnews/2024/02/27/the-artificial-intelligence-glossary/",
+      "originalUrl": "https://www.law.com/legaltechnews/2024/02/27/the-artificial-intelligence-glossary/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.law.com/contrib/content/uploads/sites/397/2023/03/Brain-Lightbulb-767x633.jpg",
+          "width": 767,
+          "height": 633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-27T12:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Law",
+        "domain": "law.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-27-superhuman-launches-ai-powered-instant-replies.md",
       "title": "Superhuman launches AI-powered instant replies",
       "excerpt": "Email startup Superhuman is launching an AI-powered instant replies feature today with the company looking to double down in AI-fueled functionality this year. The feature gives you three contextual replies as options to quickly respond to an email.",
@@ -1065,83 +1161,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-27-us-can-house-entire-supply-chain-for-advanced-chips-commerce-dept.md",
-      "title": "US can house 'entire' supply chain for advanced chips: Commerce Dept",
-      "excerpt": "US Commerce Secretary Gina Raimondo expressed confidence Monday that the country can house the entire silicon supply chain for making advanced chips, including tech that is key for artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2024-02-house-entire-chain-advanced-chips.html",
-      "originalUrl": "https://techxplore.com/news/2024-02-house-entire-chain-advanced-chips.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2024/us-commerce-secretary.jpg",
-          "width": 1280,
-          "height": 852,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2024-02-house-entire-chain-advanced-chips.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2024-02-house-entire-chain-advanced-chips.amp",
-      "publishedDateTime": "2024-02-26T20:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-27-artificial-intelligence-used-to-cut-down-on-emergency-response-times.md",
-      "title": "Artificial Intelligence used to cut down on emergency response times",
-      "excerpt": "SAN JOSE, Calif. - Artificial Intelligence, also known as AI, has blasted onto the scene with concerning results and discussions about federal oversight and regulation. However, a Silicon Valley ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ktvu.com/news/artificial-intelligence-used-to-cut-down-on-emergency-response-times",
-      "originalUrl": "https://www.ktvu.com/news/artificial-intelligence-used-to-cut-down-on-emergency-response-times",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.ktvu.com/news/artificial-intelligence-used-to-cut-down-on-emergency-response-times.amp",
-      "cdnAmpWebUrl": "https://www-ktvu-com.cdn.ampproject.org/c/s/www.ktvu.com/news/artificial-intelligence-used-to-cut-down-on-emergency-response-times.amp",
-      "publishedDateTime": "2024-02-26T19:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KTVU",
-        "domain": "ktvu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

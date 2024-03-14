@@ -82,6 +82,20 @@ related:
         width: 1232
         height: 928
         isCached: true
+  - title: "EU approves artificial intelligence law"
+    excerpt: "Legislators in the European Union granted approval to the 27-nation bloc's artificial intelligence law on Wednesday, paving the way for what it describes as its world-leading regulations to come into force later this year."
+    publishedDateTime: 2024-03-13T19:24:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202403/14/WS65f1f104a31082fc043bc812.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202403/14/65f23a61a31082fc2b6a6687.jpeg"
+        width: 1013
+        height: 675
+        isCached: true
   - title: "EU Parliament Approves Artificial Intelligence Act"
     excerpt: "The European Parliament approved today the Artificial Intelligence act, the world’s first AI legislation aiming to put safeguards on a new type of technology that’s been evolving at a very fast pace."
     publishedDateTime: 2024-03-13T15:36:00Z
@@ -95,6 +109,20 @@ related:
       - url: "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2022/03/European-Union-flag.jpg"
         width: 1024
         height: 577
+        isCached: true
+  - title: "New UK AI (Regulation) Bill – Potential step forward to the statutory regulation of AI systems in the UK"
+    excerpt: "Amidst the backdrop of the recent release of the close-to-final EU AI Act and the UK government’s response to the AI White Paper, discussions regarding the need of AI regulations in the UK are gaining momentum. The timely introduction of the Artificial ..."
+    publishedDateTime: 2024-03-13T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/new-uk-ai-regulation-bill-potential-4876210/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 22
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15723_926.jpg"
+        width: 1200
+        height: 900
         isCached: true
   - title: "Europe passes world’s first major act to regulate AI"
     excerpt: "The European Union Parliament made history on Wednesday by approving the world's inaugural comprehensive regulatory framework for artificial intelligence."

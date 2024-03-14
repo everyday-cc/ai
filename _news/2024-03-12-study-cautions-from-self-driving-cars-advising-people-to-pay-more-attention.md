@@ -20,9 +20,9 @@ topics:
 
 related:
   - title: "Arm unveils first chip design to power self-driving cars"
-    excerpt: "Essential digital access to quality FT journalism on any device. All discounts based on monthly full price over contract term. Cancel subscription renewal anytime. Complete digital access to quality FT journalism with expert analysis from industry leaders ..."
-    publishedDateTime: 2024-03-13T13:31:00Z
-    webUrl: "https://www.ft.com/content/e1b7641c-afaa-44ff-9de4-0d82f861a354"
+    excerpt: "Arm has unveiled its first automotive designs capable of powering self-driving cars as the UK-based chip designer seeks to boost growth beyond the mobile processors for which it is best known."
+    publishedDateTime: 2024-03-13T13:16:00Z
+    webUrl: "https://www.ft.com/content/e1b7641c-afaa-44ff-9de4-0d82f861a354?shareType=nongift"
     type: article
     provider:
       name: The Financial Times

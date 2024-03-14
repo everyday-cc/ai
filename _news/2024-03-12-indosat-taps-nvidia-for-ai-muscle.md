@@ -111,20 +111,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "What you need to know about Nvidia and the AI chip arms race"
-    excerpt: "But Nvidia faces competitors eager to take a share of the chip market and businesses that want to lessen their reliance on the company. Intel plans to launch a new AI chip this year, Meta wants to use its own custom chip at its data centers and Google has developed Cloud Tensor Processing Units, which can be used to train AI models."
-    publishedDateTime: 2024-03-08T22:18:00Z
-    webUrl: "https://www.marketplace.org/2024/03/08/what-you-need-to-know-about-nvidia-and-the-ai-chip-arms-race/"
-    type: article
-    provider:
-      name: Marketplace
-      domain: marketplace.org
-    quality: 56
-    images:
-      - url: "https://www.marketplace.org/wp-content/uploads/2024/03/Nvidia.jpg?fit=2800%2C1884&w=1200"
-        width: 1200
-        height: 807
-        isCached: true
   - title: "Chip giant Nvidia sued by authors over AI use of copyrighted work"
     excerpt: "Nvidia has been sued by three authors who said that the company used their copyrighted books without permission to train its NeMo AI platform. According to a report by news agency Reuters, the authors Brian Keene, Abdi Nazemian and Stewart O'Nan said that ..."
     publishedDateTime: 2024-03-11T07:44:00Z
@@ -336,6 +322,15 @@ related:
     provider:
       name: Techopedia
       domain: techopedia.com
+    quality: 19
+  - title: "Nvidia shares pose warning to investors ahead of key AI conference"
+    excerpt: "But the world's biggest AI-chip maker is starting to exhibit moves that could have even bigger implications for investors and the broader tech sector. Nvidia shares have added more than $1 trillion in value this year, a staggering performance for a stock ..."
+    publishedDateTime: 2024-03-13T23:04:00Z
+    webUrl: "https://www.thestreet.com/investing/stocks/nvidia-shares-pose-warning-to-investors-ahead-of-key-ai-conference"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
     quality: 19
   - title: "NRG Media Has Embraced AI-Based Tools"
     excerpt: "Headquartered in the Midwest, NRG provides content and digital marketing services through 36 radio stations to listeners and advertisers in Nebraska, Iowa, Illinois and Wisconsin. One way NRG uses AI is to create videos for clients using Waymark technology."

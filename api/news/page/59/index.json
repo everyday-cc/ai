@@ -2,6 +2,83 @@
   "page": 59,
   "value": [
     {
+      "path": "_news/2024-01-31-china-challenges-the-west-for-driverless-car-supremacy.md",
+      "title": "China challenges the west for driverless car supremacy",
+      "excerpt": "In Wuhan, 500 robotaxis, mostly run by Baidu, China’s rival to Google ... according to Waymo, the self-driving car developer of Google’s parent company Alphabet. Waymo told the Financial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/3a649978-69df-46eb-94c8-eee23a69e6bb",
+      "originalUrl": "https://www.ft.com/content/3a649978-69df-46eb-94c8-eee23a69e6bb",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-31T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-31-do-deep-learning-tools-outperform-humans-in-diagnosing-breast-cancer-via-ultrasound-imaging.md",
+      "title": "Do deep learning tools outperform humans in diagnosing breast cancer via ultrasound imaging?",
+      "excerpt": "In a recent study published in the journal npj Precision Oncology, researchers conducted a systematic review to examine the accuracy of deep learning (DL) in diagnosing breast cancer using ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20240131/Do-deep-learning-tools-outperform-humans-in-diagnosing-breast-cancer-via-ultrasound-imaging.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20240131/Do-deep-learning-tools-outperform-humans-in-diagnosing-breast-cancer-via-ultrasound-imaging.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_770566_17067110716033462.jpg",
+          "width": 2000,
+          "height": 1124,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-31T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-31-engineers-unveil-new-patch-that-can-help-people-control-robotic-exoskeletons.md",
       "title": "Engineers unveil new patch that can help people control robotic exoskeletons",
       "excerpt": "In lab experiments, the researchers showed that humans could use these devices to operate robotic exoskeletons ... outside equipment to give people more control,\" said Jianliang Xiao, associate ...",
@@ -1111,109 +1188,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-30-how-ai-can-enhance-your-resume-in-2024.md",
-      "title": "How AI Can Enhance Your Résumé In 2024",
-      "excerpt": "Clarissa Windham-Bradstock is CEO/Chief People Officer of Any Lab Test Now, a leading national retail healthcare and lab testing franchise.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/01/30/how-ai-can-enhance-your-rsum-in-2024/",
-      "originalUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/01/30/how-ai-can-enhance-your-rsum-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65b7cd1c8231c891e67c960b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1355,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/01/30/how-ai-can-enhance-your-rsum-in-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbeshumanresourcescouncil/2024/01/30/how-ai-can-enhance-your-rsum-in-2024/amp/",
-      "publishedDateTime": "2024-01-30T12:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-30-ai-and-ei-balancing-empathy-and-artificial-intelligence-in-marketing.md",
-      "title": "AI And EI: Balancing Empathy And Artificial Intelligence In Marketing",
-      "excerpt": "2. Ensure that you have a seasoned team that knows how to be judicious and scrutinize when and how much to use your AI tools and when to balance that with human intelligence, forethought and empathy. Integrating AI effectively can and should be a means to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2024/01/30/ai-and-ei-balancing-empathy-and-artificial-intelligence-in-marketing/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2024/01/30/ai-and-ei-balancing-empathy-and-artificial-intelligence-in-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6453ca7bf8a3c5db599c02ff/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 855,
-          "height": 570,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2024/01/30/ai-and-ei-balancing-empathy-and-artificial-intelligence-in-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2024/01/30/ai-and-ei-balancing-empathy-and-artificial-intelligence-in-marketing/amp/",
-      "publishedDateTime": "2024-01-30T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

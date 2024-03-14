@@ -39,6 +39,20 @@ related:
         width: 860
         height: 520
         isCached: true
+  - title: "OpenAI’s Sora text-to-video AI model will be available later this year"
+    excerpt: "OpenAI confirmed Sora would launch publicly this year without revealing a firm release date or price for the text-to-video AI tool."
+    publishedDateTime: 2024-03-13T20:05:00Z
+    webUrl: "https://bgr.com/tech/openais-sora-text-to-video-ai-model-will-be-available-later-this-year/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2024/02/OpenAI-Sora.jpg?quality=82&strip=all"
+        width: 2178
+        height: 1221
+        isCached: true
 
 secured: "0p1ASmoYKFeytMZ7a9lNu7jMjpcVOu5zt5iliVaq9U8mEeIZzFIpgh9/UhYVCqSZbwzXwQnNzd8e+8JxqHxTyhVnN6X4O1A9OCoEcBBRa7LKIbvctjTERzpIXH3JM5pxRWewQ17OApc5c3fK2x5a35itZDWvCFVaWU8Kube8HSrcdLfJ2zBEy8QR58tGaFMmbLFeKyconLQp0WhOvew8gy27mv/u72xXaDGSYisu8uLUJcSMSmL9OBqmIotTdjjcmEN1J2M2jeb1gpPAcJWvwemFnN0RQP8fthPhD5CMlfllnAdoWbU0trujmYb6mnXWz4N+QIyC973cUHHY7FMYOLw0UOBcHrupdeDXfbocXu53gBb60tyl2N6S0wIEvE63mEdhB8e1GCxU2d9AklCMhmuWapM+YiYEV+jNVsQZ6jVN9zHCWU7WEZFSTqeuFqcU1pcstEn7pCa2UqBNZKJh8NmPVzJG1u109ftIanht2t2yEixRI8V52Q89Ne0zIWzlnGRyo6jn+yzxKWwaBApTwg==;JCMr18wSwqfDiQbsCz5zOg=="
 ---

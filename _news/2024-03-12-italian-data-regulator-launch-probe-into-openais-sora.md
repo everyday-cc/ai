@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "OpenAI’s Sora text-to-video AI model will be available later this year"
+    excerpt: "OpenAI confirmed Sora would launch publicly this year without revealing a firm release date or price for the text-to-video AI tool."
+    publishedDateTime: 2024-03-13T20:05:00Z
+    webUrl: "https://bgr.com/tech/openais-sora-text-to-video-ai-model-will-be-available-later-this-year/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 37
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2024/02/OpenAI-Sora.jpg?quality=82&strip=all"
+        width: 2178
+        height: 1221
+        isCached: true
   - title: "Researchers break into OpenAI's and Google's AI models revealing hidden secrets"
     excerpt: "A team of less than fifteen researchers has managed to crack open OpenAI's and Google's AI models, revealing hidden secrets of the underlying technology."
     publishedDateTime: 2024-03-13T11:16:00Z

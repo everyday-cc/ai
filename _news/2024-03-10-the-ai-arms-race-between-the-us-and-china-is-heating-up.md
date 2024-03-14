@@ -41,6 +41,20 @@ related:
         width: 2105
         height: 1184
         isCached: true
+  - title: "Edge AI Devices Eye Lifetime Learning"
+    excerpt: "Helping artificial intelligence to adapt and learn, now and later."
+    publishedDateTime: 2024-03-12T16:03:00Z
+    webUrl: "https://cacm.acm.org/news/lifetime-learning-for-ai/"
+    type: article
+    provider:
+      name: acm.org
+      domain: acm.org
+    quality: 39
+    images:
+      - url: "https://cacm.acm.org/wp-content/uploads/2024/03/031224_University-of-Texas_rcjLLFrontiers.jpg"
+        width: 611
+        height: 552
+        isCached: true
   - title: "Akamai and Neural Magic Partner to Accelerate Deep Learning AI"
     excerpt: "Akamai Technologies (NASDAQ: AKAM), the cloud company that powers and protects life online, and Neural Magic, a developer of software that accelerates artificial intelligence (AI) workloads, today announced a strategic partnership intended to supercharge deep learning capabilities on Akamai's distributed computing infrastructure."
     publishedDateTime: 2024-03-12T11:51:00Z

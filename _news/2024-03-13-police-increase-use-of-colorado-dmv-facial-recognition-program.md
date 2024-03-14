@@ -53,20 +53,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Everyone in facial recognition wants to impress US civil rights commission"
-    excerpt: "More than a dozen people met this week with the U.S. Civil Rights Commission to talk about how facial recognition can impact the core lives of Americans."
-    publishedDateTime: 2024-03-08T22:38:00Z
-    webUrl: "https://www.biometricupdate.com/202403/everyone-in-facial-recognition-wants-to-impress-us-civil-rights-commission"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 37
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2023/02/14134710/facial-recogntiion-street-crowd-scaled.jpg"
-        width: 2048
-        height: 1152
-        isCached: true
   - title: "Cortland Student Government Association overturns decision, grants Turning Point USA recognition as official club"
     excerpt: "“The College’s recognition of Turning Point as an official club sends a huge message that universities cannot pick and choose which views are appropriate to allow on campus,” Legal Council at Alliance Defending Freedom Mathew Hoffmann said. “All students should have the freedom to express those views on campus.”"
     publishedDateTime: 2024-03-12T21:40:00Z

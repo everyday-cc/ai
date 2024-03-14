@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2024/03/in-ironic-t
 webUrl: "https://arstechnica.com/information-technology/2024/03/in-ironic-twist-midjourney-bans-rival-ai-firm-employees-for-scraping-its-image-data/"
 type: article
 quality: 60
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -51,6 +51,20 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 43
+  - title: "AI image-generator Midjourney blocks images of Biden and Trump as election looms"
+    excerpt: "The popular artificial intelligence image-generator Midjourney has started blocking its users from creating fake images of President Joe Biden and former President Donald Trump ahead of the upcoming U.S. presidential election, according to tests of the AI ..."
+    publishedDateTime: 2024-03-13T00:00:00Z
+    webUrl: "https://keyt.com/news/2024/03/13/ai-image-generator-midjourney-blocks-images-of-biden-and-trump-as-election-looms-2/"
+    type: article
+    provider:
+      name: KEYT
+      domain: keyt.com
+    quality: 34
+    images:
+      - url: "https://keyt.b-cdn.net/2023/08/nc312-combined-commercial-slate-860x484.jpg"
+        width: 860
+        height: 484
+        isCached: true
 
 secured: "pTwPurklJA+uiQf6Q3Oi1SVVL7ypPjWCUrEOQGK2zSfGZhy3eifPWFJ5rfS6NToFt+gnq0KaU93JTkeFE3ZJQFOrEo5CC1Vl4uiOYhEDwyjfGV7knHcTdkxs/KWkjWQAgBhJ0SBYeBLGQCsnvzaIXfJLy93gYyJk48bPecZFK4S0Dk31JRD5khxJKTqzFSZCRj2QvV5b3vnF+cKU4wxx9yRyxzmX8rOlNxYnOHAAn/CSY9sGvWZDnlN0rG4QtYr5xG8QTIoLc8LqfkYl3TlqVAD3uAGv7FsPdMfyctIn7V/s73jev0v4mw9seTYh9MWbmJ9lj7iWMvULOdTg4VJ+XcXCTAK9+Yzi496USyjA8j0=;pse+a/GOPmP4HoIrX4GMFw=="
 ---

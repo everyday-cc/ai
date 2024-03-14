@@ -95,6 +95,22 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "Elma man arrested on child porn charge after facial recognition technology used on photos from 2013"
+    excerpt: "An Elma man is facing a child pornography charge after facial recognition technology was used on photos that were from 2013, the U.S. Attorney’s office said Wednesday."
+    publishedDateTime: 2024-03-13T22:33:00Z
+    webUrl: "https://www.wivb.com/news/crime/elma-man-arrested-on-child-porn-charge-after-facial-recognition-technology-used-on-photos-from-2013/"
+    ampWebUrl: "https://www.wivb.com/news/crime/elma-man-arrested-on-child-porn-charge-after-facial-recognition-technology-used-on-photos-from-2013/amp/"
+    cdnAmpWebUrl: "https://www-wivb-com.cdn.ampproject.org/c/s/www.wivb.com/news/crime/elma-man-arrested-on-child-porn-charge-after-facial-recognition-technology-used-on-photos-from-2013/amp/"
+    type: article
+    provider:
+      name: WIVB-TV
+      domain: wivb.com
+    quality: 45
+    images:
+      - url: "https://www.wivb.com/wp-content/uploads/sites/97/2024/02/handcuffs-1-e1708525374419.jpg?w=1280"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "js0nhirhJY/CfRie9Xk1LOzUu+hmaPH/q29Q7X5lyZFT2F9hLbLmzSafinrRk9bkRtHia/5zQxep/e85Ap3BFOGCvD7SQ0gO8Id12HNzD/yk96Ku+xrPuTmCLM2sh2MjdRss0cAfBdYC4vtP/b5XKB67WonC3UZ78WbQ/M4iGFvzNL1svkp8WInUfUkfMZzKbXVJk2AgCIjw4/3F5rwX5fMjmLmaSMVAlOTh8KgjqxHwAPI6+YEoBAhQ2bgttw0lWCLoHm8L1HBbnchT8ev6cYji8itcVjCXSiYfIgp/d1j653x/NIC5rhDeqOnnJLTlXhCO2/rDQW06x4uL1m0g0b+zrb0O6wif2JoPb9ZxgkRfZxC7cqY+KFuI7lRSWbb78yj5RLxdU4jKdcBrsPX2JRXgCkxRTH+YBOweNZtTJPcpxja52cEYUqAjxQeowOukDky5LQlw3LDYMk/2yWrZafxK18QV1W/014hgey4T4x5BQCf5mOmqyObN9hwlRptauzob5vd+rzK/et7gMLtxvw==;b9p+1pJ8X3kStG2piFLXOA=="
 ---

@@ -95,6 +95,34 @@ related:
         width: 1232
         height: 928
         isCached: true
+  - title: "EU approves artificial intelligence law"
+    excerpt: "Legislators in the European Union granted approval to the 27-nation bloc's artificial intelligence law on Wednesday, paving the way for what it describes as its world-leading regulations to come into force later this year."
+    publishedDateTime: 2024-03-13T19:24:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202403/14/WS65f1f104a31082fc043bc812.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202403/14/65f23a61a31082fc2b6a6687.jpeg"
+        width: 1013
+        height: 675
+        isCached: true
+  - title: "New UK AI (Regulation) Bill – Potential step forward to the statutory regulation of AI systems in the UK"
+    excerpt: "Amidst the backdrop of the recent release of the close-to-final EU AI Act and the UK government’s response to the AI White Paper, discussions regarding the need of AI regulations in the UK are gaining momentum. The timely introduction of the Artificial ..."
+    publishedDateTime: 2024-03-13T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/new-uk-ai-regulation-bill-potential-4876210/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 22
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15723_926.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Europe passes world’s first major act to regulate AI"
     excerpt: "The European Union Parliament made history on Wednesday by approving the world's inaugural comprehensive regulatory framework for artificial intelligence."
     publishedDateTime: 2024-03-13T13:10:00Z
@@ -141,6 +169,6 @@ related:
       domain: apnews.com
     quality: 8
 
-secured: "E7GwQSgOb7bK80DVA+C7zyHhrAGlcFMdtwXw1TH0qTWBNsbFEUN2KpgM6XZozuj8btqt66VM0fyslV921+XVV/Yk/ueZOb+egZPep2XidBgiIWMwEs4p5Py+PPXzsl/X/zyssLDsJ0SU9h0TxiEnFE+N3xC/Y1Vbhet2YWWwbH2sMP328lB1OJo/Smi/Ofd4Q0uon4uuChRQ1y0JPR2jMjYjYzpBsAqeJ2C6GrWvs2o5GP0U8u55QHOYiTYda6hGXlxAAOPx6uyE1Wf2l0FhpO7YfGXA5SoH1ESZc8NdXSLheqsQYAzjvUsCv/mVmMwrfkFMftYOlmznixq5zWWwzEfX1CCifoW2r2paRJam3sI=;qFLPDOM0vPYDDVmjKJHQCw=="
+secured: "j/Elhi/27992VfRuFIUehoNcmFNC1Q2zHg6sWyMj3zkp3InqvJwOc/BXytYTamJS845Kl6za70XH1EJCwFqr40R8JSqU8Emd/IvCzQldu4N4Fo7kakbtqDvSigw1PAjl2ffpTSekfHXa15wvCia8ye99JdQF1FTS6sUvIFxm0vXyFSrImuIgN04XYGmF6Uonr65aaLTofh6EUIXtxgQ4m5/2WcVbTLo4PwZVR0j4DkUGW2V+ptrljwq0XCgLjcab4Fb7omsBtbm/4HCISgvTEmpzJKKI5qBP35/siEc/8ol5auUsw4Src7GNmPdjaJu8Yz4Fhhf2kA1j4aPZREVA1bKIlJROgYKBX3lJpRFsfpS5ew2WRzK3i2j/SONPFZueOmUid+XPkqvaDzOEuP7WtS10e+Jl/SI3ElHoXiUHZxPcT4/WFpGS+2w7Ic+8Lw2TOGuMCl3kbmtHulLPze3KISirDCu/4G7x+lRvx2xmrmzCsyqV4EmHTf2hBJlHiB9WWaRPUCkB879qSJkOCUJJjw==;BURokDmkhgX1rwPq5P7uFQ=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2024-03-13T20:28:00Z
 originalUrl: "https://www.thedailybeast.com/the-ai-doomers-have-infiltrated-washington"
 webUrl: "https://www.thedailybeast.com/the-ai-doomers-have-infiltrated-washington"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Meta AI
 
 images:
   - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1710358975/240314-Anslow-AI-Doomers-hero_srjagu"
@@ -39,6 +40,6 @@ related:
         height: 700
         isCached: true
 
-secured: "7nWunDmZ9cDZHSoiqJU+CZOE+qkyqn5pow++fnYXgzB9nf+S7k3k5V2sY4cuncPDDMgF7iZt519I+F4Fg/XglzIrYTpElFYVoiiKLwdwwtCBsP63YSbkeDHESAm2kgG0wraVUVcw/3q9bRKHlaC8y3M/EpOzFZzeYir33Gto0iPkubFjbEZPC7rHmO4PbCma8zyoEd9//m1sGxVjBoeLAN6hxQdbrzBsxhQoVfIOcBBUiipkRi64VrPwmQ8dsOs/5Iim1r3+GoLt46mk0CzmS+oFC+itEZiZMbFu33htpQ9iKfmNdrvNfQ+DzgoQajJTOB+av3Lv/bXUzbQ6gW9Ki4gRG17spe2UjxWagSK8HSI=;kM9qUxqW5B0VU9Fe5dEnzw=="
+secured: "iw9Y3HwXjTWpRWNr0E7rR4ybTEUpTotsVh99eb6HKN9RButqbFJf13djl6N2YTy3KqpNpBtrUuszjSBP3iG9hpoUcms4rpI8kfGcB9rS6dZxyFfaHLSR/63gt5eaV7lxRzSxKSJwhp4dkui5seFHonBsGW3omKDuS35VlPtnFXKs++EvN94DepmePWDzYo/qTytSYhiyK/t5eVYWpTcU6NSPkK+9npXnSwSu0cj/tTpOAMFCtq4GHzc3nW8lPJtBVDzbV9898arqcJE6Jkh0cYqwT3NLqi9/qCuGmG/ejHGsDjEo7BkW9DrQ5FTHMsbs3GJGmKsvy8h4K6C1poZFiN5MnhtArxU/USn4G+J4X0IBlGGZfdMUUM8sT01HbVMH9Z/OSfmqMPKB3qxwWEAm32AkDxiaSuIl7cEOuNrE/Nz65MCE9LVPmcB4e3paQDVI6mIV/VZNvYsTHG3+y9dJv93G47XUjpTbjSBZIGjhAujVkyQET8iuxERO+qcr8FAEm/Q1rVLbZ6a+IzN0Q4Cpug==;LvUXE8tUl9qvEp04HXQb/g=="
 ---
 

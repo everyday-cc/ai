@@ -53,6 +53,20 @@ related:
         width: 409
         height: 269
         isCached: true
+  - title: "2 Rising Fintech Stocks in Focus"
+    excerpt: "Fintech stocks Block Inc (NYSE:SQ) and PayPal Holdings Inc (NASDAQ:PYPL) are seeing high volume in the options pits. Both have attracted investors' attention lately, and today PayPal named Aaron J. Webster as Executive Vice President and Chief Enterprise Services Officer. SQ was last seen up 4.9%, while PYPL rises 3.9%."
+    publishedDateTime: 2024-03-13T06:56:00Z
+    webUrl: "https://www.schaeffersresearch.com/content/options/2024/03/13/2-rising-fintech-stocks-in-focus"
+    type: article
+    provider:
+      name: SchaeffersResearch.com
+      domain: schaeffersresearch.com
+    quality: 24
+    images:
+      - url: "https://schaeffers-cdn.s3.amazonaws.com/images/default-source/schaeffers-cdn-images/default-images/charts/bigstock-digital-virtual-screen-with-st-396064121.jpg?sfvrsn=98b3da06_4"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Stax founders launch new Orlando-based fintech Worth AI"
     excerpt: "Salman Rehmetullah and Suneera Madhani's fintech Worth AI aims to transform financial underwriting for small- and medium-sized business loans."
     publishedDateTime: 2024-03-12T10:00:00Z

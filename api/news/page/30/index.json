@@ -2,6 +2,94 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2024-02-21-uncovered-unknown-and-uncertain-guiding-ethics-in-the-age-of-ai.md",
+      "title": "‘Uncovered, unknown, and uncertain’: Guiding ethics in the age of AI",
+      "excerpt": "and nongovernmental organizations on novel questions concerning digital ethics. In a recent conversation with Yale News, Floridi discussed his work with the European Union to establish protections in the use of artificial intelligence, the center’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.yale.edu/2024/02/21/uncovered-unknown-and-uncertain-guiding-ethics-age-ai",
+      "originalUrl": "https://news.yale.edu/2024/02/21/uncovered-unknown-and-uncertain-guiding-ethics-age-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.yale.edu/sites/default/files/styles/opengraph_image/public/ynews-2024_02_01_yale_luciano_floridi_lavitt_z72_6039.jpg?itok=KDP4yDfC",
+          "width": 766,
+          "height": 402,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Yale Environment 360",
+        "domain": "yale.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-21-upenn-develops-optical-chip-to-process-complex-math-for-ai.md",
+      "title": "UPenn develops optical chip to process complex math for AI",
+      "excerpt": "Computing optically could cut the cost of AI: Prof. Nader Engheta. Engineers at the University of Pennsylvania (UPenn) have developed a new optical chip to perform the complex math essential to training AI. Its developers say that the chip has the ...",
+      "sourceUrl": null,
+      "webUrl": "https://optics.org/news/15/2/28",
+      "originalUrl": "https://optics.org/news/15/2/28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://optics.org/objects/news/thumb/15/2/28/UpennmanM.jpg",
+          "width": 476,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-21T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Optics",
+        "domain": "optics.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-21-employers-are-failing-women-on-healthcare-uk-research-shows.md",
       "title": "Employers Are Failing Women On Healthcare, U.K. Research Shows",
       "excerpt": "women workers being absent. Employers are sabotaging their own productivity and competitiveness by failing to provide female workers with adequate care and support for certain health conditions, according to new research based on the experiences of more ...",
@@ -1119,83 +1207,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-elon-musk-claims-first-human-brain-implant-neuralink-is-a-success-with-patient-zeros-mind-control-powers-unveiled.md",
-      "title": "Elon Musk claims first human brain implant Neuralink is a SUCCESS with ‘Patient Zero’s’ mind control powers unveiled",
-      "excerpt": "Musk claims the \"patient zero\" has progressed significantly and is now able to control a computer mouse ... limbs - or perhaps even completely new robotic bodies. The Tesla boss explained ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thesun.ie/tech/12246611/elon-musk-neuralink-successful-human-trial/",
-      "originalUrl": "https://www.thesun.ie/tech/12246611/elon-musk-neuralink-successful-human-trial/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thesun.ie/wp-content/uploads/sites/3/2024/02/elon-musk-billionaire-chief-executive-837875240.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-20T15:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Irish Sun",
-        "domain": "thesun.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-koch-industries-continues-to-accelerate-its-artificial-intelligence-initiative.md",
-      "title": "Koch Industries continues to accelerate its artificial intelligence initiative",
-      "excerpt": "Although Wichita-based Koch Industries' dozens of companies have used artificial intelligence for machine learning and predictive analytics for years, generative AI is a newer frontier for them, company officials say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/wichita/inno/stories/news/2024/02/20/koch-industries-artificial-intelligence-jobs-ai.html",
-      "originalUrl": "https://www.bizjournals.com/wichita/inno/stories/news/2024/02/20/koch-industries-artificial-intelligence-jobs-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-20T15:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

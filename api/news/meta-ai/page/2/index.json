@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-27-llamas-life-online-and-lessons-learned.md",
+      "title": "Llamas, Life Online, and Lessons Learned",
+      "excerpt": "The temptation for us in the news business is to blame the ills of social media and smartphones for the denigration of our national discourse and the devastation of our industry. But that narrative is not just incomplete—it’s dangerously self-serving. None of those problems happened without our complicity and, often, encouragement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/llamas-life-online-lessons-learned-074100160.html",
+      "originalUrl": "https://www.aol.com/news/llamas-life-online-lessons-learned-074100160.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_the_dispatch_253/9dd5c2bb2f7d48781cafe5dd1a94f248",
+          "width": 560,
+          "height": 373,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-27T09:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-27-recent-healthcare-related-artificial-intelligence-developments.md",
       "title": "Recent Healthcare-Related Artificial Intelligence Developments",
       "excerpt": "AI is here to stay. The development and use of artificial intelligence (“AI”) is rapidly growing in the healthcare landscape with no signs of slowing down. From a governmental perspective, many federal agencies are embracing the possibilities of AI.",
@@ -1439,58 +1482,6 @@
       "topics": [
         "AI",
         "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-21-gabs-racist-ai-chatbots-have-been-instructed-to-deny-the-holocaust.md",
-      "title": "Gab’s Racist AI Chatbots Have Been Instructed to Deny the Holocaust",
-      "excerpt": "In recent years it has thrived as a haven for people who have been kicked off mainstream platforms like Twitter, Instagram, and Facebook. As generative AI chatbots such as OpenAI’s ChatGPT have become popular, the right has increasingly claimed that the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/gab-ai-chatbot-racist-holocaust/",
-      "originalUrl": "https://www.wired.com/story/gab-ai-chatbot-racist-holocaust/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/65d512ac5503edf560835d2c/191:100/w_1280,c_limit/politics_gab_chatbot_extreme_racist.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-21T11:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
       ]
     }
   ],
