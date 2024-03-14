@@ -46,6 +46,34 @@ related:
       name: EuropaWire
       domain: europawire.eu
     quality: 24
+  - title: "Frisco police helping improve technology for self-driving 18-wheelers"
+    excerpt: "FRISCO, Texas - People may not be aware, but they have been sharing North Texas highways with self-driving big rigs. Autonomous trucks have been carrying freight in Texas since 2021 with a professional driver on board. Frisco police are helping the ..."
+    publishedDateTime: 2024-03-13T17:02:00Z
+    webUrl: "https://www.aol.com/news/frisco-police-helping-improve-technology-210230491.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 24
+    images:
+      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "California Cities Are Attempting To Wrestle Back Control Of The Streets From Self-Driving Car Companies"
+    excerpt: "Californians have had enough of self-driving cars running roughshod over two of their largest cities, and now their legislature is doing something about it. California Senate Bill 915 could allow cities to have a say in what happens on their own streets. Pretty novel idea, huh?"
+    publishedDateTime: 2024-03-13T17:15:00Z
+    webUrl: "https://jalopnik.com/california-cities-are-attempting-to-wrestle-back-contro-1851332177"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 8
+    images:
+      - url: "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/d36998c46b3cb7e099c828b81321ca2a.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "gxQXu8wq2iiLkuVbK8rVD/Juc0q4Yd7qUD2StIZLAts5q4wHpP0jQVv92GEW2xOx+f9vGbO7gSvkcLO4arIz8JQdymJ+m509WKTcks7IS7oGNyHGIvqhGE7qPNsgjZtaz/RH85MqmCI0Oo0QnNFNIJ8PS9PzNtJcdf2SA4fJiO9sJMTWMJEOI3kh3xo99EzwseM33loVi5WA8OFeKR3X0t75FMED5xFzBRPq761YCohEVuPlzxOTL6aVdBcIpWOHD2LfIKUSB+5SMgOa7vmBSjsy52O4kWnxxhpi4uwgZ/Zh5GKHgAUAfnzt8KyO8oq11Uq+eFuOx5Dy6MRLkRrcOSYJAobjhlskzrSl3n++43fTlatjaPdFHpafPWU6ovGjCxRMt4iaNR1aQUTirAPoOLoKpyRM5Y03lQckkayj7lWfNA5hEapNThjbX8PiWydbaoYsnLyeqhC1aRpGJEK6lFfqM5GP6ld4QPXAK3dZtFd81WjrZ+1h7IzJT+ustA2dZ8OqThvVgotCg7Hvna/iyA==;cPV+2J8XjasPeZuhg6DLIQ=="
 ---

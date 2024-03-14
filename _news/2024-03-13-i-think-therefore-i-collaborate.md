@@ -3,10 +3,10 @@ category: news
 title: "I Think, Therefore I Collaborate"
 excerpt: "And while this task have been on the radar for many years, we seem to at a proverbial inflection point and I believe the implications will ripple across both technology and humanity. This represents a significant departure from the rigid,"
 publishedDateTime: 2024-03-13T14:38:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202403/i-think-therefore-i-collaborate"
-webUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202403/i-think-therefore-i-collaborate"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/the-digital-self/202403/i-think-therefore-i-collaborate?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-digital-self/202403/i-think-therefore-i-collaborate?amp"
+originalUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202403/i-think-therefore-i-collaborate"
+webUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202403/i-think-therefore-i-collaborate"
+ampWebUrl: "https://www.psychologytoday.com/za/blog/the-digital-self/202403/i-think-therefore-i-collaborate?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-digital-self/202403/i-think-therefore-i-collaborate?amp"
 type: article
 quality: 24
 heat: 24
@@ -20,6 +20,6 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "XWqZEydzPREiJDa1pJQN1nr5cxTk+Gk2kv30X6bgjkaGXa6d0cx3nAdoxh2lOcGwORakn3ihe+9uggfkYSS7T/xFMRtwt9japGAs1Q3RJD4+8pJTsSUMVJY8d0Zc5uVIH+BAQAAGkb7LPHW3HJxjgoXcVolgYnMs3oAdiWgtDPM2dcEiHbradAMeSz/ki0J4BbIpwvfa9by5Q9mhwl94+BbZbdk8y9wOyxpnmKDPa+EW+OhyIdRPsELKtJZ6JHBUBunEPMiNmJ5O/9F+RlCVAw/E5hypT14GUpFpJJzsOZLBEe00nNwq3itdaRSFNFbeT05AZFhyjko07Fr+TIYAumWS0V/4fRq7YC628thNlHRgV6vqyw3WDH9MBNGwBL33i3H0wzqMJXmsq9ds1A2n+lP4U0U8qRS+cxHkBjom2wthy5qeLlbz3Ni9iai1esbifb12ZVXeBUbN1DbJwCsKYFn/IMYU7WT1J1cDYwEVY9BBc7jg2RdGoMzijpgRzvltUYCkba9od4i36l2vDzoVnQ==;E7E98kM51cNamZwMNWLaGQ=="
+secured: "8XbW6lmFu/lkA7KqdTnjT2z+M8oX0fo3VuXY+vDEsTYMiPJs7quqdI5YySZDq4FvgpNha7RiSvphqIFkMeMdPv6lejn2jkLu69YYk9nKE1ranX4fGFt5OujtWVvG9OZruaVGUcHNnVSnAmy3nFW9typB6kEgQHbNC8diDWq6YYfKFPAyMng1r1D3KHAO+J7PgZqECkrGFfl0tYh2e4ef2hnSwCClVEjbgCwuI54x2ZAExMBK/+6pNaMvMByLkJdtv8kRFuDbac6YIjoLE5xRWbgWgRsJjY1XexSklClqUINOmaKv42nZyI8AhjoTf8CCVUuilSA/iLO1avbBpJA0FRqgC5OdMajTpQiy8f326M6hhyIPDgRf4xHRI4zqsFJDs6ZgphU/PRBxLCeUsfy0q+lhxA/5O9K06zlgXUdv/T81JP0eoU2BSE04YfsXDknofJZi/L8V2ngurivGNRTFCmxcgdMLuPnQu3eVpxm5auKxVQmIbdyMG/X48E0AKYmI9Uw26XAFVrMtnjsx+Q7Vbg==;vIGFImvA5ugMlAZBMA3iQA=="
 ---
 

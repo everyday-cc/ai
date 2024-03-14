@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/set-up-cross-account
 webUrl: "https://aws.amazon.com/blogs/machine-learning/set-up-cross-account-amazon-s3-access-for-amazon-sagemaker-notebooks-in-vpc-only-mode-using-amazon-s3-access-points/"
 type: article
 quality: 67
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 811
     height: 441
     isCached: true
+
+related:
+  - title: "Gemma is now available in Amazon SageMaker JumpStart "
+    excerpt: "Today, we’re excited to announce that the&nbsp;Gemma model is now available for customers using&nbsp;Amazon SageMaker JumpStart.&nbsp;Gemma is a family of language models based on Google’s Gemini models, trained on up to 6 trillion tokens of text. The Gemma family consists of two sizes: a 7 billion parameter"
+    publishedDateTime: 2024-03-14T00:33:34Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/gemma-is-now-available-in-amazon-sagemaker-jumpstart/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 104
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/03/14/gemma-sagemaker-jumpstart-1121x630.jpg"
+        width: 1121
+        height: 630
+        isCached: true
 
 secured: "vjZMtR21elgHfFvGp10ocipabOdV5eqY5qC1vrbf/lSC2YGAlfvkHCipJlwrM7FNcx61JlFitox19SUqH1UJ2ajcETbAqsUZZauKwfeo2M0fQncnUjjue3YZrDL2K9yycKQenmwS1hGChVOEpVRRrv6MsSRaMZvFXgX2aB9WcbSnAcZ4s42ThEzN/EbRKzO4hTZRUp2iIE8s3oZ+zHhaYXnpWPouxD0EmOkwJjmx354DXk68sM7q3QZvHrA0CVbt0n8VIAqAIvaNQ5u2nXdD70PYl4mSrVr6HeaPmwN2I51EjlWh+vHPojfXRLEBy0cQyrlUFCgEDLLB2lQl6nCE1jkBZrfIWWTt1fEnyqb89wc=;q04x+kPUS1zt//Toy+AKew=="
 ---

@@ -2,6 +2,336 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2024-02-14-gemini-or-bard-post-chatgpt-companies-grapple-with-the-art-of-naming-ai.md",
+      "title": "Gemini or Bard? Post-ChatGPT, companies grapple with the art of naming AI",
+      "excerpt": "Naming any technology is difficult, but AI is doubly so. It has to evoke a sense of the cutting edge, be at once both sophisticated and safe, perhaps even friendly. A good name leaves room for the technology to grow and change without rendering its moniker obsolete or inaccurate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/opinion/gemini-or-bard-post-chatgpt-companies-grapple-with-the-art-of-naming-ai-12263161.html",
+      "originalUrl": "https://www.moneycontrol.com/news/opinion/gemini-or-bard-post-chatgpt-companies-grapple-with-the-art-of-naming-ai-12263161.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2024/02/chatbot-AI-bbo.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/opinion/gemini-or-bard-post-chatgpt-companies-grapple-with-the-art-of-naming-ai-12263161.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/gemini-or-bard-post-chatgpt-companies-grapple-with-the-art-of-naming-ai-12263161.html/amp",
+      "publishedDateTime": "2024-02-14T06:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-14-growing-need-for-ai-and-machine-learning-talent-an-unavoidable-shift-in-the-tech-landscape.md",
+      "title": "Growing Need for AI and Machine Learning Talent: An Unavoidable Shift in the Tech Landscape",
+      "excerpt": "The demand for AI and Machine Learning talent is skyrocketing due to the rapid integration of these technologies in various industries. Despite the challenges in meeting this demand, the future is bright for professionals entering this field,",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/technology/2801791-growing-need-for-ai-and-machine-learning-talent-an-unavoidable-shift-in-the-tech-landscape",
+      "originalUrl": "https://www.devdiscourse.com/article/technology/2801791-growing-need-for-ai-and-machine-learning-talent-an-unavoidable-shift-in-the-tech-landscape",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/07_02_2024_18_22_46_5632179.png?width=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2801791-growing-need-for-ai-and-machine-learning-talent-an-unavoidable-shift-in-the-tech-landscape?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2801791-growing-need-for-ai-and-machine-learning-talent-an-unavoidable-shift-in-the-tech-landscape?amp",
+      "publishedDateTime": "2024-02-14T04:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-14-sonata-software-bolsters-adoption-of-generative-ai-solutions-with-aws.md",
+      "title": "Sonata Software Bolsters Adoption of Generative AI Solutions With AWS",
+      "excerpt": "US], February 14: Sonata Software (NSE: SONATSOFTW), (BSE: 532221), a leader in Modernization Engineering, today announced the integration of Amazon Bedrock and related services as an integral part of its Harmoni.",
+      "sourceUrl": null,
+      "webUrl": "https://theprint.in/ani-press-releases/sonata-software-bolsters-adoption-of-generative-ai-solutions-with-aws/1965588/",
+      "originalUrl": "https://theprint.in/ani-press-releases/sonata-software-bolsters-adoption-of-generative-ai-solutions-with-aws/1965588/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.theprint.in/wp-content/uploads/2024/02/ANI-20240214044355.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://theprint.in/ani-press-releases/sonata-software-bolsters-adoption-of-generative-ai-solutions-with-aws/1965588/?amp",
+      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/sonata-software-bolsters-adoption-of-generative-ai-solutions-with-aws/1965588/?amp",
+      "publishedDateTime": "2024-02-14T04:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ThePrint",
+        "domain": "theprint.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-14-wife-of-tesla-employee-who-died-in-what-may-have-been-the-first-full-self-driving-crash-said-she-and-her-husband-were-guinea-pigs.md",
+      "title": "Wife of Tesla employee who died in what may have been the first 'full self-driving' crash said she and her husband were 'guinea pigs'",
+      "excerpt": "Tesla hasn't acknowledged the death of an employee driving one of its cars in what may have been the first fatality linked to its self-driving feature.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/tesla-employee-died-full-self-driving-fatal-crash-2024-2",
+      "originalUrl": "https://www.businessinsider.com/tesla-employee-died-full-self-driving-fatal-crash-2024-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65cc35d194aa8ee8e84b2027?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/tesla-employee-died-full-self-driving-fatal-crash-2024-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-employee-died-full-self-driving-fatal-crash-2024-2?amp",
+      "publishedDateTime": "2024-02-14T04:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-14-the-future-of-tech-jobs-ethical-ai-and-the-quest-for-fairness-in-machine-learning.md",
+      "title": "The Future of Tech Jobs: Ethical AI and the Quest for Fairness in Machine Learning",
+      "excerpt": "In an era where technology is advancing at an unprecedented pace, the quest for ethical AI and fairness in machine learning is not just a technical challenge but a crucial societal concern. This blog explores the future of tech jobs in the context of ethical AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.devdiscourse.com/article/technology/2816540-the-future-of-tech-jobs-ethical-ai-and-the-quest-for-fairness-in-machine-learning",
+      "originalUrl": "https://www.devdiscourse.com/article/technology/2816540-the-future-of-tech-jobs-ethical-ai-and-the-quest-for-fairness-in-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/12_02_2024_17_27_44_5920723.jpg?width=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.devdiscourse.com/article/technology/2816540-the-future-of-tech-jobs-ethical-ai-and-the-quest-for-fairness-in-machine-learning?amp",
+      "cdnAmpWebUrl": "https://www-devdiscourse-com.cdn.ampproject.org/c/s/www.devdiscourse.com/article/technology/2816540-the-future-of-tech-jobs-ethical-ai-and-the-quest-for-fairness-in-machine-learning?amp",
+      "publishedDateTime": "2024-02-14T04:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "devdiscourse",
+        "domain": "devdiscourse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2024-02-14-language-of-love-lets-use-ai-to-find-the-heart-of-human-potential.md",
+      "title": "Language Of Love: Let’s Use AI to Find the Heart Of Human Potential",
+      "excerpt": "AI can serve as a bridge to clarity across different and also within the same languages, building bridges between cultures through mastering language and reducing bias.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbooksauthors/2024/02/13/language-of-love-lets-use-ai-to-find-the-heart-of-human-potential/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbooksauthors/2024/02/13/language-of-love-lets-use-ai-to-find-the-heart-of-human-potential/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65cc31fd62e34c5e08f238e8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1351,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbooksauthors/2024/02/13/language-of-love-lets-use-ai-to-find-the-heart-of-human-potential/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbooksauthors/2024/02/13/language-of-love-lets-use-ai-to-find-the-heart-of-human-potential/amp/",
+      "publishedDateTime": "2024-02-14T03:24:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-14-10-ai-tools-for-australian-businesses-in-2024.md",
+      "title": "10 AI Tools For Australian Businesses In 2024",
+      "excerpt": "Whether it’s for developing ideas for a marketing campaign or optimising processes across sales departments, there is no shortage of AI tools that can help you take your business to the next level. In this article,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/advisor/au/business/software/ai-tools/",
+      "originalUrl": "https://www.forbes.com/advisor/au/business/software/ai-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/x/https://www.forbes.com/advisor/au/wp-content/uploads/2024/02/10-AI-Tools-For-Australian-Businesses-Ft-Image.png",
+          "width": 900,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-14T03:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-14-jumping-onto-artificial-intelligence-bandwagon-heres-how-to-name-your-ai-chatbot.md",
       "title": "Jumping Onto Artificial Intelligence Bandwagon? Here’s How to Name Your AI Chatbot",
       "excerpt": "All these thoughts were presumably reverberating around Google's Mountain View headquarters recently when the company decided it would ditch “Bard,” the name it had given its ChatGPT competitor, and instead bring together all of its AI tools under the name “Gemini.”",
@@ -834,326 +1164,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-san-mateo-county-wants-to-keep-driverless-cars-away-for-now.md",
-      "title": "San Mateo County wants to keep driverless cars away for now",
-      "excerpt": "Those who follow the driverless car business said there is also likely some public backlash as machines and artificial intelligence make a deeper move into our lives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcbayarea.com/news/local/peninsula/san-mateo-county-driverless-vehicles/3452602/",
-      "originalUrl": "https://www.nbcbayarea.com/news/local/peninsula/san-mateo-county-driverless-vehicles/3452602/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nbcbayarea.com/2024/02/smc-driverless-0213.jpg?quality=85&strip=all&resize=1200%2C675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcbayarea.com/news/local/peninsula/san-mateo-county-driverless-vehicles/3452602/?amp=1",
-      "cdnAmpWebUrl": "https://www-nbcbayarea-com.cdn.ampproject.org/c/s/www.nbcbayarea.com/news/local/peninsula/san-mateo-county-driverless-vehicles/3452602/?amp=1",
-      "publishedDateTime": "2024-02-13T17:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC Bay Area",
-        "domain": "nbcbayarea.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-graduates-land-top-financial-tech-jobs-through-a-unique-program-at-the-university-of-delaware.md",
-      "title": "Graduates Land Top Financial Tech Jobs Through a Unique Program at the University of Delaware",
-      "excerpt": "The rise of ChatGPT and other GenAI platforms has caused a major disruption in the education sector. While GenAI technology offers incredible promise for",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2024/02/13/unique-program-at-the-university-of-delaware-lands-top-financial-jobs-for-graduates/",
-      "originalUrl": "https://www.datanami.com/2024/02/13/unique-program-at-the-university-of-delaware-lands-top-financial-jobs-for-graduates/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.datanami.com/wp-content/uploads/2017/05/graduates_Shutterstock_Syda-Productions.jpg",
-          "width": 1000,
-          "height": 636,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-13T17:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-georgia-bill-aims-to-restrict-ai-in-healthcare.md",
-      "title": "Georgia bill aims to restrict AI in healthcare",
-      "excerpt": "House Bill 887 was introduced to the Georgia House of Representatives by Rep. Mandisha Ann-Marie Thomas to: The bill states insurers cannot use just AI tools for coverage decisions, and any decision made with AI or automation tools should be \"meaningfully reviewed\" by a knowledgeable person who can override the AI's decision.",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/georgia-bill-aims-to-restrict-ai-in-healthcare.html",
-      "originalUrl": "https://www.beckershospitalreview.com/healthcare-information-technology/georgia-bill-aims-to-restrict-ai-in-healthcare.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-13T15:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-waymo-arson-in-san-francisco-sparks-new-debate-on-self-driving-cars.md",
-      "title": "Waymo arson in San Francisco sparks new debate on self-driving cars",
-      "excerpt": "An autonomous Waymo robotaxi, by contrast ... and a more generalized fear of artificial-intelligence, according to officials and academics. Others in San Francisco, where such vehicles have ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/autos-transportation/san-francisco-waymo-arson-sparks-fresh-debate-self-driving-cars-2024-02-13/",
-      "originalUrl": "https://www.reuters.com/business/autos-transportation/san-francisco-waymo-arson-sparks-fresh-debate-self-driving-cars-2024-02-13/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-13T15:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-3-ways-to-demonstrate-analytical-skills-like-a-leader-in-2024.md",
-      "title": "3 Ways To Demonstrate Analytical Skills Like A Leader In 2024",
-      "excerpt": "Analytical skills comprise one of the most in-demand skill sets organizations need in 2024. Here are three easy ways to develop analytical thinking as an aspiring leader.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rachelwells/2024/02/13/3-ways-to-demonstrate-analytical-skills-like-a-leader-in-2024/",
-      "originalUrl": "https://www.forbes.com/sites/rachelwells/2024/02/13/3-ways-to-demonstrate-analytical-skills-like-a-leader-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65cb88859636c600c60ec229/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rachelwells/2024/02/13/3-ways-to-demonstrate-analytical-skills-like-a-leader-in-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelwells/2024/02/13/3-ways-to-demonstrate-analytical-skills-like-a-leader-in-2024/amp/",
-      "publishedDateTime": "2024-02-13T15:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-why-microsoft-azure-could-take-the-cloud-lead-from-amazon-aws-by-2026.md",
-      "title": "Why Microsoft Azure Could Take The Cloud Lead From Amazon AWS By 2026",
-      "excerpt": "Microsoft says customers are using Generative AI in their products. “We now have 53,000 Azure AI customers,” Nadella told analysts on the company’s earnings call. CFO CFO Amy Hood ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/petercohan/2024/02/13/why-microsoft-azure-could-take-the-cloud-lead-from-amazon-aws-by-2026/",
-      "originalUrl": "https://www.forbes.com/sites/petercohan/2024/02/13/why-microsoft-azure-could-take-the-cloud-lead-from-amazon-aws-by-2026/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65ca4186f1b4a49178ad2ccf/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1346,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/petercohan/2024/02/13/why-microsoft-azure-could-take-the-cloud-lead-from-amazon-aws-by-2026/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/petercohan/2024/02/13/why-microsoft-azure-could-take-the-cloud-lead-from-amazon-aws-by-2026/amp/",
-      "publishedDateTime": "2024-02-13T15:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-rockies-reliever-daniel-bard-will-have-surgery-to-repair-a-torn-meniscus-in-left-knee.md",
-      "title": "Rockies reliever Daniel Bard will have surgery to repair a torn meniscus in left knee",
-      "excerpt": "DENVER (AP) — The Colorado Rockies said reliever Daniel Bard will have surgery Wednesday to repair a torn meniscus in his left knee. There's no timetable for Bard's return. Rockies pitchers and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/news/rockies-reliever-daniel-bard-surgery-200645859.html",
-      "originalUrl": "https://www.aol.com/news/rockies-reliever-daniel-bard-surgery-200645859.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/Pi1kBm9qROM0y7bvm_Gxww--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NzE-/https://media.zenfs.com/en/aol_associated_press_484/b92da6361ba653ffa2fe50cb96656412",
-          "width": 1199,
-          "height": 771,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-13T15:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

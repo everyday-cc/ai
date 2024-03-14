@@ -2,6 +2,299 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-03-13-new-ai-tools-can-help-doctors-take-notes-message-patients-but-they-still-make-mistakes.md",
+      "title": "New AI tools can help doctors take notes, message patients, but they still make mistakes",
+      "excerpt": "New AI tools can help doctors communicate with patients, take notes during medical examinations, and even make diagnoses. But the tools are not perfect.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/new-ai-tools-help-doctors-take-notes-message-patients-still-make-mistakes",
+      "originalUrl": "https://www.foxnews.com/us/new-ai-tools-help-doctors-take-notes-message-patients-still-make-mistakes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/60c0535c-c189-4d06-b7a2-9d7c5ff58e8d/57b2155a-c1fb-4241-a9d1-93e024a57772/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/new-ai-tools-help-doctors-take-notes-message-patients-still-make-mistakes.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/new-ai-tools-help-doctors-take-notes-message-patients-still-make-mistakes.amp",
+      "publishedDateTime": "2024-03-13T10:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-13-top-rated-manager-flags-three-overlooked-small-stocks-including-an-under-the-radar-ai-play.md",
+      "title": "Top rated manager flags three overlooked small stocks, including an under-the-radar AI play",
+      "excerpt": "Mick Rasmussen, fund manager at a gold medalist ranked fund, talks about an AI play no one is looking and other stocks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/top-rated-manager-flags-three-overlooked-small-stocks-including-an-under-the-radar-ai-play-8134847f",
+      "originalUrl": "https://www.marketwatch.com/story/top-rated-manager-flags-three-overlooked-small-stocks-including-an-under-the-radar-ai-play-8134847f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-85909438/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/top-rated-manager-flags-three-overlooked-small-stocks-including-an-under-the-radar-ai-play-8134847f",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/top-rated-manager-flags-three-overlooked-small-stocks-including-an-under-the-radar-ai-play-8134847f",
+      "publishedDateTime": "2024-03-13T10:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-13-how-ai-can-help-marketers-stay-profitable-during-economic-downturns.md",
+      "title": "How AI Can Help Marketers Stay Profitable During Economic Downturns",
+      "excerpt": "AI can quickly gather, analyze and interpret data. Its agility enables it to provide actionable insights in real time, allowing users to get up-to-date information when needed. AI tools empower marketers to do more and be more efficient while delivering high returns on ad spend.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/how-ai-can-help-marketers-stay-profitable-during-economic-downturns/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/how-ai-can-help-marketers-stay-profitable-during-economic-downturns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65f072f0fa2fc981e173b9d9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1281,
+          "height": 854,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/how-ai-can-help-marketers-stay-profitable-during-economic-downturns/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/13/how-ai-can-help-marketers-stay-profitable-during-economic-downturns/amp/",
+      "publishedDateTime": "2024-03-13T10:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-13-ai-boost-for-macs-m4-chip-on-horizon-for-new-macbook-pro.md",
+      "title": "AI Boost For Macs? M4 Chip On Horizon For New MacBook Pro",
+      "excerpt": "Bloomberg's Mark Gurman, as cited by 9to5Mac, revealed that Apple has commenced work on the successor to the M3-powered 2023 MacBook Pro. Responding to a user inquiry in the Q&A section of his Power On newsletter, Gurman hinted at the possibility of an M4 MacBook Pro in the pipeline.",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/tech/71320/ai-boost-for-macs-m4-chip-on-horizon-for-new-macbook-pro",
+      "originalUrl": "https://in.mashable.com/tech/71320/ai-boost-for-macs-m4-chip-on-horizon-for-new-macbook-pro",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/photo/default/4_yrnk.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-13T10:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "in.mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-13-tackling-deforestation-and-forest-degradation-with-ai-and-remote-sensing.md",
+      "title": "Tackling deforestation and forest degradation with AI and remote sensing",
+      "excerpt": "Deforestation and forest degradation are both significant conservation issues. But charities around the world are starting to use advanced technologies, such as AI and remote sensing, to get on top of the challenge.",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/tackling-deforestation-and-forest-degradation-ai-and-remote-sensing",
+      "originalUrl": "https://diginomica.com/tackling-deforestation-and-forest-degradation-ai-and-remote-sensing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2024-03/IMG_2082.jpeg",
+          "width": 640,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/tackling-deforestation-and-forest-degradation-ai-and-remote-sensing?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/tackling-deforestation-and-forest-degradation-ai-and-remote-sensing?amp",
+      "publishedDateTime": "2024-03-13T09:12:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-13-microsoft-copilot-for-security-will-move-to-general-availability-on-april-1.md",
+      "title": "Microsoft Copilot for Security will move to general availability on April 1",
+      "excerpt": "On Wednesday, Microsoft announced that Copilot for Security is moving from early access to general availability on April 1, making it possible for all security teams to take advantage of the tool on a pay-as-you-go basis.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-copilot-for-security-will-be-general-availability-on-april-1/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-copilot-for-security-will-be-general-availability-on-april-1/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/d57650fef8f6a3245659d2e341d99fa5829f40f1/2024/03/12/ba774687-f38f-4f2e-bb79-ce78907ea5b6/img-9738.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-copilot-for-security-will-be-general-availability-on-april-1/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-copilot-for-security-will-be-general-availability-on-april-1/",
+      "publishedDateTime": "2024-03-13T09:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Security",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-13-tesla-remains-wall-streets-bearish-betting-chip-among-large-caps-but-a-hot-ai-plays-short-interest-also-surges.md",
       "title": "Tesla Remains Wall Street's Bearish Betting Chip Among Large-Caps, But A Hot AI Play's Short Interest Also Surges",
       "excerpt": "High short interest indicates investor pessimism towards a stock. Tesla has been on a broader downtrend since its November 2021 peak of $413.29.",
@@ -302,7 +595,7 @@
       "originalUrl": "https://venturebeat.com/ai/at-venturebeats-ai-impact-tour-microsoft-explores-the-risks-and-rewards-of-gen-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -940,301 +1233,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-us-pushes-to-weaken-international-human-rights-treaty-on-use-of-ai-software.md",
-      "title": "US pushes to weaken international human rights treaty on use of AI software",
-      "excerpt": "The Council of Europe, of which the US is an observer, is drafting a treaty that will call on its member states to ensure that AI systems respect international obligations to protect human rights.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3714289/us-pushes-to-weaken-international-human-rights-treaty-on-use-of-ai-software.html",
-      "originalUrl": "https://www.computerworld.com/article/3714289/us-pushes-to-weaken-international-human-rights-treaty-on-use-of-ai-software.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/03/13/16/sw-blog-image-getty-1170x600-2-100938438-large.jpg?auto=webp&quality=85,70",
-          "width": 1199,
-          "height": 615,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3714289/us-pushes-to-weaken-international-human-rights-treaty-on-use-of-ai-software.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3714289/us-pushes-to-weaken-international-human-rights-treaty-on-use-of-ai-software.amp.html",
-      "publishedDateTime": "2024-03-12T17:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-taiwan-chip-powerhouses-see-february-sales-soar-on-ai-demand.md",
-      "title": "Taiwan chip powerhouses see February sales soar on AI demand",
-      "excerpt": "TAIPEI -- Taiwan's tech industry was a study in contrasts in February, as major chipmakers such as TSMC thrived on strong demand for artificial intelligence-related products while companies involved more in consumer electronics dealt with falling sales ...",
-      "sourceUrl": null,
-      "webUrl": "https://asia.nikkei.com/cms/Business/Technology/Taiwan-chip-powerhouses-see-February-sales-soar-on-AI-demand",
-      "originalUrl": "https://asia.nikkei.com/cms/Business/Technology/Taiwan-chip-powerhouses-see-February-sales-soar-on-AI-demand",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F5%2F2%2F9%2F9%2F47399925-3-eng-GB%2FCropped-1710256242photo.JPG?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-12T17:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nikkei Asia",
-        "domain": "nikkei.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-a-safety-group-graded-14-driver-assistance-systems-teslas-self-driving-option-was-the-worst.md",
-      "title": "A safety group graded 14 driver-assistance systems. Tesla's self-driving option was the worst.",
-      "excerpt": "Tesla ranked the worst in a safety study of autonomous driving systems, but few automakers did particularly well.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/tesla-autopilot-safety-assisted-self-driving-systems-2024-3",
-      "originalUrl": "https://www.businessinsider.com/tesla-autopilot-safety-assisted-self-driving-systems-2024-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65f05c66ce7f1785b2e8c927?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/tesla-autopilot-safety-assisted-self-driving-systems-2024-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-autopilot-safety-assisted-self-driving-systems-2024-3?amp",
-      "publishedDateTime": "2024-03-12T17:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-googles-new-security-command-center-enterprise-puts-you-at-the-helm-of-your-multicloud-environment-with-ai-secops-to-back-you-up.md",
-      "title": "Google’s new Security Command Center Enterprise puts you at the helm of your multicloud environment, with AI SecOps to back you up",
-      "excerpt": "The Enterprise level solution builds on Google’s pre existing Command Center with additional capabilities for securing Google Cloud, AWS, and Microsoft Azure environments, including vulnerability and security posture management, cloud infrastructure specific threat detection technology, integrated workflows and much more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/pro/googles-new-security-command-center-enterprise-puts-you-at-the-helm-of-your-multicloud-environment-with-ai-secops-to-back-you-up",
-      "originalUrl": "https://www.techradar.com/pro/googles-new-security-command-center-enterprise-puts-you-at-the-helm-of-your-multicloud-environment-with-ai-secops-to-back-you-up",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/6tqRVDq2EAcaFcNtDomiCe-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-12T17:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-4-updates-from-the-2024-google-for-games-developer-summit.md",
-      "title": "4 updates from the 2024 Google for Games Developer Summit",
-      "excerpt": "These new tools help developers build immersive and engaging games that players love.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/google-play/google-for-games-developer-summit-2024/",
-      "originalUrl": "https://blog.google/products/google-play/google-for-games-developer-summit-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ggds4.width-1300.png",
-          "width": 1300,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-12T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-google-play-will-show-ai-powered-faqs-and-recent-youtube-videos-for-games.md",
-      "title": "Google Play will show AI-powered FAQs and recent YouTube videos for games",
-      "excerpt": "Google announced a number of new features for Google Play listings for games including AI-powered FAQs, displaying the latest YouTube videos, new immersive ad formats, and support for native PC game publishing. The announcements were made at the Google ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/03/12/google-play-store-will-show-ai-powered-faqs-and-latest-youtube-videos-for-games/",
-      "originalUrl": "https://techcrunch.com/2024/03/12/google-play-store-will-show-ai-powered-faqs-and-latest-youtube-videos-for-games/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1240125020.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/03/12/google-play-store-will-show-ai-powered-faqs-and-latest-youtube-videos-for-games/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/google-play-store-will-show-ai-powered-faqs-and-latest-youtube-videos-for-games/amp/",
-      "publishedDateTime": "2024-03-12T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

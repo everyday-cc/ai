@@ -28,16 +28,30 @@ related:
   - title: "Of Predictive Analytics and Robots: A First-Year Federal Judge’s Thoughts on AI"
     excerpt: "U.S. District Judge Wesley Hsu says that judges’ information online should be fair game for those putting together predictive analytics. Then again, as someone who previously spent more than a decade prosecuting cybercrime,"
     publishedDateTime: 2024-03-13T11:41:00Z
-    webUrl: "https://www.law.com/litigationdaily/2024/03/13/of-predictive-analytics-and-robots-a-first-year-federal-judges-thoughts-on-ai-407-22586/"
+    webUrl: "https://www.law.com/therecorder/2024/03/13/of-predictive-analytics-and-robots-a-first-year-federal-judges-thoughts-on-ai/"
     type: article
     provider:
       name: Law
       domain: law.com
     quality: 50
     images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/407/2024/03/Wesley-Hsu-5-767x633.jpg"
+      - url: "https://images.law.com/contrib/content/uploads/sites/403/2024/03/Wesley-Hsu-5-767x633.jpg"
         width: 767
         height: 633
+        isCached: true
+  - title: "AI in Analytics: 3 Key Tips to Keep Your Workflow up to Date"
+    excerpt: "Data analysts are just as swept up with the AI in analytics hype as any other professional, but their emotions reflect more than just being in awe of the technology. The world of AI has reshaped the rules of data analysis, enabling natural language queries ..."
+    publishedDateTime: 2024-03-11T00:01:00Z
+    webUrl: "https://www.cmswire.com/digital-marketing/ai-in-analytics-3-key-tips-to-keep-your-workflow-up-to-date/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 39
+    images:
+      - url: "https://www.cmswire.com/-/media/223325db78ab485487c3711e22cc6ea9.ashx"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "aVzhZ1MsP+uQ8JSsof09pzV+MBv9N/NxO8cUTEf/rFUrIa/xhQOPUMsOPZ1kg+4baXQd9Qj4s6XO8OavB6GEmnq+nGlFNot8IhHfBx5TcRg8htFlN7iGc+3afyuhlJkbfqPUB5smiDo9OlVxkDUukkdLkJXMLfz4OKIR709oNeiXEcM6aqZM8n3A8GYnF+tNIU7xwztpbWm7x069pVivV1JZR/vzGC3ApwAdZPhmf8MLhrr36ENQDXRsZrYO3nHspx8BhPw/5jEqdso5De/AzRUXzcSEkZIy3Ppcew+RO+cFMNLHQHSzKDRn0EfjqRvU/f++bC9/z6xUQikVBVRttdSfX8UdJ0tc+2h74wlLRT0=;uOLhXDmAG5ZyQjjeUp0l1A=="

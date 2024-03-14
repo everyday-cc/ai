@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-14-gemma-is-now-available-in-amazon-sagemaker-jumpstart.md",
+      "title": "Gemma is now available in Amazon SageMaker JumpStart ",
+      "excerpt": "Today, we’re excited to announce that the&nbsp;Gemma model is now available for customers using&nbsp;Amazon SageMaker JumpStart.&nbsp;Gemma is a family of language models based on Google’s Gemini models, trained on up to 6 trillion tokens of text. The Gemma family consists of two sizes: a 7 billion parameter",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/gemma-is-now-available-in-amazon-sagemaker-jumpstart/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/gemma-is-now-available-in-amazon-sagemaker-jumpstart/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/03/14/gemma-sagemaker-jumpstart-1121x630.jpg",
+          "width": 1121,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-14T00:33:34Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-13-moderate-audio-and-text-chats-using-aws-ai-services-and-llms.md",
       "title": "Moderate audio and text chats using AWS AI services and LLMs",
       "excerpt": "Online gaming and social communities offer voice and text chat functionality for their users to communicate. Although voice and text chat often support friendly banter, it can also lead to problems such as hate speech, cyberbullying, harassment, and scams. Today, many companies rely solely on human moderators",
@@ -1371,49 +1423,6 @@
         "AI",
         "AWS AI",
         "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-squaring-the-circle-the-high-performance-computing-energy-paradox.md",
-      "title": "Squaring the circle: The high-performance computing energy paradox",
-      "excerpt": "Today, the Nvidia H100 Tensor Core GPU enables AWS users to run their Amazon Elastic Compute Cloud (Amazon EC2) P5 instances to scale generative AI at the click of a button, and data center operators report unprecedented demand from clients for compute ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.datacenterdynamics.com/en/marketwatch/squaring-the-circle-the-high-performance-computing-energy-paradox/",
-      "originalUrl": "https://www.datacenterdynamics.com/en/marketwatch/squaring-the-circle-the-high-performance-computing-energy-paradox/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.datacenterdynamics.com/media/images/20540_Article_Image_8_1200x600.2e16d0ba.fill-1200x630.jpg",
-          "width": 1144,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Datacenter Dynamics",
-        "domain": "datacenterdynamics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

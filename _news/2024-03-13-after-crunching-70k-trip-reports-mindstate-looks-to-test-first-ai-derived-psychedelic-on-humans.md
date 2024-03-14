@@ -6,8 +6,8 @@ publishedDateTime: 2024-03-13T13:00:00Z
 originalUrl: "https://www.fiercebiotech.com/biotech/mindstates-first-ai-derived-psychedelic-heads-clinic"
 webUrl: "https://www.fiercebiotech.com/biotech/mindstates-first-ai-derived-psychedelic-heads-clinic"
 type: article
-quality: 5
-heat: 5
+quality: 27
+heat: 27
 published: false
 
 provider:
@@ -17,7 +17,14 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Healthcare
 
-secured: "RWzLsyVuIkF3YzbTGfSiyjJYJjikELm7YjY1GqrYw3ngWdgNiNCTmaZcyLq1CmZk4dofnlKt8PpJzD9ouGyn6zTo+4PvSqIyK16GtWIlrwCh2l7u9ZXwqkUqq2Ok5GSQBPMSUbUU/eTlmbMp74+KxB43poUMFMxjfcJiUQXrOM7AU9ysx52IGKwYCrw9YJ6LmifQ13QTXhjOdDNBcAaPd88oAipV+7tPIfWCFjIDBn5zMBrcC8Sr65/seF8+1GSBI1x+nU7SRpD+3l7naleo8UM4DVqFpxi82OydAllHTq/is2R6zR7H+uDenwSNvtfT9UGrH6b0bwSi0U6u203AVPVaBfMYztLIjq2pYgi90ola/EuOLLphShxoJO6hLP8clroKIHYiaUzqJv4iNWxuakp45Vazt8/0VMNWlBm8Wrl307V4YAbxsQub5UuUyppMxW+EplLn8RYEtGyZQUsCv2rxdByKSNKzWikv/QDjIA0s4266gB5z4eeJXCuIsr8OJBCAFohkc62gDY9ptk4XwA==;2dHLnnOfPwvWqdq1FDvIsg=="
+images:
+  - url: "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1474523316.jpg?VersionId=re9AAQ5Uf4WMEg0V7FqaZbwVj3uhnkd9"
+    width: 2289
+    height: 1309
+    isCached: true
+
+secured: "02JR++Xb6v4Fn8NSYY1VvRcr91gj+xq0zj6kdXHWGFv2UxqIoSI0LsTDc072G51r9vm5MatiLrIy1UzUWudIZ4LwKq3csFs0EjI2/94SrRsq/B5587jLI9+LEtKgyw7j1iYsHSwwMC79EUCFdoGWxQCACtQDIfJCqiliOt/IpiodFAKm20dIkcQvZgAVXl/G3DAToz0Yq9XZaC7IQCMFKIt6P2gB4/JrBTWB5AYeghkBfpHGm5Uz4NAOqzuTE59lmq9ONGAo+FVQ/d1BY/vWWYASgMEfAQ3SM5Qc6zcix62A26+o47lt1zT8O0aXGgapZQKJ8D2i61u12mLel37rQJi55AYqbRy0/dcGY2FD1xE=;bYWJmlPBuxpEhcn8N44k2Q=="
 ---
 

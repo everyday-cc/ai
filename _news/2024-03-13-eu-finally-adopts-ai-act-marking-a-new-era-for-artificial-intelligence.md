@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/eu-adopts-ai-act-artificial-intelligen
 webUrl: "https://thenextweb.com/news/eu-adopts-ai-act-artificial-intelligence-rules"
 type: article
 quality: 81
-heat: 91
+heat: 92
 published: true
 
 provider:

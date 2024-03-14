@@ -2,6 +2,299 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-03-12-this-startup-says-it-can-beat-deepminds-gamechanging-protein-ai.md",
+      "title": "This Startup Says It Can Beat Deepmind’s Gamechanging Protein AI",
+      "excerpt": "Basecamp Research says its software platform can better predict the way proteins behave — not with better algorithms, but with higher-quality data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alexknapp/2024/03/11/basecamp-research-protein-folding-ai-deepmind-alphafold/",
+      "originalUrl": "https://www.forbes.com/sites/alexknapp/2024/03/11/basecamp-research-protein-folding-ai-deepmind-alphafold/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e7a8c4b178f1843c134af7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1285,
+          "height": 857,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-12T07:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-worried-an-ai-is-going-to-take-your-job-heres-how-to-stay-relevant-in-the-generative-ai-era.md",
+      "title": "Worried An AI Is Going To Take Your Job? Here’s How To Stay Relevant In The Generative AI Era",
+      "excerpt": "To stay relevant in the generative AI era, it's crucial to educate yourself about AI capabilities and assess how AI might impact your job.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2024/03/12/worried-an-ai-is-going-to-take-your-job-heres-how-to-stay-relevant-in-the-generative-ai-era/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2024/03/12/worried-an-ai-is-going-to-take-your-job-heres-how-to-stay-relevant-in-the-generative-ai-era/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65effec6d0230d764246a74b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2024/03/12/worried-an-ai-is-going-to-take-your-job-heres-how-to-stay-relevant-in-the-generative-ai-era/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/03/12/worried-an-ai-is-going-to-take-your-job-heres-how-to-stay-relevant-in-the-generative-ai-era/amp/",
+      "publishedDateTime": "2024-03-12T07:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-five-ai-crypto-coins-emerging-in-2024.md",
+      "title": "Five AI crypto coins emerging in 2024",
+      "excerpt": "The artificial intelligence industry began booming at the start of 2024, with OpenAI's Sora product generating a new wave of hype within the sector.",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/business/india-business/best-ai-cryptos/articleshow/108424368.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/business/india-business/best-ai-cryptos/articleshow/108424368.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-108424765,width-1280,height-720,resizemode-4/108424765.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/business/india-business/best-ai-cryptos/amp_articleshow/108424368.cms",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/business/india-business/best-ai-cryptos/amp_articleshow/108424368.cms",
+      "publishedDateTime": "2024-03-12T06:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-gemini-ai-image-generation-tool-to-be-back-after-improved-accuracy.md",
+      "title": "Gemini AI Image Generation Tool to be Back After Improved Accuracy",
+      "excerpt": "Google DeepMind CEO Demis Hassabis plans to reintroduce the Gemini AI image generation tool, addressing inaccuracies and ensuring improved performance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/technology/tech-news/gemini-ai-image-generation-tool-to-be-back-after-improved-accuracy-864311",
+      "originalUrl": "https://www.thehansindia.com/technology/tech-news/gemini-ai-image-generation-tool-to-be-back-after-improved-accuracy-864311",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2024/03/12/1429542-gemini.jpg",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/technology/tech-news/gemini-ai-image-generation-tool-to-be-back-after-improved-accuracy-864311",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/gemini-ai-image-generation-tool-to-be-back-after-improved-accuracy-864311",
+      "publishedDateTime": "2024-03-12T05:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-french-startup-nijta-hopes-to-protect-voice-privacy-in-ai-use-cases.md",
+      "title": "French startup Nijta hopes to protect voice privacy in AI use cases",
+      "excerpt": "France-based startup Nijta, whose flagship product Voice Harbor anonimizes voices for AI, raised €2 million in funding from various sources, including deep tech VC fund Elaia.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/03/11/nijta-voice-privacy-ai/",
+      "originalUrl": "https://techcrunch.com/2024/03/11/nijta-voice-privacy-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-525848879.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/03/11/nijta-voice-privacy-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/11/nijta-voice-privacy-ai/amp/",
+      "publishedDateTime": "2024-03-12T05:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-clarity-alignment-and-empowermentleadership-skills-in-the-age-of-ai.md",
+      "title": "Clarity, Alignment, and Empowerment:Leadership Skills in the Age of AI",
+      "excerpt": "Provide clarity, alignment, and empowerment in your team meetings. getty \"Do you have the engagement survey results?\" I asked my new employee, who had just joined the team a few w",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/melissadaimler/2024/03/11/clarity-alignment-and-empowermentleadership-skills-in-the-age-of-ai/",
+      "originalUrl": "https://www.forbes.com/sites/melissadaimler/2024/03/11/clarity-alignment-and-empowermentleadership-skills-in-the-age-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ef62a28230e4ce9b4984a9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1243,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-12T03:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-12-broadcom-soars-as-ai-chip-sales-push-revenue-forecasts-beyond-us10-billion.md",
       "title": "Broadcom soars as AI chip sales push revenue forecasts beyond US$10 billion",
       "excerpt": "Nvidia's rising profitability amid the AI surge has captivated attention from around the globe. However, regarding AI chip revenue, SemiAnalysis analysts have highlighted that Broadcom might be considered the world's second-largest firm.",
@@ -159,7 +452,7 @@
       "originalUrl": "https://techcrunch.com/2024/03/12/glacier-is-training-ai-powered-recycling-robots/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 204,
+      "heat": 214,
       "tags": null,
       "images": [
         {
@@ -952,312 +1245,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-11-litter-robot-4-vs-3-connect-which-automatic-litter-box-should-you-get.md",
-      "title": "Litter-Robot 4 Vs. 3 Connect: Which Automatic Litter Box Should You Get?",
-      "excerpt": "the Litter-Robot 4 is an upgraded version of the Litter-Robot 3 Connect, with advanced safety sensors, a more sophisticated (and quieter) sifting system and better odor control. I have both models in my home and my three cats use each one regularly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2024/03/11/litter-robot-4-vs-3/",
-      "originalUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2024/03/11/litter-robot-4-vs-3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65eb6c39c78a1860c0563c44/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2024/03/11/litter-robot-4-vs-3/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbes-personal-shopper/2024/03/11/litter-robot-4-vs-3/amp/",
-      "publishedDateTime": "2024-03-11T15:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-11-azure-ai-health-bot-helps-create-copilot-experiences-with-healthcare-safeguards.md",
-      "title": "Azure AI Health Bot helps create copilot experiences with healthcare safeguards",
-      "excerpt": "With the Azure AI Health Bot infused with generative AI and healthcare safeguards, health organizations can build health data services, transform their medical professionals and patient experiences, discover new insights with the power of machine learning and AI, and manage protected health information",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/blog/azure-ai-health-bot-helps-create-copilot-experiences-with-healthcare-safeguards/",
-      "originalUrl": "https://azure.microsoft.com/en-us/blog/azure-ai-health-bot-helps-create-copilot-experiences-with-healthcare-safeguards/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/03/MSFT_Azure_MAR06_323612_Blog_Blogheader_240307_V02.png",
-          "width": 1260,
-          "height": 708,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-11T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-03-11-nvidia-says-nemo-ai-platform-complies-with-copyright-law-after-authors-complaint.md",
-      "title": "Nvidia Says NeMo AI Platform Complies With Copyright Law After Authors' Complaint",
-      "excerpt": "By Mauro Orru Nvidia said its NeMo artificial intelligence platform was created in full compliance with copyright law, after a group of authors filed",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/nvidia-says-nemo-ai-platform-complies-with-copyright-law-after-authors-complaint-4b8d4a92",
-      "originalUrl": "https://www.marketwatch.com/story/nvidia-says-nemo-ai-platform-complies-with-copyright-law-after-authors-complaint-4b8d4a92",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/nvidia-says-nemo-ai-platform-complies-with-copyright-law-after-authors-complaint-4b8d4a92",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-says-nemo-ai-platform-complies-with-copyright-law-after-authors-complaint-4b8d4a92",
-      "publishedDateTime": "2024-03-11T14:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-11-emergency-dispatchers-are-using-ai-and-cloud-based-tools-to-help-those-in-need-faster.md",
-      "title": "Emergency dispatchers are using AI and cloud-based tools to help those in need faster",
-      "excerpt": "Emergency-response call takers are using AI and cloud-based systems to help understaffed call centers and improve services like automatic translation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/emergency-response-call-centers-using-ai-cloud-technology-2024-3",
-      "originalUrl": "https://www.businessinsider.com/emergency-response-call-centers-using-ai-cloud-technology-2024-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65eb4c116080194819fe185f?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/emergency-response-call-centers-using-ai-cloud-technology-2024-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/emergency-response-call-centers-using-ai-cloud-technology-2024-3?amp",
-      "publishedDateTime": "2024-03-11T14:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2024-03-11-healthcare-pros-show-interest-in-apples-vision-pro-survey.md",
-      "title": "Healthcare pros show interest in Apple's Vision Pro — survey",
-      "excerpt": "Up to 75% of US healthcare professionals are open to exploring the use of Vision Pro devices at work, survey claims.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3714400/healthcare-pros-show-interest-in-apples-vision-pro-survey.html",
-      "originalUrl": "https://www.computerworld.com/article/3714400/healthcare-pros-show-interest-in-apples-vision-pro-survey.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2024/03/04/20/vision-pro-1-100961865-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3714400/healthcare-pros-show-interest-in-apples-vision-pro-survey.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3714400/healthcare-pros-show-interest-in-apples-vision-pro-survey.amp.html",
-      "publishedDateTime": "2024-03-11T13:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-03-11-deepmind-and-stanfords-new-robot-control-model-follow-instructions-from-sketches.md",
-      "title": "DeepMind and Stanford’s new robot control model follow instructions from sketches",
-      "excerpt": "The researchers created RT-Sketch, a model that uses sketches to control robots. It performs on par with language- and image-conditioned agents in normal conditions and outperforms them in situations where language and image goals fall short. While ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/automation/deepmind-and-stanfords-new-robot-control-model-follow-instructions-from-sketches/",
-      "originalUrl": "https://venturebeat.com/automation/deepmind-and-stanfords-new-robot-control-model-follow-instructions-from-sketches/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/03/Screenshot-2024-03-11-at-1.24.45 PM.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-11T13:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Google AI"
       ]
     }
   ],

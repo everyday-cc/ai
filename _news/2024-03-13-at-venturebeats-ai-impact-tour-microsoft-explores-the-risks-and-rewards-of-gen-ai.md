@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/at-venturebeats-ai-impact-tour-microsof
 webUrl: "https://venturebeat.com/ai/at-venturebeats-ai-impact-tour-microsoft-explores-the-risks-and-rewards-of-gen-ai/"
 type: article
 quality: 80
-heat: 111
+heat: 110
 published: true
 
 provider:

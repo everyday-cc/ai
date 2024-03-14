@@ -6,7 +6,7 @@ publishedDateTime: 2024-03-13T22:18:00Z
 originalUrl: "https://www.forbes.com/sites/katiejennings/2024/03/13/innovationrx-peer-reviewing-health-ai-tools/"
 webUrl: "https://www.forbes.com/sites/katiejennings/2024/03/13/innovationrx-peer-reviewing-health-ai-tools/"
 type: article
-quality: 69
+quality: 73
 heat: -1
 published: false
 
@@ -21,6 +21,8 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - Meta AI
+  - Google AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/65f225bbc5a806edf1e2dc5a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
@@ -140,6 +142,6 @@ related:
       domain: jdsupra.com
     quality: 12
 
-secured: "uPcZufISADmq+1tirnQesnaTyqvyAgOIEXFPS7HD+S50H/RsTtthZJ2xlk4mnYWOW0m7Xgq646Jbl+nl2pF1o2I96VRZEpHL66PniEtS+/iIx75cbomM9ICjbP3Kk5vUWfoRubceLR6vauVoTpAedFjmwdJsKo5kKZuF21ysAdLwiFT8RtuOhlz0zfxzkGoP3WxtI4462Mu6fL6FZuLI8gEUxCvutJeKEDkt/Q3gtEW6ilk+o6njYbCZ9qeCj4/Z27w7WRkSre6hAqu8Zt5S9TXxuou6tKGLuM3wQhPNK5XIyxRJ/5Q1B65tOuboEQmDlaZ4fGJIEd/Z9s34VDuJG8wA+LWIe0KiW+eRAHlk8sE=;GQK8voOZfkA2Xow8XFS2zA=="
+secured: "uoTaqqSqUDKgjlbtZXqFKikmJl5Q1KXHMjAuZ8Z1N4bEfkbik2mVw388rvW4YD0pkPo2nc3BX+nG6zwE3zgY0WUUydCA/nUk0Z23Xzufywr/LkT2LTBVP8gpD5FamzIg5MzBV+jHvlQOF5QpshEGGjziPdbdIS8iS6b/i4qYOvd/jsNXpaTZLVX9FoIGb3KbESlkcfpxW/8C6/sXr9f5kEoShAw3ULwoGXR82g6ebeZ5a5R7Gc0Rl7rWCsmdT9QwITAN2xBArM3XjQzolA6+J0LKUv6PiOaViybdn8UFsSax47GPBLoB71MrKtH3eVxjz/ZYxU+ACBN3h52SlQksyZqphFZQVUZHoXO91RcIz2vV+rw87c4OH9pO1iAzS9FMtL9Gmsgb/TMoetWEc10ElelOnwHYuFj2k4aWRq0DsVz+Z8FkQLX9uEqD80CBAJGDxXy9ycJ9xVEcN1AfhAxZ+9kXI8I4kOy190PUgNRn8j6PkkCcvQF+KtwtVJ/qKndaMBzZpuYYvft4twnScoM+dw==;z/sUkzm59Q9xmcBszx7nrA=="
 ---
 

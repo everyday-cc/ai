@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/dataiku-launches-g
 webUrl: "https://markets.businessinsider.com/news/stocks/dataiku-launches-generative-ai-cost-monitoring-solution-to-give-enterprises-real-time-oversight-of-their-spend-1033159407"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,22 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+related:
+  - title: "Dataiku Launches GenAI Real-Time Cost Monitoring Solution"
+    excerpt: "The transformative power of GenAI is undeniable and this is evident in the unprecedented hype it has created. However, organizations have to be mindful of"
+    publishedDateTime: 2024-03-13T19:10:00Z
+    webUrl: "https://www.datanami.com/2024/03/13/dataiku-launches-genai-real-time-cost-monitoring-solution/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://www.datanami.com/wp-content/uploads/2024/02/LLM_shutterstock_a-image.jpg"
+        width: 2404
+        height: 1701
+        isCached: true
 
 secured: "LTNKZ4hpLjSrN9WgNuPKI+a3cN8iDagJBYxWl1aooS4R88mBRD03K8J2QBLLAQGfq7jjZ9XFxH/OuuzYi20wkaLggE3vUdfVtq2A5BQJlYwsxE0zaYALfZiqbVPaVibJKFNwhBK+BeikLesYaTSSF0PfFu2fYcW2iqBEwFT8hu7STsOhtxayVvNGPHGCQJrFakudPPCBuk35uzlDUShYj25hiifirhPvuA4E44MZDn8QR4D8lqLb2lAi9pEVvyVs1G/BlAy1i54xPizfBNkm3jGWIHJ9r/OsMhKBE74UDSITnWRS3yT1yBLs69LsgSSzGhbELIqHdbLVp2nGBxT6xAM4AasC4CfoUPIkmSX2SeA=;HibXkEjNOB/onLwpmWz3kQ=="
 ---

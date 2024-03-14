@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "AI could lead to human extinction, says report commissioned by US State Department"
+    excerpt: "We asked AI experts to weigh in on Gladstone's report that detailed \"catastrophic risks\" associated with AI."
+    publishedDateTime: 2024-03-13T20:04:00Z
+    webUrl: "https://www.businessinsider.com/ai-report-risks-human-extinction-state-department-expert-reaction-2024-3"
+    ampWebUrl: "https://www.businessinsider.com/ai-report-risks-human-extinction-state-department-expert-reaction-2024-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-report-risks-human-extinction-state-department-expert-reaction-2024-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 81
+    images:
+      - url: "https://i.insider.com/65f064c56080194819fefb8e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "AI compared to nuclear weapons and could potentially lead to human extinction: report"
     excerpt: "There is a clear and urgent need for the U.S. government to intervene,” read the report, issued by Gladstone AI Inc."
     publishedDateTime: 2024-03-11T22:23:00Z

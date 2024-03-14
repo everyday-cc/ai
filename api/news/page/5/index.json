@@ -2,6 +2,312 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-03-11-litter-robot-4-vs-3-connect-which-automatic-litter-box-should-you-get.md",
+      "title": "Litter-Robot 4 Vs. 3 Connect: Which Automatic Litter Box Should You Get?",
+      "excerpt": "the Litter-Robot 4 is an upgraded version of the Litter-Robot 3 Connect, with advanced safety sensors, a more sophisticated (and quieter) sifting system and better odor control. I have both models in my home and my three cats use each one regularly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2024/03/11/litter-robot-4-vs-3/",
+      "originalUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2024/03/11/litter-robot-4-vs-3/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65eb6c39c78a1860c0563c44/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2024/03/11/litter-robot-4-vs-3/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbes-personal-shopper/2024/03/11/litter-robot-4-vs-3/amp/",
+      "publishedDateTime": "2024-03-11T15:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-11-azure-ai-health-bot-helps-create-copilot-experiences-with-healthcare-safeguards.md",
+      "title": "Azure AI Health Bot helps create copilot experiences with healthcare safeguards",
+      "excerpt": "With the Azure AI Health Bot infused with generative AI and healthcare safeguards, health organizations can build health data services, transform their medical professionals and patient experiences, discover new insights with the power of machine learning and AI, and manage protected health information",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/blog/azure-ai-health-bot-helps-create-copilot-experiences-with-healthcare-safeguards/",
+      "originalUrl": "https://azure.microsoft.com/en-us/blog/azure-ai-health-bot-helps-create-copilot-experiences-with-healthcare-safeguards/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 197,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/03/MSFT_Azure_MAR06_323612_Blog_Blogheader_240307_V02.png",
+          "width": 1260,
+          "height": 708,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-11T15:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2024-03-11-nvidia-says-nemo-ai-platform-complies-with-copyright-law-after-authors-complaint.md",
+      "title": "Nvidia Says NeMo AI Platform Complies With Copyright Law After Authors' Complaint",
+      "excerpt": "By Mauro Orru Nvidia said its NeMo artificial intelligence platform was created in full compliance with copyright law, after a group of authors filed",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/nvidia-says-nemo-ai-platform-complies-with-copyright-law-after-authors-complaint-4b8d4a92",
+      "originalUrl": "https://www.marketwatch.com/story/nvidia-says-nemo-ai-platform-complies-with-copyright-law-after-authors-complaint-4b8d4a92",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/nvidia-says-nemo-ai-platform-complies-with-copyright-law-after-authors-complaint-4b8d4a92",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-says-nemo-ai-platform-complies-with-copyright-law-after-authors-complaint-4b8d4a92",
+      "publishedDateTime": "2024-03-11T14:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-11-emergency-dispatchers-are-using-ai-and-cloud-based-tools-to-help-those-in-need-faster.md",
+      "title": "Emergency dispatchers are using AI and cloud-based tools to help those in need faster",
+      "excerpt": "Emergency-response call takers are using AI and cloud-based systems to help understaffed call centers and improve services like automatic translation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/emergency-response-call-centers-using-ai-cloud-technology-2024-3",
+      "originalUrl": "https://www.businessinsider.com/emergency-response-call-centers-using-ai-cloud-technology-2024-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65eb4c116080194819fe185f?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/emergency-response-call-centers-using-ai-cloud-technology-2024-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/emergency-response-call-centers-using-ai-cloud-technology-2024-3?amp",
+      "publishedDateTime": "2024-03-11T14:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2024-03-11-healthcare-pros-show-interest-in-apples-vision-pro-survey.md",
+      "title": "Healthcare pros show interest in Apple's Vision Pro — survey",
+      "excerpt": "Up to 75% of US healthcare professionals are open to exploring the use of Vision Pro devices at work, survey claims.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3714400/healthcare-pros-show-interest-in-apples-vision-pro-survey.html",
+      "originalUrl": "https://www.computerworld.com/article/3714400/healthcare-pros-show-interest-in-apples-vision-pro-survey.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2024/03/04/20/vision-pro-1-100961865-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3714400/healthcare-pros-show-interest-in-apples-vision-pro-survey.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3714400/healthcare-pros-show-interest-in-apples-vision-pro-survey.amp.html",
+      "publishedDateTime": "2024-03-11T13:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2024-03-11-deepmind-and-stanfords-new-robot-control-model-follow-instructions-from-sketches.md",
+      "title": "DeepMind and Stanford’s new robot control model follow instructions from sketches",
+      "excerpt": "The researchers created RT-Sketch, a model that uses sketches to control robots. It performs on par with language- and image-conditioned agents in normal conditions and outperforms them in situations where language and image goals fall short. While ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/automation/deepmind-and-stanfords-new-robot-control-model-follow-instructions-from-sketches/",
+      "originalUrl": "https://venturebeat.com/automation/deepmind-and-stanfords-new-robot-control-model-follow-instructions-from-sketches/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/03/Screenshot-2024-03-11-at-1.24.45 PM.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 482,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-11T13:41:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-11-the-importance-of-ethical-ai-mitigating-bias-in-machine-learning-algorithms.md",
       "title": "The Importance of Ethical AI: Mitigating Bias in Machine Learning Algorithms",
       "excerpt": "In a world increasingly reliant on artificial intelligence, ensuring ethics and fairness in AI systems is more vital than ever. Join us as we delve into the crucial topic of mitigating bias in machine learning algorithms and explore the importance of ethical AI in shaping a more equitable future for all.",
@@ -911,296 +1217,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-09-matrix-multiplication-breakthrough-could-lead-to-faster-more-efficient-ai-models.md",
-      "title": "Matrix multiplication breakthrough could lead to faster, more efficient AI models",
-      "excerpt": "This could eventually accelerate AI models like ChatGPT, which rely heavily on matrix multiplication to function. The findings, presented in two recent papers, have led to what is reported to be the biggest improvement in matrix multiplication efficiency in over a decade.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2024/03/matrix-multiplication-breakthrough-could-lead-to-faster-more-efficient-ai-models/",
-      "originalUrl": "https://arstechnica.com/information-technology/2024/03/matrix-multiplication-breakthrough-could-lead-to-faster-more-efficient-ai-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/matrix_hero_1-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-08T21:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-08-6-ecommerce-trends-to-watch.md",
-      "title": "6 ecommerce trends to watch",
-      "excerpt": "Powerful AI-driven omnichannel experiences are at the heart of business growth. Explore six ecommerce trends making the greatest impact.\nThe post 6 ecommerce trends to watch appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/ecommerce-trends/",
-      "originalUrl": "https://www.ibm.com/blog/ecommerce-trends/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-08T19:00:04Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-08-renewable-energy-trends-and-developments-powering-a-cleaner-future.md",
-      "title": "Renewable energy trends and developments powering a cleaner future",
-      "excerpt": "The acceleration in clean, renewable energy power generation comes not a moment too soon for policy-makers concerned with climate change.\nThe post Renewable energy trends and developments powering a cleaner future appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/renewable-energy-trends/",
-      "originalUrl": "https://www.ibm.com/blog/renewable-energy-trends/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-08T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-09-navigating-the-risks-of-ai-weaponization.md",
-      "title": "Navigating The Risks Of AI Weaponization",
-      "excerpt": "As AI continues to advance and become more pervasive, so do its risks. From mass disinformation campaigns and deepfakes to fully autonomous weapon systems, the convergence of AI, technology and “bad intentions” demands priority attention.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/navigating-the-risks-of-ai-weaponization/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/navigating-the-risks-of-ai-weaponization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65eb37f10a2278925e9cdb57/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1456,
-          "height": 864,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/navigating-the-risks-of-ai-weaponization/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/08/navigating-the-risks-of-ai-weaponization/amp/",
-      "publishedDateTime": "2024-03-08T16:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2024-03-08-5g-use-cases-that-are-transforming-the-world.md",
-      "title": "5G use cases that are transforming the world",
-      "excerpt": "A look at the applications and use cases that 5G is enabling to transform the world.\nThe post 5G use cases that are transforming the world appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/5g-use-cases/",
-      "originalUrl": "https://www.ibm.com/blog/5g-use-cases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2024/03/ma74481_blog-lead-space-2x1-1.jpg",
-          "width": 1080,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-08T15:41:37Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-08-the-power-and-peril-of-ai-in-digital-health.md",
-      "title": "The Power (And Peril) Of AI In Digital Health",
-      "excerpt": "Artificial intelligence technologies are rapidly being adopted into all facets of society, and digital health is no exception.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/the-power-and-peril-of-ai-in-digital-health/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/the-power-and-peril-of-ai-in-digital-health/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e9f2643e62634b0affa493/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 843,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/the-power-and-peril-of-ai-in-digital-health/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/08/the-power-and-peril-of-ai-in-digital-health/amp/",
-      "publishedDateTime": "2024-03-08T15:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

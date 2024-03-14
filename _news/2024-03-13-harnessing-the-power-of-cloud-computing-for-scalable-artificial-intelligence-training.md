@@ -137,6 +137,15 @@ related:
         width: 650
         height: 450
         isCached: true
+  - title: "Here’s what it’s like to get an AI-powered robotic massage"
+    excerpt: "Aescape offers what it touts as ‘the world’s most advanced massage’ featuring robotic arms and an experience users can control themselves."
+    publishedDateTime: 2024-03-13T18:44:00Z
+    webUrl: "https://fortune.com/videos/watch/Heres-what-its-like-to-get-an-AIpowered-robotic-massage/7d5fcd4b-4b6c-43a4-84fb-43a8cb450ca2"
+    type: article
+    provider:
+      name: Fortune
+      domain: fortune.com
+    quality: 47
   - title: "Fighting AI-Driven Cybercrime Requires AI-Powered Data Security"
     excerpt: "For chief information security officers, the greatest cyber threat is ransomware, which criminals can now weaponize with AI to find weak points faster and wreak havoc in real time. In the face of ever-evolving cybersecurity challenges,"
     publishedDateTime: 2024-03-12T18:50:00Z

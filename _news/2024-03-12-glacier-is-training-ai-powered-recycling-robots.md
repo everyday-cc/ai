@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/03/12/glacier-is-training-ai-powered-rec
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/glacier-is-training-ai-powered-recycling-robots/amp/"
 type: article
 quality: 104
-heat: 204
+heat: 214
 published: true
 
 provider:
@@ -128,6 +128,15 @@ related:
         width: 650
         height: 450
         isCached: true
+  - title: "Here’s what it’s like to get an AI-powered robotic massage"
+    excerpt: "Aescape offers what it touts as ‘the world’s most advanced massage’ featuring robotic arms and an experience users can control themselves."
+    publishedDateTime: 2024-03-13T18:44:00Z
+    webUrl: "https://fortune.com/videos/watch/Heres-what-its-like-to-get-an-AIpowered-robotic-massage/7d5fcd4b-4b6c-43a4-84fb-43a8cb450ca2"
+    type: article
+    provider:
+      name: Fortune
+      domain: fortune.com
+    quality: 47
   - title: "Harnessing the Power of Cloud Computing for Scalable Artificial Intelligence Training"
     excerpt: "Introduction: In today’s fast-paced digital landscape, the intersection of cloud computing and artificial intelligence (AI) is revolutionizing the way organizations approach AI training. The scalability and flexibility offered by cloud platforms have transformed AI training from a resource-intensive endeavor to a streamlined and efficient process."
     publishedDateTime: 2024-03-13T06:08:00Z

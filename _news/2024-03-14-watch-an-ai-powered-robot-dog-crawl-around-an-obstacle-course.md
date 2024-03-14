@@ -124,6 +124,15 @@ related:
         width: 650
         height: 450
         isCached: true
+  - title: "Here’s what it’s like to get an AI-powered robotic massage"
+    excerpt: "Aescape offers what it touts as ‘the world’s most advanced massage’ featuring robotic arms and an experience users can control themselves."
+    publishedDateTime: 2024-03-13T18:44:00Z
+    webUrl: "https://fortune.com/videos/watch/Heres-what-its-like-to-get-an-AIpowered-robotic-massage/7d5fcd4b-4b6c-43a4-84fb-43a8cb450ca2"
+    type: article
+    provider:
+      name: Fortune
+      domain: fortune.com
+    quality: 47
   - title: "Harnessing the Power of Cloud Computing for Scalable Artificial Intelligence Training"
     excerpt: "Introduction: In today’s fast-paced digital landscape, the intersection of cloud computing and artificial intelligence (AI) is revolutionizing the way organizations approach AI training. The scalability and flexibility offered by cloud platforms have transformed AI training from a resource-intensive endeavor to a streamlined and efficient process."
     publishedDateTime: 2024-03-13T06:08:00Z
@@ -157,6 +166,6 @@ related:
       domain: inc.com
     quality: 0
 
-secured: "8Yr966sRP5kQp+1fUaFkmxLueFmkgL+/S+hvEiCYJdAm55DZdi7Sep+0DyarkCuNk5kTjLFdrZdi3Bc/Zxk/TVS1Q7ycUztshxinLvOLVY8RkhJXm8mzRWlYbeVfwNpscHs46l0hBqZULveJdlUbxGpVe6cBl2WiF3L4suB5brY9oU4Aay+BNIwwdSvtcBFx6Iq92Dy2Bjs7n2UuVdYkKjc17YEd90L4kR1r0RMLjgP7K8h9SmQAQ2IMgje161xDPdsvnlKu7t6iuHVLz0d5JSjeTZ/cxRvRySWEpiDN306DDXEHZDsDGlvRMgrs28JizWWs9AQbgANMVcq+pWt8ZfwJ1TGb//B1RP+v/FcXUEE=;a1I9cyxPU+ml+7OaIU3BOQ=="
+secured: "ETw8IWfVoeRU3CRvR5hgvlOljBOE5LgxV5DJSXJtVcZSnrXuF2Ie05i6mOFXPZKVsF/KNqibUpNfTAejkr+avAJLmU3mQ4rxoylQUY9ep8N7m2dnnxe2J4lsNUmSfRP0IyMPE6c94wNAUvjNDQHYJRB0f3tme4RMsu1GHXr8kPRdt6WkGeNpNGeZyRUznheKEE4cqiYiZF9dHO3/FcVOAVpnm048TK5Jvmx2O9WrFv+TqcTYT3DyIFOLQxRcAFFxMar/xOG7RH8dW0cHkayN+iRUniGeTH/mHuk0nR+gRetcCspV06w1/2sL03h/DJ1zjM8bE/syPFv1KbFpjT9Es7MCTSTiAnootJVjL7BPFslhB9irfCjkv+rdLxpoHlCDKR/IVZWQIEgaQOaAxVkdd4WjXfxE1ifVcrH9bPWuSW9peIiTNeAmkH+KKa7oTwbHh/zsUmOwnDdYk5O/bAqO0fMKfWqOOICZ+ChCsYa0QnJLTsmFhUMrE+pFGJGM01hkQcGbOtyw3G9+J4qfrPge8A==;4SnfMm/3Cu/xkdj7j0PYFA=="
 ---
 

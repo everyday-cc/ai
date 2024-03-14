@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/fox-news-ai-newsletter-uncontrollable-s
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/fox-news-ai-newsletter-uncontrollable-systems-could-turn-humans-report-warns.amp"
 type: article
 quality: 81
-heat: 81
+heat: 82
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/us/new-ai-tools-help-doctors-take-notes-mess
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/new-ai-tools-help-doctors-take-notes-message-patients-still-make-mistakes.amp"
 type: article
 quality: 78
-heat: 98
+heat: 99
 published: true
 
 provider:
@@ -31,20 +31,18 @@ images:
 
 related:
   - title: "New AI tools can record your medical appointment or draft a message from your doctor"
-    excerpt: "They could be getting some help from artificial intelligence ... who leads digital innovations for Georgia-based Emory Healthcare, where hundreds of doctors are using a product from Abridge to document patient visits. The tool runs the doctor-patient ..."
-    publishedDateTime: 2024-03-13T00:00:00Z
-    webUrl: "https://www.wral.com/story/new-ai-tools-can-record-your-medical-appointment-or-draft-a-message-from-your-doctor/21326715/"
-    ampWebUrl: "https://www.wral.com/amp/21326715/"
-    cdnAmpWebUrl: "https://www-wral-com.cdn.ampproject.org/c/s/www.wral.com/amp/21326715/"
+    excerpt: "Don’t be surprised if your doctors start writing you overly friendly messages. They could be getting some help from artificial intelligence. New AI tools are helping doctors communicate with their patients, some by answering messages and others by taking ..."
+    publishedDateTime: 2024-03-13T05:00:00Z
+    webUrl: "https://www.washingtonpost.com/health/2024/03/13/chatgpt-ai-health-doctors-microsoft/ad7f12e4-e0f6-11ee-95aa-7384336086f3_story.html"
     type: article
     provider:
-      name: WRAL
-      domain: wral.com
-    quality: 52
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 30
     images:
-      - url: "https://wwwcache.wral.com/asset/lifestyles/healthteam/2024/03/13/21326716/65f1336aab595-media_86a7222f9f1b4c55a1678a68673af435-DMID1-6291d71sa-640x480.jpg"
-        width: 640
-        height: 480
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GWFFZRHBJAI65FNKOOCDGYEG6M_size-normalized.jpg&w=1440"
+        width: 1440
+        height: 958
         isCached: true
   - title: "New AI tools can record your medical appointment or draft a message from your doctor"
     excerpt: "Your next check-up could be recorded by an AI-powered smartphone app that listens, documents and instantly organizes everything into a note you can read later."
