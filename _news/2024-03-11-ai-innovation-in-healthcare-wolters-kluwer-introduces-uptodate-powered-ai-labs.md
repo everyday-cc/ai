@@ -29,6 +29,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 41
+  - title: "Wolters Kluwer’s Beneficial Ownership Platform Receives Top Honors in FinTech Breakthrough Awards"
+    excerpt: "Wolters Kluwer, a global leader in professional information and software solutions, has been honored in the FinTech Breakthrough Awards' Fraud Pr"
+    publishedDateTime: 2024-03-15T07:13:00Z
+    webUrl: "https://news.europawire.eu/wolters-kluwers-beneficial-ownership-platform-receives-top-honors-in-fintech-breakthrough-awards/eu-press-release/2024/03/15/08/10/16/132347/"
+    type: article
+    provider:
+      name: EuropaWire
+      domain: europawire.eu
+    quality: 0
 
 secured: "Ac9wmYf7fz8EZh962td4YK1HWGEPgQrL+vfe1zvdkOvdlIwLOmkN+lGUpmN4pUJoEVzZ9nvak/7PQGPuSHTy2TGR8DrdRDLoUWPZWXyEcDO5ODeo5/j2xraqPOlzlf4XThZQzFUoH06KFePbDlMS0tUsWnFdwYglOPpDXZov1ZW/lNxpvmK9Ef/Rte5IE+KgEyDUmgMLMQHXzGBrRn9VdF85hVknAlCkJTmdFMtw5AJxpPpfy7L8fOc/TySrgeqMMFN+WVqJ4JyilwaJlsToOVUO7HKVEGAI+XjQAyfR+wUnAhutatbHSBrLb+AdNmv5BGUmmN/bNyPZVvXDhDwN0ndWxeNuV/V/vfaZrtoNALj4H6sJguVOfz/2q+gsDeCWHNMO7lvAFoGdzPFKk926HqhZN4pYTcqwMtvkm4nC1yvQHX/rLdZLN/QKTp514JcPZiUgjK9hR/FlB11Mhu83V/EoPF/lFWCgn0mr5KDsIBfOT19bGvy3qXAX8LeZqRfiub+fQ5VD65SaJcBUqgK5lg==;6csyRGTrckHkZ9RHH29wLw=="
 ---

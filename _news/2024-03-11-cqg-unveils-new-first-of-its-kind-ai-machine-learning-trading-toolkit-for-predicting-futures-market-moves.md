@@ -1,29 +1,22 @@
 ---
 category: news
 title: "CQG Unveils New First-of-its-Kind AI / Machine Learning Trading Toolkit for Predicting Futures Market Moves"
-excerpt: "CQG, a leading global provider of high-performance technology solutions for market makers, traders, brokers, commercial hedgers and"
-publishedDateTime: 2024-03-11T11:00:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/cqg-unveils-new-first-of-its-kind-ai--machine-learning-trading-toolkit-for-predicting-futures-market-moves-302084694.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/cqg-unveils-new-first-of-its-kind-ai--machine-learning-trading-toolkit-for-predicting-futures-market-moves-302084694.html"
+excerpt: "Based on the firm's deep experience in analytics, mathematics and market intelligence, the new ML initiative aims to offer retail traders and buy-side firms, including proprietary trading firms and hedge funds,"
+publishedDateTime: 2024-03-11T11:36:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2024/03/11/9975734.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2024/03/11/9975734.htm"
 type: article
-quality: 38
+quality: 16
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
-
-images:
-  - url: "https://mma.prnewswire.com/media/562279/CQG_Logo.jpg?p=facebook"
-    width: 2700
-    height: 1414
-    isCached: true
+  - AI
 
 related:
   - title: "Latest News Shows How AI Business Tools Are Transforming Marketing and Sales."
@@ -99,6 +92,6 @@ related:
         height: 504
         isCached: true
 
-secured: "nH+bR77YFJxXUrix8mBPfOO9vfQXxM4e7y4tFWfuhQzVh+l3UGUjMa/YXMcDdZ+a2j1R1LRxwj4CMXJ0iZfBYtxCUxBlszZvw8Q6xY2qNWn6tyeFVvN1IMbEGyFgxZM9GxL+CswzIY+1c2tvT74oDQ4hyOfCOJ7VSNmMm7icrzGKkohPvyrm1ncWi8L2zQQ8id6/8vET+Cq4mhNj231lmnjf02cvRz6bdpHQU9jk7BkTx2Cf/9xpmbcBADM6iJMlkNW3Jo8W5CGaKy8XoEZxvKQMn0sOf4LmE2J1GqsfCwSjJk/9ZMrkC3u8i8a3YQ/+3ca7KkO2IR4DZn+plaXVccJj8NUg9hWc7RmEDUx3+T8=;yzl9b8UsBlhGZKHkPFcMRw=="
+secured: "u1DTawo8nfm7m6WhH8wbjQNJOUow08a6B/iY9i678Dz3mc4Af/pQp6vr2NL9smTKK5vPOeP2v8gBDzV6wODlsdjYiZuZruuOco402KvIm+tCgArN6rvPUZdvpjibsnhKT3drqp2VuVoVYNeIdeWpy6evz9mWlsdboBM+j5iozu9CsAsCKBvsw2HtJp9EFCaTlmHkwpqyr3cOYoD98CvDDJIOKLLCQSlKHxvFYlM1yEKkMLIBrEEz3y8YciZ74x4MMfubRPwBc5H6c/X/AQkt9tRWee3dev+kJSWGDAUe6bB/zSsm+lAv2tiRgiPC23TEFFf2tXUqDujmHgn7+nNTvVGnE6Y9VwU1lNkcxDDogLM=;dqk9Nm3IyLkK0uolCTlQ2Q=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telecomlead.com/semiconductor/samsung-may-use-sk-hynixs-
 cdnAmpWebUrl: "https://www-telecomlead-com.cdn.ampproject.org/c/s/www.telecomlead.com/semiconductor/samsung-may-use-sk-hynixs-technology-to-compete-in-ai-chip-race-115331?amp=1"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -63,20 +63,6 @@ related:
       - url: "https://static1.businesstimes.com.sg/s3fs-public/styles/article_metatag/public/articles/2024/03/13/2024-01-10t004416z913214778rc2me5afbx32rtrmadp3tech-ces.jpg"
         width: 880
         height: 587
-        isCached: true
-  - title: "Explore Galaxy AI on Try Galaxy App, Now Available to Samsung Galaxy Users"
-    excerpt: "The era of mobile AI has come, and early adopters are already riding the waves of the latest innovation. To fuel the conversation, Samsung has made s"
-    publishedDateTime: 2024-03-10T07:24:00Z
-    webUrl: "https://menafn.com/1107956899/Explore-Galaxy-AI-on-Try-Galaxy-App-Now-Available-to-Samsung-Galaxy-Users"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/updates/pr/2024-03/10/pr_9143_d963e8e0_image_story.jpg"
-        width: 1440
-        height: 1080
         isCached: true
 
 secured: "wkmbYXFPy3nY2WiBsKfpoJA1OMc7BOeqrni5+CPKQCAoWWMMMmAvnqCHvHvkhmIZ5EfGuF1Q3YMf03l2wk42FSMgWE7wgwDzvI/EmKmLtM5Nzbr9NQae1DRWgkBaX+xj6vZ3xu8JB379devf/NpjitlHhf36gyZS64TiRKP07s7LE3XOLhzNS5+czYXBsPz663Z4WoqCW/iZ9kHN17inNtMZK9Lfh95MS8tfHKxHsry5/A5KL8xlRUWOYrf4hfXQ4W5MmxEw5FI8+wn/AOxnOpy/EOaSHio4T4djyyEwU5X8xKBOzFFh8VO4hlOjs3nnAYMOrATT9MoCJAkEh0j9f+Pvs7P/AdEgiDmCI7wG+bqRqFj89+8UkpS416aHJiodqKgY6jONcEkJIedHke/Nt2Mv7jIjjlYFcQwrk45xJ2B2Bqg9Skl/GDiLCqfJuwFTSoXARfCKSLbL8ShX5WLYWQqbvRNUUR91amVPCPVus0/LI1SZ+9q2yKh1Pe20MOtXMMFwy5l2UcUdjU2uHxnTSA==;YlBvonJDvuJT7DnZU2EZwA=="

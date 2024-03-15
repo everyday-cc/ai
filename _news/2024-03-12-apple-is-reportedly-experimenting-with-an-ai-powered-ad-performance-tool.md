@@ -186,6 +186,15 @@ related:
       name: Harvard Business Review
       domain: hbr.org
     quality: 34
+  - title: "How AI is transforming the air travel experience in the US"
+    excerpt: "Aviation insiders at the SXSW Conference revealed transformations that will take the flight experience to new heights thanks to artificial technology."
+    publishedDateTime: 2024-03-15T07:00:00Z
+    webUrl: "https://www.washingtonexaminer.com/policy/technology/2920539/ai-transforming-air-travel-experience"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 19
   - title: "The sibling entrepreneurs' AI-powered credit-underwriting platform, Worth AI, aims to standardize business credit scores."
     excerpt: "The sibling entrepreneurs' AI-powered credit-underwriting platform, Worth AI, aims to standardize business credit scores."
     publishedDateTime: 2024-03-13T16:33:00Z

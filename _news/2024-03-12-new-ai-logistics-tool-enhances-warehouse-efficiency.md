@@ -33,6 +33,15 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Oracle Brings Generative AI to Enterprise Software"
+    excerpt: "Oracle Corporation announced on Thursday that it is incorporating generative artificial intelligence features across its suite of cloud-based corporate software offerings."
+    publishedDateTime: 2024-03-15T08:00:00Z
+    webUrl: "https://techreport.com/news/oracle-brings-generative-ai-to-enterprise-software/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
+    quality: 19
 
 secured: "U+zvDoX/Mo8bcW6wMfHp1H23dlSUsIoLd8P08DTBZhiT42BDAB94DkYSytZccnjDoHyC3I+XBqfIbnWTiHUFOFpupd5gA4LntWZaO0Deuy40Mfi4mp5N8BdUBaXhPGCXZEXlQg5tnm/0K5aFJVsDMZvpq4IaffVa5DkX2D7Zjibdl/W1EW+8VxN8RAiwPH0Ou5m7Ekn9uanYqipITK5Age+lVU0Qj3qwK2lqlUReojLN0OT3bsscvPCvM9g3RBJvHClRn7RpMZNqBnygy8Pu5S6P8tN+HNYVwxcgRdgAm1WDNMM4O8nOdajBvicmJApl2LVpgXOLQdyilOlzNSexUwK6c3lWNxRyWYTDuAMDhkE=;OyATBuJuO5mcMUI6O0ZYpg=="
 ---

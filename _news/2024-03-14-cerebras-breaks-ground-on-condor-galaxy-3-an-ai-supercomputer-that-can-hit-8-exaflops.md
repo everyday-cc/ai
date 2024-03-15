@@ -31,8 +31,8 @@ images:
 related:
   - title: "AI startup Cerebras unveils the WSE-3, the largest chip yet for generative AI"
     excerpt: "The chip, the size of a single semiconductor wafer, has doubled performance to handle large language models in the tens of trillions of parameters."
-    publishedDateTime: 2024-03-13T13:00:00Z
-    webUrl: "https://www.zdnet.com/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/?ref=upstract.com"
+    publishedDateTime: 2024-03-13T06:00:00Z
+    webUrl: "https://www.zdnet.com/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/"
     ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/"
     cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/"
     type: article
@@ -116,6 +116,15 @@ related:
         width: 1500
         height: 835
         isCached: true
+  - title: "Apple Buys Another AI Startup as It Gears up for Generative AI Features"
+    excerpt: "According to Bloomberg, Apple has acquired DarwinAI, a company that specializes in developing small scale AI models."
+    publishedDateTime: 2024-03-15T00:30:00Z
+    webUrl: "https://beebom.com/apple-buys-ai-startup-generative-ai-features/"
+    type: article
+    provider:
+      name: Beebom
+      domain: beebom.com
+    quality: 17
 
 secured: "dhJoi3kkDII9RyPZu3+060HVk63PRzanMlXj5h2ln2FXT5g+ANrfFK6eWHdcs4BbI3mlakHxkNWE9mSIQe8RMQkiUq8lsyR0VFZE8swTo2AIlCOB+rh6b+83zjmp3Kkawt6M5KDyMEQcUWvaXH509bXRFL+Vudn4MImEmRtmEIfvxy1aawvE5TsQ+p+nreI5vPZ85+pHJg5Pe3OoiHge05C75ebo3Z4yabY9xJF3p+vfhjlUI5Sgom+W7imPeLcIay42XtHsTc1fR2tgw1yjR27fQZH9WlwgY/fMo6CREd9QIYw7v4DrtZCGTSp2+Djy3m1sgInjqmO5cKJkikJRgxpQBDq4DVs0ww3FWfuGmY8=;ZgjG2l6aBM3KZf6GgO4ocQ=="
 ---

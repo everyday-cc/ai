@@ -28,6 +28,15 @@ related:
       name: Mashable
       domain: mashable.com
     quality: 47
+  - title: "AI Benchmarking Guide 2024: Top 10 world products"
+    excerpt: "Top 10 World's Products study included the analysis and testing of some of the largest language models (LMs) around the globe"
+    publishedDateTime: 2024-03-15T07:19:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/technology/ai-benchmarking-guide-2024-top-10-world-products"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 19
 
 secured: "s0x8372j5AdL8hZ45hH8ybZuQWqVfCygWYRxzNX6Xy5/LRp1Go2bwQP71wecHCHO21eqxdTYzrReSyi6gwQnLwu/3I7k8gq+L9Gc257ME640/OrqnIXYCdJaAw+dtxlM3XKSYNt+ugi0gobM2y9+FFAfFbw8cXrQGzOW88hBxaAtZmc06OxDXj64IKRe9NhWOc1plEQssS/0jHxwbHu+nMzkIcOkBqfqq6EPWU2/FB8IU298Lk2iaMlStWOGBnJI+9wT6LCxSf537Cf766vGVZwWIGLsKxG/oXLVWV9aRREPUQHn6qyMrh8HSNGdxHIlsJX4c7tS02JwD7IISB9+0y3kZAv+8Qh8m9ySOwT8UyW9oxyP4TH7rc4SWzIHRk2DdXySVucdjJRJS/0gSWte1ZioEWlJcrwQiM18hoZIbuiSd9v+TfFBO3IxvR3UVKw143tBXSwMJAVZcd0JosbtWEgvNnb7lJC3954kMdsY9gyRcvlQKB9NeniK/Rr9JdfuYEiInhVDVFGfrPkj5pM8uA==;xLXLQ8+pY1DiPtARfBDjgw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.techrepublic.com/article/amd-ai-pcs-sxsw-2024/"
 webUrl: "https://www.techrepublic.com/article/amd-ai-pcs-sxsw-2024/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -37,6 +37,15 @@ related:
     provider:
       name: imveurope.com
       domain: imveurope.com
+    quality: 19
+  - title: "Oracle Brings Generative AI to Enterprise Software"
+    excerpt: "Oracle Corporation announced on Thursday that it is incorporating generative artificial intelligence features across its suite of cloud-based corporate software offerings."
+    publishedDateTime: 2024-03-15T08:00:00Z
+    webUrl: "https://techreport.com/news/oracle-brings-generative-ai-to-enterprise-software/"
+    type: article
+    provider:
+      name: The Tech Report
+      domain: techreport.com
     quality: 19
 
 secured: "C+DDkrcp5uHytjAoh3aCPoGIoSjOjO/6KtjX7F2jbGCqkt7QzMrpr6pJ8rxq1t5Uh9tRRkgtARI0RCc3Wsn/U1UhPSBO1YFKdPaU779Xnf86w1EVWrvJVYA908BTJ7o4tcMYiiMsj2Sx/WjlS30hz48nbH4v5ZdNQpxjArwJwgUeT9nEGdCWZ4sMC9AXn/VuZUBwjjjiafHr6HphIBwUtVsjzuQHn5MGFOIydIw1mMxxd1wysQR9pBjlhOqC7CFsqxHCWotj83RgAUdOByuk2awEL+mE0PxL7WKSleSpUAA/S1FSZrcoyENwF3m9TMoLqOTlM/vPO+2WImHN4S8iv/F4IOV37GWXWxeKvSzaNA79NS+0V2F0C5Q1YfD9Vnor1A2PVkgLzHrmyrt/UfRUpBb/YIPLPIp/Fkmw5jVMm/y7WexGOaucKdHCcVewTX69BknGfCiWqlBHbNXOUc8dmUYShYvk9ZAQGdGBnE1j5c4hzO6HkIV0//FakD8pSdqzxdVyXJdvOfpdxUz/73bu4w==;EzVHXg2r29sC/7aqy6fIBg=="

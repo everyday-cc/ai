@@ -52,20 +52,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Hurricanes vs. Flames March 10 Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. When the Carolina Hurricanes face the Calgary Flames at PNC Arena on Sunday (the puck drops at 5:00 PM ET), Sebastian Aho and Nazem Kadri will be among the best players to watch. One of Carolina's most productive ..."
-    publishedDateTime: 2024-03-10T06:20:00Z
-    webUrl: "https://www.live5news.com/sports/betting/2024/03/10/hurricanes-vs-flames-buy-nhl-tickets/"
-    type: article
-    provider:
-      name: Live 5 News
-      domain: live5news.com
-    quality: 22
-    images:
-      - url: "https://gray-wcsc-prod.cdn.arcpublishing.com/resizer/v2/H5QKXUTTNFIB3C4NBW62O2ADDE.jpg?auth=4975a39d17f360a684a4d3975eacee9f136d5c2ba23e74f509b5e86648a9f71f&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Samford vs. Furman SoCon Tournament Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. The No. 1 seed Samford Bulldogs (27-5, 15-3 SoCon) will take the court in the SoCon tournament against the No. 5 seed Furman Paladins (17-15, 10-8 SoCon), Sunday at 4:00 PM ET live on ESPNU. Watch college basketball ..."
     publishedDateTime: 2024-03-10T11:02:00Z

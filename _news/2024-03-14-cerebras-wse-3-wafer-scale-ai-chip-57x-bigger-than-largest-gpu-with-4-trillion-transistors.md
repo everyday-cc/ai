@@ -27,8 +27,8 @@ images:
 related:
   - title: "AI startup Cerebras unveils the WSE-3, the largest chip yet for generative AI"
     excerpt: "The chip, the size of a single semiconductor wafer, has doubled performance to handle large language models in the tens of trillions of parameters."
-    publishedDateTime: 2024-03-13T13:00:00Z
-    webUrl: "https://www.zdnet.com/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/?ref=upstract.com"
+    publishedDateTime: 2024-03-13T06:00:00Z
+    webUrl: "https://www.zdnet.com/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/"
     ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/"
     cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/"
     type: article
@@ -112,6 +112,15 @@ related:
         width: 1500
         height: 835
         isCached: true
+  - title: "Apple Buys Another AI Startup as It Gears up for Generative AI Features"
+    excerpt: "According to Bloomberg, Apple has acquired DarwinAI, a company that specializes in developing small scale AI models."
+    publishedDateTime: 2024-03-15T00:30:00Z
+    webUrl: "https://beebom.com/apple-buys-ai-startup-generative-ai-features/"
+    type: article
+    provider:
+      name: Beebom
+      domain: beebom.com
+    quality: 17
 
 secured: "IvT4GbSS03UJCFFSWA6WwiwJLyVnfo6duK8tLE7cgebE8Cwr9ny3RRC9sXIlW7L2FKu2oAbYHjPFNa7rocT9QxnUHVEd2dec/sV1/2AM8ewLlVj1UNSXuLDh/Z1+z7FnRcQnmyxPaSzJFTiU0Qrh+gL3K6zRfctj4pYukdALMhENzUomcqH6f7WjVk6PLNSoaUWCJcS30Jw5tuvTQ+DLTVs35Y1Ye7U+IvrOXZY945fb5ZMLK0DBXuymnxssE0qCfcpIQNVMRsCXBLqeQIm+eZo9hVrvn6/XoqwDTCTa0/ex5B6KT7jKIb5Xw0d3gueWIamhBJNsceW1lnEM7Y60IRCR7JeT8eBdPJnGwqP5FIqBgbWIhrHj4cTB4DGynuT6acwB12nT4UvzpRux3U3oz5fSJz0DYRaL3jWOM3cE01f6KQTBwKQPd5obHPhG20Zsu8m21qlXUv54A5Au1mM/9igIYTTEUuTGatYgDzoU6QtsOOzyhD5aIxRZwkvKGcUrO9wb9Cwez62ggf2augmsWg==;xNvtzhH+YGADUql9He/N0w=="
 ---

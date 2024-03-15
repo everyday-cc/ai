@@ -87,6 +87,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "How Generative AI Will Change The Jobs Of Architects And Civil Engineers"
+    excerpt: "Generative AI is set to revolutionize architecture and civil engineering by automating repetitive tasks enabling rapid design iteration."
+    publishedDateTime: 2024-03-15T07:05:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2024/03/15/how-generative-ai-will-change-the-jobs-of-architects-and-civil-engineers/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/03/15/how-generative-ai-will-change-the-jobs-of-architects-and-civil-engineers/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/03/15/how-generative-ai-will-change-the-jobs-of-architects-and-civil-engineers/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 88
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65f3f2e12e31f1ca23c6ee4e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Why generative AI systems are stupid"
     excerpt: "Generative AI systems for business are alarmingly inaccurate. Data needs some serious attention to avoid wrong info, bias, or legal trouble."
     publishedDateTime: 2024-03-12T09:10:00Z

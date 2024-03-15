@@ -255,6 +255,22 @@ related:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
     quality: 34
+  - title: "Google Gemini could expose sensitive information; researcher warns about the abuse of chatbot"
+    excerpt: "According to a HiddenLayer report ( via Tech Radar), cybersecurity researchers found the Gemini Advanced when used with Google Workspace or Gemini API, the chatbot was able to expose personal data such as passwords."
+    publishedDateTime: 2024-03-15T09:12:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/google-gemini-could-expose-sensitive-information-researcher-warns-about-the-abuse-of-chatbot-71710493598769.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/google-gemini-could-expose-sensitive-information-researcher-warns-about-the-abuse-of-chatbot-71710493598769.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/google-gemini-could-expose-sensitive-information-researcher-warns-about-the-abuse-of-chatbot-71710493598769.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 33
+    images:
+      - url: "https://images.hindustantimes.com/tech/img/2024/03/15/1600x900/Gemini_AI_1709818707686_1710493652670.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Google to Restrict Election-Related Answers on AI Chatbot Gemini"
     excerpt: "The new restriction to Google’s AI chatbot was first implemented in India, which holds elections in April, before being rolled across other nations"
     publishedDateTime: 2024-03-13T12:30:00Z

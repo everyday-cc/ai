@@ -91,6 +91,15 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 19
+  - title: "Meta Platforms: The EU's AI Act Is A Major Longer-Term Threat"
+    excerpt: "The EU has passed the first global act to regulate artificial intelligence, which will impact social media apps like Meta Platforms. See why META stock is a Sell."
+    publishedDateTime: 2024-03-15T04:52:00Z
+    webUrl: "https://seekingalpha.com/article/4678414-meta-stock-eus-ai-act-major-longer-term-threat"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
 
 secured: "6qpCyPrzsgIDhr/JnWI4vzcQuCoyzPBD4LQVqRarBYY+eCoo0aMmdAPqQNS63R7vyvCHQGVs9/FCf78+dh1U64ThHj3i/d/F2FVvR/16hNQm4v/QjBHtXuu5Rj9DuJ02sJgPs0ReZ/vObdcYb9l3hP88hxPt3PLiceuEo8kEZbdcnzlOPpMaF5Uld440esqKBYZtxF012LsAQXZ89zW9TVE047fAuZiNbvlAjhrgBDD2a1JKrziXMKr/c7V9fdyAu91dz6CtkiMBFCQ5r46Cbgcof42HZ3GfOyY4iForatWZ2p1AsDQyACqfZ4O9baq+u3dKeVoQJuAhy9uNxPfxHAcRf3bc0y8RHKMp09zWpiE=;2K14pdC951+mb+3wMhjiZg=="
 ---

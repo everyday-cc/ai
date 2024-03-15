@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/neilsahota/2024/03/13/ai-in-the-culin
 webUrl: "https://www.forbes.com/sites/neilsahota/2024/03/13/ai-in-the-culinary-world-revolutionizing-restaurant-ops--customer-experience/"
 type: article
 quality: 65
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 600
         height: 260
         isCached: true
+  - title: "ADA and Cycle & Carriage to Elevate Customer Experience through AI/NLP Integration"
+    excerpt: "ADA, the leading integrated digital marketing agency in Asia, is proud to announce its partnership with Cycle & Carriage, a"
+    publishedDateTime: 2024-03-15T05:03:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-ada-cycle-carriage-elevate-customer-experience-through-ainlp-/2024/03/15/9978884.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 30
 
 secured: "JdiL456VlqIPUAit5WJwMh4XgO/3fZR3kVrSDKZa+0j3TeELBr/R9BpJHI3Fi3w273pQwoDQuDJnIyW9GI10vZFs6IQxnRau7lwwMpEkKb27S8RoABk9uIwKKMHx9FcjQur6dxGutVDX9yYd7sohBr4dNVroJftxMa5EZmVnbH7iPT6t5lmOlxrTVWUQTT0ZA8RigphXXe/opa1udPvsN/1V3/WoWU17JsXyQiCWaif4sBmmDlQLIlRX001t8x7JzGEt9zHgocmv1TgCQ29PPiPm2+jJo75aYKSuH+QqYQxym4PZuodPbEaI17SuuJEXg9oZ2g/xX3BVpfdSgmbPylcuj0k9LyF0UaqrNLKCHRYE5dBgN4jGlXPv/mQavivdcBqyEqwJIIZGTJ+krMK74XMTn83CY2QMAGb7/+u1B6JRFZGFhYns4tXgqJlLa6VLdkE/L9hXmOPIvwX+EiWb9TlsQKXJ/q5mixjcVEdOQLqUmgIjVHSSgjX0IYohOhumkdr3kQxv6kxu1D6DTHCjBA==;7kzu9pIyt2bKvQOit2F8AQ=="
 ---

@@ -41,6 +41,15 @@ related:
         width: 360
         height: 202
         isCached: true
+  - title: "Google I/O 2024 held on May 14, could announce Pixel 8a, AI features, and more"
+    excerpt: "Google I/O 2024, scheduled for May 14, anticipates unveiling the Pixel 8a, breakthroughs in AI technology, and announcements about Android 15."
+    publishedDateTime: 2024-03-15T07:00:00Z
+    webUrl: "https://www.digit.in/news/general/google-io-2024-held-on-may-14-could-announce-pixel-8a-ai-features-and-more.html"
+    type: article
+    provider:
+      name: Digit
+      domain: digit.in
+    quality: 15
 
 secured: "2OrZBAXPrHbUl3nOuoIFQArfI2x5VBDAGgpZWelooHkWhxzeYEFqHoaaBKUaJMGbaoF2fmyNb21w7b9x4w8hYFWwfPDb2jQgKZ5H12yKNFqWwPhGfvIjQZYm6tWRezTkEwU7cU0VXZmM4nUZWzctufF/qsKa4cwmS6R6N/IHfwDAbIFqL9Ht95XS6neZDEjZhwO6Qgdkdu/JMjcpD7R9l8WCDa4ooTCHEhI1qT6FbUKQ25u0lPykbZ8MPrPJURHQy74+17O/CMknwekgHs7/d/7MRCYt+brdoTDEJ02Aw3k2m3VRvfP3GU3GuFI4rkJi/WD5d926exVFSVMLyQo6p/myyglj0jPO0MhoKbhBy1k=;iLlLCsseAvzGknIXpzmhSQ=="
 ---

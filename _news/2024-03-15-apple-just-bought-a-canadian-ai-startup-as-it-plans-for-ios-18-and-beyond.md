@@ -32,6 +32,36 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Apple Acquires DarwinAI, Expect Lots of Artificial Intelligence-powered Features in the Future"
+    excerpt: "It goes without saying that Apple is clearly making an attempt to close the gap with competitors like Microsoft and Google"
+    publishedDateTime: 2024-03-15T01:18:00Z
+    webUrl: "https://www.gizmochina.com/2024/03/15/apple-darwinai-artificial-intelligence/"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 70
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2023/10/Apple-logo.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Apple Reportedly Acquires Startup DarwinAI, Could Fuel Tim Cook’s AI Vision"
+    excerpt: "Reportedly, Apple has hired Alexander Wong, an AI researcher who helped build DarwinAI, as a director of its AI division."
+    publishedDateTime: 2024-03-15T06:06:00Z
+    webUrl: "https://www.gadgets360.com/ai/news/apple-buys-darwinai-startup-tim-cook-ai-features-ios-18-in-2024-report-5242410"
+    ampWebUrl: "https://www.gadgets360.com/ai/news/apple-buys-darwinai-startup-tim-cook-ai-features-ios-18-in-2024-report-5242410/amp"
+    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/ai/news/apple-buys-darwinai-startup-tim-cook-ai-features-ios-18-in-2024-report-5242410/amp"
+    type: article
+    provider:
+      name: gadgets360
+      domain: gadgets360.com
+    quality: 59
+    images:
+      - url: "https://i.gadgets360cdn.com/large/apple_logo1_1710481787659.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Apple buys Canadian AI startup DarwinAI"
     excerpt: "The startup also has worked with companies like Lockheed Martin Corp. and Intel Corp., according to Communitech. The under-the-radar acquisition comes ahead of a big AI push for Apple this year. The company is adding features to its iOS 18 software that ..."
     publishedDateTime: 2024-03-14T00:01:00Z
@@ -48,15 +78,22 @@ related:
         width: 1000
         height: 750
         isCached: true
-  - title: "Which Artificial Intelligence (AI) Stock Is Most Likely to Deliver a 5X Gain by 2030: Alphabet, Amazon, Microsoft, Meta, or Nvidia?"
-    excerpt: "They share a common tailwind that's likely to blow hard for years to come -- artificial intelligence ... a massive growth driver with its Waymo self-driving car business. Cathie Wood's Ark ..."
-    publishedDateTime: 2024-03-10T07:49:00Z
-    webUrl: "https://www.nasdaq.com/articles/which-artificial-intelligence-ai-stock-is-most-likely-to-deliver-a-5x-gain-by-2030:"
+  - title: "Apple buys startup DarwinAI, adds staff to its AI division: Report"
+    excerpt: "Apple has bought artificial intelligence (AI) startup DarwinAI and added dozens of the Canadian company’s staffers to its AI division, per a news report"
+    publishedDateTime: 2024-03-15T08:19:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/apple-buys-startup-darwinai-adds-staff-ai-division-report/article67953428.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/apple-buys-startup-darwinai-adds-staff-ai-division-report/article67953428.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/apple-buys-startup-darwinai-adds-staff-ai-division-report/article67953428.ece/amp/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 51
+      name: The Hindu
+      domain: thehindu.com
+    quality: 57
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/oseo7g/article67953429.ece/alternates/FREE_1200/2024-03-08T161152Z_491194416_RC2RH6AA3KO9_RTRMADP_3_EU-TECH-ANTITRUST-WINNERS.JPG"
+        width: 1200
+        height: 833
+        isCached: true
   - title: "Better Artificial Intelligence (AI) Stock: Nvidia vs. Microsoft"
     excerpt: "Nvidia and Microsoft are both promising plays on the AI market, but Nvidia's simpler business model, higher growth rates, and more reasonable valuations make it the better buy. Nvidia's investors should keep an eye on the competitive and regulatory headwinds, but it could be years before any of those challenges limit its growth."
     publishedDateTime: 2024-03-10T13:59:00Z

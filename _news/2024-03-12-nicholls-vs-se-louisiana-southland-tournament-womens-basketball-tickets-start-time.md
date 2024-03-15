@@ -7,7 +7,7 @@ originalUrl: "https://www.kplctv.com/sports/betting/2024/03/12/nicholls-vs-se-lo
 webUrl: "https://www.kplctv.com/sports/betting/2024/03/12/nicholls-vs-se-louisiana-buy-southland-tournament-womens-college-basketball-tickets/"
 type: article
 quality: 14
-heat: -1
+heat: 14
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Kings vs. Magic March 23 Tickets & Start Time"
-    excerpt: "The Sacramento Kings (36-26), on Saturday, March 23, 2024 at Amway Center, face the Orlando Magic (37-27). The game starts at 7:00 PM ET on BSFL and NBCS-CA. If you're looking to catch this game in person, head to Ticketmaster to buy your tickets!"
-    publishedDateTime: 2024-03-10T06:26:00Z
-    webUrl: "https://www.kolotv.com/sports/betting/2024/03/23/kings-vs-magic-buy-nba-tickets/"
-    type: article
-    provider:
-      name: KOLO TV
-      domain: kolotv.com
-    quality: 22
-    images:
-      - url: "https://gray-kolo-prod.cdn.arcpublishing.com/resizer/v2/WH2WNSRK7ZMEVPUP3MNOF63B7M.jpg?auth=15320baaa62d900910eb38ed27b348f3a61e655de5bfe1bbf5661cbdd79aec52&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Furman vs. Samford SoCon Tournament Tickets & Start Time"
     excerpt: "Preview the SoCon Tournament Furman Paladins vs. Samford Bulldogs game with ticket info, start time, stats, odds and TV channel."
     publishedDateTime: 2024-03-10T13:22:00Z

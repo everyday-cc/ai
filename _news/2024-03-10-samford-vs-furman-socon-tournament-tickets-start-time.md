@@ -52,20 +52,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Hurricanes vs. Flames March 10 Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. When the Carolina Hurricanes face the Calgary Flames at PNC Arena on Sunday (the puck drops at 5:00 PM ET), Sebastian Aho and Nazem Kadri will be among the best players to watch. One of Carolina's most productive ..."
-    publishedDateTime: 2024-03-10T06:20:00Z
-    webUrl: "https://www.live5news.com/sports/betting/2024/03/10/hurricanes-vs-flames-buy-nhl-tickets/"
-    type: article
-    provider:
-      name: Live 5 News
-      domain: live5news.com
-    quality: 22
-    images:
-      - url: "https://gray-wcsc-prod.cdn.arcpublishing.com/resizer/v2/H5QKXUTTNFIB3C4NBW62O2ADDE.jpg?auth=4975a39d17f360a684a4d3975eacee9f136d5c2ba23e74f509b5e86648a9f71f&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "UTEP vs. Liberty CUSA Tournament Tickets & Start Time"
     excerpt: "View how Data Skrive uses AI here. The No. 4 seed Liberty Flames (18-13, 7-9 CUSA) will meet the No. 5 seed UTEP Miners (16-15, 7-9 CUSA) in CUSA tournament Thursday at Von Braun Center, tipping off at 6:30 PM ET. Watch college basketball, other live ..."
     publishedDateTime: 2024-03-10T10:24:00Z

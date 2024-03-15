@@ -43,18 +43,18 @@ related:
         height: 450
         isCached: true
   - title: "MAXHUB to Build Advanced AI Solutions with Microsoft Azure Cloud to Drive Global Business Growth"
-    excerpt: "MAXHUB will harness the power of Azure to significantly amplify its international business growth and further AI technology advancements. Amidst expanding global business horizons, MAXHUB integrates with Microsoft Azure to empower itself by meeting the ..."
+    excerpt: "MAXHUB, a leading provider of collaborative communication and interactive display solutions, proudly announces it will integrate Microsoft Azure technology. MAXHUB will harness the power of Azure to significantly amplify its international business growth and further AI technology advancements."
     publishedDateTime: 2024-03-14T08:00:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/maxhub-to-build-advanced-ai-solutions-with-microsoft-azure-cloud-to-drive-global-business-growth-302089144.html"
+    webUrl: "https://www.asiaone.com/business/maxhub-build-advanced-ai-solutions-microsoft-azure-cloud-drive-global-business-growth"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
+      name: Asia One
+      domain: asiaone.com
     quality: 56
     images:
-      - url: "https://mma.prnewswire.com/media/2362485/Microsoft_CVTE__MAXHUB_s_parent_company__sign_agreement.jpg?p=facebook"
-        width: 1986
-        height: 1040
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Mar2024/Microsoft_CVTE__MAXHUB_s_parent_company__sign_agreement.jpg?h=f3613312&itok=ZtY8UFYK"
+        width: 600
+        height: 316
         isCached: true
   - title: "Hexaware introduces an AI web application called tensai GPT"
     excerpt: "Using Microsoft Azure Open AI Service, the application will enable Hexaware employees to harness enterprise knowledge"

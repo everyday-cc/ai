@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 805
         isCached: true
+  - title: "EU antitrust row: Microsoft says Google has a competitive edge in gen AI"
+    excerpt: "Microsoft said that encouraging pro-competitive partnerships in the AI space is an effective way to prevent companies from gaining anticompetitive advantage"
+    publishedDateTime: 2024-03-15T05:59:00Z
+    webUrl: "https://www.business-standard.com/technology/tech-news/eu-antitrust-row-microsoft-says-google-has-a-competitive-edge-in-gen-ai-124031500285_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 35
 
 secured: "FGMRx6fstA8xO5yOWLYpj3ajU8DxZplJiT1+7GUZ3iwm7pZuq6qrmiZ+4J1YnVHyw0vkYVcNKhZ3y39ehfNTaR+edMOcKBpGLiuhuisIKuMK/3+/dxDg/vhuHxSHOIz0z5W9PFqdmrBaV/4AFQvSG/8ax4fRmo3xn7W2q7UP2TUm57FQ7hKYdewYaSMRG0BpzQFyzS94d+u1oahz77Jv0W6xXLhW3eSGuI5lN8NMcaLvKFjY7ng0evW9FeeCZca+Sw+Gtp13ZKdgBnSMx0R7VPBZQ+2BfgOqIxkuq/J6Bq0a7yof6iTdSe78vjDGfcpcSTXHV1Bt0vL23wu2Zp5H+ALqRcM9aFxvPKYz2e+RDtk=;ufxGYlxgtHFpeGxz4Kf8yw=="
 ---

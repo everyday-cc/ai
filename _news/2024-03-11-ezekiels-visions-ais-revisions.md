@@ -25,6 +25,17 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "Witness Avalue's pioneering vision: AI and HMI solutions take center stage at Embedded World 2024"
+    excerpt: "Avalue Technology Inc., a global leader in embedded computing solutions, is pleased to announce its participation in Embedded World 2024, taking place from April 9th to 11th in Nuremberg, Germany. This year,"
+    publishedDateTime: 2024-03-15T06:59:00Z
+    webUrl: "https://www.digitimes.com/news/a20240312PR201.html&chid=9"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 6
+
 secured: "P8LP36+dGw89qb4MZAmOc8VNFDOXNVsyvtpluNCeanKWSJgO4HXKvMI8EdJaIOsru2uvoSDv9zOHs+RFymmAX6TBIYqlJcjjtir19iDeYJf/ON27WgyB5ObD6PMJclZx+/8X9qdAswABRck/k3bp9qPvOizPTYDFNpNnN0PfixLbYkEUceYuYxi4x+mEV7uW+mnHTKm6TenQhJQkPtA9GsX+IGTwWgrUpW6FvsG0zGNf0FAxRCHLnSHJtsutOz5H2lJa47NMLPu5rRr9pzw/mjt5UrawInvu9L3wH1gSAk6qJaNMzzDZRt7KBpHgr+liOMG9GalST+lUIaK5vuuOV2miyhhz+mjSH6AbiC0hOi8YU/maFI1H7yLBbtIHaisWV3swnIvENu/7g4wkm2M5U9ou7EehpIKnc54m5/X+Lp3VLIwe4e3zS33lT8qiRfgCCqeY+tcJnyFEsF5lTW2IHAnb7MyfAFKtHZk0Yp0IlP2dMUGY+FjCH+9k7S0FVOxm1AH6lqUUTotcQqN19V5STQ==;uu5gCkyetd1vHG0a+ykIeA=="
 ---
 

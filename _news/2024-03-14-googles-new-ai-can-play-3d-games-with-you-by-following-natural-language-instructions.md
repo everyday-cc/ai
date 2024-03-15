@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/googles-new-ai-can-play-3d-games-with-you
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/googles-new-ai-can-play-3d-games-with-you-by-following-natural-language-instructions/"
 type: article
 quality: 82
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       - url: "https://stuff.co.za/wp-content/uploads/2024/03/SIMA-header.png"
         width: 1600
         height: 1000
+        isCached: true
+  - title: "Google’s new AI gaming companion may ruin some video games"
+    excerpt: "Google worked with several game developers, including Hello Games, Embracer, Tuxedo Labs, and Coffee Stain, to train and test Sima, and have plugged the AI into games such as No Man’s Sky, Goat Simulator 3, and Valheim, to teach it the basics of playing these titles."
+    publishedDateTime: 2024-03-15T07:30:00Z
+    webUrl: "https://www.aol.com/google-ai-gaming-companion-may-073004626.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://media.zenfs.com/en/aol_the_independent_us_877/8cf4a0e22283a48afa3c037babe8a638"
+        width: 1200
+        height: 671
         isCached: true
   - title: "Google is making an AI to play co-op games with friendless players"
     excerpt: "Google has reveled SIMA, an AI agent that will be able to follow player instruction and perform tasks in various video games."

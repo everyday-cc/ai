@@ -88,20 +88,6 @@ related:
         width: 1200
         height: 748
         isCached: true
-  - title: "Best AI Chatbots for 2024"
-    excerpt: "Spread the loveAs artificial intelligence continues to revolutionize the way we interact with technology, AI chatbots have become an integral part of this transformation. In 2024, a variety of sophisticated chatbots are leading the way in customer service,"
-    publishedDateTime: 2024-03-10T06:42:00Z
-    webUrl: "https://www.thetechedvocate.org/best-ai-chatbots-for-2024/"
-    type: article
-    provider:
-      name: thetechedvocate.org
-      domain: thetechedvocate.org
-    quality: 41
-    images:
-      - url: "https://www.thetechedvocate.org/wp-content/uploads/2024/03/101-5.jpg"
-        width: 1548
-        height: 776
-        isCached: true
   - title: "HNW clients demand better tech but do not want AI chatbots"
     excerpt: "High net worth clients want better technology from their advisers and wealth managers but are not so interested in AI chatbots, a report has found."
     publishedDateTime: 2024-03-12T11:28:00Z

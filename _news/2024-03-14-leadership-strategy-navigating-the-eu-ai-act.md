@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/paolacecchi-dimeglio/2024/03/14/leade
 webUrl: "https://www.forbes.com/sites/paolacecchi-dimeglio/2024/03/14/leadership-strategy-navigating-the-eu-ai-act/"
 type: article
 quality: 67
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -94,6 +94,15 @@ related:
     provider:
       name: TheStreet.com
       domain: thestreet.com
+    quality: 19
+  - title: "Meta Platforms: The EU's AI Act Is A Major Longer-Term Threat"
+    excerpt: "The EU has passed the first global act to regulate artificial intelligence, which will impact social media apps like Meta Platforms. See why META stock is a Sell."
+    publishedDateTime: 2024-03-15T04:52:00Z
+    webUrl: "https://seekingalpha.com/article/4678414-meta-stock-eus-ai-act-major-longer-term-threat"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
     quality: 19
 
 secured: "a3pJ5+KcSkaNHx8RaXPnCpfN73AX4PZ/HQYsAaKuUR+8QrKdVCrO+6+lkDuldInG74thtAhsSNvysWPDaksluRmwg5tSxgEm2YQ3XqxBIglUkWPvlX+UkmSyLij8weTla6blwPf1S4ELSMxkAQxAFDt0ySurxUmD2T+ULch4TUWlUUPBMmVskegj7gByyBWORXgmRTmVE2bZ6ATA2ShJ/4d70T9zEUHBMMdJM5rHzfqLyA2CFU2frXCMk6cAROiLmoUvJUMQWlG2Qt1nw5Xmd+7RC/2FpT1fdTaGT+ITQRfA5/5H/Eemz9tKA+p4q7PHY+9YEBO0cwZhcoF9bsPkqEgBt25DX0H4NUQ3jfJ13sg=;weIksd6el8SWddJEuYzICg=="

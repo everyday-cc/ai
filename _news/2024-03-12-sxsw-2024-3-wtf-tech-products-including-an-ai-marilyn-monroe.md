@@ -27,6 +27,15 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 19
+  - title: "AI Benchmarking Guide 2024: Top 10 world products"
+    excerpt: "Top 10 World's Products study included the analysis and testing of some of the largest language models (LMs) around the globe"
+    publishedDateTime: 2024-03-15T07:19:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/technology/ai-benchmarking-guide-2024-top-10-world-products"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 19
 
 secured: "CQyvMWLBKMnxpYeMiEf1z/zzw9bpjk3qMHECtQmWyEltoyxSicTOzzU1DLinkghR2ksiQ2oCbnJDzIZtTCm5rJKPKVi3Mk9BtDFQfJDQGEkEGHTrJy1tmFFnUMtgaBsWsq7bfj3fAXmxtziA5GPM1WLT9BH5wcUuOYXiNVlnggYjwZhxIgGRR5cXah8x8igU0g6s8KCR0SrQV4VzT87EmRmZGkB2TnB1zpikR8/js3oWUyO9CnBW0HzoAlOE/oCs8tfuS1ktnjSDFITYezQxufPK3N1JcuTSPMaELBdpRREUG8x/Ivnz6UX5N5zK3Vi4r7MUM5MHn4nkWxxw3r2umxr+Hw43kNGrE2eJrcL+hpg=;mt1QFGXGYf1FowO9MQbL3A=="
 ---

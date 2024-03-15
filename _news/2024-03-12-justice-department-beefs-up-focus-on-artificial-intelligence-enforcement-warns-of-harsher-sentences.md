@@ -25,6 +25,22 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "Justice Department Focuses on Artificial Intelligence Assisted Crime"
+    excerpt: "DOJ has now set its sights on criminals using artificial intelligence technology (“AI”) to execute their criminal ventures. Criminals are using AI to execute false telephone voice-related schemes and are seeking illegal access to company funds through ..."
+    publishedDateTime: 2024-03-14T00:01:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/justice-department-focuses-on-3254009/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 37
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.12022_1145.png"
+        width: 1200
+        height: 900
+        isCached: true
+
 secured: "nwNKnQhhQZYy3Y3eJ77MmolCv4yZPmOlgBBvr8mIMWQPMBT5VazLAT5ESvoXFyDPYF22l1w5SqcyrLPYvFRPbZXz9U61lEXY4009Vtf9rEjzM7Cj32DV7Had4hY33htsAe4pg/ixY0kODyjwX0z0gj2q8x8SlFSRiEwgh/3oAycYFG8ndrOFPzAWkTA4HywpVYt8ZbGw6IJxfvgBc2kUOd5awzfDXFijF34hFGrzSAar2ULbaK3J63yjfLnmUXJ4FbHJ9l/dHSgNZr3kHtZ0NSekx16w122RFV1RDs/LhvBRdfGsofmmxNsj/DZNbn+Fa0ImEi2i2pCl+wsL3HVvaD6eAWi0MiQyYEh79nSMyeo=;aFJfxysx6/MF9NiZtBkA8g=="
 ---
 

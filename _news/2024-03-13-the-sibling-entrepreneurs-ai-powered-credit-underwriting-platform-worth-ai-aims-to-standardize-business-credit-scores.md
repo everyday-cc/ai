@@ -194,6 +194,15 @@ related:
       name: Harvard Business Review
       domain: hbr.org
     quality: 34
+  - title: "How AI is transforming the air travel experience in the US"
+    excerpt: "Aviation insiders at the SXSW Conference revealed transformations that will take the flight experience to new heights thanks to artificial technology."
+    publishedDateTime: 2024-03-15T07:00:00Z
+    webUrl: "https://www.washingtonexaminer.com/policy/technology/2920539/ai-transforming-air-travel-experience"
+    type: article
+    provider:
+      name: Washington Examiner
+      domain: washingtonexaminer.com
+    quality: 19
 
 secured: "quiQBmdgf3XBlqKL0gVWEySNRW9bGQ7UBfh+kDKGXdN3PMN9vxOilp++o7QIq9VuXRmTTfDQajMJs4jSYOtpPGN24Lp+zz7Vl4HAJC5RPxOgKzqvsAlJzpooLnTzmum5HMt5cPq44swCC/ZtKiLRUceqJ2agRiscYQEOFrWNml73B6eQ5eAMV0ejRXoOm9lJ5Dlwn75aJ+/4TdwE22Ex37zNiDaHyyTggEO3E4YEo0RRrUr0iI4wlHJvUkSTWqfFSBnd2XP0AyieDyKRePXqO8IxmHR7nKT1MLYXFaafuKTs8eEP0xqp53q9/okTZWfPHOr79WnM+lj8hgojDkOGvFJCx+heVPffVor+oD7a1Hy/ZwN1FmGCYIhSNpJGEBf6fii4PwoAkB5OQr5+qPp8C1gc2jYz+QtNK31PqUtTibmDAWZkTFLxc8u4iecdVFHuHxmjQk7U21qWznHAKwmsrG7c4DcLMC7aUQ3fkKDdHhRzr4pgjabFwrrM3o11RF3BC9jbPR6GTcmDRyHcaMTe1A==;n/QAOrlXZxvUeggD49PvQQ=="
 ---

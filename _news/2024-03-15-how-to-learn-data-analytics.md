@@ -3,11 +3,11 @@ category: news
 title: "How to learn data analytics"
 excerpt: "These tools range from Apache Spark and his own Quantum Metric to SAS, Google Cloud AutoML, and SAP Analytics Cloud. Lastly, Van de Wiel and Ciabarra agree that as a core analyst, the technical skill of visualization is critical. Visualization refers to ..."
 publishedDateTime: 2024-03-14T21:54:00Z
-originalUrl: "https://fortune.com/education/articles/how-to-learn-data-analytics/"
-webUrl: "https://fortune.com/education/articles/how-to-learn-data-analytics/"
+originalUrl: "https://fortune.com/education/articles/how-to-learn-data-analytics/?ref=biztoc.com"
+webUrl: "https://fortune.com/education/articles/how-to-learn-data-analytics/?ref=biztoc.com"
 type: article
 quality: 54
-heat: 95
+heat: 114
 published: true
 
 provider:
@@ -72,6 +72,29 @@ related:
         height: 627
         isCached: true
   - title: "InfluxData Collaborating with AWS to Bring InfluxDB and Time Series Analytics to Developers Around the World"
+    excerpt: "InfluxData, creator of the leading time series platform InfluxDB, today announced a collaboration with Amazon Web Services (AWS) to deliver Amazon Timestream for InfluxDB, a new managed offering for AWS customers to run InfluxDB open source natively within the AWS Management Console."
+    publishedDateTime: 2024-03-14T00:01:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/14/9978877.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 20
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "TransUnion launches new data analytics platform powered by AI"
+    excerpt: "The credit bureau's data analytics portal, OneTru, hosts all previously offered products on a hybrid cloud-based platform and uses guides powered by artificial intelligence to streamline query processes."
+    publishedDateTime: 2024-03-14T23:49:00Z
+    webUrl: "https://www.americanbanker.com/news/transunion-launches-new-data-analytics-platform-powered-by-ai"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 19
+  - title: "InfluxData Collaborating with AWS to Bring InfluxDB and Time Series Analytics to Developers Around the World"
     excerpt: "InfluxDB open source now offered as a managed service for time series data powered by AWS, accessible within the AWS Management ConsoleSAN"
     publishedDateTime: 2024-03-15T01:57:00Z
     webUrl: "https://www.01net.it/influxdata-collaborating-with-aws-to-bring-influxdb-and-time-series-analytics-to-developers-around-the-world/"
@@ -81,6 +104,6 @@ related:
       domain: 01net.it
     quality: 0
 
-secured: "0R3f/uu89XttVgc0OX8UVA92JllFb8Osax2QSjZ2I/YN5QqBlbdiM4hdPWFhTdF1U8zyH01rV+hqxjuxMdgO1ysGpKi6WOPp2GXPaJ3mpoOyAMJg3HBAaRWGMmMNBf8f09MvTCxzLoWgzGl4qxYjS5Pm6l6G9gBxYEAqDGWIbYLR+jhTZjwwHdmcBckzX8j5TMED3/f1rtG4hYHXnebrgMMKHMr+gjNBh+/C+GTfSxXgIv3zLJZAfyE/D4+ELfqH7QbNhbkVFHohFj6D8dLBjvyjbqw5gIDe20R+wM9jROQNUZuozkiK1zynAfHiTKWPflV+lNlqawwjvL7mld90uBY+CJD6l24PUuMqUOkcprc=;EDW2N0Zle2wselZvcU18fQ=="
+secured: "kETqeDKz+cyNKSBCsCiXaLhMiZ3PWLD4MbiaHkHu6OJb/f2boVWfuTPyO0eAinVbeDcKxpK/vkpfUsFkjFzxGdQ2LV8mnqXIULRC/rL2NaR1grrWmjUUdpo+5/323dvteDYUIpafs+8fDizHwhLQ2AtJ/LgQpfGrCoOw9ulQpxxJXsCGcL+XTmakEk/dMhcqwu6jEmObiScl/lNKwcKHgjFmWK/0GwhNB+tMZ4OqsDct0qxfHpdLkvR9uBese3TULOaibIjR/1sTNNfvbH5Ra+SV+Zkrtn0A18iK26uRhj5ZPwdLwsUwpRjVyBJHsaCcPjq7s58Xq8FLbSwch9O/t+oZH6i/JJTxL5uXvTuaJT8=;/qMhz6XtJoRgMHg1nkKQtg=="
 ---
 

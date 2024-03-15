@@ -69,20 +69,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "CQG Unveils New First-of-its-Kind AI / Machine Learning Trading Toolkit for Predicting Futures Market Moves"
-    excerpt: "CQG, a leading global provider of high-performance technology solutions for market makers, traders, brokers, commercial hedgers and"
-    publishedDateTime: 2024-03-11T11:00:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/cqg-unveils-new-first-of-its-kind-ai--machine-learning-trading-toolkit-for-predicting-futures-market-moves-302084694.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 38
-    images:
-      - url: "https://mma.prnewswire.com/media/562279/CQG_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
-        isCached: true
   - title: "Latest News On AI Deployment Shows Companies Implementing Generative AI with Speed and Safety"
     excerpt: "AI deployment has become increasingly significant in today’s industry landscape. Companies are leveraging the power of artificial intelligence to revolutionize various sectors and drive innovation. One particular area of focus is generative AI,"
     publishedDateTime: 2024-03-15T03:44:00Z
@@ -97,6 +83,15 @@ related:
         width: 1000
         height: 504
         isCached: true
+  - title: "CQG Unveils New First-of-its-Kind AI / Machine Learning Trading Toolkit for Predicting Futures Market Moves"
+    excerpt: "Based on the firm's deep experience in analytics, mathematics and market intelligence, the new ML initiative aims to offer retail traders and buy-side firms, including proprietary trading firms and hedge funds,"
+    publishedDateTime: 2024-03-11T11:36:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/11/9975734.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 16
 
 secured: "r+WIIpUhDNJhmM/2OjUvJpQAqkggBtlR6dR+rR3IchcVi6n+QGUH78I3CUoJpYbhrMXKmFBEme1bnXr9xlHlP9lzCESMDKe3+Gu1s8yIyRrFQyjMgXnYDZGChOvnX6pUjp+O+8A5JiFM3tjYmTkSGsgM4vlYGpmb8pfh0GjLVeMwyMYdqC0Th0BF9VL0Yfr0H3ZgowSrWNGiPJ8keSkIc50h+JLRjXiZx8PYHMl3aLfBeCNiJcR8a9LE30UjhYNRIGgoq9POjKN9dfMv6b8GPi2bEFAqNyAiuT/vQr6ktwKX0lWqnevVg2eM7wbl/7pxFwC7BIrXNYmPU6KxjD2R5gVzKLm9l9t01eCzTmZ6I+FgsEBCNVBJX98WcXGAte/CfLcTm2CM2iFG9kjWQi7dtoOFDKEKO9NYglaeY5eCeH7tkGRKsocI72gs83HMEyx6o1P7XTOMAwvIUqGY5lbvw92VNiKiAsWeyFT29VfExEnSPZpf2ZqOoLPDosTBy1eNUn/Yd0U1rNofycWPLnP4fA==;kTBVD8ihYw0OVWS34qH1dg=="
 ---

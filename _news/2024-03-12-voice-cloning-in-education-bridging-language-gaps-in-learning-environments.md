@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Postdoc position available in “image-based classification pipeline for Lake Geneva phytoplankton using machine learning”"
+    excerpt: "The Microbial Ecology research group at the University of Geneva in Switzerland ( seeks a 2-year postdoc candidate with skills in machine learning and image analysis. The overarching aim is to analyse time series of phytoplankton and environmental dynamics in Lake Geneva,"
+    publishedDateTime: 2024-03-15T08:26:00Z
+    webUrl: "https://www.unige.ch/forel/en/evenement/actualitesrss/postdoc-position-phytoplankton"
+    type: article
+    provider:
+      name: unige.ch
+      domain: unige.ch
+    quality: 9
 
 secured: "HKQyZLhuMSM0jA7ZH19NmCTMmOKqrdowYQilySHGYxSp3ivwY2nlSPCNu/BABIcPFp1VpUN9tCMkLKK4BmwrreKZix70AVzNJWbExbHwLYIiBI7WxHD/qtwHgfZBQBAKIIJouCl/F33Iuni5OiQC1jzH8St00rUVrC9KksROlcix8UWkLlOho8XDJ8mGs3NfR+Xjw93ChhqwoM/6oyuKj7mD1lkdnG0oGPRbI6eaBTnma67PGksa9bdrCi9un1ZwIfjYo1tv88dlCy87i+/7VZPq3uu7IHmCn5XGpxkUwLgjU9LgLp7Bj9jIMasPOSDkSzsQTBC4wBSyxm7TakjiemHyC5qjoNE7Qeu51VkKYK/Zn3jYhGtuq6u969k0zfF0dBSOXns1g8nR8GncshPHxyS1qGtEFvVR4YGeVq5mM7tvMIs3MavK2kA/ewQcsGzWUE+TC9k7Qv+MwTl12qK9F76tvqCUCSQhpky9GGU7NkpGMHnb+fheXaBfBqDWfHyZ+hThZzZo6/P+G+g9DLh4jw==;KWnnRjwimcQn7pvQpij8dg=="
 ---

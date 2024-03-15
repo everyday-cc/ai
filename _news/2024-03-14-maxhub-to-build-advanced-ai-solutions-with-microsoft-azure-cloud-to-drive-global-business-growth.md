@@ -1,27 +1,27 @@
 ---
 category: news
 title: "MAXHUB to Build Advanced AI Solutions with Microsoft Azure Cloud to Drive Global Business Growth"
-excerpt: "MAXHUB will harness the power of Azure to significantly amplify its international business growth and further AI technology advancements. Amidst expanding global business horizons, MAXHUB integrates with Microsoft Azure to empower itself by meeting the ..."
+excerpt: "MAXHUB, a leading provider of collaborative communication and interactive display solutions, proudly announces it will integrate Microsoft Azure technology. MAXHUB will harness the power of Azure to significantly amplify its international business growth and further AI technology advancements."
 publishedDateTime: 2024-03-14T08:00:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/maxhub-to-build-advanced-ai-solutions-with-microsoft-azure-cloud-to-drive-global-business-growth-302089144.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/maxhub-to-build-advanced-ai-solutions-with-microsoft-azure-cloud-to-drive-global-business-growth-302089144.html"
+originalUrl: "https://www.asiaone.com/business/maxhub-build-advanced-ai-solutions-microsoft-azure-cloud-drive-global-business-growth"
+webUrl: "https://www.asiaone.com/business/maxhub-build-advanced-ai-solutions-microsoft-azure-cloud-drive-global-business-growth"
 type: article
 quality: 56
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/2362485/Microsoft_CVTE__MAXHUB_s_parent_company__sign_agreement.jpg?p=facebook"
-    width: 1986
-    height: 1040
+  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Mar2024/Microsoft_CVTE__MAXHUB_s_parent_company__sign_agreement.jpg?h=f3613312&itok=ZtY8UFYK"
+    width: 600
+    height: 316
     isCached: true
 
 related:
@@ -76,6 +76,6 @@ related:
       domain: finanznachrichten.de
     quality: 12
 
-secured: "JCA3fiRl3tj52kh0ptUJwZSzk+sz+SlW/14hQl62UGvGWuT42kjF1U3fEgR3mYWahB7IZw5AaWzk7tqUHyC2M2Mh/raJNrKPDFAugdn7qw2ciIQzLIRfYjD2wdTPMRo+RwgH0bpbzbQOPGDvvVbTCSfd+KeO8WCdxUnNt4cB+iy4XVGwCsr8FJ5rJdm8WwgMUXFafpAGffSu85gqbeDUQYcvu1Y5wjWKbBUthUzeMbZaZCQON9ZYWP4RP5iXyEUrGlHQMlruI41NjguLoYCkh8bnFkGUCyZuUP70bm7ujRccdAWuODH96/qz9klHz8ADg5B2AXRuQON0UCTBg5dqSRw3qMIWz5Bx58DgYVUdbaH3KL9/8PkHGpItmwTbhOt5q6rk55azyzF3HdtDZ/us/ZX7VYMcx/48dHl2M4amuKnaBM6iFg63hW06AM4VZweLsHHHZK6BxAFiH3xSTZRXu+J9h/i8jGuFmhImNKgNhxvbtL2EI6C0HZhqsxu25/7nlpCHwIzvGGUV+V0xyfc9FQ==;esnca14GDD+lZzSFhWa4PA=="
+secured: "ndVOo633XRAca7YSvKocJo6XMNZ4nslo8sjm88wmLqw+wj971aQAa/jnLG3CcUSvylAyyUwW/hxm9QNMvygeg4DrsK+Iq6hv2dY+i++a410BXes/Dgg49llgLtVa+8DuMYkam3Tru2wgZbh2jXXUNMQ4qNDvvJfu0Y+qUTcaE1zary6Sow2Oy0IVWZUTJCQfkbH7AUhxPMxvnM6jTIsKpQPSrUz2pofteEZ2c02YP/F5EebeWMKNj8FBUaFl0Kn5S3x6OOaA/kDbJK2VOhU+Prp6DsnUxQzRp0D8jYE8HfzxWeT7/LFHpY+jpYcl6W/Ocx49Pxqk614fvQjF/MUZ4EIjxVgP2J6p4ZvhTdVxXxQ=;rHseult9U4RXt+XoAEFJZg=="
 ---
 

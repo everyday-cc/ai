@@ -7,7 +7,7 @@ originalUrl: "https://www.israel21c.org/ai-is-humanitys-best-hope-and-worst-fear
 webUrl: "https://www.israel21c.org/ai-is-humanitys-best-hope-and-worst-fear-says-top-ai-policymaker/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1381
     height: 1000
     isCached: true
+
+related:
+  - title: "Will AI save humanity? US tech fest offers reality check"
+    excerpt: "Artificial intelligence aficionados are betting that the technology will help solve humanity's biggest problems, from wars to global warming, but in practice, these may be unrealistic ambitions for now."
+    publishedDateTime: 2024-03-15T08:28:00Z
+    webUrl: "https://techxplore.com/news/2024-03-ai-humanity-tech-fest-reality.html"
+    ampWebUrl: "https://techxplore.com/news/2024-03-ai-humanity-tech-fest-reality.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2024-03-ai-humanity-tech-fest-reality.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2024/sxsw-attendees-watch-t-1.jpg"
+        width: 1280
+        height: 855
+        isCached: true
 
 secured: "FYkcMf9gy4aqgm87UUwiZhO28UTI0//09WAws/dwqAOdzt3d/BfAHs2vdedX9AWUvdkJfMRnIdrDX2s57rcBye3uyT02XKKo5pBh2kQyyW8mfKk9NxNUsZDwp5U6wqeSFv+/oiXRMeXOGy+pffK9kcbdHuPeBddBDbn4Y+f3wFO2TZwrnkZMbgzuE2l8zflbCOjOcaVta4mjFNEUf/sQhZUE+PW3mfzONIxPKF2tHFb2vxd2YOHL76GdMvpvcQlJZJ7x0RENYJxBq0OPn8Q7aW55AtCXOsvs1k0Fb1+4R4mchoHj4LSY8d4C7aNiLOVwsYWySEvpGijfeCvW/ysMdz1wIfVrh1UKVRNyUWMDWxc=;kDqFxtJscXGCFepm5rbB8A=="
 ---

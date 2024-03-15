@@ -28,7 +28,7 @@ related:
   - title: "How to learn data analytics"
     excerpt: "These tools range from Apache Spark and his own Quantum Metric to SAS, Google Cloud AutoML, and SAP Analytics Cloud. Lastly, Van de Wiel and Ciabarra agree that as a core analyst, the technical skill of visualization is critical. Visualization refers to ..."
     publishedDateTime: 2024-03-14T21:54:00Z
-    webUrl: "https://fortune.com/education/articles/how-to-learn-data-analytics/"
+    webUrl: "https://fortune.com/education/articles/how-to-learn-data-analytics/?ref=biztoc.com"
     type: article
     provider:
       name: Fortune
@@ -67,6 +67,29 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "InfluxData Collaborating with AWS to Bring InfluxDB and Time Series Analytics to Developers Around the World"
+    excerpt: "InfluxData, creator of the leading time series platform InfluxDB, today announced a collaboration with Amazon Web Services (AWS) to deliver Amazon Timestream for InfluxDB, a new managed offering for AWS customers to run InfluxDB open source natively within the AWS Management Console."
+    publishedDateTime: 2024-03-14T00:01:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/14/9978877.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 20
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "TransUnion launches new data analytics platform powered by AI"
+    excerpt: "The credit bureau's data analytics portal, OneTru, hosts all previously offered products on a hybrid cloud-based platform and uses guides powered by artificial intelligence to streamline query processes."
+    publishedDateTime: 2024-03-14T23:49:00Z
+    webUrl: "https://www.americanbanker.com/news/transunion-launches-new-data-analytics-platform-powered-by-ai"
+    type: article
+    provider:
+      name: American Banker
+      domain: americanbanker.com
+    quality: 19
   - title: "InfluxData Collaborating with AWS to Bring InfluxDB and Time Series Analytics to Developers Around the World"
     excerpt: "InfluxDB open source now offered as a managed service for time series data powered by AWS, accessible within the AWS Management ConsoleSAN"
     publishedDateTime: 2024-03-15T01:57:00Z

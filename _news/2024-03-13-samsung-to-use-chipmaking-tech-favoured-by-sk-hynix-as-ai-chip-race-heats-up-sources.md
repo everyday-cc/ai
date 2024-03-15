@@ -64,20 +64,6 @@ related:
         width: 1200
         height: 765
         isCached: true
-  - title: "Explore Galaxy AI on Try Galaxy App, Now Available to Samsung Galaxy Users"
-    excerpt: "The era of mobile AI has come, and early adopters are already riding the waves of the latest innovation. To fuel the conversation, Samsung has made s"
-    publishedDateTime: 2024-03-10T07:24:00Z
-    webUrl: "https://menafn.com/1107956899/Explore-Galaxy-AI-on-Try-Galaxy-App-Now-Available-to-Samsung-Galaxy-Users"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/updates/pr/2024-03/10/pr_9143_d963e8e0_image_story.jpg"
-        width: 1440
-        height: 1080
-        isCached: true
 
 secured: "y2yYRu3SkcWi5yUBMFojQFcTG9a9MWJKVAqAc2nRXRbjx+Bzsmcz6LsNqgBBwMVBLUC6PgVJyaPCLOBOSVeBtjldUb122z+Z3RFwAxhQLym1x+YGMiUIir9/0Q/0zk1sICg29ZYHTgoWoK7ZkWCiWliJinD/7aiVpYfkE9pC5zemS+mQhfq4A0FMTJy0EWT62xVkU/WKLFb+TXnVorZA2AOkphaYZFqMGwmcYqPUcI5AWNomNixfBcvOt9LfjXypmBJLAZolX4UOI6sUvK0j6q2cCAhGozZ4yqI6tPaikseLc7Dh7kPBOlAF7QYVMYEAgd/zPuv9bf6M8EFY4eoig4z4eqv7oUWHcB4fqkEdsYo=;jBr56LY2ivpClDDk1kAjjA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/03/14/after-aws-and-google-microsoft-say
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/14/after-aws-and-google-microsoft-says-its-removing-azure-egress-data-transfer-fees-but-with-caveats/amp/"
 type: article
 quality: 105
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -48,6 +48,15 @@ related:
         width: 830
         height: 553
         isCached: true
+  - title: "EU antitrust row: Microsoft says Google has a competitive edge in gen AI"
+    excerpt: "Microsoft said that encouraging pro-competitive partnerships in the AI space is an effective way to prevent companies from gaining anticompetitive advantage"
+    publishedDateTime: 2024-03-15T05:59:00Z
+    webUrl: "https://www.business-standard.com/technology/tech-news/eu-antitrust-row-microsoft-says-google-has-a-competitive-edge-in-gen-ai-124031500285_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 35
 
 secured: "IQwpX28Bo1CAvOPvU2VAVJw6mfCnBpgfktVkRp9UrlGjKsajX9yRiYJn3wUBBn7pFqdicEpBIABa2NdqxqQ9t5yAdOC6kdTcStj1gpWwp8faykSzoMXZUKFW7/qsTakgUh7pYtEVy6EF05xVgzREgvrYDh371Wy1+ISZ1dDIy7kmftBqzP4CMfUWzj18WcM/16NQGxjk0mD7UuArOR5Am9LUDz2fZwwSuteHumw9AkVrl5+QFpSGuMVsY93VTTaD7kN0HRZ6tTZ3uVTAcja9wJkDxPK+yQnO3ELcR6Zy+1nvFv6Q30w//6nbX5qE272JRV4mtxWmN2utWDrYQF5urmnxJl8BJRcGo5Vm+FtJpdmMSoVp0s7fPA0QvhvrZto8AhcGdYL0jypXGKSkI4Dvjo988kpISv6vZpRbI2XLChX2z1XXgkyVrwJmpTFzYP6gAb9fKekbYG2mMit0ThpDREgG+6tOn0kWXtmhQvsMaA3ubJGAmmDFuBkvhn+EdmeLsr4psKe6ixaE7e4WTkhopw==;oxziyVoS7OdK0Zvw0Vr4yA=="
 ---

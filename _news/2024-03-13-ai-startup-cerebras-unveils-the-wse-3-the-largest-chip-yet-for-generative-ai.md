@@ -2,14 +2,14 @@
 category: news
 title: "AI startup Cerebras unveils the WSE-3, the largest chip yet for generative AI"
 excerpt: "The chip, the size of a single semiconductor wafer, has doubled performance to handle large language models in the tens of trillions of parameters."
-publishedDateTime: 2024-03-13T13:00:00Z
-originalUrl: "https://www.zdnet.com/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/?ref=upstract.com"
-webUrl: "https://www.zdnet.com/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/?ref=upstract.com"
+publishedDateTime: 2024-03-13T06:00:00Z
+originalUrl: "https://www.zdnet.com/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/"
+webUrl: "https://www.zdnet.com/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/"
 ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/"
 type: article
 quality: 101
-heat: 171
+heat: 181
 published: true
 
 provider:
@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - AI Hardware
+  - AI
 
 images:
   - url: "https://www.zdnet.com/a/img/resize/ae31154ea474b18f8cee28ac96cedae0c8b190c1/2024/03/13/0036db94-4241-4f06-a8eb-1eef2c4c37be/cerebras-2024-wse-3-3.png?auto=webp&fit=crop&height=675&width=1200"
@@ -116,7 +116,16 @@ related:
         width: 1500
         height: 835
         isCached: true
+  - title: "Apple Buys Another AI Startup as It Gears up for Generative AI Features"
+    excerpt: "According to Bloomberg, Apple has acquired DarwinAI, a company that specializes in developing small scale AI models."
+    publishedDateTime: 2024-03-15T00:30:00Z
+    webUrl: "https://beebom.com/apple-buys-ai-startup-generative-ai-features/"
+    type: article
+    provider:
+      name: Beebom
+      domain: beebom.com
+    quality: 17
 
-secured: "Bm0gOogtjGqhpkiiOhTB2tUP+hx0jQ3MrTYflLxgVU1WahdLIHDM8TASxgmYfy8Qccmau4e3wQZX+jN7c0m70veWin750nwVnbCC+5mNnxRZ+RJfPZgj0zoVvWls6PjCpYMdBUIvkr3X17CSHDHnbrOdk0WjVhKYpzLdc5HcCRrR/fhzPrbmjZuF0Vg6eiRVO0r/Gu5L/E/QZLQmDCUj4gL/UdPctDid8tqiPuQw+u1R/LyQDrLoa7bqUqMkPlnDf9xRTXwOYeyKbcWVq+mfoOaT4BRu6FFO3VUDt2lorkZRUF5ovhv9vrT9Z7QHXkcyfys/QyI9BCkgwKeidNxGki0MEQgZqQKKGq8ZkBDF7dM=;OBn/JK/6JtnYK+P2ULFxLg=="
+secured: "YUfW3cw96CTmixyzSXo/0TT5ObaQkF3wUZwAAWkWg0UeCfKc34QehjWjrDQx3udlicNFUpWiQVlGV0Vi9Hd7E4pYaalJL5biQXbuQgCGLzHTdwXhCYrmmrgUDvxzs1oB/S5bd4QRrIZ8Ic3QfZxDVrjVefCRddBVk4HqBDfbgsTugKWFPOJWgC+1YJ75wUOu2xvctWr8xX/vVrPlZqMZ9X4aS8wi5T5LECbOmhGREip2tg9HPjf/VYw+eJvvgbD+or1UA7o/OyKoxplyzR8x+MuAI/ZyxdvmyHr6e7VrbzcLtyoWdAaYHhwMca615E22PjSG1OINORHLfDiWN/Fr2zOhVOg+B1P3lbmqnb8HP14=;F2YolTy79dLlFgmlRzwnUA=="
 ---
 
