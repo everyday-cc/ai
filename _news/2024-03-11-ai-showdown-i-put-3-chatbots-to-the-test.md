@@ -57,6 +57,20 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "More Than Chatbots: AI Trends Driving Conversational Experiences For Customers"
+    excerpt: "It's evident that businesses continuously need to adapt to changing communication trends driven by advancements in technology."
+    publishedDateTime: 2024-03-15T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/15/more-than-chatbots-ai-trends-driving-conversational-experiences-for-customers/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 63
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/656a32d99fe5eeaf72384048/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Musk says AI start up will open-source chatbot Grok"
     excerpt: "Proactive Investors - Elon Musk’s xAI, his artificial intelligence firm, is set to open-source ‘Grok’, a chatbot aimed at rivalling OpenAI’s ChatGPT. Grok was released by xAI last year, boasting ‘real-time’ information and holding views which argued against the ‘politically correct’ approach."
     publishedDateTime: 2024-03-11T10:33:00Z

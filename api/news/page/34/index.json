@@ -2,6 +2,177 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2024-02-20-elon-musk-claims-first-human-brain-implant-neuralink-is-a-success-with-patient-zeros-mind-control-powers-unveiled.md",
+      "title": "Elon Musk claims first human brain implant Neuralink is a SUCCESS with ‘Patient Zero’s’ mind control powers unveiled",
+      "excerpt": "Musk claims the \"patient zero\" has progressed significantly and is now able to control a computer mouse ... limbs - or perhaps even completely new robotic bodies. The Tesla boss explained ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thesun.ie/tech/12246611/elon-musk-neuralink-successful-human-trial/",
+      "originalUrl": "https://www.thesun.ie/tech/12246611/elon-musk-neuralink-successful-human-trial/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thesun.ie/wp-content/uploads/sites/3/2024/02/elon-musk-billionaire-chief-executive-837875240.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-20T15:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Irish Sun",
+        "domain": "thesun.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-koch-industries-continues-to-accelerate-its-artificial-intelligence-initiative.md",
+      "title": "Koch Industries continues to accelerate its artificial intelligence initiative",
+      "excerpt": "Although Wichita-based Koch Industries' dozens of companies have used artificial intelligence for machine learning and predictive analytics for years, generative AI is a newer frontier for them, company officials say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/wichita/inno/stories/news/2024/02/20/koch-industries-artificial-intelligence-jobs-ai.html",
+      "originalUrl": "https://www.bizjournals.com/wichita/inno/stories/news/2024/02/20/koch-industries-artificial-intelligence-jobs-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-20T15:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-availity-issues-statement-of-principles-on-artificial-intelligence-in-healthcare.md",
+      "title": "Availity Issues Statement of Principles on Artificial Intelligence in Healthcare",
+      "excerpt": "Availity, the nation's largest real-time health information network, issued the company's Responsible Artificial Intelligence (AI) Principles. The principles represent Availity's commitment to the development, integration, and deployment of AI-powered tools to maximize meaningful and beneficial use in the delivery of healthcare.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-availity-issues-statement-principles-artificial-intelligence-healthcare-/2024/02/20/9964847.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-availity-issues-statement-principles-artificial-intelligence-healthcare-/2024/02/20/9964847.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/tmc/world.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-20T15:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-20-china-based-startup-moonshot-ai-secures-a-whopping-us-1-billion-in-funding.md",
+      "title": "China-based Startup Moonshot AI Secures a Whopping US$ 1 Billion in Funding",
+      "excerpt": "This financial milestone for Moonshot AI is part of a larger trend in China, where there's a noticeable rush to support AI startups",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2024/02/20/china-moonshot-ai-funding-1-billion/",
+      "originalUrl": "https://www.gizmochina.com/2024/02/20/china-moonshot-ai-funding-1-billion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/07/hitesh-choudhary-t1PaIbMTJIM-unsplash-1024x575-1.jpg",
+          "width": 1024,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-20T15:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-20-the-pentagons-silicon-valley-problem.md",
       "title": "The Pentagon’s Silicon Valley Problem",
       "excerpt": "Artificial intelligence may indeed affect the way our military operates ... After years of expensive effort, the “ATR [automatic target recognition] just doesn’t work. Even driverless cars,” he emphasized “are relatively easy problems to solve ...",
@@ -1006,179 +1177,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-as-regulators-play-catch-up-with-ai-tech-startups-say-uncertainty-is-slowing-them-down.md",
-      "title": "As regulators play catch up with AI, tech startups say uncertainty is slowing them down",
-      "excerpt": "The federal government’s plan to boost its oversight of the use of artificial intelligence tools in health care drew censure from startups arguing that overregulation stifles new ideas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.statnews.com/2024/02/20/health-ai-regulation-tech-startups-compliance/",
-      "originalUrl": "https://www.statnews.com/2024/02/20/health-ai-regulation-tech-startups-compliance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.statnews.com/wp-content/uploads/2024/02/AdobeStock_551617472-1024x576.jpeg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-20T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "STAT",
-        "domain": "statnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-just-how-intelligent-is-artificial-intelligence.md",
-      "title": "Just How Intelligent Is Artificial Intelligence?",
-      "excerpt": "Read some excerpts: “There are many different kinds of technologies that use what’s called artificial intelligence, ranging from chess-playing machines to self-driving cars to chatbots and so on. But artificial intelligence is also a scientific study ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nationalacademies.org/news/2024/02/just-how-intelligent-is-artificial-intelligence",
-      "originalUrl": "https://www.nationalacademies.org/news/2024/02/just-how-intelligent-is-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-20T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "National Academies of Sciences%2c Engineering%2c and Medicine",
-        "domain": "nationalacademies.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-ultrathin-energy-efficient-facial-recognition-can-identify-michelangelos-david.md",
-      "title": "Ultrathin, energy-efficient facial recognition can identify Michelangelo’s David",
-      "excerpt": "Packing in all those optical components like lasers makes commercial dot projectors rather bulky, so it can be harder to integrate for some applications such as robotics and augmented reality, as well as the next generation of facial recognition technology.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/science/2024/02/ultrathin-energy-efficient-facial-recognition-can-identify-michelangelos-david/",
-      "originalUrl": "https://arstechnica.com/science/2024/02/ultrathin-energy-efficient-facial-recognition-can-identify-michelangelos-david/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/david1CROP-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-19T22:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-20-models-of-object-recognition.md",
-      "title": "Models of object recognition",
-      "excerpt": "Much of the interesting recent computational work in object recognition considers the recognition problem as a supervised learning problem. We start with a very simplified description (Fig.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/nn1100_1199",
-      "originalUrl": "https://www.nature.com/articles/nn1100_1199",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2F81479/MediaObjects/41593_2000_Article_BFnn1100_1199_Fig1_HTML.gif",
-          "width": 395,
-          "height": 412,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-19T22:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

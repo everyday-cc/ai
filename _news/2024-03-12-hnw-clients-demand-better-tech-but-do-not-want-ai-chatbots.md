@@ -55,6 +55,20 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "More Than Chatbots: AI Trends Driving Conversational Experiences For Customers"
+    excerpt: "It's evident that businesses continuously need to adapt to changing communication trends driven by advancements in technology."
+    publishedDateTime: 2024-03-15T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/15/more-than-chatbots-ai-trends-driving-conversational-experiences-for-customers/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 63
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/656a32d99fe5eeaf72384048/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "AI showdown: I put 3 chatbots to the test"
     excerpt: "research the trail, tell someone where we were going, avoid the hottest part of the day and (of course) bring water and first aid. Bonus: It reminded me not to litter in nature. Final score: ChatGPT 2, Gemini 1, Perplexity 0 Listen, if AI can help us ..."
     publishedDateTime: 2024-03-11T00:01:00Z

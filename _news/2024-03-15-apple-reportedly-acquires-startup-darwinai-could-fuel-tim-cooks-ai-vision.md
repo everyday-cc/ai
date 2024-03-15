@@ -72,6 +72,22 @@ related:
         width: 1000
         height: 750
         isCached: true
+  - title: "Apple buys Canadian AI startup DarwinAI as it races to add features"
+    excerpt: "The iPhone maker purchased the business earlier this year, and dozens of DarwinAI’s employees have joined Apple’s artificial intelligence division, according to people with knowledge of the matter, who asked not to be identified because the deal hasn’t been announced."
+    publishedDateTime: 2024-03-15T11:32:00Z
+    webUrl: "https://www.cnbctv18.com/technology/apple-buys-canadian-ai-startup-darwinai-as-it-races-to-add-features-19286361.htm"
+    ampWebUrl: "https://www.cnbctv18.com/technology/apple-buys-canadian-ai-startup-darwinai-as-it-races-to-add-features-19286361.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/apple-buys-canadian-ai-startup-darwinai-as-it-races-to-add-features-19286361.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 57
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/08/untitled-design-19-1019x573.jpg"
+        width: 1019
+        height: 573
+        isCached: true
   - title: "Apple buys startup DarwinAI, adds staff to its AI division: Report"
     excerpt: "Apple has bought artificial intelligence (AI) startup DarwinAI and added dozens of the Canadian company’s staffers to its AI division, per a news report"
     publishedDateTime: 2024-03-15T08:19:00Z
@@ -136,6 +152,6 @@ related:
       domain: tweaktown.com
     quality: 16
 
-secured: "NCM+5prAyrXTm8gYl1FSHp1C4OnIPadL3/vTbPNWBtevb3fC4IX0FnX4eOFp7mSUa3lpjsQJRxC3kgAMH9iERU/S5pH7QxvZITN5MKCtYQpPSPkU44IiDVp8UofHvHYqJQY9fmNJrflZbt7MZPJuA/oOvfuDJZUQ3VanZjG5uNN4zrlKqTF+b4ZWkfImD7ko7XlHOu5V4EctstUtvZP/q2Ox1j+xHO4PXEQPpedyG61o1lmdjPzHwWQioxO3l9CyF+igTlXepcqk5XmIf20Djavm9ELYfP0QVPYmr7zZ/SznV6Em7oE3kuINVL66oEUcXS2gzghAakwWA4rHuJ7UncOCeUhVqq8QpjeJg7ZbsAE=;2VFUJKVqV3VyU93ExepQKg=="
+secured: "QG12UyTJgw2j5s7sKFevmbz/CQGdd/sVAj80DepKZWd8qWTnks5OzpviQWFk7k2LcTJZcWSxfczTfI/lr9+5my/yLy/iDQVb4vkX7F9COZFvPr5U3flE8EK5aWEZJBpNWliezE40UEhxKW40tuIXZOOomo5Bw1+f4bWX//LHbHygmvNOWdad4DxJ913hbXGGWWD4haT7Yu/1NkOmYeZibkjOQti1xTuHtoK+8OtJii84zrbSrdquApVeYQnx+seiBBuysBfqNvbAdWA74DpFshGUZNP2na4L94cC7E/XBy8V+Me+Fn6uLgQPpbLqWnuJmD/vWAkTG3S5HNUH+UN9kS9YJ9SYxmvFKMU+2cQ9w37HU/elmOSUrkszFPFFmxflgTZ6qcu0qtHG/t966KX673ZZm16o8M0GVhsyvwB+6azlD8g0aMp7XDoVti+DzDPJ9Ok+1TLEFtLFfJLc3JesbH4gjayBenFCDxDrneceWjH+TG3jUsOL5r5iDU3ZV9U31Z3KwI6qNaTRA4Vu31WcWQ==;RjDJvQyp51hYfbWdnUXg/Q=="
 ---
 

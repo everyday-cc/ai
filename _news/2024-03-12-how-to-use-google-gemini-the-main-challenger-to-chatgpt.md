@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/how-to-use-google-gemini/?am
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-use-google-gemini/?amp"
 type: article
 quality: 106
-heat: 296
+heat: 306
 published: true
 
 provider:
@@ -105,6 +105,20 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/03/GettyImages-898172236-760x380.jpg"
         width: 760
         height: 380
+        isCached: true
+  - title: "Now ChatGPT has a body — startup puts OpenAI tech in a robot"
+    excerpt: "A relatively new AI startup just put OpenAI 's artificial intelligence into the body of a robot and the result is pretty much what you’d expect it to be (minus the chaos and destruction if you’re more of a glass of water half-empty kind of person)."
+    publishedDateTime: 2024-03-15T09:58:00Z
+    webUrl: "https://www.tomsguide.com/ai/now-chatgpt-has-a-body-startup-puts-openai-tech-in-a-robot"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 71
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/PhympAdRnVnNx323S2BjoR-1200-80.gif"
+        width: 640
+        height: 360
         isCached: true
   - title: "Elon Musk says his AI startup xAI will open-source Grok chatbot, ChatGPT's rival"
     excerpt: "Elon Musk said on Monday his artificial intelligence firm xAI will open-source \"Grok\", a chatbot rivaling OpenAI's ChatGPT, this week. The billionaire's startup launched the AI model to a small group of users last November. In a podcast episode with Lex Fridman, Musk suggested that he liked the concept of open-source AI."

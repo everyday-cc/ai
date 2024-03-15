@@ -48,15 +48,6 @@ related:
       name: AppleInsider
       domain: appleinsider.com
     quality: 4
-  - title: "The Apple Vision Pro could launch in these NINE countries soon"
-    excerpt: "The Apple Vision Pro has now been on sale for a few weeks having finally been released to the public on June 2. But the mixed reality headset, or in Apple's parlance the spatial computer, is only available to those in the United States right now."
-    publishedDateTime: 2024-03-14T13:15:00Z
-    webUrl: "https://www.tweaktown.com/news/96857/the-apple-vision-pro-could-launch-in-these-nine-countries-soon/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 4
 
 secured: "bCEtjPbJCbC1XY70dW7OsFF7HL7TNq6t0hYPd6KUlxgcOjp5S+tuLPqHNAmLZccY8hbd3QpgFc7E4OcJ4I9i3mNWYWtQIs/5x2yhfB8u67VueuiURG5RlMyO2bXbP3jdbqFCWZH/L+gxCDoW+B0SrkXYC4PJuZ3fVRc2Vm9CMyYv7TRaAeY6ojAmKVJiZtbvSirglcQHIc6CnWTYYSMh62vr1rQLg6fA9A9Ipl8ajxoDKUWZAXgOKv3yWnomsn67scEwMWpgJVw59y49OJqRiG95aVzLbpHXoKGVZ5LAocD/6WbBd4S91Bk5PaK82U+/mF77YC5S7d3N5EgxHDcChjHNYkGeizdBtCVnJc0cdbE=;2/1tVMsysIIhRi9RenUtcA=="
 ---

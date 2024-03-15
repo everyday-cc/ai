@@ -7,7 +7,7 @@ originalUrl: "https://www.scmp.com/tech/big-tech/article/3255458/apple-buys-cana
 webUrl: "https://www.scmp.com/tech/big-tech/article/3255458/apple-buys-canadian-start-darwinai-after-falling-behind-microsoft-google-generative-ai"
 type: article
 quality: 73
-heat: 163
+heat: 173
 published: true
 
 provider:
@@ -75,6 +75,22 @@ related:
         width: 1000
         height: 750
         isCached: true
+  - title: "Apple buys Canadian AI startup DarwinAI as it races to add features"
+    excerpt: "The iPhone maker purchased the business earlier this year, and dozens of DarwinAI’s employees have joined Apple’s artificial intelligence division, according to people with knowledge of the matter, who asked not to be identified because the deal hasn’t been announced."
+    publishedDateTime: 2024-03-15T11:32:00Z
+    webUrl: "https://www.cnbctv18.com/technology/apple-buys-canadian-ai-startup-darwinai-as-it-races-to-add-features-19286361.htm"
+    ampWebUrl: "https://www.cnbctv18.com/technology/apple-buys-canadian-ai-startup-darwinai-as-it-races-to-add-features-19286361.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/apple-buys-canadian-ai-startup-darwinai-as-it-races-to-add-features-19286361.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 57
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/08/untitled-design-19-1019x573.jpg"
+        width: 1019
+        height: 573
+        isCached: true
   - title: "Apple buys startup DarwinAI, adds staff to its AI division: Report"
     excerpt: "Apple has bought artificial intelligence (AI) startup DarwinAI and added dozens of the Canadian company’s staffers to its AI division, per a news report"
     publishedDateTime: 2024-03-15T08:19:00Z
@@ -139,6 +155,6 @@ related:
       domain: tweaktown.com
     quality: 16
 
-secured: "XQucSTvhhNVTNsuoo7NG8GOJ1Jsa0nToCh0M3bsAKPlPARTajEJPtdDGYHYAVuL18D4rakIsiGY1mVSg2X0zqrd2XA3lSSFtpsKUohxznTJ73uO9pTIEpyCmuRnCgxnbJnxHVUuLkCbVLqbbKl4mw1e4bgHERfQTqmfoaegkbTKVVvjYmKMuNM/fS370hKCOGeirIuy6QOuGlmrNNCw7djCovIVnJOjAo+uhaEZNuqxu1/jUDBeBHZ1ZJNYpitfT4DPFYJMGp9m3AlL4pEhZlbrjtmrlpnHlVmDIQYtUL64mkrUBjAIzcvLEkx5op55YyWoAw2k6opDhhos4AEVeiP6Vu8JiH8jTTXPkbH19Q18=;DjYoHOFsk5GqGMi51JrhCw=="
+secured: "yMGlrsUgzzUV4yRidU+4A0f3BmUwbRfJljfjnW+nToyobR8O9xxItompM60NFwUK8PXshqcGhIrXQtfWJFVAfTZk5WokYVkFWx+NN6dtnSQ3llll7VUysEYvk8UNGKI9xl0y88Lruyi/ImJE0XG+ophXzLtbIutuNxjGTfRp8oEEA7sNOB7oMAQThCYFHE+zEcvwTNrUe43C22+84y5xH5NIxfmwJgNv5asSpX6helsCp69+LIv/CXc2AKiX9OIIyZq3jIRPxM8lF0LQTnuqejwGv/4a3dnuASTTeIwzffRqLAalhqP3GH+4ODKmqwYR6eSDUj/ARWCKFNQx2MYZfyE+zK4CnIu43Blu1x5quEh5mkZJmv+pZR1z/eegw6QA7AaduuP/Exk8kkW2qtqTAiMH2K1pKUFIpQdhIT+6hryDXPENGwCrLN9QcVPT3J4m/muftXXdNYcHEwOob1XJ74An/vvHnLLL7anP3FVf1huXReM6FvyYt1gxcPlxWOAna4VSedKU2V1Siq/XOQfrZg==;I1wcuZPoSvpQU2hhi2OliA=="
 ---
 

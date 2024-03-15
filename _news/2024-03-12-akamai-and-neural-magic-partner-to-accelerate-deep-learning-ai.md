@@ -35,34 +35,6 @@ related:
         width: 2105
         height: 1184
         isCached: true
-  - title: "AI for student learning and research"
-    excerpt: "Library Services and TELT, together with academic staff and students in the Faculty of Medicine & Dentistry, have created a QMplus course area on AI for student learning and research. It was developed for FMD students, both undergraduate and postgraduate ..."
-    publishedDateTime: 2024-03-10T10:28:00Z
-    webUrl: "https://www.qmul.ac.uk/fmd/about/news/de24/january/digital-education-story7/"
-    type: article
-    provider:
-      name: Queen Mary University of London
-      domain: qmul.ac.uk
-    quality: 39
-    images:
-      - url: "https://www.qmul.ac.uk/fmd/media/smd/documents/AI-screenshot.png"
-        width: 604
-        height: 385
-        isCached: true
-  - title: "The AI arms race between the US and China is heating up"
-    excerpt: "The UK, for its part, rolled out a “National AI Strategy” in 2022 and committed roughly $4 billion in chip development subsidies. The nation has also attracted the third-largest level of private investment in AI, behind the US and China. State ..."
-    publishedDateTime: 2024-03-10T12:00:00Z
-    webUrl: "https://www.aol.com/ai-arms-race-between-us-160000867.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/Yd3S5pYzAQQcRSYpsPTUzQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/aol_yahoo_finance_433/d42c59090aee25fc521e482055c6743d"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "Edge AI Devices Eye Lifetime Learning"
     excerpt: "Helping artificial intelligence to adapt and learn, now and later."
     publishedDateTime: 2024-03-12T16:03:00Z

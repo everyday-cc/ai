@@ -18,6 +18,17 @@ topics:
   - Natural Language Processing
   - AI
 
+related:
+  - title: "Lost in translation: AI models can simplify post-discharge notes, but still make mistakes, study finds"
+    excerpt: "AI shows the potential to convert med-language into something more “patient-friendly,” but right now makes mistakes, researchers argue."
+    publishedDateTime: 2024-03-14T13:27:00Z
+    webUrl: "https://www.mcknightsseniorliving.com/home/news/tech-daily-news/lost-in-translation-ai-models-can-simplify-post-discharge-notes-but-still-make-mistakes-study-finds/"
+    type: article
+    provider:
+      name: McKnight's Senior Living
+      domain: mcknightsseniorliving.com
+    quality: 3
+
 secured: "0BuXqyjyRf5X/KDzKVxLYEq9AwFGpxYZ2cZuWTQqVAam9Q0yl1LieDAChFl87JMOCSbiq5fLXf8ZNjWEyKC97Ogid9Xku+E7gLsXH+0+XFXUnJvErMBr7t2dofY8iSAauFYPRqD65QA+BTgBtTvI6YSl6DT3SZp22xZKWbSImJBvwzQFFDgRNdFze0wkwEr2MSgbwnrw7YfP3EZ143KGqGhqIJEKJf81AxjEXDeq7yRXzbeMltMR0kV8ZSD6lasZNaiJ9L1jHkjDIS3rTcGd9IT+X5HtLCAsM+YF8VcE4bnzGcLnnbOF4k3Sf4TUifE6WBXJN3JE9E0F8WuI38YTglrX+pefLQPt8lPFoAN36m3kjJmFhK7nQ+E1xGLs+E7+XPEhh1GvXK7x5u123FO9cjIgwv296BQTdY1X0no2SKOIjoFg+/ere/Uowv3rMn3q6vA8ww5Y/0CBr/fuk6Vw/P8St6wJoob6Kb7HKMy+nkh89cxVgfWpoz2XVYjkUe/DS84V2dEmkD9sA1NnSrTJ+Q==;tQzfpSjFuJHXBt/qEoAr7g=="
 ---
 

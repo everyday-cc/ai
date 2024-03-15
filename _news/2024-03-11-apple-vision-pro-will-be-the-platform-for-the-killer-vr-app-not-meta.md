@@ -33,15 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Apple Vision Pro could launch in these NINE countries soon"
-    excerpt: "The Apple Vision Pro has now been on sale for a few weeks having finally been released to the public on June 2. But the mixed reality headset, or in Apple's parlance the spatial computer, is only available to those in the United States right now."
-    publishedDateTime: 2024-03-14T13:15:00Z
-    webUrl: "https://www.tweaktown.com/news/96857/the-apple-vision-pro-could-launch-in-these-nine-countries-soon/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 4
   - title: "The Apple Vision Pro might be getting a new video app — VLC readies its spatial computing debut after passing 5 billion downloads elsewhere"
     excerpt: "That platform is of course one that VLC isn't the only one to have skipped on so far. The Apple Vision Pro is new, to say the least, and its costly starting price of $3,499 makes it a relatively niche product."
     publishedDateTime: 2024-03-13T15:05:00Z

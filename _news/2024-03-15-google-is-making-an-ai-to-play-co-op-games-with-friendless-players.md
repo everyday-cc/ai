@@ -44,6 +44,20 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 49
+  - title: "Google’s new AI gaming companion may ruin some video games"
+    excerpt: "Google worked with several game developers, including Hello Games, Embracer, Tuxedo Labs, and Coffee Stain, to train and test Sima, and have plugged the AI into games such as No Man’s Sky, Goat Simulator 3, and Valheim, to teach it the basics of playing these titles."
+    publishedDateTime: 2024-03-15T07:30:00Z
+    webUrl: "https://www.aol.com/google-ai-gaming-companion-may-073004626.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 41
+    images:
+      - url: "https://media.zenfs.com/en/aol_the_independent_us_877/8cf4a0e22283a48afa3c037babe8a638"
+        width: 1200
+        height: 671
+        isCached: true
   - title: "Google’s new ‘SIMA’ AI is your future co-op gaming buddy"
     excerpt: "Google's AI-focused subsidiary, DeepMind, recently announced SIMA, its new \"instructable game-playing AI agent.\""
     publishedDateTime: 2024-03-14T09:18:00Z
@@ -57,20 +71,6 @@ related:
       - url: "https://stuff.co.za/wp-content/uploads/2024/03/SIMA-header.png"
         width: 1600
         height: 1000
-        isCached: true
-  - title: "Google’s new AI gaming companion may ruin some video games"
-    excerpt: "Google worked with several game developers, including Hello Games, Embracer, Tuxedo Labs, and Coffee Stain, to train and test Sima, and have plugged the AI into games such as No Man’s Sky, Goat Simulator 3, and Valheim, to teach it the basics of playing these titles."
-    publishedDateTime: 2024-03-15T07:30:00Z
-    webUrl: "https://www.aol.com/google-ai-gaming-companion-may-073004626.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 39
-    images:
-      - url: "https://media.zenfs.com/en/aol_the_independent_us_877/8cf4a0e22283a48afa3c037babe8a638"
-        width: 1200
-        height: 671
         isCached: true
 
 secured: "n1HdWQlyA2EvbW4H3NTEGyP5DQnhoY09Bqq3C7m2kZmfsb/hinESHWBQcmmr4ikma/TnSu0hiHJWQFdlSe4rb0HdeiqbmOoTgFg16+O/wb9Ixu51nRRKYl82JyxqzDLh7nmcGlTWI0DcJV9ZDRgNMPJPTFkta9I/qXT+MoWi2s9645F4xXdnKtWUMKYk26HBIX0pqc3RZ42hcPNzE+77A6ljl7MVGmzvb2DEUs5wls8nmYQPUnIUHr1f6EwdOqqMCOi8pTThIUzhppBTxFJvuh+lsN5i49KkGXL3f9ZBCGQabp4pq2nmCbITFyTne8h1eyEImozOKaiKFFFbiWLO1nAm8X6JqdW3e4XGSGcGzQV+HeS+oKSotzh82e5bmtCEAOLF0fQqlbU6oC9Di1R5slaqklvUKkvlqVOK86JZZ9AyKS7qchnOgksUvhTbjODDoRL8Pt0aw4hI2NG0DCs5Yqlp0BkC3z+sJ8XuZxUIQz0fZDWIenUwZCYx9S5Z4UbjlISofOm/zrBBbvbxcBuEWg==;3ae23G6zf4huj3NjDAnBmw=="

@@ -80,6 +80,22 @@ related:
         width: 1000
         height: 750
         isCached: true
+  - title: "Apple buys Canadian AI startup DarwinAI as it races to add features"
+    excerpt: "The iPhone maker purchased the business earlier this year, and dozens of DarwinAI’s employees have joined Apple’s artificial intelligence division, according to people with knowledge of the matter, who asked not to be identified because the deal hasn’t been announced."
+    publishedDateTime: 2024-03-15T11:32:00Z
+    webUrl: "https://www.cnbctv18.com/technology/apple-buys-canadian-ai-startup-darwinai-as-it-races-to-add-features-19286361.htm"
+    ampWebUrl: "https://www.cnbctv18.com/technology/apple-buys-canadian-ai-startup-darwinai-as-it-races-to-add-features-19286361.htm/amp"
+    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/apple-buys-canadian-ai-startup-darwinai-as-it-races-to-add-features-19286361.htm/amp"
+    type: article
+    provider:
+      name: cnbctv18
+      domain: cnbctv18.com
+    quality: 57
+    images:
+      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/08/untitled-design-19-1019x573.jpg"
+        width: 1019
+        height: 573
+        isCached: true
   - title: "Apple buys startup DarwinAI, adds staff to its AI division: Report"
     excerpt: "Apple has bought artificial intelligence (AI) startup DarwinAI and added dozens of the Canadian company’s staffers to its AI division, per a news report"
     publishedDateTime: 2024-03-15T08:19:00Z

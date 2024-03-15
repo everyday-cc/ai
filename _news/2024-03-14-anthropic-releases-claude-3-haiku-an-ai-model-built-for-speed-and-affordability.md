@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/anthropic-releases-claude-3-haiku-an-ai
 webUrl: "https://venturebeat.com/ai/anthropic-releases-claude-3-haiku-an-ai-model-built-for-speed-and-affordability/"
 type: article
 quality: 62
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "ChatGPT vs Claude 3 Test: Can Anthropic Beat OpenAI’s Superstar?"
-    excerpt: "Claude 3 is one of ChatGPT's most capable competitors. But how do they compare when asked the same questions? Find out here."
-    publishedDateTime: 2024-03-10T11:01:00Z
-    webUrl: "https://tech.co/news/chatgpt-vs-claude-3"
-    type: article
-    provider:
-      name: Tech.co
-      domain: tech.co
-    quality: 56
-    images:
-      - url: "https://images.tech.co/wp-content/uploads/2024/03/08060744/AdobeStock_606145791_Editorial_Use_Only-1-min-1.jpeg"
-        width: 1920
-        height: 960
-        isCached: true
   - title: "Anthropic launches its fastest and cheapest AI model yet"
     excerpt: "Claude 3 Haiku will be three times faster than existing AI models and will also be its cheapest yet, the company claimed."
     publishedDateTime: 2024-03-14T09:04:00Z

@@ -187,20 +187,6 @@ related:
         width: 970
         height: 545
         isCached: true
-  - title: "OpenAI's Head of ChatGPT Says AI Will Make Us More Creative--and More Human"
-    excerpt: "At a SXSW panel, Peter Deng says OpenAI is committed to keeping the basic version of ChatGPT free; evades question over paying artists for using their work."
-    publishedDateTime: 2024-03-11T20:40:00Z
-    webUrl: "https://www.inc.com/jennifer-conrad/openais-head-of-chatgpt-says-ai-will-make-humans-more-creative.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 52
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1311390274_538341_tenhg1.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "The impact of AI on law practice and legal professions"
     excerpt: "In the evolving landscape of the legal profession, artificial intelligence (AI) emerges as a transformative force, reshaping how legal practices operate"
     publishedDateTime: 2024-03-13T10:54:00Z

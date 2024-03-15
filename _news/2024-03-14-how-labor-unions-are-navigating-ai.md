@@ -84,14 +84,14 @@ related:
         height: 504
         isCached: true
   - title: "CQG Unveils New First-of-its-Kind AI / Machine Learning Trading Toolkit for Predicting Futures Market Moves"
-    excerpt: "Based on the firm's deep experience in analytics, mathematics and market intelligence, the new ML initiative aims to offer retail traders and buy-side firms, including proprietary trading firms and hedge funds,"
-    publishedDateTime: 2024-03-11T11:36:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/03/11/9975734.htm"
+    excerpt: "Success in Live Trading Environment Confirms Internal Test Results DENVER and BOCA RATON, Fla., March 11, 2024 /PRNewswire/ -- CQG, a leading global provider of high-performance technology"
+    publishedDateTime: 2024-03-11T11:20:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-03/61640370-cqg-unveils-new-first-of-its-kind-ai-machine-learning-trading-toolkit-for-predicting-futures-market-moves-008.htm"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 16
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 18
 
 secured: "xJWFAWfHU4cKiU21CDrSbube3FegRBWXDtAnzasHMbMM06cqAaEH0sXg9tJGGgIQFLVEgg3ieQp4LlYqyoLRr9xOND4wWLvhKQFaKqu5dLW3rgTEKfMqB8AkaabAjggdQ12Yd4F3EIVSF4y96X8OYdnsAq5GwUj+yAp3QjQbBg31eulFrKG5jAghBbCgOJ+Cq/mYJwHefi3iJhpYboB1dZ/Ve0sdaOu6885gpZh4v2fvVrDQGaE1tlP2qww3mTvrSrRevueees4/hUKjrTvyW1naGxwIQbChXZSdpN3qwtLbfFAcUESubKl6NRUXclZdzvZa4ILEgnZtishsOX6xd8Ufydf+Kv8rj5H065xEuBSjAWdm8rg5SSQCKPa2DLkx0cUoxX2e0WxUKY/bkqkj3TO0b6EKEFxhwTtGOX6LELvt10x0igxYl+2pSZHOMqzHWVESJTJWwdJwy5V3sMXudtnLP7sswqv0v6nbOcvHUgXLPF2ogYAGQS2YIqmqn6rV0dbGS7SZjCvRCCbxDBdvHw==;Uz8VSIBJD2DwsBKlyqjrJw=="
 ---

@@ -2,6 +2,203 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-03-13-3-top-artificial-intelligence-stocks-to-buy-in-march.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy in March",
+      "excerpt": "Artificial intelligence(AI) stocks have had a great run in 2023 and the early part of 2024. But after such a run, which AI stocks are worth adding in March? One good place to look is the stocks of tech leaders that haven't yet exceeded their 2021 highs ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/03/13/3-top-artificial-intelligence-stocks-to-buy-in-mar/",
+      "originalUrl": "https://www.fool.com/investing/2024/03/13/3-top-artificial-intelligence-stocks-to-buy-in-mar/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/768967/gettyimages-1503223319.jpg",
+          "width": 6240,
+          "height": 3929,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-13T06:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-13-ai-startup-cerebras-unveils-the-wse-3-the-largest-chip-yet-for-generative-ai.md",
+      "title": "AI startup Cerebras unveils the WSE-3, the largest chip yet for generative AI",
+      "excerpt": "The chip, the size of a single semiconductor wafer, has doubled performance to handle large language models in the tens of trillions of parameters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/",
+      "originalUrl": "https://www.zdnet.com/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/ae31154ea474b18f8cee28ac96cedae0c8b190c1/2024/03/13/0036db94-4241-4f06-a8eb-1eef2c4c37be/cerebras-2024-wse-3-3.png?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/",
+      "publishedDateTime": "2024-03-13T06:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-13-how-to-avoid-the-headaches-of-ai-skills-development.md",
+      "title": "How to avoid the headaches of AI skills development",
+      "excerpt": "\"Leaders should take an active part in equipping their employees with critical future-ready skills, like how to responsibly apply generative AI to improve productivity, how to leverage intelligent automation to speed operations, or how to simulate steps in a supply chain with digital twins or augmented reality,\" he says.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/how-to-avoid-the-headaches-of-ai-skills-development/",
+      "originalUrl": "https://www.zdnet.com/article/how-to-avoid-the-headaches-of-ai-skills-development/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/4eaeeecd56dd6753899b500908eb42b050f16878/2024/03/12/59585614-82d4-4324-a1fd-9d6804047205/gettyimages-1249613157.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-to-avoid-the-headaches-of-ai-skills-development/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-avoid-the-headaches-of-ai-skills-development/",
+      "publishedDateTime": "2024-03-13T03:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-13-new-study-claims-ai-robots-new-tech-in-workplace-deteriorates-quality-of-life.md",
+      "title": "New Study Claims AI, Robots, New Tech in Workplace Deteriorates Quality of Life",
+      "excerpt": "A United Kingdom study of nearly 5000 workers reportedly found that AI, robots, trackers, and other new technology are bad for people's well-being while laptops, computers, and other long-established technologies prove to improve people's health.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techtimes.com/articles/302511/20240312/new-study-claims-ai-robots-tech-workplace-deteriorates-quality-life.htm",
+      "originalUrl": "https://www.techtimes.com/articles/302511/20240312/new-study-claims-ai-robots-tech-workplace-deteriorates-quality-life.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1734811051.rsc.cdn77.org/data/images/full/443655/china-technology-ai-romace.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.techtimes.com/amp/articles/302511/20240312/new-study-claims-ai-robots-tech-workplace-deteriorates-quality-life.htm",
+      "cdnAmpWebUrl": "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/302511/20240312/new-study-claims-ai-robots-tech-workplace-deteriorates-quality-life.htm",
+      "publishedDateTime": "2024-03-13T03:11:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techtimes",
+        "domain": "techtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-13-ai-in-business-balancing-innovation-ethics-and-a-regulatory-framework.md",
       "title": "AI in business: Balancing innovation, ethics and a regulatory framework",
       "excerpt": "Tech companies need to recognize the importance of combining human-centered values with technology ethics.",
@@ -549,7 +746,7 @@
       "originalUrl": "https://www.foxnews.com/tech/ai-showdown-put-chatbots-test",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -1039,204 +1236,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-techcrunch-minute-reddits-ipo-success-may-hinge-on-ai-boom.md",
-      "title": "TechCrunch Minute: Reddit’s IPO success may hinge on AI boom",
-      "excerpt": "Reddit's IPO signals an end to our long-running dearth of IPOs, and the success of its stock could depend on its ability to leverage AI.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/03/12/techcrunch-minute-reddits-ipo-success-may-hinge-on-ai-boom/",
-      "originalUrl": "https://techcrunch.com/2024/03/12/techcrunch-minute-reddits-ipo-success-may-hinge-on-ai-boom/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/03/TC-M-Reddit-IPO.jpg?w=850",
-          "width": 850,
-          "height": 492,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/03/12/techcrunch-minute-reddits-ipo-success-may-hinge-on-ai-boom/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/techcrunch-minute-reddits-ipo-success-may-hinge-on-ai-boom/amp/",
-      "publishedDateTime": "2024-03-12T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-run-an-audience-overlap-analysis-in-aws-clean-rooms.md",
-      "title": "Run an audience overlap analysis in AWS Clean Rooms",
-      "excerpt": "In this post, we explore what an audience overlap analysis is, discuss the current technical approaches and their challenges, and illustrate how you can run secure audience overlap analysis using AWS Clean Rooms.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/run-an-audience-overlap-analysis-in-aws-clean-rooms/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-an-audience-overlap-analysis-in-aws-clean-rooms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/03/12/audience-overlap-analysis-1115x630.jpg",
-          "width": 1115,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-12T15:55:29Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-large-language-model-inference-over-confidential-data-using-aws-nitro-enclaves.md",
-      "title": "Large language model inference over confidential data using AWS Nitro Enclaves",
-      "excerpt": "This post discusses how Nitro Enclaves can help protect LLM model deployments, specifically those that use personally identifiable information (PII) or protected health information (PHI). This post is for educational purposes only and should not be used in production environments without additional controls.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/large-language-model-inference-over-confidential-data-using-aws-nitro-enclaves/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/large-language-model-inference-over-confidential-data-using-aws-nitro-enclaves/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/03/12/ML-15305-image-02-1.jpg",
-          "width": 921,
-          "height": 351,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-12T15:43:08Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-quantum-weirdness-and-the-mind-demons-of-ai.md",
-      "title": "Quantum Weirdness and the Mind Demons of AI",
-      "excerpt": "But recently, with the emergence of advanced large language models (LLMs), I've started to wonder if we're on the cusp of a shift even more bold and transformative than the one unleashed by quantum mechanics a century ago.",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/za/blog/the-digital-self/202403/quantum-weirdness-and-the-mind-demons-of-ai",
-      "originalUrl": "https://www.psychologytoday.com/za/blog/the-digital-self/202403/quantum-weirdness-and-the-mind-demons-of-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2024-03/QuantumMind.jpeg.jpg?itok=jzR3lWv6",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/za/blog/the-digital-self/202403/quantum-weirdness-and-the-mind-demons-of-ai?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-digital-self/202403/quantum-weirdness-and-the-mind-demons-of-ai?amp",
-      "publishedDateTime": "2024-03-12T15:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

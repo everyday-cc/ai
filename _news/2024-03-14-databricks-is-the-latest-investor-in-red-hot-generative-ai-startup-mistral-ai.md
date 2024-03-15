@@ -18,6 +18,20 @@ topics:
   - AI
 
 related:
+  - title: "Nvidia Is an Investor in Artificial Intelligence (AI) Start-Up Databricks. Should Palantir Investors Worry?"
+    excerpt: "Nvidia has been investing significant capital into AI-powered enterprise software platforms. Databricks offers a host of artificial intelligence (AI) applications through its Mosaic AI software. Palantir competes with Databricks in the world of big data."
+    publishedDateTime: 2024-03-15T07:45:00Z
+    webUrl: "https://www.fool.com/investing/2024/03/15/nvidia-is-an-investor-in-artificial-intelligence-a/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 64
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/769088/gettyimages-1096811078.jpg"
+        width: 5944
+        height: 3278
+        isCached: true
   - title: "Databricks invests in Mistral and brings its AI models to data intelligence platform"
     excerpt: "The AI Impact Tour – Boston We’re excited for the next stop ... Just a few weeks back, it secured a $16 million investment from Microsoft to add its models to the Azure cloud platform. The deal made Mistral only the second company after OpenAI to ..."
     publishedDateTime: 2024-03-14T07:22:00Z

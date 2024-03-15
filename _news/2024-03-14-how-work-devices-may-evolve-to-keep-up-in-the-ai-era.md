@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/how-work-devices-may-evolve
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-work-devices-may-evolve-to-keep-up-in-the-ai-era/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65f32365fbb329e6af4b6a53/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1600
         height: 845
+        isCached: true
+  - title: "Artificial Intelligence in the workplace – everything you need to know"
+    excerpt: "WORRIED that AI could take your job? You’re not the only one.  A study by investment bank Goldman Sachs suggested AI could eventually replace the equivalent of 300 million full-time roles across"
+    publishedDateTime: 2024-03-15T10:07:00Z
+    webUrl: "https://www.thesun.co.uk/money/26710366/ai-in-the-workplace-uk/"
+    ampWebUrl: "https://www.thesun.co.uk/money/26710366/ai-in-the-workplace-uk/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/money/26710366/ai-in-the-workplace-uk/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 61
+    images:
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2024/02/late-night-internet-addiction-working-803827777.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "WITyHecBhSrYqDVbS17BLRL91gucvW91xHd6C0C0LVkwHwekfgtYpHhAdrd+tvQ9fb/xkYzn9HmdzVb+64SCSqgKqSr48CICHi0XcoAsCcTJa4AHauB1CRiuXGH2kS5C4e2/DhLWLeZ6UeNowrFFXcRQ8S3oR4Xw4WhtGaO/u/IZ1sVXd2+CJVb/Gf6eA1mIS5+pBw4hW0EwkXcBaLY/1jyx1hTGYqR2Fch7+yyCOcoJ8ejdIW/RbUI4QPbgxaIDdGyy/SkIx8G9zGrBtYV/JjQF/igy9vMdbHyh6yJaYzSbSwLXkZFudoRplBxvZ1vCMdIFo9bvMFf2bc+QjN7rB1R0xsJGba400eo1J4BmYGQ=;4+ThnNJYKDha4Xyf2RDw6g=="

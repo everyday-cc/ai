@@ -28,7 +28,7 @@ related:
   - title: "How to learn data analytics"
     excerpt: "These tools range from Apache Spark and his own Quantum Metric to SAS, Google Cloud AutoML, and SAP Analytics Cloud. Lastly, Van de Wiel and Ciabarra agree that as a core analyst, the technical skill of visualization is critical. Visualization refers to ..."
     publishedDateTime: 2024-03-14T21:54:00Z
-    webUrl: "https://fortune.com/education/articles/how-to-learn-data-analytics/?ref=biztoc.com"
+    webUrl: "https://fortune.com/education/articles/how-to-learn-data-analytics/"
     type: article
     provider:
       name: Fortune

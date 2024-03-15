@@ -60,6 +60,22 @@ related:
         width: 1600
         height: 845
         isCached: true
+  - title: "Artificial Intelligence in the workplace – everything you need to know"
+    excerpt: "WORRIED that AI could take your job? You’re not the only one.  A study by investment bank Goldman Sachs suggested AI could eventually replace the equivalent of 300 million full-time roles across"
+    publishedDateTime: 2024-03-15T10:07:00Z
+    webUrl: "https://www.thesun.co.uk/money/26710366/ai-in-the-workplace-uk/"
+    ampWebUrl: "https://www.thesun.co.uk/money/26710366/ai-in-the-workplace-uk/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/money/26710366/ai-in-the-workplace-uk/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 61
+    images:
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2024/02/late-night-internet-addiction-working-803827777.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "eTWdrY/7MuielFk+OF5SGmsJ0sLGiq25SE+kmUF3LZF1DoCDy3/10frpFSYv4aHuYJGB/THhzwQ/XitYwk5BIDGuXVDPa3OodVtqf1XFHXRdA0O0OzbQsPTFShfm00UKSOqHmN0+4jgy5s992YZEViPP/dQBNWD2Iw5CoOIVKmlGt7NBozl+h2KsqXFPPlSHHUnLyGPes6a0cVlubZZ5waMmxVOZfgcYpBPNH+erE7on30ooSjFxKOTYcBB3NRl72542B87UMhxfIjHIb/IaFtGMTck2DhbOkFfzH/BBPrtvG+Td2v56FuenHL0ELf/k2GWkd9N7gbjuwDk+E1piHWb8yQXAvL8atwWUwB+CWSY=;Wk+cwiIWlm7zdVEEpHMZFA=="
 ---

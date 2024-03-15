@@ -19,59 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "New AI tools can help doctors take notes, message patients, but they still make mistakes"
-    excerpt: "New AI tools can help doctors communicate with patients, take notes during medical examinations, and even make diagnoses. But the tools are not perfect."
-    publishedDateTime: 2024-03-13T10:54:00Z
-    webUrl: "https://www.foxnews.com/us/new-ai-tools-help-doctors-take-notes-message-patients-still-make-mistakes"
-    ampWebUrl: "https://www.foxnews.com/us/new-ai-tools-help-doctors-take-notes-message-patients-still-make-mistakes.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/new-ai-tools-help-doctors-take-notes-message-patients-still-make-mistakes.amp"
+  - title: "Seoul Metro expands AI translation services"
+    excerpt: "Seoul Metro will expand the number of stations that offer AI-powered translation services to 11 ... workers and foreigners to simultaneously communicate in their respective languages. Pictured above is a foreigner utilizing the service at Gwanghwamun ..."
+    publishedDateTime: 2024-03-14T19:26:00Z
+    webUrl: "https://koreajoongangdaily.joins.com/news/2024-03-14/business/industry/Seoul-Metro-expands-AI-translation-services/2002733"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 78
-    images:
-      - url: "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/60c0535c-c189-4d06-b7a2-9d7c5ff58e8d/57b2155a-c1fb-4241-a9d1-93e024a57772/1280x720/match/1200/675/image.jpg?ve=1&tl=1"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "New AI tools can record your medical appointment or draft a message from your doctor"
-    excerpt: "Don’t be surprised if your doctors start writing you overly friendly messages. They could be getting some help from artificial intelligence. New AI tools are helping doctors communicate with their patients, some by answering messages and others by taking ..."
-    publishedDateTime: 2024-03-13T05:00:00Z
-    webUrl: "https://www.washingtonpost.com/health/2024/03/13/chatgpt-ai-health-doctors-microsoft/ad7f12e4-e0f6-11ee-95aa-7384336086f3_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 30
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GWFFZRHBJAI65FNKOOCDGYEG6M_size-normalized.jpg&w=1440"
-        width: 1440
-        height: 958
-        isCached: true
-  - title: "New AI tools can record your medical appointment or draft a message from your doctor"
-    excerpt: "New AI tools are helping doctors communicate with their patients, some by answering messages and others by taking notes during exams. It’s been 15 months since OpenAI released ChatGPT. Already thousands of doctors are using similar products based on large language models. One company says its tool works in 14 languages."
-    publishedDateTime: 2024-03-14T23:26:00Z
-    webUrl: "https://www.baltimoresun.com/2024/03/14/new-ai-tools-can-record-your-medical-appointment-or-draft-a-message-from-your-doctor/"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 30
-    images:
-      - url: "https://www.baltimoresun.com/wp-content/uploads/2024/03/Medical_Doctor_AI_42652.jpg?w=1024&#038;h=681"
-        width: 1024
-        height: 681
-        isCached: true
-  - title: "New AI tools can record your medical appointment or draft a message from your doctor"
-    excerpt: "New AI tools are helping doctors communicate with their patients, some by answering messages and others by taking notes during exams. It’s been 15 months since OpenAI released ChatGPT. Already thousands of doctors are using similar products based on large language models. One company says its tool works in 14 languages."
-    publishedDateTime: 2024-03-14T16:26:00Z
-    webUrl: "https://www.sun-sentinel.com/2024/03/14/new-ai-tools-can-record-your-medical-appointment-or-draft-a-message-from-your-doctor/"
-    type: article
-    provider:
-      name: Sun Sentinel
-      domain: sun-sentinel.com
-    quality: 12
+      name: 중앙일보
+      domain: joins.com
+    quality: 19
 
 secured: "PB6bXZTRmmbIFILFUylemu//SjgY44d8l9yK5vJTs0pKrzT4MATokljDVcJ7Gxaqiom2p23DlWqiv5NxW2FMxAWyxiTtX+MZ7gt+P8dIy2gSr0l8kJBYHhh4kxhKu90WXQZNWHH+EBtyk7YpQxFXU7EHB3nzmy1gvzGo1yxdghj41xBI7xhoysXsP5U7nl8P4ujNOZLQgmJKApuTkFTuM3lgv2mtfighTkl0NDzjif1WqAP4HvEoc3ZsfphIvyBoL3SfyDfC7q6SoEVi6LnanGoCtnGIVqFQ7O0kfTawsy3C2PV0vLEZv4kbmhu2tlY97FN4bjTRK7osutg6n3cb6GxlkN025r9fe+61stEM85Q=;soDCmoOrrjPKTLKjKcmuLg=="
 ---

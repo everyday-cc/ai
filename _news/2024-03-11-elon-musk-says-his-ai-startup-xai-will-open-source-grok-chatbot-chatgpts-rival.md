@@ -117,6 +117,20 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Now ChatGPT has a body — startup puts OpenAI tech in a robot"
+    excerpt: "A relatively new AI startup just put OpenAI 's artificial intelligence into the body of a robot and the result is pretty much what you’d expect it to be (minus the chaos and destruction if you’re more of a glass of water half-empty kind of person)."
+    publishedDateTime: 2024-03-15T09:58:00Z
+    webUrl: "https://www.tomsguide.com/ai/now-chatgpt-has-a-body-startup-puts-openai-tech-in-a-robot"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 71
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/PhympAdRnVnNx323S2BjoR-1200-80.gif"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Google’s Gemini AI now refuses to answer election questions"
     excerpt: "Google had planned to do this back when the Gemini chatbot was still called \"Bard.\" In December, the company said, \"Beginning early next year, in preparation for the 2024 elections and out of an abundance of caution on such an important topic, we’ll ..."
     publishedDateTime: 2024-03-13T17:40:00Z

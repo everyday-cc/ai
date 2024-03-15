@@ -2,6 +2,307 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-03-14-this-investor-predicted-the-dot-com-bust-he-thinks-ai-is-a-bubble-that-will-deflate.md",
+      "title": "This investor predicted the dot-com bust. He thinks AI is a bubble that will ‘deflate’",
+      "excerpt": "Is the artificial intelligence boom a bubble or the real deal? GMO’s Jeremy Grantham has an answer Wall Street may not like.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2024/03/14/investing/premarket-stocks-trading-ai-bubble-grantham/index.html",
+      "originalUrl": "https://www.cnn.com/2024/03/14/investing/premarket-stocks-trading-ai-bubble-grantham/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1605854455.jpg?c=16x9&q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2024/03/14/investing/premarket-stocks-trading-ai-bubble-grantham/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2024/03/14/investing/premarket-stocks-trading-ai-bubble-grantham/index.html",
+      "publishedDateTime": "2024-03-14T11:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-14-the-ai-revolution-is-here-to-stay-are-your-systems-ready.md",
+      "title": "The AI Revolution Is Here To Stay: Are Your Systems Ready?",
+      "excerpt": "If you take time now to harden your cybersecurity and set up proper review procedures, you’ll be well on your way to making the AI revolution work for you.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/14/the-ai-revolution-is-here-to-stay-are-your-systems-ready/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/14/the-ai-revolution-is-here-to-stay-are-your-systems-ready/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65c665858486a2b4671d9af8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1300,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/14/the-ai-revolution-is-here-to-stay-are-your-systems-ready/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/14/the-ai-revolution-is-here-to-stay-are-your-systems-ready/amp/",
+      "publishedDateTime": "2024-03-14T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-14-what-cios-should-consider-when-exploring-generative-ai.md",
+      "title": "What CIOs Should Consider When Exploring Generative AI",
+      "excerpt": "In 2024, generative AI presents a wide range of opportunities and considerations that are important for CIOs to reflect on. It excels in analyzing vast datasets more efficiently than human capability,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/14/what-cios-should-consider-when-exploring-generative-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/14/what-cios-should-consider-when-exploring-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/640f2ca26c680dae90216405/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/14/what-cios-should-consider-when-exploring-generative-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/14/what-cios-should-consider-when-exploring-generative-ai/amp/",
+      "publishedDateTime": "2024-03-14T10:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-14-founder-of-chip-testing-firm-rides-ai-boom-to-become-south-koreas-newest-billionaire.md",
+      "title": "Founder Of Chip-Testing Firm Rides AI Boom To Become South Korea’s Newest Billionaire",
+      "excerpt": "Shares of Leeno Industrial, an under-the-radar semiconductor firm in Busan, have soared over 70% since November, making founder and CEO Lee Chae-yoon a billionaire.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkang/2024/03/14/founder-of-chip-testing-firm-rides-ai-boom-to-become-south-koreas-newest-billionaire/",
+      "originalUrl": "https://www.forbes.com/sites/johnkang/2024/03/14/founder-of-chip-testing-firm-rides-ai-boom-to-become-south-koreas-newest-billionaire/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6595271c2c1b2d0f73410a6e/0x0.jpg?format=jpg&crop=765,430,x47,y0,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-14T09:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-14-akamai-neural-magic-team-to-bolster-ai-at-the-network-edge.md",
+      "title": "Akamai, Neural Magic team to bolster AI at the network edge",
+      "excerpt": "The partnership will give joint customers a CPU platform on which to run computationally intensive AI workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/1313602/akamai-neural-magic-team-to-bolster-ai-at-the-network-edge.html",
+      "originalUrl": "https://www.networkworld.com/article/1313602/akamai-neural-magic-team-to-bolster-ai-at-the-network-edge.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.networkworld.com/wp-content/uploads/2024/03/shutterstock_1748437547-100937033-orig.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/1313602/akamai-neural-magic-team-to-bolster-ai-at-the-network-edge.html/amp/",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1313602/akamai-neural-magic-team-to-bolster-ai-at-the-network-edge.html/amp/",
+      "publishedDateTime": "2024-03-14T09:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-14-googles-new-ai-can-play-3d-games-with-you-by-following-natural-language-instructions.md",
+      "title": "Google's new AI can play 3D games with you by following natural-language instructions",
+      "excerpt": "Google DeepMind's new AI takes things a step further by learning human-like gaming skills. Google's DeepMind research group unveiled a new AI program that is capable of learning how to complete tasks in a number of games. Called Scalable Instructable ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/googles-new-ai-can-play-3d-games-with-you-by-following-natural-language-instructions/",
+      "originalUrl": "https://www.neowin.net/news/googles-new-ai-can-play-3d-games-with-you-by-following-natural-language-instructions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neowin.com/news/images/uploaded/2021/01/1611767819_google_logo_red_1_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/googles-new-ai-can-play-3d-games-with-you-by-following-natural-language-instructions/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/googles-new-ai-can-play-3d-games-with-you-by-following-natural-language-instructions/",
+      "publishedDateTime": "2024-03-14T09:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-14-leadership-strategy-navigating-the-eu-ai-act.md",
       "title": "Leadership Strategy Navigating The EU AI Act",
       "excerpt": "This significant legislation necessitates a reevaluation of AI strategies and practices for business leaders around the world.",
@@ -61,7 +362,7 @@
       "originalUrl": "https://www.zdnet.com/article/how-work-devices-may-evolve-to-keep-up-in-the-ai-era/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -105,58 +406,6 @@
       ]
     },
     {
-      "path": "_news/2024-03-14-databricks-invests-in-mistral-and-brings-its-ai-models-to-data-intelligence-platform.md",
-      "title": "Databricks invests in Mistral and brings its AI models to data intelligence platform",
-      "excerpt": "The AI Impact Tour – Boston We’re excited for the next stop ... Just a few weeks back, it secured a $16 million investment from Microsoft to add its models to the Azure cloud platform. The deal made Mistral only the second company after OpenAI to ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/databricks-invests-in-mistral-and-brings-its-ai-models-to-data-intelligence-platform/",
-      "originalUrl": "https://venturebeat.com/ai/databricks-invests-in-mistral-and-brings-its-ai-models-to-data-intelligence-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/03/robot_sitting_on_a_wall_of_bricks.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-14T07:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-03-14-anthropic-releases-claude-3-haiku-an-ai-model-built-for-speed-and-affordability.md",
       "title": "Anthropic releases Claude 3 Haiku, an AI model built for speed and affordability",
       "excerpt": "Anthropic launches Claude 3 Haiku, the fastest and most affordable AI model in its class, featuring advanced vision capabilities and enterprise-grade security for high-volume, latency-sensitive applications.",
@@ -165,7 +414,7 @@
       "originalUrl": "https://venturebeat.com/ai/anthropic-releases-claude-3-haiku-an-ai-model-built-for-speed-and-affordability/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -998,256 +1247,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-google-paid-out-10-million-in-bug-bounties-to-security-researchers-in-2023.md",
-      "title": "Google paid out $10 million in bug bounties to security researchers in 2023",
-      "excerpt": "and Kai's \"Hacking Google Bard - From Prompt Injection to Data Exfiltration\" and Roni, Justin, and Joseph's \"We Hacked Google A.I. for $50,000.\" The $10 million that Google paid in bug bounties in 2023 was lower than the $12 million the company spent in 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-paid-out-10-million-in-bug-bounties-to-security-researchers-in-2023/",
-      "originalUrl": "https://www.zdnet.com/article/google-paid-out-10-million-in-bug-bounties-to-security-researchers-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/d8405430cab212c3dfdcecd7ab9634be11f49abb/2024/03/13/b6f0cadc-6954-44b7-8866-151e0a2e31de/gettyimages-1972337683.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-paid-out-10-million-in-bug-bounties-to-security-researchers-in-2023/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-paid-out-10-million-in-bug-bounties-to-security-researchers-in-2023/",
-      "publishedDateTime": "2024-03-13T15:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-europe-passes-ai-act-to-ban-riskiest-tools-force-copyright-compliance.md",
-      "title": "Europe Passes AI Act to Ban Riskiest Tools, Force Copyright Compliance",
-      "excerpt": "The legislation will require AI firms to notify customers if they're speaking with an AI and bans AI from using human biometric data in most cases, among other rules.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/europe-passes-ai-act-to-ban-riskiest-tools-force-copyright-compliance",
-      "originalUrl": "https://www.pcmag.com/news/europe-passes-ai-act-to-ban-riskiest-tools-force-copyright-compliance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/05EEvCkyXHT7tmPSKhqw4gl-1.fit_lim.size_1200x630.v1710339867.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-13T15:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-fox-news-ai-newsletter-uncontrollable-systems-could-turn-on-humans-report-warns.md",
-      "title": "Fox News AI Newsletter: 'Uncontrollable' systems could turn on humans, report warns",
-      "excerpt": "Stay up to date on the latest AI technology advancements and learn about the challenges and opportunities AI presents now and for the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/fox-news-ai-newsletter-uncontrollable-systems-could-turn-humans-report-warns",
-      "originalUrl": "https://www.foxnews.com/tech/fox-news-ai-newsletter-uncontrollable-systems-could-turn-humans-report-warns",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/09/1200/675/AI.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/fox-news-ai-newsletter-uncontrollable-systems-could-turn-humans-report-warns.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/fox-news-ai-newsletter-uncontrollable-systems-could-turn-humans-report-warns.amp",
-      "publishedDateTime": "2024-03-13T15:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-uk-chips-in-44m-for-a-piece-of-europes-14b-pot-for-semiconductors.md",
-      "title": "UK chips in $44M for a piece of Europe’s $1.4B pot for semiconductors",
-      "excerpt": "Chips are an essential — and thus very valuable — building block for the development of the future of technology, whether it’s for advances in AI that require massive computing power, or the development of new consumer electronics, or the next ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/03/13/uk-europe-semiconductors-chips/",
-      "originalUrl": "https://techcrunch.com/2024/03/13/uk-europe-semiconductors-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1359446412.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/03/13/uk-europe-semiconductors-chips/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/13/uk-europe-semiconductors-chips/amp/",
-      "publishedDateTime": "2024-03-13T15:08:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-the-difference-between-artificial-intelligence-and-machine-learning-and-why-it-matters.md",
-      "title": "The difference between artificial intelligence and machine learning and why it matters",
-      "excerpt": "A Breaking Defense webinar with experts from CDAO, APL, and CNAS gets into the question of defining artificial intelligence vs machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://breakingdefense.com/2024/03/the-difference-between-artificial-intelligence-and-machine-learning-and-why-it-matters/",
-      "originalUrl": "https://breakingdefense.com/2024/03/the-difference-between-artificial-intelligence-and-machine-learning-and-why-it-matters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sites.breakingmedia.com/uploads/sites/3/2022/05/220526_pentagon_AI_brain-e1653573962375.png",
-          "width": 2105,
-          "height": 1184,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://breakingdefense.com/2024/03/the-difference-between-artificial-intelligence-and-machine-learning-and-why-it-matters/?amp=1",
-      "cdnAmpWebUrl": "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2024/03/the-difference-between-artificial-intelligence-and-machine-learning-and-why-it-matters/?amp=1",
-      "publishedDateTime": "2024-03-13T15:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Breaking Defense",
-        "domain": "breakingdefense.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -2,6 +2,50 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2024-01-08-how-ai-and-machine-learning-solutions-drive-value-for-financial-institutions.md",
+      "title": "How AI and machine learning solutions drive value for financial institutions",
+      "excerpt": "In an era where technology is reshaping industries, BMO is making waves in the financial sector through its robust artificial intelligence (AI) initiatives and machine learning technologies. A recent interview with Eric Morrow,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/article/how-ai-and-machine-learning-solutions-drive-value-for-financial-institutions/555838",
+      "originalUrl": "https://www.itworldcanada.com/article/how-ai-and-machine-learning-solutions-drive-value-for-financial-institutions/555838",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2021/09/GettyImages-994786384-1.jpg",
+          "width": 788,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/article/how-ai-and-machine-learning-solutions-drive-value-for-financial-institutions/555838?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/how-ai-and-machine-learning-solutions-drive-value-for-financial-institutions/555838?amp=1",
+      "publishedDateTime": "2024-01-08T14:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2024-01-08-the-future-of-education-exploring-the-benefits-of-a-hybrid-ms-in-machine-learning-at-the-university-of-arizona.md",
       "title": "The Future of Education: Exploring the Benefits of a Hybrid MS in Machine Learning at the University of Arizona",
       "excerpt": "In the era of technological advancements and educational innovation, the University of Arizona is pioneering a new path with its Hybrid MS in Machine Learning",
@@ -1267,59 +1311,6 @@
         "AI",
         "Machine Learning",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-use-amazon-documentdb-to-build-no-code-machine-learning-solutions-in-amazon-sagemaker-canvas.md",
-      "title": "Use Amazon DocumentDB to build no-code machine learning solutions in Amazon SageMaker Canvas",
-      "excerpt": "We are excited to announce the launch of Amazon DocumentDB (with MongoDB compatibility) integration with Amazon SageMaker Canvas, allowing Amazon DocumentDB customers to build and use generative AI and machine learning (ML) solutions without writing code. Amazon DocumentDB is a fully managed native JSON",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-amazon-documentdb-to-build-no-code-machine-learning-solutions-in-amazon-sagemaker-canvas/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-amazon-documentdb-to-build-no-code-machine-learning-solutions-in-amazon-sagemaker-canvas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/15/documentdb-sagemaker.jpg",
-          "width": 1006,
-          "height": 501,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-15T17:51:37Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

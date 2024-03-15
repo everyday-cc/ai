@@ -58,7 +58,7 @@ related:
     provider:
       name: AOL
       domain: aol.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://media.zenfs.com/en/aol_the_independent_us_877/8cf4a0e22283a48afa3c037babe8a638"
         width: 1200

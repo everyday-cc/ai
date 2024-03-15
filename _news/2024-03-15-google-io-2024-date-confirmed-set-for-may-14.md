@@ -41,6 +41,20 @@ related:
         width: 360
         height: 202
         isCached: true
+  - title: "Google I/O 2024 is taking place on 14 May"
+    excerpt: "Google has revealed that 14 March is when its 2024 I/O developers conference will begin and it will likely be focused on more AI products."
+    publishedDateTime: 2024-03-15T09:18:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/google-io-2024-launch-date-ai-gemini"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 24
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2024/03/AdobeStock_308789745_Editorial_Use_Only.jpeg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Google I/O 2024 held on May 14, could announce Pixel 8a, AI features, and more"
     excerpt: "Google I/O 2024, scheduled for May 14, anticipates unveiling the Pixel 8a, breakthroughs in AI technology, and announcements about Android 15."
     publishedDateTime: 2024-03-15T07:00:00Z
@@ -51,6 +65,6 @@ related:
       domain: digit.in
     quality: 15
 
-secured: "2OrZBAXPrHbUl3nOuoIFQArfI2x5VBDAGgpZWelooHkWhxzeYEFqHoaaBKUaJMGbaoF2fmyNb21w7b9x4w8hYFWwfPDb2jQgKZ5H12yKNFqWwPhGfvIjQZYm6tWRezTkEwU7cU0VXZmM4nUZWzctufF/qsKa4cwmS6R6N/IHfwDAbIFqL9Ht95XS6neZDEjZhwO6Qgdkdu/JMjcpD7R9l8WCDa4ooTCHEhI1qT6FbUKQ25u0lPykbZ8MPrPJURHQy74+17O/CMknwekgHs7/d/7MRCYt+brdoTDEJ02Aw3k2m3VRvfP3GU3GuFI4rkJi/WD5d926exVFSVMLyQo6p/myyglj0jPO0MhoKbhBy1k=;iLlLCsseAvzGknIXpzmhSQ=="
+secured: "KX6BR+ix7WukJW5AcwZTvUmE5Ld7ugoSftjqib2XYDl8o/7thhfEB5zjd1G/NHMVWDGA6kVbSk2LHX168oWlgr8hOkvMJ0U7FGjJ6EcOmzJ6YuWaJch+NNVUvUlJsL6E2A7YXIvP9/Pn+MG8hEf7FiL509cqQkBAqwJgGQARGXrnXwBnSWIqc6eL/M8bBBrGu+fhypUG5AyGXrrH/cN+LrTk6LW92aoJWbnHCqc2YswQwqjuiBw8LOUIDpXrX5hHlwZfuj6GgL3w1GR7P7zc/gIuhlc45GzoxlNuRs5MXqGztc+R79IkRygGiThudJsKqhyZkA8SCoSfUJ7lcegfxisgnWkJN1L/y8mmjy/B8qm3x1awbZbaRLJEF/uXuXaELNDY0Y0B8pgUF0vI9YKEBky4yAIJzSLbR9VZz6KzUIzFE6xwaao35HhyrO24OyjYdt0TXHUalkPmeGmcZfsb2kqFmnydEHJKnjBmGvCL/RsBu2/1HVkK8w/StEZaE6ikacv1YFxivH2x1vBK+wtdqg==;kZ7JssVioKqs+PqOKAziRQ=="
 ---
 

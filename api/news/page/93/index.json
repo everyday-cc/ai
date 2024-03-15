@@ -2,6 +2,210 @@
   "page": 93,
   "value": [
     {
+      "path": "_news/2023-12-29-1-artificial-intelligence-ai-stock-down-58-to-buy-hand-over-fist-in-2024.md",
+      "title": "1 Artificial Intelligence (AI) Stock Down 58% to Buy Hand Over Fist in 2024",
+      "excerpt": "Fool.com contributor Parkev Tatevosian highlights how this company implements AI to improve its customer value proposition. *Stock prices used were the afternoon prices of Dec. 26, 2023. The video was published on Dec. 28, 2023. Parkev Tatevosian, CFA has ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2023/12/29/1-artificial-intelligence-ai-stock-down-58-to-buy/",
+      "originalUrl": "https://www.fool.com/investing/2023/12/29/1-artificial-intelligence-ai-stock-down-58-to-buy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/759620/person-looking-at-phone.jpg",
+          "width": 2119,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-29T07:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-29-artificial-intelligence-trends-to-watch-in-2024.md",
+      "title": "Artificial Intelligence Trends To Watch In 2024",
+      "excerpt": "On the cusp of a new year, it’s worth reflecting on the progress AI has made over the past twelve months, as well as what might lie ahead in 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jamesbroughel/2023/12/29/artificial-intelligence-trends-to-watch-in-2024/",
+      "originalUrl": "https://www.forbes.com/sites/jamesbroughel/2023/12/29/artificial-intelligence-trends-to-watch-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/658d83e5b7e68a7de89c3f79/0x0.jpg?format=jpg&crop=6240,2925,x0,y219,safe&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jamesbroughel/2023/12/29/artificial-intelligence-trends-to-watch-in-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesbroughel/2023/12/29/artificial-intelligence-trends-to-watch-in-2024/amp/",
+      "publishedDateTime": "2023-12-29T07:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-29-ai-can-benefit-students-and-parents-if-done-right.md",
+      "title": "AI can benefit students and parents if done right",
+      "excerpt": "Artificial intelligence worries parents but it can also be an opportunity. AI can provide an essential tool to help adults sort through choices for their children's education.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/opinion/ai-benefit-students-parents-done-right",
+      "originalUrl": "https://www.foxnews.com/opinion/ai-benefit-students-parents-done-right",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/de9abed0-e961-4fca-8da9-d6aaef9acfaf/4f5a4fa1-2154-46b0-aaf1-e73d5e8dc141/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/opinion/ai-benefit-students-parents-done-right.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/opinion/ai-benefit-students-parents-done-right.amp",
+      "publishedDateTime": "2023-12-29T07:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-29-ambient-ai-is-here-and-we-are-blissfully-unaware-of-it.md",
+      "title": "Ambient AI Is Here, And We Are Blissfully Unaware Of It",
+      "excerpt": "AI will evolve to become an undercover operating system for professionals, particularly when it comes to using the technology for research and idea generation.'",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/12/29/ambient-ai-is-here-and-we-are-blissfully-unaware-of-it/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/12/29/ambient-ai-is-here-and-we-are-blissfully-unaware-of-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/658e328bd7fe6f0a3f7ff7c1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1335,
+          "height": 890,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/12/29/ambient-ai-is-here-and-we-are-blissfully-unaware-of-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/12/29/ambient-ai-is-here-and-we-are-blissfully-unaware-of-it/amp/",
+      "publishedDateTime": "2023-12-29T06:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-29-elon-musk-says-tesla-in-race-against-time-to-wheel-out-fully-self-driving-cars.md",
       "title": "Elon Musk says Tesla in race against time to wheel out fully self-driving cars",
       "excerpt": "Tech billionaire Elon Musk disclosed that electric vehicle manufacturer Tesla is working on artificial general intelligence (AGI) for its Full Self-Driving (FSD) vehicles in a major step towards obtaining completely autonomous driving capabilities.",
@@ -999,211 +1203,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/johnnavin/2023/12/27/non-artificial-intelligence-stocks-making-new-highs/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnnavin/2023/12/27/non-artificial-intelligence-stocks-making-new-highs/amp/",
       "publishedDateTime": "2023-12-27T23:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-28-11-data-predictions-for-ai-centric-enterprise-growth-in-2024.md",
-      "title": "11 data predictions for AI-centric enterprise growth in 2024",
-      "excerpt": "Key data predictions from industry experts and vendors to help enterprises tap the AI opportunity for growth in 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/data-infrastructure/11-data-predictions-for-ai-centric-enterprise-growth-in-2024/",
-      "originalUrl": "https://venturebeat.com/data-infrastructure/11-data-predictions-for-ai-centric-enterprise-growth-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/12/a_data_cloud_with_2024_written_inside_it_illust-e1703700507903.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-27T22:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-28-16-cybersecurity-leaders-predict-how-gen-ai-will-improve-cybersecurity-in-2024.md",
-      "title": "16 Cybersecurity leaders predict how gen AI will improve cybersecurity in 2024",
-      "excerpt": "Are you ready to bring more awareness to your brand? Consider becoming a sponsor for The AI Impact Tour. Learn more about the opportunities here. With greater AI power comes greater complexity, especially for CISOs adopting generative AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/16-cybersecurity-leaders-predict-how-gen-ai-will-improve-cybersecurity-in-2024/",
-      "originalUrl": "https://venturebeat.com/security/16-cybersecurity-leaders-predict-how-gen-ai-will-improve-cybersecurity-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/12/Hero-image-16-Cybersecurity-leaders-predict-how-gen-AI-will-improve-cybersecurity-in-2024-.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-27T22:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-28-ai-will-savenot-killproject-management.md",
-      "title": "AI Will Save—Not Kill—Project Management",
-      "excerpt": "AI is just the tool to give project managers the data they need to anticipate problems early on, set appropriate budgets and accurately set deadlines and timelines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/larryenglish/2023/12/27/ai-will-save-not-kill-project-management/",
-      "originalUrl": "https://www.forbes.com/sites/larryenglish/2023/12/27/ai-will-save-not-kill-project-management/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/658c543a15cd011325b90e61/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/larryenglish/2023/12/27/ai-will-save-not-kill-project-management/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/larryenglish/2023/12/27/ai-will-save-not-kill-project-management/amp/",
-      "publishedDateTime": "2023-12-27T16:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-28-personal-ai-the-technology-has-hit-its-high-tech-high-touch-stage.md",
-      "title": "Personal AI: The Technology Has Hit Its ‘High-Tech High-Touch’ Stage",
-      "excerpt": "Technology doesn’t really take off until it reaches its ‘high-tech high-touch” stage — that is, it becomes accessible, friendly, and yes, fun, to users in a big way. That concept, spun by late author and futurist John Naisbitt in his seminal work Megatrends back in the 1980s,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2023/12/27/personal-ai-the-technology-has-hit-its-high-tech-high-touch-stage/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2023/12/27/personal-ai-the-technology-has-hit-its-high-tech-high-touch-stage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/658c502c7675026abb56f36a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2023/12/27/personal-ai-the-technology-has-hit-its-high-tech-high-touch-stage/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2023/12/27/personal-ai-the-technology-has-hit-its-high-tech-high-touch-stage/amp/",
-      "publishedDateTime": "2023-12-27T16:37:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

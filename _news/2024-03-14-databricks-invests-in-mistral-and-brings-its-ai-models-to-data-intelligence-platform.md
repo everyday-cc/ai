@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/databricks-invests-in-mistral-and-bring
 webUrl: "https://venturebeat.com/ai/databricks-invests-in-mistral-and-brings-its-ai-models-to-data-intelligence-platform/"
 type: article
 quality: 62
-heat: 72
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia Is an Investor in Artificial Intelligence (AI) Start-Up Databricks. Should Palantir Investors Worry?"
+    excerpt: "Nvidia has been investing significant capital into AI-powered enterprise software platforms. Databricks offers a host of artificial intelligence (AI) applications through its Mosaic AI software. Palantir competes with Databricks in the world of big data."
+    publishedDateTime: 2024-03-15T07:45:00Z
+    webUrl: "https://www.fool.com/investing/2024/03/15/nvidia-is-an-investor-in-artificial-intelligence-a/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 64
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/769088/gettyimages-1096811078.jpg"
+        width: 5944
+        height: 3278
+        isCached: true
   - title: "Databricks is the latest investor in red-hot generative AI startup Mistral AI"
     excerpt: "Citing a commitment to open-source software for generative artificial intelligence development, Databricks Inc. said today it has made an unspecified strategic investment and partnership with large language model developer Mistral AI SAS."
     publishedDateTime: 2024-03-14T12:59:00Z

@@ -27,8 +27,8 @@ images:
 related:
   - title: "Law Firm Innovation: How BakerHostetler Launched FinClar, a Lawyer-Built FinTech Tool"
     excerpt: "Legaltech News sat down with Jonathan Forster, Northeast practice leader of BakerHostetler’s Private Wealth Group and the one behind FinClar, to discuss how and why he created the firm's new FinTech tool,"
-    publishedDateTime: 2024-03-11T21:52:00Z
-    webUrl: "https://www.law.com/2024/03/11/law-firm-innovation-how-bakerhostetler-launched-finclar-a-lawyer-built-fintech-tool/"
+    publishedDateTime: 2024-03-11T19:23:00Z
+    webUrl: "https://www.law.com/legaltechnews/2024/03/11/law-firm-innovation-how-bakerhostetler-launched-finclar-a-lawyer-built-fintech-tool/"
     type: article
     provider:
       name: Law

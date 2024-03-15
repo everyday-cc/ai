@@ -33,20 +33,6 @@ related:
         width: 2560
         height: 1720
         isCached: true
-  - title: "GenAI set to transform wealth management industry"
-    excerpt: "Generative AI can allow wealth managers to personalise at scale, enabling them to put clients at the centre of business models."
-    publishedDateTime: 2024-03-11T10:52:00Z
-    webUrl: "https://www.pwmnet.com/genai-set-to-transform-wealth-management-industry"
-    type: article
-    provider:
-      name: pwmnet.com
-      domain: pwmnet.com
-    quality: 39
-    images:
-      - url: "https://www.pwmnet.com/wp-content/uploads/2024/03/GET-AI-scaled.jpeg"
-        width: 2560
-        height: 1720
-        isCached: true
   - title: "Today's AI tax tools — and their vast potential to reshape the industry"
     excerpt: "With two fields increasingly working together, wealth management and accounting firms are rolling out tools. Are financial advisors ready to work with the robots?"
     publishedDateTime: 2024-03-11T23:16:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2024-03-15T07:30:00Z
 originalUrl: "https://www.aol.com/google-ai-gaming-companion-may-073004626.html"
 webUrl: "https://www.aol.com/google-ai-gaming-companion-may-073004626.html"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Google AI
 
 images:
   - url: "https://media.zenfs.com/en/aol_the_independent_us_877/8cf4a0e22283a48afa3c037babe8a638"
@@ -74,6 +75,6 @@ related:
       domain: dexerto.com
     quality: 19
 
-secured: "F52TOKBgXL9S6iMkO0ufQ/XhN464zV7/0izfgit/91LSAzHT8pVYR6oeBvYAs3P7GLnPbCYYgBet3mr5mxVL6WNKEJMb22Wovu6W3nHcqSNqCOSDbP6K4Ld13JiMjLC2MCnaqUDUn9MjXxdga21SWqDm5sDxctFQtQByFtKLXcDMgX4D+81H9XpnYoihlCcMYitCPl1TBgNCSP/gMZL7X1d1Fwvq2eQGkwuLO4MAV4/fn/n7npgX5W3eJgF6LaopnRHVsDHH5+OuaRNqGu4QF8UuRKzY8uvIDlM29Nz0KYRenpgPiV4gNm75VYyCU0eEV8x1VkfxkrlGtUbnMYLGSBKq2uNpjZHeT9fUxQEaSiI=;0FHXyGaIdEJ0oMp04FTBkg=="
+secured: "Pvwv6hSR6rcHy1XC+7W0OxhOqAsY7iCp81pmhzMKJe9atOxfO0BV5UR+AW6sgi4h/DFshzq3LxKugIA45kmymvULEpVPf4fa5wxoKUopENUJ4AJCN8Xo22gHL9dLbqcOX46iMBhZEtAAZJXiMOeTW5UETqDNKkG65XVZx6My+IWNv7St+DL/apzMuPnKhTP+hcFnj9RptyuCM21vBeFKq+wUEduhscDDCPWWtYx+kPDTJtWPSzj5BKkTRrLT3TFh1gLjJqVg0dmqVZbVkBqGVjEiWqn9Ss8JrshOC32964pozRtN6lCK2drxgZbbWJmghWp/nvkgxita6nR89OoRyIspJufF+Sh+KjUgmUJCqpxVatc6aOvfm/hK9xOVttPke5u2TeA1mSQwaqEJFychwCL88x3HzryqFAVCto+q6cOdOUewaQCm6LHgpo3zBTTE+hhRCd1XthvaMbDWQfYlAoErAS2CJIEsWYeAB+RN+5cE9YbaYxHCSEgDfS+pbu4eZER8cIu/ldBvuH+J0cYupA==;ICUnPtO2bkrc+wI6sg6nzA=="
 ---
 

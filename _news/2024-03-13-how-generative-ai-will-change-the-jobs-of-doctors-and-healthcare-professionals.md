@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/03/13/how-generative-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/03/13/how-generative-ai-will-change-the-jobs-of-doctors-and-healthcare-professionals/amp/"
 type: article
 quality: 100
-heat: 260
+heat: 250
 published: true
 
 provider:
@@ -179,20 +179,6 @@ related:
       - url: "https://cdn.mos.cms.futurecdn.net/2UMvPDp3snEwaGbRuCivjE-1200-80.jpg"
         width: 970
         height: 545
-        isCached: true
-  - title: "OpenAI's Head of ChatGPT Says AI Will Make Us More Creative--and More Human"
-    excerpt: "At a SXSW panel, Peter Deng says OpenAI is committed to keeping the basic version of ChatGPT free; evades question over paying artists for using their work."
-    publishedDateTime: 2024-03-11T20:40:00Z
-    webUrl: "https://www.inc.com/jennifer-conrad/openais-head-of-chatgpt-says-ai-will-make-humans-more-creative.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 52
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1311390274_538341_tenhg1.jpg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Generative AI Is A Game Changer For Talent Transformation"
     excerpt: "One of generative AI's most significant implications is giving talent management professionals the ability to communicate information to executives and their board of directors. It helps leadership look around corners, rather than just in the rearview mirror, when shaping strategy or making decisions."

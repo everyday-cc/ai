@@ -3,11 +3,11 @@ category: news
 title: "How to learn data analytics"
 excerpt: "These tools range from Apache Spark and his own Quantum Metric to SAS, Google Cloud AutoML, and SAP Analytics Cloud. Lastly, Van de Wiel and Ciabarra agree that as a core analyst, the technical skill of visualization is critical. Visualization refers to ..."
 publishedDateTime: 2024-03-14T21:54:00Z
-originalUrl: "https://fortune.com/education/articles/how-to-learn-data-analytics/?ref=biztoc.com"
-webUrl: "https://fortune.com/education/articles/how-to-learn-data-analytics/?ref=biztoc.com"
+originalUrl: "https://fortune.com/education/articles/how-to-learn-data-analytics/"
+webUrl: "https://fortune.com/education/articles/how-to-learn-data-analytics/"
 type: article
 quality: 54
-heat: 114
+heat: 117
 published: true
 
 provider:
@@ -104,6 +104,6 @@ related:
       domain: 01net.it
     quality: 0
 
-secured: "kETqeDKz+cyNKSBCsCiXaLhMiZ3PWLD4MbiaHkHu6OJb/f2boVWfuTPyO0eAinVbeDcKxpK/vkpfUsFkjFzxGdQ2LV8mnqXIULRC/rL2NaR1grrWmjUUdpo+5/323dvteDYUIpafs+8fDizHwhLQ2AtJ/LgQpfGrCoOw9ulQpxxJXsCGcL+XTmakEk/dMhcqwu6jEmObiScl/lNKwcKHgjFmWK/0GwhNB+tMZ4OqsDct0qxfHpdLkvR9uBese3TULOaibIjR/1sTNNfvbH5Ra+SV+Zkrtn0A18iK26uRhj5ZPwdLwsUwpRjVyBJHsaCcPjq7s58Xq8FLbSwch9O/t+oZH6i/JJTxL5uXvTuaJT8=;/qMhz6XtJoRgMHg1nkKQtg=="
+secured: "Khl9Kd7cGum/gR/5htcPO0kO7zyXCY7jMtxuryRXgb7RMvzdrkm29qQ7QnNjLCZVW/VYr/UDKcsc6rIwDtzT/EPZZ540JVEQ1l6bw4gnQnhGl/atzoINzHcZUHyqiinW2peiUDQU/zEU+7ilIQsvBm3j14/9oLNO1MjaY+5XeUH1dBrWUu5flxJbn29vIfdFPGCjCGwxbMUeWHFoFzyzoxsPbSPaB0E/We+bImocH/C6rE0ZBBCCKH7/YkX+P0MDTBCAHDJ/dvs51uiclogRi4Ov89/cqmVvQ2qH13TswUHPy1KmhmwLMfZ5TYyIZr11dI1GAis/QwuJnb6HdkOiTupeZ3XXFSqveOkYF4qS3jQ=;tnYwEbiYwIF2gR3fh1Adig=="
 ---
 

@@ -49,6 +49,20 @@ related:
         width: 1250
         height: 750
         isCached: true
+  - title: "Google I/O 2024 is taking place on 14 May"
+    excerpt: "Google has revealed that 14 March is when its 2024 I/O developers conference will begin and it will likely be focused on more AI products."
+    publishedDateTime: 2024-03-15T09:18:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/google-io-2024-launch-date-ai-gemini"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 24
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2024/03/AdobeStock_308789745_Editorial_Use_Only.jpeg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "dUV7VrWVmIyg9JOuyLwXLWEDrNoHoPx9Wrb82p+2lI0r14MJVth3Vmcz3wtWEz9gUZsbz/+vZ+evJH0/29Pc7QVwAY9yS+1R1ge+s/TpHneayd0fKqbktlJtn4NwOkJU/q0y/TTQ/KfjtpHU1nRmtqx8aLYh8PrDlojt4z+4H3KabowxvOMpe0/2zIOznVayiCh/qJsXBKb9hvUV6BlMIesUUCqUQQcw1jFZOE4JhN+/8yD9sMDDvjaG9SoqIX3pe5bKfh7Kp1+/W8AAwF7/mWMhBOpe4OpkbsvKx9ChwX+twd5KGY9UIQOJgxdCxXqVRJozrLTGfrMDo15T6NlqyvYAUnhKvdq4pNxKWOpCmwDA93msHPTuFE3dJiPvLN/aJeBKFPqkkpXPCXXszUSZrm/LDJGcsHdaN3wZ22zONZ9iBRQKrdVw+e3NQol62bfiSIfGzzO1Zw/jMh8MmNearBqJjCZCJc8EWmtDWsFy/u0fGkD/mlaJvLiORs1lwejVZhyd/8LwDCc+ByOe07Wbrw==;QBFNHGjXHKXtTzZHI0IaTQ=="
 ---

@@ -2,6 +2,257 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-15-beyond-chatgpt-four-types-of-ai-your-marketing-team-should-use-now.md",
+      "title": "Beyond ChatGPT: Four Types Of AI Your Marketing Team Should Use Now",
+      "excerpt": "To free up your marketing team’s precious time, learn to get the most out of LLMs. Do research, play around and experiment. Train these bots to do your most basic work, then use all the new information at your fingertips (and time on your hands) to create something even more valuable to your business than ever before.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2024/03/15/beyond-chatgpt-four-types-of-ai-your-marketing-team-should-use-now/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2024/03/15/beyond-chatgpt-four-types-of-ai-your-marketing-team-should-use-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f57db71653ff9e8e4d10083/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 852,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-15T11:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Marketing",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-15-uk-and-germany-double-down-on-joint-ai-clean-energy-rd-efforts.md",
+      "title": "UK And Germany Double Down On Joint AI, Clean Energy R&D Efforts",
+      "excerpt": "The United Kingdom and Germany have turbocharged their collaboration in science, research and innovation with a new series of initiatives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/federicoguerrini/2024/03/15/uk-and-germany-double-down-on-joint-ai-clean-energy-rd-efforts/",
+      "originalUrl": "https://www.forbes.com/sites/federicoguerrini/2024/03/15/uk-and-germany-double-down-on-joint-ai-clean-energy-rd-efforts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65f42a5eaf28534b3b269894/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1295,
+          "height": 817,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/federicoguerrini/2024/03/15/uk-and-germany-double-down-on-joint-ai-clean-energy-rd-efforts/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/federicoguerrini/2024/03/15/uk-and-germany-double-down-on-joint-ai-clean-energy-rd-efforts/amp/",
+      "publishedDateTime": "2024-03-15T11:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-15-how-to-build-a-genai-platform-with-cloud-based-machine-learning-ops.md",
+      "title": "How to build a GenAI platform with cloud-based machine learning ops",
+      "excerpt": "Here’s a good approach to building a GenAI platform that all departments in any organization can benefit from.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmagazine.com/perspective/how-to-build-a-genai-platform-with-cloud-based-machine-learning-ops",
+      "originalUrl": "https://www.scmagazine.com/perspective/how-to-build-a-genai-platform-with-cloud-based-machine-learning-ops",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://files.scmagazine.com/wp-content/uploads/2024/03/PriyankKapadiaCol.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-15T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SC Media",
+        "domain": "scmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-15-7-common-mistakes-ctos-make-when-implementing-ai-code-tools.md",
+      "title": "7 Common Mistakes CTOs Make When Implementing AI Code Tools",
+      "excerpt": "The increased productivity of AI tools will give you strategic development options such as accelerating your roadmap, downsizing your development team or a mixture of both. But don’t jump too soon. If you don’t get your strategy right in the first place, you may find your team spends more time fixing new issues than implementing them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/15/7-common-mistakes-ctos-make-when-implementing-ai-code-tools/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/15/7-common-mistakes-ctos-make-when-implementing-ai-code-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65f3314189e4e9ebddc7f2db/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1179,
+          "height": 785,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/15/7-common-mistakes-ctos-make-when-implementing-ai-code-tools/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/15/7-common-mistakes-ctos-make-when-implementing-ai-code-tools/amp/",
+      "publishedDateTime": "2024-03-15T10:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-15-nvidia-is-an-investor-in-artificial-intelligence-ai-start-up-databricks-should-palantir-investors-worry.md",
+      "title": "Nvidia Is an Investor in Artificial Intelligence (AI) Start-Up Databricks. Should Palantir Investors Worry?",
+      "excerpt": "Nvidia has been investing significant capital into AI-powered enterprise software platforms. Databricks offers a host of artificial intelligence (AI) applications through its Mosaic AI software. Palantir competes with Databricks in the world of big data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/03/15/nvidia-is-an-investor-in-artificial-intelligence-a/",
+      "originalUrl": "https://www.fool.com/investing/2024/03/15/nvidia-is-an-investor-in-artificial-intelligence-a/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/769088/gettyimages-1096811078.jpg",
+          "width": 5944,
+          "height": 3278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-15T07:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-15-latest-news-shows-how-ai-business-tools-are-transforming-marketing-and-sales.md",
       "title": "Latest News Shows How AI Business Tools Are Transforming Marketing and Sales.",
       "excerpt": "AI business tools are transforming the marketing and sales landscape. Oracle’s generative AI tools, Adaptive ML’s custom-made gen AI, IBM’s productivity boost with Adobe AI tools, and Forbes Advisor’s selection of AI tools highlight the breadth of opportunities AI offers.",
@@ -54,7 +305,7 @@
       "originalUrl": "https://www.scmp.com/tech/big-tech/article/3255458/apple-buys-canadian-start-darwinai-after-falling-behind-microsoft-google-generative-ai",
       "featuredContent": null,
       "highlight": null,
-      "heat": 163,
+      "heat": 173,
       "tags": null,
       "images": [
         {
@@ -257,11 +508,11 @@
       "title": "How to learn data analytics",
       "excerpt": "These tools range from Apache Spark and his own Quantum Metric to SAS, Google Cloud AutoML, and SAP Analytics Cloud. Lastly, Van de Wiel and Ciabarra agree that as a core analyst, the technical skill of visualization is critical. Visualization refers to ...",
       "sourceUrl": null,
-      "webUrl": "https://fortune.com/education/articles/how-to-learn-data-analytics/?ref=biztoc.com",
-      "originalUrl": "https://fortune.com/education/articles/how-to-learn-data-analytics/?ref=biztoc.com",
+      "webUrl": "https://fortune.com/education/articles/how-to-learn-data-analytics/",
+      "originalUrl": "https://fortune.com/education/articles/how-to-learn-data-analytics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -313,7 +564,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/etf/billions-just-hit-the-biggest-semiconductor-etf-are-investors-going-all-in-on-ai-chip-boom-1033165877",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -500,6 +751,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-15-ai-powered-ad-ignites-creator-controversy-on-instagram.md",
+      "title": "‘AI-powered’ ad ignites creator controversy on Instagram",
+      "excerpt": "A new ad from Under Armour featuring boxer Anthony Joshua has come under fire from creatives on Instagram after its director claimed it as the “first Ai-powered sports commercial” — but critics in the industry say it blatantly reused others’ work ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/03/14/ai-powered-ad-ignites-creator-controversy-on-instagram/",
+      "originalUrl": "https://techcrunch.com/2024/03/14/ai-powered-ad-ignites-creator-controversy-on-instagram/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/03/aj-ai-ua.jpg?w=1080",
+          "width": 1080,
+          "height": 608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/03/14/ai-powered-ad-ignites-creator-controversy-on-instagram/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/14/ai-powered-ad-ignites-creator-controversy-on-instagram/amp/",
+      "publishedDateTime": "2024-03-14T19:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -926,307 +1229,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-14-this-investor-predicted-the-dot-com-bust-he-thinks-ai-is-a-bubble-that-will-deflate.md",
-      "title": "This investor predicted the dot-com bust. He thinks AI is a bubble that will ‘deflate’",
-      "excerpt": "Is the artificial intelligence boom a bubble or the real deal? GMO’s Jeremy Grantham has an answer Wall Street may not like.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2024/03/14/investing/premarket-stocks-trading-ai-bubble-grantham/index.html",
-      "originalUrl": "https://www.cnn.com/2024/03/14/investing/premarket-stocks-trading-ai-bubble-grantham/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1605854455.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2024/03/14/investing/premarket-stocks-trading-ai-bubble-grantham/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2024/03/14/investing/premarket-stocks-trading-ai-bubble-grantham/index.html",
-      "publishedDateTime": "2024-03-14T11:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-14-the-ai-revolution-is-here-to-stay-are-your-systems-ready.md",
-      "title": "The AI Revolution Is Here To Stay: Are Your Systems Ready?",
-      "excerpt": "If you take time now to harden your cybersecurity and set up proper review procedures, you’ll be well on your way to making the AI revolution work for you.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/14/the-ai-revolution-is-here-to-stay-are-your-systems-ready/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/14/the-ai-revolution-is-here-to-stay-are-your-systems-ready/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65c665858486a2b4671d9af8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1300,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/14/the-ai-revolution-is-here-to-stay-are-your-systems-ready/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/14/the-ai-revolution-is-here-to-stay-are-your-systems-ready/amp/",
-      "publishedDateTime": "2024-03-14T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-14-what-cios-should-consider-when-exploring-generative-ai.md",
-      "title": "What CIOs Should Consider When Exploring Generative AI",
-      "excerpt": "In 2024, generative AI presents a wide range of opportunities and considerations that are important for CIOs to reflect on. It excels in analyzing vast datasets more efficiently than human capability,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/14/what-cios-should-consider-when-exploring-generative-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/14/what-cios-should-consider-when-exploring-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/640f2ca26c680dae90216405/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/14/what-cios-should-consider-when-exploring-generative-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/14/what-cios-should-consider-when-exploring-generative-ai/amp/",
-      "publishedDateTime": "2024-03-14T10:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-14-founder-of-chip-testing-firm-rides-ai-boom-to-become-south-koreas-newest-billionaire.md",
-      "title": "Founder Of Chip-Testing Firm Rides AI Boom To Become South Korea’s Newest Billionaire",
-      "excerpt": "Shares of Leeno Industrial, an under-the-radar semiconductor firm in Busan, have soared over 70% since November, making founder and CEO Lee Chae-yoon a billionaire.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkang/2024/03/14/founder-of-chip-testing-firm-rides-ai-boom-to-become-south-koreas-newest-billionaire/",
-      "originalUrl": "https://www.forbes.com/sites/johnkang/2024/03/14/founder-of-chip-testing-firm-rides-ai-boom-to-become-south-koreas-newest-billionaire/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6595271c2c1b2d0f73410a6e/0x0.jpg?format=jpg&crop=765,430,x47,y0,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-14T09:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-14-akamai-neural-magic-team-to-bolster-ai-at-the-network-edge.md",
-      "title": "Akamai, Neural Magic team to bolster AI at the network edge",
-      "excerpt": "The partnership will give joint customers a CPU platform on which to run computationally intensive AI workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/1313602/akamai-neural-magic-team-to-bolster-ai-at-the-network-edge.html",
-      "originalUrl": "https://www.networkworld.com/article/1313602/akamai-neural-magic-team-to-bolster-ai-at-the-network-edge.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.networkworld.com/wp-content/uploads/2024/03/shutterstock_1748437547-100937033-orig.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/1313602/akamai-neural-magic-team-to-bolster-ai-at-the-network-edge.html/amp/",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1313602/akamai-neural-magic-team-to-bolster-ai-at-the-network-edge.html/amp/",
-      "publishedDateTime": "2024-03-14T09:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-14-googles-new-ai-can-play-3d-games-with-you-by-following-natural-language-instructions.md",
-      "title": "Google's new AI can play 3D games with you by following natural-language instructions",
-      "excerpt": "Google DeepMind's new AI takes things a step further by learning human-like gaming skills. Google's DeepMind research group unveiled a new AI program that is capable of learning how to complete tasks in a number of games. Called Scalable Instructable ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/googles-new-ai-can-play-3d-games-with-you-by-following-natural-language-instructions/",
-      "originalUrl": "https://www.neowin.net/news/googles-new-ai-can-play-3d-games-with-you-by-following-natural-language-instructions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neowin.com/news/images/uploaded/2021/01/1611767819_google_logo_red_1_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/googles-new-ai-can-play-3d-games-with-you-by-following-natural-language-instructions/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/googles-new-ai-can-play-3d-games-with-you-by-following-natural-language-instructions/",
-      "publishedDateTime": "2024-03-14T09:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],
