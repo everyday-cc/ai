@@ -130,20 +130,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 44
-  - title: "Apple Buys AI Startup DarwinAI Ahead Of iOS 18 And Next-Gen iPhone Launch"
-    excerpt: "Apple has acquired DarwinAI, showing a relentless push into the segment for what will be a very competitive future in the space. In years past, performance expectations were all based on the brute force that hardware could produce."
-    publishedDateTime: 2024-03-15T13:28:00Z
-    webUrl: "https://hothardware.com/news/apple-buys-ai-startup-darwinai-ahead-of-ios-18-and-next-gen-iphone"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 36
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/64128/content/apple.jpg"
-        width: 708
-        height: 399
-        isCached: true
   - title: "Apple just bought a Canadian AI startup as it plans for iOS 18 and beyond"
     excerpt: "Now, a new report suggests that Apple has taken a step further in its quest to do just that by buying a new company in the form of Canadian AI startup DarwinAI. Bloomberg's Mark Gurman reports that Apple actually bought the company earlier this year and ..."
     publishedDateTime: 2024-03-14T18:45:00Z

@@ -2,6 +2,238 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2024-03-08-do-we-need-hr-for-ai-employees.md",
+      "title": "Do We Need HR For AI Employees?",
+      "excerpt": "When it comes to handling HR for AI—I know, the two terms aren’t a natural fit for each other—there’s no roadmap yet. We’re in uncharted territory. Whose job is it to ensure that AI agents are collaborating effectively with each other and their human counterparts?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/do-we-need-hr-for-ai-employees/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/do-we-need-hr-for-ai-employees/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/655516d102d93493722f7f19/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/08/do-we-need-hr-for-ai-employees/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/08/do-we-need-hr-for-ai-employees/amp/",
+      "publishedDateTime": "2024-03-08T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-08-no-silver-bullet-closing-the-gender-gap-in-the-era-of-generative-ai.md",
+      "title": "No silver bullet: Closing the gender gap in the era of generative AI",
+      "excerpt": "Closing the gender gap won't happen overnight. It’s a puzzle, and we need all the pieces to come together. Generative AI can help.\nThe post No silver bullet: Closing the gender gap in the era of generative AI appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/no-silver-bullet-closing-the-gender-gap-in-the-era-of-generative-ai/",
+      "originalUrl": "https://www.ibm.com/blog/no-silver-bullet-closing-the-gender-gap-in-the-era-of-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-08T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-08-ai-may-kill-the-one-job-everyone-thought-it-would-create.md",
+      "title": "AI may kill the one job everyone thought it would create",
+      "excerpt": "Copy Link Could prompt engineering be on the list of jobs that AI will kill next? Prompt engineers write input ... which we've talked about on the show.\" Though research has shown promising performances for prompt optimizers, some experts caution that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/chaptgpt-large-language-model-ai-prompt-engineering-automated-optimizer-2024-3",
+      "originalUrl": "https://www.businessinsider.com/chaptgpt-large-language-model-ai-prompt-engineering-automated-optimizer-2024-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65ea50e26080194819fddbdb?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/chaptgpt-large-language-model-ai-prompt-engineering-automated-optimizer-2024-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chaptgpt-large-language-model-ai-prompt-engineering-automated-optimizer-2024-3?amp",
+      "publishedDateTime": "2024-03-08T10:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-08-melinda-gates-says-ai-in-pregnancy-could-help-save-womens-lives.md",
+      "title": "Melinda Gates says AI in pregnancy could help save women's lives",
+      "excerpt": "Using artificial intelligence, or AI, to provide maternal health care to women, especially those in rural and low-income areas, could be a \"game-changer\" in saving the lives of pregnant women, Melinda Gates, chairperson of the Bill & Melinda Gates Foundation, told ABC News chief medical correspondent Dr. Jennifer Ashton.",
+      "sourceUrl": null,
+      "webUrl": "https://www.goodmorningamerica.com/wellness/story/melinda-gates-artificial-intelligence-pregnancy-save-womens-lives-107816804",
+      "originalUrl": "https://www.goodmorningamerica.com/wellness/story/melinda-gates-artificial-intelligence-pregnancy-save-womens-lives-107816804",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/GMA/Gates-1-ht-er-240307_1709854892957_hpMain_16x9_992.jpeg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.goodmorningamerica.com/amp/wellness/story/melinda-gates-artificial-intelligence-pregnancy-save-womens-lives-107816804",
+      "cdnAmpWebUrl": "https://www-goodmorningamerica-com.cdn.ampproject.org/c/s/www.goodmorningamerica.com/amp/wellness/story/melinda-gates-artificial-intelligence-pregnancy-save-womens-lives-107816804",
+      "publishedDateTime": "2024-03-08T09:11:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GMA",
+        "domain": "goodmorningamerica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-08-katie-britt-used-decades-old-example-of-rapes-in-mexico-to-attack-biden-border-policy.md",
+      "title": "Katie Britt used decades-old example of rapes in Mexico to attack Biden border policy",
+      "excerpt": "The Republican senator who gave the party's response to President Joe Biden's State of the Union address used a harrowing account of a young woman's sexual abuse to attack his border policies, but the rapes did not happen in the U.S. nor during the Biden ...",
+      "sourceUrl": null,
+      "webUrl": "https://newsadvance.com/news/nation-world/government-politics/politics-elections-border-immigration-trafficking/article_5138b9ca-042d-5ead-a544-9c839a15bfa2.html",
+      "originalUrl": "https://newsadvance.com/news/nation-world/government-politics/politics-elections-border-immigration-trafficking/article_5138b9ca-042d-5ead-a544-9c839a15bfa2.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/newsadvance.com/content/tncms/assets/v3/editorial/5/13/5138b9ca-042d-5ead-a544-9c839a15bfa2/65ed0f743215d.preview.jpg?crop=1433%2C752%2C48%2C103&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-08T07:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The News & Advance",
+        "domain": "newsadvance.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-08-bjp-to-use-ai-to-translate-pms-speeches.md",
       "title": "BJP to use AI to translate PM’s speeches",
       "excerpt": "BJP is using 'Bhashini', an AI-powered tool, launched under the National Language Translation Mission, to translate PM Narendra Modi's Lok Sabha campaign speeches into regional languages, bridging the language gap and connecting with audiences in southern ...",
@@ -906,212 +1138,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-reshape-automation-aims-to-reduce-barriers-of-robotics-adoption.md",
-      "title": "Reshape Automation aims to reduce barriers of robotics adoption",
-      "excerpt": "Reshape Automation is launching an end-to-end platform for customers to discover, design, purchase, and get support for automation projects.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/reshape-automation-aims-to-reduce-barriers-of-robotics-adoption/",
-      "originalUrl": "https://www.therobotreport.com/reshape-automation-aims-to-reduce-barriers-of-robotics-adoption/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-07T14:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-hugging-face-is-launching-an-open-source-robotics-project-led-by-former-tesla-scientist.md",
-      "title": "Hugging Face is launching an open source robotics project led by former Tesla scientist",
-      "excerpt": "Remi Cadene's move signals an ambitious expansion for Hugging Face, which until now, has primarily focused on software, not hardware.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/hugging-face-is-launching-an-open-source-robotics-project-led-by-former-tesla-scientist/",
-      "originalUrl": "https://venturebeat.com/ai/hugging-face-is-launching-an-open-source-robotics-project-led-by-former-tesla-scientist/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/03/cfr0z3n_interior_of_an_industrial_assembly_line_manufacturing_t_5c2d1f37-2f10-41ef-addf-7f2dfdd77d21.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-07T14:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-can-you-spot-ai-generated-images-take-our-quiz-to-test-your-skills.md",
-      "title": "Can You Spot AI-Generated Images? Take Our Quiz to Test Your Skills",
-      "excerpt": "Determining whether or not an image was created by generative AI is harder than ever, but it's still possible if you know the telltale signs to look for.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/articles/how-to-detect-ai-created-images",
-      "originalUrl": "https://www.pcmag.com/articles/how-to-detect-ai-created-images",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/01lTyBxcS2L9vruDcS4D2Ho-1.fit_lim.size_1200x630.v1692729678.png",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-07T14:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-airports-using-biometric-facial-recognition-in-california.md",
-      "title": "Airports using biometric facial recognition in California",
-      "excerpt": "The TSA's initial rollout covered 16 airports of various sizes across the country, including Baltimore; Boston; Dallas; Detroit; Orlando, Florida; Phoenix; Salt Lake City; San Jose, California; and Gulfport-Biloxi in Mississippi. States with busy international airports have continued to add the technology as the TSA's pilot expands.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theintelligencer.com/news/article/airports-using-biometric-facial-recognition-in-18709540.php",
-      "originalUrl": "https://www.theintelligencer.com/news/article/airports-using-biometric-facial-recognition-in-18709540.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-07T14:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Edwardsville Intelligencer",
-        "domain": "theintelligencer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-airports-using-biometric-facial-recognition-in-new-york.md",
-      "title": "Airports using biometric facial recognition in New York",
-      "excerpt": "The TSA started piloting this system in 2020 at Ronald Reagan Washington National Airport in Virginia, but this is not its first foray into using biometrics. Since the mid-'00s, foreign nationals entering the U.S. have given biometric data at customs for identification verification.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theintelligencer.com/news/article/airports-using-biometric-facial-recognition-in-18709539.php",
-      "originalUrl": "https://www.theintelligencer.com/news/article/airports-using-biometric-facial-recognition-in-18709539.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-07T14:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Edwardsville Intelligencer",
-        "domain": "theintelligencer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

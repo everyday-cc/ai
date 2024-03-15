@@ -68,6 +68,20 @@ related:
         width: 775
         height: 500
         isCached: true
+  - title: "EU Parliament Adopts Act Regulating the Use of Artificial Intelligence"
+    excerpt: "For evaluating eligibility for essential public assistance benefits and services, including healthcare. In the administration of justice and democratic process, including use by a judicial authority in researching and interpreting facts and the law."
+    publishedDateTime: 2024-03-15T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/eu-parliament-adopts-act-regulating-the-4840172/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 39
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15711_2152.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Key Considerations Regarding the Recently Passed EU Artificial Intelligence Act"
     excerpt: "On Wednesday, March 13, the European Parliament approved the regulation harmonizing rules on artificial intelligence (AI) (the AI Act). Stakeholders must comply with the AI Act due to its global reach, when it takes effect this year. Global scope — The ..."
     publishedDateTime: 2024-03-14T00:01:00Z

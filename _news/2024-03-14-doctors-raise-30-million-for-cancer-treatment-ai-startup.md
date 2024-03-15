@@ -21,17 +21,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "The AI start-up that knocked back a $35 million takeover bid"
-    excerpt: "Sydney AI design start-up Relume has knocked back multiple acquisition offers of $25 million to $35 million, its co-founders instead backing themselves to build a company they think can become the next Canva."
-    publishedDateTime: 2024-03-10T17:30:00Z
-    webUrl: "https://www.smh.com.au/technology/the-ai-start-up-that-knocked-back-a-35-million-takeover-bid-20240307-p5fajp.html"
-    type: article
-    provider:
-      name: Sydney Morning Herald
-      domain: smh.com.au
-    quality: 17
-
 secured: "gcPjRa8lhWOD80fNZZDFzi+2lSNQTZiiCCBoFGNhyAzae4dOFs0MOa/MKCds8urNKAZbnqzFS1/nc6AkTIzSNXEDKNlwYjXzFNfaBXyE8Bx3j00qGA7b8aVFwwZb+jZA7kg65OGvjUUPPnpvH1UKd3sWLVuod6NFYiyUEJpPAejByo9+yZbtrV7+V/rZ8UafR2RphqKjvrxxtPTuGdCLNB68Sk1gp4kVtggSz6efeQx7yhpTYj+pDBjnc3K8y5evq3Z/MA8Qo2ucKs86pxP/S3v26bFMh/F3zKbqwUpsB5eIQtOT4uouLC5BTWYe+xgFYACsUj8HdtzxOwf9ExrAsjSFSti9wNRL8pyVBj+kWf4a2qBZhPt1PslM1yBOp7ixyi3P8whUOtWzgn+K0ENEoJ8EVx/y2hSIMFm6buefUNpIDtGw0kObjkILJiGqKqtEEkA2MyhUR0I2NZGN3rEzok7TyWL25w+Do6IVUcb55j9N3D9ofWgz8CtLeqFlfZLQUO6v1uYXhRG6VMZ1uw1+Pg==;iwbkFvCuW+UglNJAPQojjw=="
 ---
 

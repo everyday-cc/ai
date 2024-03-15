@@ -2,6 +2,59 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-12-17-amazon-facial-recognition-bias-claims-are-misleading.md",
+      "title": "Amazon: Facial recognition bias claims are 'misleading'",
+      "excerpt": "The study author, Joy Buolamwini, has spent years researching bias in algorithms and machine learning Amazon has defended its facial-recognition tool, Rekognition, against claims of racial and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/technology-47117299",
+      "originalUrl": "https://www.bbc.com/news/technology-47117299",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/152D1/production/_105473768_gettyimages-495664582.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/technology-47117299.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-47117299.amp",
+      "publishedDateTime": "2023-12-16T16:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2023-12-15-use-amazon-documentdb-to-build-no-code-machine-learning-solutions-in-amazon-sagemaker-canvas.md",
       "title": "Use Amazon DocumentDB to build no-code machine learning solutions in Amazon SageMaker Canvas",
       "excerpt": "We are excited to announce the launch of Amazon DocumentDB (with MongoDB compatibility) integration with Amazon SageMaker Canvas, allowing Amazon DocumentDB customers to build and use generative AI and machine learning (ML) solutions without writing code. Amazon DocumentDB is a fully managed native JSON",
@@ -1349,40 +1402,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-07-automation-anywhere-announces-collaboration-agreement-with-aws-to-expand-generative-ai-solution-availability-for-customers.md",
-      "title": "Automation Anywhere Announces Collaboration Agreement with AWS to Expand Generative AI Solution Availability for Customers",
-      "excerpt": "The collaboration will make it easier for customers to leverage the full breadth of Automation Anywhere's intelligent automation capabilities through their AWS investments and streamline go-to-market opportunities between the two companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.netindia123.com/netindia/showdetails.asp?id=4146519&cat=Business",
-      "originalUrl": "https://www.netindia123.com/netindia/showdetails.asp?id=4146519&cat=Business",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-07T05:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Net India 123",
-        "domain": "netindia123.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How To Ensure Designers Using AI Retain A Sense Of Pride In Their Work"
+    excerpt: "Designers may view AI as a threat to their creative mastery, causing them to feel less pride in their work and a diminished sense of ownership over the design process."
+    publishedDateTime: 2024-03-14T17:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2024/03/14/how-to-ensure-designers-using-ai-retain-a-sense-of-pride-in-their-work/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65f32365fbb329e6af4b6a53/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 845
+        isCached: true
   - title: "Alchemy Pay Introduces Card as a Service for AI Analysis"
     excerpt: "Alchemy Pay, the fiat-crypto payment service provider, introduces its Card-as-a-Service (CaaS) for AI Analysis, an AI, blockchain, FinTech firm."
     publishedDateTime: 2024-03-14T22:53:00Z

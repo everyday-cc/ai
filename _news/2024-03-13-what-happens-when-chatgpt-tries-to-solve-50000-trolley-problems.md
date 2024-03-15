@@ -290,6 +290,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Google Gemini cannot answer questions about US or global elections"
+    excerpt: "Google has confirmed ahead of the 2024 US election that Gemini is restricted from answering questions around political elections."
+    publishedDateTime: 2024-03-12T19:19:00Z
+    webUrl: "https://9to5google.com/2024/03/12/google-gemini-election-questions/"
+    type: article
+    provider:
+      name: 9to5google
+      domain: 9to5google.com
+    quality: 24
+    images:
+      - url: "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2024/02/google-gemini-android-6.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Google to Restrict Election-Related Answers on AI Chatbot Gemini"
     excerpt: "The new restriction to Google’s AI chatbot was first implemented in India, which holds elections in April, before being rolled across other nations"
     publishedDateTime: 2024-03-13T12:30:00Z

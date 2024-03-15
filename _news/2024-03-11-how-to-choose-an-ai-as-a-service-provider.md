@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3713041/aiaas-artificial-intel
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html"
 type: article
 quality: 71
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -33,6 +33,20 @@ images:
     isCached: true
 
 related:
+  - title: "How To Ensure Designers Using AI Retain A Sense Of Pride In Their Work"
+    excerpt: "Designers may view AI as a threat to their creative mastery, causing them to feel less pride in their work and a diminished sense of ownership over the design process."
+    publishedDateTime: 2024-03-14T17:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2024/03/14/how-to-ensure-designers-using-ai-retain-a-sense-of-pride-in-their-work/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65f32365fbb329e6af4b6a53/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 845
+        isCached: true
   - title: "Local tech company brings AI to TCC's career services program"
     excerpt: "He said a lot of WriteSea's research shows that many job seekers don't know what they excel at, so this AI will act as a coach and guide them to well-matched opportunities."
     publishedDateTime: 2024-03-11T18:07:00Z

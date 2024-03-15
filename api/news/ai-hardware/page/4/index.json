@@ -2,49 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2024-02-21-engineers-develop-chip-that-uses-fastest-means-of-communication-for-ai-tasks.md",
-      "title": "Engineers develop chip that uses ‘fastest means of communication’ for AI tasks",
-      "excerpt": "Read More Engineers from the University of Pennsylvania have developed a silicon-photonic chip that uses light to perform complex math for AI tasks. This chip manipulates materials at the nanoscale and enables brain-like processing, while offering ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/engineers-develop-chip-that-uses-fastest-means-of-communication-for-ai-tasks/amp_articleshow/107878745.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/engineers-develop-chip-that-uses-fastest-means-of-communication-for-ai-tasks/amp_articleshow/107878745.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-107878759,width-1280,height-720,resizemode-4/107878759.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/gadgets-news/engineers-develop-chip-that-uses-fastest-means-of-communication-for-ai-tasks/amp_articleshow/107878745.cms",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/gadgets-news/engineers-develop-chip-that-uses-fastest-means-of-communication-for-ai-tasks/amp_articleshow/107878745.cms",
-      "publishedDateTime": "2024-02-21T09:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-21-mark-zuckerberg-to-meet-samsung-chief-in-south-korea-discuss-ai-chips.md",
       "title": "Mark Zuckerberg To Meet Samsung Chief In South Korea, Discuss AI Chips",
       "excerpt": "Zuckerberg is expected to meet Samsung Electronics chairman Jay Y. Lee as early as later this month to discuss AI chip supply and other generative AI issues, South Korean newspaper Seoul Economic Daily reported earlier on Wednesday, citing unnamed sources ...",
@@ -1441,6 +1398,58 @@
         "Meta AI",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2024-02-14-nvidia-rockets-past-google-thanks-to-ai-is-this-chipmaker-unstoppable.md",
+      "title": "Nvidia Rockets Past Google, Thanks to AI! Is This Chipmaker Unstoppable?",
+      "excerpt": "Analysts are predicting a stellar performance from Nvidia in its upcoming earnings report, with expectations of a 400% increase in profit",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2024/02/14/nvidi-overtakes-alphabet-united-states/",
+      "originalUrl": "https://www.gizmochina.com/2024/02/14/nvidi-overtakes-alphabet-united-states/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2023/11/Screenshot-2023-11-27-231635.png",
+          "width": 1020,
+          "height": 669,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-14T15:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     }
   ],

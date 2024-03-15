@@ -2,6 +2,151 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-16-apples-new-ai-move-just-changed-the-game-for-all-iphone-users.md",
+      "title": "Apple’s New AI Move Just Changed The Game For All iPhone Users",
+      "excerpt": "Apple has just ramped up its AI plans for iPhones after buying Canadian start up DarwinAI. Here's what you need to know.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/kateoflahertyuk/2024/03/15/apples-new-ai-move-just-changed-the-game-for-all-iphone-users/",
+      "originalUrl": "https://www.forbes.com/sites/kateoflahertyuk/2024/03/15/apples-new-ai-move-just-changed-the-game-for-all-iphone-users/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65574f970e051b082da2db18/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1340,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/kateoflahertyuk/2024/03/15/apples-new-ai-move-just-changed-the-game-for-all-iphone-users/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kateoflahertyuk/2024/03/15/apples-new-ai-move-just-changed-the-game-for-all-iphone-users/amp/",
+      "publishedDateTime": "2024-03-15T17:14:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-15-how-ibm-helps-clients-accelerate-app-modernization-and-control-costs.md",
+      "title": "How IBM helps clients accelerate app modernization and control costs",
+      "excerpt": "IBM’s mission is to harness the power of data and hybrid cloud to help clients make intelligent business decisions.\nThe post How IBM helps clients accelerate app modernization and control costs appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-ibm-helps-clients-accelerate-app-modernization-and-control-costs/",
+      "originalUrl": "https://www.ibm.com/blog/how-ibm-helps-clients-accelerate-app-modernization-and-control-costs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-15T17:00:15Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-15-enable-data-sharing-through-federated-learning-a-policy-approach-for-chief-digital-officers.md",
+      "title": "Enable data sharing through federated learning: A policy approach for chief digital officers",
+      "excerpt": "This is a guest blog post written by Nitin Kumar, a Lead Data Scientist at T and T Consulting Services, Inc. In this post, we discuss the value and potential impact of federated learning in the healthcare field. This approach can help heart stroke patients, doctors, and researchers with faster diagnosis,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enable-data-sharing-through-federated-learning-a-policy-approach-for-chief-digital-officers/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/enable-data-sharing-through-federated-learning-a-policy-approach-for-chief-digital-officers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/03/12/ML-16237-New-Fig-1-v2-1115x630.jpg",
+          "width": 1115,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-15T16:53:02Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-15-leveraging-an-ai-powered-salesforce-crm-will-require-better-data-management.md",
       "title": "Leveraging an AI-powered Salesforce CRM Will Require Better Data Management",
       "excerpt": "APAC IT leaders will need to be pragmatic about data management, budgets and roadmaps to deliver AI-powered CRM, says Rimini Street.",
@@ -52,6 +197,59 @@
         "Meta AI",
         "AI",
         "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2024-03-15-all-eyes-turn-to-nvidia-in-the-ai-era.md",
+      "title": "All Eyes Turn To Nvidia In The AI Era",
+      "excerpt": "All of this is a result of being able to take existing core competencies like their GPU expertise and successfully applying it to an adjacent, yet still emerging use case like artificial intelligence (AI). Much of Nvidia’s success can be attributed to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2024/03/15/all-eyes-turn-to-nvidia-in-the-ai-era/",
+      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2024/03/15/all-eyes-turn-to-nvidia-in-the-ai-era/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 531,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65f482c7031171729485067b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 662,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2024/03/15/all-eyes-turn-to-nvidia-in-the-ai-era/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2024/03/15/all-eyes-turn-to-nvidia-in-the-ai-era/amp/",
+      "publishedDateTime": "2024-03-15T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -402,7 +600,7 @@
       "originalUrl": "https://www.scmp.com/tech/big-tech/article/3255458/apple-buys-canadian-start-darwinai-after-falling-behind-microsoft-google-generative-ai",
       "featuredContent": null,
       "highlight": null,
-      "heat": 173,
+      "heat": 163,
       "tags": null,
       "images": [
         {
@@ -1059,188 +1257,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-14-the-future-of-5g-what-to-expect-from-this-transformational-technology.md",
-      "title": "The future of 5G: What to expect from this transformational technology",
-      "excerpt": "The future of 5G and the innovations it holds, including in healthcare, smart cities and AI.\nThe post The future of 5G: What to expect from this transformational technology appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/5g-future/",
-      "originalUrl": "https://www.ibm.com/blog/5g-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-14T17:21:17Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-14-roomba-i5-review-this-robot-vacuum-is-certainly-more-useful-than-most-pets.md",
-      "title": "Roomba i5+ review: this robot vacuum is certainly more useful than most pets",
-      "excerpt": "I put this big-name robot vacuum to the test: read my Roomba i5+ review to ... albeit nowhere near as much as it does without mapping. To be honest, I didn't mind this at all; the Roomba's clumsiness is oddly endearing, like when you see a dog trying ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thesun.co.uk/shopping/product-reviews/26452759/roomba-i5-robot-vacuum-review/",
-      "originalUrl": "https://www.thesun.co.uk/shopping/product-reviews/26452759/roomba-i5-robot-vacuum-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thesun.co.uk/wp-content/uploads/2024/03/WhatsApp-Image-2024-03-14-at-15.05.16-2-1.jpeg?strip=all&quality=100&w=1600&h=1080&crop=1",
-          "width": 1600,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.thesun.co.uk/shopping/product-reviews/26452759/roomba-i5-robot-vacuum-review/amp/",
-      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/shopping/product-reviews/26452759/roomba-i5-robot-vacuum-review/amp/",
-      "publishedDateTime": "2024-03-14T16:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sun",
-        "domain": "thesun.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-14-tackling-ais-data-challenges-with-ibm-databases-on-aws.md",
-      "title": "Tackling AI’s data challenges with IBM databases on AWS",
-      "excerpt": "SaaS database solutions on (AWS) enables enterprises to scale applications, analytics and AI across the hybrid cloud landscape.\nThe post Tackling AI&#8217;s data challenges with IBM databases on AWS appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/tackling-ais-data-challenges-with-ibm-databases-on-aws/",
-      "originalUrl": "https://www.ibm.com/blog/tackling-ais-data-challenges-with-ibm-databases-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blog/wp-content/uploads/2024/03/GettyImages-588932755-database-management-solutions-leadspace-edit_blog-lead-space-40x21-1.jpg",
-          "width": 2400,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-14T16:13:51Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-14-us-sanctions-three-israeli-west-bank-settlers-and-their-outposts-for-violence-against-palestinians.md",
-      "title": "US sanctions three Israeli West Bank settlers and their outposts for violence against Palestinians",
-      "excerpt": "The U.S. imposed sanctions Thursday on a group of three extremist Israeli West Bank settlers who are accused of harassing and attacking Palestinians in an attempt to pressure",
-      "sourceUrl": null,
-      "webUrl": "https://www.kxan.com/news/political-news/ap-us-sanctions-three-israeli-west-bank-settlers-and-their-outposts-for-violence-against-palestinians/",
-      "originalUrl": "https://www.kxan.com/news/political-news/ap-us-sanctions-three-israeli-west-bank-settlers-and-their-outposts-for-violence-against-palestinians/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kxan.com/wp-content/uploads/sites/40/2024/03/65f3198b2ea963.27261369.jpeg?w=1280",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.kxan.com/news/political-news/ap-us-sanctions-three-israeli-west-bank-settlers-and-their-outposts-for-violence-against-palestinians/amp/",
-      "cdnAmpWebUrl": "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/political-news/ap-us-sanctions-three-israeli-west-bank-settlers-and-their-outposts-for-violence-against-palestinians/amp/",
-      "publishedDateTime": "2024-03-14T15:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KXAN",
-        "domain": "kxan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "New law puts European biotechs at the coalface of AI safety debate"
+    excerpt: "Firms with an interest in artificial  intelligence (AI), such as Microsoft and Nvidia, led US stock  markets to new heights last year, as investors sought to price in  imagined productivity gains from new AI technologies."
+    publishedDateTime: 2024-03-15T17:26:00Z
+    webUrl: "https://www.thepharmaletter.com/article/new-law-puts-european-biotech-at-the-coalface-of-ai-safety-debate"
+    type: article
+    provider:
+      name: The Pharma Letter
+      domain: thepharmaletter.com
+    quality: 19
 
 secured: "G9pAtBlxCj5PzRbkxVCPxwXgeCr9A/REHjWTSQz3NFbDrtp0ZJSiMSuC0Cy0mxjPIoedR7M5Af93qOtMTP3ZaFwDs0AmnFKChjDrWlqS4OtmTI0RdRTcRESLDFh3ZyuBS+KaotV8kB53BTvNv09JuuQMQCxbBi/Oxfx+b/V6gyZfcGqAa/3SngUCiJ9E/2qZGy2ScUcTFQKlIchfu9BUiScK42nd15qfE05e7jDkzT2KxvmwM9gIl0OE/jRI39NKsOmMz0Qywk1dEAmYVdtDG5FTNZ/ksZhsWF+HVq3F2q1DAdtg35fTS7ZMXFJAApHNiFZ2bMiwiQGIidSg6ND/flmBTt2xUDEQ1dcHyEMFNI3ZLvd3jG+q2FxFt0HzPP5REdzCG2tFj1GPD0SF1LQZrlLPvuPChAndstzRMvhjpu4qKcY7NxYj595rNHR0LJbGoCJU/b8fLCAO0JdfdlArMdI8iEoWfhVH7Rmf78svB09DvpJ0JT45SM2MgWJELuAcvWqFeS1wTQHSraSoXLd9Hw==;D3nnqFTytnyQ5tWq3j9efw=="
 ---

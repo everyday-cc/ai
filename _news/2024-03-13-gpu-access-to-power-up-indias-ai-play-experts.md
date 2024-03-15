@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/tech/technology/gpu-access-to-power-up-i
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/amp_articleshow/108335973.cms"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -36,17 +36,6 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 47
-  - title: "India’s AI leap: bridging the gap"
-    excerpt: "The just announced National Mission on AI ensures that all the necessary building blocks needed by India to shape the future of AI for India and the world are in place."
-    publishedDateTime: 2024-03-11T07:20:00Z
-    webUrl: "https://www.livemint.com/ai/indias-ai-leap-bridging-the-gap-11710140690633.html"
-    ampWebUrl: "https://www.livemint.com/ai/indias-ai-leap-bridging-the-gap/amp-11710140690633.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/indias-ai-leap-bridging-the-gap/amp-11710140690633.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 39
 
 secured: "6Ak+QeYa0hPvVcPsFKJ2a7mHKsWytBIBg6csXGvmITYzspcmTcm0eHCTt68hHiSoMtzhtBw2Gi4WhO0sCldp7kifWD+8BaESGYGPgC0sW98AWjcErXmhVPNXn2wmas4A4uL7wnjIei46WQOR26is/QD7QXsWdfQlS3Te1e+GRU8tdY9GJgV4TX29/yf5lbT+/M5GWDF/PVMTxmP+Y4bERfuPXjADe/qvaGEVZMFzyl2LZTvOCeuRSnhaQ62kD460trfkWVrOJyD6dFTx46Spun4qJYRhuwnGBUxLZkq2BPrvKIoM1J1nXsGAcKMagKpvxYfwUpGtoMG9ailDV8xg8junj/VNAg04Dswdt0ALcYft2JzcatSKmQV5vrc+tRvt5uE4IqanA9w8PKqEBxnn4x78UUPU5P6PhJ8RPxgwoZA2RW8DUVNsl4DbGlMHZqFQ5vV8Caetwkjgak2G7suBDSUDUCINKc1Wk816/WZzY4fsd5Jvfj8c8pgB/ijDCwufCQ987NyhdCfsgemel0SVvg==;VaeTFUOyOBXAmEQA/mlhbg=="
 ---

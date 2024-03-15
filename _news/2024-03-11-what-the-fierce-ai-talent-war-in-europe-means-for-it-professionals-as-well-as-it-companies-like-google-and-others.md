@@ -96,6 +96,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
+  - title: "European Parliament Advances Law for Strict AI Regulation"
+    excerpt: "The public’s demand for regulation in artificial intelligence (AI) is increasingly evident, spurred by growing concerns over"
+    publishedDateTime: 2024-03-15T16:13:00Z
+    webUrl: "https://www.dmnews.com/european-parliament-advances-law-for-strict-ai-regulation/"
+    type: article
+    provider:
+      name: Direct Marketing News
+      domain: dmnews.com
+    quality: 39
+    images:
+      - url: "https://images.dmnews.com/wp-content/uploads/2024/03/Strict-AI-Regulation.jpg"
+        width: 1000
+        height: 571
+        isCached: true
   - title: "EU Parliament passed landmark Artificial Intelligence Act for AI transparency and copyright"
     excerpt: "Artificial Intelligence Act gets approved with a grand majority in the EU parliament with provisions to safeguard human rights."
     publishedDateTime: 2024-03-14T12:40:00Z

@@ -1,29 +1,23 @@
 ---
 category: news
 title: "CQG Unveils New First-of-its-Kind AI / Machine Learning Trading Toolkit for Predicting Futures Market Moves"
-excerpt: "CQG, a leading global provider of high-performance technology solutions for market makers, traders, brokers, commercial hedgers and"
-publishedDateTime: 2024-03-11T11:00:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/cqg-unveils-new-first-of-its-kind-ai--machine-learning-trading-toolkit-for-predicting-futures-market-moves-302084694.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/cqg-unveils-new-first-of-its-kind-ai--machine-learning-trading-toolkit-for-predicting-futures-market-moves-302084694.html"
+excerpt: "Success in Live Trading Environment Confirms Internal Test Results DENVER and BOCA RATON, Fla., March 11, 2024 /PRNewswire/ -- CQG, a leading global provider of high-performance technology"
+publishedDateTime: 2024-03-11T11:20:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2024-03/61640370-cqg-unveils-new-first-of-its-kind-ai-machine-learning-trading-toolkit-for-predicting-futures-market-moves-008.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2024-03/61640370-cqg-unveils-new-first-of-its-kind-ai-machine-learning-trading-toolkit-for-predicting-futures-market-moves-008.htm"
 type: article
-quality: 38
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - AI in Finance
   - AI
   - Machine Learning
-
-images:
-  - url: "https://mma.prnewswire.com/media/562279/CQG_Logo.jpg?p=facebook"
-    width: 2700
-    height: 1414
-    isCached: true
 
 related:
   - title: "Latest News Shows How AI Business Tools Are Transforming Marketing and Sales."
@@ -99,6 +93,6 @@ related:
         height: 504
         isCached: true
 
-secured: "UBBLqZCF7O3/9scPItcjdwCGCT9LU4iTRuY16D+Awq5OKgHj0y5cPh39HWwQ8r3kZyFZ1Un0rJ9BAOD9R5f3/MasFcMTBPM38+0bAfm8SwUQQR4HlGbGazdJRlQf8Pcusme2dIYvSAk4DafaOk68iT0PwnSP7c/BFpzw1WBpS/vJ8FWWR/s3uZ4UoXKU4xBzpgKai0QyEvqL8Upw5561QnPTB/Poi1ltJpvPxjVY/ezYnnmG5WhtVVBecMLHziWGZF3Kdp8dp2uTwWpuUoiD/EWyip6cDje6SCTBoQJaflP0fvgZWyyAope/s7LdeufkQuHC4MZ/ijDuv1EY3+VMLQRpHzNUJHwFaWyXvv6rVxo=;wbJEskO5qT9sEB4xzuGHCQ=="
+secured: "8alHNvIWsYQ/QIxvA2s4S6c2PrFINIL1X5RHAZr9p092X+fmrohm7/JW/S33FuK5md3SHRtVxheN5dAj5FFRnWpyi7zdOC50Xp9Dd1a1F3bKXSfRXs8UhbBqkzQX1qq/9CBtWZ437+y5QMxM0qte/GL1nbv0RkrGpHHzpyb8RXke+l5OZl1mQ04+bVMEKnlFu3elD6tKRAcnyEPVdezNh9m/xlsGdy5NI207Y2FdXpU4e/2kongC5IPzHZaOVxS1Z8nVj8FPjo3ar9zvQqk7Avu+TI4Kaus+WkPWg+GTuVMwkEPsZbaSqftcoiKumI+XkieVDX8Xw9JWngOUczCjjCnZQOMnkwsWPK3GrX45M7s=;y29213zDAqAwxtbg6YRgUg=="
 ---
 

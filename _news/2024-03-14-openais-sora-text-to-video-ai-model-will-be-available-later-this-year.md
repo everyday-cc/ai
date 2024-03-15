@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "OpenAI’s Figure 01 Talking Robot Demo Is Eerily Mind-Blowing"
+    excerpt: "Figure 01 is a humanoid robot which can converse in a human-like voice, perform tasks, and explain why it did what it did."
+    publishedDateTime: 2024-03-15T15:52:00Z
+    webUrl: "https://hothardware.com/news/openais-figure-01-robot-demo"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 54
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/64132/content/hero-figure-openai-humanoid-robot.jpg"
+        width: 708
+        height: 398
+        isCached: true
   - title: "What To Make of OpenAI’s New Board; The Startup Tackling Karpathy’s Vision"
     excerpt: "OpenAI’slate-Friday announcement of three new board members, as well as the reinstatement to its board of CEO Sam Altman, is a pivotal moment for the ChatGPT-creator, valued most recently at $86 billion."
     publishedDateTime: 2024-03-11T14:30:00Z

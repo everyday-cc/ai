@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "All Eyes Turn To Nvidia In The AI Era"
+    excerpt: "All of this is a result of being able to take existing core competencies like their GPU expertise and successfully applying it to an adjacent, yet still emerging use case like artificial intelligence (AI). Much of Nvidia’s success can be attributed to ..."
+    publishedDateTime: 2024-03-15T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/tiriasresearch/2024/03/15/all-eyes-turn-to-nvidia-in-the-ai-era/"
+    ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2024/03/15/all-eyes-turn-to-nvidia-in-the-ai-era/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2024/03/15/all-eyes-turn-to-nvidia-in-the-ai-era/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65f482c7031171729485067b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1600
+        height: 662
+        isCached: true
   - title: "VAST Data’s NVIDIA DPU-BASED AI Cloud Architecture"
     excerpt: "Here's how it works: using the Nvidia BlueField-3 DPU, VAST creates a parallel system architecture where storage and database processing services are embedded directly into AI servers. This setup provides a dedicated, stateless container for each GPU ..."
     publishedDateTime: 2024-03-12T19:24:00Z
@@ -42,6 +58,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65f0c54c13205bd9ccd1cee6/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 959
         height: 424
+        isCached: true
+  - title: "How work devices may evolve to keep up in the AI era"
+    excerpt: "Th neural processing unit may be a game changer, but we need the right balance in product design to deliver what consumers seek."
+    publishedDateTime: 2024-03-14T08:02:00Z
+    webUrl: "https://www.zdnet.com/article/how-work-devices-may-evolve-to-keep-up-in-the-ai-era/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-work-devices-may-evolve-to-keep-up-in-the-ai-era/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-work-devices-may-evolve-to-keep-up-in-the-ai-era/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: "https://www.zdnet.com/a/fly/bundles/zdnetcore/images/logos/zdnet-logo-yellow.png"
+        width: 480
+        height: 480
         isCached: true
   - title: "Why Nvidia, Google And Microsoft Are Betting Billions On Biotech’s AI Future"
     excerpt: "Now that large language models like OpenAI’s ChatGPT and Google DeepMind’s Gemini have mainstreamed generative AI, several of the world’s most powerful tech companies are looking to biotech as the next frontier in artificial intelligence — a ..."
@@ -230,15 +262,6 @@ related:
         width: 1500
         height: 843
         isCached: true
-  - title: "VAST Data Unveils New Data Platform Architecture for the AI Factory"
-    excerpt: "VAST Data, the AI data platform company, today unveiled a new AI cloud architecture designed to deliver unprecedented levels of performance, quality of service, zero-trust security and space/cost/power efficiency for the AI factory."
-    publishedDateTime: 2024-03-12T14:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/vast-data-unveils-new-data-platform-architecture-for-the-ai-factory-1033154962"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "AMD Rally Looks More Fragile Than Nvidia’s as Traders Bid Up AI"
     excerpt: "Advanced Micro Devices Inc. has kept pace with Nvidia Corp.’s furious ascent of late, but the factors underpinning its rally look less certain."
     publishedDateTime: 2024-03-13T11:53:00Z
@@ -257,6 +280,20 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 47
+  - title: "NVIDIA projected to make $130 billion from AI GPUs in 2026, which is 5x higher than 2023"
+    excerpt: "The crazy numbers are fueled by the insatiable AI GPU demand, which NVIDIA is absolutely dominating in... and that's just with current-gen H100 AI GPU offerings, let alone its soon-to-be-released H200 AI GPU, and its next-gen Blackwell B100 AI GPU both ..."
+    publishedDateTime: 2024-03-14T04:33:00Z
+    webUrl: "https://www.tweaktown.com/news/96795/nvidia-projected-to-make-130-billion-from-ai-gpus-in-2026-which-is-5x-higher-than-2023/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 45
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96795_84_nvidia-projected-to-make-130-billion-from-ai-gpus-in-2026-which-is-5x-higher-than-2023_full.jpg"
+        width: 1500
+        height: 857
+        isCached: true
   - title: "Nvidia Stock’s Premium Price Tag Is a Small Fee for a First-Class Ticket to AI Riches"
     excerpt: "Nvidia’s earnings growth from AI-compatible chips outweighs the impact on NVDA’s share price. This implies that the impact on NVDA’s share price does not fully reflect the prior and recent success of Nvidia’s earnings growth from AI-compatible chips."
     publishedDateTime: 2024-03-14T05:40:00Z
@@ -350,20 +387,6 @@ related:
         width: 714
         height: 422
         isCached: true
-  - title: "VAST Data Unveils New Data Platform Architecture For The AI Factory"
-    excerpt: "Designed in collaboration with NVIDIA and being deployed at CoreWeave, the new infrastructure unleashes VAST's parallel data services architecture on"
-    publishedDateTime: 2024-03-13T15:44:00Z
-    webUrl: "https://menafn.com/1107972275/VAST-Data-Unveils-New-Data-Platform-Architecture-For-The-AI-Factory"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2024-03/13/M_0e391image_story.jpg"
-        width: 825
-        height: 1237
-        isCached: true
   - title: "SoundHound AI: The undervalued stock in Nvidia’s AI crown"
     excerpt: "Nvidia has established itself as the undisputed leader in artificial intelligence stocks with a portfolio that turns promising ventures into gold. Among these glittering investments is SoundHound AI (NASDAQ:SOUN),"
     publishedDateTime: 2024-03-13T21:08:00Z
@@ -377,6 +400,34 @@ related:
       - url: "https://invezz.com/wp-content/uploads/2024/02/possessed-photography-rdxp1tf3cma-unsplash-1-1024x749.jpg"
         width: 1024
         height: 749
+        isCached: true
+  - title: "Nvidia GTC 2024: What to expect from the AI giant’s big conference"
+    excerpt: "Nvidia's GTC 2024 conference kicks off Monday, and the AI darling is expected to announce a slew of new products and updates."
+    publishedDateTime: 2024-03-15T15:21:00Z
+    webUrl: "https://www.aol.com/finance/nvidia-gtc-2024-expect-ai-152251137.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 39
+    images:
+      - url: "https://s.yimg.com/ny/api/res/1.2/bUlJoiIknCLp6I8UU327ZQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_finance_433/1e166beb1ed827d9b89fdebd89122b92"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Not just Nvidia: Intel and Qualcomm forge ahead with AI ambitions in 2024"
+    excerpt: "Mobile World Congress (MWC), a noticeable trend emerged among US-based chip manufacturers, highlighting a heightened focus on AI integration. Companies like Qualcomm and Intel demonstrated their strong commitment to incorporating AI more extensively into their product lines."
+    publishedDateTime: 2024-03-12T07:31:00Z
+    webUrl: "https://www.digitimes.com/news/a20240311PD214/intel-qualcomm-ai-2024-nvidia.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 38
+    images:
+      - url: "https://img.digitimes.com/newsshow/20240311pd214_files/1_b.jpg"
+        width: 640
+        height: 427
         isCached: true
   - title: "Vast Data unveils new AI infrastructure with Nvidia and Supermicro partnerships"
     excerpt: "Artificial intelligence data platform startup VAST Data Inc. today announced new AI cloud architecture in partnership with Nvidia Corp., using the company’s BlueField-3 data pro"
@@ -392,6 +443,29 @@ related:
         width: 1280
         height: 741
         isCached: true
+  - title: "Cashing in on its chips: Nvidia reigns supreme as a graphics chip manufacturer, now AI is using it technology"
+    excerpt: "But Nvidia, founded in California in 1993, won acclaim developing a separate graphics processing unit (GPU) to handle complex animation and 3D graphics."
+    publishedDateTime: 2024-03-14T03:31:00Z
+    webUrl: "https://www.nzherald.co.nz/the-listener/business/cashing-in-on-its-chips-nvidia-reigns-supreme-as-a-graphics-chip-manufacturer-now-ai-is-using-it-technology/7XSU37GQIFF27AHKBKLSQRED54/"
+    type: article
+    provider:
+      name: The New Zealand Herald
+      domain: nzherald.co.nz
+    quality: 35
+    images:
+      - url: "https://www.nzherald.co.nz/resizer/v2/IFV3WJHR2VDZLKBBTCXROA5QBE.jpg?auth=b7d2a2067d562b71092c8132185c8cb367f8f6a82383afcba308ffccc1eb8227&width=1200&height=675&quality=70&smart=true"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Intel touts Gaudi 2 for AI as it confronts Nvidia GPUs"
+    excerpt: "As generative AI training and inference tasks consume the attention of data centers and cloud providers globally, Intel continues to take on Nvidia’s hefty leadership role in AI chips while keeping | Three customers--Stability."
+    publishedDateTime: 2024-03-12T17:43:00Z
+    webUrl: "https://www.fierceelectronics.com/ai/intel-touts-gaudi-2-ai-it-confronts-nvidia-gpus"
+    type: article
+    provider:
+      name: Fierce Electronics
+      domain: fierceelectronics.com
+    quality: 34
   - title: "ZutaCore cools Nvidia AI GPUs with energy, carbon savings"
     excerpt: "“By adding support for the Nvidia GPU, ZutaCore is now paving the way toward a more sustainable AI future where upcoming AI servers can be deployed in an energy-efficient, cost-effective and reliable way.”"
     publishedDateTime: 2024-03-13T00:00:00Z
@@ -401,6 +475,43 @@ related:
       name: SDxCentral
       domain: sdxcentral.com
     quality: 34
+  - title: "Meta's insatiable appetite for Nvidia AI chips could add up to $7 billion worth of H100 GPUs by the end of the year"
+    excerpt: "For what it's worth, Omnia predicts that the overall market for these AI GPUs will be double the size in 2027 that it was in 2023. So, Meta buying a huge amount of H100s in 2023 and yet even more of them this year fits the available data well enough."
+    publishedDateTime: 2024-03-15T13:21:00Z
+    webUrl: "https://www.pcgamer.com/hardware/graphics-cards/metas-insatiable-appetite-for-nvidia-ai-chips-could-add-up-to-dollar7-billion-worth-of-h100-gpus-by-the-end-of-the-year/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 27
+  - title: "The Top Artificial Intelligence (AI) Stock to Buy in 2024, According to Certain Wall Street Analysts -- Surprise! It's Not Nvidia"
+    excerpt: "There's little question that Nvidia has been the early winner in the race to adopt artificial intelligence (AI ... And the company has already hit the ground running. AWS Bedrock offers a suite of all the most common AI models, while also helping customers ..."
+    publishedDateTime: 2024-03-14T15:30:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA-Q/pressreleases/24783803/the-top-artificial-intelligence-ai-stock-to-buy-in-2024-according-to-certain-wall-street-analysts-surprise-its-not-nvidia/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 25
+    images:
+      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/d198231386c96a94783ae7db7217f1b7/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f768469%252fthe-letters-ai-emblazoned-on-a-cloud-symbol-positioned-above-a-circuit-board.jpg%26amp%3Bw%3D700"
+        width: 2359
+        height: 1270
+        isCached: true
+  - title: "The Top Artificial Intelligence (AI) Stock to Buy in 2024, According to Certain Wall Street Analysts -- Surprise! It's Not Nvidia"
+    excerpt: "There's little question that Nvidia has been the early winner in the race to adopt artificial intelligence (AI ... And the company has already hit the ground running. AWS Bedrock offers a suite of all the most common AI models, while also helping customers ..."
+    publishedDateTime: 2024-03-14T17:41:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/AMZN-Q/pressreleases/24783803/the-top-artificial-intelligence-ai-stock-to-buy-in-2024-according-to-certain-wall-street-analysts-surprise-its-not-nvidia/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 25
+    images:
+      - url: "https://barchart-news-media-prod.aws.barchart.com/FC/d198231386c96a94783ae7db7217f1b7/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f768469%252fthe-letters-ai-emblazoned-on-a-cloud-symbol-positioned-above-a-circuit-board.jpg%26amp%3Bw%3D700"
+        width: 2359
+        height: 1270
+        isCached: true
   - title: "Nvidia Faces Lawsuit for Alleged Copyright Infringement in AI Training"
     excerpt: "Nvidia is being sued by three authors who claim their copyrighted books were used without permission to train its NeMo AI platform."
     publishedDateTime: 2024-03-11T10:10:00Z
@@ -428,15 +539,24 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 19
-  - title: "NRG Media Has Embraced AI-Based Tools"
-    excerpt: "Headquartered in the Midwest, NRG provides content and digital marketing services through 36 radio stations to listeners and advertisers in Nebraska, Iowa, Illinois and Wisconsin. One way NRG uses AI is to create videos for clients using Waymark technology."
-    publishedDateTime: 2024-03-11T17:45:00Z
-    webUrl: "https://www.radioworld.com/news-and-business/headlines/nrg-media-has-embraced-ai-based-tools"
+  - title: "Forget Nvidia: 2 Artificial Intelligence (AI) Stocks With More Upside to Buy Now, According to Wall Street"
+    excerpt: "However, investors should not fixate on a single AI stock. The most prudent strategy is to spread money across a group of AI stocks. With that in mind, Microsoft and Docebo warrant further consideration. Microsoft has two major growth engines in enterprise ..."
+    publishedDateTime: 2024-03-14T15:30:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/NVDA-Q/pressreleases/24782194/forget-nvidia-2-artificial-intelligence-ai-stocks-with-more-upside-to-buy-now-according-to-wall-street/"
     type: article
     provider:
-      name: Radio World
-      domain: radioworld.com
-    quality: 17
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 16
+  - title: "Meta, Stanford University to join Nvidia's Jensen Huang at flagship AI conference"
+    excerpt: "Nvidia is taking over the San Jose McEnery Convention Center to delve into the company's future and how AI will fuel its ambitions."
+    publishedDateTime: 2024-03-14T20:41:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2024/03/14/nvidia-gtc-conference-preview.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 14
   - title: "Billionaires are ditching Nvidia. Here are the 2 AI stocks they're buying instead."
     excerpt: "Move over, Nvidia! Wall Street's most-prominent billionaire investors are dumping the AI kingpin in favor of two other industry leaders."
     publishedDateTime: 2024-03-12T13:40:00Z
@@ -446,6 +566,24 @@ related:
       name: USA Today
       domain: usatoday.com
     quality: 13
+  - title: "Dell launches Alienware m18 R2 gaming laptop with 14th Intel processor and Nvidia GPU in India"
+    excerpt: "Paired with the processor is Nvidia’s RTX 4090 GPU, bringing support for Nvidia DLSS 3.5, which uses AI to boost frame rates and image quality, resulting in better visuals. The laptop supports up to 10TB of SSD storage and 64GB of DDR5 memory."
+    publishedDateTime: 2024-03-14T13:30:00Z
+    webUrl: "https://timesofindia.indiatimes.com/technology/laptops-pc/dell-launches-alienware-m18-r2-gaming-laptop-with-14th-intel-processor-and-nvidia-gpu-in-india/articleshow/108499094.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 7
+  - title: "Nvidia Supplier Taiwan Semi's Global Expansion and AI Revenue Growth in Focus Despite Overbought Signals"
+    excerpt: "Yet, AI’s contribution to TSMC’s total revenue was only 6% in ... TSMC and Samsung Electronics Co SSNLF are poised to receive substantial funds from the US under the 2022 Chips and Science Act, signaling a significant push by the US to bolster ..."
+    publishedDateTime: 2024-03-15T08:43:00Z
+    webUrl: "https://www.benzinga.com/government/24/03/37744004/nvidia-supplier-taiwan-semis-global-expansion-and-ai-revenue-growth-in-focus-despite-overbought-sign"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 2
 
 secured: "QUZwMWGOKUBLt9z+A3ZsjFvmh3UZLvaEmiq1JvpJuwRwYhhsvWszA1lJB+ckeuTN4V8cgqn8E8RHBqHKi2wKqjo6NJmANAm8APLYAvwkr9mUGS5Lj2ogJI5RuUe7U2cCy1hCDVJIWT3sbau6lZucfTbRekjP96hh69YDde8QbB/o2cDNdTjLjrojOUuDHNXFyjheTXGkTJvHbQNw13p6j7AN3mhkFoiN4PrQOezg70vPoGT7OSDkBqnJOjElyCTokmbJMPbKQqyUELr6x9Zsl0djeXFqebg18clgyrLBIx9vId+FiBQpVop9kp+SJQojq3TR+VCPiIyHGZYys7akWfx8SqlV3L26RlJIbLnYknU=;lSsElQrNC85PoQ7VBpEvqw=="
 ---

@@ -2,6 +2,195 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2024-03-11-how-vistaprint-delivers-personalized-product-recommendations-with-amazon-personalize.md",
+      "title": "How VistaPrint delivers personalized product recommendations with Amazon Personalize",
+      "excerpt": "VistaPrint, a Cimpress business, is the design and marketing partner to millions of small businesses around the world. For more than two decades, VistaPrint has empowered small businesses to quickly and effectively create the marketing products – from promotional materials and signage to print advertising",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-vistaprint-delivers-personalized-product-recommendations-with-amazon-personalize/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-vistaprint-delivers-personalized-product-recommendations-with-amazon-personalize/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/13/ML-14265-Figure1-1114x630.png",
+          "width": 1114,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-11T17:00:48Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-11-detecting-ai-manipulated-content-is-a-challenging-arms-race.md",
+      "title": "Detecting AI-manipulated content is a challenging arms race",
+      "excerpt": "Nude photos of pop superstar Taylor Swift recently flooded social media X, where they were viewed and shared by millions of users. But the images weren't realâthey were deepfakes created using artificial intelligence (AI).",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2024-03-ai-content-arms.html",
+      "originalUrl": "https://techxplore.com/news/2024-03-ai-content-arms.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2024/detecting-ai-manipulat.jpg",
+          "width": 1280,
+          "height": 1426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2024-03-ai-content-arms.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2024-03-ai-content-arms.amp",
+      "publishedDateTime": "2024-03-11T16:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-11-lightspeed-ventures-to-ramp-up-investments-in-climate-change-and-ai.md",
+      "title": "Lightspeed Ventures to ramp up investments in climate change and AI",
+      "excerpt": "Rahul Taneja, partner at Lightspeed India, said the VC firm would continue to invest in emerging themes in addition to the core streams of enterprise SaaS, fintech, consumer and commerce.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/news/india/lightspeed-ventures-to-ramp-up-investments-in-climate-change-and-ai-11710134071305.html",
+      "originalUrl": "https://www.livemint.com/news/india/lightspeed-ventures-to-ramp-up-investments-in-climate-change-and-ai-11710134071305.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.livemint.com/lm-img/img/2024/03/11/1600x900/RahulTaneja_2-683x1024_1710134245640_1710134273934.jpeg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/news/india/lightspeed-ventures-to-ramp-up-investments-in-climate-change-and-ai/amp-11710134071305.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/lightspeed-ventures-to-ramp-up-investments-in-climate-change-and-ai/amp-11710134071305.html",
+      "publishedDateTime": "2024-03-11T16:54:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-11-futurists-positive-about-ais-impact-on-jobs-urge-wide-perspective.md",
+      "title": "Futurists Positive About AI’s Impact On Jobs, Urge Wide Perspective",
+      "excerpt": "This report has been prepared by TCS futurists and is based on a survey of prominent futurists, executives, and foresight professionals around the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2024/03/11/futurists-positive-about-ais-impact-on-jobs-urge-wide-perspective/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2024/03/11/futurists-positive-about-ais-impact-on-jobs-urge-wide-perspective/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61042e95301717f598616035/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 986,
+          "height": 553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2024/03/11/futurists-positive-about-ais-impact-on-jobs-urge-wide-perspective/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2024/03/11/futurists-positive-about-ais-impact-on-jobs-urge-wide-perspective/amp/",
+      "publishedDateTime": "2024-03-11T16:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-11-litter-robot-4-vs-3-connect-which-automatic-litter-box-should-you-get.md",
       "title": "Litter-Robot 4 Vs. 3 Connect: Which Automatic Litter Box Should You Get?",
       "excerpt": "the Litter-Robot 4 is an upgraded version of the Litter-Robot 3 Connect, with advanced safety sensors, a more sophisticated (and quieter) sifting system and better odor control. I have both models in my home and my three cats use each one regularly.",
@@ -447,7 +636,7 @@
       "originalUrl": "https://www.ndtv.com/india-news/gautam-adani-qualcomm-ceo-discuss-indias-potential-in-chips-ai-5216932",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": null,
       "content": "",
@@ -481,7 +670,7 @@
       "originalUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -995,203 +1184,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-09-women-in-ai-sandra-watcher-professor-of-data-ethics-at-oxford.md",
-      "title": "Women in AI: Sandra Watcher, professor of data ethics at Oxford",
-      "excerpt": "We’ll publish several pieces throughout the year as the AI boom continues, highlighting key work that often goes unrecognized. Read more profiles here. Sandra Wachter is a professor and senior researcher in data ethics, AI, robotics, algorithms and ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/03/09/women-in-ai-sandra-watcher-professor-of-data-ethics-at-oxford/",
-      "originalUrl": "https://techcrunch.com/2024/03/09/women-in-ai-sandra-watcher-professor-of-data-ethics-at-oxford/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/03/women-in-ai-wachter.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/03/09/women-in-ai-sandra-watcher-professor-of-data-ethics-at-oxford/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/09/women-in-ai-sandra-watcher-professor-of-data-ethics-at-oxford/amp/",
-      "publishedDateTime": "2024-03-09T13:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-09-a-once-in-a-decade-investment-opportunity-1-artificial-intelligence-ai-stock-to-buy-now-and-hold-long-term.md",
-      "title": "A Once-in-a-Decade Investment Opportunity: 1 Artificial Intelligence (AI) Stock to Buy Now and Hold Long-Term",
-      "excerpt": "Artificial intelligence will reshape IT systems in the coming years, and ServiceNow is well-positioned to benefit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2024/03/09/once-in-decade-investment-1-ai-growth-stock-to-buy/",
-      "originalUrl": "https://www.fool.com/investing/2024/03/09/once-in-decade-investment-1-ai-growth-stock-to-buy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/768054/strategy-3.jpg",
-          "width": 7500,
-          "height": 4218,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-09T10:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-09-ai-driven-evolution-of-low-code-software-development-in-india.md",
-      "title": "AI-driven evolution of low-code software development in India",
-      "excerpt": "As low-code platforms evolve with out-of-the-box AI capabilities, organizations must conscientiously explore ways to harness its full potential. The ability to empower developers",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/",
-      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2024/03/Untitled-design-2024-03-08T174706.154.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ai-driven-evolution-of-low-code-software-development-in-india-2-3419479/lite/",
-      "publishedDateTime": "2024-03-09T10:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-09-ai-update-for-hollywood.md",
-      "title": "AI Update For Hollywood",
-      "excerpt": "Artificial intelligence (\"AI\") developments are occurring at breakneck speed, so this article provides a snapshot on developments that affect Hollywood.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/schuylermoore/2024/03/09/ai-update-for-hollywood/",
-      "originalUrl": "https://www.forbes.com/sites/schuylermoore/2024/03/09/ai-update-for-hollywood/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65ec33e7da5095face057f5c/0x0.jpg?format=jpg&crop=3615,2034,x0,y186,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/schuylermoore/2024/03/09/ai-update-for-hollywood/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/schuylermoore/2024/03/09/ai-update-for-hollywood/amp/",
-      "publishedDateTime": "2024-03-09T09:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

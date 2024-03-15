@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zawya.com/en/press-release/events-and-conferences/visa-j
 cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/events-and-conferences/visa-joins-dubai-fintech-summit-as-founding-partner-and-co-host-ud3mw8yk?amp=1"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Zawya
@@ -40,6 +40,20 @@ related:
       - url: "https://www.finextra.com/finextra-images/oped/972.jpg"
         width: 799
         height: 449
+        isCached: true
+  - title: "3 Best Fintech Stocks (SA Quant)"
+    excerpt: "Fintech is projected to grow massively amid traditional financial services digital adoption. Click here to find out more about 3 top fintech stocks."
+    publishedDateTime: 2024-03-15T16:01:00Z
+    webUrl: "https://seekingalpha.com/article/4678307-3-best-fintech-stocks"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 24
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1625250655/image_1625250655.jpg?io=getty-c-w1536"
+        width: 1536
+        height: 747
         isCached: true
 
 secured: "FX782ZiysD6CY/JrENGCMetRe7iC+OgDJyKabHtCMzy1eTcXx8kdkTPKvc/Bs/EiHA1P/krdNI88eRC7dgpLG5+WBCZIDke8gWKKeRQxsKj0lNYHeafWF6X7heqwiCO6ktf0KdCreRzsnKehC9bmZrN84ki5GZbaMcXem2WkvAjr7TgqFbglbtPUJ3D5XwtcjxOtLtET99Nc5+AnbwJ02FrGWyt+0e49Mv+UXsbdYdPavoBySQc3lvDB9qNk232hXF2A6VcdebIF6+isKPQcEDk6677LQMElxO8cL1DresJFAqyF3dDqhxohlJvFjc2QA9nrfxUQyUYRj5N8t3yDH78rV3vZ/5AWodbNjm6ZI38=;EPO8JdXJGpruEKHsx91ddw=="

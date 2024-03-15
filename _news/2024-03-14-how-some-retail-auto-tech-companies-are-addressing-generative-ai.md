@@ -221,6 +221,15 @@ related:
         width: 1280
         height: 716
         isCached: true
+  - title: "The Rise of Generative AI in Banking and FinTech"
+    excerpt: "Generative AI's impact spans every facet of banking operations, from back-office functions to customer-facing roles. Its ability to automate routine tasks, enhance productivity, and provide comprehensive support makes it a game-changer for the industry."
+    publishedDateTime: 2024-03-15T16:26:00Z
+    webUrl: "https://www.finextra.com/blogposting/25907/the-rise-of-generative-ai-in-banking-and-fintech"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 34
   - title: "Generative AI Hallucinations and the Risks of Fact-Free Certainty for Tax Research"
     excerpt: "Tax law research, for example, is an area that demands accuracy in content and sources. In “The Rise of Generative AI in Tax Research,” an article published by Tax Notes, the authors warned that “ChatGPT has significant limitations when used for tax ..."
     publishedDateTime: 2024-03-13T00:00:00Z

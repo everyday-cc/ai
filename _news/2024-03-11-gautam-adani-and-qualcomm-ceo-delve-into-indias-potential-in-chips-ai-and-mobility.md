@@ -30,20 +30,6 @@ related:
       name: NDTV
       domain: ndtv.com
     quality: 54
-  - title: "Not just Nvidia: Intel and Qualcomm forge ahead with AI ambitions in 2024"
-    excerpt: "Mobile World Congress (MWC), a noticeable trend emerged among US-based chip manufacturers, highlighting a heightened focus on AI integration. Companies like Qualcomm and Intel demonstrated their strong commitment to incorporating AI more extensively into their product lines."
-    publishedDateTime: 2024-03-12T07:31:00Z
-    webUrl: "https://www.digitimes.com/news/a20240311PD214/intel-qualcomm-ai-2024-nvidia.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 38
-    images:
-      - url: "https://img.digitimes.com/newsshow/20240311pd214_files/1_b.jpg"
-        width: 640
-        height: 427
-        isCached: true
   - title: "Gautam Adani, Qualcomm CEO Discuss India’S Potential Around Chips, AI, Mobility"
     excerpt: "Adani Group Founder and Chairman Gautam Adani on Monday said he met chip maker Qualcomm's President and CEO Cristiano Amon"
     publishedDateTime: 2024-03-11T07:10:00Z

@@ -99,6 +99,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
+  - title: "EU AI Act – Landmark Law on Artificial Intelligence Approved by the European Parliament"
+    excerpt: "Examples of high-risk AI uses include use of AI systems in critical infrastructure, education and vocational training, employment, essential private and public services (such as healthcare and ... interest exemptions) artificial or manipulated images ..."
+    publishedDateTime: 2024-03-15T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/eu-ai-act-landmark-law-on-artificial-4270183/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 48
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.78_1208.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "EU Parliament Approves Landmark Artificial Intelligence Law"
     excerpt: "Europe leads the way with groundbreaking AI legislation. The AI Act balances innovation with ethics, setting a precedent for global AI governance."
     publishedDateTime: 2024-03-13T15:00:00Z

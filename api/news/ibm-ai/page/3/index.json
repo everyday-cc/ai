@@ -2,6 +2,48 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-13-application-performance-optimization-elevate-performance-and-reduce-costs.md",
+      "title": "Application performance optimization: Elevate performance and reduce costs",
+      "excerpt": "Optimizing application development and performance is a must in a world where a user’s experience can control a business’ trajectory.\nThe post Application performance optimization: Elevate performance and reduce costs appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/application-performance-optimization-elevate-performance-and-reduce-costs/",
+      "originalUrl": "https://www.ibm.com/blog/application-performance-optimization-elevate-performance-and-reduce-costs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-13T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-12-maximizing-your-event-driven-architecture-investments-unleashing-the-power-of-apache-kafka-with-ibm-event-automation.md",
       "title": "Maximizing your event-driven architecture investments: Unleashing the power of Apache Kafka with IBM Event Automation",
       "excerpt": "Businesses are increasingly turning to event-driven architecture (EDA) as a strategic approach to harness real-time data.\nThe post Maximizing your event-driven architecture investments: Unleashing the power of Apache Kafka with IBM Event Automation appeared first on IBM Blog.\n",
@@ -1255,40 +1297,6 @@
       "provider": {
         "name": "Nasdaq",
         "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-30-korea-quantum-computing-and-ibm-collaborate-to-bring-ibm-watsonx-and-quantum-computing-to-korea.md",
-      "title": "Korea Quantum Computing and IBM Collaborate to Bring IBM watsonx and Quantum Computing to Korea",
-      "excerpt": "Agreement includes KQC offering IBM software and new AI infrastructure capabilities as well as IBM's next-generation quantum computing architecture",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/korea-quantum-computing-and-ibm-collaborate-to-bring-ibm-watsonx-and-quantum-computing-to-korea-6eb22e9e",
-      "originalUrl": "https://www.barrons.com/articles/korea-quantum-computing-and-ibm-collaborate-to-bring-ibm-watsonx-and-quantum-computing-to-korea-6eb22e9e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-30T02:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -24,137 +24,51 @@ images:
     isCached: true
 
 related:
-  - title: "Apple buys Canadian start-up DarwinAI after falling behind Microsoft, Google in generative AI"
-    excerpt: "One of DarwinAI’s core technologies is making artificial intelligence systems smaller and faster, which could help Apple run AI on devices."
-    publishedDateTime: 2024-03-15T02:45:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3255458/apple-buys-canadian-start-darwinai-after-falling-behind-microsoft-google-generative-ai"
+  - title: "Apple’s New AI Move Just Changed The Game For All iPhone Users"
+    excerpt: "Apple has just ramped up its AI plans for iPhones after buying Canadian start up DarwinAI. Here's what you need to know."
+    publishedDateTime: 2024-03-15T17:14:00Z
+    webUrl: "https://www.forbes.com/sites/kateoflahertyuk/2024/03/15/apples-new-ai-move-just-changed-the-game-for-all-iphone-users/"
+    ampWebUrl: "https://www.forbes.com/sites/kateoflahertyuk/2024/03/15/apples-new-ai-move-just-changed-the-game-for-all-iphone-users/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kateoflahertyuk/2024/03/15/apples-new-ai-move-just-changed-the-game-for-all-iphone-users/amp/"
     type: article
     provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 73
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/03/15/af39247b-8fc3-45fe-b9f9-1c4c764a402a_aaaec09d.jpg?itok=gjruiJkX&v=1710470604"
-        width: 1200
-        height: 630
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65574f970e051b082da2db18/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1340
+        height: 900
         isCached: true
-  - title: "Apple Acquires DarwinAI, Expect Lots of Artificial Intelligence-powered Features in the Future"
-    excerpt: "It goes without saying that Apple is clearly making an attempt to close the gap with competitors like Microsoft and Google"
-    publishedDateTime: 2024-03-15T01:18:00Z
-    webUrl: "https://www.gizmochina.com/2024/03/15/apple-darwinai-artificial-intelligence/"
+  - title: "Android phones could surpass iPhone 16 in AI with this key upgrade"
+    excerpt: "Korean site Ajunews (via Wccftech) reports that the 8 Gen 4 could be the first smartphone chip to use LPDDR6 RAM, an upcoming memory standard. This will supposedly benefit from a higher data bandwidth compared to current LPDDR5, LPDDR5X and LPDDR5T standards, a key factor holding back on-device AI processing right now."
+    publishedDateTime: 2024-03-14T13:42:00Z
+    webUrl: "https://www.tomsguide.com/phones/android-phones/android-phones-could-surpass-iphone-16-in-ai-with-this-key-upgrade"
     type: article
     provider:
-      name: Gizmochina
-      domain: gizmochina.com
-    quality: 70
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 39
     images:
-      - url: "https://www.gizmochina.com/wp-content/uploads/2023/10/Apple-logo.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Apple Reportedly Acquires Startup DarwinAI, Could Fuel Tim Cook’s AI Vision"
-    excerpt: "Reportedly, Apple has hired Alexander Wong, an AI researcher who helped build DarwinAI, as a director of its AI division."
-    publishedDateTime: 2024-03-15T06:06:00Z
-    webUrl: "https://www.gadgets360.com/ai/news/apple-buys-darwinai-startup-tim-cook-ai-features-ios-18-in-2024-report-5242410"
-    ampWebUrl: "https://www.gadgets360.com/ai/news/apple-buys-darwinai-startup-tim-cook-ai-features-ios-18-in-2024-report-5242410/amp"
-    cdnAmpWebUrl: "https://www-gadgets360-com.cdn.ampproject.org/c/s/www.gadgets360.com/ai/news/apple-buys-darwinai-startup-tim-cook-ai-features-ios-18-in-2024-report-5242410/amp"
-    type: article
-    provider:
-      name: gadgets360
-      domain: gadgets360.com
-    quality: 59
-    images:
-      - url: "https://i.gadgets360cdn.com/large/apple_logo1_1710481787659.jpg"
+      - url: "https://cdn.mos.cms.futurecdn.net/u3VcLqUFq2e5RvHY3UKNQi-1200-80.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "Apple buys Canadian AI startup DarwinAI"
-    excerpt: "The startup also has worked with companies like Lockheed Martin Corp. and Intel Corp., according to Communitech. The under-the-radar acquisition comes ahead of a big AI push for Apple this year. The company is adding features to its iOS 18 software that ..."
-    publishedDateTime: 2024-03-14T00:01:00Z
-    webUrl: "https://financialpost.com/technology/apple-buys-canadian-ai-startup-darwinai"
-    ampWebUrl: "https://financialpost.com/technology/apple-buys-canadian-ai-startup-darwinai/wcm/e42ab6bf-8972-4aa0-831f-4152c5009a09/amp/"
-    cdnAmpWebUrl: "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/technology/apple-buys-canadian-ai-startup-darwinai/wcm/e42ab6bf-8972-4aa0-831f-4152c5009a09/amp/"
+  - title: "Apple’s latest AI acquisition might bring a killer feature to iPhone"
+    excerpt: "Apple bought a Canadian AI startup earlier this year, which could help the company introduce exciting AI features on-device."
+    publishedDateTime: 2024-03-14T20:05:00Z
+    webUrl: "https://bgr.com/tech/apples-latest-ai-acquisition-might-bring-a-killer-feature-to-iphone/"
     type: article
     provider:
-      name: Financial Post
-      domain: financialpost.com
-    quality: 57
+      name: BGR
+      domain: bgr.com
+    quality: 37
     images:
-      - url: "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/03/no0314apple.jpg"
-        width: 1000
-        height: 750
+      - url: "https://bgr.com/wp-content/uploads/2023/06/apple-ceo-tim-cook-wwdc-2023-bgr.jpg?quality=82&strip=all"
+        width: 1812
+        height: 900
         isCached: true
-  - title: "Apple buys Canadian AI startup DarwinAI as it races to add features"
-    excerpt: "The iPhone maker purchased the business earlier this year, and dozens of DarwinAI’s employees have joined Apple’s artificial intelligence division, according to people with knowledge of the matter, who asked not to be identified because the deal hasn’t been announced."
-    publishedDateTime: 2024-03-15T11:32:00Z
-    webUrl: "https://www.cnbctv18.com/technology/apple-buys-canadian-ai-startup-darwinai-as-it-races-to-add-features-19286361.htm"
-    ampWebUrl: "https://www.cnbctv18.com/technology/apple-buys-canadian-ai-startup-darwinai-as-it-races-to-add-features-19286361.htm/amp"
-    cdnAmpWebUrl: "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/apple-buys-canadian-ai-startup-darwinai-as-it-races-to-add-features-19286361.htm/amp"
-    type: article
-    provider:
-      name: cnbctv18
-      domain: cnbctv18.com
-    quality: 57
-    images:
-      - url: "https://images.cnbctv18.com/wp-content/uploads/2023/08/untitled-design-19-1019x573.jpg"
-        width: 1019
-        height: 573
-        isCached: true
-  - title: "Apple buys startup DarwinAI, adds staff to its AI division: Report"
-    excerpt: "Apple has bought artificial intelligence (AI) startup DarwinAI and added dozens of the Canadian company’s staffers to its AI division, per a news report"
-    publishedDateTime: 2024-03-15T08:19:00Z
-    webUrl: "https://www.thehindu.com/sci-tech/technology/apple-buys-startup-darwinai-adds-staff-ai-division-report/article67953428.ece"
-    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/apple-buys-startup-darwinai-adds-staff-ai-division-report/article67953428.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/apple-buys-startup-darwinai-adds-staff-ai-division-report/article67953428.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 57
-    images:
-      - url: "https://th-i.thgim.com/public/incoming/oseo7g/article67953429.ece/alternates/FREE_1200/2024-03-08T161152Z_491194416_RC2RH6AA3KO9_RTRMADP_3_EU-TECH-ANTITRUST-WINNERS.JPG"
-        width: 1200
-        height: 833
-        isCached: true
-  - title: "Apple Buys Canadian AI Startup as It Races to Add Features"
-    excerpt: "Apple Inc. has acquired Canadian artificial intelligence startup DarwinAI, adding technology to its arsenal ahead of a big push into generative AI in 2024."
-    publishedDateTime: 2024-03-14T17:08:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2024-03-14/apple-aapl-buys-canadian-ai-startup-darwinai-as-part-of-race-to-add-features"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
-  - title: "Apple Buys Startup DarwinAI, Adds Staff to Its AI Division, Bloomberg Reports"
-    excerpt: "(Reuters) - Apple has bought Canadian artificial intelligence (AI) startup DarwinAI and added dozens of the company's staffers to its AI division, Bloomberg News reported on Thursday."
-    publishedDateTime: 2024-03-14T17:34:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2024-03-14/apple-buys-startup-darwinai-adds-staff-to-its-ai-division-bloomberg-reports"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 44
-  - title: "Apple buys Canadian startup DarwinAI in a push to join generative AI race"
-    excerpt: "Alexander Wong, an AI researcher at the University of Waterloo who helped build DarwinAI's business, has joined Apple as a director in its AI group as part of the deal"
-    publishedDateTime: 2024-03-15T05:16:00Z
-    webUrl: "https://www.business-standard.com/technology/tech-news/apple-buys-canadian-startup-darwinai-in-a-push-to-join-generative-ai-race-124031500224_1.html"
-    ampWebUrl: "https://www.business-standard.com/amp/technology/tech-news/apple-buys-canadian-startup-darwinai-in-a-push-to-join-generative-ai-race-124031500224_1.html"
-    cdnAmpWebUrl: "https://www-business--standard-com.cdn.ampproject.org/c/s/www.business-standard.com/amp/technology/tech-news/apple-buys-canadian-startup-darwinai-in-a-push-to-join-generative-ai-race-124031500224_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 36
-  - title: "Apple just bought a Canadian AI startup as it plans for iOS 18 and beyond"
-    excerpt: "Now, a new report suggests that Apple has taken a step further in its quest to do just that by buying a new company in the form of Canadian AI startup DarwinAI. Bloomberg's Mark Gurman reports that Apple actually bought the company earlier this year and ..."
-    publishedDateTime: 2024-03-14T18:45:00Z
-    webUrl: "https://www.tweaktown.com/news/96865/apple-just-bought-canadian-ai-startup-as-it-plans-for-ios-18-and-beyond/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 16
 
-secured: "NBjUV92BTe/gXoJPjIWtsCua25jvyqTDYKVN4ZFsa4lCj3JjFeYLipPAxkjBkoFJMJfR5pUJw4/gA3kV3/wCVzr1aUwCw49jdu0lB6N7cryUMKhG3IUfllDX3l3gulyK8ZaYTYVJLqebpca82eaJwNvaHJpLJErEgiJnAp3YeAj92RdGwGNV1DGXvsC0wxv0W4jRPz0zSKcknEq6QukSM4wnf+y7zyfHAwgCMTpxcddCvvhCPU67y2qFffpYR9ie9/1i7LpXmHzceqPQ0rbtz+0gWWI37PN6tBK2BbabS1cF2UxgCf5J4fxjfTMXiiw6HD72R4PsHt0xYszZ3ZMW72LMCaatcqX/3wQGVQIRaDk=;ydP7CbKCWpMH6MuDROzovw=="
+secured: "NKyVbSLR4rAgKK1VWaixH/bnCsZE7FE7aBs2pVrp2QrobtQYNCndojr39ResX8qddWBXZ5kTpnPQLEzDhhBb/Bb1/trSTg8dvAx7ZTHn0w7aPAgDD7KJLG+7z2dQ6v+Fa2pz1pKg5NWl++wOdpOH4f//YC1XnSQEhautc3IOyE7pdmm5M/f2UESUUth+lBY449LE6pyN0dpD2DAHkYQo7FK6tfKGit2Soil6tC7wDFbc5juE27eK0UvuPQiXNymI5FRoFAOYMTYrqetL++8ZDGN0m5Z7nlII+3Vv1O0bklMQtx5Oxdc1VFParRG5tddFG4kUTmPdBKu8QhfjclH3AvV6hgQDqKpCoc9RjY2l3G97s8LDfxet8cwHbmaKt6janZuBEIIM4DpSQkWyAzigQQBjvZmNFETWeQ+myZmWUUZNgXZTBuEX1m16oTOxp7hqDGt4TS+Ca53UC/AqD14ctSddfzkoxhanPKP8ttybIKE6UmEf2u2/ji3yMYZ0WIXI2JMiaMT/2OoutWSA4VOhHg==;yij63/oSeN1KyJikS10wHw=="
 ---
 

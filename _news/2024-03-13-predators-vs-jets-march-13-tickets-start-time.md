@@ -94,20 +94,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "UCSB vs. Long Beach State Big West Tournament Women's Basketball Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. The No. 6 seed UCSB Gauchos (16-14) and the No. 7 seed Long Beach State Beach (13-17) will look to advance in the Big West tournament on Wednesday as they square off at 5:30 PM ET."
-    publishedDateTime: 2024-03-10T17:05:00Z
-    webUrl: "https://www.kcrg.com/sports/betting/2024/03/13/ucsb-vs-long-beach-state-buy-big-west-tournament-womens-college-basketball-tickets/"
-    type: article
-    provider:
-      name: ABC Kcrg  9
-      domain: kcrg.com
-    quality: 15
-    images:
-      - url: "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/v2/NIZUBJKIB5JAXF2WC5QSGIFDZM.jpg?auth=cd2ea4565ac8d10bbd972750439f5319513319c9dd7b72e329961c94293f610f&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Nicholls vs. SE Louisiana Southland Tournament Women's Basketball Tickets & Start Time"
     excerpt: "Preview the Southland Tournament Nicholls Colonels vs. SE Louisiana Lions women's basketball game with ticket info, start time, stats, odds and TV channel."
     publishedDateTime: 2024-03-12T09:04:00Z

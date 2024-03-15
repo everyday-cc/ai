@@ -22,6 +22,17 @@ topics:
   - AI Hardware
   - AI
 
+related:
+  - title: "Heard on the Street: Adobe’s AI Premium No Longer In the Clouds"
+    excerpt: "AI reality is hitting Adobe hard. And if the company is to be believed, investors may have to wait a while for the picture to brighten. Adobe’s [share price slid]("
+    publishedDateTime: 2024-03-15T17:00:00Z
+    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-03-15-2024/card/heard-on-the-street-adobe-s-ai-premium-no-longer-in-the-clouds-j7tCpnCAIGL7RHAD5drF?mod=lctimeline_finance"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 47
+
 secured: "1yylY04WOyDKBU1alqXxOnQs2T2NWFA/tztwGPVrRrHw9DYRDAKc7U7ARwMgHE8Qv7iS4F4V7zG0xie+Dvd0xJa6zC+5nPnIeuOdign23NhG2nuJ8QZb7lAU20M1B4JUvDVME7ydg/1lwtlfg15fsx32vDDHwWwqGojFJNum0rJUsCzmmyn50n5CYuCgKxOAK2cOkVYSyTiS9evQ6M/23ZAzspvZTL0QBPLS6QzZj+UJZ1ADlD5vi72JJVKmcQ5+ZX9F8k5zbxkWfv1wJUCxyBa07+HRRLzJy60oE4OIAlozuC9J5w9P28jIWuxGalPUmnKpvTet+aGlhRrpDp6y9kyIX5+NFvOUk/V9Tir9Tm+izknnMOkdY02KTVg0RANGiil5wHtQ+aw1K/fCPW4tiTYT9Sipqkk5x7bDCzwzi+63U/4nRYsv6VUT3dRQG0AjSNbhiyVBHd5e/8n8M95rn6RgLqM6Fpi02HUGK/VZqDsffmn3VypJfh8AzGiilzDm3o+UqcGEWubccx3sLuJ42Q==;usMWwkyaeSMzcUgZuZ4XWA=="
 ---
 

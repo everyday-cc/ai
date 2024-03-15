@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/safeguardi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/13/safeguarding-data-privacy-in-the-age-of-ai-innovation/amp/"
 type: article
 quality: 89
-heat: 219
+heat: 229
 published: true
 
 provider:
@@ -116,6 +116,20 @@ related:
       - url: "https://www.microsoft.com/en-us/industry/blog/wp-content/uploads/2024/03/MSC24-CEMA-lifestyle-Getty-1483022571-rgb-1.jpg"
         width: 800
         height: 533
+        isCached: true
+  - title: "Cultivating Innovation in Agribusiness: The Surge of AI Patents—Part 1"
+    excerpt: "The impact of AI in agriculture cannot be underestimated. Globally, market research (Markets & Markets, 2023) predicts that the AI in agriculture sector is projected to grow from US$1.7 billion in 2023 to US$4.7 billion by 2028, at a Compound Annual Growth ..."
+    publishedDateTime: 2024-03-15T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/cultivating-innovation-in-agribusiness-2918360/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 39
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.14667_957.jpg"
+        width: 1200
+        height: 900
         isCached: true
   - title: "Brother Industries in artificial intelligence: theme innovation strategy"
     excerpt: "Be better informed GlobalData, the leading provider of industry intelligence, provided the underlying data, research, and analysis used to produce this article. GlobalData Patent Analytics tracks bibliographic data, legal events data, point in time patent ..."

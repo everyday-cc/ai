@@ -7,7 +7,7 @@ originalUrl: "https://www.macworld.com/article/557878/apple-vision-pro-features-
 webUrl: "https://www.macworld.com/article/557878/apple-vision-pro-features-specs-price-faq.html"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://static1.pocketlintimages.com/wordpress/wp-content/uploads/wm/2024/02/apple-vision-pro-keyboard-trackpad.jpg"
         width: 2560
         height: 1440
+        isCached: true
+  - title: "An 18-karat gold Apple Vision Pro? If you have to ask how much, you probably can't afford it"
+    excerpt: "And now you can get it attached to Apple's spatial computer. The fanciness doesn't stop there, either. The 18-karat gold is out in force and makes up a special cover that hides the EyeSight display at the front of the Apple Vision Pro. Dubbed the CVR ..."
+    publishedDateTime: 2024-03-15T16:15:00Z
+    webUrl: "https://www.tweaktown.com/news/96894/an-18-karat-gold-apple-vision-pro-if-you-have-to-ask-how-much-probably-cant-afford-it/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 13
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96894_01_an-18-karat-gold-apple-vision-pro-if-you-have-to-ask-how-much-probably-cant-afford-it_full.jpg"
+        width: 1400
+        height: 800
         isCached: true
 
 secured: "mt2cPM0Od4UEzmOQXVYZK3SbMdGAnHBw47+ak6Xebb1DV7sQkJcg4b4+KHuL2AUrQ8yRUmepXnjrH/jmmggp9Z7m22p/G3t3cNdjQgVreQuQ1noFpfz9UXA2acqHYR9eYN+M00bk09hUgQUjnNAnR9HaEYyv66lpgyvp5N44bStWncMbxsFnZl9STqghrzynNR9I/tip6qfjRkbew97JAkgsz5zc1p3N151coXwp0ybpZlvoXOtHS/1YCzBUqXQql+aCL8UKoLAZPyJqw8qYJKuVlETJykilC5A8/1OQV0v3j3AqPf/tvLs+uMeP124gnROIY80QefqnX/rZUsamdFk0HbI8A3OmiaoGnLZlMjo=;6ZJq61MTEazlLLQiRtR7Gw=="

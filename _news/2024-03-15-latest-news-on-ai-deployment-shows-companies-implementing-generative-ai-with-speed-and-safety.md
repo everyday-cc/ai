@@ -83,19 +83,14 @@ related:
         height: 630
         isCached: true
   - title: "CQG Unveils New First-of-its-Kind AI / Machine Learning Trading Toolkit for Predicting Futures Market Moves"
-    excerpt: "CQG, a leading global provider of high-performance technology solutions for market makers, traders, brokers, commercial hedgers and"
-    publishedDateTime: 2024-03-11T11:00:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/cqg-unveils-new-first-of-its-kind-ai--machine-learning-trading-toolkit-for-predicting-futures-market-moves-302084694.html"
+    excerpt: "Success in Live Trading Environment Confirms Internal Test Results DENVER and BOCA RATON, Fla., March 11, 2024 /PRNewswire/ -- CQG, a leading global provider of high-performance technology"
+    publishedDateTime: 2024-03-11T11:20:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-03/61640370-cqg-unveils-new-first-of-its-kind-ai-machine-learning-trading-toolkit-for-predicting-futures-market-moves-008.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 38
-    images:
-      - url: "https://mma.prnewswire.com/media/562279/CQG_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
-        isCached: true
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 18
 
 secured: "y425Z661xrymJ7dFDpEYXJbx+7M0ExPKrZaSr5fJWr7XVrwoyjgWcLoUuTd1FBXSQNhR2kvrKhzcYkXvONwY8HoxLO/AC+MTznPHRSX8/ucXRteFDO6d+Q+AU+fqeYUnt1PPRkG73qBwsaXfMJBBmCqmqHbWKZmfg7CtxcBj83p7l7DjG4eFXCgFl8gG5EVURQNpPL5NFaOrqk+in8YtUKgXUSDOunt5G7TW9tMgC7a7aUGLr5lhNTReCAnrhQVNUz3lyRmaUhkSdp//0CcLFXG/sWDRtNgF0lbtSWP7KvyUhgAx8wZDZJHczrTn4t1xFoy+7lp5KfCy3plJFMjK7/YxIRW8dr7N8xqYeQXL71A=;XF1qzvNUmFVSWsrJJ0tePg=="
 ---

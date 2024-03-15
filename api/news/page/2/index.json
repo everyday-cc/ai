@@ -2,6 +2,188 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-03-14-the-future-of-5g-what-to-expect-from-this-transformational-technology.md",
+      "title": "The future of 5G: What to expect from this transformational technology",
+      "excerpt": "The future of 5G and the innovations it holds, including in healthcare, smart cities and AI.\nThe post The future of 5G: What to expect from this transformational technology appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/5g-future/",
+      "originalUrl": "https://www.ibm.com/blog/5g-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-14T17:21:17Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-14-roomba-i5-review-this-robot-vacuum-is-certainly-more-useful-than-most-pets.md",
+      "title": "Roomba i5+ review: this robot vacuum is certainly more useful than most pets",
+      "excerpt": "I put this big-name robot vacuum to the test: read my Roomba i5+ review to ... albeit nowhere near as much as it does without mapping. To be honest, I didn't mind this at all; the Roomba's clumsiness is oddly endearing, like when you see a dog trying ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thesun.co.uk/shopping/product-reviews/26452759/roomba-i5-robot-vacuum-review/",
+      "originalUrl": "https://www.thesun.co.uk/shopping/product-reviews/26452759/roomba-i5-robot-vacuum-review/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thesun.co.uk/wp-content/uploads/2024/03/WhatsApp-Image-2024-03-14-at-15.05.16-2-1.jpeg?strip=all&quality=100&w=1600&h=1080&crop=1",
+          "width": 1600,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.thesun.co.uk/shopping/product-reviews/26452759/roomba-i5-robot-vacuum-review/amp/",
+      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/shopping/product-reviews/26452759/roomba-i5-robot-vacuum-review/amp/",
+      "publishedDateTime": "2024-03-14T16:22:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sun",
+        "domain": "thesun.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-14-tackling-ais-data-challenges-with-ibm-databases-on-aws.md",
+      "title": "Tackling AI’s data challenges with IBM databases on AWS",
+      "excerpt": "SaaS database solutions on (AWS) enables enterprises to scale applications, analytics and AI across the hybrid cloud landscape.\nThe post Tackling AI&#8217;s data challenges with IBM databases on AWS appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/tackling-ais-data-challenges-with-ibm-databases-on-aws/",
+      "originalUrl": "https://www.ibm.com/blog/tackling-ais-data-challenges-with-ibm-databases-on-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2024/03/GettyImages-588932755-database-management-solutions-leadspace-edit_blog-lead-space-40x21-1.jpg",
+          "width": 2400,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-14T16:13:51Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-14-us-sanctions-three-israeli-west-bank-settlers-and-their-outposts-for-violence-against-palestinians.md",
+      "title": "US sanctions three Israeli West Bank settlers and their outposts for violence against Palestinians",
+      "excerpt": "The U.S. imposed sanctions Thursday on a group of three extremist Israeli West Bank settlers who are accused of harassing and attacking Palestinians in an attempt to pressure",
+      "sourceUrl": null,
+      "webUrl": "https://www.kxan.com/news/political-news/ap-us-sanctions-three-israeli-west-bank-settlers-and-their-outposts-for-violence-against-palestinians/",
+      "originalUrl": "https://www.kxan.com/news/political-news/ap-us-sanctions-three-israeli-west-bank-settlers-and-their-outposts-for-violence-against-palestinians/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.kxan.com/wp-content/uploads/sites/40/2024/03/65f3198b2ea963.27261369.jpeg?w=1280",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.kxan.com/news/political-news/ap-us-sanctions-three-israeli-west-bank-settlers-and-their-outposts-for-violence-against-palestinians/amp/",
+      "cdnAmpWebUrl": "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/political-news/ap-us-sanctions-three-israeli-west-bank-settlers-and-their-outposts-for-violence-against-palestinians/amp/",
+      "publishedDateTime": "2024-03-14T15:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KXAN",
+        "domain": "kxan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2024-03-14-the-ethical-dilemma-of-ai-in-marketing-a-slippery-slope.md",
       "title": "The Ethical Dilemma Of AI In Marketing: A Slippery Slope",
       "excerpt": "Artificial Intelligence has revolutionized the marketing landscape, offering businesses unprecedented insights into consumer behavior and preferences.",
@@ -397,7 +579,7 @@
       "originalUrl": "https://www.forbes.com/sites/paolacecchi-dimeglio/2024/03/14/leadership-strategy-navigating-the-eu-ai-act/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -436,58 +618,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-14-how-work-devices-may-evolve-to-keep-up-in-the-ai-era.md",
-      "title": "How work devices may evolve to keep up in the AI era",
-      "excerpt": "Th neural processing unit may be a game changer, but we need the right balance in product design to deliver what consumers seek.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/how-work-devices-may-evolve-to-keep-up-in-the-ai-era/",
-      "originalUrl": "https://www.zdnet.com/article/how-work-devices-may-evolve-to-keep-up-in-the-ai-era/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/fly/bundles/zdnetcore/images/logos/zdnet-logo-yellow.png",
-          "width": 480,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-work-devices-may-evolve-to-keep-up-in-the-ai-era/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-work-devices-may-evolve-to-keep-up-in-the-ai-era/",
-      "publishedDateTime": "2024-03-14T08:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
@@ -603,7 +733,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/gemma-is-now-available-in-amazon-sagemaker-jumpstart/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -992,7 +1122,7 @@
       "originalUrl": "https://www.inverse.com/tech/figure-robot-open-ai-chatgpt",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1075,162 +1205,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-a-comprehensive-list-of-2023-2024-tech-layoffs.md",
-      "title": "A comprehensive list of 2023 & 2024 tech layoffs",
-      "excerpt": "Momentum for a tech sector rebound remains slow to build, outside of bright spots within artificial intelligence and adjacent companies ... Announced March 1, Alphabet’s Waymo issued a second round of layoffs this year. Combined with the initial cuts ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/03/13/tech-layoffs-2023-list/",
-      "originalUrl": "https://techcrunch.com/2024/03/13/tech-layoffs-2023-list/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/02/layoffs.jpg?resize=1200,645",
-          "width": 1200,
-          "height": 645,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/03/13/tech-layoffs-2023-list/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/13/tech-layoffs-2023-list/amp/",
-      "publishedDateTime": "2024-03-13T16:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-in-the-first-trailer-for-netflixs-atlas-jennifer-lopez-gets-in-the-damn-robot.md",
-      "title": "In the First Trailer for Netflix's Atlas, Jennifer Lopez Gets in the Damn Robot",
-      "excerpt": "Jennifer Lopez. Directed by Brad Peyton, the sci-fi action film brings us Lopez in bombastic badass mode—clad in a mech suit as she jumps right into battle against the futuristic, war-torn backdrop of an unknown dystopia.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/jennifer-lopez-atlas-netflix-scifi-mech-movie-titanfall-1851328946",
-      "originalUrl": "https://gizmodo.com/jennifer-lopez-atlas-netflix-scifi-mech-movie-titanfall-1851328946",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/dce428d8672fe1fc330ac3c1906d8988.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-13T16:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-moderate-audio-and-text-chats-using-aws-ai-services-and-llms.md",
-      "title": "Moderate audio and text chats using AWS AI services and LLMs",
-      "excerpt": "Online gaming and social communities offer voice and text chat functionality for their users to communicate. Although voice and text chat often support friendly banter, it can also lead to problems such as hate speech, cyberbullying, harassment, and scams. Today, many companies rely solely on human moderators",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/moderate-audio-and-text-chats-using-aws-ai-services-and-llms/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/moderate-audio-and-text-chats-using-aws-ai-services-and-llms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/03/05/ml-16352-diargam-1-1260x455.jpg",
-          "width": 1260,
-          "height": 455,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-13T16:54:08Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

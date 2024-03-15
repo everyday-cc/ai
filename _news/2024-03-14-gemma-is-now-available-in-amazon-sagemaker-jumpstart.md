@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/gemma-is-now-availab
 webUrl: "https://aws.amazon.com/blogs/machine-learning/gemma-is-now-available-in-amazon-sagemaker-jumpstart/"
 type: article
 quality: 104
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Federated learning on AWS using FedML, Amazon EKS, and Amazon SageMaker"
+    excerpt: "This post is co-written with Chaoyang He, Al Nevarez and Salman Avestimehr from FedML. Many organizations are implementing machine learning (ML) to enhance their business decision-making through automation and the use of large distributed datasets. With increased access to data, ML has the potential"
+    publishedDateTime: 2024-03-15T17:21:57Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/federated-learning-on-aws-using-fedml-amazon-eks-and-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 104
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/15/ML-3539-SolOverview-1040x630.png"
+        width: 1040
+        height: 630
+        isCached: true
   - title: "Set up cross-account Amazon S3 access for Amazon SageMaker notebooks in VPC-only mode using Amazon S3 Access Points"
     excerpt: "Advancements in artificial intelligence (AI) and machine learning (ML) are revolutionizing the financial industry for use cases such as fraud detection, credit worthiness assessment, and trading strategy optimization. To develop models for such use cases, data scientists need access to various datasets"
     publishedDateTime: 2024-03-13T16:47:06Z

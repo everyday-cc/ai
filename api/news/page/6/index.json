@@ -2,6 +2,163 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2024-03-12-make-the-most-of-gpus-for-machine-learning-applications.md",
+      "title": "Make the most of GPUs for machine learning applications",
+      "excerpt": "There are also examples of AI that are appropriate for CPUs, such as telemetry and network routing, object recognition in CCTV cameras, fault detection in manufacturing, and object detection in CT and MRI scans. While the above CPU use cases continue to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3714285/make-the-most-of-gpus-for-machine-learning-applications.html",
+      "originalUrl": "https://www.infoworld.com/article/3714285/make-the-most-of-gpus-for-machine-learning-applications.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/03/10/ai_artificial-intelligence_circuit-board_circuitry_mother-board_nodes_computer-chips-100777423-large-100920809-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3714285/make-the-most-of-gpus-for-machine-learning-applications.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3714285/make-the-most-of-gpus-for-machine-learning-applications.amp.html",
+      "publishedDateTime": "2024-03-12T09:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-this-startup-says-it-can-beat-deepminds-gamechanging-protein-ai.md",
+      "title": "This Startup Says It Can Beat Deepmind’s Gamechanging Protein AI",
+      "excerpt": "Basecamp Research says its software platform can better predict the way proteins behave — not with better algorithms, but with higher-quality data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/alexknapp/2024/03/11/basecamp-research-protein-folding-ai-deepmind-alphafold/",
+      "originalUrl": "https://www.forbes.com/sites/alexknapp/2024/03/11/basecamp-research-protein-folding-ai-deepmind-alphafold/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e7a8c4b178f1843c134af7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1285,
+          "height": 857,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-12T07:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-worried-an-ai-is-going-to-take-your-job-heres-how-to-stay-relevant-in-the-generative-ai-era.md",
+      "title": "Worried An AI Is Going To Take Your Job? Here’s How To Stay Relevant In The Generative AI Era",
+      "excerpt": "To stay relevant in the generative AI era, it's crucial to educate yourself about AI capabilities and assess how AI might impact your job.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2024/03/12/worried-an-ai-is-going-to-take-your-job-heres-how-to-stay-relevant-in-the-generative-ai-era/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2024/03/12/worried-an-ai-is-going-to-take-your-job-heres-how-to-stay-relevant-in-the-generative-ai-era/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65effec6d0230d764246a74b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2024/03/12/worried-an-ai-is-going-to-take-your-job-heres-how-to-stay-relevant-in-the-generative-ai-era/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/03/12/worried-an-ai-is-going-to-take-your-job-heres-how-to-stay-relevant-in-the-generative-ai-era/amp/",
+      "publishedDateTime": "2024-03-12T07:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-12-five-ai-crypto-coins-emerging-in-2024.md",
       "title": "Five AI crypto coins emerging in 2024",
       "excerpt": "The artificial intelligence industry began booming at the start of 2024, with OpenAI's Sora product generating a new wave of hype within the sector.",
@@ -41,6 +198,57 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-local-falcon-unveils-falcon-assist-the-first-ai-built-exclusively-for-local-seo.md",
+      "title": "Local Falcon Unveils Falcon Assist, the First AI Built Exclusively for Local SEO",
+      "excerpt": "Known for its best-in-class local rank tracking, Local Falcon launched the first-ever AI assistant to help businesses with local SEO, Google",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/local-falcon-unveils-falcon-assist-the-first-ai-built-exclusively-for-local-seo-1033152965",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/local-falcon-unveils-falcon-assist-the-first-ai-built-exclusively-for-local-seo-1033152965",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/mmstudio-images/gallery/G3JKzPU5pNeQCdO4ILXoGZm1xrG2/1709854800729-0.jpg",
+          "width": 800,
+          "height": 310,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-12T05:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -589,7 +797,7 @@
       "originalUrl": "https://www.digitaltrends.com/computing/how-to-use-google-gemini/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 306,
+      "heat": 316,
       "tags": null,
       "images": [
         {
@@ -1037,195 +1245,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-11-how-vistaprint-delivers-personalized-product-recommendations-with-amazon-personalize.md",
-      "title": "How VistaPrint delivers personalized product recommendations with Amazon Personalize",
-      "excerpt": "VistaPrint, a Cimpress business, is the design and marketing partner to millions of small businesses around the world. For more than two decades, VistaPrint has empowered small businesses to quickly and effectively create the marketing products – from promotional materials and signage to print advertising",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-vistaprint-delivers-personalized-product-recommendations-with-amazon-personalize/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-vistaprint-delivers-personalized-product-recommendations-with-amazon-personalize/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/13/ML-14265-Figure1-1114x630.png",
-          "width": 1114,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-11T17:00:48Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-11-detecting-ai-manipulated-content-is-a-challenging-arms-race.md",
-      "title": "Detecting AI-manipulated content is a challenging arms race",
-      "excerpt": "Nude photos of pop superstar Taylor Swift recently flooded social media X, where they were viewed and shared by millions of users. But the images weren't realâthey were deepfakes created using artificial intelligence (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2024-03-ai-content-arms.html",
-      "originalUrl": "https://techxplore.com/news/2024-03-ai-content-arms.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2024/detecting-ai-manipulat.jpg",
-          "width": 1280,
-          "height": 1426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2024-03-ai-content-arms.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2024-03-ai-content-arms.amp",
-      "publishedDateTime": "2024-03-11T16:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-11-lightspeed-ventures-to-ramp-up-investments-in-climate-change-and-ai.md",
-      "title": "Lightspeed Ventures to ramp up investments in climate change and AI",
-      "excerpt": "Rahul Taneja, partner at Lightspeed India, said the VC firm would continue to invest in emerging themes in addition to the core streams of enterprise SaaS, fintech, consumer and commerce.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/news/india/lightspeed-ventures-to-ramp-up-investments-in-climate-change-and-ai-11710134071305.html",
-      "originalUrl": "https://www.livemint.com/news/india/lightspeed-ventures-to-ramp-up-investments-in-climate-change-and-ai-11710134071305.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2024/03/11/1600x900/RahulTaneja_2-683x1024_1710134245640_1710134273934.jpeg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/news/india/lightspeed-ventures-to-ramp-up-investments-in-climate-change-and-ai/amp-11710134071305.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/lightspeed-ventures-to-ramp-up-investments-in-climate-change-and-ai/amp-11710134071305.html",
-      "publishedDateTime": "2024-03-11T16:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-11-futurists-positive-about-ais-impact-on-jobs-urge-wide-perspective.md",
-      "title": "Futurists Positive About AI’s Impact On Jobs, Urge Wide Perspective",
-      "excerpt": "This report has been prepared by TCS futurists and is based on a survey of prominent futurists, executives, and foresight professionals around the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2024/03/11/futurists-positive-about-ais-impact-on-jobs-urge-wide-perspective/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2024/03/11/futurists-positive-about-ais-impact-on-jobs-urge-wide-perspective/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61042e95301717f598616035/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 986,
-          "height": 553,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2024/03/11/futurists-positive-about-ais-impact-on-jobs-urge-wide-perspective/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2024/03/11/futurists-positive-about-ais-impact-on-jobs-urge-wide-perspective/amp/",
-      "publishedDateTime": "2024-03-11T16:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

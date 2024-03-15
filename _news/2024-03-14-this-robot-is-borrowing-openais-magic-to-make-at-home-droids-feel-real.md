@@ -7,7 +7,7 @@ originalUrl: "https://www.inverse.com/tech/figure-robot-open-ai-chatgpt"
 webUrl: "https://www.inverse.com/tech/figure-robot-open-ai-chatgpt"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "OpenAI’s Figure 01 Talking Robot Demo Is Eerily Mind-Blowing"
+    excerpt: "Figure 01 is a humanoid robot which can converse in a human-like voice, perform tasks, and explain why it did what it did."
+    publishedDateTime: 2024-03-15T15:52:00Z
+    webUrl: "https://hothardware.com/news/openais-figure-01-robot-demo"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 54
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/64132/content/hero-figure-openai-humanoid-robot.jpg"
+        width: 708
+        height: 398
+        isCached: true
   - title: "OpenAI’s Sora text-to-video AI model will be available later this year"
     excerpt: "OpenAI confirmed Sora would launch publicly this year without revealing a firm release date or price for the text-to-video AI tool."
     publishedDateTime: 2024-03-13T20:05:00Z

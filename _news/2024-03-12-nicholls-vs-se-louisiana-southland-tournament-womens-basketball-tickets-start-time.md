@@ -108,20 +108,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "UCSB vs. Long Beach State Big West Tournament Women's Basketball Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. The No. 6 seed UCSB Gauchos (16-14) and the No. 7 seed Long Beach State Beach (13-17) will look to advance in the Big West tournament on Wednesday as they square off at 5:30 PM ET."
-    publishedDateTime: 2024-03-10T17:05:00Z
-    webUrl: "https://www.kcrg.com/sports/betting/2024/03/13/ucsb-vs-long-beach-state-buy-big-west-tournament-womens-college-basketball-tickets/"
-    type: article
-    provider:
-      name: ABC Kcrg  9
-      domain: kcrg.com
-    quality: 15
-    images:
-      - url: "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/v2/NIZUBJKIB5JAXF2WC5QSGIFDZM.jpg?auth=cd2ea4565ac8d10bbd972750439f5319513319c9dd7b72e329961c94293f610f&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "mQe/ae9XjEx4FCoOEaJQFrRRVhlVNcwIlBbAsUQmM2x0y8gsyld6KHY1uo8vu4uy9/Pl2S02osB/9f5dUDMWbeJ2geIIPe0L5oJeY3r82sW7/mTxY18t32Cn3eQDBRyYDmwbWO10MpUoLpWbccbG2QdhFJ/yeqrVVMlN+mvsGcBslShJZfw3iA5ZO4VvvTsqZWLTppZDK0wS9tt2X56S5F9OaOBcuuhS1WDDXbykGwdx20TwbmUqpUA6IIH0u97O170sNsYH3b9UcvJdZl+ZBgNQx0stFdG+9Pt5sLPU1HLcm+l4jBN4+nsGJo+ir2wba72+VFvJdJXhuPWWy+2gPqCZWmKV+cdArqfBEpxtDUI=;VjDlh0UsHx2LCYEyB4FNcQ=="
 ---

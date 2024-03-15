@@ -28,53 +28,65 @@ images:
     isCached: true
 
 related:
-  - title: "How work devices may evolve to keep up in the AI era"
-    excerpt: "Th neural processing unit may be a game changer, but we need the right balance in product design to deliver what consumers seek."
-    publishedDateTime: 2024-03-14T08:02:00Z
-    webUrl: "https://www.zdnet.com/article/how-work-devices-may-evolve-to-keep-up-in-the-ai-era/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-work-devices-may-evolve-to-keep-up-in-the-ai-era/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-work-devices-may-evolve-to-keep-up-in-the-ai-era/"
+  - title: "How to choose an AI-as-a-service provider"
+    excerpt: "AIaaS can help you jumpstart your AI projects, but there are some details you need to know. Here’s what to look for and five leading options to consider."
+    publishedDateTime: 2024-03-11T03:10:00Z
+    webUrl: "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.html"
+    ampWebUrl: "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
+      name: Computerworld
+      domain: computerworld.com
+    quality: 71
     images:
-      - url: "https://www.zdnet.com/a/fly/bundles/zdnetcore/images/logos/zdnet-logo-yellow.png"
-        width: 480
-        height: 480
+      - url: "https://images.idgesg.net/images/article/2024/02/dinging-service-bell-in-robot-hand-by-andrey-popov-via-shutterstock-100961475-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Bridging The Trust Gap In Workplace AI"
-    excerpt: "A key element of the AI trust gap is not so much about technology but about whether the motivations around its appeal are mutually aligned and beneficial."
-    publishedDateTime: 2024-03-12T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/12/bridging-the-trust-gap-in-workplace-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/12/bridging-the-trust-gap-in-workplace-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/12/bridging-the-trust-gap-in-workplace-ai/amp/"
+  - title: "Local tech company brings AI to TCC's career services program"
+    excerpt: "He said a lot of WriteSea's research shows that many job seekers don't know what they excel at, so this AI will act as a coach and guide them to well-matched opportunities."
+    publishedDateTime: 2024-03-11T18:07:00Z
+    webUrl: "https://www.kjrh.com/news/local-news/local-tech-company-brings-ai-to-tccs-career-services-program"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: kjrh.com
+      domain: kjrh.com
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65ef584cbe564485962092d2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/997e81f/2147483647/strip/true/crop/1674x879+0+33/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fa6%2F69%2Fc2beb16442cdaaa38fc32738afd2%2Fscreenshot-2024-03-11-at-6-00-17-pm.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Artificial Intelligence in the workplace – everything you need to know"
-    excerpt: "WORRIED that AI could take your job? You’re not the only one.  A study by investment bank Goldman Sachs suggested AI could eventually replace the equivalent of 300 million full-time roles across"
-    publishedDateTime: 2024-03-15T10:07:00Z
-    webUrl: "https://www.thesun.co.uk/money/26710366/ai-in-the-workplace-uk/"
-    ampWebUrl: "https://www.thesun.co.uk/money/26710366/ai-in-the-workplace-uk/amp/"
-    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/money/26710366/ai-in-the-workplace-uk/amp/"
+  - title: "Alchemy Pay Introduces Card as a Service for AI Analysis"
+    excerpt: "Alchemy Pay, the fiat-crypto payment service provider, introduces its Card-as-a-Service (CaaS) for AI Analysis, an AI, blockchain, FinTech firm."
+    publishedDateTime: 2024-03-14T22:53:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/03/222644-alchemy-pay-introduces-card-as-a-service-for-ai-analysis/"
     type: article
     provider:
-      name: The Sun
-      domain: thesun.co.uk
-    quality: 61
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 39
     images:
-      - url: "https://www.thesun.co.uk/wp-content/uploads/2024/02/late-night-internet-addiction-working-803827777.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
-        width: 1920
-        height: 1080
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/04/50-Dollars-Grant-Money-Cash-Spend-Pay.jpeg"
+        width: 1198
+        height: 1280
+        isCached: true
+  - title: "Enterprise hits and misses - are privacy regulations and distrust slowing innovation, and is gen AI set to disrupt IT services?"
+    excerpt: "This week - data privacy comes into focus as the data breaches roll on (this time, it's United Healthcare). Will gen AI disrupt IT services? Or is the coding impact overrated? As always, your weekly whiffs."
+    publishedDateTime: 2024-03-11T08:42:00Z
+    webUrl: "https://diginomica.com/enterprise-hits-and-misses-are-privacy-regulations-and-distrust-slowing-innovation-and-gen-ai-set"
+    ampWebUrl: "https://diginomica.com/enterprise-hits-and-misses-are-privacy-regulations-and-distrust-slowing-innovation-and-gen-ai-set?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/enterprise-hits-and-misses-are-privacy-regulations-and-distrust-slowing-innovation-and-gen-ai-set?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 33
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2013-06/forkinroad.jpg"
+        width: 424
+        height: 283
         isCached: true
 
 secured: "jKncqP2W4i5oYHyTJfgxtKmN9iWLKPLbRsqmXvtwmMICBUHf5NEDJG0X/lQQA8c8kXtYa1WMoGhHhJ5qtejEiT2PtALKV6QozD7dJDQFMxsYL6sysU5djhTpAx2e7q/zY3UTH0oWSbRymF6lHCM7aAkWWxCyivmqYj5x7n2etOzupzzOnLvlmdzEalHpj7Iskwpq4xIT77Gq/nUfoxx59L2v24Dm0nVJJESBS67THBj7vmS0YW5qBllCpAv8HYlPTJyt7dzn7W2knMQD8q3jEQMCDzPJ5Kucdupr2Dz4MTpg5TORXo43ujmkBuaBUWqL7/ApBdpk7QO2dlhi0LfbXbtpFT83EKEiEaf6BMVC9cKG9PkP2dRtUv8pRZNdtG3d0jv+PmJ2nDW7Cv7e98JZJuEij1FaT4yqdo5iLD22eiL0ceWSKkxykK+LwQh/dl6RJhWu8x03TA1RKtMiUckdRjeNHKjNKFkEdpmiqcW2JGXru3McPxee11hh0CfJxrGBUO7LTDy8FEGhFCMcY9X7Jg==;/fxSWmLzBmy/qYaMPlH0Zw=="

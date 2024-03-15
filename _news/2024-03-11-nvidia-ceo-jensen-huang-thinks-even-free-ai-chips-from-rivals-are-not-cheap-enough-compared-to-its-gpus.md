@@ -33,15 +33,6 @@ related:
         width: 1500
         height: 857
         isCached: true
-  - title: "Meta, Stanford University to join Nvidia's Jensen Huang at flagship AI conference"
-    excerpt: "Nvidia is taking over the San Jose McEnery Convention Center to delve into the company's future and how AI will fuel its ambitions."
-    publishedDateTime: 2024-03-14T20:41:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2024/03/14/nvidia-gtc-conference-preview.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 14
 
 secured: "M2o4bzcmyVp1g5zQ2OVzlA5NX9BZHKqKrm1HsOXO6Xx0rG6N7ULdxCvtnbP8ukzvtaAeHNkVeQJTdPshkAJVuwOrz1I81Sb8Y3P22yRZCywcjFnaLYHCSeSEjrkcnulHBOdiGmQ8xiH0BNyg2oSj/xpodj9k9WhLvEdvwPiKj6mzn4DWP4Bq70EYpVDPXVoOtVe64fTThuIz2Wb3P9YwP2krOdyHX9LLYA6qMULvGW0ARnxJT06BCOorsX2dkIhgjcjsRHGytVz2qzB4gOY4HXyznNoqGG3SV02T47z1gPEPu9skj0k6iNkBO/UEIlJC2y7Btc+vxTRnw+I+2pz/9OkTHg09YgJwQ8p0zr1B/Jo=;zJppNTqy4+bCNEiEIypZpA=="
 ---

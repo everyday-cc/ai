@@ -53,6 +53,20 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "An 18-karat gold Apple Vision Pro? If you have to ask how much, you probably can't afford it"
+    excerpt: "And now you can get it attached to Apple's spatial computer. The fanciness doesn't stop there, either. The 18-karat gold is out in force and makes up a special cover that hides the EyeSight display at the front of the Apple Vision Pro. Dubbed the CVR ..."
+    publishedDateTime: 2024-03-15T16:15:00Z
+    webUrl: "https://www.tweaktown.com/news/96894/an-18-karat-gold-apple-vision-pro-if-you-have-to-ask-how-much-probably-cant-afford-it/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 13
+    images:
+      - url: "https://static.tweaktown.com/news/9/6/96894_01_an-18-karat-gold-apple-vision-pro-if-you-have-to-ask-how-much-probably-cant-afford-it_full.jpg"
+        width: 1400
+        height: 800
+        isCached: true
 
 secured: "0Y7pYh2LZG8qgbsADaqOnb5AVoJVDHli7nojEJqdtVpoIhGQFZ2v0LJfft8ggibMZDUJMqVWBlByUSU+9idXzqYVAJbDnJx4DySRZWuKsJlVp7jVH+1RkhlK1+N2o9LEbyqOoPo8pwQeSUcQLccZ7KfpkLKrsx7y36n/yb55Uo6P6URB4CCFogN14dT2XbtqEwjfUtI9n4nXmkgUm4J/ZNmHyfKY7Famhs6CSB5xvpdjkoycYDhGbt4ghDmCUAtfwITEyV/qnUrx28FktG051m88wYCM5pPIUKftPInxuxtlLAup4b0ubzkmuqz7lXJd2cWcfA0M3uAZRKOAj3Mlxi32a4lrih40xWXNInXSkks=;ziRg1LamisQo7wgbiD/TZg=="
 ---
