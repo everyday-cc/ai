@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerworld.com/article/3713041/aiaas-artificial-intel
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html"
 type: article
 quality: 71
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -33,20 +33,6 @@ images:
     isCached: true
 
 related:
-  - title: "Profile Software Introduces AI.Adaptive to Enhance Digital Services"
-    excerpt: "Profile Software launches its new “AI.Adaptive” solution, which simplifies user interaction into natural language with databases and applications."
-    publishedDateTime: 2024-03-10T01:29:00Z
-    webUrl: "https://www.crowdfundinsider.com/2024/03/222437-profile-software-introduces-ai-adaptive-to-enhance-digital-services/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 41
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/01/Zoom-Warp-Speed-Blast-Artificial-Intelligence.jpeg"
-        width: 1280
-        height: 1139
-        isCached: true
   - title: "Local tech company brings AI to TCC's career services program"
     excerpt: "He said a lot of WriteSea's research shows that many job seekers don't know what they excel at, so this AI will act as a coach and guide them to well-matched opportunities."
     publishedDateTime: 2024-03-11T18:07:00Z

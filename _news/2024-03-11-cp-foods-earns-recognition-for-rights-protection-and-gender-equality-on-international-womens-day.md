@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Honoring Women's Strength with Alisha Begum's International Women's Day Recognition"
-    excerpt: "In a world where recognition often seems reserved for the loud and the visible, Alisha Begum stands as a beacon of quiet yet profound influence. As a"
-    publishedDateTime: 2024-03-11T10:19:00Z
-    webUrl: "https://menafn.com/1107960382/Honoring-Womens-Strength-with-Alisha-Begums-International-Womens-Day-Recognition"
+  - title: "Harvard Will Not Contest Faculty Group’s Petition for Official Union Recognition"
+    excerpt: "HAW-UAW workers are split into two units. The larger unit is made up of 3,100 non-tenure-track faculty in the Harvard Faculty of Arts and Sciences, Medical School, and Divinity School. The smaller unit consists of 110 workers at Harvard Law School clinics."
+    publishedDateTime: 2024-03-14T07:43:00Z
+    webUrl: "https://www.thecrimson.com/article/2024/3/14/harvard-labor-hua-election/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 18
+      name: The Harvard Crimson
+      domain: thecrimson.com
+    quality: 19
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?576323"
-        width: 444
-        height: 250
+      - url: "https://s3.amazonaws.com/thumbnails.thecrimson.com/photos/2023/12/17/145901_1367848.jpg.2000x1333_q95_crop-smart_upscale.jpg"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "8JqZmKjqOyKT8Y+2OmKQi+l3tXUNNFtlsyKnNxtBEPlAAtPKmuBg6WzA13aGX5jVdmQUT2Oh8WZ0m99oY50plbwLyxYEx8z0heiSVR9cjLVkE5ekQpRU0V+KfJUfGQUaxgbRroia83jeYXT2lKK6O3BzZFdjDE+hX5yWK5QLllr2ntWQUUkJ95EXGKR5FeukaPO+QSE53R9Y3OS8XTVDZ+zksG8EolSgk2qgRXD0Gu1kdXaGytgqz9/kRPMdAlJLPX1qxekzn+7RknWJzX5nyvTVPtbnJNQK5t45a/EpJx21dh36vIy+x7MWNjybd4qBrZwtNubqTSW00/R9W5bJVxnVyuksm6LVk91gB24pDYh5O5ua3khhXhO4afFjeqFO4H2+dWNiiGRf9iN3bCtpnrH04m+O9hNSkACsXbCF53mK0nRZxqxgoz0dXGDZ5jSXNYFVDFvdRtH7Bir0W5UiieION6ozTOWIeKTVLr5FrCbXVagUlZr7EOJmyKUnpsdr4zA8/o9Ynjg8dLvimlkC7g==;4GNAl6THYoskqqCGXsIzHQ=="

@@ -53,6 +53,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "The AI Developer Alliance looks to bring developers into the AI conversation"
+    excerpt: "“By bringing together leading developers and organizations, this alliance is paving the way for impactful advancements in AI technology, transparency and ethics.” AI’s emergence is similar to the advent of the cloud, Kent noted, with an “explosion ..."
+    publishedDateTime: 2024-03-14T09:25:00Z
+    webUrl: "https://www.sdxcentral.com/articles/analysis/the-ai-developer-alliance-looks-to-bring-developers-into-the-ai-conversation/2024/03/"
+    type: article
+    provider:
+      name: SDxCentral
+      domain: sdxcentral.com
+    quality: 16
   - title: "AI language model provides new insights into the development of brain diseases"
     excerpt: "A new AI language model identifies clinical symptoms in medical summaries and links them to brain tissue from donors of the Netherlands Brain Bank. This yields new insights into the development of individual disease progression and contributes to a better understanding of common misdiagnoses of brain diseases."
     publishedDateTime: 2024-03-12T17:15:00Z

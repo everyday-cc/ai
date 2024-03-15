@@ -24,6 +24,22 @@ images:
     height: 449
     isCached: true
 
+related:
+  - title: "SMU Chemist, Colleagues Develop Machine Learning Model To Help Study Stardust and Atomic Interactions"
+    excerpt: "The researchers developed a novel model called ANI-1xnr that's suitable for a broad range of reactive chemistry without costly refitting—a major drawback of the MLIPs currently in use, SMU said."
+    publishedDateTime: 2024-03-14T23:49:00Z
+    webUrl: "https://dallasinnovates.com/smu-chemist-colleagues-develop-machine-learning-model-to-help-study-stardust-and-atomic-interactions/"
+    type: article
+    provider:
+      name: Dallas Innovates
+      domain: dallasinnovates.com
+    quality: 24
+    images:
+      - url: "https://s24806.pcdn.co/wp-content/uploads/2024/03/SMU-Professor-Elfi-Kraka-at-center.-Photo-SMU-970x464-1.jpg"
+        width: 970
+        height: 464
+        isCached: true
+
 secured: "7SErqCXm6VbQ1gjnbw+QG+uguPw4H9XvlvihJ0MWPmj5/oUCPaN4stYfLtY/7OW7ZyyrlMgvL6M4w4ftum62+W/o+MH3bzBK0j/b8oQNhvEyldYiXtE+c0lYQib4OwAi4aUy8Z7o0C3jgaBwe64gRvfSmx9BQKpYD3tW45JwgdVcV4WCB8DLd25Ah32xmGnpQEaJb8htTl3WVz2r3YO1mv1vSwc9IYZmMJ9uVRDwmiWUaG3stXTlRKgI1L7tOCERL8v1TE8Z5NX+RbJS0ITZs6x4qabkZtSZRNdK0A9+vNNCP1mRTgW9o/Tqquru0qR6LNHfgP5rQkHUp6357jedzl7UVH9JolwFmaUjj8sUpuw=;3wjh4zcgWjyDOqyReUElUw=="
 ---
 

@@ -2,6 +2,185 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2024-02-13-automotive-industry-likely-to-continue-leading-robotics-growth-says-a3.md",
+      "title": "Automotive industry likely to continue leading robotics growth, says A3",
+      "excerpt": "The automotive industry will keep driving North American robotics adoption despite the current economic slowdown, according to A3.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/automotive-industry-continues-leading-robotics-growth-says-a3/",
+      "originalUrl": "https://www.therobotreport.com/automotive-industry-continues-leading-robotics-growth-says-a3/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2024/02/ABB_Automotive_Manufacturing.jpg",
+          "width": 770,
+          "height": 501,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T17:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-13-during-edmonds-college-talk-virologist-explains-how-ai-is-changing-gene-therapy-research.md",
+      "title": "During Edmonds College talk, virologist explains how AI is changing gene therapy research",
+      "excerpt": "If artificial intelligence can help physicians predict who is more or less likely to get a medical condition, it may also help molecular biologists predict which gene or gene",
+      "sourceUrl": null,
+      "webUrl": "https://myedmondsnews.com/2024/02/during-edmonds-college-talk-virologist-explains-how-ai-is-changing-gene-therapy-research/",
+      "originalUrl": "https://myedmondsnews.com/2024/02/during-edmonds-college-talk-virologist-explains-how-ai-is-changing-gene-therapy-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://myedmondsnews.com/wp-content/uploads/2024/02/IMG_7313.jpg",
+          "width": 1024,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T17:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "My Edmonds News",
+        "domain": "myedmondsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-12-maximizing-your-event-driven-architecture-investments-unleashing-the-power-of-apache-kafka-with-ibm-event-automation.md",
+      "title": "Maximizing your event-driven architecture investments: Unleashing the power of Apache Kafka with IBM Event Automation",
+      "excerpt": "Businesses are increasingly turning to event-driven architecture (EDA) as a strategic approach to harness real-time data.\nThe post Maximizing your event-driven architecture investments: Unleashing the power of Apache Kafka with IBM Event Automation appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/maximizing-your-event-driven-architecture-investments-unleashing-the-power-of-apache-kafka-with-ibm-event-automation/",
+      "originalUrl": "https://www.ibm.com/blog/maximizing-your-event-driven-architecture-investments-unleashing-the-power-of-apache-kafka-with-ibm-event-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blog/wp-content/uploads/2024/02/amv-textilebusinessa141011.blog-lead-space-40x21-1-1.jpg",
+          "width": 2400,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T17:46:31Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-12-the-customer-experience-evolution-todays-data-driven-real-time-discipline.md",
+      "title": "The customer experience evolution: Today’s data-driven, real-time discipline",
+      "excerpt": "The future of customer experience is bright. Providing a positive customer experience can become a competitive advantage.\nThe post The customer experience evolution: Today’s data-driven, real-time discipline appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/evolution-customer-experience/",
+      "originalUrl": "https://www.ibm.com/blog/evolution-customer-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-12T17:32:36Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-13-the-rise-of-the-bank-chief-ai-officer.md",
       "title": "The rise of the bank chief AI officer",
       "excerpt": "The escalated interest in artificial intelligence that OpenAI started over a year ago when it made its ChatGPT public has led to a relatively new C-suite role at banks: The chief AI officer.",
@@ -943,197 +1122,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-persistent-introduces-a-population-health-management-solution-with-microsoft-azures-openai-service.md",
-      "title": "Persistent Introduces a Population Health Management Solution with Microsoft Azure's OpenAI Service",
-      "excerpt": "Persistent Systems, a global leader in Digital Engineering and Enterprise Modernization, has launched a cutting-edge Generative AI-powered Population Health Management (PHM) Solution in collaboration with Microsoft.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/news/persistent-introduces-a-population-health-management-solution-with-microsoft-azures-openai-service-3690606",
-      "originalUrl": "https://www.dqindia.com/news/persistent-introduces-a-population-health-management-solution-with-microsoft-azures-openai-service-3690606",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.thepublive.com/fit-in/1200x675/dq/media/media_files/ADPiabI9MLv0MKiMzDgH.png",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/news/persistent-introduces-a-population-health-management-solution-with-microsoft-azures-openai-service-3690606",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/news/persistent-introduces-a-population-health-management-solution-with-microsoft-azures-openai-service-3690606",
-      "publishedDateTime": "2024-02-12T05:11:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-hong-kong-police-head-says-city-may-use-facial-recognition-to-maintain-national-security-fight-crime.md",
-      "title": "Hong Kong police head says city may use facial recognition to maintain national security, fight crime",
-      "excerpt": "Set of norms will be designed on the use of personal information gathered by a new network of CCTV cameras, said Commissioner of Police Raymond Siu.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/yp/discover/news/hong-kong/article/3251719/hong-kong-police-head-says-city-may-use-facial-recognition-maintain-national-security-fight-crime?module=latest&pgtype=homepage",
-      "originalUrl": "https://www.scmp.com/yp/discover/news/hong-kong/article/3251719/hong-kong-police-head-says-city-may-use-facial-recognition-maintain-national-security-fight-crime?module=latest&pgtype=homepage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_young_post/public/d8/images/canvas/2024/02/12/4a7446af-b43f-4577-854c-2fcab2fbaa02_a3f0a515.jpg?itok=ZpAUqNU3&v=1707709327",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-12T04:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-pakistan-develops-tim-tim-ai-robot-to-support-autistic-children.md",
-      "title": "Pakistan develops 'Tim Tim', AI robot to support Autistic Children",
-      "excerpt": "This innovative robot has been developed by Pakistani tech start-up 'Haprow', and this AI robot has been named ‘Tim Tim’. Haprow aims to develop such robots by using medical, health, and engineering technologies to create an inclusive and diverse environment for all people.",
-      "sourceUrl": null,
-      "webUrl": "https://dunyanews.tv/en/Technology/790972-Pakistan-develops-/'Tim-Tim/',-AI-robot-to-support-Autistic-Children-",
-      "originalUrl": "https://dunyanews.tv/en/Technology/790972-Pakistan-develops-/'Tim-Tim/',-AI-robot-to-support-Autistic-Children-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.dunyanews.tv/news/2024/February/02-12-24/news_big_images/790972_82468537.jpg",
-          "width": 752,
-          "height": 423,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://dunyanews.tv/amp/english/790972.php",
-      "cdnAmpWebUrl": "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/790972.php",
-      "publishedDateTime": "2024-02-12T04:38:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dunya News",
-        "domain": "dunyanews.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-crowd-sets-waymo-self-driving-car-on-fire-they-couldnt-even-recognize-the-vehicle.md",
-      "title": "Crowd Sets Waymo Self-Driving Car on Fire: ‘They Couldn’t Even Recognize the Vehicle’",
-      "excerpt": "A crowd in San Francisco vandalized a Waymo self-driving car carrying no passengers on Saturday night, breaking its windshield and setting it ablaze. Once firefighters got the situation under ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/waymo-fire-self-driving-car-san-francisco-vandals-1851247725",
-      "originalUrl": "https://gizmodo.com/waymo-fire-self-driving-car-san-francisco-vandals-1851247725",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/facc5f53913b22dd05684a50e8899ff4.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-11T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

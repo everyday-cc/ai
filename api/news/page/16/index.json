@@ -2,6 +2,154 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2024-03-02-us-stock-markets-close-at-record-highs-amid-continued-enthusiasm-for-ai.md",
+      "title": "US stock markets close at record highs amid continued enthusiasm for AI",
+      "excerpt": "Both the S&P 500 and the tech-dominated Nasdaq set records, with the Nasdaq passing its last peak in 2021, driven higher by gains for Facebook owner Meta and Nvidia, the leading AI chipmaker ... strategist at CFRA Research in New York.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/business/2024/mar/01/record-high-us-stock-market-nvidia-ai",
+      "originalUrl": "https://www.theguardian.com/business/2024/mar/01/record-high-us-stock-market-nvidia-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/dd523ec21e76471b1119e8dbd02c6e0a3adc83dd/0_6_3000_1799/master/3000.jpg?width=620&quality=85&auto=format&fit=max&s=507f237be7acada08ea257cdcca739f3",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/business/2024/mar/01/record-high-us-stock-market-nvidia-ai",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2024/mar/01/record-high-us-stock-market-nvidia-ai",
+      "publishedDateTime": "2024-03-01T21:56:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-02-tech-jumps-as-ai-rally-resumes-tech-roundup.md",
+      "title": "Tech Jumps as AI Rally Resumes -- Tech Roundup",
+      "excerpt": "Shares of technology companies rose as an artificial-intelligence rally gathered momentum. The Nasdaq Composite built on a closing record high",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/tech-jumps-as-ai-rally-resumes-tech-roundup-8d2b1a0a",
+      "originalUrl": "https://www.marketwatch.com/story/tech-jumps-as-ai-rally-resumes-tech-roundup-8d2b1a0a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/tech-jumps-as-ai-rally-resumes-tech-roundup-8d2b1a0a",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-jumps-as-ai-rally-resumes-tech-roundup-8d2b1a0a",
+      "publishedDateTime": "2024-03-01T21:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-02-ai-robotics-startup-attracting-675m-from-nvidia-openai-microsoft-bezos.md",
+      "title": "AI Robotics Startup Attracting $675M from Nvidia, OpenAI, Microsoft, Bezos",
+      "excerpt": "Start up robotics company Figure, founded in 2022 and based in Sunnyvale, CA, is in the process of attracting $675 million in venture funding from the likes of Amazon founder Jeff Bezos, Microsoft, Intel,",
+      "sourceUrl": null,
+      "webUrl": "https://insidehpc.com/2024/03/ai-robotics-startup-attracting-675m-from-nvidia-openai-microsoft-bezos/",
+      "originalUrl": "https://insidehpc.com/2024/03/ai-robotics-startup-attracting-675m-from-nvidia-openai-microsoft-bezos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://insidehpc.com/wp-content/uploads/2024/03/Figure-robotic-image-2-1-0324.png",
+          "width": 600,
+          "height": 299,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-01T20:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "insideHPC",
+        "domain": "insidehpc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-02-there-are-growing-calls-for-google-ceo-sundar-pichai-to-step-down.md",
       "title": "There are growing calls for Google CEO Sundar Pichai to step down",
       "excerpt": "Analysts believe Google's search business is keeping it safe for now, but that could change soon with generative AI rivals proliferating.",
@@ -1048,73 +1196,21 @@
       ]
     },
     {
-      "path": "_news/2024-03-01-googles-new-math-app-solves-nearly-any-problem-with-ai-heres-how-to-use-it.md",
-      "title": "Google's new math app solves nearly any problem with AI: Here's how to use it",
-      "excerpt": "The app itself isn't new, having debuted back in 2014 and picking up over 100 million downloads since. But it is now officially a Google app. It works on a wide range of math, from basic elementary school problems like division and multiplication to advanced math like trigonometry and calculus.",
+      "path": "_news/2024-03-01-microsoft-openai-and-nvidia-back-26bn-robot-start-up.md",
+      "title": "Microsoft, OpenAI and Nvidia back $2.6bn robot start-up",
+      "excerpt": "Microsoft, OpenAI and Nvidia are among the investors backing a Silicon Valley start-up that aims to introduce artificial intelligence-powered humanoid robots to the workforce and transform the ...",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/googles-new-math-app-solves-nearly-any-problem-with-ai-heres-how-to-use-it/",
-      "originalUrl": "https://www.zdnet.com/article/googles-new-math-app-solves-nearly-any-problem-with-ai-heres-how-to-use-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/94cd95bd3f47fdbcb491765a0aae5b578f7836ca/2024/03/01/fe417885-de71-4396-972b-9f46d7034bc6/google-photomath.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-new-math-app-solves-nearly-any-problem-with-ai-heres-how-to-use-it/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-new-math-app-solves-nearly-any-problem-with-ai-heres-how-to-use-it/",
-      "publishedDateTime": "2024-03-01T07:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-2-artificial-intelligence-ai-stocks-that-could-go-parabolic.md",
-      "title": "2 Artificial Intelligence (AI) Stocks That Could Go Parabolic",
-      "excerpt": "According to data from Grand View Research, the AI market hit close to $200 billion ... a former director of market development and spokeswoman for Facebook and sister to Meta Platforms CEO ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2024/03/01/2-artificial-intelligence-ai-stocks-that-could-go/",
-      "originalUrl": "https://www.fool.com/investing/2024/03/01/2-artificial-intelligence-ai-stocks-that-could-go/",
+      "webUrl": "https://www.irishtimes.com/business/2024/03/01/microsoft-openai-and-nvidia-back-26bn-robot-start-up/",
+      "originalUrl": "https://www.irishtimes.com/business/2024/03/01/microsoft-openai-and-nvidia-back-26bn-robot-start-up/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://g.foolcdn.com/editorial/images/766823/ai-possibilities.jpg",
-          "width": 4000,
-          "height": 2670,
+          "url": "https://www.irishtimes.com/resizer/GtYLdGB84MO0wgbTs037B2mBCaY=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/MOCSF4CP7DKKROJPZKPMLJTK5Y.jpg",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1124,55 +1220,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-01T06:45:00Z",
+      "publishedDateTime": "2024-03-01T08:42:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-openai-collaborates-with-robotics-firm-figure-ai-to-share-next-gen-ai-models-for-humanoids.md",
-      "title": "OpenAI collaborates with robotics firm Figure AI, to share next-gen AI models for humanoids",
-      "excerpt": "The collaboration will combine OpenAI’s research with Figure’s deep understanding of robotics both hardware and software.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/technology/artificial-intelligence/openai-figure-ai-robotics-ai-models-9189602/",
-      "originalUrl": "https://indianexpress.com/article/technology/artificial-intelligence/openai-figure-ai-robotics-ai-models-9189602/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/technology/artificial-intelligence/openai-figure-ai-robotics-ai-models-9189602/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/openai-figure-ai-robotics-ai-models-9189602/lite/",
-      "publishedDateTime": "2024-03-01T05:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
+        "name": "The Irish Times",
+        "domain": "irishtimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1183,51 +1235,8 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-buy-rating-for-ge-healthcare-ai-innovation-and-financial-discipline-drive-positive-outlook.md",
-      "title": "Buy Rating for GE Healthcare: AI Innovation and Financial Discipline Drive Positive Outlook",
-      "excerpt": "Joanne Wuensch has given his Buy rating due to a combination of factors that suggest a positive outlook for GE Healthcare Technologies Inc. The company’s innovative use of Artificial Intelligence (AI) has been a pivotal point, particularly with its Air ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/buy-rating-for-ge-healthcare-ai-innovation-and-financial-discipline-drive-positive-outlook-1033123571",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/buy-rating-for-ge-healthcare-ai-innovation-and-financial-discipline-drive-positive-outlook-1033123571",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-01T05:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI",
-        "Meta AI"
+        "Microsoft AI"
       ]
     }
   ],

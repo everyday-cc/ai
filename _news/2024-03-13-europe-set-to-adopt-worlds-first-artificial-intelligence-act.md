@@ -130,6 +130,15 @@ related:
       name: AOL
       domain: aol.com
     quality: 17
+  - title: "European Parliament passes landmark Artificial Intelligence Act for transparency and copyright regulations"
+    excerpt: "Artificial Intelligence Act gets approved with a grand majority in the EU parliament with provisions to safeguard human rights."
+    publishedDateTime: 2024-03-14T12:55:00Z
+    webUrl: "https://www.medianama.com/2024/03/223-eu-parliament-passes-landmark-artificial-intelligence-act-for-transparency-and-copyright/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 1
 
 secured: "nU3DAvwmo5wNQhkzWKYkMic285veiXZQ2pOYvBWyOkPTi3oe+Fs3r88DAgUPEfdvtGI3dYCFqMC3t3AzOnMkCug1jj+t5xxQ+Am7sJ5aWz7GqKC3Nc8OlLqaPhm4WSh66uqQqcbkhYt4JgLO78QTgHSG3yR4QvnPjZZa8TUmCqp8KsHwISD6gB7pm6VAHGXcBFyWS6T9bnJuE4BX4RmbxrixpjqiooCPaAPABNs01YK5VKf7EGkOYMUrk7Rc87vpii3JmWiiff9khmKj/BabQt7ADHIVBeitRxIfKIaE6elOqhu1gBKU2C4jNX/gd6VwNrshTQyODEKaeC9DqB+kgB0XKQGQTeYYuph9U0LaIY4=;7XtfCzq2FTLpSaXRgMu+pQ=="
 ---

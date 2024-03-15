@@ -60,6 +60,20 @@ related:
       name: IBM
       domain: ibm.com
     quality: 91
+  - title: "Snowflake and Landing AI combine forces to tackle unstructured data challenges with computer vision"
+    excerpt: "Snowflake partners with Landing AI to integrate advanced computer vision capabilities into its Data Cloud, unlocking new possibilities for enterprises to harness the potential of visual data across industries."
+    publishedDateTime: 2024-03-14T21:17:00Z
+    webUrl: "https://venturebeat.com/ai/snowflake-and-landing-ai-combine-forces-to-tackle-unstructured-data-challenges-with-computer-vision/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 70
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/03/nuneybits_Vector_art_of_a_laptop_with_a_large_snowflake_on_the__2dc9489e-98be-4702-95a4-9231caa80f8b-transformed.webp?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
 
 secured: "0z3YrNhusB0C7VTY7dyqV3dQJz3iqBlndF0ufYSe7xcIMmW0U0nQ4FA7MILlBWFjDjE/oE5vOpsJQLV2VMexiihdDc/fULXVjgtoy1XrxMk6K0ex8w6UpaTLjbvoKIxGCw766H4yDbk+dehxqd1IgVLiprggnws7Xl0YOjde2+zO1QY5mZXfdmcegcLQgHMJtw/IdB8bl0nGVaIyfz9IT6RgVcA1lnHuWdAQ3Gnbp9SpfMoQ960krEfCjed2P8r9ssJg2tPBg+TCsi9YibATJsjlTBe8sJvQQhcQWD9hbNz2EK62gLYy8gA4/1IpiBgm/fpvSuuauUzUs6t2RVrVhDTFNWpWzISs74wNPBGJCIg=;s5iVkcK+8RFV/BK05HZw4w=="
 ---

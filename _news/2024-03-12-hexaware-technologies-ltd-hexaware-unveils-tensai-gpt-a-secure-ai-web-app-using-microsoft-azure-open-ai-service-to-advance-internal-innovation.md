@@ -36,18 +36,18 @@ related:
         height: 450
         isCached: true
   - title: "MAXHUB to Build Advanced AI Solutions with Microsoft Azure Cloud to Drive Global Business Growth"
-    excerpt: "MAXHUB will harness the power of Azure to significantly amplify its international business growth and further AI technology advancements. Amidst expanding global business horizons, MAXHUB integrates with Microsoft Azure to empower itself by meeting the ..."
-    publishedDateTime: 2024-03-14T08:00:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/maxhub-to-build-advanced-ai-solutions-with-microsoft-azure-cloud-to-drive-global-business-growth-302089144.html"
+    excerpt: "GUANGZHOU, China, March 14, 2024 /PRNewswire/ -- MAXHUB, a leading provider of collaborative communication and interactive display solutions, proudly announces it will integrate Microsoft Azure technology. MAXHUB will harness the power of Azure to significantly amplify its international business growth and further AI technology advancements."
+    publishedDateTime: 2024-03-14T09:25:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-maxhub-build-advanced-ai-solutions-with-microsoft-azure-/2024/03/14/9978125.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
+      name: TMCnet
+      domain: tmcnet.com
     quality: 56
     images:
-      - url: "https://mma.prnewswire.com/media/2362485/Microsoft_CVTE__MAXHUB_s_parent_company__sign_agreement.jpg?p=facebook"
-        width: 1986
-        height: 1040
+      - url: "https://mma.prnewswire.com/media/2362621/Microsoft_CVTE__MAXHUB_s_parent_company__sign_agreement.jpg"
+        width: 400
+        height: 258
         isCached: true
   - title: "US pushes to weaken international human rights treaty on use of AI software"
     excerpt: "The Council of Europe, of which the US is an observer, is drafting a treaty that will call on its member states to ensure that AI systems respect international obligations to protect human rights."

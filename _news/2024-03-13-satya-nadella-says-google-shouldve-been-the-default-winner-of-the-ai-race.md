@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/satya-nadella-google-default-winner-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/satya-nadella-google-default-winner-ai-race-microsoft-2024-3?amp"
 type: article
 quality: 84
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Satya Nadella Says Google Should Have Been ‘The Default Winner In The AI Race’ But…"
+    excerpt: "On a recent podcast, Microsoft CEO Satya Nadella quipped that Sundar Pichai-led Silicon Valley giant Google should have been the de-facto winner of the AI race. Speaking at the In Good Company podcast by Norges Bank Investment Management,"
+    publishedDateTime: 2024-03-14T05:44:00Z
+    webUrl: "https://in.mashable.com/tech/71354/satya-nadella-says-google-should-have-been-the-default-winner-in-the-ai-race-but"
+    type: article
+    provider:
+      name: in.mashable
+      domain: mashable.com
+    quality: 63
+    images:
+      - url: "https://sm.mashable.com/mashable_in/seo/6/69782/69782_93ux.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Why Satya Nadella thinks Google should have been a 'winner' in AI"
     excerpt: "Satya Nadella believes Google should have been the 'default winner' in AI. Gemini faces criticism for image generation, swinging between underrepresen"
     publishedDateTime: 2024-03-14T03:23:00Z

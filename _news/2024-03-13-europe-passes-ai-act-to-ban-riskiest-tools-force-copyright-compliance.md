@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/europe-passes-ai-act-to-ban-riskiest-to
 webUrl: "https://www.pcmag.com/news/europe-passes-ai-act-to-ban-riskiest-tools-force-copyright-compliance"
 type: article
 quality: 67
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -135,6 +135,15 @@ related:
       name: Deadline.com
       domain: deadline.com
     quality: 17
+  - title: "European Parliament passes landmark Artificial Intelligence Act for transparency and copyright regulations"
+    excerpt: "Artificial Intelligence Act gets approved with a grand majority in the EU parliament with provisions to safeguard human rights."
+    publishedDateTime: 2024-03-14T12:55:00Z
+    webUrl: "https://www.medianama.com/2024/03/223-eu-parliament-passes-landmark-artificial-intelligence-act-for-transparency-and-copyright/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 1
 
 secured: "bJNvNM0dcO9bRFX+lzNGI9daqECREKuKhdnYiYTi483KLOHFDwEY2zRhiAMqk8RItK2hQFG7MmACWlWyvnPHFZUzGyZmIAEa5xjJ7Yz6NkIJBYbDQI4HD4Y2WkgeFiPE3JKfJ0Rzw4hLjNKRi+AjLaHRTrrSeIF7tnjtoI9qsdgOU5i3PqQ6HklKb4aqZS7E7YID1wbS9hu5w7/xAweJRKfJfaJO97jNmWxTj4n4TrO29NGAxeryMS5yU/Wl43CMo/DxlOt5NK4ZQcfRNDFxxcHCHwITNDa4wBD4hEnXBR3ZzN+AGBZTfilxu6/8ESta7ZJqItloVGk1gbA9hWrGDPoizFiFjy64c+zPF72uemqYmah2YIuQox9OD0xGnLT0ReVzjqXeEQB/9TXT6U/cPbOoXo22aHR50RV1c6dJ5wvFx+4yhw73f2IxBhr/IjvGHAzJlzysaiTFMzCNKbqI0H7dOz2BsCmEHyRcEHgaOdf3ygt9NbaQmubaYugwq1TUU57BQYuNEx0EvexlIJpk5w==;FX0SILRFWU5SM4j4/m22MA=="
 ---

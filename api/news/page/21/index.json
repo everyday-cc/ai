@@ -2,6 +2,188 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2024-02-28-is-it-too-late-to-buy-soundhound-ai-stock-now.md",
+      "title": "Is It Too Late to Buy SoundHound AI Stock Now?",
+      "excerpt": "SoundHound AI develops voice-based recognition software, a market the company estimates is worth $160 billion in annual revenues. Nvidia is a small investor in SoundHound AI, a move that may not ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/02/28/is-it-too-late-to-buy-soundhound-ai-stock-now/",
+      "originalUrl": "https://www.fool.com/investing/2024/02/28/is-it-too-late-to-buy-soundhound-ai-stock-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/766726/amazon-alexa-voice-remote-being-used-by-person-on-tv.png",
+          "width": 2000,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T09:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-deepsig-announces-commercial-release-of-industrys-first-neural-receiver-software-for-open-ran-5g-networks.md",
+      "title": "DeepSig Announces Commercial Release of Industry's First Neural Receiver Software for Open RAN 5G Networks",
+      "excerpt": "This product milestone marks the launch of the industry's first 5G carrier-grade neural receiver and redefines how the physical layer in wireless networks is implemented and optimized using Artificial Intelligence/Machine Learning (AI/ML). This press ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2024-02/61528897-deepsig-announces-commercial-release-of-industry-s-first-neural-receiver-software-for-open-ran-5g-networks-004.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2024-02/61528897-deepsig-announces-commercial-release-of-industry-s-first-neural-receiver-software-for-open-ran-5g-networks-004.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T08:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-nvidia-is-still-hot-but-these-2-artificial-intelligence-ai-stocks-could-fizzle-out.md",
+      "title": "Nvidia Is Still Hot, but These 2 Artificial Intelligence (AI) Stocks Could Fizzle Out",
+      "excerpt": "C3.ai has a catchy ticker symbol, but its business model has serious flaws. Mobileye is a top play on driverless cars, but it faces a tough cyclical slowdown. That first-mover's advantage lit a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/02/28/nvidia-still-hot-artificial-intelligence-ai-stock/",
+      "originalUrl": "https://www.fool.com/investing/2024/02/28/nvidia-still-hot-artificial-intelligence-ai-stock/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/766711/android-head-shattering.jpg",
+          "width": 2000,
+          "height": 1500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T05:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-mc-explains-all-about-microsoft-mistral-ai-deal-and-why-it-has-got-eu-worried.md",
+      "title": "MC Explains: All about Microsoft-Mistral AI deal and why it has got EU worried",
+      "excerpt": "Launched in May 2023 byformer Google DeepMind and Meta researchers Arthur Mensch, Timothee Lacroix, and Guillaume Lample, the company garnered major attention even before its first product. One of the most enduring pieces of financial advice is to never ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/technology/mc-explains-all-about-microsoft-mistral-ai-deal-and-why-it-has-got-eu-worried-12366191.html",
+      "originalUrl": "https://www.moneycontrol.com/news/technology/mc-explains-all-about-microsoft-mistral-ai-deal-and-why-it-has-got-eu-worried-12366191.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2023/06/Mistral-AI.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/technology/mc-explains-all-about-microsoft-mistral-ai-deal-and-why-it-has-got-eu-worried-12366191.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/mc-explains-all-about-microsoft-mistral-ai-deal-and-why-it-has-got-eu-worried-12366191.html/amp",
+      "publishedDateTime": "2024-02-28T04:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-28-enkrypt-ai-raises-235m-to-build-a-visibility-and-security-layer-for-gen-ai.md",
       "title": "Enkrypt AI raises $2.35M to build a visibility and security layer for Gen AI",
       "excerpt": "Enkrypt AI stands apart by merging threat detection, privacy, and compliance into a comprehensive toolkit ensuring business adoption of LLMs",
@@ -1001,196 +1183,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-please-include-csiro-ai-and-australia-in-the-title-and-any-other-relevant-brands-if-it-makes-sense.md",
-      "title": "Please include CSIRO, AI, and Australia in the Title and any other relevant brands if it makes sense.",
-      "excerpt": "Australia’s CSIRO, with Google and Stone & Chalk, has launched a $500,000 competition to support the development of AI apps in Australia.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/csiro-ai-commercialisation-program-australia/",
-      "originalUrl": "https://www.techrepublic.com/article/csiro-ai-commercialisation-program-australia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.techrepublic.com/uploads/2024/02/AdobeStock_625988548.jpeg",
-          "width": 1400,
-          "height": 784,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-27T16:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-educators-teaching-ai-literacy-to-students-should-include-ethics-in-their-lesson-plans-scholars-say.md",
-      "title": "Educators teaching AI literacy to students should include ethics in their lesson plans, scholars say",
-      "excerpt": "Assertions about expanding the use of artificial intelligence are typically rooted in one of two schools of thought: \"Be ahead of the curve,\" or, \"Don't fix what isn't broken.\" Whichever side of the coin someone is on, it's clear that the rapidly emerging ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-literacy-ethics-teaching-students-educators-scholars-2024-2",
-      "originalUrl": "https://www.businessinsider.com/ai-literacy-ethics-teaching-students-educators-scholars-2024-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65d8eb23ce7f1785b2e38c28?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-literacy-ethics-teaching-students-educators-scholars-2024-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-literacy-ethics-teaching-students-educators-scholars-2024-2?amp",
-      "publishedDateTime": "2024-02-27T16:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-27-here-come-the-killer-robots.md",
-      "title": "Here Come the Killer Robots",
-      "excerpt": "While we’ve had versions of autonomous weapons systems for decades, the latest advances in AI have made today’s killer robots more sophisticated. Popular autonomous weapons systems include drones that can fly themselves, autonomous drone swarms, and AI targeting systems that automatically choose their targets.",
-      "sourceUrl": null,
-      "webUrl": "https://cacm.acm.org/news/here-come-the-killer-robots/",
-      "originalUrl": "https://cacm.acm.org/news/here-come-the-killer-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-27T15:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "acm.org",
-        "domain": "acm.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-27-alibaba-leads-record-deal-to-mint-25-billion-china-ai-firm.md",
-      "title": "Alibaba Leads Record Deal to Mint $2.5 Billion China AI Firm",
-      "excerpt": "Alibaba previously joined a $300 million-plus round for Zhipu in 2023 alongside longtime rival Tencent. The company is trying to revive the cloud business and integrate AI and its inhouse model — Tongyi Qianwen — across a sprawling business that also spans entertainment.",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/6835581/alibaba-moonshot-ai-investment/",
-      "originalUrl": "https://time.com/6835581/alibaba-moonshot-ai-investment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.time.com/wp-content/uploads/2024/02/GettyImages-1885112615.jpg?quality=85",
-          "width": 5160,
-          "height": 3360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-27T15:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2024-01-08-oxfordshire-based-firm-oxa-designs-the-ai-behind-self-driving-cars.md",
+      "title": "Oxfordshire based firm Oxa designs the AI behind self-driving cars",
+      "excerpt": "The latest in automated driving technology has been on display ... It designs the software, the artificial intelligence (AI), which it claims could be fitted to any vehicle. Mr Newman said ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/oxfordshire-based-firm-oxa-designs-062143491.html",
+      "originalUrl": "https://www.aol.com/oxfordshire-based-firm-oxa-designs-062143491.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_bbc_articles_618/2ac9bcc405062d103af2cfae2787aca3",
+          "width": 976,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-08T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-08-waymos-robotaxis-head-for-the-highway.md",
       "title": "Waymo’s robotaxis head for the highway",
       "excerpt": "After several years of testing its autonomous vehicles on city streets without a human engineer behind the wheel, Waymo will send its fully driverless cars onto freeways for the first time.",
@@ -1333,50 +1376,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-12-18-top-10-artificial-intelligence-stories-of-2023.md",
-      "title": "Top 10 artificial intelligence stories of 2023",
-      "excerpt": "Arguably the biggest thing to happen in artificial intelligence (AI) this year has been the hype surrounding generative AI (GenAI) models such as ChatGPT. This has pushed AI to the forefront of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/366562293/Top-10-artificial-intelligence-stories-of-2023",
-      "originalUrl": "https://www.computerweekly.com/news/366562293/Top-10-artificial-intelligence-stories-of-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ttgtmedia.com/visuals/ComputerWeekly/HeroImages/AI-robot-human-computer-interaction-adobe.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-18T10:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI",
         "AI in Autos"
       ]

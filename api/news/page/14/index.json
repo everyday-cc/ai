@@ -2,6 +2,153 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2024-03-05-changing-the-game-liquid-neural-networks-and-tennis.md",
+      "title": "Changing The Game – Liquid Neural Networks – And Tennis",
+      "excerpt": "Those of us with a front row seat are seeing something else, too – new forms of neural nets that do a lot more with a smaller and more compact build….",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnwerner/2024/03/04/changing-the-game--liquid-neural-networks--and-tennis/",
+      "originalUrl": "https://www.forbes.com/sites/johnwerner/2024/03/04/changing-the-game--liquid-neural-networks--and-tennis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e1dc5bb28e9076935a7435/0x0.png?format=png&height=900&width=1600&fit=bounds",
+          "width": 1224,
+          "height": 812,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2024/03/04/changing-the-game--liquid-neural-networks--and-tennis/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2024/03/04/changing-the-game--liquid-neural-networks--and-tennis/amp/",
+      "publishedDateTime": "2024-03-04T17:11:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-nvidia-and-these-tech-giants-just-invested-in-this-artificial-intelligence-ai-and-robotics-start-up.md",
+      "title": "Nvidia and These Tech Giants Just Invested in This Artificial Intelligence (AI) and Robotics Start-Up",
+      "excerpt": "In today's video, I discuss updates impacting a recent investment made by Nvidia (NVDA 3.60%) and other tech giants. Check out the short video to learn more, consider subscribing, and click the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2024/03/04/nvidia-and-these-tech-giants-just-invested-in-this/",
+      "originalUrl": "https://www.fool.com/investing/2024/03/04/nvidia-and-these-tech-giants-just-invested-in-this/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/768008/nvidia-headquarters-with-nvidia-sign-in-front.png",
+          "width": 2000,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-04T17:10:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-04-how-to-become-an-ai-enterprise.md",
+      "title": "How to become an AI+ enterprise",
+      "excerpt": "An AI+ enterprise innovates with AI as the primary focus, understanding that AI is fundamental to the entire business.\nThe post How to become an AI+ enterprise appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/how-to-become-an-ai-enterprise/",
+      "originalUrl": "https://www.ibm.com/blog/how-to-become-an-ai-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-04T17:05:57Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-05-the-best-roomba-deals-to-shop-for-spring-cleaning-save-up-to-42-on-robot-vacuums-and-mops.md",
       "title": "The Best Roomba Deals to Shop for Spring Cleaning: Save Up to 42% on Robot Vacuums and Mops",
       "excerpt": "Roombas are up to 50% off just in time for spring cleaning. Shop the best robot vacuum deals before they're gone.",
@@ -1037,135 +1184,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-04-man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd.md",
-      "title": "Man arrested for trying to steal self-driving Waymo car: LAPD",
-      "excerpt": "A man was arrested after he allegedly tried to steal a to steal a self-driving taxi in downtown Los Angeles on Saturday night. The Los Angeles Police Department said in a statement that Vincent Maurice Jones, 33, got into the driver's seat of the Waymo ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcphiladelphia.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3792380/",
-      "originalUrl": "https://www.nbcphiladelphia.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3792380/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nbcphiladelphia.com/2023/10/107298753-1694465568858-gettyimages-1247366993-1257451-fi-waymo-self-driving-car-0495-ajs.jpeg?quality=85&strip=all&resize=1200%2C675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcphiladelphia.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3792380/?amp=1",
-      "cdnAmpWebUrl": "https://www-nbcphiladelphia-com.cdn.ampproject.org/c/s/www.nbcphiladelphia.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3792380/?amp=1",
-      "publishedDateTime": "2024-03-04T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC 10 Philadelphia",
-        "domain": "nbcphiladelphia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-04-team-naver-showcases-k-tech-at-leap-unveiling-the-worlds-first-web-platform-enabled-os-for-robotics.md",
-      "title": "Team NAVER Showcases \"K-Tech\" at LEAP, Unveiling the World's First Web Platform-enabled OS for Robotics",
-      "excerpt": "SEONGNAM, South Korea, March 5, 2024 /PRNewswire/ -- Team NAVER will attend the global tech exhibition LEAP 2024 in Saudi Arabia, showcasing its world-class technologies that are laying the groundwork for its global expansion.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2024/03/04/9972383.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2024/03/04/9972383.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2354351/LEAP_2024.jpg",
-          "width": 400,
-          "height": 279,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-04T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-04-the-marthas-vineyard-times-is-using-ai-to-translate-articles-into-portuguese.md",
-      "title": "The Martha’s Vineyard Times is using AI to translate articles into Portuguese",
-      "excerpt": "a company that uses AI to translate webpages from English to other languages. While there are fears in the media industry that AI could replace writers, the initiative at the Times is an example ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bostonglobe.com/2024/03/04/business/marthas-vineyard-times-is-using-ai-translate-articles-into-portuguese/",
-      "originalUrl": "https://www.bostonglobe.com/2024/03/04/business/marthas-vineyard-times-is-using-ai-translate-articles-into-portuguese/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/YvcDD-fygSvTTWlfDlF83qmpGLk=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/GLS6THFOKQI6THHI2IU4VW36Q4.jpg",
-          "width": 506,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-04T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Boston Globe",
-        "domain": "bostonglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -2,6 +2,135 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2024-03-04-man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd.md",
+      "title": "Man arrested for trying to steal self-driving Waymo car: LAPD",
+      "excerpt": "A man was arrested after he allegedly tried to steal a to steal a self-driving taxi in downtown Los Angeles on Saturday night. The Los Angeles Police Department said in a statement that Vincent Maurice Jones, 33, got into the driver's seat of the Waymo ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcphiladelphia.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3792380/",
+      "originalUrl": "https://www.nbcphiladelphia.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3792380/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nbcphiladelphia.com/2023/10/107298753-1694465568858-gettyimages-1247366993-1257451-fi-waymo-self-driving-car-0495-ajs.jpeg?quality=85&strip=all&resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcphiladelphia.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3792380/?amp=1",
+      "cdnAmpWebUrl": "https://www-nbcphiladelphia-com.cdn.ampproject.org/c/s/www.nbcphiladelphia.com/news/national-international/man-arrested-for-trying-to-steal-self-driving-waymo-car-lapd/3792380/?amp=1",
+      "publishedDateTime": "2024-03-04T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC 10 Philadelphia",
+        "domain": "nbcphiladelphia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-04-team-naver-showcases-k-tech-at-leap-unveiling-the-worlds-first-web-platform-enabled-os-for-robotics.md",
+      "title": "Team NAVER Showcases \"K-Tech\" at LEAP, Unveiling the World's First Web Platform-enabled OS for Robotics",
+      "excerpt": "SEONGNAM, South Korea, March 5, 2024 /PRNewswire/ -- Team NAVER will attend the global tech exhibition LEAP 2024 in Saudi Arabia, showcasing its world-class technologies that are laying the groundwork for its global expansion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2024/03/04/9972383.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2024/03/04/9972383.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/2354351/LEAP_2024.jpg",
+          "width": 400,
+          "height": 279,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-04T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-04-the-marthas-vineyard-times-is-using-ai-to-translate-articles-into-portuguese.md",
+      "title": "The Martha’s Vineyard Times is using AI to translate articles into Portuguese",
+      "excerpt": "a company that uses AI to translate webpages from English to other languages. While there are fears in the media industry that AI could replace writers, the initiative at the Times is an example ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bostonglobe.com/2024/03/04/business/marthas-vineyard-times-is-using-ai-translate-articles-into-portuguese/",
+      "originalUrl": "https://www.bostonglobe.com/2024/03/04/business/marthas-vineyard-times-is-using-ai-translate-articles-into-portuguese/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/YvcDD-fygSvTTWlfDlF83qmpGLk=/506x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/GLS6THFOKQI6THHI2IU4VW36Q4.jpg",
+          "width": 506,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-04T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Boston Globe",
+        "domain": "bostonglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-04-man-arrested-after-trying-to-steal-a-self-driving-taxi-in-los-angeles.md",
       "title": "Man arrested after trying to steal a self-driving taxi in Los Angeles",
       "excerpt": "A Waymo employee used the car's remote communication system to order the suspect out of the vehicle. When he refused, the employee called police.",
@@ -1050,154 +1179,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-02-us-stock-markets-close-at-record-highs-amid-continued-enthusiasm-for-ai.md",
-      "title": "US stock markets close at record highs amid continued enthusiasm for AI",
-      "excerpt": "Both the S&P 500 and the tech-dominated Nasdaq set records, with the Nasdaq passing its last peak in 2021, driven higher by gains for Facebook owner Meta and Nvidia, the leading AI chipmaker ... strategist at CFRA Research in New York.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/business/2024/mar/01/record-high-us-stock-market-nvidia-ai",
-      "originalUrl": "https://www.theguardian.com/business/2024/mar/01/record-high-us-stock-market-nvidia-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/dd523ec21e76471b1119e8dbd02c6e0a3adc83dd/0_6_3000_1799/master/3000.jpg?width=620&quality=85&auto=format&fit=max&s=507f237be7acada08ea257cdcca739f3",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/business/2024/mar/01/record-high-us-stock-market-nvidia-ai",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2024/mar/01/record-high-us-stock-market-nvidia-ai",
-      "publishedDateTime": "2024-03-01T21:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-02-tech-jumps-as-ai-rally-resumes-tech-roundup.md",
-      "title": "Tech Jumps as AI Rally Resumes -- Tech Roundup",
-      "excerpt": "Shares of technology companies rose as an artificial-intelligence rally gathered momentum. The Nasdaq Composite built on a closing record high",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/tech-jumps-as-ai-rally-resumes-tech-roundup-8d2b1a0a",
-      "originalUrl": "https://www.marketwatch.com/story/tech-jumps-as-ai-rally-resumes-tech-roundup-8d2b1a0a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/tech-jumps-as-ai-rally-resumes-tech-roundup-8d2b1a0a",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tech-jumps-as-ai-rally-resumes-tech-roundup-8d2b1a0a",
-      "publishedDateTime": "2024-03-01T21:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-02-ai-robotics-startup-attracting-675m-from-nvidia-openai-microsoft-bezos.md",
-      "title": "AI Robotics Startup Attracting $675M from Nvidia, OpenAI, Microsoft, Bezos",
-      "excerpt": "Start up robotics company Figure, founded in 2022 and based in Sunnyvale, CA, is in the process of attracting $675 million in venture funding from the likes of Amazon founder Jeff Bezos, Microsoft, Intel,",
-      "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/2024/03/ai-robotics-startup-attracting-675m-from-nvidia-openai-microsoft-bezos/",
-      "originalUrl": "https://insidehpc.com/2024/03/ai-robotics-startup-attracting-675m-from-nvidia-openai-microsoft-bezos/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidehpc.com/wp-content/uploads/2024/03/Figure-robotic-image-2-1-0324.png",
-          "width": 600,
-          "height": 299,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-01T20:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

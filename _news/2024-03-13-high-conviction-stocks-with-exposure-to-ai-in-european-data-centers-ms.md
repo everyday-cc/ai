@@ -131,6 +131,15 @@ related:
       name: Deadline.com
       domain: deadline.com
     quality: 17
+  - title: "European Parliament passes landmark Artificial Intelligence Act for transparency and copyright regulations"
+    excerpt: "Artificial Intelligence Act gets approved with a grand majority in the EU parliament with provisions to safeguard human rights."
+    publishedDateTime: 2024-03-14T12:55:00Z
+    webUrl: "https://www.medianama.com/2024/03/223-eu-parliament-passes-landmark-artificial-intelligence-act-for-transparency-and-copyright/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 1
 
 secured: "t9Fnop5HMN8CkxGG17Z0JEgS0n0Y6RC5341lvQdgj/VQxGQBSmH2F2t8eyUID9Rml3+QKBwWPB++k+ncFrfKBB0J7zAYyRnh8SELzrgGeiccv34NrsfjSroV/xXPMIglmq/3n2saHvrZge2Gvxb60D4gnmiGmtykjUoIKDDZ1I5EwDZj6yzK5sOWw3Gj/3q0z9dqJtz90pN04Rb7kEYbZUgSl7uGqi/Rd8E6OGdmngdNQb6kUJyQWgTLAzG58Jg6EHokF+wRumZVAq0N7/PVuSr2gRZFzxhvCde04cPvibADHCp08YCgM/pOUFxZ+JQYTCj7qJXSyojqNAfFEt6vp40H4/1h7XuFzFFZO7wbeh1tiPtMEHi9mk0QyXNJAZk/SaQGTrbY3AF/nOiM8h4qWBjxNZ7JczqsyhawRNAjE77dnWdTnC3b9i4zOz1HLqbPpHKDIv2uLpL7XiezDcdzxEiKmZgMJmw3wdYixHuL4M4ppFteFEvCwjdJOiA00s1oCYqiIF/4kQudcruIyGo9sA==;Iq42PhEpkdyPC8UREdNu0g=="
 ---

@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Profile Software Introduces AI.Adaptive to Enhance Digital Services"
-    excerpt: "Profile Software launches its new “AI.Adaptive” solution, which simplifies user interaction into natural language with databases and applications."
-    publishedDateTime: 2024-03-10T01:29:00Z
-    webUrl: "https://www.crowdfundinsider.com/2024/03/222437-profile-software-introduces-ai-adaptive-to-enhance-digital-services/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 41
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/01/Zoom-Warp-Speed-Blast-Artificial-Intelligence.jpeg"
-        width: 1280
-        height: 1139
-        isCached: true
   - title: "Alchemy Pay Introduces Card as a Service for AI Analysis"
     excerpt: "Alchemy Pay, the fiat-crypto payment service provider, introduces its Card-as-a-Service (CaaS) for AI Analysis, an AI, blockchain, FinTech firm."
     publishedDateTime: 2024-03-14T22:53:00Z

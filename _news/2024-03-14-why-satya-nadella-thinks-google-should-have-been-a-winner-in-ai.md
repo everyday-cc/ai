@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Satya Nadella Says Google Should Have Been ‘The Default Winner In The AI Race’ But…"
+    excerpt: "On a recent podcast, Microsoft CEO Satya Nadella quipped that Sundar Pichai-led Silicon Valley giant Google should have been the de-facto winner of the AI race. Speaking at the In Good Company podcast by Norges Bank Investment Management,"
+    publishedDateTime: 2024-03-14T05:44:00Z
+    webUrl: "https://in.mashable.com/tech/71354/satya-nadella-says-google-should-have-been-the-default-winner-in-the-ai-race-but"
+    type: article
+    provider:
+      name: in.mashable
+      domain: mashable.com
+    quality: 63
+    images:
+      - url: "https://sm.mashable.com/mashable_in/seo/6/69782/69782_93ux.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "GRQsJnmo0pgWi9VJv1dI69DFzFgoQ6qp/nefBV5t7rnAyHpmGGU3HW1yfiKJWSsyw4HQnONDZ6BNeyIfuT470bJBy1PZSze5e/5FV+W1WkLSTjKd5GpdvYgBQ6rZTaBe5b2zZQM5Zj9xsexoP97VmnEcujGdd50LfE/+lfzSGZV9fZw8cm4adDhWKVjHoTB2Slxir/7e63W9goAzhkHHchSSAGAqfFrvHIrA8NE3E8D/EAzMc0dNnXf2ezopTdsNp9CVkVVL/Q24TlpibEck5Oh1WbvH5sKgCNwhMtDPNRf1yEKjDBXuBahttOhnbFmyH9cozkDs38Kuvhs+89G+13+msH3/bU1tjvMakPwiQmbi0ewWflQoeR6IWOEj7NGjUXKZQhjHix1sEDEs5tg+n4z9SVhu2ejkMHMAOc+F4VGYNfjd8L1t922m980idf5j9QKGgKHKjvzZjgr3But+9dpg1DGxpXw50gudDWu2/m7iHgJO2y+7Al8OO98cPlcUDL2wg1TK0Y8yKAOHKYQ43A==;zdKB+b67oS+CLvkiDsxsEQ=="
 ---

@@ -2,6 +2,50 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-12-01-artificial-intelligence-who-are-the-leaders-in-self-driving-neural-networks-for-the-automotive-industry.md",
+      "title": "Artificial intelligence: who are the leaders in self-driving neural networks for the automotive industry?",
+      "excerpt": "The automotive industry continues to be a hotbed of patent innovation. Self-driving neural networks have become more accurate and reliable due to advances in computing power, data availability, artificial intelligence (AI) research,",
+      "sourceUrl": null,
+      "webUrl": "https://www.just-auto.com/data-insights/innovators-ai-self-driving-neural-networks-automotive/",
+      "originalUrl": "https://www.just-auto.com/data-insights/innovators-ai-self-driving-neural-networks-automotive/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.just-auto.com/wp-content/uploads/sites/30/2023/11/Auto_AI_self-driving-neural-networks.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-01T10:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Just Auto",
+        "domain": "just-auto.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-12-01-the-macroeconomics-of-artificial-intelligence.md",
       "title": "The Macroeconomics of Artificial Intelligence",
       "excerpt": "The collective decisions we make today will determine how AI affects productivity growth, income inequality, and industrial concentration",
@@ -1320,49 +1364,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-20-get-hit-by-a-self-driving-car-for-science.md",
-      "title": "Get Hit By A Self-Driving Car For Science",
-      "excerpt": "It’s called How (Not) To Get Hit By A Self-Driving Car, and the game is simple: Cross a mocked-up crosswalk without being detected by a person-sensing camera. The idea being that if you can ...",
-      "sourceUrl": null,
-      "webUrl": "https://jalopnik.com/get-hit-by-a-self-driving-car-for-science-1851032553",
-      "originalUrl": "https://jalopnik.com/get-hit-by-a-self-driving-car-for-science-1851032553",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/a5e047c0a5513abbed241cac2a2fdee4.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-20T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jalopnik",
-        "domain": "jalopnik.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,145 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2024-03-08-the-rise-of-open-artificial-intelligence-open-source-best-practices.md",
+      "title": "The Rise Of Open Artificial Intelligence: Open-Source Best Practices",
+      "excerpt": "Implementing these strategies can help businesses set themselves up for success in the open-source AI ecosystem.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/08/the-rise-of-open-artificial-intelligence-open-source-best-practices/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/08/the-rise-of-open-artificial-intelligence-open-source-best-practices/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/640f2ed93c29eefc407aa26b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 852,
+          "height": 568,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-08T14:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2024-03-08-how-ai-is-helping-advance-womens-health-around-the-world.md",
+      "title": "How AI is helping advance women’s health around the world",
+      "excerpt": "For International Women’s day, we’re highlighting AI solutions that can improve early diagnosis, quality and access to care for women’s health worldwide.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/health/how-ai-is-helping-advance-womens-health-around-the-world/",
+      "originalUrl": "https://blog.google/technology/health/how-ai-is-helping-advance-womens-health-around-the-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-08T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-08-robo-cop-a-feel-cheeky-ai-robot-touches-shocked-womans-bottom-at-saudi-artificial-intelligence-event.md",
+      "title": "Robo cop-a-feel: Cheeky AI robot touches shocked woman's bottom at Saudi artificial intelligence event",
+      "excerpt": "A cheeky male AI robot was caught touching a woman on the bottom in front of an audience while she reported from an artificial intelligence event. In hilarious fotage, reporter Rawya Kassem can be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/news/article-13173229/Robo-cop-feel-Cheeky-AI-robot-touches-shocked-womans-bottom-Saudi-artificial-intelligence-event.html",
+      "originalUrl": "https://www.dailymail.co.uk/news/article-13173229/Robo-cop-feel-Cheeky-AI-robot-touches-shocked-womans-bottom-Saudi-artificial-intelligence-event.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2024/03/08/12/82207659-0-image-m-14_1709899954043.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/news/article-13173229/amp/Robo-cop-feel-Cheeky-AI-robot-touches-shocked-womans-bottom-Saudi-artificial-intelligence-event.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-13173229/amp/Robo-cop-feel-Cheeky-AI-robot-touches-shocked-womans-bottom-Saudi-artificial-intelligence-event.html",
+      "publishedDateTime": "2024-03-08T12:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-08-broadcom-sees-us10-billion-in-ai-chip-sales-in-2024-but-shares-dip.md",
       "title": "Broadcom sees US$10 billion in AI chip sales in 2024, but shares dip",
       "excerpt": "Broadcom said on Thursday it expects US$10 billion in revenue from chips related to artificial intelligence this year, but its stock dipped after the tech company’s full-year forecast failed to impress investors.",
@@ -1003,153 +1142,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-03-08-openai-partners-with-startup-to-create-advanced-ai-models-for-humanoid-robots.md",
-      "title": "OpenAI partners with startup to create advanced AI models for humanoid robots",
-      "excerpt": "OpenAI is partnering with AI robotics startup Figure to develop humanoid robots. The plan is to use Microsoft Azure for AI infrastructure and OpenAI's investment and guidance to deploy autonomous ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/openai-partners-with-startup-to-create-advanced-ai-models-for-humanoid-robots/",
-      "originalUrl": "https://www.zdnet.com/article/openai-partners-with-startup-to-create-advanced-ai-models-for-humanoid-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/321e01c2aea357b44034da2a46d767f9d2c1a357/2024/03/07/667d8fa9-8ca5-441e-bc71-f15d27cfd75a/gettyimages-1163715561.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/openai-partners-with-startup-to-create-advanced-ai-models-for-humanoid-robots/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openai-partners-with-startup-to-create-advanced-ai-models-for-humanoid-robots/",
-      "publishedDateTime": "2024-03-07T16:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-08-whats-up-with-ai-chip-rd-netomnia-telecom-italia.md",
-      "title": "What’s up with… AI chip R&D, Netomnia, Telecom Italia",
-      "excerpt": "In today’s industry news roundup: South Korean scientists claim to have developed an AI chip that uses 625 times less power than Nvidia’s technology; UK fibre access altnet Netomnia accesses additional rollout funds; Telecom Italia has a new post-NetCo plan; and much more!",
-      "sourceUrl": null,
-      "webUrl": "https://www.telecomtv.com/content/digital-platforms-services/what-s-up-with-ai-chip-r-d-netomnia-telecom-italia-49866/",
-      "originalUrl": "https://www.telecomtv.com/content/digital-platforms-services/what-s-up-with-ai-chip-r-d-netomnia-telecom-italia-49866/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.telecomtv.com/assets/telecomtv/south-korea-flag-adobestock-17995.jpeg?w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.telecomtv.com/content/digital-platforms-services/what-s-up-with-ai-chip-r-d-netomnia-telecom-italia-49866/amp/",
-      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/digital-platforms-services/what-s-up-with-ai-chip-r-d-netomnia-telecom-italia-49866/amp/",
-      "publishedDateTime": "2024-03-07T16:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TelecomTV",
-        "domain": "telecomtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-08-paralympian-lex-gillettes-top-7-ai-tools-for-accessibility.md",
-      "title": "Paralympian Lex Gillette’s top 7 AI tools for accessibility",
-      "excerpt": "Lex Gillette discusses the potential of technology in the lives of individuals with visual impairments with 7 Microsoft AI tools for accessibility.",
-      "sourceUrl": null,
-      "webUrl": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2024/03/07/paralympian-lex-gillettes-top-7-ai-tools-for-accessibility/",
-      "originalUrl": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2024/03/07/paralympian-lex-gillettes-top-7-ai-tools-for-accessibility/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/wp-content/uploads/2024/03/MSFT_Cloud_MAR04_111117_Blog_Blogheader_240303_V01.png",
-          "width": 1260,
-          "height": 708,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-07T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

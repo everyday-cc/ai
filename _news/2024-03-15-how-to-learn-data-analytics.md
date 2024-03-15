@@ -7,7 +7,7 @@ originalUrl: "https://fortune.com/education/articles/how-to-learn-data-analytics
 webUrl: "https://fortune.com/education/articles/how-to-learn-data-analytics/"
 type: article
 quality: 54
-heat: 84
+heat: 85
 published: true
 
 provider:

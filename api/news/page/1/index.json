@@ -2,6 +2,48 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-15-apple-scoops-up-artificial-intelligence-startup-darwin-ai.md",
+      "title": "Apple scoops up artificial intelligence startup Darwin AI",
+      "excerpt": "Apple has acquired Canadian artificial intelligence startup DarwinAI, “adding technology to its arsenal ahead of a big push into generative AI in 2024,” reports Bloomberg. The tech giant purchased the business earlier this year,",
+      "sourceUrl": null,
+      "webUrl": "https://www.mactech.com/2024/03/14/apple-scoops-up-artificial-intelligence-startup-darwin-ai/",
+      "originalUrl": "https://www.mactech.com/2024/03/14/apple-scoops-up-artificial-intelligence-startup-darwin-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mactech.com/wp-content/uploads/2024/03/Shopping-Cart-1024x999.jpg",
+          "width": 1024,
+          "height": 999,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.mactech.com/2024/03/14/apple-scoops-up-artificial-intelligence-startup-darwin-ai/amp/",
+      "cdnAmpWebUrl": "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2024/03/14/apple-scoops-up-artificial-intelligence-startup-darwin-ai/amp/",
+      "publishedDateTime": "2024-03-15T00:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MacTech",
+        "domain": "mactech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-15-how-to-learn-data-analytics.md",
       "title": "How to learn data analytics",
       "excerpt": "These tools range from Apache Spark and his own Quantum Metric to SAS, Google Cloud AutoML, and SAP Analytics Cloud. Lastly, Van de Wiel and Ciabarra agree that as a core analyst, the technical skill of visualization is critical. Visualization refers to ...",
@@ -10,7 +52,7 @@
       "originalUrl": "https://fortune.com/education/articles/how-to-learn-data-analytics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -399,7 +441,7 @@
       "originalUrl": "https://www.ibm.com/blog/tackling-ais-data-challenges-with-ibm-databases-on-aws/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 166,
+      "heat": 176,
       "tags": null,
       "images": [
         {
@@ -1091,6 +1133,58 @@
       ]
     },
     {
+      "path": "_news/2024-03-14-beyond-hype-drone-delivery-takes-flight-in-2024.md",
+      "title": "Beyond Hype: Drone Delivery Takes Flight In 2024",
+      "excerpt": "Drone delivery is no longer a sci-fi pipe dream. The implications for both businesses and consumers are nothing short of transformative.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/timothypapandreou/2024/03/13/beyond-hype-drone-delivery-takes-flight-in-2024/",
+      "originalUrl": "https://www.forbes.com/sites/timothypapandreou/2024/03/13/beyond-hype-drone-delivery-takes-flight-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65f2316656111d2945118de4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/timothypapandreou/2024/03/13/beyond-hype-drone-delivery-takes-flight-in-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timothypapandreou/2024/03/13/beyond-hype-drone-delivery-takes-flight-in-2024/amp/",
+      "publishedDateTime": "2024-03-13T23:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-14-lg-makes-strategic-investment-in-bear-robotics.md",
       "title": "LG Makes Strategic Investment in Bear Robotics",
       "excerpt": "LG Electronics invests $60 million in Bear Robotics, betting on the growth of autonomous service robots and its roadmap for Software-defined Robotics.",
@@ -1130,102 +1224,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-14-mountain-view-robot-security-company-partners-with-canadian-company.md",
-      "title": "Mountain View robot security company partners with Canadian company",
-      "excerpt": "\"The Autonomous Security Drones can be programmed to patrol specific areas, follow predetermined routes, or be dispatched to investigate alarms,\" Knightscope said in a statement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/sanjose/news/2024/03/13/knightscope-partners-with-draganfly.html",
-      "originalUrl": "https://www.bizjournals.com/sanjose/news/2024/03/13/knightscope-partners-with-draganfly.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.bizj.us/view/img/12197002/knightscope-robotos-for-allied-universal*1200xx3840-2160-0-0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-13T20:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-03-14-visual-studio-taps-more-github-copilot-capabilities.md",
-      "title": "Visual Studio taps more GitHub Copilot capabilities",
-      "excerpt": "Microsoft has released a second preview of Visual Studio 2022 17.10, featuring GitHub Copilot integrations for generating pull request descriptions and explaining commits.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3714267/visual-studio-taps-more-github-copilot-capabilities.html",
-      "originalUrl": "https://www.infoworld.com/article/3714267/visual-studio-taps-more-github-copilot-capabilities.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/06/29/14/shutterstock_716332027-100940548-large-100942755-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3714267/visual-studio-taps-more-github-copilot-capabilities.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3714267/visual-studio-taps-more-github-copilot-capabilities.amp.html",
-      "publishedDateTime": "2024-03-13T20:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

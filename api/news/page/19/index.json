@@ -2,6 +2,168 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2024-02-29-nextgen-food-robotics-provides-update-on-its-ai-powered-food-ordering-application-lily.md",
+      "title": "NextGen Food Robotics Provides Update on its AI-Powered Food Ordering Application, Lily",
+      "excerpt": "VANCOUVER, BC, Feb. 29, 2024 (GLOBE NEWSWIRE) -- NextGen Food Robotics Corp. (the “Company” or ... food ordering and delivery experience through advanced generative artificial intelligence powered by OpenAI’s GPT-4.0 large language model.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/nextgen-food-robotics-provides-update-on-its-ai-powered-food-ordering-application-lily-1033118473",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/nextgen-food-robotics-provides-update-on-its-ai-powered-food-ordering-application-lily-1033118473",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T09:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-common-challenges-in-natural-language-processing-development.md",
+      "title": "Common Challenges in Natural Language Processing Development",
+      "excerpt": "Natural language Processing (NLP) technology is promising due to its capacity to enable machines to process and understand human language, but it faces many issues that hinder it from seamless ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/blogposting/25818/common-challenges-in-natural-language-processing-development",
+      "originalUrl": "https://www.finextra.com/blogposting/25818/common-challenges-in-natural-language-processing-development",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T09:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-transformative-role-of-artificial-intelligence-in-revolutionizing-healthcare.md",
+      "title": "Transformative role of artificial intelligence in revolutionizing healthcare",
+      "excerpt": "L. Max Niki, as Chair in Engineering and VP for Presidential Initiatives at the University of Southern California, shares insights into the multifaceted applications of artificial intelligence (AI) in addressing complex healthcare challenges in an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pharmabiz.com/ArticleDetails.aspx?aid=166664&sid=11",
+      "originalUrl": "https://www.pharmabiz.com/ArticleDetails.aspx?aid=166664&sid=11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T08:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pharmabiz",
+        "domain": "pharmabiz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-7-ways-retailers-are-using-generative-ai-to-provide-a-better-shopping-experience.md",
+      "title": "7 Ways Retailers Are Using Generative AI To Provide A Better Shopping Experience",
+      "excerpt": "Generative AI is revolutionizing the retail experience, offering enhanced shopping assistants, realistic virtual try-ons and concise customer review summaries.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2024/02/29/7-ways-retailers-are-using-generative-ai-to-provide-a-better-shopping-experience/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2024/02/29/7-ways-retailers-are-using-generative-ai-to-provide-a-better-shopping-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 142,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e028fb30e6307ff8e898a2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2024/02/29/7-ways-retailers-are-using-generative-ai-to-provide-a-better-shopping-experience/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/02/29/7-ways-retailers-are-using-generative-ai-to-provide-a-better-shopping-experience/amp/",
+      "publishedDateTime": "2024-02-29T06:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-29-googles-ai-struggles-gemini-isnt-too-woke-its-too-rushed.md",
       "title": "Google’s AI Struggles: Gemini isn’t too woke. It’s too rushed",
       "excerpt": "It shut the feature down, and then made the problem worse by firing two of its leading AI ethics researchers. These were the people whose job was to make sure that Google’s technology was fair in how it depicted women and minorities. Not overly diverse ...",
@@ -915,178 +1077,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-the-us-department-of-defense-is-using-ml-algorithms-to-find-airstrike-targets.md",
-      "title": "The US Department of Defense is using ML algorithms to find airstrike targets",
-      "excerpt": "Since early February, the US Department of Defense has employed ML algorithms to identify targets for over 85 air strikes in Iraq and Syria. According to",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/102066-us-department-defense-using-ml-algorithms-find-airstrike.html",
-      "originalUrl": "https://www.techspot.com/news/102066-us-department-defense-using-ml-algorithms-find-airstrike.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-28-image-23.jpg",
-          "width": 2000,
-          "height": 1261,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T21:13:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-google-ceo-pichai-says-geminis-ai-image-results-offended-our-users.md",
-      "title": "Google CEO Pichai says Gemini's AI image results 'offended our users'",
-      "excerpt": "Google CEO Sundar Pichai told employees in an internal memo that the AI tool’s problematic images were unacceptable. He vowed to re-release a better version of the service in the coming weeks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mprnews.org/story/2024/02/28/google-ceo-pichai-says-geminis-ai-image-results-offended-our-users",
-      "originalUrl": "https://www.mprnews.org/story/2024/02/28/google-ceo-pichai-says-geminis-ai-image-results-offended-our-users",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T19:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MPR News",
-        "domain": "mprnews.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-what-is-managed-dns-anyway.md",
-      "title": "What is managed DNS, anyway?",
-      "excerpt": "Perhaps the easiest way to explain it is by looking at the opposite scenario: what if you don’t have a managed DNS service in place?\nThe post What is managed DNS, anyway? appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/what-is-managed-dns-anyway/",
-      "originalUrl": "https://www.ibm.com/blog/what-is-managed-dns-anyway/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T17:59:39Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-building-trust-in-the-government-with-responsible-generative-ai-implementation.md",
-      "title": "Building trust in the government with responsible generative AI implementation",
-      "excerpt": "As the public sector embraces automation to solve problems, it's key to maintain trust and transparency in AI solutions.\nThe post Building trust in the government with responsible generative AI implementation appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/building-trust-in-the-government-with-responsible-generative-ai-implementation/",
-      "originalUrl": "https://www.ibm.com/blog/building-trust-in-the-government-with-responsible-generative-ai-implementation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T17:47:29Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

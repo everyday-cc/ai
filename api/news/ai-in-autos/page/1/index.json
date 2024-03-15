@@ -98,6 +98,58 @@
       ]
     },
     {
+      "path": "_news/2024-03-14-beyond-hype-drone-delivery-takes-flight-in-2024.md",
+      "title": "Beyond Hype: Drone Delivery Takes Flight In 2024",
+      "excerpt": "Drone delivery is no longer a sci-fi pipe dream. The implications for both businesses and consumers are nothing short of transformative.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/timothypapandreou/2024/03/13/beyond-hype-drone-delivery-takes-flight-in-2024/",
+      "originalUrl": "https://www.forbes.com/sites/timothypapandreou/2024/03/13/beyond-hype-drone-delivery-takes-flight-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65f2316656111d2945118de4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/timothypapandreou/2024/03/13/beyond-hype-drone-delivery-takes-flight-in-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timothypapandreou/2024/03/13/beyond-hype-drone-delivery-takes-flight-in-2024/amp/",
+      "publishedDateTime": "2024-03-13T23:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-13-a-comprehensive-list-of-2023-2024-tech-layoffs.md",
       "title": "A comprehensive list of 2023 & 2024 tech layoffs",
       "excerpt": "Momentum for a tech sector rebound remains slow to build, outside of bright spots within artificial intelligence and adjacent companies ... Announced March 1, Alphabet’s Waymo issued a second round of layoffs this year. Combined with the initial cuts ...",
@@ -1291,58 +1343,6 @@
         "name": "Seattle Times",
         "domain": "seattletimes.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-a-comprehensive-list-of-2023-2024-tech-layoffs.md",
-      "title": "A comprehensive list of 2023 & 2024 tech layoffs",
-      "excerpt": "Momentum for a tech sector rebound remains slow to build, outside of bright spots within artificial intelligence and adjacent companies ... Announced March 1, Alphabet’s Waymo issued a second round of layoffs this year. Combined with the initial cuts ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/03/01/tech-layoffs-2023-list/",
-      "originalUrl": "https://techcrunch.com/2024/03/01/tech-layoffs-2023-list/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/02/layoffs.jpg?resize=1200,645",
-          "width": 1200,
-          "height": 645,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/03/01/tech-layoffs-2023-list/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/01/tech-layoffs-2023-list/amp/",
-      "publishedDateTime": "2024-03-01T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blog/tackling-ais-data-challenges-with-ibm-dat
 webUrl: "https://www.ibm.com/blog/tackling-ais-data-challenges-with-ibm-databases-on-aws/"
 type: article
 quality: 136
-heat: 166
+heat: 176
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       name: IBM
       domain: ibm.com
     quality: 91
+  - title: "Snowflake and Landing AI combine forces to tackle unstructured data challenges with computer vision"
+    excerpt: "Snowflake partners with Landing AI to integrate advanced computer vision capabilities into its Data Cloud, unlocking new possibilities for enterprises to harness the potential of visual data across industries."
+    publishedDateTime: 2024-03-14T21:17:00Z
+    webUrl: "https://venturebeat.com/ai/snowflake-and-landing-ai-combine-forces-to-tackle-unstructured-data-challenges-with-computer-vision/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 70
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2024/03/nuneybits_Vector_art_of_a_laptop_with_a_large_snowflake_on_the__2dc9489e-98be-4702-95a4-9231caa80f8b-transformed.webp?w=1200&strip=all"
+        width: 1200
+        height: 672
+        isCached: true
 
 secured: "nnCbwe2WIJmDP/6LDqrDEh7ZG5zEG5XmYfbBKPHW7QsYNq8fMu4Rm0TSNzydonBUM0cD4GWgbBrOy7TRmoR2ba/5V5ITsoeoOO1IWhyponrbl87pIANR2e5J5KP4GfHIt6Gz7OAT4WeI41DsN5ysHyjlFX65tyw5RWWs42q7I+aViaR8Rh0sqaEESPtA1OaKOhauqmmt/aUyE6/BQ7Ec3Lr+L1HL1F6xvqAkCBgOt0pYXfZ4g6WXt+ggBtt/dpzzSKeWgrvNRcMRTjIHzLDr39+UGA5fI4x9Ts3iMLeOeMmxKe8/rCNd4jwLoFFNU69zTnDxHLqQsWb6hWruNjDdDrx92wKwyt+UE0djtThxrdU=;6g/tQ79elzvfACE7TxdZMw=="
 ---

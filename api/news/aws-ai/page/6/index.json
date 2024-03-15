@@ -2,6 +2,59 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-12-15-use-amazon-documentdb-to-build-no-code-machine-learning-solutions-in-amazon-sagemaker-canvas.md",
+      "title": "Use Amazon DocumentDB to build no-code machine learning solutions in Amazon SageMaker Canvas",
+      "excerpt": "We are excited to announce the launch of Amazon DocumentDB (with MongoDB compatibility) integration with Amazon SageMaker Canvas, allowing Amazon DocumentDB customers to build and use generative AI and machine learning (ML) solutions without writing code. Amazon DocumentDB is a fully managed native JSON",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-amazon-documentdb-to-build-no-code-machine-learning-solutions-in-amazon-sagemaker-canvas/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-amazon-documentdb-to-build-no-code-machine-learning-solutions-in-amazon-sagemaker-canvas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2023/12/15/documentdb-sagemaker.jpg",
+          "width": 1006,
+          "height": 501,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-15T17:51:37Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2023-12-15-three-uses-for-artificial-intelligence-in-financial-services-in-2024.md",
       "title": "Three Uses For Artificial Intelligence In Financial Services In 2024",
       "excerpt": "From boardrooms to classrooms to dining tables, 2023 made AI the hottest topic in virtually all corners of enterprise, education and private life. It's not even an exaggeration to say that A and I were the two most important letters of the year; in fact, Collins Dictionary recently made it Word of the Year 2023.",
@@ -1329,49 +1382,6 @@
       "provider": {
         "name": "Net India 123",
         "domain": "netindia123.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-06-problem-solving-shines-at-svvsds-inaugural-day-of-ai-event-in-longmont.md",
-      "title": "Problem-solving shines at SVVSD’s inaugural ‘Day of AI’ event in Longmont",
-      "excerpt": "On Saturday, Hubbell led a demonstration of an AWS DeepRacer, a mini self-driving car, which he said SVVSD uses to expose students to AI. “In this district, we use it as a tool to teach kids ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.timescall.com/2023/12/05/problem-solving-shines-at-svvsds-inaugural-day-of-ai-event-in-longmont/",
-      "originalUrl": "https://www.timescall.com/2023/12/05/problem-solving-shines-at-svvsds-inaugural-day-of-ai-event-in-longmont/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.timescall.com/wp-content/uploads/2023/12/DCC-L-AIDAY-01.jpg?w=1024&h=768",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.timescall.com/2023/12/05/problem-solving-shines-at-svvsds-inaugural-day-of-ai-event-in-longmont/amp/",
-      "cdnAmpWebUrl": "https://www-timescall-com.cdn.ampproject.org/c/s/www.timescall.com/2023/12/05/problem-solving-shines-at-svvsds-inaugural-day-of-ai-event-in-longmont/amp/",
-      "publishedDateTime": "2023-12-06T15:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Longmont Times-Call",
-        "domain": "timescall.com",
         "images": null,
         "publishers": null,
         "authors": null

@@ -2,6 +2,178 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2024-02-29-the-us-department-of-defense-is-using-ml-algorithms-to-find-airstrike-targets.md",
+      "title": "The US Department of Defense is using ML algorithms to find airstrike targets",
+      "excerpt": "Since early February, the US Department of Defense has employed ML algorithms to identify targets for over 85 air strikes in Iraq and Syria. According to",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/102066-us-department-defense-using-ml-algorithms-find-airstrike.html",
+      "originalUrl": "https://www.techspot.com/news/102066-us-department-defense-using-ml-algorithms-find-airstrike.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-28-image-23.jpg",
+          "width": 2000,
+          "height": 1261,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T21:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-google-ceo-pichai-says-geminis-ai-image-results-offended-our-users.md",
+      "title": "Google CEO Pichai says Gemini's AI image results 'offended our users'",
+      "excerpt": "Google CEO Sundar Pichai told employees in an internal memo that the AI tool’s problematic images were unacceptable. He vowed to re-release a better version of the service in the coming weeks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mprnews.org/story/2024/02/28/google-ceo-pichai-says-geminis-ai-image-results-offended-our-users",
+      "originalUrl": "https://www.mprnews.org/story/2024/02/28/google-ceo-pichai-says-geminis-ai-image-results-offended-our-users",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T19:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MPR News",
+        "domain": "mprnews.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-what-is-managed-dns-anyway.md",
+      "title": "What is managed DNS, anyway?",
+      "excerpt": "Perhaps the easiest way to explain it is by looking at the opposite scenario: what if you don’t have a managed DNS service in place?\nThe post What is managed DNS, anyway? appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/what-is-managed-dns-anyway/",
+      "originalUrl": "https://www.ibm.com/blog/what-is-managed-dns-anyway/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T17:59:39Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-building-trust-in-the-government-with-responsible-generative-ai-implementation.md",
+      "title": "Building trust in the government with responsible generative AI implementation",
+      "excerpt": "As the public sector embraces automation to solve problems, it's key to maintain trust and transparency in AI solutions.\nThe post Building trust in the government with responsible generative AI implementation appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/building-trust-in-the-government-with-responsible-generative-ai-implementation/",
+      "originalUrl": "https://www.ibm.com/blog/building-trust-in-the-government-with-responsible-generative-ai-implementation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T17:47:29Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-29-intel-wants-its-chips-inside-100-million-ai-pcs-by-2025.md",
       "title": "Intel wants its chips inside 100 million 'AI PCs' by 2025",
       "excerpt": "This is a big deal for anyone who is thinking about purchasing a Windows 11 PC in the next few years, because Microsoft and basically every major PC maker appears to have hopped aboard the AI PC bandwagon. And while there may be some real, radical, game-changing benefits to come out of this shift, the underlying motivation is pretty basic: money.",
@@ -1022,188 +1194,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-is-it-too-late-to-buy-soundhound-ai-stock-now.md",
-      "title": "Is It Too Late to Buy SoundHound AI Stock Now?",
-      "excerpt": "SoundHound AI develops voice-based recognition software, a market the company estimates is worth $160 billion in annual revenues. Nvidia is a small investor in SoundHound AI, a move that may not ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2024/02/28/is-it-too-late-to-buy-soundhound-ai-stock-now/",
-      "originalUrl": "https://www.fool.com/investing/2024/02/28/is-it-too-late-to-buy-soundhound-ai-stock-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/766726/amazon-alexa-voice-remote-being-used-by-person-on-tv.png",
-          "width": 2000,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T09:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-deepsig-announces-commercial-release-of-industrys-first-neural-receiver-software-for-open-ran-5g-networks.md",
-      "title": "DeepSig Announces Commercial Release of Industry's First Neural Receiver Software for Open RAN 5G Networks",
-      "excerpt": "This product milestone marks the launch of the industry's first 5G carrier-grade neural receiver and redefines how the physical layer in wireless networks is implemented and optimized using Artificial Intelligence/Machine Learning (AI/ML). This press ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2024-02/61528897-deepsig-announces-commercial-release-of-industry-s-first-neural-receiver-software-for-open-ran-5g-networks-004.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2024-02/61528897-deepsig-announces-commercial-release-of-industry-s-first-neural-receiver-software-for-open-ran-5g-networks-004.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T08:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-nvidia-is-still-hot-but-these-2-artificial-intelligence-ai-stocks-could-fizzle-out.md",
-      "title": "Nvidia Is Still Hot, but These 2 Artificial Intelligence (AI) Stocks Could Fizzle Out",
-      "excerpt": "C3.ai has a catchy ticker symbol, but its business model has serious flaws. Mobileye is a top play on driverless cars, but it faces a tough cyclical slowdown. That first-mover's advantage lit a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2024/02/28/nvidia-still-hot-artificial-intelligence-ai-stock/",
-      "originalUrl": "https://www.fool.com/investing/2024/02/28/nvidia-still-hot-artificial-intelligence-ai-stock/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/766711/android-head-shattering.jpg",
-          "width": 2000,
-          "height": 1500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T05:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-mc-explains-all-about-microsoft-mistral-ai-deal-and-why-it-has-got-eu-worried.md",
-      "title": "MC Explains: All about Microsoft-Mistral AI deal and why it has got EU worried",
-      "excerpt": "Launched in May 2023 byformer Google DeepMind and Meta researchers Arthur Mensch, Timothee Lacroix, and Guillaume Lample, the company garnered major attention even before its first product. One of the most enduring pieces of financial advice is to never ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/technology/mc-explains-all-about-microsoft-mistral-ai-deal-and-why-it-has-got-eu-worried-12366191.html",
-      "originalUrl": "https://www.moneycontrol.com/news/technology/mc-explains-all-about-microsoft-mistral-ai-deal-and-why-it-has-got-eu-worried-12366191.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/06/Mistral-AI.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/technology/mc-explains-all-about-microsoft-mistral-ai-deal-and-why-it-has-got-eu-worried-12366191.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/mc-explains-all-about-microsoft-mistral-ai-deal-and-why-it-has-got-eu-worried-12366191.html/amp",
-      "publishedDateTime": "2024-02-28T04:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.inverse.com/tech/figure-robot-open-ai-chatgpt"
 webUrl: "https://www.inverse.com/tech/figure-robot-open-ai-chatgpt"
 type: article
 quality: 54
-heat: 85
+heat: 84
 published: true
 
 provider:

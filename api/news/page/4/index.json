@@ -2,6 +2,110 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-03-13-ibm-begins-layoffs-amid-push-toward-ai.md",
+      "title": "IBM begins layoffs amid push toward AI",
+      "excerpt": "IBM Corp. on Tuesday notified employees in its marketing and communications division that it’s making cuts, the latest large tech company to trim its payroll.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/ibm-begins-layoffs-amid-push-toward-ai-4b2864c6",
+      "originalUrl": "https://www.marketwatch.com/story/ibm-begins-layoffs-amid-push-toward-ai-4b2864c6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-375235/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/ibm-begins-layoffs-amid-push-toward-ai-4b2864c6",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ibm-begins-layoffs-amid-push-toward-ai-4b2864c6",
+      "publishedDateTime": "2024-03-12T20:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-13-creatio-unveils-llm-powered-copilot-for-its-crm.md",
+      "title": "Creatio unveils LLM-powered Copilot for its CRM",
+      "excerpt": "Creatio Copilot Studio allows users to connect to leading models such as OpenAI's GPT-3.5 as well as open source rivals.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/business/creatio-unveils-llm-powered-copilot-for-its-crm/",
+      "originalUrl": "https://venturebeat.com/business/creatio-unveils-llm-powered-copilot-for-its-crm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/03/In_a_clean_corporate_Memphis_design_style_create_converted.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-12T20:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2024-03-13-eating-disorders-chatbot-therapy-and-the-uncanny-valley.md",
       "title": "Eating Disorders, Chatbot Therapy, and the Uncanny Valley",
       "excerpt": "Chatbots are computer programs that use artificial intelligence to \"interact\" with humans. Source: Alexandra Koch/Pixabay The human-like conversational abilities of chatbots position them to be useful and affordable agents in mental health therapy ...",
@@ -1149,93 +1253,6 @@
         "AI Ethics",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-new-ai-robotics-spacetech-and-fintech-unicorns-trot-onto-the-unicorn-board-in-february.md",
-      "title": "New AI, Robotics, Spacetech And Fintech Unicorns Trot Onto The Unicorn Board In February",
-      "excerpt": "Ten new unicorns added more than $18 billion in value to The Crunchbase Unicorn Board in February, but one company was also downgraded from unicorn status and fell off the board.",
-      "sourceUrl": null,
-      "webUrl": "https://news.crunchbase.com/ai/new-unicorn-board-companies-february-2024-moonshot-ai/",
-      "originalUrl": "https://news.crunchbase.com/ai/new-unicorn-board-companies-february-2024-moonshot-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.crunchbase.com/wp-content/uploads/unicornboard_hero-resized.jpg",
-          "width": 900,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-12T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "news.crunchbase",
-        "domain": "crunchbase.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-hexaware-unveils-tensai-gpt-a-secure-ai-web-app-using-microsoft-azure-open-ai-service-to-advance-internal-innovation.md",
-      "title": "Hexaware unveils tensai GPT, a secure AI web app using Microsoft Azure Open AI Service to advance internal innovation",
-      "excerpt": "Hexaware, a global IT services and digital solutions leader, announced the launch of tensai GPT, an AI web app, in collaboration with Microsoft. Using Microsoft Azure Open AI Service, this AI web app will enable Hexaware employees to harness enterprise knowledge,",
-      "sourceUrl": null,
-      "webUrl": "https://theprint.in/ani-press-releases/hexaware-unveils-tensai-gpt-a-secure-ai-web-app-using-microsoft-azure-open-ai-service-to-advance-internal-innovation/1997879/",
-      "originalUrl": "https://theprint.in/ani-press-releases/hexaware-unveils-tensai-gpt-a-secure-ai-web-app-using-microsoft-azure-open-ai-service-to-advance-internal-innovation/1997879/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.theprint.in/wp-content/uploads/2024/03/ANI-20240312101824.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://theprint.in/ani-press-releases/hexaware-unveils-tensai-gpt-a-secure-ai-web-app-using-microsoft-azure-open-ai-service-to-advance-internal-innovation/1997879/?amp",
-      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/hexaware-unveils-tensai-gpt-a-secure-ai-web-app-using-microsoft-azure-open-ai-service-to-advance-internal-innovation/1997879/?amp",
-      "publishedDateTime": "2024-03-12T10:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ThePrint",
-        "domain": "theprint.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-03-14-mountain-view-robot-security-company-partners-with-canadian-company.md",
+      "title": "Mountain View robot security company partners with Canadian company",
+      "excerpt": "\"The Autonomous Security Drones can be programmed to patrol specific areas, follow predetermined routes, or be dispatched to investigate alarms,\" Knightscope said in a statement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/sanjose/news/2024/03/13/knightscope-partners-with-draganfly.html",
+      "originalUrl": "https://www.bizjournals.com/sanjose/news/2024/03/13/knightscope-partners-with-draganfly.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.bizj.us/view/img/12197002/knightscope-robotos-for-allied-universal*1200xx3840-2160-0-0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-13T20:58:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2024-03-14-visual-studio-taps-more-github-copilot-capabilities.md",
+      "title": "Visual Studio taps more GitHub Copilot capabilities",
+      "excerpt": "Microsoft has released a second preview of Visual Studio 2022 17.10, featuring GitHub Copilot integrations for generating pull request descriptions and explaining commits.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3714267/visual-studio-taps-more-github-copilot-capabilities.html",
+      "originalUrl": "https://www.infoworld.com/article/3714267/visual-studio-taps-more-github-copilot-capabilities.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2023/06/29/14/shutterstock_716332027-100940548-large-100942755-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3714267/visual-studio-taps-more-github-copilot-capabilities.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3714267/visual-studio-taps-more-github-copilot-capabilities.amp.html",
+      "publishedDateTime": "2024-03-13T20:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-14-amd-is-optimistic-on-ai-pcs-bringing-greater-efficiency-to-enterprise.md",
       "title": "AMD Is Optimistic on AI PCs Bringing Greater Efficiency to Enterprise",
       "excerpt": "AMD CEO Lisa Su and VP of Product Management Jason Banta expressed optimism about the hot on-device AI market.",
@@ -156,7 +252,7 @@
       "originalUrl": "https://www.inverse.com/tech/figure-robot-open-ai-chatgpt",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -458,7 +554,7 @@
       "originalUrl": "https://www.businessinsider.com/satya-nadella-google-default-winner-ai-race-microsoft-2024-3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -562,7 +658,7 @@
       "originalUrl": "https://www.pcmag.com/news/europe-passes-ai-act-to-ban-riskiest-tools-force-copyright-compliance",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -1161,110 +1257,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-safeguarding-data-privacy-in-the-age-of-ai-innovation.md",
-      "title": "Safeguarding Data Privacy In The Age Of AI Innovation",
-      "excerpt": "The Amazon Bedrock platform allows for the creation and deployment of machine learning models within a protected ... Furthermore, cloud service providers like Microsoft Azure and Google Cloud offer specialized tools and services for building private ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/safeguarding-data-privacy-in-the-age-of-ai-innovation/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/safeguarding-data-privacy-in-the-age-of-ai-innovation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 219,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64c2ae560f07ba1a1fade19d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1330,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/safeguarding-data-privacy-in-the-age-of-ai-innovation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/13/safeguarding-data-privacy-in-the-age-of-ai-innovation/amp/",
-      "publishedDateTime": "2024-03-13T11:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-does-aws-or-google-cloud-offer-better-options-for-your-business.md",
-      "title": "Does AWS Or Google Cloud Offer Better Options For Your Business?",
-      "excerpt": "The decision to select AWS or Google Cloud hinges on several factors, such as the size of the business, the industry, any specific requirements and budgetary concerns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/does-aws-or-google-cloud-offer-better-options-for-your-business/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/does-aws-or-google-cloud-offer-better-options-for-your-business/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/623e01e2d7e01bab063bd76c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/does-aws-or-google-cloud-offer-better-options-for-your-business/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/13/does-aws-or-google-cloud-offer-better-options-for-your-business/amp/",
-      "publishedDateTime": "2024-03-13T11:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

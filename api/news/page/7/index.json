@@ -2,6 +2,100 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2024-03-10-the-coalition-for-health-ai-is-a-goo-goo-not-yet-a-revolutionary.md",
+      "title": "The Coalition For Health AI Is A ‘Goo-Goo,’ Not Yet A Revolutionary",
+      "excerpt": "The Coalition for Health AI wants to be the \"curator of best practices of AI in health,\" but it's unclear if that will involve enabling true patient empowerment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michaelmillenson/2024/03/10/chai-is-the-goo-goo-of-health-care-ai-but-not-yet-a-revolutionary/",
+      "originalUrl": "https://www.forbes.com/sites/michaelmillenson/2024/03/10/chai-is-the-goo-goo-of-health-care-ai-but-not-yet-a-revolutionary/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65ea950d87f2389b99869c9f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1202,
+          "height": 713,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/michaelmillenson/2024/03/10/chai-is-the-goo-goo-of-health-care-ai-but-not-yet-a-revolutionary/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaelmillenson/2024/03/10/chai-is-the-goo-goo-of-health-care-ai-but-not-yet-a-revolutionary/amp/",
+      "publishedDateTime": "2024-03-10T14:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-10-key-principles-for-interpreting-dreams-with-ai.md",
+      "title": "Key Principles for Interpreting Dreams with AI",
+      "excerpt": "Such general guidelines are familiar to anyone who has done research or therapy with dreams over the past few decades, and there seems no reason why the same principles should not apply to this new technology, too. Following these guidelines will enable ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/za/blog/dreaming-in-the-digital-age/202403/key-principles-for-interpreting-dreams-with-ai",
+      "originalUrl": "https://www.psychologytoday.com/za/blog/dreaming-in-the-digital-age/202403/key-principles-for-interpreting-dreams-with-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2024-03/IMG_8627.JPG.jpg?itok=5609qzT5",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/za/blog/dreaming-in-the-digital-age/202403/key-principles-for-interpreting-dreams-with-ai?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/dreaming-in-the-digital-age/202403/key-principles-for-interpreting-dreams-with-ai?amp",
+      "publishedDateTime": "2024-03-10T12:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-10-5-blue-chip-digital-age-collectible-bargains-the-world-missed.md",
       "title": "5 blue-chip \"digital age\" collectible bargains the world missed",
       "excerpt": "Everyone acknowledges the massive impact of the digital revolution upon every aspect of society, but auction prices for landmark digital memorabilia suggest we haven't got it all in perspective just yet.",
@@ -52,6 +146,49 @@
         "Computer Vision",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2024-03-10-katie-britt-used-decades-old-example-of-rapes-in-mexico-to-attack-biden-border-policy.md",
+      "title": "Katie Britt used decades-old example of rapes in Mexico to attack Biden border policy",
+      "excerpt": "First-term Sen. Katie Britt of Alabama in the GOP response criticized current immigration policies, describing how she had met a woman at the U.S.-Mexico border who told of being raped thousands of times in a sex trafficking operation run by cartels, starting at age 12.",
+      "sourceUrl": null,
+      "webUrl": "https://cumberlink.com/news/nation-world/government-politics/politics-elections-border-immigration-trafficking/article_a0fe4512-8283-5613-8da1-1c79e1a1c5e3.html",
+      "originalUrl": "https://cumberlink.com/news/nation-world/government-politics/politics-elections-border-immigration-trafficking/article_a0fe4512-8283-5613-8da1-1c79e1a1c5e3.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/cumberlink.com/content/tncms/assets/v3/editorial/a/0f/a0fe4512-8283-5613-8da1-1c79e1a1c5e3/65ed0f72ec8a1.preview.jpg?crop=1433%2C752%2C48%2C103&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-10T01:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sentinel",
+        "domain": "cumberlink.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -1010,145 +1147,6 @@
       "provider": {
         "name": "The Robot Report",
         "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-08-the-rise-of-open-artificial-intelligence-open-source-best-practices.md",
-      "title": "The Rise Of Open Artificial Intelligence: Open-Source Best Practices",
-      "excerpt": "Implementing these strategies can help businesses set themselves up for success in the open-source AI ecosystem.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/08/the-rise-of-open-artificial-intelligence-open-source-best-practices/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/08/the-rise-of-open-artificial-intelligence-open-source-best-practices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/640f2ed93c29eefc407aa26b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 852,
-          "height": 568,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-08T14:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-03-08-how-ai-is-helping-advance-womens-health-around-the-world.md",
-      "title": "How AI is helping advance women’s health around the world",
-      "excerpt": "For International Women’s day, we’re highlighting AI solutions that can improve early diagnosis, quality and access to care for women’s health worldwide.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/health/how-ai-is-helping-advance-womens-health-around-the-world/",
-      "originalUrl": "https://blog.google/technology/health/how-ai-is-helping-advance-womens-health-around-the-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-08T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-08-robo-cop-a-feel-cheeky-ai-robot-touches-shocked-womans-bottom-at-saudi-artificial-intelligence-event.md",
-      "title": "Robo cop-a-feel: Cheeky AI robot touches shocked woman's bottom at Saudi artificial intelligence event",
-      "excerpt": "A cheeky male AI robot was caught touching a woman on the bottom in front of an audience while she reported from an artificial intelligence event. In hilarious fotage, reporter Rawya Kassem can be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/news/article-13173229/Robo-cop-feel-Cheeky-AI-robot-touches-shocked-womans-bottom-Saudi-artificial-intelligence-event.html",
-      "originalUrl": "https://www.dailymail.co.uk/news/article-13173229/Robo-cop-feel-Cheeky-AI-robot-touches-shocked-womans-bottom-Saudi-artificial-intelligence-event.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2024/03/08/12/82207659-0-image-m-14_1709899954043.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/news/article-13173229/amp/Robo-cop-feel-Cheeky-AI-robot-touches-shocked-womans-bottom-Saudi-artificial-intelligence-event.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-13173229/amp/Robo-cop-feel-Cheeky-AI-robot-touches-shocked-womans-bottom-Saudi-artificial-intelligence-event.html",
-      "publishedDateTime": "2024-03-08T12:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
         "images": null,
         "publishers": null,
         "authors": null

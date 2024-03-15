@@ -2,6 +2,93 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-03-12-new-ai-robotics-spacetech-and-fintech-unicorns-trot-onto-the-unicorn-board-in-february.md",
+      "title": "New AI, Robotics, Spacetech And Fintech Unicorns Trot Onto The Unicorn Board In February",
+      "excerpt": "Ten new unicorns added more than $18 billion in value to The Crunchbase Unicorn Board in February, but one company was also downgraded from unicorn status and fell off the board.",
+      "sourceUrl": null,
+      "webUrl": "https://news.crunchbase.com/ai/new-unicorn-board-companies-february-2024-moonshot-ai/",
+      "originalUrl": "https://news.crunchbase.com/ai/new-unicorn-board-companies-february-2024-moonshot-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.crunchbase.com/wp-content/uploads/unicornboard_hero-resized.jpg",
+          "width": 900,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-12T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "news.crunchbase",
+        "domain": "crunchbase.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-hexaware-unveils-tensai-gpt-a-secure-ai-web-app-using-microsoft-azure-open-ai-service-to-advance-internal-innovation.md",
+      "title": "Hexaware unveils tensai GPT, a secure AI web app using Microsoft Azure Open AI Service to advance internal innovation",
+      "excerpt": "Hexaware, a global IT services and digital solutions leader, announced the launch of tensai GPT, an AI web app, in collaboration with Microsoft. Using Microsoft Azure Open AI Service, this AI web app will enable Hexaware employees to harness enterprise knowledge,",
+      "sourceUrl": null,
+      "webUrl": "https://theprint.in/ani-press-releases/hexaware-unveils-tensai-gpt-a-secure-ai-web-app-using-microsoft-azure-open-ai-service-to-advance-internal-innovation/1997879/",
+      "originalUrl": "https://theprint.in/ani-press-releases/hexaware-unveils-tensai-gpt-a-secure-ai-web-app-using-microsoft-azure-open-ai-service-to-advance-internal-innovation/1997879/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.theprint.in/wp-content/uploads/2024/03/ANI-20240312101824.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://theprint.in/ani-press-releases/hexaware-unveils-tensai-gpt-a-secure-ai-web-app-using-microsoft-azure-open-ai-service-to-advance-internal-innovation/1997879/?amp",
+      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/hexaware-unveils-tensai-gpt-a-secure-ai-web-app-using-microsoft-azure-open-ai-service-to-advance-internal-innovation/1997879/?amp",
+      "publishedDateTime": "2024-03-12T10:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ThePrint",
+        "domain": "theprint.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-12-machine-learning-predicts-lung-cancer-spread-to-brain.md",
       "title": "Machine Learning Predicts Lung Cancer Spread to Brain",
       "excerpt": "Scientists trained a machine-learning algorithm to predict accurately brain metastasis using biopsy samples from early-stage non-small cell lung cancer patients.",
@@ -1124,110 +1211,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-new-ai-and-5g-advancements-will-usher-in-the-era-of-edge-computing-on-smartphones-autonomous-cars-and-more.md",
-      "title": "New AI and 5G advancements will usher in the era of edge computing on smartphones, autonomous cars, and more",
-      "excerpt": "The edge-computing boom could reduce costs and the environmental impact of powering AI — and it's just getting started.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-edge-computing-5g-cloud-artificial-intelligence-2024-3",
-      "originalUrl": "https://www.businessinsider.com/ai-edge-computing-5g-cloud-artificial-intelligence-2024-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65ef131d90413ab8e1db559d?width=750&format=jpeg&auto=webp",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-edge-computing-5g-cloud-artificial-intelligence-2024-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-edge-computing-5g-cloud-artificial-intelligence-2024-3?amp",
-      "publishedDateTime": "2024-03-11T20:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-ug-labs-raises-7m-to-infuse-conversational-ai-into-games-for-kids.md",
-      "title": "UG Labs raises $7M to infuse conversational AI into games for kids",
-      "excerpt": "UG Labs has raised $7 million in funding to infuse conversational AI and voice interactivity into games for kids.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/ug-labs-raises-7m-to-infuse-conversational-ai-into-games-for-kids/",
-      "originalUrl": "https://venturebeat.com/games/ug-labs-raises-7m-to-infuse-conversational-ai-into-games-for-kids/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/03/ug-labs-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 665,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-11T20:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
         "AI"
       ]
     }

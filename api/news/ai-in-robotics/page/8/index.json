@@ -2,6 +2,41 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2024-01-12-kodiak-robotics-unveils-driverless-semitruck-slated-to-hit-texas-highways-in-2024.md",
+      "title": "Kodiak Robotics unveils driverless semitruck slated to hit Texas highways in 2024",
+      "excerpt": "Kodiak Robotics Inc. unveiled what it calls the world’s first driverless-ready semi-truck designed for scaled deployment at the Consumer Electronics Show in January 2024. The truck will run various driverless operations between Dallas and Houston starting in 2024, according to the company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/houston/inno/stories/news/2024/01/11/kodiak-robotics-unveils-driverless.html",
+      "originalUrl": "https://www.bizjournals.com/houston/inno/stories/news/2024/01/11/kodiak-robotics-unveils-driverless.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T18:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2024-01-11-abb-acquires-ai-based-navigation-startup.md",
       "title": "ABB Acquires AI-Based Navigation Startup",
       "excerpt": "ABB announced that it has acquired Swiss start-up Sevensense, a provider of AI-enabled 3D vision navigation technology for autonomous mobile robots (AMRs). Sevensense was founded in 2018 as a spin-off from Swiss technical University, ETH Zurich.",
@@ -1262,50 +1297,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-29-lg-unveils-ai-powered-wheeling-smart-robot-for-the-home.md",
-      "title": "LG Unveils AI-Powered, Wheeling Smart Robot for the Home",
-      "excerpt": "LG describes the bot, which doesn’t have an official name just yet, as a “moving smart home hub.” The bot comes packed with Qualcomm’s RB5 robotics chip, cameras, speakers and sensors for gauging temperature, humidity and air quality.",
-      "sourceUrl": null,
-      "webUrl": "https://hypebeast.com/2023/12/lg-ai-smart-robot-home-use-preview",
-      "originalUrl": "https://hypebeast.com/2023/12/lg-ai-smart-robot-home-use-preview",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F12%2Flg-smart-agent-robot-home-preview-tw.jpg?w=1080&cbr=1&q=90&fit=max",
-          "width": 1080,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-28T21:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hypebeast",
-        "domain": "hypebeast.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

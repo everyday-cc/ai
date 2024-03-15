@@ -19,6 +19,7 @@ topics:
   - AI in Robotics
   - IBM AI
   - AI in Healthcare
+  - AWS AI
 
 images:
   - url: "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png"

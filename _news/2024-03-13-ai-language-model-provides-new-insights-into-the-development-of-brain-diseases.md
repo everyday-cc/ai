@@ -62,6 +62,15 @@ related:
       name: Axios
       domain: axios.com
     quality: 19
+  - title: "The AI Developer Alliance looks to bring developers into the AI conversation"
+    excerpt: "“By bringing together leading developers and organizations, this alliance is paving the way for impactful advancements in AI technology, transparency and ethics.” AI’s emergence is similar to the advent of the cloud, Kent noted, with an “explosion ..."
+    publishedDateTime: 2024-03-14T09:25:00Z
+    webUrl: "https://www.sdxcentral.com/articles/analysis/the-ai-developer-alliance-looks-to-bring-developers-into-the-ai-conversation/2024/03/"
+    type: article
+    provider:
+      name: SDxCentral
+      domain: sdxcentral.com
+    quality: 16
 
 secured: "3DEZp0va6M2/OqVxVbANYzkgwMyuIU6dvrcR4kxQifEyn2oOdqnpc+dVr5X+ZZUSlwACKHbAh448qiNEsqK63lApaL4Vxlbg3iqUgTu1uHri3YEfjJmllsUpK2jQMEhoP75gHv4bkD0kejJDAO1tUQjNhwUo2GZKGSKISLKk1HycomRGm0sKZUxNFd7VJXMPGhok3S7JQmTrhLBW/podViYfvr9NjjFf6ZDI4Uv9n6+HO6L/fVrR/v2qZxUMWVhN6X3cR1FM2P+Y0wmVv56/NGJqiK0IDR0kqdE53bMkiR7tZ6F611o2QE2s/5J4LRJwda4IwX9Q+QyDt4GvqTmtVGmMm7uzSbtVYS5mR9MNOuos1da6eRRRiCGz6QZ00UK8JBvS15c5Uv/Sqt2OIBDAoj89PFoCAhVUJBBGbxplh4OobgNj5HheNXaZ7yZ6C3kdf1R7aLth7EKhJd/aJT5mN45PqhS3EZddPGqG7SVTCHFQuJdBV9GAj5QF5I7ziBZi3sggsPTroAepMBuIid0ncQ==;XXvtl0MvOHSzpZhUBQB9NQ=="
 ---
