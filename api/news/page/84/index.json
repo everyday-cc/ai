@@ -2,6 +2,144 @@
   "page": 84,
   "value": [
     {
+      "path": "_news/2024-01-13-the-state-of-microsoft-data-part-2.md",
+      "title": "The State of Microsoft Data Part 2",
+      "excerpt": "While Microsoft's latest offering, Fabric, is a viable option for many, it's not the only player out there.",
+      "sourceUrl": null,
+      "webUrl": "https://redmondmag.com/Articles/2024/01/12/The-State-of-Microsoft-Data-Part-2.aspx",
+      "originalUrl": "https://redmondmag.com/Articles/2024/01/12/The-State-of-Microsoft-Data-Part-2.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImages2024/analyticdataabstract.jpg",
+          "width": 647,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-12T19:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Redmond Magazine",
+        "domain": "redmondmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-13-timekettles-x1-makes-language-translation-effortless-with-ai-driven-interpretation.md",
+      "title": "Timekettle's X1 Makes Language Translation Effortless With AI-Driven Interpretation",
+      "excerpt": "The AI powering the X1 will mimic the voice ... lets up to 20 people have a conversation in five different languages with real-time translation. Notably, it works for both in-person and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/1490692/timekettle-x1-voice-language-translator-ai/",
+      "originalUrl": "https://www.slashgear.com/1490692/timekettle-x1-voice-language-translator-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.slashgear.com/img/gallery/timekettles-x1-makes-language-translation-effortless-with-ai-driven-interpretation/l-intro-1704989646.jpg",
+          "width": 1600,
+          "height": 896,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-12T18:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-13-global-collaboration-is-key-to-smart-ai-artificial-intelligence-stewardship.md",
+      "title": "Global Collaboration is Key to Smart AI (Artificial Intelligence) Stewardship",
+      "excerpt": "Artificial intelligence (AI) is transforming our societies and economies in almost unimaginable ways, according to experts at the Special Competitive Studies Project (SCSP), a bipartisan nonprofit organization.",
+      "sourceUrl": null,
+      "webUrl": "https://www.republic-online.com/online_features/tech_talk_and_innovation/global-collaboration-is-key-to-smart-ai-artificial-intelligence-stewardship/article_91538c37-4441-5db5-b764-db893897c54f.html",
+      "originalUrl": "https://www.republic-online.com/online_features/tech_talk_and_innovation/global-collaboration-is-key-to-smart-ai-artificial-intelligence-stewardship/article_91538c37-4441-5db5-b764-db893897c54f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/republic-online.com/content/tncms/assets/v3/editorial/2/69/26994866-02ca-5fa5-b0df-e47730d34ef6/65a24a7597ea5.image.jpg?crop=1766%2C927%2C0%2C122&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-12T17:36:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Miami County Republic",
+        "domain": "republic-online.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-13-laboratory-automation-leverages-artificial-intelligence.md",
       "title": "Laboratory Automation Leverages Artificial Intelligence",
       "excerpt": "From liquid handling to image analysis, laboratory tasks are being performed more easily and accurately with the help of artificial intelligence–driven platforms.",
@@ -935,118 +1073,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-12-awss-hidden-threat-ambersquid-cloud-native-cryptojacking-operation.md",
-      "title": "AWS’s Hidden Threat: AMBERSQUID Cloud-Native Cryptojacking Operation",
-      "excerpt": "AMBERSQUID tactically exploits less-known AWS services (Amplify, Fargate, SageMaker), costing victims $10,000+/day.",
-      "sourceUrl": null,
-      "webUrl": "https://cloudsecurityalliance.org/articles/aws-s-hidden-threat-ambersquid-cloud-native-cryptojacking-operation/",
-      "originalUrl": "https://cloudsecurityalliance.org/articles/aws-s-hidden-threat-ambersquid-cloud-native-cryptojacking-operation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudsecurityalliance.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb2d1IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--35003ea1a59ccbb4e062cb2818e3b3d7dc4a1540/Rise-of-Cloud-Computing-Adoption-and-Cybercrimes.jpg/",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T18:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cloud Security Alliance",
-        "domain": "cloudsecurityalliance.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-12-kodiak-robotics-unveils-driverless-semitruck-slated-to-hit-texas-highways-in-2024.md",
-      "title": "Kodiak Robotics unveils driverless semitruck slated to hit Texas highways in 2024",
-      "excerpt": "Kodiak Robotics Inc. unveiled what it calls the world’s first driverless-ready semi-truck designed for scaled deployment at the Consumer Electronics Show in January 2024. The truck will run various driverless operations between Dallas and Houston starting in 2024, according to the company.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/houston/inno/stories/news/2024/01/11/kodiak-robotics-unveils-driverless.html",
-      "originalUrl": "https://www.bizjournals.com/houston/inno/stories/news/2024/01/11/kodiak-robotics-unveils-driverless.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T18:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-01-12-intersystems-introduces-two-new-cloud-native-smart-data-services-to-accelerate-database-and-machine-learning-application-development.md",
-      "title": "InterSystems Introduces Two New Cloud-Native Smart Data Services to Accelerate Database and Machine Learning Application Development",
-      "excerpt": "InterSystems, a creative data technology provider dedicated to helping customers solve their most critical scalability, interoperability, and speed pr",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20240111610851/en/InterSystems-Introduces-Two-New-Cloud-Native-Smart-Data-Services-to-Accelerate-Database-and-Machine-Learning-Application-Development",
-      "originalUrl": "https://www.businesswire.com/news/home/20240111610851/en/InterSystems-Introduces-Two-New-Cloud-Native-Smart-Data-Services-to-Accelerate-Database-and-Machine-Learning-Application-Development",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T17:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

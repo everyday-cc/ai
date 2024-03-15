@@ -33,7 +33,7 @@ related:
     provider:
       name: SC Media
       domain: scmagazine.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://files.scmagazine.com/wp-content/uploads/2024/03/PriyankKapadiaCol.jpg"
         width: 1280

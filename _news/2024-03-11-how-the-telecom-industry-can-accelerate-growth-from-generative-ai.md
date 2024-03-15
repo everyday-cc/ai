@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/cindygordon/2024/03/11/how-the-teleco
 webUrl: "https://www.forbes.com/sites/cindygordon/2024/03/11/how-the-telecom-industry-can-accelerate-growth-from-generative-ai/"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Generative AI Use Cases for the Financial Services Industry"
+    excerpt: "Generative AI emerged in early 2023 and is delivering great results, and the banking industry comes as no exception. Two-thirds of top finance and analytics professionals who attended a recent McKinsey seminar on generation AI said they expected the technology to significantly improve the way they conduct business."
+    publishedDateTime: 2024-03-15T12:46:00Z
+    webUrl: "https://techbullion.com/generative-ai-use-cases-for-the-financial-services-industry/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2024/03/b-900x600.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "stc Bahrain, the first telecom to launch instant mobile SIM Activation using AI Face Recognition Technology"
     excerpt: "Bahrain, a world-class digital enabler, has announced the launch of a first-of-its-kind instant mobile SIM activation service using AI face"
     publishedDateTime: 2024-03-13T13:51:00Z

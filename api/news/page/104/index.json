@@ -2,6 +2,135 @@
   "page": 104,
   "value": [
     {
+      "path": "_news/2023-12-18-in-a-first-ai-based-tool-used-to-translate-pm-modis-speech.md",
+      "title": "In A First, AI-Based Tool Used To Translate PM Modi's Speech",
+      "excerpt": "Prime Minister Narendra Modi's speech at an event in Uttar Pradesh's Varanasi yesterday was translated in real-time using artificial intelligence (AI) technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/india-news/in-a-first-ai-based-tool-used-to-translate-pm-modis-speech-4695483",
+      "originalUrl": "https://www.ndtv.com/india-news/in-a-first-ai-based-tool-used-to-translate-pm-modis-speech-4695483",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2023-12/t74bqm3g_pm-modi-varanasi-1200-_625x300_17_December_23.jpeg",
+          "width": 1200,
+          "height": 738,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/india-news/in-a-first-ai-based-tool-used-to-translate-pm-modis-speech-4695483/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/in-a-first-ai-based-tool-used-to-translate-pm-modis-speech-4695483/amp/1",
+      "publishedDateTime": "2023-12-18T07:12:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-18-15-robots-powered-by-ai-and-their-insane-demo-videos.md",
+      "title": "15 robots powered by AI and their insane demo videos",
+      "excerpt": "Elon Musk, recently showcased his latest creation, the Optimus Gen-1. Following advancements in large language models, it seems the race to create the most powerful AI-backed robot is intensifying. The Tesla Optimus account shared a demo video of Optimus Gen-1, which triggered a conversation around AI robots.",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/technology/artificial-intelligence/best-ai-robots-of-2023-robot-demo-videos-9069858/",
+      "originalUrl": "https://indianexpress.com/article/technology/artificial-intelligence/best-ai-robots-of-2023-robot-demo-videos-9069858/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2023/12/RobotShopping.jpeg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/technology/artificial-intelligence/best-ai-robots-of-2023-robot-demo-videos-9069858/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/artificial-intelligence/best-ai-robots-of-2023-robot-demo-videos-9069858/lite/",
+      "publishedDateTime": "2023-12-18T03:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-18-teslas-recall-of-2-million-vehicles-reminds-us-how-far-driverless-car-ai-still-has-to-go.md",
+      "title": "Tesla's recall of 2 million vehicles reminds us how far driverless car AI still has to go",
+      "excerpt": "Tesla has recalled 2 million US vehicles over concerns about its autopilot function. Autopilot is meant to help with manoeuvres such as steering and acceleration, but still needs input from the driver.",
+      "sourceUrl": null,
+      "webUrl": "https://www.econotimes.com/Teslas-recall-of-2-million-vehicles-reminds-us-how-far-driverless-car-AI-still-has-to-go-1667962",
+      "originalUrl": "https://www.econotimes.com/Teslas-recall-of-2-million-vehicles-reminds-us-how-far-driverless-car-AI-still-has-to-go-1667962",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://f1.econotimes.com/2023/12/nc1m9ls3vd_th_1024x0.jpg",
+          "width": 496,
+          "height": 279,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-18T02:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EconoTimes",
+        "domain": "econotimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-18-artificial-intelligence-what-teachers-and-students-need-to-know.md",
       "title": "Artificial Intelligence: What teachers and students need to know",
       "excerpt": "It is the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with intelligent beings. Artificial intelligence combines the intellectual knowledge of different fields such as computer science, physiology ...",
@@ -982,154 +1111,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-16-google-shapes-gemini-ai-tools-for-developers.md",
-      "title": "Google Shapes Gemini AI Tools For Developers",
-      "excerpt": "AI is changing and it will continue to do so - although this year of generative AI stands out as a seminal moment in time - now we need the right developer tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/12/16/google-shapes-gemini-ai-tools-for-developers/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/12/16/google-shapes-gemini-ai-tools-for-developers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/657d683b20807ddde92b89ef/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 640,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2023/12/16/google-shapes-gemini-ai-tools-for-developers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2023/12/16/google-shapes-gemini-ai-tools-for-developers/amp/",
-      "publishedDateTime": "2023-12-16T09:10:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-16-ai-a-double-edged-sword-for-ethics-security-of-vietnamese-education.md",
-      "title": "AI a double-edged sword for ethics, security of Vietnamese education",
-      "excerpt": "The widespread embrace of artificial intelligence (AI) in learning can be a double-edged sword, with debate in academic circles revolving around how AI can be used ethically and in alignment with local academic standards. Hoang Ngan, a sophomore at the ...",
-      "sourceUrl": null,
-      "webUrl": "https://tuoitrenews.vn/news/education/20231216/ai-a-doubleedged-sword-for-ethics-security-of-vietnamese-education/77287.html",
-      "originalUrl": "https://tuoitrenews.vn/news/education/20231216/ai-a-doubleedged-sword-for-ethics-security-of-vietnamese-education/77287.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tuoitrenews.vn/ttnew/r/2023/12/14/385537962-678314627624249-309935422918557897-n-1702528424.png",
-          "width": 730,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-16T06:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tuoi Tre news",
-        "domain": "tuoitrenews.vn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Education",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2023-12-16-dictionarycom-2023-word-of-the-year-hallucinate-is-an-ai-health-issue.md",
-      "title": "Dictionary.com 2023 Word Of The Year ‘Hallucinate’ Is An AI Health Issue",
-      "excerpt": "Dictionary.com noticed a 46% jump in dictionary lookups for the word “hallucinate” from 2022 to 2023 with a comparable increase in searches for “hallucination” as well.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brucelee/2023/12/15/dictionarycom-2023-word-of-the-year-hallucinate-is-an-ai-health-issue/",
-      "originalUrl": "https://www.forbes.com/sites/brucelee/2023/12/15/dictionarycom-2023-word-of-the-year-hallucinate-is-an-ai-health-issue/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/657ca8b37714a7c751a5c454/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1273,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brucelee/2023/12/15/dictionarycom-2023-word-of-the-year-hallucinate-is-an-ai-health-issue/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucelee/2023/12/15/dictionarycom-2023-word-of-the-year-hallucinate-is-an-ai-health-issue/amp/",
-      "publishedDateTime": "2023-12-16T01:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

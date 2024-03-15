@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/03/13/how-generative-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/03/13/how-generative-ai-will-change-the-jobs-of-doctors-and-healthcare-professionals/amp/"
 type: article
 quality: 100
-heat: 250
+heat: 270
 published: true
 
 provider:
@@ -180,6 +180,20 @@ related:
         width: 970
         height: 545
         isCached: true
+  - title: "Heard at HIMSS '24: How 12 healthcare leaders use generative AI at work"
+    excerpt: "Discover how healthcare leaders use generative AI, such as ChatGPT, in their day-to-day jobs. Read insights from 12 executives at the HIMSS '24 conference."
+    publishedDateTime: 2024-03-15T14:59:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/heard-at-himss-24-how-12-healthcare-leaders-use-generative-ai-at-work.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Generative AI Is A Game Changer For Talent Transformation"
     excerpt: "One of generative AI's most significant implications is giving talent management professionals the ability to communicate information to executives and their board of directors. It helps leadership look around corners, rather than just in the rearview mirror, when shaping strategy or making decisions."
     publishedDateTime: 2024-03-11T12:00:00Z
@@ -234,6 +248,15 @@ related:
     provider:
       name: Automotive News
       domain: autonews.com
+    quality: 19
+  - title: "Why the Writing Produced by Generative AI Feels Counterfeit"
+    excerpt: "Generative AI is revolutionizing not only the digital realm but also how we conceive, design, and produce computer chips and countless physical products, print circuit boards, analyze thermal transfer and distribution in electronics systems, and enable ..."
+    publishedDateTime: 2024-03-15T00:00:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/progress-notes/202312/why-the-writing-produced-by-generative-ai-feels-counterfeit"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
     quality: 19
 
 secured: "MEYN9NGV2yURsIbjGTf0sOe9eA4nB2aUli7W/LFF47HqUXZ6Jz5uOmzgbF8hZWZWffjmMLwipQ9uRw5ae8xhmrwab2VcLQdsmr7iwfO5+ku2mlD6yYjuN+3ZwEJkEUhS7B3Uapt71alDN0pP0EsMg/i1p9pmP2WTR0HeQ4voIlGl8Z5OiTPLH6ZyBeXnGiGG0rg79noBld1iOR7mcrtghSn/mLbjXHJyDjJGge9OIJE9/tzZPQJi58GBm2rhVjPWesb5Jt+cWZwGlx/qSZsizVjKy8BYp/mkOXq2FmNUulSfevS/J656KyeVqkuWNLKv1BTTWt3hDfTmZc1n5B8dmRDROyQqVHj+22HfLwKez5tuu7QurZJXFIa9vRqo2Xel7lItaMFH2uhZrstw2FvFrMmynt+OKte9fIY/+Qc5QCMaI325kmNtWGgpQRy2EIxPd+txsskIBBeb7a1MBZpMO5K9tocBE98jWw+ObnntY7v+HUD+Oi04nHE77an+GlBTe7m/KOuh5SR5IO7KTdTrxQ==;KF9q5U822DSGJprYoHHGMw=="

@@ -2,6 +2,102 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2023-12-07-google-says-bard-is-now-smarter-than-chatgpt-thanks-to-gemini-update.md",
+      "title": "Google says Bard is now smarter than ChatGPT, thanks to Gemini update",
+      "excerpt": "Google unveiled its take on the AI chatbot -- Google Bard -- last February. Since its release, Bard has been powered by two different large language models (LLMs) with the promise of making it a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/google-says-bard-is-now-smarter-than-chatgpt-thanks-to-gemini-update/",
+      "originalUrl": "https://www.zdnet.com/article/google-says-bard-is-now-smarter-than-chatgpt-thanks-to-gemini-update/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/5811d37721dd8b0e6cba911d67e1c33613ab5d07/2023/12/06/5f66f7a6-63ef-487a-9765-3856d4156497/2bardgettyimages-1676988402.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-says-bard-is-now-smarter-than-chatgpt-thanks-to-gemini-update/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-says-bard-is-now-smarter-than-chatgpt-thanks-to-gemini-update/",
+      "publishedDateTime": "2023-12-06T17:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-06-gretel-debuts-on-microsoft-azure-marketplace-selected-for-microsoft-for-startups-pegasus-program.md",
+      "title": "Gretel Debuts on Microsoft Azure Marketplace & Selected for Microsoft for Startups Pegasus Program",
+      "excerpt": "In a significant advancement for privacy-first AI applications, Gretel, a leader in multimodal synthetic data generation, today announces its software is now available on the Microsoft Azure Marketplace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.valdostadailytimes.com/ap/business/gretel-debuts-on-microsoft-azure-marketplace-selected-for-microsoft-for-startups-pegasus-program/article_ccce9287-6545-5a83-89d9-3194d2293825.html",
+      "originalUrl": "https://www.valdostadailytimes.com/ap/business/gretel-debuts-on-microsoft-azure-marketplace-selected-for-microsoft-for-startups-pegasus-program/article_ccce9287-6545-5a83-89d9-3194d2293825.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-06T14:43:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Valdosta Daily Times",
+        "domain": "valdostadailytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-06-chatgpt-and-how-neural-networks-learned-to-talk-a-30-year-journey.md",
       "title": "ChatGPT and how Neural Networks learned to talk a 30 year journey",
       "excerpt": "Learn about the advances in technology over the last 30 years that have culminated into neural networks being able to talk. ChatGPT AI models",
@@ -1291,101 +1387,6 @@
         "AI",
         "Machine Learning",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-the-best-online-courses-for-ai-chatgpt-midjourney-and-more.md",
-      "title": "The best online courses for AI, ChatGPT, Midjourney, and more",
-      "excerpt": "TL;DR: Find the best online courses on AI, ChatGPT, Midjourney, and more on Udemy. Are you absolutely terrified of the seemingly inevitable rise of AI? You're not alone. This technology is causing a lot of controversy and genuine concern, but what's clear is that it isn't going anywhere.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/best-ai-courses",
-      "originalUrl": "https://mashable.com/article/best-ai-courses",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/02nIhjWsO4c7nWMwnLfrXdE/hero-image.fill.size_1200x675.v1701190561.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-29T05:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-29-chatgpts-first-year-udemy-data-highlights-unprecedented-global-demand-for-generative-ai-skills.md",
-      "title": "ChatGPT's First Year: Udemy Data Highlights Unprecedented Global Demand for Generative AI Skills",
-      "excerpt": "We believe Udemy was the first global learning platform to provide content on learning generative AI skills, with a ChatGPT course on Udemy just 11 days after its launch,” said Scott Rogers, Senior Vice President of Supply Strategy at Udemy.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-s-first-year-udemy-data-highlights-unprecedented-global-demand-for-generative-ai-skills-1032855703",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-s-first-year-udemy-data-highlights-unprecedented-global-demand-for-generative-ai-skills-1032855703",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ml.globenewswire.com/Resource/Download/6707632d-778b-440c-9fe9-7b633bf2a020",
-          "width": 1200,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-11-28T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -57,6 +57,15 @@ related:
       name: Slator
       domain: slator.com
     quality: 12
+  - title: "Applied Intuition valued at $6 billion in new funding round"
+    excerpt: "Applied Intuition said Tuesday it has raised a funding round that will allow the company to speed development of new products related to generative artificial intelligence."
+    publishedDateTime: 2024-03-12T11:49:00Z
+    webUrl: "https://www.autonews.com/technology/applied-intuition-valued-6-billion-new-funding-round"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 4
   - title: "Applied Intuition scores $250 million deal, scales to $6 B valuation"
     excerpt: "LLMs and other new AI models are transforming the automotive and autonomy industries,” said Qasar Younis, CEO of Applies Intuition. It raised a $250 million all-equity Series E round at a $6 billion valuation."
     publishedDateTime: 2024-03-12T20:28:00Z

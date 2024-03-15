@@ -6,7 +6,7 @@ publishedDateTime: 2024-03-15T11:30:00Z
 originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/15/more-than-chatbots-ai-trends-driving-conversational-experiences-for-customers/"
 webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/15/more-than-chatbots-ai-trends-driving-conversational-experiences-for-customers/"
 type: article
-quality: 63
+quality: 65
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/656a32d99fe5eeaf72384048/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
@@ -135,6 +136,6 @@ related:
         height: 832
         isCached: true
 
-secured: "MbH7vpQnEkqMLI+3Avtvc5anCAl9WVWXGbl/hAuc0bxuxXNNXaKLTH1iaThcLRp+nZZ9r87l97UKAYXnO19GHAH44S6BUoC2XVFwANF5UQmHLAlWSPWbYAfxN/HdjLFISot/XJeCU8nTAy8OIOo4Djip2tJWQZbFU663X3lud+D9fiegw02OprZuz8vlrxsBxEsjHJSqbOttHe1wYtOeopXi7wy8obbCLk9PA6vmb4Jyrs35EHRz6zAThUaejGxtc5YC50gCsAg3z0SQD34nUtr8TH0HCSHNIapun2kxkkZ0WKXOPDF5ethM2toDvFBE5is1EYhEEjdFboa2jDpJEM6EfxCsqKp0zUkQ0tDN0Ks=;95IxfPqZbKWG1BussJ2vtg=="
+secured: "7fHtDHxW9+y4dtrtglyDsq+81gtxCUMcLMyWZKtZGLcI/fhHu43P+CHb0ubk0Dkw7FjCGNRwum+5GJduGaeapjcdSQQrs1ZOCohkqZTGiIR0pmhkPQ8/EicMTHaCC0pST/MT8G2U+PSoycBoajMKjvspaTDo5uNBILV0cbyzgn6sD6s5IOsMtZviZBa7cqtjhPmththL+tsoIE34m2FAXf+R264VkhEf2lavfKIBzBW3loAs/VMvIkI3HWB2jI774OFMHHlWxHP2dhM5dqV3BxjOgaxKyDdE6sde+fdlfH+cCwMywW2iwd/qaXqPVd4Dn1J4eDJ9PJdRp1sYI7UvqkB5XEX5dwcapXNPArL8BdOiw83HWu0ixpArgkIydpgVVzmqsNgRMKuchVgCOSSQqTmCeiS8+n8pDFphwYH/OOfX9xYYytaM86LMcfA+GmDO6ikmdgQFi960PtNQTJLohTQt1NRNMmxM0SzwuPPGSCcme8rZmzP0ibJTg482enq3hlkMfd/lBHDwiFT2ov45iw==;kFms5Gu8NdkNA8Ptt/bleQ=="
 ---
 

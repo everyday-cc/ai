@@ -2,6 +2,142 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2024-02-29-what-should-we-expect-from-ai-in-2024.md",
+      "title": "What Should We Expect From AI In 2024?",
+      "excerpt": "We are already two months into 2024, and the AI revolution roars on unabated. What should we expect from AI in 2024?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nishatalagala/2024/02/28/what-should-we-expect-from-ai-in-2024/",
+      "originalUrl": "https://www.forbes.com/sites/nishatalagala/2024/02/28/what-should-we-expect-from-ai-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e0028da2001bd2d124c603/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1190,
+          "height": 793,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nishatalagala/2024/02/28/what-should-we-expect-from-ai-in-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2024/02/28/what-should-we-expect-from-ai-in-2024/amp/",
+      "publishedDateTime": "2024-02-29T04:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-start-up-street-can-india-be-at-the-forefront-of-ai-technology.md",
+      "title": "Start-up Street: Can India be at the forefront of AI technology?",
+      "excerpt": "As AI makes rapid progress in being integrated across industries, India has a supportive ecosystem to be able to lead with pathbreaking innovations in the field",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/opinion/start-up-street-can-india-be-at-the-forefront-of-ai-technology-12374301.html",
+      "originalUrl": "https://www.moneycontrol.com/news/opinion/start-up-street-can-india-be-at-the-forefront-of-ai-technology-12374301.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2023/06/Canvas-AI-770x433.jpg",
+          "width": 770,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/opinion/start-up-street-can-india-be-at-the-forefront-of-ai-technology-12374301.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/start-up-street-can-india-be-at-the-forefront-of-ai-technology-12374301.html/amp",
+      "publishedDateTime": "2024-02-29T04:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-120-chatbot-statistics-for-2024-already-mainstream.md",
+      "title": "120+ Chatbot Statistics for 2024 (Already Mainstream)",
+      "excerpt": "One-third of people want to book services and amenities through a chatbot ... The top AI chatbots for work are Microsoft Cortana (49%), Apple Siri (47%), and Google Assistant (23%). 76. Around 53% are more likely to shop there if people can message ...",
+      "sourceUrl": null,
+      "webUrl": "https://techreport.com/statistics/chatbot-statistics/",
+      "originalUrl": "https://techreport.com/statistics/chatbot-statistics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techreport.com/wp-content/uploads/2024/02/Cool-Chatbot-Statistics-2024-scaled.jpg?_t=1709207563",
+          "width": 2048,
+          "height": 1109,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T03:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Tech Report",
+        "domain": "techreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-29-abb-eyes-ai-robotics-integration-to-push-growth-in-various-businesses.md",
       "title": "ABB eyes AI-robotics integration to push growth in various businesses",
       "excerpt": "ABB Ltd will integrate artificial intelligence with robotics across various sectors in China to sustain robust growth, senior executives of the Swiss-Swedish technology and engineering group said, as AI continues to evolve at an unprecedented pace, transforming numerous industries.",
@@ -952,144 +1088,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-self-driving-sensor-maker-luminar-falls-as-production-delay-at-volvo-hits-earnings.md",
-      "title": "Self-driving sensor maker Luminar falls as production delay at Volvo hits earnings",
-      "excerpt": "Feb 28 (Reuters) - Luminar Technologies (LAZR.O), opens new tab shares tumbled about 10% on Wednesday after the self-driving sensor maker's fourth-quarter results missed estimates on delayed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/self-driving-sensor-maker-luminar-falls-production-delay-volvo-hits-earnings-2024-02-28/",
-      "originalUrl": "https://www.reuters.com/technology/self-driving-sensor-maker-luminar-falls-production-delay-volvo-hits-earnings-2024-02-28/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T17:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-ibms-ai-enhanced-storage-platform-can-identify-ransomware-in-under-a-minute.md",
-      "title": "IBM's AI-enhanced storage platform can identify ransomware in under a minute",
-      "excerpt": "Read our ethics statement. Forward-looking ... without impacting performance. The new AI-enhanced FlashCore Module 4 is even more advanced, continuously monitoring stats gathered from every single I/O to look for anomalies like ransomware starting to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/102067-ibm-ai-enhanced-storage-platform-can-identify-ransomware.html",
-      "originalUrl": "https://www.techspot.com/news/102067-ibm-ai-enhanced-storage-platform-can-identify-ransomware.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-28-image-28.jpg",
-          "width": 3747,
-          "height": 2087,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-28T16:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-tech-in-healthcare-to-alleviate-pain-make-treatment-affordable-experts.md",
-      "title": "Tech in Healthcare to Alleviate Pain, Make Treatment Affordable: Experts",
-      "excerpt": "Hyderabad: In days to come, surgeries will go the minimally invasive way. There will be use of real-time data for added precision. Robotic surgeries will be mainstream. These are the views of",
-      "sourceUrl": null,
-      "webUrl": "https://www.deccanchronicle.com/nation/tech-in-healthcare-to-alleviate-pain-make-treatment-affordable-experts-883658",
-      "originalUrl": "https://www.deccanchronicle.com/nation/tech-in-healthcare-to-alleviate-pain-make-treatment-affordable-experts-883658",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.deccanchronicle.com/h-upload/2024/02/28/1077530-pav6976.jpg",
-          "width": 3680,
-          "height": 2456,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.deccanchronicle.com/amp/nation/tech-in-healthcare-to-alleviate-pain-make-treatment-affordable-experts-883658",
-      "cdnAmpWebUrl": "https://www-deccanchronicle-com.cdn.ampproject.org/c/s/www.deccanchronicle.com/amp/nation/tech-in-healthcare-to-alleviate-pain-make-treatment-affordable-experts-883658",
-      "publishedDateTime": "2024-02-28T16:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deccan Chronicle",
-        "domain": "deccanchronicle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-15-leveraging-an-ai-powered-salesforce-crm-will-require-better-data-management.md",
+      "title": "Leveraging an AI-powered Salesforce CRM Will Require Better Data Management",
+      "excerpt": "APAC IT leaders will need to be pragmatic about data management, budgets and roadmaps to deliver AI-powered CRM, says Rimini Street.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/salesforce-ai-crm-data-management/",
+      "originalUrl": "https://www.techrepublic.com/article/salesforce-ai-crm-data-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.techrepublic.com/uploads/2024/03/tr_20240313-leveraging-an-ai-powered-salesforce-crm-will-require-better-data-management.jpg",
+          "width": 1400,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-15T14:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2024-03-15-uk-and-germany-double-down-on-joint-ai-clean-energy-rd-efforts.md",
       "title": "UK And Germany Double Down On Joint AI, Clean Energy R&D Efforts",
       "excerpt": "The United Kingdom and Germany have turbocharged their collaboration in science, research and innovation with a new series of initiatives.",
@@ -114,7 +167,7 @@
       "originalUrl": "https://diginomica.com/tackling-deforestation-and-forest-degradation-ai-and-remote-sensing",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -1396,42 +1449,6 @@
       "topics": [
         "Meta AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-28-streamline-pytorch-machine-learning-workflows-with-cloudian-and-aws-hybrid-edge.md",
-      "title": "Streamline PyTorch Machine Learning Workflows With Cloudian And AWS Hybrid Edge",
-      "excerpt": "Cloudian contributed enhancements to AWS Labs’ open-source S3-Connector-for-PyTorch. The enhancements enable PyTorch ML algorithms to access data in Cloudian’s HyperStore object storage system via the AWS S3 API. The enhanced S3 connector is available from the GitHub repositories of AWS Labs and Cloudian.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scoop.co.nz/stories/BU202402/S00289.htm",
-      "originalUrl": "https://www.scoop.co.nz/stories/BU202402/S00289.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.scoop.co.nz/stories/BU2402/S00289/streamline-pytorch-machine-learning-workflows-with-cloudian-and-aws-hybrid-edge.htm",
-      "cdnAmpWebUrl": "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/BU2402/S00289/streamline-pytorch-machine-learning-workflows-with-cloudian-and-aws-hybrid-edge.htm",
-      "publishedDateTime": "2024-02-28T02:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Scoop",
-        "domain": "scoop.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI",
-        "Meta AI"
       ]
     }
   ],

@@ -2,6 +2,143 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2024-03-09-why-is-this-model-of-artificial-intelligence-being-called-the-most-intelligent.md",
+      "title": "Why is this model of Artificial Intelligence being called the most intelligent?",
+      "excerpt": "In the realm of artificial intelligence (AI), where breakthroughs and advancements seem almost routine, one model stands out from the crowd:..|News Track",
+      "sourceUrl": null,
+      "webUrl": "https://english.newstracklive.com/news/why-is-this-model-of-artificial-intelligence-being-called-the-most-intelligent-sc71-nu371-ta371-1312623-1.html",
+      "originalUrl": "https://english.newstracklive.com/news/why-is-this-model-of-artificial-intelligence-being-called-the-most-intelligent-sc71-nu371-ta371-1312623-1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.newstrack.in/uploads/technology-news/technology-news/Mar/09/big_thumb/bhgbh_65ec115243a87.jpg",
+          "width": 804,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://english.newstracklive.com/ampnews/why-is-this-model-of-artificial-intelligence-being-called-the-most-intelligent-sc71-nu371-ta371-1312623-1.html",
+      "cdnAmpWebUrl": "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/why-is-this-model-of-artificial-intelligence-being-called-the-most-intelligent-sc71-nu371-ta371-1312623-1.html",
+      "publishedDateTime": "2024-03-09T08:12:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Track",
+        "domain": "newstracklive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-09-i-fell-under-the-spell-of-an-ai-psychologist-then-things-got-a-little-weird.md",
+      "title": "I fell under the spell of an AI psychologist. Then things got a little weird",
+      "excerpt": "The Guardian described one person's experience with her Character.ai psychologist like this: \"Christa didn't have to worry about being boring or inappropriate or too dark. 'I could talk over and over, and not have to waste somebody's time.'\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/i-fell-under-the-spell-of-an-ai-psychologist-then-things-got-a-little-weird/",
+      "originalUrl": "https://www.zdnet.com/article/i-fell-under-the-spell-of-an-ai-psychologist-then-things-got-a-little-weird/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/ac0396a937954fd46deca548f74f3401ac9cb513/2024/03/08/af85fa11-8439-4f31-bb64-cd31ce3ff230/gettyimages-1508780671.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/i-fell-under-the-spell-of-an-ai-psychologist-then-things-got-a-little-weird/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/i-fell-under-the-spell-of-an-ai-psychologist-then-things-got-a-little-weird/",
+      "publishedDateTime": "2024-03-09T04:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-09-gpu-access-to-power-up-indias-ai-play-experts.md",
+      "title": "GPU access to power up India’s AI play: experts",
+      "excerpt": "AI Mission will help startups make in India and for the world, say tech investors. The Rs 10,372-crore Artificial Intelligence (AI) Mission, announced on Thursday, will operate on a public-private partnership model.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/articleshow/108335973.cms?from=mdr",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/articleshow/108335973.cms?from=mdr",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1638520,msid-108336041/gpus-access-india.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/amp_articleshow/108335973.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/amp_articleshow/108335973.cms",
+      "publishedDateTime": "2024-03-09T02:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-09-male-ai-robot-appears-to-grope-female-reporter-during-interview-at-tech-expo.md",
       "title": "Male AI robot appears to grope female reporter during interview at tech expo",
       "excerpt": "An AI robot called Muhammad touched a female reporter’s backside during a Saudi Arabia tech expo. The android acted ‘independently without direct human control.’",
@@ -1014,135 +1151,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-08-bjp-to-use-ai-to-translate-pms-speeches.md",
-      "title": "BJP to use AI to translate PM’s speeches",
-      "excerpt": "BJP is using 'Bhashini', an AI-powered tool, launched under the National Language Translation Mission, to translate PM Narendra Modi's Lok Sabha campaign speeches into regional languages, bridging the language gap and connecting with audiences in southern ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/bengaluru/bjp-to-use-ai-to-translate-pms-speeches/articleshow/108318912.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/bengaluru/bjp-to-use-ai-to-translate-pms-speeches/articleshow/108318912.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-108319257,width-1280,height-720,resizemode-72/108319257.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/city/bengaluru/bjp-to-use-ai-to-translate-pms-speeches/amp_articleshow/108318912.cms",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/city/bengaluru/bjp-to-use-ai-to-translate-pms-speeches/amp_articleshow/108318912.cms",
-      "publishedDateTime": "2024-03-08T06:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-08-not-science-fiction-how-optical-neural-networks-are-revolutionizing-ai.md",
-      "title": "Not Science Fiction: How Optical Neural Networks Are Revolutionizing AI",
-      "excerpt": "A novel architecture for optical neural networks utilizes wavefront shaping to precisely manipulate the travel of ultrashort pulses through multimode fibers, enabling nonlinear optical computation. Pr",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/not-science-fiction-how-optical-neural-networks-are-revolutionizing-ai/",
-      "originalUrl": "https://scitechdaily.com/not-science-fiction-how-optical-neural-networks-are-revolutionizing-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/Quantum-ComputingTechnology-Art-Concept-Illustration.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-08T06:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-08-bengaluru-driverless-metro-trials-begin-how-ai-will-help-steer-this-train.md",
-      "title": "Bengaluru driverless Metro trials begin: How AI will help steer this train",
-      "excerpt": "Bengaluru Metro Rail Corporation has started slow trial runs of its driverless trains on the newly-constructed yellow line. The trains equipped with Communication-Based Train Control system will run on the 18.",
-      "sourceUrl": null,
-      "webUrl": "https://www.firstpost.com/explainers/bengaluru-driverless-metro-trials-begin-how-ai-will-help-steer-this-train-13746522.html",
-      "originalUrl": "https://www.firstpost.com/explainers/bengaluru-driverless-metro-trials-begin-how-ai-will-help-steer-this-train-13746522.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.firstpost.com/uploads/2024/03/PTI03_06_2024_000300B-2-2024-03-fba5b338fef933a296030675811e027b.jpg?im=FitAndFill=(1200,675)",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.firstpost.com/explainers/bengaluru-driverless-metro-trials-begin-how-ai-will-help-steer-this-train-13746522.html/amp",
-      "cdnAmpWebUrl": "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/explainers/bengaluru-driverless-metro-trials-begin-how-ai-will-help-steer-this-train-13746522.html/amp",
-      "publishedDateTime": "2024-03-08T06:24:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Firstpost",
-        "domain": "firstpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

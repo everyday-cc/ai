@@ -2,6 +2,109 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-03-13-will-you-want-an-ai-pc-in-2024.md",
+      "title": "Will You Want An AI PC In 2024?",
+      "excerpt": "From the recent MacBook Air product launch press release: “With the transition to Apple silicon, every Mac is a great platform for AI. M3 includes a faster and more efficient 16-core Neural Engine, along with accelerators in the CPU and GPU to boost on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2024/03/13/will-you-want-an-ai-pc-in-2024/",
+      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2024/03/13/will-you-want-an-ai-pc-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65f231594bd589c2f720cec3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1252,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2024/03/13/will-you-want-an-ai-pc-in-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2024/03/13/will-you-want-an-ai-pc-in-2024/amp/",
+      "publishedDateTime": "2024-03-13T16:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-13-satya-nadella-says-google-shouldve-been-the-default-winner-of-the-ai-race.md",
+      "title": "Satya Nadella says Google should've been the 'default winner' of the AI race",
+      "excerpt": "Satya Nadella said Google has the resources that should've made it the Big Tech AI leader. Instead, Microsoft now seems to hold that position.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/satya-nadella-google-default-winner-ai-race-microsoft-2024-3",
+      "originalUrl": "https://www.businessinsider.com/satya-nadella-google-default-winner-ai-race-microsoft-2024-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65f1b75ece7f1785b2e92243?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/satya-nadella-google-default-winner-ai-race-microsoft-2024-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/satya-nadella-google-default-winner-ai-race-microsoft-2024-3?amp",
+      "publishedDateTime": "2024-03-13T15:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-13-google-paid-out-10-million-in-bug-bounties-to-security-researchers-in-2023.md",
       "title": "Google paid out $10 million in bug bounties to security researchers in 2023",
       "excerpt": "and Kai's \"Hacking Google Bard - From Prompt Injection to Data Exfiltration\" and Roni, Justin, and Joseph's \"We Hacked Google A.I. for $50,000.\" The $10 million that Google paid in bug bounties in 2023 was lower than the $12 million the company spent in 2022.",
@@ -10,7 +113,7 @@
       "originalUrl": "https://www.zdnet.com/article/google-paid-out-10-million-in-bug-bounties-to-security-researchers-in-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -554,6 +657,58 @@
       ]
     },
     {
+      "path": "_news/2024-03-13-ai-startup-cerebras-unveils-the-wse-3-the-largest-chip-yet-for-generative-ai.md",
+      "title": "AI startup Cerebras unveils the WSE-3, the largest chip yet for generative AI",
+      "excerpt": "The chip, the size of a single semiconductor wafer, has doubled performance to handle large language models in the tens of trillions of parameters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/?ref=upstract.com",
+      "originalUrl": "https://www.zdnet.com/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/?ref=upstract.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/ae31154ea474b18f8cee28ac96cedae0c8b190c1/2024/03/13/0036db94-4241-4f06-a8eb-1eef2c4c37be/cerebras-2024-wse-3-3.png?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/",
+      "publishedDateTime": "2024-03-13T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-13-the-emerging-llm-stack-in-investment-funds.md",
       "title": "The Emerging LLM Stack In Investment Funds",
       "excerpt": "Adoption still faces barriers and risks, but a large language model (LLM) stack is emerging to accommodate new use cases and address concerns.",
@@ -958,7 +1113,7 @@
       "originalUrl": "https://diginomica.com/tackling-deforestation-and-forest-degradation-ai-and-remote-sensing",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -1095,145 +1250,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-tesla-remains-wall-streets-bearish-betting-chip-among-large-caps-but-a-hot-ai-plays-short-interest-also-surges.md",
-      "title": "Tesla Remains Wall Street's Bearish Betting Chip Among Large-Caps, But A Hot AI Play's Short Interest Also Surges",
-      "excerpt": "High short interest indicates investor pessimism towards a stock. Tesla has been on a broader downtrend since its November 2021 peak of $413.29.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/markets/equities/24/03/37641406/tesla-remains-wall-streets-bearish-betting-chip-among-large-caps-but-a-hot-ai-plays-short-intere",
-      "originalUrl": "https://www.benzinga.com/markets/equities/24/03/37641406/tesla-remains-wall-streets-bearish-betting-chip-among-large-caps-but-a-hot-ai-plays-short-intere",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2024/Tesla-Shares_10.jpeg?width=1200&height=800&fit=crop",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/37641406",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37641406",
-      "publishedDateTime": "2024-03-13T07:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-gpu-access-to-power-up-indias-ai-play-experts.md",
-      "title": "GPU access to power up India’s AI play: experts",
-      "excerpt": "AI Mission will help startups make in India and for the world, say tech investors. The Rs 10,372-crore Artificial Intelligence (AI) Mission, announced on Thursday, will operate on a public-private partnership model.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/gpu-access-to-power-up-indias-ai-play-experts/articleshow/108335973.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/gpu-access-to-power-up-indias-ai-play-experts/articleshow/108335973.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1638520,msid-108336041/gpus-access-india.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/amp_articleshow/108335973.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/amp_articleshow/108335973.cms",
-      "publishedDateTime": "2024-03-13T07:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-how-generative-ai-will-change-the-jobs-of-doctors-and-healthcare-professionals.md",
-      "title": "How Generative AI Will Change The Jobs Of Doctors And Healthcare Professionals",
-      "excerpt": "Generative AI is set to transform healthcare by aiding in diagnostics, automating administrative tasks, and accelerating drug discovery.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2024/03/13/how-generative-ai-will-change-the-jobs-of-doctors-and-healthcare-professionals/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2024/03/13/how-generative-ai-will-change-the-jobs-of-doctors-and-healthcare-professionals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 250,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65f14707aa26f8af0e584249/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2024/03/13/how-generative-ai-will-change-the-jobs-of-doctors-and-healthcare-professionals/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/03/13/how-generative-ai-will-change-the-jobs-of-doctors-and-healthcare-professionals/amp/",
-      "publishedDateTime": "2024-03-13T06:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

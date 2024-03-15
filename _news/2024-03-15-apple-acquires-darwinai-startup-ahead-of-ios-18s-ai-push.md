@@ -34,7 +34,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 85
+    quality: 87
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1235254642.jpg?resize=1200,800"
         width: 1200
@@ -94,6 +94,15 @@ related:
     provider:
       name: Investing
       domain: investing.com
+    quality: 17
+  - title: "Apple buys Canada-based AI startup: All the details"
+    excerpt: "tech giant Apple has quietly acquired the Canadian startup DarwinAI. The deal, though not publicly announced, has been confirmed by insiders and reported by Bloomberg. DarwinAI, based in Canada, has been at the forefront of developing innovative AI solutions."
+    publishedDateTime: 2024-03-15T12:40:00Z
+    webUrl: "https://timesofindia.indiatimes.com/technology/tech-news/apple-buys-canada-based-ai-startup-all-the-details/articleshow/108527900.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
     quality: 17
 
 secured: "Qi0czkupHj5GZiQBVhoSWOBYQhvNgNPZBlokzLNCcE8XfvYSnXkoZrmn00MuoqfEuYYOVB/iDArLn1Gg8EJsDdrzyLC19/PziD4RHBE9Id1ujH6xR9Hlv8jGktq5jDx16BsZypNV6G0kH/w6KU0Pho4LUfXSI072qE28vpEsJAzuMD4hPjTadUl7sMMOJqvmk8iBx7YjAk/q4aOb+VfqjU8tUJ8xH8ol9KOzIZsJPTKx2hnTIXivBgmWLGGRbdY1OQznXLJAIgJ/+ysyUBfS+JYKD6QepvfFv7rm9YQ2kOv2cP0Jp36vZFHM0gLQDnWmW/C8laaHjerDnvg2quoS11z1PSHvMOW53wdsy0/nQ1UHe7K+J9N790V3Fvt14krAzY+ljKoNFFkod1iN+UM09RqTKJXuvLA7U59lI6JxnoQ3tJ+VsOcZ5/xWquLdKDP40To1QVE76hY5WpcYYgZhD44FqQKa22YgVs7zIKAi1Bnddf3MzY1paqYjK1JlvsRtaXPjVg9BDqhFY6taAVK+4g==;w+wFf0ARBwD3P7DwydzYtg=="

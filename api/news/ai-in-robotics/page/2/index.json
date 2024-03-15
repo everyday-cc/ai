@@ -143,19 +143,19 @@
     {
       "path": "_news/2024-03-07-robot-ships-huge-remote-controlled-vessels-are-setting-sail.md",
       "title": "Robot ships: Huge remote controlled vessels are setting sail",
-      "excerpt": "Marian Meza Chavira is learning to pilot underwater robots from a remote control centre Entering the ... Many questions spring to mind about remotely operated and autonomous shipping, just as ...",
+      "excerpt": "\"We've added a lot of additional equipment and designed her especially to be what we call 'robotic',\" says Colin ... It's being fully controlled by a crew 475 miles away in an office in Aberdeen.",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/science-environment-68486462",
-      "originalUrl": "https://www.bbc.co.uk/news/science-environment-68486462",
+      "webUrl": "https://www.aol.com/news/robot-ships-huge-remote-controlled-000752631.html",
+      "originalUrl": "https://www.aol.com/news/robot-ships-huge-remote-controlled-000752631.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/C8AE/production/_132847315_oishipdrone2.jpg",
-          "width": 1024,
-          "height": 576,
+          "url": "https://media.zenfs.com/en/aol_bbc_articles_618/ffb140cc594fbd1ec204943423b80d9b",
+          "width": 976,
+          "height": 549,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -163,13 +163,13 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/science-environment-68486462",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/science-environment-68486462",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2024-03-07T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
+        "name": "AOL",
+        "domain": "aol.com",
         "images": null,
         "publishers": null,
         "authors": null

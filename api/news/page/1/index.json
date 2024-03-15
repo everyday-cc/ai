@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-15-leveraging-an-ai-powered-salesforce-crm-will-require-better-data-management.md",
+      "title": "Leveraging an AI-powered Salesforce CRM Will Require Better Data Management",
+      "excerpt": "APAC IT leaders will need to be pragmatic about data management, budgets and roadmaps to deliver AI-powered CRM, says Rimini Street.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/salesforce-ai-crm-data-management/",
+      "originalUrl": "https://www.techrepublic.com/article/salesforce-ai-crm-data-management/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.techrepublic.com/uploads/2024/03/tr_20240313-leveraging-an-ai-powered-salesforce-crm-will-require-better-data-management.jpg",
+          "width": 1400,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-15T14:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2024-03-15-beyond-chatgpt-four-types-of-ai-your-marketing-team-should-use-now.md",
       "title": "Beyond ChatGPT: Four Types Of AI Your Marketing Team Should Use Now",
       "excerpt": "To free up your marketing team’s precious time, learn to get the most out of LLMs. Do research, play around and experiment. Train these bots to do your most basic work, then use all the new information at your fingertips (and time on your hands) to create something even more valuable to your business than ever before.",
@@ -116,7 +169,7 @@
       "originalUrl": "https://www.scmagazine.com/perspective/how-to-build-a-genai-platform-with-cloud-based-machine-learning-ops",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -147,7 +200,8 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -202,6 +256,49 @@
       ]
     },
     {
+      "path": "_news/2024-03-15-google-io-2024-anticipation-builds-for-ai-innovations-and-potential-pixel-8a-unveiling.md",
+      "title": "Google I/O 2024: Anticipation Builds For AI Innovations And Potential Pixel 8a Unveiling",
+      "excerpt": "This year's keynote is widely anticipated to spotlight advancements in AI, in which Google has demonstrated substantial investment and evolution. Recent developments, such as AI-generated summaries in Google Search and updates to the Gemini chatbot (formerly Bard), hint at the potential AI-centric revelations expected at the event.",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/tech/71507/google-io-2024-anticipation-builds-for-ai-innovations-and-potential-pixel-8a-unveiling",
+      "originalUrl": "https://in.mashable.com/tech/71507/google-io-2024-anticipation-builds-for-ai-innovations-and-potential-pixel-8a-unveiling",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/photo/default/5_x63n.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-15T10:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "in.mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-15-nvidia-is-an-investor-in-artificial-intelligence-ai-start-up-databricks-should-palantir-investors-worry.md",
       "title": "Nvidia Is an Investor in Artificial Intelligence (AI) Start-Up Databricks. Should Palantir Investors Worry?",
       "excerpt": "Nvidia has been investing significant capital into AI-powered enterprise software platforms. Databricks offers a host of artificial intelligence (AI) applications through its Mosaic AI software. Palantir competes with Databricks in the world of big data.",
@@ -210,7 +307,7 @@
       "originalUrl": "https://www.fool.com/investing/2024/03/15/nvidia-is-an-investor-in-artificial-intelligence-a/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -408,7 +505,7 @@
       "originalUrl": "https://techcrunch.com/2024/03/14/apple-acquires-ai-startup-specializing-in-overlooking-manufacturing-components/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -448,7 +545,8 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -512,7 +610,7 @@
       "originalUrl": "https://fortune.com/education/articles/how-to-learn-data-analytics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -1110,7 +1208,7 @@
       "originalUrl": "https://www.kxan.com/news/political-news/ap-us-sanctions-three-israeli-west-bank-settlers-and-their-outposts-for-violence-against-palestinians/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -1143,92 +1241,6 @@
         "AI in Autos",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2024-03-14-the-ethical-dilemma-of-ai-in-marketing-a-slippery-slope.md",
-      "title": "The Ethical Dilemma Of AI In Marketing: A Slippery Slope",
-      "excerpt": "Artificial Intelligence has revolutionized the marketing landscape, offering businesses unprecedented insights into consumer behavior and preferences.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/elijahclark/2024/03/14/the-ethical-dilemma-of-ai-in-marketing-a-slippery-slope/",
-      "originalUrl": "https://www.forbes.com/sites/elijahclark/2024/03/14/the-ethical-dilemma-of-ai-in-marketing-a-slippery-slope/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-14T13:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2024-03-14-getting-started-with-kafka-client-metrics.md",
-      "title": "Getting started with Kafka client metrics",
-      "excerpt": "Offering guidance on a set of producer and consumer metrics that customers should monitor for optimal performance.\nThe post Getting started with Kafka client metrics appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/getting-started-with-kafka-client-metrics/",
-      "originalUrl": "https://www.ibm.com/blog/getting-started-with-kafka-client-metrics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-14T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

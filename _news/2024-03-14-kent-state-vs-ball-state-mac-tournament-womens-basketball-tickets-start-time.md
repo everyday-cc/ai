@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "DePaul vs. Villanova Big East Tournament Tickets & Start Time"
-    excerpt: "Preview the Big East Tournament DePaul Blue Demons vs. Villanova Wildcats game with ticket info, start time, stats, odds and TV channel."
-    publishedDateTime: 2024-03-10T15:23:00Z
-    webUrl: "https://www.wifr.com/sports/betting/2024/03/13/depaul-vs-villanova-buy-big-east-tournament-college-basketball-tickets/"
-    type: article
-    provider:
-      name: WIFR
-      domain: wifr.com
-    quality: 22
-    images:
-      - url: "https://gray-wifr-prod.cdn.arcpublishing.com/resizer/v2/QNC2IFLWGVIS7O5RA6BSX73CCY.jpg?auth=f4219b3c85762b05683b3769a5be0b9224c00026f576ca563a3193c93fdb632d&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Hornets vs. Cavaliers March 25 Tickets & Start Time"
     excerpt: "The Charlotte Hornets (16-49), on Monday, March 25, 2024 at Rocket Mortgage Fieldhouse, battle the Cleveland Cavaliers (41-24). The game starts at 7:00 PM ET on BSOH and BSSE. If you're looking to catch this game in person, head to Ticketmaster to purchase your tickets!"
     publishedDateTime: 2024-03-12T09:18:00Z
@@ -77,20 +63,6 @@ related:
     quality: 22
     images:
       - url: "https://gray-kwtx-prod.cdn.arcpublishing.com/resizer/v2/T224MGEGLFLKNFQ5YHNFEALG4U.jpg?auth=1667e5e1d5ed91e067dee42466b6b7ede0f2e4049bc9f7b33c58ee088bfbd9c6&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Charlotte vs. Tulane AAC Tournament Women's Basketball Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. The No. 14 seed Tulane Green Wave (11-19 ... Northeastern CAA Tournament Women's Basketball Tickets & Start Time UNC Greensboro vs. Chattanooga Women's SoCon Tournament Championship Tickets & Start Time East Carolina ..."
-    publishedDateTime: 2024-03-10T17:05:00Z
-    webUrl: "https://www.wect.com/sports/betting/2024/03/10/charlotte-vs-tulane-buy-aac-tournament-womens-college-basketball-tickets/"
-    type: article
-    provider:
-      name: WECT
-      domain: wect.com
-    quality: 20
-    images:
-      - url: "https://gray-wect-prod.cdn.arcpublishing.com/resizer/v2/EXERAZYBUZNOFOCWFV6SZDS7NU.jpg?auth=1e29c3854ae67673dc2079b571d47333690cc9f2165f0cdfda530e93a7e8bb11&width=1200&height=600&smart=true"
         width: 1200
         height: 600
         isCached: true
@@ -150,15 +122,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Furman vs. Samford SoCon Tournament Tickets & Start Time"
-    excerpt: "Preview the SoCon Tournament Furman Paladins vs. Samford Bulldogs game with ticket info, start time, stats, odds and TV channel."
-    publishedDateTime: 2024-03-10T13:22:00Z
-    webUrl: "https://www.live5news.com/sports/betting/2024/03/10/furman-vs-samford-buy-socon-tournament-college-basketball-tickets/"
-    type: article
-    provider:
-      name: Live 5 News
-      domain: live5news.com
-    quality: 2
 
 secured: "badHBiVcqxo0Py5VMV16p4NUIABmGs5aKQKKO08r0G9DBSdQZCJlpiLQowpxDKUZ4joihOoXeKckLqBz/DIkLIYcy4bfZu8q2SX5rueb6ATbl9mczoP8r2lzlGDwf81h+fTp3vaEnRsc5BdQLX8sEZr0GOgtIza6+QEQSM89r3UYzbAxk6LPB+cXh2ll4f3fj+kgrRrcdWWHSNPs/6OvfUNI9/+FB5k519pdT4F78CW9QpDy+QGBpFQ/+04fDtjBtLA6IHpto+P93S5siO7J6WNYFx9877tElmZ7yLhitsF4JhIkTV9UAfOsJyQXvfeS/vmubOkCTSAI0pmDzTkiVNMQK9IoruXZL74ygNohetY=;k1yeKtnc3ATc5wBRjQd6vA=="
 ---

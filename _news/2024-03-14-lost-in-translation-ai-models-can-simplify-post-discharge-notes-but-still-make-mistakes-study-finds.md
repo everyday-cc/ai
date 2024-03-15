@@ -19,14 +19,14 @@ topics:
   - AI
 
 related:
-  - title: "Seoul Metro expands AI translation services"
-    excerpt: "Seoul Metro will expand the number of stations that offer AI-powered translation services to 11 ... workers and foreigners to simultaneously communicate in their respective languages. Pictured above is a foreigner utilizing the service at Gwanghwamun ..."
-    publishedDateTime: 2024-03-14T19:26:00Z
-    webUrl: "https://koreajoongangdaily.joins.com/news/2024-03-14/business/industry/Seoul-Metro-expands-AI-translation-services/2002733"
+  - title: "AI translation: how to train ‘the horses of enlightenment’"
+    excerpt: "Translation algorithms have greatly improved in recent years, but can they work on literature? Human practitioners of the art are not convinced"
+    publishedDateTime: 2024-03-15T11:14:00Z
+    webUrl: "https://www.theguardian.com/books/2024/mar/15/ai-translation-literature"
     type: article
     provider:
-      name: 중앙일보
-      domain: joins.com
+      name: The Guardian
+      domain: theguardian.com
     quality: 19
 
 secured: "PB6bXZTRmmbIFILFUylemu//SjgY44d8l9yK5vJTs0pKrzT4MATokljDVcJ7Gxaqiom2p23DlWqiv5NxW2FMxAWyxiTtX+MZ7gt+P8dIy2gSr0l8kJBYHhh4kxhKu90WXQZNWHH+EBtyk7YpQxFXU7EHB3nzmy1gvzGo1yxdghj41xBI7xhoysXsP5U7nl8P4ujNOZLQgmJKApuTkFTuM3lgv2mtfighTkl0NDzjif1WqAP4HvEoc3ZsfphIvyBoL3SfyDfC7q6SoEVi6LnanGoCtnGIVqFQ7O0kfTawsy3C2PV0vLEZv4kbmhu2tlY97FN4bjTRK7osutg6n3cb6GxlkN025r9fe+61stEM85Q=;soDCmoOrrjPKTLKjKcmuLg=="

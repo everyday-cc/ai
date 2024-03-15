@@ -53,15 +53,6 @@ related:
       name: CNAS
       domain: cnas.org
     quality: 19
-  - title: "Biden administration requests $3B for federal AI application development, procurement and integration in 2025 budget"
-    excerpt: "The President’s budget looks to fund the National AI Research Resource pilot, agencies’ establishment of Chief AI Officers, the AI talent surge and more AI development across agencies."
-    publishedDateTime: 2024-03-11T19:28:00Z
-    webUrl: "https://fedscoop.com/biden-administration-requests-3b-for-federal-ai-application-development-procurement-and-integration-in-2025-budget/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 0
 
 secured: "rGMoXY7wo2rSvHxYpnib3m0gXYQqLUmL1DIzEF1UzfJ+iKqSrD7XcFw9UybQ+Xevg6/WMb4MlvB+fTT55zQ7bC/axm2c6w7sUh0fP2m5PWHl/i37/6v5PYEgXrJQN7wX+Slt+LJCTSc/80jbB8z7GQun5fNeO1cko/Gtx7n1MIYCS/IMYkM0MZD93Xa3DamQ4+3bQLNb7H2xpJwC7E8M15Ob/MhL7lYbk2Sg6yWHPAwySXOZyiBLgoa0JKGBk5t/+vtC2+ZKbxAqRc9HvFXTKVzbjseK8DwRh2VnIzCq6wih/TGEp0uTg52WuwwLCMYK9Cf9o1OIKI251r2vTsbGljPJKcxWBfSI3bH2vi4inww=;H4NsfTc6WZBOk1FZRp82pg=="
 ---

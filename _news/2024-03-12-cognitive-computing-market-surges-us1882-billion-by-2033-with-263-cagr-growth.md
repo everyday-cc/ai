@@ -33,6 +33,15 @@ related:
         width: 1200
         height: 448
         isCached: true
+  - title: "South East Asia Artificial Intelligence Market Is Booming With A CAGR Of 17.96% During 2024-2032"
+    excerpt: "According to IMARC Group, the South East Asia artificial intelligence market size is projected to exhibit a growth rate (CAGR) of 17.96% during 2024-2032 The report has segmented the market by offering (hardware,"
+    publishedDateTime: 2024-03-15T13:25:00Z
+    webUrl: "https://menafn.com/1107981790/South-East-Asia-Artificial-Intelligence-Market-Is-Booming-With-A-CAGR-Of-1796-During-2024-2032"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 8
 
 secured: "REKmLKOxA/OGx9Q4yYH7JAuLMw/ZMZ7v7HLEI4qGIFooI1l4ucoGZQ2PMvF2R64Dzt8N8NHWNO6eJz3ORt+v7MzhXprOlE8e8GFBmfO63zcN0GazMaUqzntoqtX1Vw5m2QELU0fuoti/cR5Bl+iwkPla7A1YkanUpfxqVkirHNZqneM5DDFs6SbU763TKv1VzdigAcC+XmidnJr5FTUOMiTHkwnFti7ObHZiZ5Wyn2YMtO8Xqc9xxMwi7fkzB/oeb6/YfLFxYlUrbiDiYgkVoTj+DuqCMIm8CFVhkJPoAP6HVnGLZzwQdfqmwp+MZNCw39g6gcXeAiFiU7kNjLY52PkzewYzJ9+LNE4Chg5Ck7k=;NOw2yYoWvcyh527PUTTCeg=="
 ---

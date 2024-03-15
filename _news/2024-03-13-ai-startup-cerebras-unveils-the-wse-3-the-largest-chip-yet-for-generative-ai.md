@@ -2,9 +2,9 @@
 category: news
 title: "AI startup Cerebras unveils the WSE-3, the largest chip yet for generative AI"
 excerpt: "The chip, the size of a single semiconductor wafer, has doubled performance to handle large language models in the tens of trillions of parameters."
-publishedDateTime: 2024-03-13T06:00:00Z
-originalUrl: "https://www.zdnet.com/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/"
-webUrl: "https://www.zdnet.com/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/"
+publishedDateTime: 2024-03-13T13:00:00Z
+originalUrl: "https://www.zdnet.com/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/?ref=upstract.com"
+webUrl: "https://www.zdnet.com/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/?ref=upstract.com"
 ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/"
 type: article
@@ -126,6 +126,6 @@ related:
       domain: beebom.com
     quality: 17
 
-secured: "YUfW3cw96CTmixyzSXo/0TT5ObaQkF3wUZwAAWkWg0UeCfKc34QehjWjrDQx3udlicNFUpWiQVlGV0Vi9Hd7E4pYaalJL5biQXbuQgCGLzHTdwXhCYrmmrgUDvxzs1oB/S5bd4QRrIZ8Ic3QfZxDVrjVefCRddBVk4HqBDfbgsTugKWFPOJWgC+1YJ75wUOu2xvctWr8xX/vVrPlZqMZ9X4aS8wi5T5LECbOmhGREip2tg9HPjf/VYw+eJvvgbD+or1UA7o/OyKoxplyzR8x+MuAI/ZyxdvmyHr6e7VrbzcLtyoWdAaYHhwMca615E22PjSG1OINORHLfDiWN/Fr2zOhVOg+B1P3lbmqnb8HP14=;F2YolTy79dLlFgmlRzwnUA=="
+secured: "n8UD03Tygc2/SlP+8cUQU8F1rfZ9orO6uus4axNhKUqMPQ5+x7n6m1JbsHbSNnO4b5P6Gz9AbXvkinzPPHb0HHLiUrn47sZ0J5VBJGhy5hDRDGiIUHPNYXvl8o8dCaS1CsRlwgjxgQVsyZywce5c6BUNR14kxursXjL+TVB5zt3loaW/3gALvd/7dyjTHAuAEmXg1AcqIwXRmPZT6z4ITjtfIH9s92cCv6LpX02nCgVABnpycNu1Bl8WapjGUuyOVxjlxwzRZGhIRjk/PMAxXXX9YCl5lOHRoBu7V6XDBHwwyHzEFZ43BP3hEY6U0vEQmkxjOwRdPctCX/AWjNxjSlyatNKN+Xp/JhQpOMXDzi4=;YRcJlKuyjB46QukhF04PXA=="
 ---
 

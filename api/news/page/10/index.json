@@ -2,6 +2,92 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2024-03-07-airports-using-biometric-facial-recognition-in-tennessee.md",
+      "title": "Airports using biometric facial recognition in Tennessee",
+      "excerpt": "Spokeo looked at which airports are using facial recognition software in Tennessee for security screenings, according to Customs and Border Protection.",
+      "sourceUrl": null,
+      "webUrl": "https://clarksvillenow.com/local/airports-using-biometric-facial-recognition-in-tennessee/",
+      "originalUrl": "https://clarksvillenow.com/local/airports-using-biometric-facial-recognition-in-tennessee/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://clarksvillenow.sagacom.com/files/2024/03/ee6bd9d74e2a142c2f2daf72351580a3.png",
+          "width": 1010,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-07T14:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Clarksville Now",
+        "domain": "clarksvillenow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-glacier-gets-investment-from-amazon-to-fund-ai-powered-robots-in-recycling-centers.md",
+      "title": "Glacier Gets Investment from Amazon to Fund AI-Powered Robots in Recycling Centers",
+      "excerpt": "Amazon is continuing to invest in companies, announcing its latest partnership with San Francisco start up, Glacier.",
+      "sourceUrl": null,
+      "webUrl": "https://www.waste360.com/waste-recycling/glacier-gets-investment-from-amazon-to-fund-ai-powered-robots-in-recycling-centers",
+      "originalUrl": "https://www.waste360.com/waste-recycling/glacier-gets-investment-from-amazon-to-fund-ai-powered-robots-in-recycling-centers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://eu-images.contentstack.com/v3/assets/blt4a147f9e36f0754a/blt7386f6682d2b9dac/65e8b76abae5f0040ae4e678/recycling_robot_MR1540.jpg?disable=upscale&width=1200&height=630&fit=crop",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-07T13:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Waste360",
+        "domain": "waste360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-07-inflections-pi-ai-aims-to-provide-information-and-a-shoulder-to-cry-on.md",
       "title": "Inflection's Pi AI aims to provide information and a shoulder to cry on",
       "excerpt": "Designed to be empathetic, helpful, and safe, Pi also boasts improved skills in such areas as coding, math, and real-time results via the latest flavor of its large language model.",
@@ -869,21 +955,21 @@
       ]
     },
     {
-      "path": "_news/2024-03-07-robot-ships-huge-remote-controlled-vessels-are-setting-sail.md",
-      "title": "Robot ships: Huge remote controlled vessels are setting sail",
-      "excerpt": "Marian Meza Chavira is learning to pilot underwater robots from a remote control centre Entering the ... Many questions spring to mind about remotely operated and autonomous shipping, just as ...",
+      "path": "_news/2024-03-07-quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization.md",
+      "title": "Quisitive Awarded the AI and Machine Learning in Microsoft Azure Specialization",
+      "excerpt": "The AI and Machine Learning specialization recognizes ... use of the Company’s services for improper or illegal purposes; global economic and financial market conditions; uninsurable risks; changes in project parameters as plans continue to be evaluated ...",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/science-environment-68486462",
-      "originalUrl": "https://www.bbc.co.uk/news/science-environment-68486462",
+      "webUrl": "https://financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization",
+      "originalUrl": "https://financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/C8AE/production/_132847315_oishipdrone2.jpg",
-          "width": 1024,
-          "height": 576,
+          "url": "https://dcs-static.gprod.postmedia.digital/15.6.0/websites/images/canada/fallback.jpg",
+          "width": 640,
+          "height": 480,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -891,13 +977,58 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/science-environment-68486462",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/science-environment-68486462",
+      "ampWebUrl": "https://financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization/wcm/ba3e0bf0-f7ce-4c4a-9213-b5d8012c4cd3/amp/",
+      "cdnAmpWebUrl": "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization/wcm/ba3e0bf0-f7ce-4c4a-9213-b5d8012c4cd3/amp/",
       "publishedDateTime": "2024-03-07T00:00:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
+        "name": "Financial Post",
+        "domain": "financialpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-robot-ships-huge-remote-controlled-vessels-are-setting-sail.md",
+      "title": "Robot ships: Huge remote controlled vessels are setting sail",
+      "excerpt": "\"We've added a lot of additional equipment and designed her especially to be what we call 'robotic',\" says Colin ... It's being fully controlled by a crew 475 miles away in an office in Aberdeen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/robot-ships-huge-remote-controlled-000752631.html",
+      "originalUrl": "https://www.aol.com/news/robot-ships-huge-remote-controlled-000752631.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_bbc_articles_618/ffb140cc594fbd1ec204943423b80d9b",
+          "width": 976,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-07T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -994,161 +1125,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-5-years-after-san-francisco-banned-face-recognition-voters-ask-for-more-surveillance.md",
-      "title": "5 Years After San Francisco Banned Face Recognition, Voters Ask for More Surveillance",
-      "excerpt": "On Tuesday the country’s techiest city backed a ballot proposition that tapped into concerns about crime, giving the police more freedom to use drones and other surveillance technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/san-francisco-banned-face-recognition-voters-ask-for-more-surveillance/",
-      "originalUrl": "https://www.wired.com/story/san-francisco-banned-face-recognition-voters-ask-for-more-surveillance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/65e8d5adf50e43ba3169369b/191:100/w_1280,c_limit/facialrecognition-SF_biz_GettyImages-1215395483.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-06T23:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-salesforce-unveils-low-code-ai-toolkit-for-crm.md",
-      "title": "Salesforce unveils low-code AI toolkit for CRM",
-      "excerpt": "Einstein 1 Studio allows Salesforce admins and developers to customize the Einstein Copilot conversational AI assistant and embed AI functionality into CRM apps.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3714260/salesforce-unveils-low-code-ai-toolkit-for-crm.html",
-      "originalUrl": "https://www.infoworld.com/article/3714260/salesforce-unveils-low-code-ai-toolkit-for-crm.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/12/01/17/salesforce-sign-100935102-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3714260/salesforce-unveils-low-code-ai-toolkit-for-crm.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3714260/salesforce-unveils-low-code-ai-toolkit-for-crm.amp.html",
-      "publishedDateTime": "2024-03-06T23:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-meta-is-building-a-giant-ai-model-to-power-its-entire-video-ecosystem-exec-says.md",
-      "title": "Meta is building a giant AI model to power its 'entire video ecosystem,' exec says",
-      "excerpt": "Tom Alison, the head of Facebook, said on Wednesday that the company is working on an artificial intelligence model to \"power our entire video ecosystem.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2024/03/06/facebook-working-on-single-ai-model-to-power-all-video-recommendations.html",
-      "originalUrl": "https://www.cnbc.com/2024/03/06/facebook-working-on-single-ai-model-to-power-all-video-recommendations.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107279979-1690906950125-gettyimages-1569404479-Omarques_01082023_techPOL_3_of_21.jpeg?v=1709761960",
-          "width": 5000,
-          "height": 3327,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2024/03/06/facebook-working-on-single-ai-model-to-power-all-video-recommendations.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/03/06/facebook-working-on-single-ai-model-to-power-all-video-recommendations.html",
-      "publishedDateTime": "2024-03-06T21:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

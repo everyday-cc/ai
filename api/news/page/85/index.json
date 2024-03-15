@@ -2,6 +2,118 @@
   "page": 85,
   "value": [
     {
+      "path": "_news/2024-01-12-awss-hidden-threat-ambersquid-cloud-native-cryptojacking-operation.md",
+      "title": "AWS’s Hidden Threat: AMBERSQUID Cloud-Native Cryptojacking Operation",
+      "excerpt": "AMBERSQUID tactically exploits less-known AWS services (Amplify, Fargate, SageMaker), costing victims $10,000+/day.",
+      "sourceUrl": null,
+      "webUrl": "https://cloudsecurityalliance.org/articles/aws-s-hidden-threat-ambersquid-cloud-native-cryptojacking-operation/",
+      "originalUrl": "https://cloudsecurityalliance.org/articles/aws-s-hidden-threat-ambersquid-cloud-native-cryptojacking-operation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudsecurityalliance.org/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb2d1IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--35003ea1a59ccbb4e062cb2818e3b3d7dc4a1540/Rise-of-Cloud-Computing-Adoption-and-Cybercrimes.jpg/",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T18:34:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cloud Security Alliance",
+        "domain": "cloudsecurityalliance.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-12-kodiak-robotics-unveils-driverless-semitruck-slated-to-hit-texas-highways-in-2024.md",
+      "title": "Kodiak Robotics unveils driverless semitruck slated to hit Texas highways in 2024",
+      "excerpt": "Kodiak Robotics Inc. unveiled what it calls the world’s first driverless-ready semi-truck designed for scaled deployment at the Consumer Electronics Show in January 2024. The truck will run various driverless operations between Dallas and Houston starting in 2024, according to the company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/houston/inno/stories/news/2024/01/11/kodiak-robotics-unveils-driverless.html",
+      "originalUrl": "https://www.bizjournals.com/houston/inno/stories/news/2024/01/11/kodiak-robotics-unveils-driverless.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T18:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2024-01-12-intersystems-introduces-two-new-cloud-native-smart-data-services-to-accelerate-database-and-machine-learning-application-development.md",
+      "title": "InterSystems Introduces Two New Cloud-Native Smart Data Services to Accelerate Database and Machine Learning Application Development",
+      "excerpt": "InterSystems, a creative data technology provider dedicated to helping customers solve their most critical scalability, interoperability, and speed pr",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20240111610851/en/InterSystems-Introduces-Two-New-Cloud-Native-Smart-Data-Services-to-Accelerate-Database-and-Machine-Learning-Application-Development",
+      "originalUrl": "https://www.businesswire.com/news/home/20240111610851/en/InterSystems-Introduces-Two-New-Cloud-Native-Smart-Data-Services-to-Accelerate-Database-and-Machine-Learning-Application-Development",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T17:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-12-tensorflow-cloud-is-a-library-to-connect-your-local-environment-to-google-cloud.md",
       "title": "TensorFlow Cloud is a library to connect your local environment to Google Cloud.",
       "excerpt": "import tensorflow_cloud as tfc TF_GPU_IMAGE = \"tensorflow/tensorflow:latest-gpu\" run_parameters = { distribution_strategy='auto', requirements_txt='requirements.txt ...",
@@ -912,118 +1024,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-robot-revolution-uncovering-the-real-value-of-security-robots.md",
-      "title": "Robot revolution: Uncovering the real value of security robots",
-      "excerpt": "Robots have been in the spotlight lately, as tycoons like Elon Musk discuss the perils of automation and artificial intelligence (AI), and roving robots meet their watery demise. These recent events have unmasked a particularly interesting topic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/tags/healthcare-security/insights/real-security-value-robots-artificial-intelligence-co-14733-ga.23441.html",
-      "originalUrl": "https://www.sourcesecurity.com/tags/healthcare-security/insights/real-security-value-robots-artificial-intelligence-co-14733-ga.23441.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T01:36:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-botricia-presents-dhruvitkumar-talatis-ai-a-new-god-we-trust-exploring-technology-and-spirituality.md",
-      "title": "Botricia Presents Dhruvitkumar Talati's 'AI - A New GOD We Trust': Exploring Technology and Spirituality.",
-      "excerpt": "Notably, he has architected end-to-end AI solutions on AWS, integrating services like Amazon SageMaker, Lambda, EC2, and S3 to meet diverse business requirements. Woven with a tapestry of philosophy, science, and human psychology, the book prompts readers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/274091393/botricia-presents-dhruvitkumar-talatiaposs-aposai---a-new-god-we-trustapos-exploring-technology-and-spirituality",
-      "originalUrl": "https://www.bignewsnetwork.com/news/274091393/botricia-presents-dhruvitkumar-talatiaposs-aposai---a-new-god-we-trustapos-exploring-technology-and-spirituality",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.kisspr.com/system/media_files/images/000/049/985/original_jpeg/image_%281%29.jpg",
-          "width": 875,
-          "height": 1400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T01:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-11-americans-are-skeptical-about-ai-in-health-care-cincinnati-hospitals-are-already-using-it.md",
-      "title": "Americans are skeptical about AI in health care. Cincinnati hospitals are already using it",
-      "excerpt": "All of Cincinnati’s major hospital systems are using artificial intelligence ... \"It’s evolved from many years ago. Health care has been using AI in the back office for quite some time.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.cincinnati.com/story/news/2024/01/08/ohio-hospitals-ai-chatgpt-doctors/72120842007/",
-      "originalUrl": "https://www.cincinnati.com/story/news/2024/01/08/ohio-hospitals-ai-chatgpt-doctors/72120842007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T00:25:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Cincinnati Enquirer",
-        "domain": "cincinnati.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

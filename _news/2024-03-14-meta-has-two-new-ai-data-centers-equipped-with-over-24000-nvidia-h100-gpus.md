@@ -230,15 +230,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Beyond Nvidia: 7 Underappreciated AI Stocks to Buy Now"
-    excerpt: "That would be 11.6% above 2024’s projected revenue. Fundamentally, Intel is committed to delivering chips for 100 million AI PCs by 2025. I’d say that’s a decent candidate for underappreciated AI stocks to buy. Intuit (INTU) As a tax-preparation ..."
-    publishedDateTime: 2024-03-10T13:59:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/beyond-nvidia-7-underappreciated-ai-stocks-to-buy-now-1033148631"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
   - title: "VAST Data Unveils New Data Platform Architecture for the AI Factory"
     excerpt: "VAST Data, the AI data platform company, today unveiled a new AI cloud architecture designed to deliver unprecedented levels of performance, quality of service, zero-trust security and space/cost/power efficiency for the AI factory."
     publishedDateTime: 2024-03-12T14:00:00Z
@@ -257,6 +248,15 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 49
+  - title: "Frenzy Over AI and Nvidia Turbocharges the Options Market"
+    excerpt: "The artificial-intelligence trade is taking over the options market. Traders are doubling down on the market’s 2024 stars, sending broader activity in the market for stock options to some"
+    publishedDateTime: 2024-03-15T09:05:00Z
+    webUrl: "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-03-15-2024/card/frenzy-over-ai-and-nvidia-turbocharges-the-options-market-PijdBZpnDW4BfwZMerfM"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 47
   - title: "Nvidia Stock’s Premium Price Tag Is a Small Fee for a First-Class Ticket to AI Riches"
     excerpt: "Nvidia’s earnings growth from AI-compatible chips outweighs the impact on NVDA’s share price. This implies that the impact on NVDA’s share price does not fully reflect the prior and recent success of Nvidia’s earnings growth from AI-compatible chips."
     publishedDateTime: 2024-03-14T05:40:00Z

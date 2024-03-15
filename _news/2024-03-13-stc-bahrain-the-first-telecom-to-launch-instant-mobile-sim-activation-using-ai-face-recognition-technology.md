@@ -39,6 +39,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Generative AI Use Cases for the Financial Services Industry"
+    excerpt: "Generative AI emerged in early 2023 and is delivering great results, and the banking industry comes as no exception. Two-thirds of top finance and analytics professionals who attended a recent McKinsey seminar on generation AI said they expected the technology to significantly improve the way they conduct business."
+    publishedDateTime: 2024-03-15T12:46:00Z
+    webUrl: "https://techbullion.com/generative-ai-use-cases-for-the-financial-services-industry/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 39
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2024/03/b-900x600.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Stc Bahrain, the first telecom to launch instant mobile SIM Activation using AI Face Recognition Technology"
     excerpt: "Pioneering technology-driven solutions that empower customers and drive forward Bahrain’s digital transformation"
     publishedDateTime: 2024-03-12T12:48:00Z

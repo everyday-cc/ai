@@ -7,7 +7,7 @@ originalUrl: "https://www.live5news.com/sports/betting/2024/03/25/hornets-vs-cav
 webUrl: "https://www.live5news.com/sports/betting/2024/03/25/hornets-vs-cavaliers-buy-nba-tickets/"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "DePaul vs. Villanova Big East Tournament Tickets & Start Time"
-    excerpt: "Preview the Big East Tournament DePaul Blue Demons vs. Villanova Wildcats game with ticket info, start time, stats, odds and TV channel."
-    publishedDateTime: 2024-03-10T15:23:00Z
-    webUrl: "https://www.wifr.com/sports/betting/2024/03/13/depaul-vs-villanova-buy-big-east-tournament-college-basketball-tickets/"
-    type: article
-    provider:
-      name: WIFR
-      domain: wifr.com
-    quality: 22
-    images:
-      - url: "https://gray-wifr-prod.cdn.arcpublishing.com/resizer/v2/QNC2IFLWGVIS7O5RA6BSX73CCY.jpg?auth=f4219b3c85762b05683b3769a5be0b9224c00026f576ca563a3193c93fdb632d&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Predators vs. Jets March 13 Tickets & Start Time"
     excerpt: "Mark Scheifele and Filip Forsberg will be two of the most exciting players to watch when the Winnipeg Jets face the Nashville Predators at Canada Life Centre on Wednesday, March 13 at 7:30 PM ET. If you're looking to go to this game in person, head to Ticketmaster to purchase your tickets!"
     publishedDateTime: 2024-03-13T01:01:00Z
@@ -63,20 +49,6 @@ related:
     quality: 22
     images:
       - url: "https://gray-kwtx-prod.cdn.arcpublishing.com/resizer/v2/T224MGEGLFLKNFQ5YHNFEALG4U.jpg?auth=1667e5e1d5ed91e067dee42466b6b7ede0f2e4049bc9f7b33c58ee088bfbd9c6&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Charlotte vs. Tulane AAC Tournament Women's Basketball Tickets & Start Time"
-    excerpt: "View how Data Skrive uses AI here. The No. 14 seed Tulane Green Wave (11-19 ... Northeastern CAA Tournament Women's Basketball Tickets & Start Time UNC Greensboro vs. Chattanooga Women's SoCon Tournament Championship Tickets & Start Time East Carolina ..."
-    publishedDateTime: 2024-03-10T17:05:00Z
-    webUrl: "https://www.wect.com/sports/betting/2024/03/10/charlotte-vs-tulane-buy-aac-tournament-womens-college-basketball-tickets/"
-    type: article
-    provider:
-      name: WECT
-      domain: wect.com
-    quality: 20
-    images:
-      - url: "https://gray-wect-prod.cdn.arcpublishing.com/resizer/v2/EXERAZYBUZNOFOCWFV6SZDS7NU.jpg?auth=1e29c3854ae67673dc2079b571d47333690cc9f2165f0cdfda530e93a7e8bb11&width=1200&height=600&smart=true"
         width: 1200
         height: 600
         isCached: true
@@ -150,15 +122,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Furman vs. Samford SoCon Tournament Tickets & Start Time"
-    excerpt: "Preview the SoCon Tournament Furman Paladins vs. Samford Bulldogs game with ticket info, start time, stats, odds and TV channel."
-    publishedDateTime: 2024-03-10T13:22:00Z
-    webUrl: "https://www.live5news.com/sports/betting/2024/03/10/furman-vs-samford-buy-socon-tournament-college-basketball-tickets/"
-    type: article
-    provider:
-      name: Live 5 News
-      domain: live5news.com
-    quality: 2
 
 secured: "ovAzdHa+3vYfjLoZzp6s4weO+bdhTeVyksMUah3cjtAVnf74+OGPFFLM+mVDkgcbm8kbBGhXZDwkEgTZDNJHC6zbf+y53TEfb0uqOhUgHgBV5ordGUdh4946jQtr5giO7lZkb9vFoEewtafnvInKVysKBuLYQnx2TIidURSFAMG2vTkuBKHhiR3ZS9AQCJTe8FLG1qMlY77r0A7armjy6NW/k7uO+4lH2Ox/j6cuJulxCJcRLBWW++et8fuQa4FOqqPrANQdF24DQmgZeBORlyyv7rYtPA5mLQWjykg64Z2/TqPYWlTG9oSKW6d2MQsEpmnhUJJsd9dutDuwDVidWPexPf7blNX/zGv9lqv3gNU=;NHczvh8KqosweYEx+/58Ww=="
 ---

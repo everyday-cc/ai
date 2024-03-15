@@ -24,6 +24,17 @@ images:
     height: 464
     isCached: true
 
+related:
+  - title: "UK Fintech Anna Money Announces Acquisition of Australia’s GetCape"
+    excerpt: "ANNA is announcing that they’ve acquired GetCape, a Sydney-based fintech that operates as a business spend management platform."
+    publishedDateTime: 2024-03-15T12:27:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/03/222687-uk-fintech-anna-money-announces-acquisition-of-australias-getcape/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 4
+
 secured: "2WfRe9fCMIjBD4Qmbt+mujMC2s4soCUgaM5vRelTTsFN8Fzyh0HwjIPpV7bD9jC1EbHwqs6gwR+12asrcc5HyC/fnnvefLxnSYAoANGYcimVruyM9Ing4gI5/QNORH5cX6MZz2HYjz4hiEORc9ZfQcz/awhl+QX8utILzbyykabdw+WAo6gcQCXubHdyltH4Ztp0sEojynEKGS58p1E2+xQexycwoNTRvCDbORWiSS2Y105dJApPPDNE36ayNGHpGwxlFmkTp/jHP4iCuQu4Y4m2vgVHrJHUJ56+QtuhULX+F19bVmjPYCZeXyjWo+V7TNYbGsUSP9EW85zOU8hUmcuL9wI6ziVjEwCFN3dhYiOJDT2TKjVyJRKNpp+gO2dizXsQsxM7Reba5Tnj/qxht7IzlV6oCptYQTdhMO/qBwTt39jM9i1ZTQA2ClYFagDgMT5gV3+iGvqi5HDe5MXsihYudvtLqE1yVe3YBoAIuESMCok8FDHTwohV8A0jAJom4axLQZvKjZ+1tEBhwYlmFw==;+Y6FZ5D96OPlOG4nryTVIg=="
 ---
 

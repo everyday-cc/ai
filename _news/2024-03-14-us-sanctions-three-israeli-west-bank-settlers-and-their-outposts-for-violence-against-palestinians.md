@@ -9,7 +9,7 @@ ampWebUrl: "https://www.kxan.com/news/political-news/ap-us-sanctions-three-israe
 cdnAmpWebUrl: "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/political-news/ap-us-sanctions-three-israeli-west-bank-settlers-and-their-outposts-for-violence-against-palestinians/amp/"
 type: article
 quality: 62
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -36,6 +36,15 @@ related:
     provider:
       name: American Enterprise Institute
       domain: aei.org
+    quality: 4
+  - title: "Sisi urges for full international recognition of Palestinian state"
+    excerpt: "Egyptian President Abdel-Fattah El-Sisi has called for the full international recognition of a Palestinian state, with East Jerusalem as its capital, noting that this could bring solace after the five-month-long Israeli war in Gaza."
+    publishedDateTime: 2024-03-15T15:34:00Z
+    webUrl: "https://english.ahram.org.eg/News/519471.aspx"
+    type: article
+    provider:
+      name: Hebdo Ahram
+      domain: ahram.org.eg
     quality: 4
 
 secured: "0WiSeHtM7DL+Z5CWdyXz/e8xVfMjpyIU0hWl7SSzoO+rHn9JSsEfYJpOjKXTcs/0udqlaRmBE1evlI1wRhdM4nOc1+GP8U9IhDcc3tpTjCNsBc/HfCJUy3dA2rTBx8NSm39gxPUjjyhMHUuKsJ9rSVLUB2XCaW9tITbvID1W0EmXdfV31KLabugessyt47FNK+C6hdHjjWkcuzPvLIoT1gme3qW7RUWlpiAFA361fMbvcXT8ck9gTezO/PHiOlnqcCBfw+SuVqe9/afFeVqzWIf3w6x5JMi0gkyLzt64TB6xwNz3zTZcojbbE6ZhbqAxzPFfR1bo+hUhcOiwGj0bltd2t68HijwmWjpL3UcFPvQ=;ctbSJLjksu4ws8HYHUJCfQ=="

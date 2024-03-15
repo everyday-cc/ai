@@ -6,8 +6,8 @@ publishedDateTime: 2024-03-11T12:45:00Z
 originalUrl: "https://www.forbes.com/sites/kensilverstein/2024/03/11/how-will-artificial-intelligence-impact-inequality-and-energy/"
 webUrl: "https://www.forbes.com/sites/kensilverstein/2024/03/11/how-will-artificial-intelligence-impact-inequality-and-energy/"
 type: article
-quality: 49
-heat: 49
+quality: 51
+heat: 61
 published: false
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - AI in Robotics
+  - AI in Healthcare
 
 related:
   - title: "AI boom and energy transition is opportunity for savvy investors"

@@ -2,6 +2,125 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2024-02-16-piaget-stages-of-development.md",
+      "title": "Piaget Stages of Development",
+      "excerpt": "But he insisted that: Cognitive development always follows this sequence. Stages cannot be skipped. Each stage is marked by new intellectual abilities and a more complex understanding of the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.webmd.com/children/piaget-stages-of-development",
+      "originalUrl": "https://www.webmd.com/children/piaget-stages-of-development",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-16T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WebMD",
+        "domain": "webmd.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-16-a-degree-in-artificial-intelligence-penn-becomes-first-ivy-to-offer-ai-major-for-undergrads.md",
+      "title": "A degree in artificial intelligence: Penn becomes first Ivy to offer AI major for undergrads",
+      "excerpt": "Intro courses include \"Introduction to Artificial Intelligence\" and \"Data, Systems, Decisions\" while other required classes consist of \"Control For Autonomous Robots,\" \"Natural Language Processing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/education/2024/02/15/penn-ai-degree-program/72616551007/",
+      "originalUrl": "https://www.usatoday.com/story/news/education/2024/02/15/penn-ai-degree-program/72616551007/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T23:28:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-16-scientists-aghast-at-bizarre-ai-rat-with-huge-genitals-in-peer-reviewed-article.md",
+      "title": "Scientists aghast at bizarre AI rat with huge genitals in peer-reviewed article",
+      "excerpt": "The article in question is titled \"Cellular functions of spermatogonial stem cells in relation to JAK/STAT signaling pathway,\" which was authored by three researchers in China, including the corresponding author Dingjun Hao of Xi’an Honghui Hospital. It was published online Tuesday in the journal Frontiers in Cell and Developmental Biology.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/science/2024/02/scientists-aghast-at-bizarre-ai-rat-with-huge-genitals-in-peer-reviewed-article/",
+      "originalUrl": "https://arstechnica.com/science/2024/02/scientists-aghast-at-bizarre-ai-rat-with-huge-genitals-in-peer-reviewed-article/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/GettyImages-644049138-760x380.jpeg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-15T23:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-16-dangerous-new-iphone-attack-steals-facial-recognition-data.md",
       "title": "Dangerous New iPhone Attack Steals Facial Recognition Data",
       "excerpt": "Yes, your iPhone is more secure than Android devices, but no, it’s not impervious to attack. A new report has suddenly warned Apple users that a dangerous trojan is stealing facial recognition data from iPhones to target users’ bank accounts.",
@@ -1053,132 +1172,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-6-ways-to-elevate-the-salesforce-experience-for-your-users.md",
-      "title": "6 Ways to elevate the Salesforce experience for your users",
-      "excerpt": "In this article, explore six ways you can elevate your Salesforce experience for customers, partners and employees.\nThe post 6 Ways to elevate the Salesforce experience for your users appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/6-ways-to-elevate-the-salesforce-experience-for-your-users/",
-      "originalUrl": "https://www.ibm.com/blog/6-ways-to-elevate-the-salesforce-experience-for-your-users/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-how-to-achieve-kubernetes-observability-principles-and-best-practices.md",
-      "title": "How to achieve Kubernetes observability: Principles and best practices",
-      "excerpt": "Learn how Kubernetes observability works, and how organizations can use it to optimize cloud-native IT architectures.\nThe post How to achieve Kubernetes observability: Principles and best practices appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/kubernetes-observability/",
-      "originalUrl": "https://www.ibm.com/blog/kubernetes-observability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-15-the-top-esg-trends-in-2024.md",
-      "title": "The top ESG trends in 2024",
-      "excerpt": "Learn four trends that have been taking shape as of late, and what they may mean for your business in the near future.\nThe post The top ESG trends in 2024 appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/the-top-esg-trends-in-2024/",
-      "originalUrl": "https://www.ibm.com/blog/the-top-esg-trends-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-15T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
       ]
     }
   ],

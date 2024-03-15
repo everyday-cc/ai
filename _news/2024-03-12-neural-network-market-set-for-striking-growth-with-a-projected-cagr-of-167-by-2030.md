@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "South East Asia Artificial Intelligence Market Is Booming With A CAGR Of 17.96% During 2024-2032"
+    excerpt: "According to IMARC Group, the South East Asia artificial intelligence market size is projected to exhibit a growth rate (CAGR) of 17.96% during 2024-2032 The report has segmented the market by offering (hardware,"
+    publishedDateTime: 2024-03-15T13:25:00Z
+    webUrl: "https://menafn.com/1107981790/South-East-Asia-Artificial-Intelligence-Market-Is-Booming-With-A-CAGR-Of-1796-During-2024-2032"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 8
   - title: "Cognitive Computing Market Surges US$188.2 Billion by 2033 with 26.3% CAGR Growth"
     excerpt: "The cognitive computing market is poised for remarkable growth, projected to establish a robust foothold with a compelling CAGR of 26.3% throughout the forecast period. As technology continues to advance and organizations seek smarter solutions,"
     publishedDateTime: 2024-03-12T05:39:00Z

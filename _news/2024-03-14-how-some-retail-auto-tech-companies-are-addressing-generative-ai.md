@@ -184,6 +184,20 @@ related:
         width: 970
         height: 545
         isCached: true
+  - title: "Heard at HIMSS '24: How 12 healthcare leaders use generative AI at work"
+    excerpt: "Discover how healthcare leaders use generative AI, such as ChatGPT, in their day-to-day jobs. Read insights from 12 executives at the HIMSS '24 conference."
+    publishedDateTime: 2024-03-15T14:59:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/heard-at-himss-24-how-12-healthcare-leaders-use-generative-ai-at-work.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Generative AI Is A Game Changer For Talent Transformation"
     excerpt: "One of generative AI's most significant implications is giving talent management professionals the ability to communicate information to executives and their board of directors. It helps leadership look around corners, rather than just in the rearview mirror, when shaping strategy or making decisions."
     publishedDateTime: 2024-03-11T12:00:00Z
@@ -230,6 +244,15 @@ related:
       name: Fierce Healthcare
       domain: fiercehealthcare.com
     quality: 28
+  - title: "Why the Writing Produced by Generative AI Feels Counterfeit"
+    excerpt: "Generative AI is revolutionizing not only the digital realm but also how we conceive, design, and produce computer chips and countless physical products, print circuit boards, analyze thermal transfer and distribution in electronics systems, and enable ..."
+    publishedDateTime: 2024-03-15T00:00:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/progress-notes/202312/why-the-writing-produced-by-generative-ai-feels-counterfeit"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 19
 
 secured: "lv7AqDahKbAIx3McohP411w98AfrKIRzz274oaRyWRob9faqWHBMI8tgPiLzfCvnEzasg1A4yjeH9TtE7yi+sO76Gi1dA+yrpfgQNmk3VjHMYwpA9L/WfX3mB3IUr9Ucs0Iy6oikUhtdgHms14oP0ffiS06DI+HpiiFvcbK5zlB3pGtaFdWlLdQVF+AqD4H466lDUIS9HDRW+H5t974X4w3qv7toMIK8f9NpX545VsTzPwCJiqH0Uy6crKnAm1BApMiwFo2/A+6zWygZRpD31KhQMoN78fmJPgZ4NvygYSTl8viFv/8Zuh8XcWD0dBmV/gJmkuVX4+4L0VtVqtHobYaiu3kznbReaUOR9HRQOCFC0BDXoD6LiMA/oZyYM5OcBa8rsVcwHOpfm1aIzvOhN3TlSG1AFkReMVG7D7IKvh4Lvxflgg4+L6WqEVUZaDtNeHo0rcEa7BXCAFThWJvMfesrTkZz++c69HrGjj4242+yvz7/yDOhRg1FLOcXUAXYrItt3cWa1j7QdSMPwJ60Cw==;DZo2TI0HjTqzixS3b2pqKg=="
 ---

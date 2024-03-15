@@ -47,6 +47,15 @@ related:
         width: 2359
         height: 1270
         isCached: true
+  - title: "My Top 3 Chip Stocks (And They're Not Nvidia)"
+    excerpt: "Nvidia's stock has seen significant appreciation in the AI industry, but other chip companies like Qualcomm, Micron, and Broadcom also have potential. The AI market is still in its early stages and has significant growth potential, projected to be worth $1 ..."
+    publishedDateTime: 2024-03-15T13:32:00Z
+    webUrl: "https://seekingalpha.com/article/4678337-my-top-3-chip-stocks-and-theyre-not-nvidia"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
 
 secured: "eC1+rRb9qb6O3YJbNhH+tbb/XVf7hRWytnMjH8EnUCf000IR/aCvDQCQl8fyfzY7vo8ObrG2mAVJEs7DiY2q3bN8hTFHp8O54CoSgNmgCO1IL8ZoUOcLVUhjc3lgKDc7bYL6UsU4D/OW8ryAmTnHaKy5RCQhjTmYs49uIvN6+o7ROg6mhbiwJlEFp7+Dyv2fxIrNA8Oarv4c1ImAbNNdChQN6eckm0fXCfbBugj7e6OAdpf1P7JlOHdsPc1dUkmtWbYsYqrOKqbNpiO2O/zpIUSxMowX2buYX+9VmHB/mHVLB2PZvc5p9m/QBTfTWuYNkCDm3X6POG6ubRDgJ6O6zCS+vD/09uKW59S/j6MhkjE=;DN4KVllU49P66Zyx281ZKg=="
 ---

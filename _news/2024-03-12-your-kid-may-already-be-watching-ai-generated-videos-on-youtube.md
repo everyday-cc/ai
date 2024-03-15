@@ -70,6 +70,15 @@ related:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
     quality: 19
+  - title: "Tech Headlines of the Week: AI Law and Spotify vs. YouTube"
+    excerpt: "From TikTok ban, Apple’s AirPods Pro news, and the first AI Law to Spotify vs. YouTube battle and internet outages, learn more in Techopedia’s weekly roundup."
+    publishedDateTime: 2024-03-15T14:01:00Z
+    webUrl: "https://www.techopedia.com/news/tech-headlines-of-the-week-11-spotify-vs-youtube-and-ai-law"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
+    quality: 19
 
 secured: "jv6hm37TRrf3U0dVI0aUsrqWdTIDMO4UKIFdnaG7jsjZBDki58pykVQBB7J/rgIqiqO18oz291kCtvsza0AwjBIyWwRPJAwwHtp/1FQSCsdPyobfIbSyk9OjjqMoekBoaXOs7iBjX5yfhZcVZVFzQCb1u5qlppdVQzZqh8AsokuKz0i9t7z/QaLpM5zETqYqC6+/R6+zdDelvacN2aKBJh/BAip5G65DgzZpuHB/eEyZar2I1EoBQkbZtah0AfF7GmrnteElMXMKy1rygKislSniQaZtvXcEsbV+OpRLHO9PNe5Y62h5wuHW3sUfi/jYs6Zm/J/CaQqWPxMEZOY5hbD6ZNiDd794Oe3Z6ZrvBgaKltTC5I89QyyV0rpeYMmmzDQlRPeGomcsIF+Lmc4KHpdk6yhfWj+XuAdIMYyH1aLPa+zy817pkZMT3xSVubAooZ26GcLJUvQvweROsgA8tCqXejw8pYbXcW+IrzV+LzTsD//38MVdW7IIAid9hjLA67lSpf8faE4XJWG4Phw7FQ==;k2i0Gff6Ec6XpPS5yl4xYA=="
 ---

@@ -39,6 +39,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "9 Apple Vision Pro tips, tricks, and settings you need to know"
+    excerpt: "You can also share your Vision Pro experience by mirroring the screen to an Apple TV, iPhone, or Mac. Apple's first spatial computer, the Apple Vision Pro, introduces an entirely new method for interacting and controlling the equally new interface."
+    publishedDateTime: 2024-03-15T00:00:00Z
+    webUrl: "https://www.pocket-lint.com/apple-vision-pro-tips-tricks/"
+    type: article
+    provider:
+      name: Pocket-lint
+      domain: pocket-lint.com
+    quality: 24
+    images:
+      - url: "https://static1.pocketlintimages.com/wordpress/wp-content/uploads/wm/2024/02/apple-vision-pro-keyboard-trackpad.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
 
 secured: "CG6Ry+mAgF5i0SWMQBPNislvC543wwt1VuHB/FrPsRQlK6qtU3tOhgj4/Y2ltFxGwPQDZ9YOYLIJnHplZlkbbs8zICeRkx8cy+HcYwWDrJOQzaiyDljStW5Ou524cvt4AYdmjhiuHdPtwrpC9n2Z3lNKlN07Mu6EDD45yQPfGpJlHTv9IaUEnD8EGCxf0mPDRtOBtgCpRJeRQeRRu8p/0NdcMox+W0Kxdn4hSrh7BYKHFaY9xi/ijqjujT1o2Am1RAcNAGKoUAktQ9SilXBBqHFlql1SUJizhKDukgDuf2nTXdeAREvONBau5zcLFJvvlQ6DlNvKlBBWJ0Fxv4OJwm7kC7oJl85byBemeLrPJkXbUTmWhq4Okbp4CqUMFuHHgbLbIlqcQ1O1iTAGTpEbTptfhjBLptu3sQ5LYVayhk27hbI39jmoVlfx2uLoLjeodke1IYPpeXtFoH43T+3z4pynzs3HYFUQOZOztqJ0olSKxUn0n5jXwj1PWt/6knMN6YlhfU6ZfNl0GM/63NOLVQ==;sbOh2AWm90IpC7w4suV3dQ=="
 ---

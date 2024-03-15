@@ -2,6 +2,92 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-03-14-the-ethical-dilemma-of-ai-in-marketing-a-slippery-slope.md",
+      "title": "The Ethical Dilemma Of AI In Marketing: A Slippery Slope",
+      "excerpt": "Artificial Intelligence has revolutionized the marketing landscape, offering businesses unprecedented insights into consumer behavior and preferences.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/elijahclark/2024/03/14/the-ethical-dilemma-of-ai-in-marketing-a-slippery-slope/",
+      "originalUrl": "https://www.forbes.com/sites/elijahclark/2024/03/14/the-ethical-dilemma-of-ai-in-marketing-a-slippery-slope/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-14T13:15:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2024-03-14-getting-started-with-kafka-client-metrics.md",
+      "title": "Getting started with Kafka client metrics",
+      "excerpt": "Offering guidance on a set of producer and consumer metrics that customers should monitor for optimal performance.\nThe post Getting started with Kafka client metrics appeared first on IBM Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blog/getting-started-with-kafka-client-metrics/",
+      "originalUrl": "https://www.ibm.com/blog/getting-started-with-kafka-client-metrics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-14T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-14-this-investor-predicted-the-dot-com-bust-he-thinks-ai-is-a-bubble-that-will-deflate.md",
       "title": "This investor predicted the dot-com bust. He thinks AI is a bubble that will ‘deflate’",
       "excerpt": "Is the artificial intelligence boom a bubble or the real deal? GMO’s Jeremy Grantham has an answer Wall Street may not like.",
@@ -1145,109 +1231,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-will-you-want-an-ai-pc-in-2024.md",
-      "title": "Will You Want An AI PC In 2024?",
-      "excerpt": "From the recent MacBook Air product launch press release: “With the transition to Apple silicon, every Mac is a great platform for AI. M3 includes a faster and more efficient 16-core Neural Engine, along with accelerators in the CPU and GPU to boost on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2024/03/13/will-you-want-an-ai-pc-in-2024/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2024/03/13/will-you-want-an-ai-pc-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65f231594bd589c2f720cec3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1252,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2024/03/13/will-you-want-an-ai-pc-in-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2024/03/13/will-you-want-an-ai-pc-in-2024/amp/",
-      "publishedDateTime": "2024-03-13T16:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-satya-nadella-says-google-shouldve-been-the-default-winner-of-the-ai-race.md",
-      "title": "Satya Nadella says Google should've been the 'default winner' of the AI race",
-      "excerpt": "Satya Nadella said Google has the resources that should've made it the Big Tech AI leader. Instead, Microsoft now seems to hold that position.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/satya-nadella-google-default-winner-ai-race-microsoft-2024-3",
-      "originalUrl": "https://www.businessinsider.com/satya-nadella-google-default-winner-ai-race-microsoft-2024-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65f1b75ece7f1785b2e92243?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/satya-nadella-google-default-winner-ai-race-microsoft-2024-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/satya-nadella-google-default-winner-ai-race-microsoft-2024-3?amp",
-      "publishedDateTime": "2024-03-13T15:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

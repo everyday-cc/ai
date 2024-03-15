@@ -2,6 +2,94 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2024-01-18-8-best-ai-data-analytics-software-tools-of-2024.md",
+      "title": "8 Best AI Data Analytics Software & Tools of 2024",
+      "excerpt": "Learn More. Artificial intelligence (AI) data analytics software utilizes machine learning algorithms, natural language processing, and other AI technologies to extract insights, find patterns, and make predictions from large datasets. These tools use AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/artificial-intelligence/ai-data-analytics-software/",
+      "originalUrl": "https://www.eweek.com/artificial-intelligence/ai-data-analytics-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2024/01/ew_20240116-ai-data-analytics-software.png",
+          "width": 1400,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-18T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-17-cognigy-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "Cognigy Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "Cognigy's Conversational AI is now available in the Microsoft Azure Marketplace. Cognigy customers can now take advantage of the Azure cloud platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20240116168934/en/Cognigy-Now-Available-in-the-Microsoft-Azure-Marketplace/",
+      "originalUrl": "https://www.businesswire.com/news/home/20240116168934/en/Cognigy-Now-Available-in-the-Microsoft-Azure-Marketplace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-16T19:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-16-microsoft-azure-ai-services-has-200bn-revenue-potential-in-five-years-goldman-sachs.md",
       "title": "Microsoft Azure AI Services has $200bn revenue potential in five years - Goldman Sachs",
       "excerpt": "Analysts at Goldman Sachs said in a note Tuesday that Microsoft's (NASDAQ: MSFT ) Azure AI Services will likely be the main generative AI driver in the near term, with a $200 billion revenue potential in five years.",
@@ -1241,101 +1329,6 @@
         "Google AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-28-baidus-chatgpt-like-ernie-bot-has-more-than-100-million-users-cto.md",
-      "title": "Baidu's ChatGPT-Like Ernie Bot Has More Than 100 Million Users -CTO",
-      "excerpt": "BEIJING (Reuters) - Baidu's ChatGPT-like Ernie Bot has garnered more than 100 million users, chief technology officer of the Chinese internet company Wang Haifeng said on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2023-12-28/baidus-chatgpt-like-ernie-bot-has-more-than-100-million-users-cto",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2023-12-28/baidus-chatgpt-like-ernie-bot-has-more-than-100-million-users-cto",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-28T10:43:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-27-the-new-york-times-is-suing-openai-alleging-it-trained-chatgpt-off-its-content.md",
-      "title": "The New York Times is suing OpenAI — alleging it trained ChatGPT off its content",
-      "excerpt": "The Times is also suing Microsoft. The newspaper seeks to end the practice of using published material to train chatbots.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/nyt-sues-open-ai-microsoft-alleging-trained-chatgpt-off-content-2023-12",
-      "originalUrl": "https://www.businessinsider.com/nyt-sues-open-ai-microsoft-alleging-trained-chatgpt-off-content-2023-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/658c4651ab6f2ebb11f71246?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/nyt-sues-open-ai-microsoft-alleging-trained-chatgpt-off-content-2023-12?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/nyt-sues-open-ai-microsoft-alleging-trained-chatgpt-off-content-2023-12?amp",
-      "publishedDateTime": "2023-12-27T15:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

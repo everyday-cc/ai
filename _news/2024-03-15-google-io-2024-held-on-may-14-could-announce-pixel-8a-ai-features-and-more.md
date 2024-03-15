@@ -19,35 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Google I/O 2024 date announced: Here's everything we know so far"
-    excerpt: "The Google I/O conference in 2024 will be held at the Shoreline Amphitheater in Mountain View, California. During the conference, Google is likely to unveil its latest products, advancements in artificial intelligence,"
-    publishedDateTime: 2024-03-15T05:36:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news/google-i-o-2024-date-announced-here-s-everything-we-know-so-far-2024-03-15-921595"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/google-i-o-2024-date-announced-here-s-everything-we-know-so-far-2024-03-15-921595"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/google-i-o-2024-date-announced-here-s-everything-we-know-so-far-2024-03-15-921595"
+  - title: "Google I/O 2024: Anticipation Builds For AI Innovations And Potential Pixel 8a Unveiling"
+    excerpt: "This year's keynote is widely anticipated to spotlight advancements in AI, in which Google has demonstrated substantial investment and evolution. Recent developments, such as AI-generated summaries in Google Search and updates to the Gemini chatbot (formerly Bard), hint at the potential AI-centric revelations expected at the event."
+    publishedDateTime: 2024-03-15T10:08:00Z
+    webUrl: "https://in.mashable.com/tech/71507/google-io-2024-anticipation-builds-for-ai-innovations-and-potential-pixel-8a-unveiling"
     type: article
     provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 44
+      name: in.mashable
+      domain: mashable.com
+    quality: 60
     images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2024/03/google-i-o-2024-1710480692.jpg"
-        width: 360
-        height: 202
-        isCached: true
-  - title: "Google I/O 2024 Date Confirmed; Set for May 14"
-    excerpt: "We finally know the event date for Google I/O 2024. Here's when the devcon will kick off and all that you can expect from it."
-    publishedDateTime: 2024-03-14T20:03:00Z
-    webUrl: "https://beebom.com/google-i-o-2024-date-confirmed/"
-    type: article
-    provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 24
-    images:
-      - url: "https://beebom.com/wp-content/uploads/2024/03/Google-I-O-2024-Break-the-Loop-game.jpg"
-        width: 1250
-        height: 750
+      - url: "https://sm.mashable.com/t/mashable_in/photo/default/5_x63n.1200.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Google I/O 2024 is taking place on 14 May"
     excerpt: "Google has revealed that 14 March is when its 2024 I/O developers conference will begin and it will likely be focused on more AI products."
@@ -63,6 +47,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Biden administration requests $3B for federal AI application development, procurement and integration in 2025 budget"
+    excerpt: "The President’s budget looks to fund the National AI Research Resource pilot, agencies’ establishment of Chief AI Officers, the AI talent surge and more AI development across agencies."
+    publishedDateTime: 2024-03-11T19:28:00Z
+    webUrl: "https://fedscoop.com/biden-administration-requests-3b-for-federal-ai-application-development-procurement-and-integration-in-2025-budget/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 0
 
 secured: "dUV7VrWVmIyg9JOuyLwXLWEDrNoHoPx9Wrb82p+2lI0r14MJVth3Vmcz3wtWEz9gUZsbz/+vZ+evJH0/29Pc7QVwAY9yS+1R1ge+s/TpHneayd0fKqbktlJtn4NwOkJU/q0y/TTQ/KfjtpHU1nRmtqx8aLYh8PrDlojt4z+4H3KabowxvOMpe0/2zIOznVayiCh/qJsXBKb9hvUV6BlMIesUUCqUQQcw1jFZOE4JhN+/8yD9sMDDvjaG9SoqIX3pe5bKfh7Kp1+/W8AAwF7/mWMhBOpe4OpkbsvKx9ChwX+twd5KGY9UIQOJgxdCxXqVRJozrLTGfrMDo15T6NlqyvYAUnhKvdq4pNxKWOpCmwDA93msHPTuFE3dJiPvLN/aJeBKFPqkkpXPCXXszUSZrm/LDJGcsHdaN3wZ22zONZ9iBRQKrdVw+e3NQol62bfiSIfGzzO1Zw/jMh8MmNearBqJjCZCJc8EWmtDWsFy/u0fGkD/mlaJvLiORs1lwejVZhyd/8LwDCc+ByOe07Wbrw==;QBFNHGjXHKXtTzZHI0IaTQ=="
 ---

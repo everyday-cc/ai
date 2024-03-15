@@ -2,6 +2,163 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-03-13-googles-new-security-command-center-enterprise-puts-you-at-the-helm-of-your-multicloud-environment-with-ai-secops-to-back-you-up.md",
+      "title": "Google’s new Security Command Center Enterprise puts you at the helm of your multicloud environment, with AI SecOps to back you up",
+      "excerpt": "The Enterprise level solution builds on Google’s pre existing Command Center with additional capabilities for securing Google Cloud, AWS, and Microsoft Azure environments, including vulnerability and security posture management, cloud infrastructure specific threat detection technology, integrated workflows and much more.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/pro/googles-new-security-command-center-enterprise-puts-you-at-the-helm-of-your-multicloud-environment-with-ai-secops-to-back-you-up",
+      "originalUrl": "https://www.techradar.com/pro/googles-new-security-command-center-enterprise-puts-you-at-the-helm-of-your-multicloud-environment-with-ai-secops-to-back-you-up",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/6tqRVDq2EAcaFcNtDomiCe-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-12T17:20:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-4-updates-from-the-2024-google-for-games-developer-summit.md",
+      "title": "4 updates from the 2024 Google for Games Developer Summit",
+      "excerpt": "These new tools help developers build immersive and engaging games that players love.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/google-play/google-for-games-developer-summit-2024/",
+      "originalUrl": "https://blog.google/products/google-play/google-for-games-developer-summit-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ggds4.width-1300.png",
+          "width": 1300,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-12T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-google-play-will-show-ai-powered-faqs-and-recent-youtube-videos-for-games.md",
+      "title": "Google Play will show AI-powered FAQs and recent YouTube videos for games",
+      "excerpt": "Google announced a number of new features for Google Play listings for games including AI-powered FAQs, displaying the latest YouTube videos, new immersive ad formats, and support for native PC game publishing. The announcements were made at the Google ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/03/12/google-play-store-will-show-ai-powered-faqs-and-latest-youtube-videos-for-games/",
+      "originalUrl": "https://techcrunch.com/2024/03/12/google-play-store-will-show-ai-powered-faqs-and-latest-youtube-videos-for-games/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1240125020.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/03/12/google-play-store-will-show-ai-powered-faqs-and-latest-youtube-videos-for-games/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/google-play-store-will-show-ai-powered-faqs-and-latest-youtube-videos-for-games/amp/",
+      "publishedDateTime": "2024-03-12T16:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-12-techcrunch-minute-reddits-ipo-success-may-hinge-on-ai-boom.md",
       "title": "TechCrunch Minute: Reddit’s IPO success may hinge on AI boom",
       "excerpt": "Reddit's IPO signals an end to our long-running dearth of IPOs, and the success of its stock could depend on its ability to leverage AI.",
@@ -1072,143 +1229,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-five-ai-crypto-coins-emerging-in-2024.md",
-      "title": "Five AI crypto coins emerging in 2024",
-      "excerpt": "The artificial intelligence industry began booming at the start of 2024, with OpenAI's Sora product generating a new wave of hype within the sector.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/business/india-business/best-ai-cryptos/articleshow/108424368.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/business/india-business/best-ai-cryptos/articleshow/108424368.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-108424765,width-1280,height-720,resizemode-4/108424765.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/business/india-business/best-ai-cryptos/amp_articleshow/108424368.cms",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/business/india-business/best-ai-cryptos/amp_articleshow/108424368.cms",
-      "publishedDateTime": "2024-03-12T06:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-french-startup-nijta-hopes-to-protect-voice-privacy-in-ai-use-cases.md",
-      "title": "French startup Nijta hopes to protect voice privacy in AI use cases",
-      "excerpt": "France-based startup Nijta, whose flagship product Voice Harbor anonimizes voices for AI, raised €2 million in funding from various sources, including deep tech VC fund Elaia.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/03/11/nijta-voice-privacy-ai/",
-      "originalUrl": "https://techcrunch.com/2024/03/11/nijta-voice-privacy-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-525848879.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/03/11/nijta-voice-privacy-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/11/nijta-voice-privacy-ai/amp/",
-      "publishedDateTime": "2024-03-12T05:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-meta-sues-former-executive-over-alleged-ai-theft.md",
-      "title": "Meta sues former executive over alleged AI theft",
-      "excerpt": "Meta has alleged that a former vice president stole “highly confidential” data about the company’s top performers and supply chain partners.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3714344/meta-sues-former-executive-over-alleged-ai-theft.html",
-      "originalUrl": "https://www.computerworld.com/article/3714344/meta-sues-former-executive-over-alleged-ai-theft.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/03/screen-shot-2019-03-19-at-4.31.06-pm-100791434-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3714344/meta-sues-former-executive-over-alleged-ai-theft.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3714344/meta-sues-former-executive-over-alleged-ai-theft.amp.html",
-      "publishedDateTime": "2024-03-12T04:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

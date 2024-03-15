@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/03/12/ontario-teachers-mints-new-unicorn
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/ontario-teachers-mints-new-unicorn-in-indian-fintech-perfios/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -86,15 +86,6 @@ related:
         width: 416
         height: 250
         isCached: true
-  - title: "Use of Indian languages key for increasing internet access in India: Report"
-    excerpt: "The report also shows that in the recent past, the use of the internet in Indian languages is increasing. It shows that 57 per cent of internet users prefer to access the internet in Indian languages, with Hindi topping the chart."
-    publishedDateTime: 2024-03-10T13:23:00Z
-    webUrl: "https://www.business-standard.com/india-news/use-of-indian-languages-key-for-increasing-internet-access-in-india-report-124031000395_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 2
 
 secured: "7QkrVwlkaLe9fs+w4U+irNZ6Ld/eZwzWXClZ51ResMzyAidupSZsA0tEILs8VifoNJlbbHxCi7lUEfbmHoUz3qlSJmQk60THNskv8audV58qJy6H2MnruEc72NtPKN7PqlMxVOt2Zwyaf903OtuLB4GdsaWRgNyoHg8irQ0/aZHgkg4XGiv+PWIIStxPLkQS7HyLxuOJkICXUd91jCpE8blhfyvvwpBjsfbhF4ziQKIP4lRw/alntg1DiCrZYR+WmSEBknqP4Y54Ac1XY9sz2diaecPIrA6td6faDMj+jKQRNE6aJe7KYam6vlk7lyv24nUiOl262F09cETrDCTfJVSyF3ixfGVr3hrY9BQYHV4=;tbonR0u6WX3gzmzzyb9EAw=="
 ---

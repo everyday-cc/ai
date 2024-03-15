@@ -24,6 +24,17 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Automation Trends Impacting Robotics"
+    excerpt: "“These advances continue to shape the merging industrial and service robotics sectors and the future of work.” Following are the tech trends cited by the IFR along with their reasons for citing them: Artificial Intelligence (AI). The trend of using AI ..."
+    publishedDateTime: 2024-03-15T12:01:00Z
+    webUrl: "https://www.automationworld.com/factory/robotics/article/33038680/automation-trends-impacting-robotics"
+    type: article
+    provider:
+      name: Automation World
+      domain: automationworld.com
+    quality: 34
+
 secured: "zHWNqF4jbsT7dLh78ygyMET8vkMv6aA8upkfjevfKMgU2qK9BZsYPx5O7EfKKUEdhMKKZE852Qp7QdF8CpdNsq0k3JI7aTRJIIl59jsTH5fkLC2fg+XVm3YrduAs+ksItvuL1HvDvsxaOsL2UaSID9qH91Lx4HR9fsxFxY02oOo4lkZVeRhlb7WAKNapSX6xM9x5q5y9JT3NBDnAi7rW7BlAc4uc3iFGUWr9GBX/WNljjfBkhUYBgJOwQ8ZjF8Jq2ZOuDC8mCghybSNe/hZfd7YKr0Lwi/NfJEvRDtPL2wsWNX2Rub4bfOElWVsCSHG2Xd2AHpnvq0hAxxj1Bkknh/EJhLYc9DO0URFIQAWndIU=;L5K2l7W1/WMI0y15iuuNTg=="
 ---
 

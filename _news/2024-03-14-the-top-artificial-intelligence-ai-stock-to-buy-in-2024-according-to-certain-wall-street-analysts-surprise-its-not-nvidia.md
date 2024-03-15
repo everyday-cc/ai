@@ -39,6 +39,15 @@ related:
         width: 2359
         height: 1270
         isCached: true
+  - title: "My Top 3 Chip Stocks (And They're Not Nvidia)"
+    excerpt: "Nvidia's stock has seen significant appreciation in the AI industry, but other chip companies like Qualcomm, Micron, and Broadcom also have potential. The AI market is still in its early stages and has significant growth potential, projected to be worth $1 ..."
+    publishedDateTime: 2024-03-15T13:32:00Z
+    webUrl: "https://seekingalpha.com/article/4678337-my-top-3-chip-stocks-and-theyre-not-nvidia"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
   - title: "Forget Nvidia: 2 Artificial Intelligence (AI) Stocks With More Upside to Buy Now, According to Wall Street"
     excerpt: "However, investors should not fixate on a single AI stock. The most prudent strategy is to spread money across a group of AI stocks. With that in mind, Microsoft and Docebo warrant further consideration. Microsoft has two major growth engines in enterprise ..."
     publishedDateTime: 2024-03-14T15:30:00Z

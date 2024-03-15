@@ -56,6 +56,58 @@
       ]
     },
     {
+      "path": "_news/2024-03-13-apple-vision-pro-everything-you-need-to-know.md",
+      "title": "Apple Vision Pro: Everything you need to know",
+      "excerpt": "The Vision Pro is powered by an M2 processor with 8 CPU cores and 10 GPU cores–the same as you would find in a MacBook. It has 16GB of RAM and 256GB, 512GB, or 1TB of flash storage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.macworld.com/article/557878/apple-vision-pro-features-specs-price-faq.html",
+      "originalUrl": "https://www.macworld.com/article/557878/apple-vision-pro-features-specs-price-faq.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.macworld.com/wp-content/uploads/2024/03/Apple-Vision-PRo-2.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-12T23:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Macworld",
+        "domain": "macworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/macworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-13-mia-shah-dands-race-to-bridge-the-ai-gender-gap-for-a-human-centred-world.md",
       "title": "Mia Shah-Dand’s Race To Bridge The AI Gender Gap For A Human-Centred World",
       "excerpt": "Mia Shah-Dand is building a counter narrative to give voice and due credit to incredible women that shape technology– despite the stagnation in STEM, the gender pay gap, and the disproportionate funding gap.",
@@ -1324,49 +1376,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-26-industry-looks-to-apple-vision-pro-for-next-level-of-fan-engagement.md",
-      "title": "Industry looks to Apple Vision Pro for next level of fan engagement",
-      "excerpt": "The long-awaited release of the Apple Vision Pro is prompting sports entities to explore new mediums of fan engagement. Even if the early R&D is modest, no one wants to get left behind.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sportsbusinessjournal.com/Articles/2024/02/26/technology",
-      "originalUrl": "https://www.sportsbusinessjournal.com/Articles/2024/02/26/technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sportsbusinessjournal.com/-/media/Images/Journal/2024/02/26/pg-16-17-Apple-Vision-Pro-Genesis-Tiger-Hole1-3D.ashx",
-          "width": 1000,
-          "height": 638,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-26T10:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sports Business Journal",
-        "domain": "sportsbusinessjournal.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -24,6 +24,17 @@ images:
     height: 1414
     isCached: true
 
+related:
+  - title: "Portugal’s Banco BPI and Fintech Personetics Launch App to Assist SMBs with Operations"
+    excerpt: "Portuguese bank Banco BPI and Personetics announced the introduction of Pulsoo, an independently branded application that empowers SMBs."
+    publishedDateTime: 2024-03-15T12:38:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/03/222675-portugals-banco-bpi-and-fintech-personetics-launch-app-to-assist-smbs-with-operations/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 0
+
 secured: "SakFea0uOYEJ2DXp8EVHH1Xm+oZzY2OpJgwz9SEPgMa1TNAei264KqedEh1dP46nBQBuLXTSPyu1DKTAF2Uyh5iZGh40+TDH6NN81bOvzYMI83wRQn2gtvGFfDdoGkOLOgbWGeuiAr2jIfdjxb3nkhxSRWi0/ibjyz3fnk3cAXU3sXH1pHZWxfm3eMc61d520pe6oPdMb+kSc/u4CcrymOfsvpzMh2MZHDyeEbrM/SfymKSfWECNvdSa2duLJXQnrONyUryOfAscVEaYkjowXeJ63BjkMr8fgaDp8YSyqyW50LLQjox727TSzPxM8ddL2JeBThJ4LzWx2uNGF8urtMJIurIbBFkORuCYTDT9ayw=;mTR0TR8X6+byRy2va7XbMA=="
 ---
 

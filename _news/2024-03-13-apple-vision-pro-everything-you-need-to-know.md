@@ -7,8 +7,8 @@ originalUrl: "https://www.macworld.com/article/557878/apple-vision-pro-features-
 webUrl: "https://www.macworld.com/article/557878/apple-vision-pro-features-specs-price-faq.html"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Macworld
@@ -42,6 +42,20 @@ related:
       - url: "https://www.michigandaily.com/wp-content/uploads/2024/03/unnamed-19.png"
         width: 2400
         height: 1600
+        isCached: true
+  - title: "9 Apple Vision Pro tips, tricks, and settings you need to know"
+    excerpt: "You can also share your Vision Pro experience by mirroring the screen to an Apple TV, iPhone, or Mac. Apple's first spatial computer, the Apple Vision Pro, introduces an entirely new method for interacting and controlling the equally new interface."
+    publishedDateTime: 2024-03-15T00:00:00Z
+    webUrl: "https://www.pocket-lint.com/apple-vision-pro-tips-tricks/"
+    type: article
+    provider:
+      name: Pocket-lint
+      domain: pocket-lint.com
+    quality: 24
+    images:
+      - url: "https://static1.pocketlintimages.com/wordpress/wp-content/uploads/wm/2024/02/apple-vision-pro-keyboard-trackpad.jpg"
+        width: 2560
+        height: 1440
         isCached: true
 
 secured: "mt2cPM0Od4UEzmOQXVYZK3SbMdGAnHBw47+ak6Xebb1DV7sQkJcg4b4+KHuL2AUrQ8yRUmepXnjrH/jmmggp9Z7m22p/G3t3cNdjQgVreQuQ1noFpfz9UXA2acqHYR9eYN+M00bk09hUgQUjnNAnR9HaEYyv66lpgyvp5N44bStWncMbxsFnZl9STqghrzynNR9I/tip6qfjRkbew97JAkgsz5zc1p3N151coXwp0ybpZlvoXOtHS/1YCzBUqXQql+aCL8UKoLAZPyJqw8qYJKuVlETJykilC5A8/1OQV0v3j3AqPf/tvLs+uMeP124gnROIY80QefqnX/rZUsamdFk0HbI8A3OmiaoGnLZlMjo=;6ZJq61MTEazlLLQiRtR7Gw=="

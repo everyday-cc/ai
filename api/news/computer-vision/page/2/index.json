@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-26-industry-looks-to-apple-vision-pro-for-next-level-of-fan-engagement.md",
+      "title": "Industry looks to Apple Vision Pro for next level of fan engagement",
+      "excerpt": "The long-awaited release of the Apple Vision Pro is prompting sports entities to explore new mediums of fan engagement. Even if the early R&D is modest, no one wants to get left behind.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sportsbusinessjournal.com/Articles/2024/02/26/technology",
+      "originalUrl": "https://www.sportsbusinessjournal.com/Articles/2024/02/26/technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sportsbusinessjournal.com/-/media/Images/Journal/2024/02/26/pg-16-17-Apple-Vision-Pro-Genesis-Tiger-Hole1-3D.ashx",
+          "width": 1000,
+          "height": 638,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-26T10:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sports Business Journal",
+        "domain": "sportsbusinessjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-26-ai-on-smartphones-how-to-use-it-safely-effectively.md",
       "title": "AI on smartphones: How to use it safely, effectively",
       "excerpt": "QUESTION: Is it possible to use AI on my smartphone and if so, how do I do it? ANSWER: Artificial Intelligence (AI) is the most talked about technology right now and much of the hype is well deserved.",
@@ -1285,58 +1328,6 @@
         "name": "Houston Chronicle",
         "domain": "chron.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-14-it-looks-like-russias-automated-killer-drones-did-not-work-as-planned.md",
-      "title": "It Looks Like Russia’s Automated Killer Drones Did Not Work As Planned",
-      "excerpt": "Russia's Lancet kamikaze drones were recently upgraded to locate targets without human involvement — but this automated mode now seems to have been disabled.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidhambling/2024/02/14/it-looks-like-russias-automated-killer-drones-did-not-work-as-planned/",
-      "originalUrl": "https://www.forbes.com/sites/davidhambling/2024/02/14/it-looks-like-russias-automated-killer-drones-did-not-work-as-planned/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65cc89284db5e2fad8876e8e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 966,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidhambling/2024/02/14/it-looks-like-russias-automated-killer-drones-did-not-work-as-planned/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2024/02/14/it-looks-like-russias-automated-killer-drones-did-not-work-as-planned/amp/",
-      "publishedDateTime": "2024-02-14T09:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -190,6 +190,20 @@ related:
         width: 970
         height: 545
         isCached: true
+  - title: "Heard at HIMSS '24: How 12 healthcare leaders use generative AI at work"
+    excerpt: "Discover how healthcare leaders use generative AI, such as ChatGPT, in their day-to-day jobs. Read insights from 12 executives at the HIMSS '24 conference."
+    publishedDateTime: 2024-03-15T14:59:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/heard-at-himss-24-how-12-healthcare-leaders-use-generative-ai-at-work.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Generative AI Is A Game Changer For Talent Transformation"
     excerpt: "One of generative AI's most significant implications is giving talent management professionals the ability to communicate information to executives and their board of directors. It helps leadership look around corners, rather than just in the rearview mirror, when shaping strategy or making decisions."
     publishedDateTime: 2024-03-11T12:00:00Z
@@ -230,6 +244,15 @@ related:
     provider:
       name: Automotive News
       domain: autonews.com
+    quality: 19
+  - title: "Why the Writing Produced by Generative AI Feels Counterfeit"
+    excerpt: "Generative AI is revolutionizing not only the digital realm but also how we conceive, design, and produce computer chips and countless physical products, print circuit boards, analyze thermal transfer and distribution in electronics systems, and enable ..."
+    publishedDateTime: 2024-03-15T00:00:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/progress-notes/202312/why-the-writing-produced-by-generative-ai-feels-counterfeit"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
     quality: 19
 
 secured: "XwxlV3+ZW7wlXLZFTh/xy7hWkmhCHP8rjADC3di8+FsP58cdbDOTC8SmNXNKqrYEB0Ae/2KDunfN6DudWQDfXAIvUqUV8IxngFHQ2fqfYt4q6QUvC5PngWqzqsgbX2ig+x3ODR3vzvHBWej6BlioI4G6r6qSXCWY3gEBLSFh+IMCjdmFESJPsPowfB5NHNkIJi3jtjCrH9hQk20nyRh9VwG5Kd403G36nEa/LNh+khBPn2V6kbtsqJeLzVUULyOTouHdOM7/i/j8XIh0gjzQZfD4nAfXZNNQslu8iwmhoSI9xAthZW8jP550/S5P4JYY1TMAV0cAQEwOWWazHlhUZ8yszOmLEUS1Y6/Qo0sgAl0=;xCe3uDUMc+31nDAcettJQA=="

@@ -33,6 +33,15 @@ related:
         width: 2560
         height: 1720
         isCached: true
+  - title: "How Will Generative AI Affect Wealth Management?"
+    excerpt: "Avishek Nandy, Wealth and Asset Management leader for Asia Pacific at Bain & Company, sees generative artificial"
+    publishedDateTime: 2024-03-15T12:45:00Z
+    webUrl: "https://www.dmnews.com/generative-ai-a-new-era-in-wealth-management/"
+    type: article
+    provider:
+      name: Direct Marketing News
+      domain: dmnews.com
+    quality: 19
   - title: "AI-powered content management: How to make your workflows more efficient"
     excerpt: "AI translation tools are becoming increasingly sophisticated ... Advanced NLP algorithms will better understand nuances in language and tone, enabling AI-generated content to resonate more deeply with audiences. Pretty soon, AI might be able to create ..."
     publishedDateTime: 2024-03-11T08:00:00Z

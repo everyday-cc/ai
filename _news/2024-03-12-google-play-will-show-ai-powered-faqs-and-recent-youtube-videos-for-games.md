@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/03/12/google-play-store-will-show-ai-pow
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/google-play-store-will-show-ai-powered-faqs-and-latest-youtube-videos-for-games/amp/"
 type: article
 quality: 88
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -69,6 +69,15 @@ related:
     provider:
       name: Geeky Gadgets
       domain: geeky-gadgets.com
+    quality: 19
+  - title: "Tech Headlines of the Week: AI Law and Spotify vs. YouTube"
+    excerpt: "From TikTok ban, Apple’s AirPods Pro news, and the first AI Law to Spotify vs. YouTube battle and internet outages, learn more in Techopedia’s weekly roundup."
+    publishedDateTime: 2024-03-15T14:01:00Z
+    webUrl: "https://www.techopedia.com/news/tech-headlines-of-the-week-11-spotify-vs-youtube-and-ai-law"
+    type: article
+    provider:
+      name: Techopedia
+      domain: techopedia.com
     quality: 19
 
 secured: "6X4Cm8qZ18GgvHTkgS/T4L/lf203h6QEVxZuQFIIZDh/l8MEvbo+zin70oNSukIlh5zaFndyKv24oZ9LD6bIU67tVROyIhCLRonBHGJPAGSGAfj5TNQmgKjnd134MaUPiJutJoIoQABAcgp2TXMwC5hFXJIfhgu8KahlskoYTWrQTkGg6X2NFfkQ2wld/fpurv7N05E42QyfQiV4X3XGjSY5wTnpT3ydTgN59jwxQWOUn6a3nr9xZjXWKBBtJ8rHwwwrNwOpsbHGfGVCFDoNWyT/yRj68a92q5prTWqYFSuB9mNBgEP7PLBfXRrO/oQKnwhFT0HT5MAaIiimJyGkdwZP4Q/pJmMbIScI/GhVYRaYxR/106vfzHyy1zc0OsD5hGSGqqcZ4uxUdQtZvKPw1x7x5dKJeyxdHnHO/fZBxGZDOkQDgL68opnKnHS3Wj/jX7SWn0gdyEhhvZY6oSZjQH/QQXeTrk+1wRRytFHeOe3mfW6c7Ciyd3IzcasBWYjZdHXt6h+zP8fzIytS79Zl6w==;OTrNvojSlXMNF5OvdZ8KnA=="

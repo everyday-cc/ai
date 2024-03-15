@@ -187,6 +187,20 @@ related:
         width: 970
         height: 545
         isCached: true
+  - title: "Heard at HIMSS '24: How 12 healthcare leaders use generative AI at work"
+    excerpt: "Discover how healthcare leaders use generative AI, such as ChatGPT, in their day-to-day jobs. Read insights from 12 executives at the HIMSS '24 conference."
+    publishedDateTime: 2024-03-15T14:59:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/heard-at-himss-24-how-12-healthcare-leaders-use-generative-ai-at-work.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 54
+    images:
+      - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "The impact of AI on law practice and legal professions"
     excerpt: "In the evolving landscape of the legal profession, artificial intelligence (AI) emerges as a transformative force, reshaping how legal practices operate"
     publishedDateTime: 2024-03-13T10:54:00Z
@@ -232,6 +246,15 @@ related:
     provider:
       name: Automotive News
       domain: autonews.com
+    quality: 19
+  - title: "Why the Writing Produced by Generative AI Feels Counterfeit"
+    excerpt: "Generative AI is revolutionizing not only the digital realm but also how we conceive, design, and produce computer chips and countless physical products, print circuit boards, analyze thermal transfer and distribution in electronics systems, and enable ..."
+    publishedDateTime: 2024-03-15T00:00:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/progress-notes/202312/why-the-writing-produced-by-generative-ai-feels-counterfeit"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
     quality: 19
 
 secured: "8Li0L5+vTvigDQdIU5KBHLe1nDmN0Db9AqiltpQHY/tyRHuOCGfc+HNxxxaBcpvaw2aFnKrYDKe70lmqMkCR84VcHvX8HOeHw1EERoU8EmvoPlhDD9abbhxGHWw93+ZKYxhyVJ3uhgBAuvxS97FximtTJkcsdsn+ydCki84sBTfID6VtUscrfaSR3TOalM6bTpmz8NWXiPxtweqI8YaMy0Kv5OJS4fR4j6NAo5kaelIEkjqFTBgJOuQjnqH+GG78RBD8KirmuZX3q2ZK5qVkT74Z5cj2eIln0b8SX0fnjEJsxihnPHjCALW0h7ZLNrmTX5OZKS+kLIyZf4vimySzSO59vNWSynXZW+WcTVN2W+VOFUQJsK/Unkt+MdkThpdIpsxrpO3FvixR2rvzdSL3Efnj84s9U6KXatNe02Ja5rsfnEGjnc4Ked/wPHFTaqZ6D+/uQi5KjIk312Qd486CYb2iR3vXjkCldhDD4piTL/FwSRKHEtSdNeTgcSBvJxQoU7bAEyCz0woS0LoHUf4yEQ==;Znur2R28fZn2NPxv4oOFNw=="

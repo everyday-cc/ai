@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wbng.com/2024/03/12/cortland-student-government-associat
 cdnAmpWebUrl: "https://www-wbng-com.cdn.ampproject.org/c/s/www.wbng.com/2024/03/12/cortland-student-government-association-overturns-decision-grants-turning-point-usa-recognition-official-club/?outputType=amp"
 type: article
 quality: 23
-heat: 23
+heat: -1
 published: false
 
 provider:
@@ -27,15 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition and predictive policing tech are a huge risk for law enforcement | Opinion"
-    excerpt: "The deployment of facial recognition software, for instance, has been rife with controversies, as studies consistently reveal its inherent biases against people with darker skin tones. This bias leads to misidentifications, false arrests and an erosion of ..."
-    publishedDateTime: 2024-03-13T06:03:00Z
-    webUrl: "https://www.kansascity.com/opinion/readers-opinion/guest-commentary/article286604750.html"
+  - title: "US government mandates facial recognition for migrants lacking passports to board domestic flights"
+    excerpt: "The U.S. government has implemented a new requirement for migrants without passports to undergo facial recognition technology when taking domestic flights."
+    publishedDateTime: 2024-03-15T10:35:00Z
+    webUrl: "https://www.foxnews.com/us/us-government-mandates-facial-recognition-migrants-lacking-passports-board-domestic-flights"
     type: article
     provider:
-      name: Kansas City Star
-      domain: kansascity.com
-    quality: 8
+      name: Fox News
+      domain: foxnews.com
+    quality: 35
 
 secured: "e/KFZkCrVR0MlMHQcONaQ9MC5m/rk4m2ndAok/KDmCe6ttabsfiZS8/+HzcGlEsvByI1y4uI9SEaV0wP2FW/bnNA3SHKUvfBgbrariE7JR9VW/2a/RABHntm2qt9QwFTFtiOBX+g8FekXNNvOgFiRp5JX81gl/y2o9t3NgyE8UqpUqDoMHwWaaKiZ4nZY2rc1KJGfqsMMiWN/BvaNkaOqaMe7goYawRdfgF8ezbwXCzhyt9HUk7e8BQaFPEVBBCZypsToGFnqKHbeOqO5TC15myu3B6cI1hmPfdzy3C+4SWo7+BAOePuhaSjqdD+DMlQl0mzUYSkVcqGIZkteRp9mkCZpUYIwExP0X52fi90ZThuKBlX6Tp4PFtKfjjFjKW+DU3dRG9LD6wMUr/AWmfMDbSP7Xj31vj7l5tzoqRDfV1JjJcxGP37sF8qonO0KDUGi/OSl7vVig4bIp0dS2Qp65NTKvSH2iINfvod4HmNUhAA0S3juURvfom6YMF85+5QGzcjt32dquK+m9zJiMe6ew==;hvMlG/dmuCMXaMm0EbnUXg=="
 ---

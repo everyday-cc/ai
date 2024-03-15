@@ -19,49 +19,43 @@ topics:
   - AI
 
 related:
-  - title: "Tackling deforestation and forest degradation with AI and remote sensing"
-    excerpt: "Deforestation and forest degradation are both significant conservation issues. But charities around the world are starting to use advanced technologies, such as AI and remote sensing, to get on top of the challenge."
-    publishedDateTime: 2024-03-13T09:12:00Z
-    webUrl: "https://diginomica.com/tackling-deforestation-and-forest-degradation-ai-and-remote-sensing"
-    ampWebUrl: "https://diginomica.com/tackling-deforestation-and-forest-degradation-ai-and-remote-sensing?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/tackling-deforestation-and-forest-degradation-ai-and-remote-sensing?amp"
+  - title: "Google I/O 2024: Anticipation Builds For AI Innovations And Potential Pixel 8a Unveiling"
+    excerpt: "This year's keynote is widely anticipated to spotlight advancements in AI, in which Google has demonstrated substantial investment and evolution. Recent developments, such as AI-generated summaries in Google Search and updates to the Gemini chatbot (formerly Bard), hint at the potential AI-centric revelations expected at the event."
+    publishedDateTime: 2024-03-15T10:08:00Z
+    webUrl: "https://in.mashable.com/tech/71507/google-io-2024-anticipation-builds-for-ai-innovations-and-potential-pixel-8a-unveiling"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 58
+      name: in.mashable
+      domain: mashable.com
+    quality: 60
     images:
-      - url: "https://diginomica.com/sites/default/files/images/2024-03/IMG_2082.jpeg"
-        width: 640
-        height: 427
+      - url: "https://sm.mashable.com/t/mashable_in/photo/default/5_x63n.1200.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Generative AI In Action: Transforming Workforce Learning And Development"
-    excerpt: "To develop an L&D curriculum that is beneficial to employees, I believe organizations should leverage GenAI to create impactful, scalable training opportunities."
-    publishedDateTime: 2024-03-12T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/03/12/generative-ai-in-action-transforming-workforce-learning-and-development/"
+  - title: "Google I/O 2024 is taking place on 14 May"
+    excerpt: "Google has revealed that 14 March is when its 2024 I/O developers conference will begin and it will likely be focused on more AI products."
+    publishedDateTime: 2024-03-15T09:18:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/google-io-2024-launch-date-ai-gemini"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 48
-  - title: "Future-Proofing Frontier AI Regulation"
-    excerpt: "The amount of computation (compute) used to train frontier AI models could increase significantly in the next decade. By the late 2020s or early 2030s, the amount of compute used to train frontier AI models could be approximately 1,"
-    publishedDateTime: 2024-03-13T16:02:00Z
-    webUrl: "https://www.cnas.org/publications/reports/future-proofing-frontier-ai-regulation"
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 24
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2024/03/AdobeStock_308789745_Editorial_Use_Only.jpeg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Google I/O 2024 held on May 14, could announce Pixel 8a, AI features, and more"
+    excerpt: "Google I/O 2024, scheduled for May 14, anticipates unveiling the Pixel 8a, breakthroughs in AI technology, and announcements about Android 15."
+    publishedDateTime: 2024-03-15T07:00:00Z
+    webUrl: "https://www.digit.in/news/general/google-io-2024-held-on-may-14-could-announce-pixel-8a-ai-features-and-more.html"
     type: article
     provider:
-      name: CNAS
-      domain: cnas.org
-    quality: 19
-  - title: "GetResponse launches AI email writing assistant: latest addition to its AI-powered solution suite"
-    excerpt: "GetResponse, a leading global all-in-one email marketing platform, has announced the newest addition to its AI-powered toolset – an AI email writing assistant. It's the ideal solution for people struggling with a lack of time,"
-    publishedDateTime: 2024-03-12T16:29:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/03/12/9977092.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 6
+      name: Digit
+      domain: digit.in
+    quality: 15
 
 secured: "NNSPWO0uDzRDexdsZnJ/Ke8K5ZMD9i9Xsmmm59HA6eM14TS3Z4SISefrgWfrnsFDdXC+fnYW/aeI76GkOisqDItcaRECj4G6H/t/Oa9CMxx5efCmzgy5ezRcaR98wuEXrBUQ8G5HiVw8WNta9NGZWVr3IYOdhZHUZQ8L1jpv8pBy17JTGdt+HEwQgvrLYykUn9Yu8PSnLWhE7wwcS9ATT1HtAr67ef+l8n/d8GN6wN2Jm1ieUt9z/HhgeTFEdwHagZEqdURuSvbxg0ObUQykGzr6Txs0q1Q7Ri1umVnb/U8dHg9X0nilt2sHVx9otaSgn7YTR/g8xLDjNvjPBua7YcZoLSJKmCbSImBP77q+qVmXs2sRNGuNg8shiPEVkpitQPEOgRsu/sQ2rmM6XC5AUJAXI2mFvpG74qKtR8GRYS8PtshDBlz19dAyLfGBfOofg+h2TFDZeGFV99q9OULbyV2B//HrQwszII2eafX0TwrQl5HyvVT16opsiEvW4gCnuNFBoKHwJNVgw3+qUUDRjA==;ibdpSdt7IvhyGXizJFPEmA=="
 ---

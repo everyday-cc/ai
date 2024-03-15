@@ -24,17 +24,6 @@ images:
     height: 480
     isCached: true
 
-related:
-  - title: "Mount Sinai CEO: Hospitals Will Start Seeing ROI from Their AI Investments in a Couple Years"
-    excerpt: "And it’s the purely clinical side of things where AI deployment is riskiest, he declared. “The clinical side of the house is the place where people are the most scared — because you’re going to start to either use AI to make clinical decisions ..."
-    publishedDateTime: 2024-03-10T13:42:00Z
-    webUrl: "https://medcitynews.com/2024/03/mount-sinai-ai-healthcare/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 6
-
 secured: "2rnx6lUDVsb7+tsdfZA7tLCBaIzSY8QEy+Tv9qtDtjKhHkWRH2ru18ItuyEep1W5J3esH7Yrl+54CnT+3qb04GsVBlxzC9t86NCgrdYhKsJ4SZowdEOhyfl8IFFgnLzES95n3uzrwAvApoQIbyyAPpRzrz426zTH9t9pwBKa4nJXUTur8hkTJhZb4EMyIy+PEzBaoELogLtFXHLSjJKrolmvCThQp+ICLUWpc5iU0w/xllSGgd5R0mMvByqWdNDLa6cQIf1Qf9QDK8fVLdledXb3PTiWFzteus5Z7+LPjhLRs5juDdRioEf1VCy+TM7J3AGbcH1ThRb2h2uoqP09aFpXS8TXMKEMc0m+NUkAQOc=;j14sLnxckByCl/NBPEkTzA=="
 ---
 

@@ -2,6 +2,138 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2024-03-06-salesforce-launches-einstein-1-studio-low-code-ai-tools-for-customizing-einstein-copilot-and-embedding-ai-into-any-crm-app.md",
+      "title": "Salesforce Launches Einstein 1 Studio: Low-Code AI Tools for Customizing Einstein Copilot and Embedding AI into Any CRM App",
+      "excerpt": "Einstein 1 Studio includes Copilot Builder for creating custom AI actions to accomplish specific business tasks, Prompt Builder for building and activating custom prompts in the flow of work, and Model Builder,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2024/03/06/9973822.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2024/03/06/9973822.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/tmc/world.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T13:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2024-03-06-the-dark-side-of-open-source-ai-image-generators.md",
+      "title": "The Dark Side of Open Source AI Image Generators",
+      "excerpt": "Open source tools allow anyone to make AI art. They have also been used to produce nonconsensual deepfake porn.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/dark-side-open-source-ai-image-generators/",
+      "originalUrl": "https://www.wired.com/story/dark-side-open-source-ai-image-generators/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/65e278b5eb7679cff4f5d086/191:100/w_1280,c_limit/business_deepfake_porn_open_source_ai.jpg",
+          "width": 1280,
+          "height": 671,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T12:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2024-03-06-us-prohibits-amds-ai-chip-sales-to-china.md",
+      "title": "U.S. Prohibits AMD’s AI Chip Sales To China",
+      "excerpt": "In a thrilling turn if events, U.S. officials barred AMD's AI chip sales to China, mandating the firm to obtain a license first.",
+      "sourceUrl": null,
+      "webUrl": "https://coingape.com/u-s-prohibits-amds-ai-chip-sales-to-china/",
+      "originalUrl": "https://coingape.com/u-s-prohibits-amds-ai-chip-sales-to-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://coingape.com/u-s-prohibits-amds-ai-chip-sales-to-china/amp/",
+      "cdnAmpWebUrl": "https://coingape-com.cdn.ampproject.org/c/s/coingape.com/u-s-prohibits-amds-ai-chip-sales-to-china/amp/",
+      "publishedDateTime": "2024-03-06T11:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Coingape",
+        "domain": "coingape.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2024-03-06-interconnected-data-the-missing-link-to-make-ai-useful.md",
       "title": "Interconnected Data: The Missing Link To Make AI Useful",
       "excerpt": "Until data on the internet, intranets and even offline can be interconnected by use case, even the smartest AI model won’t be able to go deep. Such interconnection should happen with up-to-date, legally compliant, secure data for the model not to spit out some variant of attractive garbage.",
@@ -1035,161 +1167,6 @@
       ],
       "topics": [
         "Meta AI",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-tackle-large-volumes-of-data-with-new-solution-from-slb-for-azure-data-manager-for-energy.md",
-      "title": "Tackle large volumes of data with new solution from SLB for Azure Data Manager for Energy",
-      "excerpt": "The Microsoft partner ecosystem is a key component in how Microsoft delivers technology, services, and cloud-to-edge solutions for our customers. SLB—one of Microsoft’s strategic partners in the energy sector—designed the Enterprise Data Solution to work seamlessly with Azure Data Manager for Energy,",
-      "sourceUrl": null,
-      "webUrl": "https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2024/03/05/tackle-large-volumes-of-data-with-new-solution-from-slb-for-azure-data-manager-for-energy/",
-      "originalUrl": "https://www.microsoft.com/en-us/industry/blog/energy-and-resources/2024/03/05/tackle-large-volumes-of-data-with-new-solution-from-slb-for-azure-data-manager-for-energy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.microsoft.com/en-us/industry/blog/wp-content/uploads/2024/03/Getty_1260_Energy.jpg",
-          "width": 1260,
-          "height": 709,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-06-5-ways-leaders-can-win-hearts-and-minds-and-drive-resultswith-ai.md",
-      "title": "5 Ways Leaders Can Win Hearts And Minds, And Drive Results—With AI",
-      "excerpt": "Imagine a technology tool that helps you understand your team better and personalize interactions for maximum impact. Welcome to the world of AI-powered people leadership",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidhenkin/2024/03/05/5-ways-leaders-can-win-hearts-and-minds-and-drive-results-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/davidhenkin/2024/03/05/5-ways-leaders-can-win-hearts-and-minds-and-drive-results-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d3af767f50d19ebe29fa28/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 880,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidhenkin/2024/03/05/5-ways-leaders-can-win-hearts-and-minds-and-drive-results-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhenkin/2024/03/05/5-ways-leaders-can-win-hearts-and-minds-and-drive-results-with-ai/amp/",
-      "publishedDateTime": "2024-03-05T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-a-practical-guide-for-using-generative-ai-in-account-based-marketing.md",
-      "title": "A Practical Guide For Using Generative AI In Account-Based Marketing",
-      "excerpt": "• Account prioritization. With generative AI's prowess in analyzing datasets and recognizing patterns, you can optimize account scoring models, pinpointing the most promising accounts and streamlining the pipeline for more impactful results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/05/a-practical-guide-for-using-generative-ai-in-account-based-marketing/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/03/05/a-practical-guide-for-using-generative-ai-in-account-based-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e5db42c2c694a887568254/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T15:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "AI in Marketing"
       ]

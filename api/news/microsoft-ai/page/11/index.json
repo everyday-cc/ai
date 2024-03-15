@@ -2,6 +2,101 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2023-11-29-the-best-online-courses-for-ai-chatgpt-midjourney-and-more.md",
+      "title": "The best online courses for AI, ChatGPT, Midjourney, and more",
+      "excerpt": "TL;DR: Find the best online courses on AI, ChatGPT, Midjourney, and more on Udemy. Are you absolutely terrified of the seemingly inevitable rise of AI? You're not alone. This technology is causing a lot of controversy and genuine concern, but what's clear is that it isn't going anywhere.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/best-ai-courses",
+      "originalUrl": "https://mashable.com/article/best-ai-courses",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/02nIhjWsO4c7nWMwnLfrXdE/hero-image.fill.size_1200x675.v1701190561.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-29T05:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2023-11-29-chatgpts-first-year-udemy-data-highlights-unprecedented-global-demand-for-generative-ai-skills.md",
+      "title": "ChatGPT's First Year: Udemy Data Highlights Unprecedented Global Demand for Generative AI Skills",
+      "excerpt": "We believe Udemy was the first global learning platform to provide content on learning generative AI skills, with a ChatGPT course on Udemy just 11 days after its launch,” said Scott Rogers, Senior Vice President of Supply Strategy at Udemy.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-s-first-year-udemy-data-highlights-unprecedented-global-demand-for-generative-ai-skills-1032855703",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/chatgpt-s-first-year-udemy-data-highlights-unprecedented-global-demand-for-generative-ai-skills-1032855703",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ml.globenewswire.com/Resource/Download/6707632d-778b-440c-9fe9-7b633bf2a020",
+          "width": 1200,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-11-28T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-11-29-artificial-intelligence-the-top-ai-stocks-to-buy-and-hold-for-new-year-2024.md",
       "title": "Artificial Intelligence: The Top AI Stocks to Buy and Hold for New Year 2024",
       "excerpt": "By now, you’re well aware of the artificial intelligence boom. You know Big Tech has been investing billions of dollars into it. Microsoft, for example, invested about $13 billion in Open AI. Even the industry’s 800 lb.",

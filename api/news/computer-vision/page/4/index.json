@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-01-30-the-5-best-smart-telescopes-for-android-and-ios-in-2024.md",
+      "title": "The 5 best smart telescopes for Android and iOS in 2024",
+      "excerpt": "These are the best smart telescopes for stargazing in your backyard, while camping, or wherever you want to be. Just sync your phone and go.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/space/best-smart-telescopes/",
+      "originalUrl": "https://www.digitaltrends.com/space/best-smart-telescopes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2024/01/Vaonis-Vespera-smart-telescope-used-on-patio.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/space/best-smart-telescopes/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/space/best-smart-telescopes/?amp",
+      "publishedDateTime": "2024-01-29T21:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-30-aclu-and-aclu-of-nj-file-friend-of-the-court-brief-in-challenge-to-wrongful-arrest-due-to-face-recognition-tech.md",
       "title": "ACLU and ACLU of NJ File Friend-of-the-Court Brief in Challenge to Wrongful Arrest due to Face Recognition Tech",
       "excerpt": "NEWARK – Today, the American Civil Liberties Union of New Jersey and the ACLU filed an amicus brief in support of Nijeer Parks – who was wrongfully arrested in 2019 following police reliance on a false match by face recognition technology. The ACLU’s ...",
@@ -1278,40 +1330,6 @@
         "Computer Vision",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-10-sensormatic-solutions-maximizes-shopper-experiences-through-store-guest-behaviors-powered-by-computer-vision-analytics-at-nrf-2024.md",
-      "title": "Sensormatic Solutions Maximizes Shopper Experiences Through Store Guest Behaviors Powered by Computer Vision Analytics at NRF 2024",
-      "excerpt": "As part of Sensormatic Solutions computer vision capabilities, Store Guest Behaviors is an artificial intelligence (AI) solution that leverages an adaptive learning model to help retailers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20240110727115/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20240110727115/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-10T09:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

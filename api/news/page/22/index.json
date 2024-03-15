@@ -2,6 +2,144 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2024-02-28-apple-unplugs-self-driving-electric-car-project-reports-say.md",
+      "title": "Apple unplugs self-driving electric car project, reports say",
+      "excerpt": "Many employees from the project will be moved to the iPhone maker's artificial intelligence (AI) division, according to Bloomberg News. Apple did not immediately respond to a BBC request for a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/apple-unplugs-self-driving-electric-010959244.html",
+      "originalUrl": "https://www.aol.com/apple-unplugs-self-driving-electric-010959244.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.zenfs.com/en/aol_bbc_articles_618/b365fd882050850b2c18e7d53c14b2d2",
+          "width": 976,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T01:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-ai-wont-replace-humans-in-the-workplace-heres-why.md",
+      "title": "AI won’t replace humans in the workplace - here’s why",
+      "excerpt": "Innovations such as automated machine learning (AutoML) hold the promise of accelerating progress even beyond the dizzying pace of AI innovation we are experiencing now, but humans will remain central to the safe use and efficient operation of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/pro/ai-wont-replace-humans-in-the-workplace-heres-why",
+      "originalUrl": "https://www.techradar.com/pro/ai-wont-replace-humans-in-the-workplace-heres-why",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Wcc69A4Ts8bhSbGgJeGkoZ-1200-80.jpg",
+          "width": 970,
+          "height": 646,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-28-apple-investors-reject-call-for-ethics-transparency-on-companys-ai-use.md",
+      "title": "Apple investors reject call for ethics transparency on company’s AI use",
+      "excerpt": "Discovery Inc. Apple Inc. shareholders rejected a labor-backed request for an artificial intelligence transparency report, which would have delved into whether the company is using the technology ethically. The proposal, submitted by AFL-CIO Equity Index ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pressherald.com/2024/02/28/apple-investors-reject-call-for-ethics-transparency-on-companys-ai-use/",
+      "originalUrl": "https://www.pressherald.com/2024/02/28/apple-investors-reject-call-for-ethics-transparency-on-companys-ai-use/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pressherald.com/wp-content/uploads/sites/4/2017/01/pph-icon-red-linkforFB.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-28T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Portland Press Herald",
+        "domain": "pressherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-28-apples-self-driving-electric-car-project-is-officially-dead.md",
       "title": "Apple’s Self-Driving Electric Car Project Is Officially Dead",
       "excerpt": "As shocked as the team may have been, the news won’t be nearly as surprising to anyone who’s paid attention to Apple’s efforts to build a self-driving car. Although next to no concrete ...",
@@ -1061,144 +1199,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-27-financial-forecast-2024-whats-ahead.md",
-      "title": "Financial Forecast 2024: What's Ahead?",
-      "excerpt": "In this episode of Predict 2024, Edward Harding, Director of Global Strategic Partnerships at Mambu, discusses the upcoming webinar on Mambu’s 2024 partner predictions report, highlighting how trends are shaping financial services and influencing strategies in the year ahead.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finextra.com/videoarticle/3058/financial-forecast-2024-whats-ahead",
-      "originalUrl": "https://www.finextra.com/videoarticle/3058/financial-forecast-2024-whats-ahead",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-27T14:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finextra",
-        "domain": "finextra.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-27-you-can-now-try-galaxy-ai-on-any-android-phone-to-see-just-how-good-it-is.md",
-      "title": "You can now try Galaxy AI on any Android phone to see just how good it is",
-      "excerpt": "Samsung has updated its Try Galaxy experience to support Android phones, so users can now try One UI 6.1 on their phones. Read on!",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/samsung-try-galaxy-app-experience-3420081/",
-      "originalUrl": "https://www.androidauthority.com/samsung-try-galaxy-app-experience-3420081/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2024/01/Samsung-Galaxy-S24-Just-Circle-It-lying-on-chair.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-27T12:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-27-ai-market-structure-in-the-future-few-engines-many-applications.md",
-      "title": "AI Market Structure In The Future: Few Engines, Many Applications",
-      "excerpt": "AI will be a large sector but with only a few corporations providing the large language models. Many other companies will provide applications that use the LLMs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/billconerly/2024/02/27/ai-market-structure-in-the-future-few-engines-many-applications/",
-      "originalUrl": "https://www.forbes.com/sites/billconerly/2024/02/27/ai-market-structure-in-the-future-few-engines-many-applications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/657ca9e7bc7dbcfed2d9bd41/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/billconerly/2024/02/27/ai-market-structure-in-the-future-few-engines-many-applications/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/billconerly/2024/02/27/ai-market-structure-in-the-future-few-engines-many-applications/amp/",
-      "publishedDateTime": "2024-02-27T12:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

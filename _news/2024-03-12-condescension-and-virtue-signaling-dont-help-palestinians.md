@@ -35,6 +35,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Sisi urges for full international recognition of Palestinian state"
+    excerpt: "Egyptian President Abdel-Fattah El-Sisi has called for the full international recognition of a Palestinian state, with East Jerusalem as its capital, noting that this could bring solace after the five-month-long Israeli war in Gaza."
+    publishedDateTime: 2024-03-15T15:34:00Z
+    webUrl: "https://english.ahram.org.eg/News/519471.aspx"
+    type: article
+    provider:
+      name: Hebdo Ahram
+      domain: ahram.org.eg
+    quality: 4
 
 secured: "0MwpeW/5rSttsaJ78TFHRenTFQonCCnBFJRALL9qQpuVe9Wmi6zR/7YBuhUgwvshNrlpUZwdRXH9/6BRUVNhuv5oqlOA1OII9Ob9q0bJBvOrKTGjR8Va6hx7/SgEBOfZzPilz0//b9mTSbkxmGs9IkyizP9BlkZdqt27NqxQUYbD50mhSGiIhwYVStm3MYpGpdXTlXyIbwl5twKxxEc/QpJZXPzeMB/2awsEINLXvE9Buw9eVOoIllbYxOIuf1EA38OqX6E+7ou61mWcIDbsO/kSafgLneeX+Y+d2/pjzbVj+JJuE8s0tQpUnGE80zDVDRSpob5oAAVq+XaIMaF0GTAOG/xq9aMw123GJJ0UGb8=;MCG+5iDLXDHs4QXT24vf8A=="
 ---

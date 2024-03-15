@@ -2,6 +2,154 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2024-03-02-675-million-for-humanoid-chatgpt-robot-ideogram-gen-ai-raises-80-million.md",
+      "title": "$675 Million For Humanoid ChatGPT Robot, Ideogram Gen AI Raises $80 Million",
+      "excerpt": "Ideogram Text-to-Image Midjourney competitor Raises $80 M. This values the company well north of $1 Billion. Andressen Horowitz led the round. Ideogram 1.0 has an amazingly effective feature called Magic Prompt, which created the image above.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charliefink/2024/03/01/675-million-for-humanoid-chatgpt-robot-ideogram-gen-ai-raises-80-million/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2024/03/01/675-million-for-humanoid-chatgpt-robot-ideogram-gen-ai-raises-80-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-01T18:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-02-openai-rival-cohere-says-some-ai-startups-build-bugatti-sports-cars-we-make-f-150s.md",
+      "title": "OpenAI rival Cohere says some AI startups build Bugatti sports cars, 'We make F-150s'",
+      "excerpt": "Cohere is able to run efficiently and keep costs under control even amid a chip shortage, rising costs for graphics processing units (GPUs) and ever-changing licensing fees for AI models. \"I've rarely seen, in my career, many companies that can ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/03/01/cohere-says-rivals-are-building-bugatti-sports-cars-we-make-f150s.html",
+      "originalUrl": "https://www.cnbc.com/2024/03/01/cohere-says-rivals-are-building-bugatti-sports-cars-we-make-f150s.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107381170-1709313812146-gettyimages-1757707025-omarques_01112023_ILLUS_TECH_12.jpeg?v=1709313909",
+          "width": 5000,
+          "height": 3327,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/03/01/cohere-says-rivals-are-building-bugatti-sports-cars-we-make-f150s.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/03/01/cohere-says-rivals-are-building-bugatti-sports-cars-we-make-f150s.html",
+      "publishedDateTime": "2024-03-01T17:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-02-ai-chip-startup-groq-forms-new-business-unit-acquires-definitive-intelligence.md",
+      "title": "AI chip startup Groq forms new business unit, acquires Definitive Intelligence",
+      "excerpt": "Groq, a startup developing chips to run generative AI models faster than conventional hardware, has an eye toward the enterprise — and public sector. Today, Groq announced that it’s forming a ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/03/01/ai-chip-startup-groq-forms-new-business-unit-acquires-definitive-intelligence/",
+      "originalUrl": "https://techcrunch.com/2024/03/01/ai-chip-startup-groq-forms-new-business-unit-acquires-definitive-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1341418748.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/03/01/ai-chip-startup-groq-forms-new-business-unit-acquires-definitive-intelligence/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/01/ai-chip-startup-groq-forms-new-business-unit-acquires-definitive-intelligence/amp/",
+      "publishedDateTime": "2024-03-01T17:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2024-03-02-why-snowflake-reeled-in-ai-hype.md",
       "title": "Why Snowflake Reeled In AI Hype",
       "excerpt": "“With the onslaught of generative AI, Snowflake needs a hard-driving technologist to navigate the challenges the new world represents,” said Slootman on the call. The departing CEO, who denied rumors of his potential departure last year, will remain chairman of the board.",
@@ -1089,161 +1237,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-elon-musk-ai-will-run-out-of-electricity-and-transformers-in-2025.md",
-      "title": "Elon Musk: AI will run out of electricity and transformers in 2025",
-      "excerpt": "\"I've never seen any technology advance faster than this.\" The chip shortage may be behind us, but AI and EVs are expanding at such a rapacious rate that the world will face supply crunches in electricity and transformers next year, says Elon Musk.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/technology/elon-musk-ai",
-      "originalUrl": "https://newatlas.com/technology/elon-musk-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/27ca86b/2147483647/strip/true/crop/1136x757+121+0/resize/720x480!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fbe%2F5e%2F2a832fc94918a562a5ccdef4b0a3%2F6.jpg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-01T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-openai-categorically-disagrees-with-elon-musks-lawsuit-against-it-suggests-tesla-ceo-has-regrets.md",
-      "title": "OpenAI ‘categorically disagrees’ with Elon Musk’s lawsuit against it, suggests Tesla CEO has ‘regrets’",
-      "excerpt": "Mike Windle/Getty Images for Vanity Fair OpenAI “categorically disagrees” with the lawsuit Elon Musk filed against the company, according to an internal memo sent to employees of the artificial intelligence startup. Musk, a cofounder of OpenAI who is ...",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/2024/03/01/openai-elon-musk-lawsuit-tesla-ceo-regrets/?itm_source=parsely-api",
-      "originalUrl": "https://fortune.com/2024/03/01/openai-elon-musk-lawsuit-tesla-ceo-regrets/?itm_source=parsely-api",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.fortune.com/wp-content/uploads/2024/03/GettyImages-491587260-e1709336480973.jpg?w=840",
-          "width": 840,
-          "height": 559,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/2024/03/01/openai-elon-musk-lawsuit-tesla-ceo-regrets/amp/",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/2024/03/01/openai-elon-musk-lawsuit-tesla-ceo-regrets/amp/",
-      "publishedDateTime": "2024-03-01T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-ai-cryptocurrencies-are-the-frontier-to-watch-in-2024.md",
-      "title": "AI Cryptocurrencies Are The Frontier To Watch In 2024",
-      "excerpt": "Cryptocurrency is the cornerstone for constructing AI systems that engender trust and reliability in their operations, heralding a new era of technological advancement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/digital-assets/2024/02/29/ai-cryptocurrencies-are-the-frontier-to-watch-in-2024/",
-      "originalUrl": "https://www.forbes.com/sites/digital-assets/2024/02/29/ai-cryptocurrencies-are-the-frontier-to-watch-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e094ddafab52dfdac33283/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1353,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/digital-assets/2024/02/29/ai-cryptocurrencies-are-the-frontier-to-watch-in-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2024/02/29/ai-cryptocurrencies-are-the-frontier-to-watch-in-2024/amp/",
-      "publishedDateTime": "2024-02-29T23:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

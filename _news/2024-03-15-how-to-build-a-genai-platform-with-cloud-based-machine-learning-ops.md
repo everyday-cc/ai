@@ -6,8 +6,8 @@ publishedDateTime: 2024-03-15T11:00:00Z
 originalUrl: "https://www.scmagazine.com/perspective/how-to-build-a-genai-platform-with-cloud-based-machine-learning-ops"
 webUrl: "https://www.scmagazine.com/perspective/how-to-build-a-genai-platform-with-cloud-based-machine-learning-ops"
 type: article
-quality: 54
-heat: 74
+quality: 56
+heat: 76
 published: true
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://files.scmagazine.com/wp-content/uploads/2024/03/PriyankKapadiaCol.jpg"
@@ -49,6 +50,6 @@ related:
       domain: thefastmode.com
     quality: 34
 
-secured: "U3+6zUyMxsqaei1PFz3efENZJnZUB5BlvGbxp/sI3dqMqVDfm+1sQQz69uzLxyQXVswIALm2wVIRZZjChPnpSo7ks2hZ6PbQfHYCZDsgi+dJ0DPU/ulhcMdVaD7h7OB5Ff1WZmxuAjJ1OblHuFZwx0cQFQORRk4bvKcyUBKS7RNarUMsp5duk10mdeKomi/rql0FEJsrEljmm3KgLbBbwaIuPfmQqGesTPG0T0dVysO4xzAS53s/XaHeF9mIsptM9+gyS7idXLHkG40gVhf5ts51RhsogCkG6rS4mVFy0NwVy81DaMMWD1RfuSZTRqPyUgLT7SPwPmuAkeC2Z2sAlZcLcchERYc58EpcCvELvIE=;pyJughDpZS2rs/zj/djMyg=="
+secured: "pZCk3J+ksJd7TC4Q872Ii2k7KJyiRSQZsiXI8LLZ2tJULXem8WBSgS29yTWo9sjsUmZrwPdSHKnxFjxMgsB6ZPXMNOk5yrqCmCCe4MFg5xXK/go2mj4HfAImApZi57IIPiHagY51uWHFjYY3EX6NV2f32LgWZJRf15n5NVXm5TQEV2r+a/TFcKoqXYDbl6tw5dxDsPYsI4VACJ34yWGIMusGuUia5rBJ8e67DM5V4LVmkR+czSuPfg60JuwJXxkGnvrZRF9zxxGMDirFSPzXMi+naQc4Jl2WHAEP/A7wkEQ4E1FG3KmFp+TAJXUknZvdG1TZrTnL/5QsMBJhn2ZBY8dQq6cn/hSXdjIo1JjTcu13jkHNG/+wCmGI6xarKqDbVVHZ/pZYPPBqGDkH4RQlu380eo+rHGjrsgZ6TWFMFpDmApTFWCDUndNKEfQwO2f6JdYzHNhK0ljbQFCRPa5zZkyDgs7CVmJGE07njByr56u0ahDcop76idvHn47jqXe7nn8Z54DNEN6igIub98CoAQ==;KFFluJfD2FAdSxOdYy68ew=="
 ---
 

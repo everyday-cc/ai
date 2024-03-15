@@ -41,29 +41,6 @@ related:
         width: 1250
         height: 750
         isCached: true
-  - title: "Google I/O 2024 is taking place on 14 May"
-    excerpt: "Google has revealed that 14 March is when its 2024 I/O developers conference will begin and it will likely be focused on more AI products."
-    publishedDateTime: 2024-03-15T09:18:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/google-io-2024-launch-date-ai-gemini"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 24
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2024/03/AdobeStock_308789745_Editorial_Use_Only.jpeg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Google I/O 2024 held on May 14, could announce Pixel 8a, AI features, and more"
-    excerpt: "Google I/O 2024, scheduled for May 14, anticipates unveiling the Pixel 8a, breakthroughs in AI technology, and announcements about Android 15."
-    publishedDateTime: 2024-03-15T07:00:00Z
-    webUrl: "https://www.digit.in/news/general/google-io-2024-held-on-may-14-could-announce-pixel-8a-ai-features-and-more.html"
-    type: article
-    provider:
-      name: Digit
-      domain: digit.in
-    quality: 15
 
 secured: "XEDqwtCnzzV6CgVj+W2cdoDz+yBVE7Cj/TpecuCPubn6BPaev0h8rv+IaK18VWQjzpcnD0x6ZUr7eWTLbNNGZAPWohsoWGrpZYJURZguJYJLX7dXJLtHBz5J5Qy+tKBY4SYuhy5P7FUWmQrxBURFHfR7U910gtb0vsjmbQvtRm34KIn4gY7vMX+e1NA8dIFJxZ76Pno5d6rD9WgU7smuGIWutWDHYJvR49rHrGKNXRyCmwxgBneWRxTRfPbqf8RsQUDyf0E1mcy7BfoxieQT+sIKXWhhDosAloCMnOsm+IQL3rfhi3t7v6TGvNgyS1iVf5TL6Ik0curbJt0LHbtS4xmds9pMeGTnitXALldzW80akIj/o/KF1lG2YXLm/TkBBou9uqtExC4vRRwUAuT0v8fElljCzYZP6+l70z+IqyblVD/8GH4oshYATA3WmBrzlfwXhtbntIharhM/i4d+GB8yhzsen+KINoKYxjWzWQArTnLvoQNHxLHBgOkQiwf7FRs8FFlo0kj0vnfUJ7Zb9w==;iW8d2+cuQaVLbp90+U2QyA=="
 ---

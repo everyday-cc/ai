@@ -42,6 +42,15 @@ related:
       name: Financial Planning
       domain: financial-planning.com
     quality: 19
+  - title: "How Will Generative AI Affect Wealth Management?"
+    excerpt: "Avishek Nandy, Wealth and Asset Management leader for Asia Pacific at Bain & Company, sees generative artificial"
+    publishedDateTime: 2024-03-15T12:45:00Z
+    webUrl: "https://www.dmnews.com/generative-ai-a-new-era-in-wealth-management/"
+    type: article
+    provider:
+      name: Direct Marketing News
+      domain: dmnews.com
+    quality: 19
 
 secured: "O7Y4XJ+oksTqRVmdmtijKhaS34EpWIaiNwsAegfjZEPs9Cc5fBoSGkhceTv9z4bDDmHWjPPHZ7+NfvLVyuAQ7djRGv6qbyS92PjoPCf2aNagMTjN/wmD5Z+S5pCu+R58r7h8dysgALf8HsjXV0AY2K8bB1N+UxT0uR3F7RH+kjScSoABYTVx86inYrNI87WAvp2NMIDOwo+GVxUJn7gRjb52I9WJIxkt4hb8vGnCCd+QslAMA02C6HS7UOS6L54u73nubpYVJPQuERBjjVu7OjP2PcLAFzXb5Fw7RcPerV5Kpn1CmzslsTR0vKo1k3b/UbEL7YmwL5zM4HFgaNzBqggTKa5mT3MXSNl7UYAFMXoC/LahWf86Sl0ZvglunlcUVYxhP9VegqHlb8KqUmK9ZHNd75oIyeHW16ov9Fw7t+nin5KhOgnJULE+6A71TKyfXq/3Y9jUmGPY2ee8Wm7x/+w8SAnPD+V3e5tX9rqmhZwfLObSAIkIXevMD7QKNXhD6uMJP4pDqcTXhZUxEJ9taw==;WtV2FivKZg9vp1U5ssPiiA=="
 ---

@@ -53,15 +53,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 6
-  - title: "Biden administration requests $3B for federal AI application development, procurement and integration in 2025 budget"
-    excerpt: "The President’s budget looks to fund the National AI Research Resource pilot, agencies’ establishment of Chief AI Officers, the AI talent surge and more AI development across agencies."
-    publishedDateTime: 2024-03-11T19:28:00Z
-    webUrl: "https://fedscoop.com/biden-administration-requests-3b-for-federal-ai-application-development-procurement-and-integration-in-2025-budget/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 0
 
 secured: "LVLR5GI5JmLQwhtslwxGiv6JmIaDRxG0wcK1pOZTknWdhqqaU1FV8bVKfUEMnmzgV1MOWrZ/9N2Umm6tbm2A9dd1cWGNBWin6Jfvic/K9c61aL0um1bJHScKR06k6i3wYcMFKBTATZgPCW6KICCx/nsgkg8pZpiLBIPjeAYffwFGA3aiVTR9x3xZ0n1FTnncw0jxYTgCVOu0hxMqL2MW+QS3TnD+3KUINHRdlTtOalQmb9WWkdz+DxFWCLH7XnhcSntlrYuI5xJwgi6AudoXG76CpohnbnbRkzVhTs2eq0cH6Z2o+vo2zIt0/DI+prV83AdukhRz1ffo3p2Z7PrMaQ4Yjy/Mr62+sXdP0Sch6RSh850aRsLPuI60xnbrj1kNa2ouS4zh5WntxtJDj/sZH02N7hCgtNXIRVd+T7g7UuugB9ZVA00nLczd0NVhk4EEr3qE3UeW8UuH0obdbu9EHoWpZtEX8x/2bNH45vYB0JuOk96cp3AZRhz3pDybNAxtKQjcEsRGHBoPfuOUlvdU2A==;jyNmgyRvbstb7EGuck5kkQ=="
 ---

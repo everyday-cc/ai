@@ -7,7 +7,7 @@ originalUrl: "https://www.cobizmag.com/6-reasons-ai-isnt-ready-to-replace-your-p
 webUrl: "https://www.cobizmag.com/6-reasons-ai-isnt-ready-to-replace-your-product-writer/"
 type: article
 quality: 51
-heat: 51
+heat: 61
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 2560
     height: 1253
     isCached: true
+
+related:
+  - title: "Why Artificial Intelligence Won’t Replace Filmmakers"
+    excerpt: "While many in Hollywood are concerned that artificial intelligence will take over the entertainment industry, others believe"
+    publishedDateTime: 2024-03-15T15:30:00Z
+    webUrl: "https://www.movieguide.org/news-articles/why-artificial-intelligence-wont-replace-filmmakers.html"
+    type: article
+    provider:
+      name: Movieguide
+      domain: movieguide.org
+    quality: 37
+    images:
+      - url: "https://movieguide.b-cdn.net/wp-content/uploads/2023/11/mohamed-nohassi-tdu54W07_gw-unsplash.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "X9gtaGJaIEUXgTtTCEHCJ5yMpm+Hr200R0HipAS2zuuTeMIa+f1wZ2SFFxmu7YcKr4ej7yb0GdQOJSZwV/44c0llaUvB+6ipfmihMirxjv3uxFfVM+P9n3p+obh7SPNLu9ff/yHhHpY0aLcQj0n+N/7+f382vqKCRKnP72xqXotbQPjQzain789ENjN5Pg8ZlJc7v4Fd81o7us4d5b0R8okz+h7uX3RT2JB8WAto0e+CxjbQiUhiSnPCaG5QPRGxMGd7qpi+Hmt4LWO3ZtGiUhUemIT0AITjfF92nAeGZ/z+GslTG5i/kZhgiXO3s479mRgF591yo675Uy+IsEFVmB1fVDR34kdqlEthyuGBApo=;4WqrYUBNUKS8VElNR/Myng=="
 ---

@@ -25,35 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Google I/O 2024 date announced: Here's everything we know so far"
-    excerpt: "The Google I/O conference in 2024 will be held at the Shoreline Amphitheater in Mountain View, California. During the conference, Google is likely to unveil its latest products, advancements in artificial intelligence,"
-    publishedDateTime: 2024-03-15T05:36:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news/google-i-o-2024-date-announced-here-s-everything-we-know-so-far-2024-03-15-921595"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/google-i-o-2024-date-announced-here-s-everything-we-know-so-far-2024-03-15-921595"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/google-i-o-2024-date-announced-here-s-everything-we-know-so-far-2024-03-15-921595"
+  - title: "Google I/O 2024: Anticipation Builds For AI Innovations And Potential Pixel 8a Unveiling"
+    excerpt: "This year's keynote is widely anticipated to spotlight advancements in AI, in which Google has demonstrated substantial investment and evolution. Recent developments, such as AI-generated summaries in Google Search and updates to the Gemini chatbot (formerly Bard), hint at the potential AI-centric revelations expected at the event."
+    publishedDateTime: 2024-03-15T10:08:00Z
+    webUrl: "https://in.mashable.com/tech/71507/google-io-2024-anticipation-builds-for-ai-innovations-and-potential-pixel-8a-unveiling"
     type: article
     provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 44
+      name: in.mashable
+      domain: mashable.com
+    quality: 60
     images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/360_-/2024/03/google-i-o-2024-1710480692.jpg"
-        width: 360
-        height: 202
-        isCached: true
-  - title: "Google I/O 2024 Date Confirmed; Set for May 14"
-    excerpt: "We finally know the event date for Google I/O 2024. Here's when the devcon will kick off and all that you can expect from it."
-    publishedDateTime: 2024-03-14T20:03:00Z
-    webUrl: "https://beebom.com/google-i-o-2024-date-confirmed/"
-    type: article
-    provider:
-      name: Beebom
-      domain: beebom.com
-    quality: 24
-    images:
-      - url: "https://beebom.com/wp-content/uploads/2024/03/Google-I-O-2024-Break-the-Loop-game.jpg"
-        width: 1250
-        height: 750
+      - url: "https://sm.mashable.com/t/mashable_in/photo/default/5_x63n.1200.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Google I/O 2024 held on May 14, could announce Pixel 8a, AI features, and more"
     excerpt: "Google I/O 2024, scheduled for May 14, anticipates unveiling the Pixel 8a, breakthroughs in AI technology, and announcements about Android 15."
@@ -64,7 +48,16 @@ related:
       name: Digit
       domain: digit.in
     quality: 15
+  - title: "Biden administration requests $3B for federal AI application development, procurement and integration in 2025 budget"
+    excerpt: "The President’s budget looks to fund the National AI Research Resource pilot, agencies’ establishment of Chief AI Officers, the AI talent surge and more AI development across agencies."
+    publishedDateTime: 2024-03-11T19:28:00Z
+    webUrl: "https://fedscoop.com/biden-administration-requests-3b-for-federal-ai-application-development-procurement-and-integration-in-2025-budget/"
+    type: article
+    provider:
+      name: FedScoop
+      domain: fedscoop.com
+    quality: 0
 
-secured: "unMNyAVISQYPYan24kHu2LRSsCKVv765xWl11c5pqUR3cOreWDuLPPCqf1pe641K1hu7lkJNu1elqKYArrqcHQ/4HEURSOLK7Xf0QaWFNn89EotXuJG9Ju365KmsqjSD+juVo2AAghW9cvFvXOUMOh83ZWZ/7EgjmyDtcqeADxBOt/V2n+YPQZkySc0gqtQuH270L6B77/YEBITw58G4awyZUqt8TyPoNphWAJkbzaWUD6AV5fb+TSdkLE/BL0RIr60aJFVzFtNgCgBYFTyb8oikR9z0WmlyFS55V+AAosxGjJxYJrZyZFeDGc/TW+5Ae8S9gF+lFg/dDVCcA2k1dl5OROBhV4NBQj0Xy5uMK24=;SALPkUx/LO5SpZ4dLyjRPg=="
+secured: "Abzzapikw2hoN/Adlte1feCxKCIE2mdLTqy+Dq4+QUE7lbq4Wm47vBH1SRwenQZZnmXLrjl4zBEqIqsLTSR+PrmoBMq+0mcyYcCBZFP0Nk7O4xQZ9yUTgxBFU04vnfYs5uFQUFs69Cj6NoOkeZ7irVFyFWOc1AZ7pMo5p0s2EY4V5Uw7oON4D2uF8ihP3yW5OABFyQLbVRVRn90TPeMxbEzmvw0YV1L3pHzU4n2taF48zCT1OjoQicaYv+m4AuHBQz129gsOteSdApfmIaWk0fCX47G/1dapMXMwyrqYHkGapaBmFVMnHjsv6PYQmqYs8FL70uBJLJTGsh5H3Da5XTVRpf5zc94G30Zm9wgz77wj4+eKSxG8dJL8DyWzdk8jMpoqS6gIeadYVdSHWVVI9rWwyneXfQweXNDtFX2H8OlLrv0HoHbN0GzsznRV6i0LAgmuB2JnKWUKbR4FSc8ebkvGCkAWTWHOrGQ7wiRuXBb34KniP9a/7s8S761wcoum85LG/z3viMk68UL/LgfIZw==;WBQ1KEMvbgoJUqD0rq/xdw=="
 ---
 

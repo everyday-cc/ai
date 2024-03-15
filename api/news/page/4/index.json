@@ -2,6 +2,145 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2024-03-13-tesla-remains-wall-streets-bearish-betting-chip-among-large-caps-but-a-hot-ai-plays-short-interest-also-surges.md",
+      "title": "Tesla Remains Wall Street's Bearish Betting Chip Among Large-Caps, But A Hot AI Play's Short Interest Also Surges",
+      "excerpt": "High short interest indicates investor pessimism towards a stock. Tesla has been on a broader downtrend since its November 2021 peak of $413.29.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/markets/equities/24/03/37641406/tesla-remains-wall-streets-bearish-betting-chip-among-large-caps-but-a-hot-ai-plays-short-intere",
+      "originalUrl": "https://www.benzinga.com/markets/equities/24/03/37641406/tesla-remains-wall-streets-bearish-betting-chip-among-large-caps-but-a-hot-ai-plays-short-intere",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2024/Tesla-Shares_10.jpeg?width=1200&height=800&fit=crop",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/37641406",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37641406",
+      "publishedDateTime": "2024-03-13T07:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2024-03-13-gpu-access-to-power-up-indias-ai-play-experts.md",
+      "title": "GPU access to power up India’s AI play: experts",
+      "excerpt": "AI Mission will help startups make in India and for the world, say tech investors. The Rs 10,372-crore Artificial Intelligence (AI) Mission, announced on Thursday, will operate on a public-private partnership model.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/gpu-access-to-power-up-indias-ai-play-experts/articleshow/108335973.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/gpu-access-to-power-up-indias-ai-play-experts/articleshow/108335973.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-1638520,msid-108336041/gpus-access-india.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/amp_articleshow/108335973.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/gpu-access-to-power-up-indias-ai-play-experts/amp_articleshow/108335973.cms",
+      "publishedDateTime": "2024-03-13T07:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-13-how-generative-ai-will-change-the-jobs-of-doctors-and-healthcare-professionals.md",
+      "title": "How Generative AI Will Change The Jobs Of Doctors And Healthcare Professionals",
+      "excerpt": "Generative AI is set to transform healthcare by aiding in diagnostics, automating administrative tasks, and accelerating drug discovery.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2024/03/13/how-generative-ai-will-change-the-jobs-of-doctors-and-healthcare-professionals/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2024/03/13/how-generative-ai-will-change-the-jobs-of-doctors-and-healthcare-professionals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 270,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65f14707aa26f8af0e584249/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2024/03/13/how-generative-ai-will-change-the-jobs-of-doctors-and-healthcare-professionals/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/03/13/how-generative-ai-will-change-the-jobs-of-doctors-and-healthcare-professionals/amp/",
+      "publishedDateTime": "2024-03-13T06:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-13-3-top-artificial-intelligence-stocks-to-buy-in-march.md",
       "title": "3 Top Artificial Intelligence Stocks to Buy in March",
       "excerpt": "Artificial intelligence(AI) stocks have had a great run in 2023 and the early part of 2024. But after such a run, which AI stocks are worth adding in March? One good place to look is the stocks of tech leaders that haven't yet exceeded their 2021 highs ...",
@@ -10,7 +149,7 @@
       "originalUrl": "https://www.fool.com/investing/2024/03/13/3-top-artificial-intelligence-stocks-to-buy-in-mar/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -49,58 +188,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-ai-startup-cerebras-unveils-the-wse-3-the-largest-chip-yet-for-generative-ai.md",
-      "title": "AI startup Cerebras unveils the WSE-3, the largest chip yet for generative AI",
-      "excerpt": "The chip, the size of a single semiconductor wafer, has doubled performance to handle large language models in the tens of trillions of parameters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/",
-      "originalUrl": "https://www.zdnet.com/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/ae31154ea474b18f8cee28ac96cedae0c8b190c1/2024/03/13/0036db94-4241-4f06-a8eb-1eef2c4c37be/cerebras-2024-wse-3-3.png?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/",
-      "publishedDateTime": "2024-03-13T06:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
@@ -389,7 +476,7 @@
       "originalUrl": "https://techcrunch.com/2024/03/12/ontario-teachers-mints-new-unicorn-in-indian-fintech-perfios/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -483,6 +570,58 @@
         "Natural Language Processing",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2024-03-13-apple-vision-pro-everything-you-need-to-know.md",
+      "title": "Apple Vision Pro: Everything you need to know",
+      "excerpt": "The Vision Pro is powered by an M2 processor with 8 CPU cores and 10 GPU cores–the same as you would find in a MacBook. It has 16GB of RAM and 256GB, 512GB, or 1TB of flash storage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.macworld.com/article/557878/apple-vision-pro-features-specs-price-faq.html",
+      "originalUrl": "https://www.macworld.com/article/557878/apple-vision-pro-features-specs-price-faq.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.macworld.com/wp-content/uploads/2024/03/Apple-Vision-PRo-2.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-12T23:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Macworld",
+        "domain": "macworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/macworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1079,163 +1218,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-googles-new-security-command-center-enterprise-puts-you-at-the-helm-of-your-multicloud-environment-with-ai-secops-to-back-you-up.md",
-      "title": "Google’s new Security Command Center Enterprise puts you at the helm of your multicloud environment, with AI SecOps to back you up",
-      "excerpt": "The Enterprise level solution builds on Google’s pre existing Command Center with additional capabilities for securing Google Cloud, AWS, and Microsoft Azure environments, including vulnerability and security posture management, cloud infrastructure specific threat detection technology, integrated workflows and much more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/pro/googles-new-security-command-center-enterprise-puts-you-at-the-helm-of-your-multicloud-environment-with-ai-secops-to-back-you-up",
-      "originalUrl": "https://www.techradar.com/pro/googles-new-security-command-center-enterprise-puts-you-at-the-helm-of-your-multicloud-environment-with-ai-secops-to-back-you-up",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/6tqRVDq2EAcaFcNtDomiCe-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-12T17:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-4-updates-from-the-2024-google-for-games-developer-summit.md",
-      "title": "4 updates from the 2024 Google for Games Developer Summit",
-      "excerpt": "These new tools help developers build immersive and engaging games that players love.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/google-play/google-for-games-developer-summit-2024/",
-      "originalUrl": "https://blog.google/products/google-play/google-for-games-developer-summit-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ggds4.width-1300.png",
-          "width": 1300,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-12T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-google-play-will-show-ai-powered-faqs-and-recent-youtube-videos-for-games.md",
-      "title": "Google Play will show AI-powered FAQs and recent YouTube videos for games",
-      "excerpt": "Google announced a number of new features for Google Play listings for games including AI-powered FAQs, displaying the latest YouTube videos, new immersive ad formats, and support for native PC game publishing. The announcements were made at the Google ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/03/12/google-play-store-will-show-ai-powered-faqs-and-latest-youtube-videos-for-games/",
-      "originalUrl": "https://techcrunch.com/2024/03/12/google-play-store-will-show-ai-powered-faqs-and-latest-youtube-videos-for-games/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1240125020.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/03/12/google-play-store-will-show-ai-powered-faqs-and-latest-youtube-videos-for-games/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/google-play-store-will-show-ai-powered-faqs-and-latest-youtube-videos-for-games/amp/",
-      "publishedDateTime": "2024-03-12T16:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

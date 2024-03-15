@@ -2,6 +2,143 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2024-03-12-five-ai-crypto-coins-emerging-in-2024.md",
+      "title": "Five AI crypto coins emerging in 2024",
+      "excerpt": "The artificial intelligence industry began booming at the start of 2024, with OpenAI's Sora product generating a new wave of hype within the sector.",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/business/india-business/best-ai-cryptos/articleshow/108424368.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/business/india-business/best-ai-cryptos/articleshow/108424368.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/thumb/msid-108424765,width-1280,height-720,resizemode-4/108424765.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/business/india-business/best-ai-cryptos/amp_articleshow/108424368.cms",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/business/india-business/best-ai-cryptos/amp_articleshow/108424368.cms",
+      "publishedDateTime": "2024-03-12T06:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-french-startup-nijta-hopes-to-protect-voice-privacy-in-ai-use-cases.md",
+      "title": "French startup Nijta hopes to protect voice privacy in AI use cases",
+      "excerpt": "France-based startup Nijta, whose flagship product Voice Harbor anonimizes voices for AI, raised €2 million in funding from various sources, including deep tech VC fund Elaia.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/03/11/nijta-voice-privacy-ai/",
+      "originalUrl": "https://techcrunch.com/2024/03/11/nijta-voice-privacy-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-525848879.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/03/11/nijta-voice-privacy-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/11/nijta-voice-privacy-ai/amp/",
+      "publishedDateTime": "2024-03-12T05:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-meta-sues-former-executive-over-alleged-ai-theft.md",
+      "title": "Meta sues former executive over alleged AI theft",
+      "excerpt": "Meta has alleged that a former vice president stole “highly confidential” data about the company’s top performers and supply chain partners.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3714344/meta-sues-former-executive-over-alleged-ai-theft.html",
+      "originalUrl": "https://www.computerworld.com/article/3714344/meta-sues-former-executive-over-alleged-ai-theft.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2019/03/screen-shot-2019-03-19-at-4.31.06-pm-100791434-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3714344/meta-sues-former-executive-over-alleged-ai-theft.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3714344/meta-sues-former-executive-over-alleged-ai-theft.amp.html",
+      "publishedDateTime": "2024-03-12T04:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-12-clarity-alignment-and-empowermentleadership-skills-in-the-age-of-ai.md",
       "title": "Clarity, Alignment, and Empowerment:Leadership Skills in the Age of AI",
       "excerpt": "Provide clarity, alignment, and empowerment in your team meetings. getty \"Do you have the engagement survey results?\" I asked my new employee, who had just joined the team a few w",
@@ -1090,145 +1227,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-11-litter-robot-4-vs-3-connect-which-automatic-litter-box-should-you-get.md",
-      "title": "Litter-Robot 4 Vs. 3 Connect: Which Automatic Litter Box Should You Get?",
-      "excerpt": "the Litter-Robot 4 is an upgraded version of the Litter-Robot 3 Connect, with advanced safety sensors, a more sophisticated (and quieter) sifting system and better odor control. I have both models in my home and my three cats use each one regularly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2024/03/11/litter-robot-4-vs-3/",
-      "originalUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2024/03/11/litter-robot-4-vs-3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65eb6c39c78a1860c0563c44/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2024/03/11/litter-robot-4-vs-3/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbes-personal-shopper/2024/03/11/litter-robot-4-vs-3/amp/",
-      "publishedDateTime": "2024-03-11T15:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-11-ai-and-robotics-etf-botz-hits-new-52-week-high.md",
-      "title": "AI and Robotics ETF (BOTZ) Hits New 52-Week High",
-      "excerpt": "For investors seeking momentum, GX Robotics & Artificial Intelligence ETF BOTZ is probably on the radar. The fund just hit a 52-week high and is up 46.36% from its 52-week low price of $22.26/share.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/ai-and-robotics-etf-botz-hits-new-52-week-high",
-      "originalUrl": "https://www.nasdaq.com/articles/ai-and-robotics-etf-botz-hits-new-52-week-high",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-11T15:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-11-azure-ai-health-bot-helps-create-copilot-experiences-with-healthcare-safeguards.md",
-      "title": "Azure AI Health Bot helps create copilot experiences with healthcare safeguards",
-      "excerpt": "With the Azure AI Health Bot infused with generative AI and healthcare safeguards, health organizations can build health data services, transform their medical professionals and patient experiences, discover new insights with the power of machine learning and AI, and manage protected health information",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/blog/azure-ai-health-bot-helps-create-copilot-experiences-with-healthcare-safeguards/",
-      "originalUrl": "https://azure.microsoft.com/en-us/blog/azure-ai-health-bot-helps-create-copilot-experiences-with-healthcare-safeguards/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 227,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/03/MSFT_Azure_MAR06_323612_Blog_Blogheader_240307_V02.png",
-          "width": 1260,
-          "height": 708,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-11T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "AI in Healthcare"
       ]
     }
   ],

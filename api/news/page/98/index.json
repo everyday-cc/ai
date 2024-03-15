@@ -2,6 +2,136 @@
   "page": 98,
   "value": [
     {
+      "path": "_news/2023-12-22-listening-and-correcting-how-automatic-speech-recognition-is-speeding-up-alberta-hansard.md",
+      "title": "'Listening and correcting': How automatic speech recognition is speeding up Alberta Hansard",
+      "excerpt": "Now, those transcribers are using automatic speech recognition software that converts spoken words into a written transcription within minutes. “It works quite well. It’s sped up the whole pro ...",
+      "sourceUrl": null,
+      "webUrl": "https://edmontonsun.com/news/listening-and-correcting-how-automatic-speech-recognition-is-speeding-up-alberta-hansard",
+      "originalUrl": "https://edmontonsun.com/news/listening-and-correcting-how-automatic-speech-recognition-is-speeding-up-alberta-hansard",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://smartcdn.gprod.postmedia.digital/edmontonjournal/wp-content/uploads/2023/12/20231030DB014-scaled.jpg",
+          "width": 2560,
+          "height": 1706,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://edmontonsun.com/news/listening-and-correcting-how-automatic-speech-recognition-is-speeding-up-alberta-hansard/wcm/1b98f27b-3a9e-4614-a3ec-b4aaa8f12e1e/amp/",
+      "cdnAmpWebUrl": "https://edmontonsun-com.cdn.ampproject.org/c/s/edmontonsun.com/news/listening-and-correcting-how-automatic-speech-recognition-is-speeding-up-alberta-hansard/wcm/1b98f27b-3a9e-4614-a3ec-b4aaa8f12e1e/amp/",
+      "publishedDateTime": "2023-12-22T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "edmontonsun",
+        "domain": "edmontonsun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-22-remote-controlled-robot-has-tv-eyes-soft-touch.md",
+      "title": "Remote-Controlled Robot Has TV “Eyes,” Soft Touch",
+      "excerpt": "Your support for Society for Science helps counter misinformation and create a more informed public. And right now, your year-end gift could go twice as far — because a generous supporter is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencenews.org/archive/remote-controlled-robot-has-tv-eyes-soft-touch",
+      "originalUrl": "https://www.sciencenews.org/archive/remote-controlled-robot-has-tv-eyes-soft-touch",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2019/08/sn-fallback.png",
+          "width": 990,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-22T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science News",
+        "domain": "sciencenews.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-22-robots-and-artificial-intelligence.md",
+      "title": "Robots and Artificial Intelligence",
+      "excerpt": "As new threats like deep fakes become cheaper and more widespread, these upcoming elections could serve as a test run for democracy in the artificial intelligence (AI) era. What risks does AI pose ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cfr.org/robots-and-artificial-intelligence",
+      "originalUrl": "https://www.cfr.org/robots-and-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cfr.org//themes/custom/cfr_theme/src/assets/images/cfr-logo-og.png",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-22T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cfr.org",
+        "domain": "cfr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2023-12-22-rite-aids-ai-facial-recognition-wrongly-tagged-people-of-color-as-shoplifters.md",
       "title": "Rite Aid’s A.I. Facial Recognition Wrongly Tagged People of Color as Shoplifters",
       "excerpt": "Under the terms of a settlement with the Federal Trade Commission, the pharmacy chain will be barred from using the technology as a surveillance tool for five years.",
@@ -1064,152 +1194,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-21-the-new-hr-playbook-catalyze-innovation-with-analytics-and-ai.md",
-      "title": "The New HR Playbook: Catalyze Innovation With Analytics And AI",
-      "excerpt": "Explore the exciting advancements in HR analytics powered by data and AI. Gain insights into how no-code solutions, along with metaverse and blockchain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2023/12/21/the-new-hr-playbook-catalyze-innovation-with-analytics-and-ai/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2023/12/21/the-new-hr-playbook-catalyze-innovation-with-analytics-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6583ea74bb752dfa5d2947e3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2023/12/21/the-new-hr-playbook-catalyze-innovation-with-analytics-and-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2023/12/21/the-new-hr-playbook-catalyze-innovation-with-analytics-and-ai/amp/",
-      "publishedDateTime": "2023-12-21T06:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-21-2-spectacular-artificial-intelligence-ai-stocks-primed-to-beat-the-sp-500-in-2024.md",
-      "title": "2 Spectacular Artificial Intelligence (AI) Stocks Primed to Beat the S&P 500 in 2024",
-      "excerpt": "Ellison says OCI's new Gen2 Cloud is now the No. 1 choice among generative AI developers, and it attracted top start-ups like Cohere and Elon Musk's xAI. They have already committed to spending billions of dollars on Gen2 Cloud computing capacity ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/12/21/2-spectacular-ai-stocks-primed-beat-sp-500-2024/",
-      "originalUrl": "https://www.fool.com/investing/2023/12/21/2-spectacular-ai-stocks-primed-beat-sp-500-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/758878/people-viewing-a-mobile-device-in-front-of-stacks-of-supercomputers.jpg",
-          "width": 5127,
-          "height": 3418,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-21T05:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-21-qa-how-athenahealth-moved-from-traditional-ai-to-genai-and-chatgpt.md",
-      "title": "Q&A: How Athenahealth moved from traditional AI to genAI and ChatGPT",
-      "excerpt": "Athenahealth has used AI for years, but generative AI opened up new efficiencies in processing healthcare requests and records. There were challenges, too, as Heather Lane, Athenahealth’s senior architect of data science and platform engineering,",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3711802/qa-how-athenahealth-moved-from-traditional-ai-to-genai-and-chatgpt.html",
-      "originalUrl": "https://www.computerworld.com/article/3711802/qa-how-athenahealth-moved-from-traditional-ai-to-genai-and-chatgpt.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/12/shutterstock_608550530-100950428-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3711802/qa-how-athenahealth-moved-from-traditional-ai-to-genai-and-chatgpt.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3711802/qa-how-athenahealth-moved-from-traditional-ai-to-genai-and-chatgpt.amp.html",
-      "publishedDateTime": "2023-12-21T05:11:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

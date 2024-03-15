@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/tackling-deforestation-and-forest-degradation
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/tackling-deforestation-and-forest-degradation-ai-and-remote-sensing?amp"
 type: article
 quality: 58
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -54,15 +54,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 6
-  - title: "Biden administration requests $3B for federal AI application development, procurement and integration in 2025 budget"
-    excerpt: "The President’s budget looks to fund the National AI Research Resource pilot, agencies’ establishment of Chief AI Officers, the AI talent surge and more AI development across agencies."
-    publishedDateTime: 2024-03-11T19:28:00Z
-    webUrl: "https://fedscoop.com/biden-administration-requests-3b-for-federal-ai-application-development-procurement-and-integration-in-2025-budget/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 0
 
 secured: "n0PhxiACi02cCl+LEVEb0lC8++tni9ZvYkTL7Q5BNEmx6c89cvjNzWYF7ijlTmRsaiRkH3vI5DyxZWh5dSHvnvhpXhDoxQ7gXOljr+LTZ3+UZQtD5aZnplxpsWWR22izE8GPZNz8ZzBI3tAadYWnEXv8+aowNTGxa+cxAvUpEl9m/rSRtA/JpIaXzdrXKgRbwt0qlGVfuKhT4NnZ/XcE5cUnSWdENJjghYeUhMKwsJwa9UMLrwD4rXXNcNxfGC8iWScMJgCNWRHDDViPj774JitB01hlc52tcEF8MR6F212nWHIC8IyIMQ0iNqETLGM5S4TBAPtgUDkpuKEs/4IHNs7DUtqek2bU2XPlOv905EA=;1xbzyFAE2INW2zTZJrHPOg=="
 ---

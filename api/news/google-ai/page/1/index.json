@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-15-google-io-2024-anticipation-builds-for-ai-innovations-and-potential-pixel-8a-unveiling.md",
+      "title": "Google I/O 2024: Anticipation Builds For AI Innovations And Potential Pixel 8a Unveiling",
+      "excerpt": "This year's keynote is widely anticipated to spotlight advancements in AI, in which Google has demonstrated substantial investment and evolution. Recent developments, such as AI-generated summaries in Google Search and updates to the Gemini chatbot (formerly Bard), hint at the potential AI-centric revelations expected at the event.",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/tech/71507/google-io-2024-anticipation-builds-for-ai-innovations-and-potential-pixel-8a-unveiling",
+      "originalUrl": "https://in.mashable.com/tech/71507/google-io-2024-anticipation-builds-for-ai-innovations-and-potential-pixel-8a-unveiling",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/photo/default/5_x63n.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-15T10:08:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "in.mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-14-googles-new-ai-can-play-3d-games-with-you-by-following-natural-language-instructions.md",
       "title": "Google's new AI can play 3D games with you by following natural-language instructions",
       "excerpt": "Google DeepMind's new AI takes things a step further by learning human-like gaming skills. Google's DeepMind research group unveiled a new AI program that is capable of learning how to complete tasks in a number of games. Called Scalable Instructable ...",
@@ -62,7 +105,7 @@
       "originalUrl": "https://www.zdnet.com/article/google-paid-out-10-million-in-bug-bounties-to-security-researchers-in-2023/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -1434,59 +1477,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-25-5-history-lessons-for-nvidia-from-the-80-year-history-of-ai.md",
-      "title": "5 History Lessons For Nvidia From The 80-Year History Of AI",
-      "excerpt": "Predictions are difficult, but we have lots of data at our disposal that may help us make educated guesses about the future. It’s called history.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2024/02/25/5-history-lessons-for-nvidia-from-the-80-year-history-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2024/02/25/5-history-lessons-for-nvidia-from-the-80-year-history-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 271,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65da9c4f7d1d85f773609bb1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2024/02/25/5-history-lessons-for-nvidia-from-the-80-year-history-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2024/02/25/5-history-lessons-for-nvidia-from-the-80-year-history-of-ai/amp/",
-      "publishedDateTime": "2024-02-25T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Google AI"
       ]
     }
   ],

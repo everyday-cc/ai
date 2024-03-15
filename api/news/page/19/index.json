@@ -2,6 +2,152 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2024-02-29-groundbreaking-chinese-ruling-finds-ai-company-committed-copyright-infringement.md",
+      "title": "Groundbreaking Chinese Ruling Finds AI Company Committed Copyright Infringement",
+      "excerpt": "Chinese media reported the Guangzhou Internet Court ruled an AI company committed copyright infringement in its provision of AI-generated text-to-image",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johannacostigan/2024/02/29/groundbreaking-chinese-ruling-finds-ai-company-committed-copyright-infringement/",
+      "originalUrl": "https://www.forbes.com/sites/johannacostigan/2024/02/29/groundbreaking-chinese-ruling-finds-ai-company-committed-copyright-infringement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e0b061adf152ee77fb0400/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1404,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johannacostigan/2024/02/29/groundbreaking-chinese-ruling-finds-ai-company-committed-copyright-infringement/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johannacostigan/2024/02/29/groundbreaking-chinese-ruling-finds-ai-company-committed-copyright-infringement/amp/",
+      "publishedDateTime": "2024-02-29T15:27:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-xpeng-continues-to-challenge-tesla-fsd-with-xngp-self-driving-now-available-throughout-china.md",
+      "title": "XPeng continues to challenge Tesla FSD with XNGP self-driving, now available throughout China",
+      "excerpt": "XPeng Motors announced a massive milestone for its XPeng navigation guided pilot (XNGP) ADAS feature that enables self-driving in",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2024/02/29/xpeng-tesla-fsd-xngp-self-driving-adas-now-available-throughout-china/",
+      "originalUrl": "https://electrek.co/2024/02/29/xpeng-tesla-fsd-xngp-self-driving-adas-now-available-throughout-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2024/02/XPeng-self-driving-XNGP.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T15:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-humanoid-robot-startup-figure-ai-valued-at-26-billion-as-bezos-openai-nvidia-join-funding.md",
+      "title": "Humanoid robot startup Figure AI valued at $2.6 billion as Bezos, OpenAI, Nvidia join funding",
+      "excerpt": "Figure AI, a startup working to build humanoid robots that can perform dangerous and undesirable jobs, just got a big vote of confidence from some of the largest names in artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/humanoid-robot-startup-figure-ai-194224435.html",
+      "originalUrl": "https://www.aol.com/news/humanoid-robot-startup-figure-ai-194224435.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/ny/api/res/1.2/j1zZYiAFHXLPrLcK.7.tCw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDE-/https://media.zenfs.com/en/aol_nbc_universal_184/2764bf45083d07d8de8f8fe4f8024a83",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T14:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-29-baidu-ai-profiteer-positioned-for-long-term-growth.md",
       "title": "Baidu: AI Profiteer Positioned For Long-Term Growth",
       "excerpt": "Baidu is still trading for extremely low valuation multiples and seems to be undervalued. Although Baidu stock declined 8% following Q4 earnings and investors were clearly disappointed, Baidu ...",
@@ -970,142 +1116,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-what-should-we-expect-from-ai-in-2024.md",
-      "title": "What Should We Expect From AI In 2024?",
-      "excerpt": "We are already two months into 2024, and the AI revolution roars on unabated. What should we expect from AI in 2024?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nishatalagala/2024/02/28/what-should-we-expect-from-ai-in-2024/",
-      "originalUrl": "https://www.forbes.com/sites/nishatalagala/2024/02/28/what-should-we-expect-from-ai-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e0028da2001bd2d124c603/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1190,
-          "height": 793,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nishatalagala/2024/02/28/what-should-we-expect-from-ai-in-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2024/02/28/what-should-we-expect-from-ai-in-2024/amp/",
-      "publishedDateTime": "2024-02-29T04:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-start-up-street-can-india-be-at-the-forefront-of-ai-technology.md",
-      "title": "Start-up Street: Can India be at the forefront of AI technology?",
-      "excerpt": "As AI makes rapid progress in being integrated across industries, India has a supportive ecosystem to be able to lead with pathbreaking innovations in the field",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/opinion/start-up-street-can-india-be-at-the-forefront-of-ai-technology-12374301.html",
-      "originalUrl": "https://www.moneycontrol.com/news/opinion/start-up-street-can-india-be-at-the-forefront-of-ai-technology-12374301.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2023/06/Canvas-AI-770x433.jpg",
-          "width": 770,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/opinion/start-up-street-can-india-be-at-the-forefront-of-ai-technology-12374301.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/start-up-street-can-india-be-at-the-forefront-of-ai-technology-12374301.html/amp",
-      "publishedDateTime": "2024-02-29T04:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-120-chatbot-statistics-for-2024-already-mainstream.md",
-      "title": "120+ Chatbot Statistics for 2024 (Already Mainstream)",
-      "excerpt": "One-third of people want to book services and amenities through a chatbot ... The top AI chatbots for work are Microsoft Cortana (49%), Apple Siri (47%), and Google Assistant (23%). 76. Around 53% are more likely to shop there if people can message ...",
-      "sourceUrl": null,
-      "webUrl": "https://techreport.com/statistics/chatbot-statistics/",
-      "originalUrl": "https://techreport.com/statistics/chatbot-statistics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techreport.com/wp-content/uploads/2024/02/Cool-Chatbot-Statistics-2024-scaled.jpg?_t=1709207563",
-          "width": 2048,
-          "height": 1109,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T03:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Tech Report",
-        "domain": "techreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

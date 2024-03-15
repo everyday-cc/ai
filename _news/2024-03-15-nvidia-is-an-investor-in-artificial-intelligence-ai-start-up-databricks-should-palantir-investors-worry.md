@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2024/03/15/nvidia-is-an-investor-in
 webUrl: "https://www.fool.com/investing/2024/03/15/nvidia-is-an-investor-in-artificial-intelligence-a/"
 type: article
 quality: 64
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Is Palantir the Best Artificial Intelligence (AI) Stock Available Right Now?"
+    excerpt: "Palantir is one of the most popular artificial intelligence (AI) software investments. Its prowess in the space is noticeable, and it comes from a superior product and years of ex"
+    publishedDateTime: 2024-03-15T11:15:00Z
+    webUrl: "https://www.nasdaq.com/articles/is-palantir-the-best-artificial-intelligence-ai-stock-available-right-now"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 59
   - title: "Databricks is the latest investor in red-hot generative AI startup Mistral AI"
     excerpt: "Citing a commitment to open-source software for generative artificial intelligence development, Databricks Inc. said today it has made an unspecified strategic investment and partnership with large language model developer Mistral AI SAS."
     publishedDateTime: 2024-03-14T12:59:00Z

@@ -2,6 +2,144 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2024-02-10-video-inaugural-competition-puts-high-school-students-robotics-skills-to-the-test.md",
+      "title": "(Video) Inaugural competition puts high school students robotics skills to the test",
+      "excerpt": "Building on the success of its annual “drone wars” competition, which pits Cullman County Schools’ 7th graders against each other as they maneuver remote-controlled drones through an obstacle",
+      "sourceUrl": null,
+      "webUrl": "https://www.cullmantimes.com/news/video-inaugural-competition-puts-high-school-students-robotics-skills-to-the-test/article_8a14d730-c76a-11ee-992b-afc61871b491.html",
+      "originalUrl": "https://www.cullmantimes.com/news/video-inaugural-competition-puts-high-school-students-robotics-skills-to-the-test/article_8a14d730-c76a-11ee-992b-afc61871b491.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/cullmantimes.com/content/tncms/assets/v3/editorial/d/58/d58ae388-c776-11ee-9cbd-7b97034b20fc/65c66bc092aa0.image.jpg?resize=1024%2C684",
+          "width": 1024,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cullmantimes.com/news/video-inaugural-competition-puts-high-school-students-robotics-skills-to-the-test/article_8a14d730-c76a-11ee-992b-afc61871b491.amp.html",
+      "cdnAmpWebUrl": "https://www-cullmantimes-com.cdn.ampproject.org/c/s/www.cullmantimes.com/news/video-inaugural-competition-puts-high-school-students-robotics-skills-to-the-test/article_8a14d730-c76a-11ee-992b-afc61871b491.amp.html",
+      "publishedDateTime": "2024-02-10T05:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Cullman Times",
+        "domain": "cullmantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-10-arm-ceo-rene-haas-calls-ai-the-most-profound-opportunity-in-our-lifetimes-1-stock-ill-be-buying-hand-over-fist-if-hes-right.md",
+      "title": "Arm CEO Rene Haas Calls AI the \"Most Profound Opportunity in Our Lifetimes.\" 1 Stock I'll Be Buying Hand Over Fist if He's Right.",
+      "excerpt": "Detailed price information for Arm Holdings Plc ADR (ARM-Q) from The Globe and Mail including charting and trades.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/stocks/ARM/pressreleases/23983524/arm-ceo-rene-haas-calls-ai-the-most-profound-opportunity-in-our-lifetimes-1-stock-ill-be-buying-hand-over-fist-if-hes-right/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/stocks/ARM/pressreleases/23983524/arm-ceo-rene-haas-calls-ai-the-most-profound-opportunity-in-our-lifetimes-1-stock-ill-be-buying-hand-over-fist-if-hes-right/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://barchart-news-media-prod.aws.barchart.com/FC/dee37551cf25460f0f7944f0e8e7c6f0/%3Furl%3Dhttps%253a%252f%252fg.foolcdn.com%252feditorial%252fimages%252f764740%252fa-person-pushing-a-virtual-ai-button-surrounded-by-various-technology-icons.jpg%26amp%3Bw%3D700",
+          "width": 3000,
+          "height": 1714,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-10T02:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-10-latest-windows-build-boosts-copilot-with-advanced-ai-functions.md",
+      "title": "Latest Windows build boosts Copilot with advanced AI functions",
+      "excerpt": "The release notes for Windows Insider build 26052 include notable information and updates in several areas. Chief among them is Copilot, which Microsoft hopes to use",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/101837-windows-copilot-updates-tease-further-ai-integration.html",
+      "originalUrl": "https://www.techspot.com/news/101837-windows-copilot-updates-tease-further-ai-integration.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2024/01/2024-01-18-image-10.jpg",
+          "width": 2000,
+          "height": 1334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-10T00:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-10-meet-goody-2-the-ai-too-ethical-to-discuss-literally-anything.md",
       "title": "Meet Goody-2, the AI too ethical to discuss literally anything",
       "excerpt": "Every company or organization putting out an AI model has to make a decision on what, if any, boundaries to set on what it will and won’t discuss. Goody-2 takes this quest for ethics to an ...",
@@ -956,117 +1094,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-ai-based-decision-support-boosts-post-stroke-prevention.md",
-      "title": "AI-Based Decision Support Boosts Post-Stroke Prevention",
-      "excerpt": "Opens in a new tab or window PHOENIX -- An artificial intelligence decision support ... rate of patients being prescribed dual antiplatelet therapy, statins, and anticoagulation for atrial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medpagetoday.com/meetingcoverage/isc/108665",
-      "originalUrl": "https://www.medpagetoday.com/meetingcoverage/isc/108665",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.medpagetoday.net/media/images/108xxx/108665.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MedPage Today",
-        "domain": "medpagetoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-concerns-over-ai-moral-panic-or-mindful-caution.md",
-      "title": "Concerns Over AI: Moral Panic or Mindful Caution?",
-      "excerpt": "With increasingly accessible tools bringing artificial intelligence (AI) platforms to the masses, an inevitable cycle of hype, fear, and misunderstanding of AI stands to outpace bona fide developments in the technologies themselves. For example, with a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/digital-games-digital-worlds/202402/concerns-over-ai-moral-panic-or-mindful-caution",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/digital-games-digital-worlds/202402/concerns-over-ai-moral-panic-or-mindful-caution",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-09-deep-learning-for-real-time-molecular-imaging.md",
-      "title": "Deep learning for real-time molecular imaging",
-      "excerpt": "(Nanowerk News) National University of Singapore (NUS) researchers have demonstrated that deep learning allows them to observe the dynamics of single molecules more precisely and with less data than traditional evaluation methods. They used convolutional ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nanowerk.com/nanotechnology-news3/newsid=64622.php",
-      "originalUrl": "https://www.nanowerk.com/nanotechnology-news3/newsid=64622.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-08T23:59:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nanowerk",
-        "domain": "nanowerk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
