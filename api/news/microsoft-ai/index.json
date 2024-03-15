@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2024-03-14-oracle-expands-partnership-with-microsoft-oracle-databaseazure-set-to-sizzle-in-15-regions-worldwide.md",
-      "title": "Oracle Expands Partnership With Microsoft - Oracle Database@Azure Set To Sizzle In 15 Regions Worldwide",
-      "excerpt": "Oracle (NYSE: ORCL) strengthens collaboration with Microsoft (NASDAQ: MSFT) for Oracle Database@Azure expansion, introduces Oracle Cloud EPM for Sustainability.",
+      "path": "_news/2024-03-15-after-aws-and-google-microsoft-says-its-removing-azure-egress-data-transfer-fees-but-with-caveats.md",
+      "title": "After AWS and Google, Microsoft says it’s removing Azure ‘egress’ data transfer fees — but with caveats",
+      "excerpt": "Microsoft will allow businesses to transfer data out of Azure with no \"egress fees\" attached, following similar moves by AWS and Google.",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/markets/equities/24/03/37691418/oracle-expands-partnership-with-microsoft-oracle-database-azure-set-to-sizzle-in-15-regions-worl",
-      "originalUrl": "https://www.benzinga.com/markets/equities/24/03/37691418/oracle-expands-partnership-with-microsoft-oracle-database-azure-set-to-sizzle-in-15-regions-worl",
+      "webUrl": "https://techcrunch.com/2024/03/14/after-aws-and-google-microsoft-says-its-removing-azure-egress-data-transfer-fees-but-with-caveats/",
+      "originalUrl": "https://techcrunch.com/2024/03/14/after-aws-and-google-microsoft-says-its-removing-azure-egress-data-transfer-fees-but-with-caveats/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 115,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.benzinga.com/files/images/story/2024/oracle-shutter_0.jpeg?width=1200&height=800&fit=crop",
-          "width": 830,
-          "height": 553,
+          "url": "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1242261825.jpg?resize=1200,805",
+          "width": 1200,
+          "height": 805,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/37691418",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37691418",
-      "publishedDateTime": "2024-03-14T11:14:00Z",
+      "ampWebUrl": "https://techcrunch.com/2024/03/14/after-aws-and-google-microsoft-says-its-removing-azure-egress-data-transfer-fees-but-with-caveats/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/14/after-aws-and-google-microsoft-says-its-removing-azure-egress-data-transfer-fees-but-with-caveats/amp/",
+      "publishedDateTime": "2024-03-14T17:58:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -41,7 +50,8 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -261,7 +271,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/safeguarding-data-privacy-in-the-age-of-ai-innovation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 209,
+      "heat": 219,
       "tags": null,
       "images": [
         {
@@ -313,7 +323,7 @@
       "originalUrl": "https://www.zdnet.com/article/microsoft-copilot-for-security-will-be-general-availability-on-april-1/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 181,
+      "heat": 201,
       "tags": null,
       "images": [
         {
@@ -569,7 +579,7 @@
       "originalUrl": "https://www.eweek.com/artificial-intelligence/ai-productivity-tools/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -780,7 +790,7 @@
       "originalUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -875,34 +885,34 @@
     {
       "path": "_news/2024-03-07-quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization.md",
       "title": "Quisitive Awarded the AI and Machine Learning in Microsoft Azure Specialization",
-      "excerpt": "The AI and Machine Learning specialization recognizes ... use of the Company’s services for improper or illegal purposes; global economic and financial market conditions; uninsurable risks; changes in project parameters as plans continue to be evaluated ...",
+      "excerpt": "Quisitive Technology Solutions Inc. (“Quisitive” or the “Company”) (TSXV: QUIS, OTCQX: QUISF), a premier Microsoft solutions provider, announced it has earned the prestigious AI and Machine Learning in Microsoft Azure Specialization.",
       "sourceUrl": null,
-      "webUrl": "https://financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization",
-      "originalUrl": "https://financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization-1033142131",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization-1033142131",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://dcs-static.gprod.postmedia.digital/15.6.0/websites/images/canada/fallback.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization/wcm/ba3e0bf0-f7ce-4c4a-9213-b5d8012c4cd3/amp/",
-      "cdnAmpWebUrl": "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization/wcm/ba3e0bf0-f7ce-4c4a-9213-b5d8012c4cd3/amp/",
-      "publishedDateTime": "2024-03-07T00:00:00Z",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-07T14:30:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Financial Post",
-        "domain": "financialpost.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

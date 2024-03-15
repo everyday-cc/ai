@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techtimes.com/amp/articles/302511/20240312/new-study-cla
 cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/302511/20240312/new-study-claims-ai-robots-tech-workplace-deteriorates-quality-life.htm"
 type: article
 quality: 70
-heat: 80
+heat: 81
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/this-just-in/microsoft-and-oracle-expand-
 webUrl: "https://www.datanami.com/this-just-in/microsoft-and-oracle-expand-partnership-to-satisfy-global-demand-for-oracle-databaseazure/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Oracle Expands Partnership With Microsoft - Oracle Database@Azure Set To Sizzle In 15 Regions Worldwide"
-    excerpt: "Oracle (NYSE: ORCL) strengthens collaboration with Microsoft (NASDAQ: MSFT) for Oracle Database@Azure expansion, introduces Oracle Cloud EPM for Sustainability."
-    publishedDateTime: 2024-03-14T11:14:00Z
-    webUrl: "https://www.benzinga.com/markets/equities/24/03/37691418/oracle-expands-partnership-with-microsoft-oracle-database-azure-set-to-sizzle-in-15-regions-worl"
-    ampWebUrl: "https://www.benzinga.com/amp/content/37691418"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37691418"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 58
-    images:
-      - url: "https://cdn.benzinga.com/files/images/story/2024/oracle-shutter_0.jpeg?width=1200&height=800&fit=crop"
-        width: 830
-        height: 553
-        isCached: true
   - title: "Microsoft Corp.; Oracle: Microsoft and Oracle expand partnership to satisfy global demand for Oracle Database@Azure"
     excerpt: "Powerful cloud database service now in Germany and announcing five additional cloud regions for a total of 15 regions planned this year REDMOND, Wash., and AUSTIN, Texas, March 14, 2024"
     publishedDateTime: 2024-03-14T08:19:00Z
@@ -51,6 +35,6 @@ related:
       domain: finanznachrichten.de
     quality: 12
 
-secured: "JnIew4y8yKSKJ1pyv/RlcmvoYGgtbMCP9zYqfP4h+crApkcAKTUfNEnQADZ+quw7YxXdWRUXtzsazXHqf8WRWvz9NLonyOcykFT2iTew8e/ZLXbyD4WsMQR0dccF6LJBYlLbeSfx8shyEYQ0piVtSW56ptu3/x4BuIbjURkP2K9sMNNwyVmo/aeCEvhBOAvSKfB6HoUU9OsF1OpOOItPk86RUb3c1xSWXjozjyNCtSTSajzRHF/4V/Wz9pYubzJLmxkCR1blejmDuynKevfslRTP5LBUuHBAtJ23mZFl/pCGY1HVBppz3BeJJTYGhGStBv05WfVeBStrQQP+4DPX4ioxcmMOQyohafjbHQSFyhI=;hN6S/lKaxYHrAJJmqN3ytw=="
+secured: "4HkP8GJcebf78/kMQkO76dm/+24LkeVygbKcnSkJQp/AijXDiVTJn5AOYkIzTek9x7kn5zajPqfyVJx4KTyifPgucAIUQVfB/bgbjUQA3Ec1Lqii+W4M8kDW7lX06vgZDyDoyBKOE4i0JI5PbLmGm2H2MbWte32jkgfEV5aVbz+mwDfrjSXQAouqXVtnyb3WBCBMrmiTvUIAGqyBVo28OMzAUoKAw/ek8k0hhv33tzl1xk+MzitYm8tjuPCDgU+dvTNAGmmkfGH3olTHABsL084gwg9Wkif1Kb/EJoLsSsvdjYaAoVrObCTUvhahxXyQRhR7ZcG/xAl0L07dZ9+OSWHtoG9k4QRf7D2PGlKrLTnSbGwO4hRg/bbLKEL3Oeq1jzZpdJpZyp1dMADqC/gNmC4TYwTQE2UrRwndrud4q2nbHC7k0nvZOvCVLakc3YU8K9ukFxS8y5lLKRg43MFJFaLzCt9LxtXu7d7HlVNYCVPwzHq2xEnYpcX9nmbk6tBByrEI3kzFv4NGy/RxtJvWIw==;k8VHpQyo9Zx2lwAh1V/C0Q=="
 ---
 

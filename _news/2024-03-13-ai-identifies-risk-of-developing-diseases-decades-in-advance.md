@@ -1,12 +1,12 @@
 ---
 category: news
 title: "AI Identifies Risk of Developing Diseases Decades in Advance"
-excerpt: "Interestingly, the AI algorithm identified 70 pairs of disease trajectories that share some diagnoses earlier in life but eventually diverge later in life into separate diagnoses. The scientists point out that although no conclusion on causality can be made, the AI algorithm suggests potential early risk factors."
+excerpt: "A new study published in npj Digital Medicine, a Nature Portfolio journal, shows how artificial intelligence machine learning has the potential to accelerate personalized medicine by providing a patient’s risk of developing two or more disease diagnoses decades in advance by identifying disease trajectories."
 publishedDateTime: 2024-03-13T16:06:00Z
-originalUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202403/ai-identifies-risk-of-developing-diseases-decades-in-advance"
-webUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202403/ai-identifies-risk-of-developing-diseases-decades-in-advance"
-ampWebUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202403/ai-identifies-risk-of-developing-diseases-decades-in-advance?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202403/ai-identifies-risk-of-developing-diseases-decades-in-advance?amp"
+originalUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202403/ai-identifies-risk-of-developing-diseases-decades-in-advance"
+webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202403/ai-identifies-risk-of-developing-diseases-decades-in-advance"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202403/ai-identifies-risk-of-developing-diseases-decades-in-advance?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202403/ai-identifies-risk-of-developing-diseases-decades-in-advance?amp"
 type: article
 quality: 39
 heat: 39
@@ -20,6 +20,6 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "y817PvZgKx6KFYMKsd8X9+X0F5gptjFUBtLBFbe90luBGXoYqQopv5/H6W50ARHXD56e0XJvnx2RPsNCYekXWqcXdzX/nGz6Vi7ixnD3KJuWdpG5pblGi74Dk9fBhUSupTX57pKm/W7kml10EgmrJwiky8STnAcHXtTVKSCeXxPFXeI4VpsTJUr7YH9D84/mAH1Vmn54lF4p6apwOUe3XgUM0O6n8CZBQRaMPWHBjxDHWITTXxzIL/9UxH8ZdKRJr2E4O/3rfMVLT5P3oY9RwlLxAfTBsYVWGX7sfFh2dT3RzGgm1DCsyOo+4js5fKCuShlgEZUSQAbmaELx53+QmNLHyy5vDOwL4cp4ZtJkbC8h3srbGlWEvU6am4iKWmLKoz9t8PXLZCREFsp8XTehfRVneciKwdEV+bgEDu4bEWoBT1cdgMFwQa030FkhRXdq08SYaAcKosCB1pVwIHBnIfM18Hk/utHUC8LqDIxAQjHAauWiCVHdEujSj/pviBjn42zDnDFJfA78zhOGkSOYGQ==;WxCnMNbjNVyelas5UcBbBw=="
+secured: "EIhhrCxyD10u483BNbBdrOT+e8o9Z+LMxgWZDW20yIZi2ZtykyaKKm7wup9a3wi8Hn1CtFHqenUZQ1Qj9aAcY8K+2pWUXRvz31Eg3NG76Ndwn8+wFBfBIbiULr7C3Fbi3GchULtE+w7rPVNJepH7ahuJjEkl5+2BXmQLtDsciQQ7BIQ/+jiBPAQwVJCi2LAeTh/ldZQUqDzQ9qwchVn0OAUWb1v7RkTFWmSPu4lGcvkILZXkiM0O9PfN+vyzzPixZLeo/ubYwMKyMjzQe+r147qITvuqn2QQHRfQtXLyY8ntWXogwJvxdvM65sDmiwaHHD7RE1mvEN+SfMoTHKeBIlTnJgMujzyg8aapvVVNSPJ38XmvhS+7mJx/XKYt+q5ffuEQmehDQdXAQjWMPO5IyPyzZUOZbZzeO6CZ+ZECvc9b0xZg0D0FgVPoGvVr0IE3gJQeg5Pu3xzl+YXrAk9IZTdks7BKz8joSr9/Corf+gmAVrp8VhmZ7oZCcEbCQIRWxKovrJUv2jSPM5U01UBHEQ==;o157Y51lEi7BAykigeW3iw=="
 ---
 

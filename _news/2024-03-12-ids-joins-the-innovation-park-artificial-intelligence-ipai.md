@@ -120,6 +120,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Brother Industries in artificial intelligence: theme innovation strategy"
+    excerpt: "Be better informed GlobalData, the leading provider of industry intelligence, provided the underlying data, research, and analysis used to produce this article. GlobalData Patent Analytics tracks bibliographic data, legal events data, point in time patent ..."
+    publishedDateTime: 2024-03-11T00:01:00Z
+    webUrl: "https://www.just-drinks.com/data-insights/brother-industries-in-artificial-intelligence-theme-innovation-strategy/"
+    type: article
+    provider:
+      name: Drinks
+      domain: just-drinks.com
+    quality: 38
+    images:
+      - url: "https://www.just-drinks.com/wp-content/uploads/sites/29/2021/04/report-desktop.png"
+        width: 388
+        height: 544
+        isCached: true
   - title: "USPTO’s New Guidance on AI-Assisted Inventions: The Impact on the Use of AI in the Life Sciences"
     excerpt: "On February 12, 2024, the US Patent Office and Trademark Office (USPTO) released the Inventorship Guidance for AI-assisted Inventions (the Guidance). We previously discussed the Guidance here. Following up on the Guidance, the USPTO released two examples ..."
     publishedDateTime: 2024-03-13T16:23:00Z

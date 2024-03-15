@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/karlfreund/2024/03/14/qualcomm-becomes-a-m
 ampWebUrl: "https://www.forbes.com/sites/karlfreund/2024/03/14/qualcomm-becomes-a-mobile-ai-juggernaut/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2024/03/14/qualcomm-becomes-a-mobile-ai-juggernaut/amp/"
 type: article
-quality: 89
+quality: 91
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Computer Vision
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/65f33879d4629142be477319/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
@@ -73,6 +74,6 @@ related:
       domain: thenewswire.com
     quality: 19
 
-secured: "pa7xEZMFzrl2C9Zf2J5jOjnjewZyJc1xekXYH6qPzNMK6FCHKfcKYpPETtBfoAOgbX5vGhpAvYY2hnae3wFIYy2CYnkYw/7+on5D7xd4TNQYR9f1wQA2cJDgcgyBAzQXLDXf3TlduMtXBjooHCEtfot1v0k+OFC3jRU4X/Myxf4pMEndmteuXjYM7DJlfyGJNcLo7Wo2fF2maL78EN4TU1kHzmYob6M6WKeN5WDFx9GwZygY6hjXUyJLXfk976KK+5AvGzNJNHrhAu+1vHnsRi3oKj1fuRGckP9GDl5nVQ/BrH7pzt8k5Jbz8td7EnVYQEidJSPHz2foGMgVQqgICkZmnxIR5LwhI55DHpbtGx0=;N3IA623Zt/ZdiXv2Zbp8gg=="
+secured: "Gbv98d+Sl0UHawQY9C7u8gajFz6hNZQ2MSUARFP+bFCn3EgDGkj8CkS1EgX1X8VWCc3elwc8xkjXpLnGQIkWqlxGO9YnwwMBhRDHoIu2hV2C65mau4UBDQV6Lho28I4SUoFcOAP3UgcKaM6TG5aL00jj04MFcxlIfIUHW6azS0YZBRNkaPnaJSfpZzpwFkpBy4YkQJyeJls9gotX/IF9BXfvSkB7G3nG0Ohe+8/hH2JNqjDthnCLTLnKw5rc0/Qpteyl81BdUNLm2HbDK7ocK4GDgPPEHLkUkUeasbH+okFCJXUUdTVbbgG+yC11yhqUY7M8T2DolFE8wtF/pjGOubz1m9RFUzOo0pNmGSsSkJ6BWvsTr4Fk6XNhfB7TYsLmZ372UBviOmWxmpOlaMe5YPQ+OXf257zQnZ4hEi290WYgA0p4XSjv2HRU2NfW+pH5ZjZYgDzbcOnZ0dj+Ol19wia7biApTm1iPvlt/iSi3rmyRrgNfWCxAHrgoxfYM0VGc3thsNSlK4Eku7pQVMPJxQ==;MvbzkfToTd+LcxjTraCACQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/us/new-ai-tools-help-doctors-take-notes-mess
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/new-ai-tools-help-doctors-take-notes-message-patients-still-make-mistakes.amp"
 type: article
 quality: 78
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GWFFZRHBJAI65FNKOOCDGYEG6M_size-normalized.jpg&w=1440"
         width: 1440
         height: 958
+        isCached: true
+  - title: "New AI tools can record your medical appointment or draft a message from your doctor"
+    excerpt: "New AI tools are helping doctors communicate with their patients, some by answering messages and others by taking notes during exams. It’s been 15 months since OpenAI released ChatGPT. Already thousands of doctors are using similar products based on large language models. One company says its tool works in 14 languages."
+    publishedDateTime: 2024-03-14T23:26:00Z
+    webUrl: "https://www.baltimoresun.com/2024/03/14/new-ai-tools-can-record-your-medical-appointment-or-draft-a-message-from-your-doctor/"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 30
+    images:
+      - url: "https://www.baltimoresun.com/wp-content/uploads/2024/03/Medical_Doctor_AI_42652.jpg?w=1024&#038;h=681"
+        width: 1024
+        height: 681
         isCached: true
   - title: "New AI tools can record your medical appointment or draft a message from your doctor"
     excerpt: "New AI tools are helping doctors communicate with their patients, some by answering messages and others by taking notes during exams. It’s been 15 months since OpenAI released ChatGPT. Already thousands of doctors are using similar products based on large language models. One company says its tool works in 14 languages."

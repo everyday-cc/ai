@@ -222,6 +222,15 @@ related:
       name: Fierce Healthcare
       domain: fiercehealthcare.com
     quality: 28
+  - title: "How some retail auto tech companies are addressing generative AI"
+    excerpt: "Insight Tekion announced in September it would start using its AI tool, which also incorporates machine learning and natural language processing. The first generative AI-related feature is called Smart Communication, a tool within Tekion's Automotive ..."
+    publishedDateTime: 2024-03-14T16:00:00Z
+    webUrl: "https://www.autonews.com/retail/how-retail-auto-tech-vendors-are-testing-generative-ai"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 19
 
 secured: "8Li0L5+vTvigDQdIU5KBHLe1nDmN0Db9AqiltpQHY/tyRHuOCGfc+HNxxxaBcpvaw2aFnKrYDKe70lmqMkCR84VcHvX8HOeHw1EERoU8EmvoPlhDD9abbhxGHWw93+ZKYxhyVJ3uhgBAuvxS97FximtTJkcsdsn+ydCki84sBTfID6VtUscrfaSR3TOalM6bTpmz8NWXiPxtweqI8YaMy0Kv5OJS4fR4j6NAo5kaelIEkjqFTBgJOuQjnqH+GG78RBD8KirmuZX3q2ZK5qVkT74Z5cj2eIln0b8SX0fnjEJsxihnPHjCALW0h7ZLNrmTX5OZKS+kLIyZf4vimySzSO59vNWSynXZW+WcTVN2W+VOFUQJsK/Unkt+MdkThpdIpsxrpO3FvixR2rvzdSL3Efnj84s9U6KXatNe02Ja5rsfnEGjnc4Ked/wPHFTaqZ6D+/uQi5KjIk312Qd486CYb2iR3vXjkCldhDD4piTL/FwSRKHEtSdNeTgcSBvJxQoU7bAEyCz0woS0LoHUf4yEQ==;Znur2R28fZn2NPxv4oOFNw=="
 ---

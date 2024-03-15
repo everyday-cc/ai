@@ -72,6 +72,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Alchemy Pay Introduces Card as a Service for AI Analysis"
+    excerpt: "Alchemy Pay, the fiat-crypto payment service provider, introduces its Card-as-a-Service (CaaS) for AI Analysis, an AI, blockchain, FinTech firm."
+    publishedDateTime: 2024-03-14T22:53:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/03/222644-alchemy-pay-introduces-card-as-a-service-for-ai-analysis/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 39
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/04/50-Dollars-Grant-Money-Cash-Spend-Pay.jpeg"
+        width: 1198
+        height: 1280
+        isCached: true
 
 secured: "53XB2kdsDEVc0OHnMEbDi8nLA/hy+g1oqWP/eASk87Ob7SQGSFrgwsIsoGx62PaiiFrGjmpsoBR9lPGeu0t3v2+ljOMd8gTTmv4W4OKRXm8iL5LvUgdzT3nM2loKBc5nzrNlIz2nNpiQsuT3QJ+fDRZ28z3ETO9fX+llvXKYQ7J5O4VG9+fIXE/mHis1hv6s7Bj2lxXWuft4CV1OE2HLBU6R1D/LibwoKysyt21u26zFMNEyzGE3ZI35MTa3c1gIR3IMAaKvAeje1Z3VrAKrl4DXgiFXT2qOTMinc5lKlRY2rnNuypDKXyjVftfIDxsVY292ckDbvcTc+n6E9KYhB/EzDkfZsLPYvN07r/5z/c2rID7fjSMHPhf1xF9a1k59/gsNvNN4Ubv1b4owmg0QqLK39VHJc09Wn0iSrB7sF6dr3rAgcIqo9ssy9e064z0b2JG6JO4SA4As8vVHHW05Mo/fhqAQcPPvLACeaP52Rm99M8quOT14Y3XlrS2NSBMnQEZ06uNjbtvDElMSvTjK/w==;Khv7JZc2CmtHu7QPzi60sw=="
 ---

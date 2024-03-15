@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/artificial-intelligence/ai-productivity-tool
 webUrl: "https://www.eweek.com/artificial-intelligence/ai-productivity-tools/"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Palm Beach County schools use artificial intelligence tutoring tool"
+    excerpt: "Students at nine high schools in Palm Beach County have a new group of tutors through their computers to help with their classwork."
+    publishedDateTime: 2024-03-14T21:25:00Z
+    webUrl: "https://www.wflx.com/2024/03/14/palm-beach-county-schools-use-artificial-intelligence-tutoring-tool/"
+    ampWebUrl: "https://www.wflx.com/2024/03/14/palm-beach-county-schools-use-artificial-intelligence-tutoring-tool/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wflx-com.cdn.ampproject.org/c/s/www.wflx.com/2024/03/14/palm-beach-county-schools-use-artificial-intelligence-tutoring-tool/?outputType=amp"
+    type: article
+    provider:
+      name: WFLX
+      domain: wflx.com
+    quality: 57
+    images:
+      - url: "https://gray-wflx-prod.cdn.arcpublishing.com/resizer/v2/WJL4F7ATSNZT23IYN42GHUAGMM.com?auth=b2f5e53813e31754587bd41ae27b67544394c144ee2b2bbeda6387493fe35342&width=800&height=450&smart=true"
+        width: 800
+        height: 450
+        isCached: true
   - title: "The 3 Best Artificial Intelligence Stocks to Invest In for Big Gains in 2024"
     excerpt: "Spread the loveArtificial Intelligence (AI) is not just a buzzword; it’s the frontier of technological advancement that is integrating into every aspect of our lives. As AI technology continues to evolve,"
     publishedDateTime: 2024-03-11T09:20:00Z

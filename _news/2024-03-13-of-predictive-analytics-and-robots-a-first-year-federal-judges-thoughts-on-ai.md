@@ -7,8 +7,8 @@ originalUrl: "https://www.law.com/therecorder/2024/03/13/of-predictive-analytics
 webUrl: "https://www.law.com/therecorder/2024/03/13/of-predictive-analytics-and-robots-a-first-year-federal-judges-thoughts-on-ai/"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: -1
+published: false
 
 provider:
   name: Law
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "How to learn data analytics"
+    excerpt: "These tools range from Apache Spark and his own Quantum Metric to SAS, Google Cloud AutoML, and SAP Analytics Cloud. Lastly, Van de Wiel and Ciabarra agree that as a core analyst, the technical skill of visualization is critical. Visualization refers to ..."
+    publishedDateTime: 2024-03-14T21:54:00Z
+    webUrl: "https://fortune.com/education/articles/how-to-learn-data-analytics/"
+    type: article
+    provider:
+      name: Fortune
+      domain: fortune.com
+    quality: 54
+    images:
+      - url: "https://content.fortune.com/wp-content/uploads/2024/03/Fortune_Edu_Man-teaching.jpg?resize=1200,600"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "AI in Analytics: 3 Key Tips to Keep Your Workflow up to Date"
     excerpt: "Data analysts are just as swept up with the AI in analytics hype as any other professional, but their emotions reflect more than just being in awe of the technology. The world of AI has reshaped the rules of data analysis, enabling natural language queries ..."
     publishedDateTime: 2024-03-11T00:01:00Z

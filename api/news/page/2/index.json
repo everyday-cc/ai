@@ -2,6 +2,109 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-03-14-amd-is-optimistic-on-ai-pcs-bringing-greater-efficiency-to-enterprise.md",
+      "title": "AMD Is Optimistic on AI PCs Bringing Greater Efficiency to Enterprise",
+      "excerpt": "AMD CEO Lisa Su and VP of Product Management Jason Banta expressed optimism about the hot on-device AI market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/amd-ai-pcs-sxsw-2024/",
+      "originalUrl": "https://www.techrepublic.com/article/amd-ai-pcs-sxsw-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.techrepublic.com/uploads/2024/03/AdobeStock_627078046_Editorial_Use_Only.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-13T20:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-14-ai-could-lead-to-human-extinction-says-report-commissioned-by-us-state-department.md",
+      "title": "AI could lead to human extinction, says report commissioned by US State Department",
+      "excerpt": "We asked AI experts to weigh in on Gladstone's report that detailed \"catastrophic risks\" associated with AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ai-report-risks-human-extinction-state-department-expert-reaction-2024-3",
+      "originalUrl": "https://www.businessinsider.com/ai-report-risks-human-extinction-state-department-expert-reaction-2024-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65f064c56080194819fefb8e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/ai-report-risks-human-extinction-state-department-expert-reaction-2024-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-report-risks-human-extinction-state-department-expert-reaction-2024-3?amp",
+      "publishedDateTime": "2024-03-13T20:04:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-14-abb-opens-revamped-robotics-center-in-michigan-amid-growing-demand-for-ai-robots.md",
       "title": "ABB Opens Revamped Robotics Center in Michigan Amid Growing Demand for AI Robots",
       "excerpt": "ABB, a Zurich-based automation technology provider, Wednesday opened a $20 million expansion to its U.S. robotics headquarters in Auburn Hills, Mich. The move comes as demand for automation grows not just in traditional industries like logistics and manufacturing,",
@@ -53,7 +156,7 @@
       "originalUrl": "https://www.inverse.com/tech/figure-robot-open-ai-chatgpt",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -1062,49 +1165,6 @@
       ]
     },
     {
-      "path": "_news/2024-03-13-of-predictive-analytics-and-robots-a-first-year-federal-judges-thoughts-on-ai.md",
-      "title": "Of Predictive Analytics and Robots: A First-Year Federal Judge’s Thoughts on AI",
-      "excerpt": "U.S. District Judge Wesley Hsu says that judges’ information online should be fair game for those putting together predictive analytics. Then again, as someone who previously spent more than a decade prosecuting cybercrime,",
-      "sourceUrl": null,
-      "webUrl": "https://www.law.com/therecorder/2024/03/13/of-predictive-analytics-and-robots-a-first-year-federal-judges-thoughts-on-ai/",
-      "originalUrl": "https://www.law.com/therecorder/2024/03/13/of-predictive-analytics-and-robots-a-first-year-federal-judges-thoughts-on-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.law.com/contrib/content/uploads/sites/403/2024/03/Wesley-Hsu-5-767x633.jpg",
-          "width": 767,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-13T11:41:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law",
-        "domain": "law.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-03-13-safeguarding-data-privacy-in-the-age-of-ai-innovation.md",
       "title": "Safeguarding Data Privacy In The Age Of AI Innovation",
       "excerpt": "The Amazon Bedrock platform allows for the creation and deployment of machine learning models within a protected ... Furthermore, cloud service providers like Microsoft Azure and Google Cloud offer specialized tools and services for building private ...",
@@ -1113,7 +1173,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/safeguarding-data-privacy-in-the-age-of-ai-innovation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 209,
+      "heat": 219,
       "tags": null,
       "images": [
         {
@@ -1205,57 +1265,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-new-ai-tools-can-help-doctors-take-notes-message-patients-but-they-still-make-mistakes.md",
-      "title": "New AI tools can help doctors take notes, message patients, but they still make mistakes",
-      "excerpt": "New AI tools can help doctors communicate with patients, take notes during medical examinations, and even make diagnoses. But the tools are not perfect.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/new-ai-tools-help-doctors-take-notes-message-patients-still-make-mistakes",
-      "originalUrl": "https://www.foxnews.com/us/new-ai-tools-help-doctors-take-notes-message-patients-still-make-mistakes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/60c0535c-c189-4d06-b7a2-9d7c5ff58e8d/57b2155a-c1fb-4241-a9d1-93e024a57772/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/new-ai-tools-help-doctors-take-notes-message-patients-still-make-mistakes.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/new-ai-tools-help-doctors-take-notes-message-patients-still-make-mistakes.amp",
-      "publishedDateTime": "2024-03-13T10:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

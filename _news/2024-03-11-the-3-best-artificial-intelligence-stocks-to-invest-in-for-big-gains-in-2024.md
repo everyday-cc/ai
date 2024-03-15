@@ -39,6 +39,22 @@ related:
         width: 1400
         height: 900
         isCached: true
+  - title: "Palm Beach County schools use artificial intelligence tutoring tool"
+    excerpt: "Students at nine high schools in Palm Beach County have a new group of tutors through their computers to help with their classwork."
+    publishedDateTime: 2024-03-14T21:25:00Z
+    webUrl: "https://www.wflx.com/2024/03/14/palm-beach-county-schools-use-artificial-intelligence-tutoring-tool/"
+    ampWebUrl: "https://www.wflx.com/2024/03/14/palm-beach-county-schools-use-artificial-intelligence-tutoring-tool/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wflx-com.cdn.ampproject.org/c/s/www.wflx.com/2024/03/14/palm-beach-county-schools-use-artificial-intelligence-tutoring-tool/?outputType=amp"
+    type: article
+    provider:
+      name: WFLX
+      domain: wflx.com
+    quality: 57
+    images:
+      - url: "https://gray-wflx-prod.cdn.arcpublishing.com/resizer/v2/WJL4F7ATSNZT23IYN42GHUAGMM.com?auth=b2f5e53813e31754587bd41ae27b67544394c144ee2b2bbeda6387493fe35342&width=800&height=450&smart=true"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "5Cx113ehiVT5WSpNq3YIjTBMZ3k4/0Btv3MVYe0r7Fpb/IWpx+bMJ9m8UdLr1OnQF72zmjjSfHWsRKpxq/vRSuR+/lhD70F3tVMr5mQ4OfbMhvXtOsJpIVIh5Lr700zoW9ldzuqNzfD9V/PQwRiW/7R6UVI2Bd1KKYZuMtub1zAOXDNc3fLPmcuGx3F74BZDAtUZqAhiaM4d7+U137j6Smqz4kv1pvclNOAOzkbHLHVhJqnM+mn2EBE4DKOtqKC8Tn/LsZQKnOur8vP+szIiEEzeJBrpMO/txXHh2z0S81mP8iNJVFxRWnODOrfj3mxeFXRT3aLBH3DoXPuRj00jiAZSrm0pZq4PuhKKa+K2525cInO+Ogz5o6ht0Rj8+grQx7qI+JnWYWkqzS/MZYEmHOupYh6ubW7oak3V53RfxXFzS3MhGMwoISKolDmBfbtOdeQZFN/HeewsYaBqAvMdM7c/73uxRO5jpuH5bqjsQuBJP6WjohrjxjMgR7JtDNalsonnFVQgEALcnIRZ5GYVJg==;gXNByxj9uYWhEbJLX58yeQ=="
 ---

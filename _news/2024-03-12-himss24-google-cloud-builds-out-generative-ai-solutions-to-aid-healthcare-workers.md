@@ -219,6 +219,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "How some retail auto tech companies are addressing generative AI"
+    excerpt: "Insight Tekion announced in September it would start using its AI tool, which also incorporates machine learning and natural language processing. The first generative AI-related feature is called Smart Communication, a tool within Tekion's Automotive ..."
+    publishedDateTime: 2024-03-14T16:00:00Z
+    webUrl: "https://www.autonews.com/retail/how-retail-auto-tech-vendors-are-testing-generative-ai"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 19
 
 secured: "5VtVszaYuQkZoEiuSOEN7A8NWR9k8ffZ+gl/Oc0bfCxTCGPDGfFi/LId70+l0A68p/BQhLyhJqXJR8u5ImljwyBc6E0RGagYxzrnbyZvhlE/PnJD53EChjXkuJhBYbNsNd/hQBBgBqcBZFCGANJpYG7Q8WIfiHgJ92tZSb9VYqv/iGTwja498pMg0sY3mAnEvqM+10Z/Ndwu+CZINhLpSryfO9ccn955sHsiRn0J0hsFkqCT6UmULLeXBscCGU/8jeEF/HAePMqcovIoiIuf8WV2/nmi0ZYf0hUGhdqWBURK1Km8mFPjFibRt2eKrKv0MmzcZZWy2th3tyXouzXFKSlvx2ET5KLrkROO/5yNSamwaSpvOWdpDxTGX+++dvsxYIr61I9avUaXV7H2xHpJg9LGHc1JhFpceTmojXhmLk0ZDrFYnVuz1WzvDMZp4KH4roNXT1OoCSALDyDgl0fK15HI4J7CeyvHiChNs/+svDV7cfx7Wo/eN0Iv0hueryibOV/b/W5r/iOal/sjSVxWlg==;eMMz3l72wsn3VwQq30hX7Q=="
 ---

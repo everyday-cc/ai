@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "How to learn data analytics"
+    excerpt: "These tools range from Apache Spark and his own Quantum Metric to SAS, Google Cloud AutoML, and SAP Analytics Cloud. Lastly, Van de Wiel and Ciabarra agree that as a core analyst, the technical skill of visualization is critical. Visualization refers to ..."
+    publishedDateTime: 2024-03-14T21:54:00Z
+    webUrl: "https://fortune.com/education/articles/how-to-learn-data-analytics/"
+    type: article
+    provider:
+      name: Fortune
+      domain: fortune.com
+    quality: 54
+    images:
+      - url: "https://content.fortune.com/wp-content/uploads/2024/03/Fortune_Edu_Man-teaching.jpg?resize=1200,600"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Of Predictive Analytics and Robots: A First-Year Federal Judge’s Thoughts on AI"
     excerpt: "U.S. District Judge Wesley Hsu says that judges’ information online should be fair game for those putting together predictive analytics. Then again, as someone who previously spent more than a decade prosecuting cybercrime,"
     publishedDateTime: 2024-03-13T11:41:00Z

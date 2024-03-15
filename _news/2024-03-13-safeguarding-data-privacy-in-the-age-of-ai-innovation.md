@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/safeguardi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/13/safeguarding-data-privacy-in-the-age-of-ai-innovation/amp/"
 type: article
 quality: 89
-heat: 209
+heat: 219
 published: true
 
 provider:
@@ -116,6 +116,20 @@ related:
       - url: "https://www.microsoft.com/en-us/industry/blog/wp-content/uploads/2024/03/MSC24-CEMA-lifestyle-Getty-1483022571-rgb-1.jpg"
         width: 800
         height: 533
+        isCached: true
+  - title: "Brother Industries in artificial intelligence: theme innovation strategy"
+    excerpt: "Be better informed GlobalData, the leading provider of industry intelligence, provided the underlying data, research, and analysis used to produce this article. GlobalData Patent Analytics tracks bibliographic data, legal events data, point in time patent ..."
+    publishedDateTime: 2024-03-11T00:01:00Z
+    webUrl: "https://www.just-drinks.com/data-insights/brother-industries-in-artificial-intelligence-theme-innovation-strategy/"
+    type: article
+    provider:
+      name: Drinks
+      domain: just-drinks.com
+    quality: 38
+    images:
+      - url: "https://www.just-drinks.com/wp-content/uploads/sites/29/2021/04/report-desktop.png"
+        width: 388
+        height: 544
         isCached: true
   - title: "IDS joins the Innovation Park Artificial Intelligence (IPAI)"
     excerpt: "The Innovation Park Artificial Intelligence (IPAI) is probably the most ambitious project for applied artificial intelligence in Europe. Its home will be a large, circular campus in Heilbronn,"

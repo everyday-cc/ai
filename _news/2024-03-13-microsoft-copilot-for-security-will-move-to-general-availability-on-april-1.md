@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-copilot-for-secur
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-copilot-for-security-will-be-general-availability-on-april-1/"
 type: article
 quality: 121
-heat: 181
+heat: 201
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
         width: 1232
         height: 928
         isCached: true
+  - title: "Microsoft singles out Google's competitive edge in generative AI"
+    excerpt: "Alphabet unit Google enjoys a competitive edge in generative artificial intelligence due to its trove of data and AI-optimised chips, Microsoft has told EU antitrust regulators, underscoring the rivalry between the two tech giants."
+    publishedDateTime: 2024-03-14T22:34:00Z
+    webUrl: "https://www.aol.com/news/microsoft-singles-googles-competitive-edge-174128522.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 56
+    images:
+      - url: "https://media.zenfs.com/en/aol_reuters_29/a90cd81a8f508a26ef27c3ae416c1c6a"
+        width: 800
+        height: 486
+        isCached: true
   - title: "Microsoft Corporation (MSFT) Rose on Accelerated Growth from Azure"
     excerpt: "Carillon Tower Advisers, an investment management company, released its “Carillon Eagle Growth & Income Fund” fourth quarter 2023 investor letter. A copy of the same can be downloaded here."
     publishedDateTime: 2024-03-11T06:23:00Z
@@ -83,6 +97,20 @@ related:
       - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/01/24233139/microsoft-4608125_1280.jpg"
         width: 1280
         height: 853
+        isCached: true
+  - title: "Microsoft Finally Kills Azure Egress Fees"
+    excerpt: "Bowing to pressure from AWS and Google, Microsoft announced that it would finally eliminate Azure egress fees, just like its competitors."
+    publishedDateTime: 2024-03-14T15:31:00Z
+    webUrl: "https://www.thurrott.com/cloud/299561/microsoft-finally-kills-azure-egress-fees"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 54
+    images:
+      - url: "https://thurrott-assets.nyc3.digitaloceanspaces.com/web/wp-content/uploads/sites/2/2023/08/2.jpg"
+        width: 500
+        height: 500
         isCached: true
   - title: "Microsoft Is Rolling Out a New AI-Powered Cybersecurity Tool for Businesses"
     excerpt: "Microsoft is beefing up its cybersecurity offerings with an AI-powered upgrade."

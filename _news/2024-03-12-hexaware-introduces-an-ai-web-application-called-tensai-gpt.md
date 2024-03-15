@@ -35,6 +35,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "MAXHUB to Build Advanced AI Solutions with Microsoft Azure Cloud to Drive Global Business Growth"
+    excerpt: "MAXHUB will harness the power of Azure to significantly amplify its international business growth and further AI technology advancements. Amidst expanding global business horizons, MAXHUB integrates with Microsoft Azure to empower itself by meeting the ..."
+    publishedDateTime: 2024-03-14T08:00:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/maxhub-to-build-advanced-ai-solutions-with-microsoft-azure-cloud-to-drive-global-business-growth-302089144.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 56
+    images:
+      - url: "https://mma.prnewswire.com/media/2362485/Microsoft_CVTE__MAXHUB_s_parent_company__sign_agreement.jpg?p=facebook"
+        width: 1986
+        height: 1040
+        isCached: true
   - title: "US pushes to weaken international human rights treaty on use of AI software"
     excerpt: "The Council of Europe, of which the US is an observer, is drafting a treaty that will call on its member states to ensure that AI systems respect international obligations to protect human rights."
     publishedDateTime: 2024-03-12T17:44:00Z
@@ -51,15 +65,6 @@ related:
         width: 1199
         height: 615
         isCached: true
-  - title: "MAXHUB to Build Advanced AI Solutions with Microsoft Azure Cloud to Drive Global Business Growth"
-    excerpt: "MAXHUB, a leading provider of collaborative communication and interactive display solutions, proudly announces it will integrate Microsoft Azure technology. MAXHUB will harness the power of Azure to significantly amplify its international business growth and further AI technology advancements."
-    publishedDateTime: 2024-03-14T08:00:00Z
-    webUrl: "https://www.asiaone.com/business/maxhub-build-advanced-ai-solutions-microsoft-azure-cloud-drive-global-business-growth"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 36
   - title: "Hexaware Technologies Ltd.: Hexaware unveils tensai GPT, a secure AI web app using Microsoft Azure Open AI Service to advance internal innovation"
     excerpt: "Hexaware, a global IT services and digital solutions leader, announced the launch of tensai GPT, an AI web app, in collaboration with Microsoft. Using"
     publishedDateTime: 2024-03-12T09:44:00Z

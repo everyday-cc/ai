@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/37691418"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/37691418"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: -1
+published: false
 
 provider:
   name: Benzinga.com
@@ -27,29 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft and Oracle Expand Partnership to Satisfy Global Demand for Oracle Database@Azure"
-    excerpt: "Bringing Oracle Database@Azure to Europe will enable customers in the region to locally employ Oracle database services running on OCI hardware deployed in Azure datacenters fo"
-    publishedDateTime: 2024-03-14T15:20:00Z
-    webUrl: "https://www.datanami.com/this-just-in/microsoft-and-oracle-expand-partnership-to-satisfy-global-demand-for-oracle-databaseazure/"
+  - title: "After AWS and Google, Microsoft says it’s removing Azure ‘egress’ data transfer fees — but with caveats"
+    excerpt: "Microsoft will allow businesses to transfer data out of Azure with no \"egress fees\" attached, following similar moves by AWS and Google."
+    publishedDateTime: 2024-03-14T17:58:00Z
+    webUrl: "https://techcrunch.com/2024/03/14/after-aws-and-google-microsoft-says-its-removing-azure-egress-data-transfer-fees-but-with-caveats/"
+    ampWebUrl: "https://techcrunch.com/2024/03/14/after-aws-and-google-microsoft-says-its-removing-azure-egress-data-transfer-fees-but-with-caveats/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/14/after-aws-and-google-microsoft-says-its-removing-azure-egress-data-transfer-fees-but-with-caveats/amp/"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 44
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 105
     images:
-      - url: "https://www.oracle.com/oce/press/assets/CONTA0730D9126EA48A6A1AA7A16A3AE0CAA/native/"
-        width: 770
-        height: 404
+      - url: "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1242261825.jpg?resize=1200,805"
+        width: 1200
+        height: 805
         isCached: true
-  - title: "Microsoft Corp.; Oracle: Microsoft and Oracle expand partnership to satisfy global demand for Oracle Database@Azure"
-    excerpt: "Powerful cloud database service now in Germany and announcing five additional cloud regions for a total of 15 regions planned this year REDMOND, Wash., and AUSTIN, Texas, March 14, 2024"
-    publishedDateTime: 2024-03-14T08:19:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-03/61675355-microsoft-corp-oracle-microsoft-and-oracle-expand-partnership-to-satisfy-global-demand-for-oracle-database-a-azure-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 12
 
 secured: "FGMRx6fstA8xO5yOWLYpj3ajU8DxZplJiT1+7GUZ3iwm7pZuq6qrmiZ+4J1YnVHyw0vkYVcNKhZ3y39ehfNTaR+edMOcKBpGLiuhuisIKuMK/3+/dxDg/vhuHxSHOIz0z5W9PFqdmrBaV/4AFQvSG/8ax4fRmo3xn7W2q7UP2TUm57FQ7hKYdewYaSMRG0BpzQFyzS94d+u1oahz77Jv0W6xXLhW3eSGuI5lN8NMcaLvKFjY7ng0evW9FeeCZca+Sw+Gtp13ZKdgBnSMx0R7VPBZQ+2BfgOqIxkuq/J6Bq0a7yof6iTdSe78vjDGfcpcSTXHV1Bt0vL23wu2Zp5H+ALqRcM9aFxvPKYz2e+RDtk=;ufxGYlxgtHFpeGxz4Kf8yw=="
 ---

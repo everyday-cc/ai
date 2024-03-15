@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/tech/high-school-students-colorado-explore-l
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/high-school-students-colorado-explore-limits-artificial-intelligence-design-their-own-ai-models.amp"
 type: article
 quality: 88
-heat: 98
+heat: 99
 published: true
 
 provider:

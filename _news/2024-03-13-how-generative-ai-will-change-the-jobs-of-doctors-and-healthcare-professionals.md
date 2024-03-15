@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/03/13/how-generative-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/03/13/how-generative-ai-will-change-the-jobs-of-doctors-and-healthcare-professionals/amp/"
 type: article
 quality: 100
-heat: 240
+heat: 250
 published: true
 
 provider:
@@ -224,6 +224,15 @@ related:
       name: Fierce Healthcare
       domain: fiercehealthcare.com
     quality: 28
+  - title: "How some retail auto tech companies are addressing generative AI"
+    excerpt: "Insight Tekion announced in September it would start using its AI tool, which also incorporates machine learning and natural language processing. The first generative AI-related feature is called Smart Communication, a tool within Tekion's Automotive ..."
+    publishedDateTime: 2024-03-14T16:00:00Z
+    webUrl: "https://www.autonews.com/retail/how-retail-auto-tech-vendors-are-testing-generative-ai"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 19
 
 secured: "MEYN9NGV2yURsIbjGTf0sOe9eA4nB2aUli7W/LFF47HqUXZ6Jz5uOmzgbF8hZWZWffjmMLwipQ9uRw5ae8xhmrwab2VcLQdsmr7iwfO5+ku2mlD6yYjuN+3ZwEJkEUhS7B3Uapt71alDN0pP0EsMg/i1p9pmP2WTR0HeQ4voIlGl8Z5OiTPLH6ZyBeXnGiGG0rg79noBld1iOR7mcrtghSn/mLbjXHJyDjJGge9OIJE9/tzZPQJi58GBm2rhVjPWesb5Jt+cWZwGlx/qSZsizVjKy8BYp/mkOXq2FmNUulSfevS/J656KyeVqkuWNLKv1BTTWt3hDfTmZc1n5B8dmRDROyQqVHj+22HfLwKez5tuu7QurZJXFIa9vRqo2Xel7lItaMFH2uhZrstw2FvFrMmynt+OKte9fIY/+Qc5QCMaI325kmNtWGgpQRy2EIxPd+txsskIBBeb7a1MBZpMO5K9tocBE98jWw+ObnntY7v+HUD+Oi04nHE77an+GlBTe7m/KOuh5SR5IO7KTdTrxQ==;KF9q5U822DSGJprYoHHGMw=="
 ---
