@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Meta Sues Former VP After Defection to AI Startup"
+    excerpt: "Meta has launched legal action against a former vice president after he allegedly stole employee and business contracts before resigning to work at an AI startup, according to reports."
+    publishedDateTime: 2024-03-14T09:29:00Z
+    webUrl: "https://www.infosecurity-magazine.com/news/meta-sues-former-vp-defection-ai/"
+    type: article
+    provider:
+      name: Infosecurity-magazine.com
+      domain: infosecurity-magazine.com
+    quality: 17
 
 secured: "Vx9VRBFnRYNajGkSsi23cYjWI1Z1KTlDxQyMaTHnrFxKmv1GsLD1f8pecOz0tETA9jOx0kB9Rf837demJqSste2UHj40qgUwPSLlib1MFWcR3/3MpRikvfzijB62UJjyTqsi60b6Ie2W9DFzGWycy/pphLQgw8A5lxqpJQgo1O4a5Usn14+FbDJ4i1oAo4BD0xU0zHMdopYKU5LYKqup7UARcIUnMRWmMqueNSR917hYMcxq6/u7FaXSiYeYO80fppu2OcjXMzVuKM4hO1CYYvstppTSbbdHm1k6K3YBEq80f3ebf7QI4ztNXzFeewJzBioVfEqzw/VVRfq1lv36xgIVdrYZ45C/heiX6X6lr1I=;DOD5gMkzR9kVKNX0fwaeuw=="
 ---

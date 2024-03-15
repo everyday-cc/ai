@@ -25,73 +25,77 @@ images:
     isCached: true
 
 related:
-  - title: "Samsung May Use SK Hynix’s Technology to Compete in AI Chip Race"
-    excerpt: "Samsung Electronics is set to adopt chip-making technology championed by its rival SK Hynix in a bid to compete in the flourishing market of high-end chips driving artificial intelligence (AI), Reuters news report said. The move comes as Samsung, the ..."
-    publishedDateTime: 2024-03-13T00:00:00Z
-    webUrl: "https://www.telecomlead.com/semiconductor/samsung-may-use-sk-hynixs-technology-to-compete-in-ai-chip-race-115331"
-    ampWebUrl: "https://www.telecomlead.com/semiconductor/samsung-may-use-sk-hynixs-technology-to-compete-in-ai-chip-race-115331?amp=1"
-    cdnAmpWebUrl: "https://www-telecomlead-com.cdn.ampproject.org/c/s/www.telecomlead.com/semiconductor/samsung-may-use-sk-hynixs-technology-to-compete-in-ai-chip-race-115331?amp=1"
+  - title: "Apple acquires AI startup specializing in overlooking manufacturing components"
+    excerpt: "Apple has added another AI startup to its acquisition list with Canada-based DarwinAI, which specializes in vision-based tech to observe components during manufacturing to improve efficiency, Bloomberg reported. While Apple or DarwinAI haven’t announced ..."
+    publishedDateTime: 2024-03-15T00:00:00Z
+    webUrl: "https://techcrunch.com/2024/03/14/apple-acquires-ai-startup-specializing-in-overlooking-manufacturing-components/"
+    ampWebUrl: "https://techcrunch.com/2024/03/14/apple-acquires-ai-startup-specializing-in-overlooking-manufacturing-components/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/14/apple-acquires-ai-startup-specializing-in-overlooking-manufacturing-components/amp/"
     type: article
     provider:
-      name: Telecom Lead
-      domain: telecomlead.com
-    quality: 74
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 85
     images:
-      - url: "https://www.telecomlead.com/wp-content/uploads/2023/04/Galaxy-S23-from-Samsung.jpg"
-        width: 640
-        height: 402
-        isCached: true
-  - title: "Samsung to use chip-making tech favoured by SK Hynix as AI race heats up, sources say"
-    excerpt: "Samsung has fallen behind in the AI chip race, while SK Hynix was the first vendor to produce highly sought-after HBM3 chips for Nvidia."
-    publishedDateTime: 2024-03-13T12:05:00Z
-    webUrl: "https://www.scmp.com/tech/tech-trends/article/3255175/samsung-use-chip-making-tech-favoured-sk-hynix-ai-race-heats-sources-say?module=latest&pgtype=homepage"
-    type: article
-    provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 57
-  - title: "Samsung to use chip making tech favoured by SK Hynix as AI chip race heats up"
-    excerpt: "One of the reasons Samsung has fallen behind is its decision to stick with chip making technology called non-conductive film (NCF) that causes some production issues, while Hynix switched to the mass reflow molded underfill (MR-MUF) method to address NCF's weakness,"
-    publishedDateTime: 2024-03-13T02:35:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/devices/samsung-to-use-chip-making-tech-favoured-by-sk-hynix-as-ai-chip-race-heats-up/108448535"
-    type: article
-    provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 51
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-108448535,imgsize-24818,width-1200,height=765,overlay-ettelecom/devices/samsung-to-use-chip-making-tech-favoured-by-sk-hynix-as-ai-chip-race-heats-up.jpg"
+      - url: "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1235254642.jpg?resize=1200,800"
         width: 1200
-        height: 765
+        height: 800
         isCached: true
-  - title: "Samsung to use chipmaking tech favoured by SK Hynix as AI chip race heats up: sources"
-    excerpt: "SAMSUNG Electronics plans to use a chipmaking technology championed by rival SK Hynix, five sources said, as the world’s top memory chipmaker seeks to catch up in the race to produce high-end chips used to power artificial intelligence (AI)."
-    publishedDateTime: 2024-03-12T23:21:00Z
-    webUrl: "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/samsung-use-chipmaking-tech-favoured-sk-hynix-ai-chip-race-heats-sources"
+  - title: "Apple acquires another AI startup focused on deep neural network generation"
+    excerpt: "DarwinAI, a company known for making deep neural networks smaller and more efficient, has been snapped up by Apple prior to the release AI features in iOS 18."
+    publishedDateTime: 2024-03-14T18:06:00Z
+    webUrl: "https://appleinsider.com/articles/24/03/14/apple-acquires-another-ai-startup-focused-on-deep-neural-network-generation"
+    ampWebUrl: "https://appleinsider.com/articles/24/03/14/apple-acquires-another-ai-startup-focused-on-deep-neural-network-generation/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/24/03/14/apple-acquires-another-ai-startup-focused-on-deep-neural-network-generation/amp/"
     type: article
     provider:
-      name: Business Times
-      domain: businesstimes.com.sg
-    quality: 47
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 72
     images:
-      - url: "https://static1.businesstimes.com.sg/s3fs-public/styles/article_metatag/public/articles/2024/03/13/2024-01-10t004416z913214778rc2me5afbx32rtrmadp3tech-ces.jpg"
-        width: 880
-        height: 587
+      - url: "https://photos5.appleinsider.com/gallery/43530-84632-000-lead-Siri-On-Device-xl.jpg"
+        width: 1280
+        height: 714
         isCached: true
-  - title: "Explore Galaxy AI on Try Galaxy App, Now Available to Samsung Galaxy Users"
-    excerpt: "The era of mobile AI has come, and early adopters are already riding the waves of the latest innovation. To fuel the conversation, Samsung has made s"
-    publishedDateTime: 2024-03-10T07:24:00Z
-    webUrl: "https://menafn.com/1107956899/Explore-Galaxy-AI-on-Try-Galaxy-App-Now-Available-to-Samsung-Galaxy-Users"
+  - title: "Apple scoops up artificial intelligence startup Darwin AI"
+    excerpt: "Apple has acquired Canadian artificial intelligence startup DarwinAI, “adding technology to its arsenal ahead of a big push into generative AI in 2024,” reports Bloomberg. The tech giant purchased the business earlier this year,"
+    publishedDateTime: 2024-03-15T00:19:00Z
+    webUrl: "https://www.mactech.com/2024/03/14/apple-scoops-up-artificial-intelligence-startup-darwin-ai/"
+    ampWebUrl: "https://www.mactech.com/2024/03/14/apple-scoops-up-artificial-intelligence-startup-darwin-ai/amp/"
+    cdnAmpWebUrl: "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2024/03/14/apple-scoops-up-artificial-intelligence-startup-darwin-ai/amp/"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
+      name: MacTech
+      domain: mactech.com
+    quality: 72
+    images:
+      - url: "https://www.mactech.com/wp-content/uploads/2024/03/Shopping-Cart-1024x999.jpg"
+        width: 1024
+        height: 999
+        isCached: true
+  - title: "Apple acquires DarwinAI startup ahead of iOS 18’s AI push"
+    excerpt: "Apple has acquired DarwinAI, an artificial intelligence startup focused on making AI systems smaller and faster, according to a"
+    publishedDateTime: 2024-03-14T17:26:00Z
+    webUrl: "https://9to5mac.com/2024/03/14/apple-acquires-darwinai-startup-ahead-of-ios-18s-ai-push/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
     quality: 37
     images:
-      - url: "https://menafn.com/updates/pr/2024-03/10/pr_9143_d963e8e0_image_story.jpg"
-        width: 1440
-        height: 1080
+      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/apple-park@0.5x.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
+  - title: "Apple acquires Canadian AI startup - Bloomberg"
+    excerpt: "According to a report by Bloomberg on Thursday, Canadian artificial intelligence startup DarwinAI has been acquired by Apple (NASDAQ: AAPL ). The tech giant is said to have purchased the company as part of its race to add technology to its arsenal ahead of a significant push into generative AI in 2024."
+    publishedDateTime: 2024-03-14T18:08:00Z
+    webUrl: "https://uk.investing.com/news/stock-market-news/apple-acquires-canadian-ai-startup--bloomberg-432SI-3383241"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 17
 
 secured: "lPpaU0++nFe+oFatcsiGnlMq9/Ah6aSVtIq8LvVStnc0EWvUnDwDWwnw72dJt2Lz4JcBZQHCz0liGQIxCKw8gLouuOW2V/DqRzCJgytJW/ia/+DO1mJI1WFBQyWUgmV6ozv8PxnvAwh7tpQfnOSkC/CU6GAVU6z+dD/6azEOqNCT9embEomSmnioT4xQ8xf5mPPMhcQAXRGjCCWdV5hqHJowmos+oA6Cf71r2P4NLjYXW2UMJhDE3slyozd0mJfGD5ByTVlmTqKQ7ufgrGjU38W0ZLraSX0ZHGVwT7k7UIRssTy/T7A/g0H3Jj1tWjFTT/vAV1KWcP1+arJ477Ns/1c+yXzcRC4RUX2IHlKFVN2UxDhFCk6wQpPvrpNWK8pVOinYhLX6pda8Vk9RQXz0bSP2eAn55SmNxjJJ7SdXhcqzYcNf0h79/oGrR5TP/HhoZn5kQ7zGndK3aTZKHW4aYHb8r96UdzOSYUs2Jt8DfCGOVhUowXoXiOWVWPxJAzNF1P2uBEgq/1tn/AS31LFblQ==;P+RwqBYZMkEMciitd0n3zQ=="
 ---

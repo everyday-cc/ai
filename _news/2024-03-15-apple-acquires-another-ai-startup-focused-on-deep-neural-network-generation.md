@@ -9,8 +9,8 @@ ampWebUrl: "https://appleinsider.com/articles/24/03/14/apple-acquires-another-ai
 cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/24/03/14/apple-acquires-another-ai-startup-focused-on-deep-neural-network-generation/amp/"
 type: article
 quality: 72
-heat: 122
-published: true
+heat: -1
+published: false
 
 provider:
   name: AppleInsider
@@ -27,67 +27,74 @@ images:
     isCached: true
 
 related:
-  - title: "Apple acquires AI startup to help create its own version of Gemini Nano"
-    excerpt: "Apple acquires AI startup DarwinAI in a move that's potentially aiming strengthen its on-device AI capabilities"
-    publishedDateTime: 2024-03-14T20:05:00Z
-    webUrl: "https://www.androidauthority.com/apple-acquires-darwin-ai-3425591/"
+  - title: "Apple acquires AI startup specializing in overlooking manufacturing components"
+    excerpt: "Apple has added another AI startup to its acquisition list with Canada-based DarwinAI, which specializes in vision-based tech to observe components during manufacturing to improve efficiency, Bloomberg reported. While Apple or DarwinAI haven’t announced ..."
+    publishedDateTime: 2024-03-15T00:00:00Z
+    webUrl: "https://techcrunch.com/2024/03/14/apple-acquires-ai-startup-specializing-in-overlooking-manufacturing-components/"
+    ampWebUrl: "https://techcrunch.com/2024/03/14/apple-acquires-ai-startup-specializing-in-overlooking-manufacturing-components/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/14/apple-acquires-ai-startup-specializing-in-overlooking-manufacturing-components/amp/"
     type: article
     provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 67
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 85
     images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Gemini-Image-Query-scaled.jpg"
-        width: 1920
-        height: 1081
+      - url: "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1235254642.jpg?resize=1200,800"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Akamai, Neural Magic team to bolster AI at the network edge"
-    excerpt: "The partnership will give joint customers a CPU platform on which to run computationally intensive AI workloads."
-    publishedDateTime: 2024-03-14T09:00:00Z
-    webUrl: "https://www.networkworld.com/article/1313602/akamai-neural-magic-team-to-bolster-ai-at-the-network-edge.html"
-    ampWebUrl: "https://www.networkworld.com/article/1313602/akamai-neural-magic-team-to-bolster-ai-at-the-network-edge.html/amp/"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1313602/akamai-neural-magic-team-to-bolster-ai-at-the-network-edge.html/amp/"
+  - title: "Apple scoops up artificial intelligence startup Darwin AI"
+    excerpt: "Apple has acquired Canadian artificial intelligence startup DarwinAI, “adding technology to its arsenal ahead of a big push into generative AI in 2024,” reports Bloomberg. The tech giant purchased the business earlier this year,"
+    publishedDateTime: 2024-03-15T00:19:00Z
+    webUrl: "https://www.mactech.com/2024/03/14/apple-scoops-up-artificial-intelligence-startup-darwin-ai/"
+    ampWebUrl: "https://www.mactech.com/2024/03/14/apple-scoops-up-artificial-intelligence-startup-darwin-ai/amp/"
+    cdnAmpWebUrl: "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2024/03/14/apple-scoops-up-artificial-intelligence-startup-darwin-ai/amp/"
     type: article
     provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 59
+      name: MacTech
+      domain: mactech.com
+    quality: 72
     images:
-      - url: "https://www.networkworld.com/wp-content/uploads/2024/03/shutterstock_1748437547-100937033-orig.jpg?quality=50&strip=all&w=1024"
+      - url: "https://www.mactech.com/wp-content/uploads/2024/03/Shopping-Cart-1024x999.jpg"
         width: 1024
-        height: 682
+        height: 999
         isCached: true
-  - title: "Akamai and Neural Magic team up to accelerate AI workloads on edge CPU servers"
-    excerpt: "Content delivery network and cloud computing company Akamai Technologies Inc. today announced it’s partnering with the artificial intelligence acceleration software firm NeuralMagic Inc. to bolster the AI processing capabilities of its cloud infrastructure platform."
-    publishedDateTime: 2024-03-12T10:30:00Z
-    webUrl: "https://siliconangle.com/2024/03/12/akamai-neural-magic-team-accelerate-powerful-ai-workloads-cpu-servers-edge/"
+  - title: "Samsung eyes opportunity in AI chip manufacturing market amid TSMC dominance"
+    excerpt: "As companies strive to establish themselves in the AI era, the South Korean industry is monitoring whether Samsung Electronics can capitalize on the AI chip orders."
+    publishedDateTime: 2024-03-11T04:27:00Z
+    webUrl: "https://www.digitimes.com/news/a20240311PD201/samsung-ai-chip-manufacturing-tsmc.html"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
+      name: Digi Times
+      domain: digitimes.com
+    quality: 51
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/03/cloud-computing-electronic-chip-board-cloud-computer-is-system-transfer-data-information-upload-download-application-technology-transformation-concept.jpg"
-        width: 2000
-        height: 1259
+      - url: "https://img.digitimes.com/newsshow/20240311pd201_files/1_2b.jpg"
+        width: 1280
+        height: 853
         isCached: true
-  - title: "Akamai and Neural Magic Partner to Accelerate Deep Learning AI"
-    excerpt: "Akamai Technologies (NASDAQ: AKAM), the cloud company that powers and protects life online, and Neural Magic, a developer of software that accelerates artificial intelligence (AI) workloads, today announced a strategic partnership intended to supercharge deep learning capabilities on Akamai's distributed computing infrastructure."
-    publishedDateTime: 2024-03-12T11:51:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-akamai-neural-magic-partner-accelerate-deep-learning-ai-/2024/03/12/9976460.htm"
+  - title: "Apple acquires DarwinAI startup ahead of iOS 18’s AI push"
+    excerpt: "Apple has acquired DarwinAI, an artificial intelligence startup focused on making AI systems smaller and faster, according to a"
+    publishedDateTime: 2024-03-14T17:26:00Z
+    webUrl: "https://9to5mac.com/2024/03/14/apple-acquires-darwinai-startup-ahead-of-ios-18s-ai-push/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
-  - title: "Meta Sues Former VP After Defection to AI Startup"
-    excerpt: "Meta has launched legal action against a former vice president after he allegedly stole employee and business contracts before resigning to work at an AI startup, according to reports."
-    publishedDateTime: 2024-03-14T09:29:00Z
-    webUrl: "https://www.infosecurity-magazine.com/news/meta-sues-former-vp-defection-ai/"
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 37
+    images:
+      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/apple-park@0.5x.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Apple acquires Canadian AI startup - Bloomberg"
+    excerpt: "According to a report by Bloomberg on Thursday, Canadian artificial intelligence startup DarwinAI has been acquired by Apple (NASDAQ: AAPL ). The tech giant is said to have purchased the company as part of its race to add technology to its arsenal ahead of a significant push into generative AI in 2024."
+    publishedDateTime: 2024-03-14T18:08:00Z
+    webUrl: "https://uk.investing.com/news/stock-market-news/apple-acquires-canadian-ai-startup--bloomberg-432SI-3383241"
     type: article
     provider:
-      name: Infosecurity-magazine.com
-      domain: infosecurity-magazine.com
+      name: Investing
+      domain: investing.com
     quality: 17
 
 secured: "Ch74oXdNHCqC1niaOkCNwxGdwAy/utE6Y0MrfTgyJ/NjmtZMOa/iw0CSp6sJ7Qojg7zKTltJsW1j5YRVnJ7vKAiyCOfWcg1oHTe2gtBMQttOJ2UexRsr3sfEyVSq5y9DiS8RSGht7lCGnrl2z14H98Bo3f85Y+cc5cWvjUEJn46538hvLJoZERdlLGzUIJifp3BYQSCgmMd4IKbh9Zpi8TLEKtBnFwL1vHSGYWkfc1UJCEkz4E5eea6rNE6C5jXIRWO0UTRZh5c45Rdu140TMwr0CUqFKa9jE95expOQbca2rNZTo6OsJies5z+32pc9B9bZCRXzlZTFJjgZHaTSvfM6a/q8fwXg/jWimcWU2HmH+6AT9mZYB8vCyidIJ4NAYfgg8HUdEEttoTUnLzjGP2hgA6Z1wsOmKyFJ3l6VWehgArXBAiAawnI8RH7IL6Z5Heeb0jty0KpkZFQsnDDj/Fk795YqtXxTLkzm1p+vGB9LtoGqpUIph4Bkqwii4SUM11e+ILqo1lb/ZXiYs9KVIg==;0iwoISbKGMS5qu6ijH363g=="

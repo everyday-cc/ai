@@ -20,6 +20,19 @@ topics:
   - Machine Learning
   - AI
 
+related:
+  - title: "AI May Improve Dementia and Alzheimer's Drug Production"
+    excerpt: "A new study showed how AI machine learning can help improve enzyme design for the synthesis of galantamine. Galantamine is a drug that may help improve the cognitive ability of patients diagnosed with dementia. The study demonstrated the powerful potential of AI and directed evolution in medicine production."
+    publishedDateTime: 2024-03-15T00:24:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202403/ai-may-improve-dementia-and-alzheimers-drug-production"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202403/ai-may-improve-dementia-and-alzheimers-drug-production?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202403/ai-may-improve-dementia-and-alzheimers-drug-production?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 37
+
 secured: "2MZ3X6NIQy8+QAQfAzNUK0Gv1gnU3FDEkU2x4QiGeTIAZsf54oZ7uh5DJDgG0dm9rJomJyAGzNlZ243IoBYghXY7IjtbJ7/rRVxDd1FksU1sTDtDCL+zYkA6BmbPeuTHSs9uSXcinXNpJHv4SDe5xtM9wwLPsYVjmVnUKtOQcM7mDqztK7/PUhYFHp/knYVw6CYK/aZHIIfKbCiuJWyMofAWktYua/O6LeiCbz+3yDV3x4LDWs7M7eEU2zay+cW1QDM/kEAtuI1E6+0h/mieWqtXKeGBcWjWvuBaIyS4w27BdbuLs+SMLWYUxVrCMq5Y7PZuapZkV65NrZYTzkE6YklsUbhT6xjVeUUVMxCdpJzaGZui1/IFHVSwyjLxgkpeqCc2H/xhlQ4M8SrARmlEBEXYDyJ5YvDhxpVk91gkSd7FqDSpGGhER7GsEUBlQt1XPOx6hl+klf6N0N5HA1IQGGuZsZbfMimlh+gEhAwavzTnQ66/yEotLC1c4Uhf/azRbFzn8gjkqdUMiI0gjnYQUQ==;LIAtuDuAWZ81uQYJdA6z6Q=="
 ---
 

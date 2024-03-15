@@ -18,19 +18,37 @@ topics:
   - AI
 
 related:
-  - title: "Apple buys Canadian start-up DarwinAI after falling behind Microsoft, Google in generative AI"
-    excerpt: "One of DarwinAI’s core technologies is making artificial intelligence systems smaller and faster, which could help Apple run AI on devices."
-    publishedDateTime: 2024-03-15T02:45:00Z
-    webUrl: "https://www.scmp.com/tech/big-tech/article/3255458/apple-buys-canadian-start-darwinai-after-falling-behind-microsoft-google-generative-ai"
+  - title: "Apple acquires AI startup specializing in overlooking manufacturing components"
+    excerpt: "Apple has added another AI startup to its acquisition list with Canada-based DarwinAI, which specializes in vision-based tech to observe components during manufacturing to improve efficiency, Bloomberg reported. While Apple or DarwinAI haven’t announced ..."
+    publishedDateTime: 2024-03-15T00:00:00Z
+    webUrl: "https://techcrunch.com/2024/03/14/apple-acquires-ai-startup-specializing-in-overlooking-manufacturing-components/"
+    ampWebUrl: "https://techcrunch.com/2024/03/14/apple-acquires-ai-startup-specializing-in-overlooking-manufacturing-components/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/14/apple-acquires-ai-startup-specializing-in-overlooking-manufacturing-components/amp/"
     type: article
     provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 73
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 85
     images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/03/15/af39247b-8fc3-45fe-b9f9-1c4c764a402a_aaaec09d.jpg?itok=gjruiJkX&v=1710470604"
+      - url: "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1235254642.jpg?resize=1200,800"
         width: 1200
-        height: 630
+        height: 800
+        isCached: true
+  - title: "Apple acquires another AI startup focused on deep neural network generation"
+    excerpt: "DarwinAI, a company known for making deep neural networks smaller and more efficient, has been snapped up by Apple prior to the release AI features in iOS 18."
+    publishedDateTime: 2024-03-14T18:06:00Z
+    webUrl: "https://appleinsider.com/articles/24/03/14/apple-acquires-another-ai-startup-focused-on-deep-neural-network-generation"
+    ampWebUrl: "https://appleinsider.com/articles/24/03/14/apple-acquires-another-ai-startup-focused-on-deep-neural-network-generation/amp/"
+    cdnAmpWebUrl: "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/24/03/14/apple-acquires-another-ai-startup-focused-on-deep-neural-network-generation/amp/"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 72
+    images:
+      - url: "https://photos5.appleinsider.com/gallery/43530-84632-000-lead-Siri-On-Device-xl.jpg"
+        width: 1280
+        height: 714
         isCached: true
   - title: "Apple scoops up artificial intelligence startup Darwin AI"
     excerpt: "Apple has acquired Canadian artificial intelligence startup DarwinAI, “adding technology to its arsenal ahead of a big push into generative AI in 2024,” reports Bloomberg. The tech giant purchased the business earlier this year,"
@@ -48,49 +66,20 @@ related:
         width: 1024
         height: 999
         isCached: true
-  - title: "Apple buys Canadian AI startup DarwinAI"
-    excerpt: "The startup also has worked with companies like Lockheed Martin Corp. and Intel Corp., according to Communitech. The under-the-radar acquisition comes ahead of a big AI push for Apple this year. The company is adding features to its iOS 18 software that ..."
-    publishedDateTime: 2024-03-14T00:01:00Z
-    webUrl: "https://financialpost.com/technology/apple-buys-canadian-ai-startup-darwinai"
-    ampWebUrl: "https://financialpost.com/technology/apple-buys-canadian-ai-startup-darwinai/wcm/e42ab6bf-8972-4aa0-831f-4152c5009a09/amp/"
-    cdnAmpWebUrl: "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/technology/apple-buys-canadian-ai-startup-darwinai/wcm/e42ab6bf-8972-4aa0-831f-4152c5009a09/amp/"
+  - title: "Samsung eyes opportunity in AI chip manufacturing market amid TSMC dominance"
+    excerpt: "As companies strive to establish themselves in the AI era, the South Korean industry is monitoring whether Samsung Electronics can capitalize on the AI chip orders."
+    publishedDateTime: 2024-03-11T04:27:00Z
+    webUrl: "https://www.digitimes.com/news/a20240311PD201/samsung-ai-chip-manufacturing-tsmc.html"
     type: article
     provider:
-      name: Financial Post
-      domain: financialpost.com
-    quality: 57
+      name: Digi Times
+      domain: digitimes.com
+    quality: 51
     images:
-      - url: "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/03/no0314apple.jpg"
-        width: 1000
-        height: 750
+      - url: "https://img.digitimes.com/newsshow/20240311pd201_files/1_2b.jpg"
+        width: 1280
+        height: 853
         isCached: true
-  - title: "Better Artificial Intelligence (AI) Stock: Nvidia vs. Microsoft"
-    excerpt: "Nvidia and Microsoft are both promising plays on the AI market, but Nvidia's simpler business model, higher growth rates, and more reasonable valuations make it the better buy. Nvidia's investors should keep an eye on the competitive and regulatory headwinds, but it could be years before any of those challenges limit its growth."
-    publishedDateTime: 2024-03-10T13:59:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT-Q/pressreleases/24684851/better-artificial-intelligence-ai-stock-nvidia-vs-microsoft/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 49
-  - title: "Apple Buys Canadian AI Startup as It Races to Add Features"
-    excerpt: "Apple Inc. has acquired Canadian artificial intelligence startup DarwinAI, adding technology to its arsenal ahead of a big push into generative AI in 2024."
-    publishedDateTime: 2024-03-14T17:08:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2024-03-14/apple-aapl-buys-canadian-ai-startup-darwinai-as-part-of-race-to-add-features"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
-  - title: "Apple Buys Startup DarwinAI, Adds Staff to Its AI Division, Bloomberg Reports"
-    excerpt: "(Reuters) - Apple has bought Canadian artificial intelligence (AI) startup DarwinAI and added dozens of the company's staffers to its AI division, Bloomberg News reported on Thursday."
-    publishedDateTime: 2024-03-14T17:34:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2024-03-14/apple-buys-startup-darwinai-adds-staff-to-its-ai-division-bloomberg-reports"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 44
   - title: "Apple acquires DarwinAI startup ahead of iOS 18’s AI push"
     excerpt: "Apple has acquired DarwinAI, an artificial intelligence startup focused on making AI systems smaller and faster, according to a"
     publishedDateTime: 2024-03-14T17:26:00Z
@@ -105,15 +94,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Apple just bought a Canadian AI startup as it plans for iOS 18 and beyond"
-    excerpt: "Now, a new report suggests that Apple has taken a step further in its quest to do just that by buying a new company in the form of Canadian AI startup DarwinAI. Bloomberg's Mark Gurman reports that Apple actually bought the company earlier this year and ..."
-    publishedDateTime: 2024-03-14T18:45:00Z
-    webUrl: "https://www.tweaktown.com/news/96865/apple-just-bought-canadian-ai-startup-as-it-plans-for-ios-18-and-beyond/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 16
 
 secured: "L09/gG8rcdtzUMNWDqUkS3zoUcXZtsFQ8UF7p7HVJgRus4sHPWa32kE6VnMJzdM836aWuqxSYeZM5njemPBb31VeFl3jredbqXDXdiKr+14+aEvHGlprsEWanhCO5PV03SyO3N25eJiPm+glG+2rQr82cMD72dqbHN16D/FeNHV+lUlynDFX3nqIrP1wTO31HLq6yNGM/h86cN8LshKolTpo6GztwRS7tJaDA2392HMrrVYMF2wSmy43QFkM/TmvZW9Qkz/EidXgxCqbYEPYetZG0jo0Mka7DHtPzOJImeMRwTmA5tqRNrDFKZyWf4H4WyfElxrasqUEmvi/gfbywhFB3LEkLegeWGlt6399VBCD34NMN9r8UrDizN+kgLcQTkNNBK/67YMynKmfvnFSUwvDV7npcR4QBO9OrR/W6pK+10n6KOxp1zUQNirSP0fEky9ID4g40ZGn3Ew2hrqKOpqxeqssxHBkK2PoHQUnjESqEQ4Cje4EeOSZB2dzu5axZsSagskEQ1NXW470Su/Cug==;mGvQZSWgyYAHGZZeVmzvWg=="
 ---

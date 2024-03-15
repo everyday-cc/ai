@@ -50,20 +50,6 @@ related:
       name: scmp.com
       domain: scmp.com
     quality: 57
-  - title: "Samsung eyes opportunity in AI chip manufacturing market amid TSMC dominance"
-    excerpt: "As companies strive to establish themselves in the AI era, the South Korean industry is monitoring whether Samsung Electronics can capitalize on the AI chip orders."
-    publishedDateTime: 2024-03-11T04:27:00Z
-    webUrl: "https://www.digitimes.com/news/a20240311PD201/samsung-ai-chip-manufacturing-tsmc.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 51
-    images:
-      - url: "https://img.digitimes.com/newsshow/20240311pd201_files/1_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "Samsung to use chip making tech favoured by SK Hynix as AI chip race heats up"
     excerpt: "One of the reasons Samsung has fallen behind is its decision to stick with chip making technology called non-conductive film (NCF) that causes some production issues, while Hynix switched to the mass reflow molded underfill (MR-MUF) method to address NCF's weakness,"
     publishedDateTime: 2024-03-13T02:35:00Z

@@ -119,6 +119,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Google DeepMind trains AI to play No Man's Sky and other video games — meet your new copilot"
+    excerpt: "Google’s advanced artificial intelligence lab DeepMind has trained a new model capable of playing high-end games like No Man’s Sky, Valheim and even Goat Simulator without requiring special instructions. Named SIMA (Scalable Inscrutable Multiworld ..."
+    publishedDateTime: 2024-03-15T00:00:00Z
+    webUrl: "https://www.tomsguide.com/ai/google-gemini/google-deepmind-trains-ai-to-play-no-mans-sky-and-other-video-games-meet-your-new-teammate"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 43
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/T7phxdDnwyzBhJsvaMQVB9-1200-80.png"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "7YYQwr6pihWyvjNlP0x+SU+VUvfltEZZTMtqq1jXu+NZWnek/n2B9LWPTtyhYHR0iMqmn0ZHgnQf+itEPiKejZ9MOlR1oBu2MNBLHPT7dA6MLdGcwD8ZRAmQA2GEjAmLu+kZgl54oWQUMwtBIz9+alh1OXWhN7jK8EuZEjgs6/UCQF9PDfDGN0a73/rlnURzjqE3HWjfPP/u7dAi8P8jfVOBKIzwvhCtuCeOdMWrBE4gSwWC1FI4Rmgl0W4rGjz/7I9FBqNl3NIwbH47BL2lcE5iNKJdRdEebqxyXRy95F9jIG1PsP8QG1BUca3qXAGD36YL6c2lezGNZesVgcj2RO2Fy1hmFLmBlT1WzycqrfSZgjlU0nFNezyvL399qB9KlAuol/w8fZ7Rh8jtDx+0KcDrWxIba062FtSc9A2Qo5tXnUAQCfac+lIhcwAZqBIwmW4Br3hrqGyi9zMnEz+pogQCIyBVGePyxCkHFU4v9nRJirhAUnhY4eHT7KqzPmYSEDxjs+s+KCJe/UPFuWfmNg==;xKJM2aOb4QlaJXQIKp96qQ=="
 ---

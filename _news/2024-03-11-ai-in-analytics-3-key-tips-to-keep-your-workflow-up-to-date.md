@@ -67,6 +67,15 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "InfluxData Collaborating with AWS to Bring InfluxDB and Time Series Analytics to Developers Around the World"
+    excerpt: "InfluxDB open source now offered as a managed service for time series data powered by AWS, accessible within the AWS Management ConsoleSAN"
+    publishedDateTime: 2024-03-15T01:57:00Z
+    webUrl: "https://www.01net.it/influxdata-collaborating-with-aws-to-bring-influxdb-and-time-series-analytics-to-developers-around-the-world/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
+    quality: 0
 
 secured: "eHl288/nQJRN816CBBzH90pV9ek0jNJqh/MD233jpx//Tg8jKAbJQMxbQ0K8RZ9dH98gynCUQuYJ87duc/Ht0IMcE2F6CfCAAVWOql2oa9ZHAWP5aTbnAtHG+ou13sIKUb7TjwgNyaLpBqXQo5C0yjd5qY/JVJ90PTOiHCp3xvI8wMVgehN1J5t7PTz6kd3dQIN8KVMQ9sEXjdiqBK9uutAK6uAgjN3ViUdUXd0HuG/qgfvQ2fCYCZty7Oj4NaViFK5N7v2NWv1Sy+cOOywIjpNtF18SociuCyul+e6DNi+0IJ1xhmoXl5+Tt+ctrjSUSROI107K361VE+7WYlq9o5MLwUSWQESiTiLkyZ/CgpY=;u36w4GDBfK9f/SzMa9yyHA=="
 ---

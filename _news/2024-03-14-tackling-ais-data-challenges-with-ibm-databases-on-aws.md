@@ -70,7 +70,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 70
+    quality: 72
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2024/03/nuneybits_Vector_art_of_a_laptop_with_a_large_snowflake_on_the__2dc9489e-98be-4702-95a4-9231caa80f8b-transformed.webp?w=1200&strip=all"
         width: 1200

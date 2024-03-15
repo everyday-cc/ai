@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/03/14/zscaler-buys-avalor-to-bring-more-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/14/zscaler-buys-avalor-to-bring-more-ai-into-its-security-tools/amp/"
 type: article
 quality: 106
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
       name: Bloomberg L.P.
       domain: bloomberg.com
     quality: 64
+  - title: "Zscaler Acquires Cybersecurity Startup Avalor To Boost AI Data Capabilities"
+    excerpt: "Zscaler operates the world’s largest security cloud with the most relevant data to train security-specific large language models, and with the Avalor acquisition we can more effectively identify vulnerabilities,"
+    publishedDateTime: 2024-03-15T02:20:00Z
+    webUrl: "https://www.crn.com/news/security/2024/zscaler-acquires-cybersecurity-startup-avalor-to-boost-ai-data-capabilities"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 15
 
 secured: "5eHyplEXyMP0wvFP8rqEJLFdqjXcOK+AtzSjS2GBFHtW1pkvlqNbYwsedd0VcGIkgvSS96glNVa+VIsC6hjyigfhfggaw7BfHHDlBn7c9CQHR7Xa+rjrf3raOjmX5rS8kCtJmPbHVrLnEaO1YFOBGpO/EzFtCMXhm+IWfCWorNJaniBbuoCjTcM6euFq2ply+l2uagPvFq8jVO6pN6CWenTqGOceximuwRVw2bvWk6cWv/7S/0jViHJYJ2IuWfn4sHycudoKo8mepLuh/vVlBOV9XQfVSsmxE9WjXzwZ9YLMYPzW77nOPIfZn3HXiOQsuiDiiXOaagrds+MLGfAnOjB8IR0muxN/kKTTZmvqWZ8=;vrwcl7UoJcRo2OBU3NUwRg=="
 ---

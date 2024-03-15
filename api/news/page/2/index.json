@@ -2,6 +2,161 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-03-14-leadership-strategy-navigating-the-eu-ai-act.md",
+      "title": "Leadership Strategy Navigating The EU AI Act",
+      "excerpt": "This significant legislation necessitates a reevaluation of AI strategies and practices for business leaders around the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/paolacecchi-dimeglio/2024/03/14/leadership-strategy-navigating-the-eu-ai-act/",
+      "originalUrl": "https://www.forbes.com/sites/paolacecchi-dimeglio/2024/03/14/leadership-strategy-navigating-the-eu-ai-act/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65f2b3db6e27d1bb4cca7cbd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-14T08:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-14-how-work-devices-may-evolve-to-keep-up-in-the-ai-era.md",
+      "title": "How work devices may evolve to keep up in the AI era",
+      "excerpt": "Th neural processing unit may be a game changer, but we need the right balance in product design to deliver what consumers seek.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/how-work-devices-may-evolve-to-keep-up-in-the-ai-era/",
+      "originalUrl": "https://www.zdnet.com/article/how-work-devices-may-evolve-to-keep-up-in-the-ai-era/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/fly/bundles/zdnetcore/images/logos/zdnet-logo-yellow.png",
+          "width": 480,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-work-devices-may-evolve-to-keep-up-in-the-ai-era/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-work-devices-may-evolve-to-keep-up-in-the-ai-era/",
+      "publishedDateTime": "2024-03-14T08:02:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-14-databricks-invests-in-mistral-and-brings-its-ai-models-to-data-intelligence-platform.md",
+      "title": "Databricks invests in Mistral and brings its AI models to data intelligence platform",
+      "excerpt": "The AI Impact Tour – Boston We’re excited for the next stop ... Just a few weeks back, it secured a $16 million investment from Microsoft to add its models to the Azure cloud platform. The deal made Mistral only the second company after OpenAI to ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/databricks-invests-in-mistral-and-brings-its-ai-models-to-data-intelligence-platform/",
+      "originalUrl": "https://venturebeat.com/ai/databricks-invests-in-mistral-and-brings-its-ai-models-to-data-intelligence-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/03/robot_sitting_on_a_wall_of_bricks.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-14T07:22:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-14-anthropic-releases-claude-3-haiku-an-ai-model-built-for-speed-and-affordability.md",
       "title": "Anthropic releases Claude 3 Haiku, an AI model built for speed and affordability",
       "excerpt": "Anthropic launches Claude 3 Haiku, the fastest and most affordable AI model in its class, featuring advanced vision capabilities and enterprise-grade security for high-volume, latency-sensitive applications.",
@@ -1062,7 +1217,7 @@
       "originalUrl": "https://breakingdefense.com/2024/03/the-difference-between-artificial-intelligence-and-machine-learning-and-why-it-matters/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1093,153 +1248,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-accelerate-your-productivity-with-the-whisper-model-in-azure-ai-now-generally-available.md",
-      "title": "Accelerate your productivity with the Whisper model in Azure AI now generally available",
-      "excerpt": "Azure AI offers an industry-leading portfolio of AI services to help customers make sense of their voice data. Our speech-to-text service in particular offers a variety of differentiated features through Azure OpenAI Service and Azure AI Speech.\nThe post Accelerate your productivity with the Whisper",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/en-us/blog/accelerate-your-productivity-with-the-whisper-model-in-azure-ai-now-generally-available/",
-      "originalUrl": "https://azure.microsoft.com/en-us/blog/accelerate-your-productivity-with-the-whisper-model-in-azure-ai-now-generally-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/03/MSFT_Azure_MAR12_324992_Blog_BlogHeader_240312_V1.png",
-          "width": 1260,
-          "height": 708,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-13T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-zendesk-adds-flexible-ai-agent-capabilities-with-ultimate-acquisition.md",
-      "title": "Zendesk adds flexible AI agent capabilities with Ultimate acquisition",
-      "excerpt": "On Wednesday, the company announced it intends to acquire Ultimate, a German customer automation startup. The companies did not share the purchase price. The idea of an AI agent has come to the forefront recently as companies look to build bots that do ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/03/13/zendesk-adds-flexible-ai-agent-capabilities-with-ultimate-acquisition/",
-      "originalUrl": "https://techcrunch.com/2024/03/13/zendesk-adds-flexible-ai-agent-capabilities-with-ultimate-acquisition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1173671080.jpg?resize=1200,1148",
-          "width": 1200,
-          "height": 1148,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/03/13/zendesk-adds-flexible-ai-agent-capabilities-with-ultimate-acquisition/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/13/zendesk-adds-flexible-ai-agent-capabilities-with-ultimate-acquisition/amp/",
-      "publishedDateTime": "2024-03-13T15:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-guest-column-generative-ai-can-be-tipping-point-for-shift-to-delivery-of-healthcare-at-home.md",
-      "title": "Guest column: Generative AI can be tipping point for shift to delivery of healthcare at home",
-      "excerpt": "The future is one where care comes to you, rather than the other way around. Driving to a big, concrete “hospital” to get your healthcare is going to become as old-fashioned as driving to a big concrete “mall” to buy your books,",
-      "sourceUrl": null,
-      "webUrl": "https://wraltechwire.com/2024/03/13/guest-column-generative-ai-can-be-tipping-point-for-shift-to-delivery-of-healthcare-at-home/",
-      "originalUrl": "https://wraltechwire.com/2024/03/13/guest-column-generative-ai-can-be-tipping-point-for-shift-to-delivery-of-healthcare-at-home/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wraltechwire.com/wp-content/uploads/2024/03/Picture10-e1710341352127.jpg",
-          "width": 703,
-          "height": 396,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://wraltechwire.com/2024/03/13/guest-column-generative-ai-can-be-tipping-point-for-shift-to-delivery-of-healthcare-at-home/?amp=1",
-      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2024/03/13/guest-column-generative-ai-can-be-tipping-point-for-shift-to-delivery-of-healthcare-at-home/?amp=1",
-      "publishedDateTime": "2024-03-13T14:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL TechWire",
-        "domain": "wraltechwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

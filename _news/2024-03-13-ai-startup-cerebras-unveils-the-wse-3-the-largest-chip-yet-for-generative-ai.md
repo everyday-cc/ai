@@ -1,10 +1,10 @@
 ---
 category: news
 title: "AI startup Cerebras unveils the WSE-3, the largest chip yet for generative AI"
-excerpt: "Also: AI pioneer Cerebras is having 'a monster year' in hybrid AI ... The Cerebras machine is easier to program than a GPU, Feldman argued. In order to train the 175-billion parameter GPT-3, a GPU would require 20,507 lines of combined Python, C/C++ ..."
-publishedDateTime: 2024-03-13T14:00:00Z
-originalUrl: "https://www.zdnet.com/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/"
-webUrl: "https://www.zdnet.com/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/"
+excerpt: "The chip, the size of a single semiconductor wafer, has doubled performance to handle large language models in the tens of trillions of parameters."
+publishedDateTime: 2024-03-13T13:00:00Z
+originalUrl: "https://www.zdnet.com/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/?ref=upstract.com"
+webUrl: "https://www.zdnet.com/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/?ref=upstract.com"
 ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/"
 type: article
@@ -21,13 +21,13 @@ provider:
       height: 50
 
 topics:
-  - AI Hardware
   - AI
+  - AI Hardware
 
 images:
-  - url: "https://www.zdnet.com/a/fly/bundles/zdnetcore/images/logos/zdnet-logo-yellow.png"
-    width: 480
-    height: 480
+  - url: "https://www.zdnet.com/a/img/resize/ae31154ea474b18f8cee28ac96cedae0c8b190c1/2024/03/13/0036db94-4241-4f06-a8eb-1eef2c4c37be/cerebras-2024-wse-3-3.png?auto=webp&fit=crop&height=675&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -117,6 +117,6 @@ related:
         height: 835
         isCached: true
 
-secured: "pNrmgb2uKXRlwMFkQ7dPBSolCKV76ozuq2msRdPgPnxlupWE8oJVkX6H4LY+7F6pFa854pHOjtLasokzPdf4cwDHsFxLd2vjXHe+i2YcJHYvAEcYZGc4O+k4ra+Tb3KpTFYVUq3h3IVRcez4musiCi+jhZll+TPcmv3z5dc5RfvMg03ondYhuNcwKG2jid6W+SxAhA0C9X+RwHntK0nqYeJTrFclhC37fQsGgDAwOOvTW8q0rvroVZrkJEShMrF1UHN4gJIt7gwW4vxC0JGE5CqwrcTHgVaDIZbaiB345mhqZL3klBtJkd4UDYuYE/n3OqjziNOcIhfEXjrKTvOxvy7jWo5hF638gZ3euwS8AUCbJi09UfQAhjPGXzuF3qM4n+1odeSEtYAG26881/E/PRkRvHT4nbwtctzOnrOLCVnxns8QIWQk7SGuEzZvOY14GG9rTdRhIw2/3mzEM8ZOOjPl6qjT4t//yFQm55bu1JnAxA+d0J14ICUK+XeH8nJAWW4JApAEZZ1YHeoxfL8JWw==;w0uYPhOhGXL7JB1BuZfBkQ=="
+secured: "Bm0gOogtjGqhpkiiOhTB2tUP+hx0jQ3MrTYflLxgVU1WahdLIHDM8TASxgmYfy8Qccmau4e3wQZX+jN7c0m70veWin750nwVnbCC+5mNnxRZ+RJfPZgj0zoVvWls6PjCpYMdBUIvkr3X17CSHDHnbrOdk0WjVhKYpzLdc5HcCRrR/fhzPrbmjZuF0Vg6eiRVO0r/Gu5L/E/QZLQmDCUj4gL/UdPctDid8tqiPuQw+u1R/LyQDrLoa7bqUqMkPlnDf9xRTXwOYeyKbcWVq+mfoOaT4BRu6FFO3VUDt2lorkZRUF5ovhv9vrT9Z7QHXkcyfys/QyI9BCkgwKeidNxGki0MEQgZqQKKGq8ZkBDF7dM=;OBn/JK/6JtnYK+P2ULFxLg=="
 ---
 

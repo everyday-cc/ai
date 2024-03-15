@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-15-apple-acquires-ai-startup-specializing-in-overlooking-manufacturing-components.md",
+      "title": "Apple acquires AI startup specializing in overlooking manufacturing components",
+      "excerpt": "Apple has added another AI startup to its acquisition list with Canada-based DarwinAI, which specializes in vision-based tech to observe components during manufacturing to improve efficiency, Bloomberg reported. While Apple or DarwinAI haven’t announced ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/03/14/apple-acquires-ai-startup-specializing-in-overlooking-manufacturing-components/",
+      "originalUrl": "https://techcrunch.com/2024/03/14/apple-acquires-ai-startup-specializing-in-overlooking-manufacturing-components/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1235254642.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/03/14/apple-acquires-ai-startup-specializing-in-overlooking-manufacturing-components/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/14/apple-acquires-ai-startup-specializing-in-overlooking-manufacturing-components/amp/",
+      "publishedDateTime": "2024-03-15T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-15-zscaler-buys-avalor-to-bring-more-ai-into-its-security-tools.md",
       "title": "Zscaler buys Avalor to bring more AI into its security tools",
       "excerpt": "Zscaler, a cloud security company with headquarters in San Jose, California, has acquired cybersecurity startup Avalor 26 months after its ... security policy generation and more. “AI is only as good as the underlying data, and many solutions lack ...",
@@ -10,7 +62,7 @@
       "originalUrl": "https://techcrunch.com/2024/03/14/zscaler-buys-avalor-to-bring-more-ai-into-its-security-tools/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -137,6 +189,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-14-roomba-i5-review-this-robot-vacuum-is-certainly-more-useful-than-most-pets.md",
+      "title": "Roomba i5+ review: this robot vacuum is certainly more useful than most pets",
+      "excerpt": "I put this big-name robot vacuum to the test: read my Roomba i5+ review to ... albeit nowhere near as much as it does without mapping. To be honest, I didn't mind this at all; the Roomba's clumsiness is oddly endearing, like when you see a dog trying ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thesun.co.uk/shopping/product-reviews/26452759/roomba-i5-robot-vacuum-review/",
+      "originalUrl": "https://www.thesun.co.uk/shopping/product-reviews/26452759/roomba-i5-robot-vacuum-review/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thesun.co.uk/wp-content/uploads/2024/03/WhatsApp-Image-2024-03-14-at-15.05.16-2-1.jpeg?strip=all&quality=100&w=1600&h=1080&crop=1",
+          "width": 1600,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.thesun.co.uk/shopping/product-reviews/26452759/roomba-i5-robot-vacuum-review/amp/",
+      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/shopping/product-reviews/26452759/roomba-i5-robot-vacuum-review/amp/",
+      "publishedDateTime": "2024-03-14T16:22:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sun",
+        "domain": "thesun.co.uk",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1319,92 +1414,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-robot-boats-the-remote-controlled-vessels-on-our-seas.md",
-      "title": "Robot boats: The remote-controlled vessels on our seas",
-      "excerpt": "Increasingly, they're dependent on the control of people who can be sitting hundreds of miles away, sending commands via satellite links. We followed a robot boat as it motored out of Plymouth ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/av/science-environment-68486465",
-      "originalUrl": "https://www.bbc.co.uk/news/av/science-environment-68486465",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/14D7E/production/_132847358_p0hgv3r5.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-07T00:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-robot-ships-huge-remote-controlled-vessels-are-setting-sail.md",
-      "title": "Robot ships: Huge remote controlled vessels are setting sail",
-      "excerpt": "Marian Meza Chavira is learning to pilot underwater robots from a remote control centre Entering the ... Many questions spring to mind about remotely operated and autonomous shipping, just as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/science-environment-68486462",
-      "originalUrl": "https://www.bbc.co.uk/news/science-environment-68486462",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/C8AE/production/_132847315_oishipdrone2.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/science-environment-68486462",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/science-environment-68486462",
-      "publishedDateTime": "2024-03-07T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

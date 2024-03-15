@@ -6,8 +6,8 @@ publishedDateTime: 2024-03-14T00:24:00Z
 originalUrl: "https://bgr.com/tech/vision-pros-vlc-app-will-have-a-home-on-my-spatial-computer-if-it-gets-released/"
 webUrl: "https://bgr.com/tech/vision-pros-vlc-app-will-have-a-home-on-my-spatial-computer-if-it-gets-released/"
 type: article
-quality: 0
-heat: 0
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "H6iMSky86VK4iNGXQ3md5nTta7pu/soAtSr46oIqfaU0R5GudGgUHyr02CXfZeySJ5ZmIb39mFX4rcEoqZNC7uUiqLs4tC5lEEZc3Hr4CnVFSYt9guZbpo1vnsnS8Uo3AbeSneUSkAkzJKsjHs7Wy4udMiiQv2k8x+FuvjihG6K01n+u+LVEgVTVPBohjwLpPaNj3mq+4hvt1U1AQUTCCg/h6LHbkKNBGawSQlYHkOUJapVA5e1s2FO/kZvbCUHO2mKY7aVUcZHIR1VVk5ITTEwVFTLIMyq8vC7NjHWuDfGKfKDkwMrfsyuh1G6C/v0mrmgTJ9xBZbkPE5Bs3/uQp3I9ytcIqKxS4IPG66wnkHM=;qEpzsbw4yy9bEhga1NUWfw=="
+images:
+  - url: "https://bgr.com/wp-content/uploads/2024/02/3J4A0683.jpg?quality=82&strip=all"
+    width: 2800
+    height: 1575
+    isCached: true
+
+secured: "ZXWavfDeoFxcwRuX4OvV1zoitZqHP7Kxj8O2Zm2TTbOXtpyC1JNf44E15CDDVl96eIo2JAA58cFd/bP3VUAdJEZks3eXo4aEeJ1oJf9AA7x20VYdr5RtIJWCIMd1cF1ciuekWyA7D88JfwN3XgSdH/4t3cYf4Qaa97nLGXFpCMu3wst7iaLZn2ggspTlraQW/7dQgnumvr5Xf9bzVmFhm47LmWEoZS5KFq7flbXPfkTimrEMROi53vBxAZrxVb+m06KUnxg6lV7mJAQJLxr8rd9GR3HB9QP2f2jc5U44Pxvo9e3jq0aUtcN2jK3zvyzKOenvY5wfLgjzyIiJquyy8Zy7GqvQ9ZqxipLIpXerRB8=;DpeYPWUdBOzEGq5t0wms2Q=="
 ---
 

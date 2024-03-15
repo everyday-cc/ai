@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Zscaler Acquires Cybersecurity Startup Avalor To Boost AI Data Capabilities"
+    excerpt: "Zscaler operates the world’s largest security cloud with the most relevant data to train security-specific large language models, and with the Avalor acquisition we can more effectively identify vulnerabilities,"
+    publishedDateTime: 2024-03-15T02:20:00Z
+    webUrl: "https://www.crn.com/news/security/2024/zscaler-acquires-cybersecurity-startup-avalor-to-boost-ai-data-capabilities"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 15
 
 secured: "1JtlTN0MkNdEDZkMwGoVRqo4tnngy2bGk89r3o/+x9nRPzOGHgTwZY3Lumax2uToqk/qDgxT+b6pLK3hG4gZIzthOIhThUcymxTSfOP4ljDXv2/oiud9dMplyynthiInFk48Xib9x8IJwZFBv1m9Q4eHFMZzfr2UkjUpXWu9oBSRaWgktmEqW5zjYRCoacX6YGZAwN8eyFFxLh2rRKHungY7hWejT69XrGX6pAbdFuCPAATzRMJFxPo5qmlVg4wOpTp26fYHP1I4BxDlB7ochWjCESGZMhj2LSD/V3wQ4vn1pD2tnu5mcdnMRQ3oq59G3tdezdR5E0iTXiAPPipIwoPMlmEBS2k+DZtzrNt+M0+LM11Evq1UwyEUolSIEC99f8rYQc7Y0L9mpEjHdJRbgw+wrBuRGSgoVozlr0DZjqzVAkGJ+JBiT0R9MkHvetlyJ5ynmwlSP8sTylsw0nJnmdaQZSHD+2lukueDVx6/RSLYgZ1HEv4O/55L8QvNm/xGJ1AHGNljDRXHIStjiJGvSg==;C0pnjQXPm7mFmU3+aPz4aw=="
 ---

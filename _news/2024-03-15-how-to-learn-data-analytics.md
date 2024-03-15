@@ -7,7 +7,7 @@ originalUrl: "https://fortune.com/education/articles/how-to-learn-data-analytics
 webUrl: "https://fortune.com/education/articles/how-to-learn-data-analytics/"
 type: article
 quality: 54
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -71,6 +71,15 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "InfluxData Collaborating with AWS to Bring InfluxDB and Time Series Analytics to Developers Around the World"
+    excerpt: "InfluxDB open source now offered as a managed service for time series data powered by AWS, accessible within the AWS Management ConsoleSAN"
+    publishedDateTime: 2024-03-15T01:57:00Z
+    webUrl: "https://www.01net.it/influxdata-collaborating-with-aws-to-bring-influxdb-and-time-series-analytics-to-developers-around-the-world/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
+    quality: 0
 
 secured: "0R3f/uu89XttVgc0OX8UVA92JllFb8Osax2QSjZ2I/YN5QqBlbdiM4hdPWFhTdF1U8zyH01rV+hqxjuxMdgO1ysGpKi6WOPp2GXPaJ3mpoOyAMJg3HBAaRWGMmMNBf8f09MvTCxzLoWgzGl4qxYjS5Pm6l6G9gBxYEAqDGWIbYLR+jhTZjwwHdmcBckzX8j5TMED3/f1rtG4hYHXnebrgMMKHMr+gjNBh+/C+GTfSxXgIv3zLJZAfyE/D4+ELfqH7QbNhbkVFHohFj6D8dLBjvyjbqw5gIDe20R+wM9jROQNUZuozkiK1zynAfHiTKWPflV+lNlqawwjvL7mld90uBY+CJD6l24PUuMqUOkcprc=;EDW2N0Zle2wselZvcU18fQ=="
 ---

@@ -54,7 +54,7 @@
       "originalUrl": "https://www.scmp.com/tech/big-tech/article/3255458/apple-buys-canadian-start-darwinai-after-falling-behind-microsoft-google-generative-ai",
       "featuredContent": null,
       "highlight": null,
-      "heat": 153,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -149,6 +149,58 @@
       ]
     },
     {
+      "path": "_news/2024-03-15-apple-acquires-ai-startup-specializing-in-overlooking-manufacturing-components.md",
+      "title": "Apple acquires AI startup specializing in overlooking manufacturing components",
+      "excerpt": "Apple has added another AI startup to its acquisition list with Canada-based DarwinAI, which specializes in vision-based tech to observe components during manufacturing to improve efficiency, Bloomberg reported. While Apple or DarwinAI haven’t announced ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/03/14/apple-acquires-ai-startup-specializing-in-overlooking-manufacturing-components/",
+      "originalUrl": "https://techcrunch.com/2024/03/14/apple-acquires-ai-startup-specializing-in-overlooking-manufacturing-components/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1235254642.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/03/14/apple-acquires-ai-startup-specializing-in-overlooking-manufacturing-components/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/14/apple-acquires-ai-startup-specializing-in-overlooking-manufacturing-components/amp/",
+      "publishedDateTime": "2024-03-15T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-15-a-clip-thats-seemingly-of-the-ceo-behind-devin-the-first-ai-software-engineer-at-a-math-event-is-wowing-viewers.md",
       "title": "A clip that's seemingly of the CEO behind Devin, the 'first AI software engineer,' at a math event is wowing viewers",
       "excerpt": "Cognition's Scott Wu unveiled 'AI software engineer' Devin this week. Now, a 2010 clip that seems to show him winning a math quiz is wowing viewers.",
@@ -209,7 +261,7 @@
       "originalUrl": "https://fortune.com/education/articles/how-to-learn-data-analytics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -313,7 +365,7 @@
       "originalUrl": "https://techcrunch.com/2024/03/14/zscaler-buys-avalor-to-bring-more-ai-into-its-security-tools/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -397,6 +449,57 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-15-apple-acquires-ai-startup-to-help-create-its-own-version-of-gemini-nano.md",
+      "title": "Apple acquires AI startup to help create its own version of Gemini Nano",
+      "excerpt": "Apple acquires AI startup DarwinAI in a move that's potentially aiming strengthen its on-device AI capabilities",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/apple-acquires-darwin-ai-3425591/",
+      "originalUrl": "https://www.androidauthority.com/apple-acquires-darwin-ai-3425591/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Gemini-Image-Query-scaled.jpg",
+          "width": 1920,
+          "height": 1081,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-14T20:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -505,49 +608,6 @@
       ]
     },
     {
-      "path": "_news/2024-03-15-apple-acquires-another-ai-startup-focused-on-deep-neural-network-generation.md",
-      "title": "Apple acquires another AI startup focused on deep neural network generation",
-      "excerpt": "DarwinAI, a company known for making deep neural networks smaller and more efficient, has been snapped up by Apple prior to the release AI features in iOS 18.",
-      "sourceUrl": null,
-      "webUrl": "https://appleinsider.com/articles/24/03/14/apple-acquires-another-ai-startup-focused-on-deep-neural-network-generation",
-      "originalUrl": "https://appleinsider.com/articles/24/03/14/apple-acquires-another-ai-startup-focused-on-deep-neural-network-generation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://photos5.appleinsider.com/gallery/43530-84632-000-lead-Siri-On-Device-xl.jpg",
-          "width": 1280,
-          "height": 714,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://appleinsider.com/articles/24/03/14/apple-acquires-another-ai-startup-focused-on-deep-neural-network-generation/amp/",
-      "cdnAmpWebUrl": "https://appleinsider-com.cdn.ampproject.org/c/s/appleinsider.com/articles/24/03/14/apple-acquires-another-ai-startup-focused-on-deep-neural-network-generation/amp/",
-      "publishedDateTime": "2024-03-14T18:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AppleInsider",
-        "domain": "appleinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-03-15-after-aws-and-google-microsoft-says-its-removing-azure-egress-data-transfer-fees-but-with-caveats.md",
       "title": "After AWS and Google, Microsoft says it’s removing Azure ‘egress’ data transfer fees — but with caveats",
       "excerpt": "Microsoft will allow businesses to transfer data out of Azure with no \"egress fees\" attached, following similar moves by AWS and Google.",
@@ -640,6 +700,49 @@
       ],
       "topics": [
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-14-roomba-i5-review-this-robot-vacuum-is-certainly-more-useful-than-most-pets.md",
+      "title": "Roomba i5+ review: this robot vacuum is certainly more useful than most pets",
+      "excerpt": "I put this big-name robot vacuum to the test: read my Roomba i5+ review to ... albeit nowhere near as much as it does without mapping. To be honest, I didn't mind this at all; the Roomba's clumsiness is oddly endearing, like when you see a dog trying ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thesun.co.uk/shopping/product-reviews/26452759/roomba-i5-robot-vacuum-review/",
+      "originalUrl": "https://www.thesun.co.uk/shopping/product-reviews/26452759/roomba-i5-robot-vacuum-review/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thesun.co.uk/wp-content/uploads/2024/03/WhatsApp-Image-2024-03-14-at-15.05.16-2-1.jpeg?strip=all&quality=100&w=1600&h=1080&crop=1",
+          "width": 1600,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.thesun.co.uk/shopping/product-reviews/26452759/roomba-i5-robot-vacuum-review/amp/",
+      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/shopping/product-reviews/26452759/roomba-i5-robot-vacuum-review/amp/",
+      "publishedDateTime": "2024-03-14T16:22:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sun",
+        "domain": "thesun.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -1032,6 +1135,49 @@
       ]
     },
     {
+      "path": "_news/2024-03-14-akamai-neural-magic-team-to-bolster-ai-at-the-network-edge.md",
+      "title": "Akamai, Neural Magic team to bolster AI at the network edge",
+      "excerpt": "The partnership will give joint customers a CPU platform on which to run computationally intensive AI workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.networkworld.com/article/1313602/akamai-neural-magic-team-to-bolster-ai-at-the-network-edge.html",
+      "originalUrl": "https://www.networkworld.com/article/1313602/akamai-neural-magic-team-to-bolster-ai-at-the-network-edge.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.networkworld.com/wp-content/uploads/2024/03/shutterstock_1748437547-100937033-orig.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.networkworld.com/article/1313602/akamai-neural-magic-team-to-bolster-ai-at-the-network-edge.html/amp/",
+      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1313602/akamai-neural-magic-team-to-bolster-ai-at-the-network-edge.html/amp/",
+      "publishedDateTime": "2024-03-14T09:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Network World",
+        "domain": "networkworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-14-googles-new-ai-can-play-3d-games-with-you-by-following-natural-language-instructions.md",
       "title": "Google's new AI can play 3D games with you by following natural-language instructions",
       "excerpt": "Google DeepMind's new AI takes things a step further by learning human-like gaming skills. Google's DeepMind research group unveiled a new AI program that is capable of learning how to complete tasks in a number of games. Called Scalable Instructable ...",
@@ -1080,161 +1226,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-14-leadership-strategy-navigating-the-eu-ai-act.md",
-      "title": "Leadership Strategy Navigating The EU AI Act",
-      "excerpt": "This significant legislation necessitates a reevaluation of AI strategies and practices for business leaders around the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/paolacecchi-dimeglio/2024/03/14/leadership-strategy-navigating-the-eu-ai-act/",
-      "originalUrl": "https://www.forbes.com/sites/paolacecchi-dimeglio/2024/03/14/leadership-strategy-navigating-the-eu-ai-act/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65f2b3db6e27d1bb4cca7cbd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-14T08:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-14-how-work-devices-may-evolve-to-keep-up-in-the-ai-era.md",
-      "title": "How work devices may evolve to keep up in the AI era",
-      "excerpt": "Th neural processing unit may be a game changer, but we need the right balance in product design to deliver what consumers seek.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/how-work-devices-may-evolve-to-keep-up-in-the-ai-era/",
-      "originalUrl": "https://www.zdnet.com/article/how-work-devices-may-evolve-to-keep-up-in-the-ai-era/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/fly/bundles/zdnetcore/images/logos/zdnet-logo-yellow.png",
-          "width": 480,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-work-devices-may-evolve-to-keep-up-in-the-ai-era/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-work-devices-may-evolve-to-keep-up-in-the-ai-era/",
-      "publishedDateTime": "2024-03-14T08:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-14-databricks-invests-in-mistral-and-brings-its-ai-models-to-data-intelligence-platform.md",
-      "title": "Databricks invests in Mistral and brings its AI models to data intelligence platform",
-      "excerpt": "The AI Impact Tour – Boston We’re excited for the next stop ... Just a few weeks back, it secured a $16 million investment from Microsoft to add its models to the Azure cloud platform. The deal made Mistral only the second company after OpenAI to ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/databricks-invests-in-mistral-and-brings-its-ai-models-to-data-intelligence-platform/",
-      "originalUrl": "https://venturebeat.com/ai/databricks-invests-in-mistral-and-brings-its-ai-models-to-data-intelligence-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/03/robot_sitting_on_a_wall_of_bricks.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-14T07:22:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

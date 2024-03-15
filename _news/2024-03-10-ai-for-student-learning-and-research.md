@@ -69,6 +69,15 @@ related:
         width: 611
         height: 552
         isCached: true
+  - title: "Akamai and Neural Magic Partner to Accelerate Deep Learning AI"
+    excerpt: "Akamai Technologies (NASDAQ: AKAM), the cloud company that powers and protects life online, and Neural Magic, a developer of software that accelerates artificial intelligence (AI) workloads, today announced a strategic partnership intended to supercharge deep learning capabilities on Akamai's distributed computing infrastructure."
+    publishedDateTime: 2024-03-12T11:51:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-akamai-neural-magic-partner-accelerate-deep-learning-ai-/2024/03/12/9976460.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
 
 secured: "NGCZSxrxOh5Q4SblLozHdR6ycvbIEPMWCuYKHM44IeVYbXENFTwvtl9KddQ8oIOieR/1syceU8pM+y9+c7+Cnjgm7UI7LoRcViFNbPvFsjUJIl14Lieb8tL3xQSdqgtyPYRJ8pvoLBNnvrQOHKzgOb9dIKXvSqUZkICbwsKO4DUEFq8L1Mw5bWmt0ICFYhJT2bH/2mkxpZkEzdJ3NAS0XS+YULYWiNhrk0qvSjsNb6P17ukTWwSozdU+V4hBYSWU/eg6HCOTdBYPIRwSSAl95rwhofeQgsjmXNvgsyCjuE8XEJb63eYq57JNzBrjFdBCO+px76ist0mgXRXkflPw03+TAI1Mqdcv0C9GgXAz0v4=;4bxWE18fESNyjA0IDHRKmg=="
 ---

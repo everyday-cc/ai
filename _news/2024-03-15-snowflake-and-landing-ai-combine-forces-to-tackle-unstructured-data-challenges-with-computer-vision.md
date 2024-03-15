@@ -6,7 +6,7 @@ publishedDateTime: 2024-03-14T21:17:00Z
 originalUrl: "https://venturebeat.com/ai/snowflake-and-landing-ai-combine-forces-to-tackle-unstructured-data-challenges-with-computer-vision/"
 webUrl: "https://venturebeat.com/ai/snowflake-and-landing-ai-combine-forces-to-tackle-unstructured-data-challenges-with-computer-vision/"
 type: article
-quality: 70
+quality: 72
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Meta AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2024/03/nuneybits_Vector_art_of_a_laptop_with_a_large_snowflake_on_the__2dc9489e-98be-4702-95a4-9231caa80f8b-transformed.webp?w=1200&strip=all"

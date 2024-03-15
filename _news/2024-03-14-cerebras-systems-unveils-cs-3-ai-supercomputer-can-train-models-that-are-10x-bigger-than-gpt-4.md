@@ -26,9 +26,9 @@ images:
 
 related:
   - title: "AI startup Cerebras unveils the WSE-3, the largest chip yet for generative AI"
-    excerpt: "Also: AI pioneer Cerebras is having 'a monster year' in hybrid AI ... The Cerebras machine is easier to program than a GPU, Feldman argued. In order to train the 175-billion parameter GPT-3, a GPU would require 20,507 lines of combined Python, C/C++ ..."
-    publishedDateTime: 2024-03-13T14:00:00Z
-    webUrl: "https://www.zdnet.com/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/"
+    excerpt: "The chip, the size of a single semiconductor wafer, has doubled performance to handle large language models in the tens of trillions of parameters."
+    publishedDateTime: 2024-03-13T13:00:00Z
+    webUrl: "https://www.zdnet.com/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/?ref=upstract.com"
     ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/"
     cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/"
     type: article
@@ -37,9 +37,9 @@ related:
       domain: zdnet.com
     quality: 101
     images:
-      - url: "https://www.zdnet.com/a/fly/bundles/zdnetcore/images/logos/zdnet-logo-yellow.png"
-        width: 480
-        height: 480
+      - url: "https://www.zdnet.com/a/img/resize/ae31154ea474b18f8cee28ac96cedae0c8b190c1/2024/03/13/0036db94-4241-4f06-a8eb-1eef2c4c37be/cerebras-2024-wse-3-3.png?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Cerebras Partners With Qualcomm, Launches 3rd-Gen Wafer-Scale AI"
     excerpt: "The newest system from Cerebras can handle multi-trillion parameter generative AI problems at twice the performance, while partnering with Qualcomm will help them cut"

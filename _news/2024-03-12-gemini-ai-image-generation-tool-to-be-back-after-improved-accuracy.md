@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thehansindia.com/amp/technology/tech-news/gemini-ai-imag
 cdnAmpWebUrl: "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/gemini-ai-image-generation-tool-to-be-back-after-improved-accuracy-864311"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Hans India
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Apple acquires AI startup to help create its own version of Gemini Nano"
+    excerpt: "Apple acquires AI startup DarwinAI in a move that's potentially aiming strengthen its on-device AI capabilities"
+    publishedDateTime: 2024-03-14T20:05:00Z
+    webUrl: "https://www.androidauthority.com/apple-acquires-darwin-ai-3425591/"
+    type: article
+    provider:
+      name: Android Authority
+      domain: androidauthority.com
+    quality: 67
+    images:
+      - url: "https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Gemini-Image-Query-scaled.jpg"
+        width: 1920
+        height: 1081
+        isCached: true
   - title: "Google aims to relaunch Gemini AI image generation tool after addressing accuracy concerns"
     excerpt: "This move comes as Google DeepMind CEO Demis Hassabis announced plans to reintroduce the Gemini AI image generation tool after addressing the inaccuracies that led to its temporary suspension"
     publishedDateTime: 2024-03-12T10:43:00Z
@@ -43,15 +57,6 @@ related:
         width: 600
         height: 314
         isCached: true
-  - title: "Opinion: Gemini, Google’s latest AI tool, had a troubling talk with my ‘son’"
-    excerpt: "Anti-White bias is hardly the only problem despite the company promise of “the most comprehensive safety evaluations”"
-    publishedDateTime: 2024-03-12T12:30:00Z
-    webUrl: "https://www.eastbaytimes.com/2024/03/12/opinion-gemini-googles-latest-ai-tool-had-a-troubling-talk-with-my-son/"
-    type: article
-    provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 16
 
 secured: "6WCTHNDoeINwMzxm5OtxXJzMWarjEh8xzdcJ4r8RSGK6F27An5S0HSBatp63pBWb8imQxrPtc32XrojxPhIFI+brYPRGplDKTNZDiLlanGJwX3hEGXo+ovO1t/RuXH0/QqW78VVh7O9DgyQRUD7pJ7uQM42Nr5yQMQkdEbrp2CcEqdTYczb8qwWcPJKVu62kaObRgzRrQjkUalgNq79siqkHvo0bvLuxNb0rZLRyuytdior4OUyPLT453xpgukKMYG/CBYplMTb3P3rYsGWldBSJvqIeJiZ4KJtCmLrf7daCmLN0uFMEbge5XE+E2c3DthIZ+aR6qQMK05GVFF+rSi3KMZ1OOluFhat9Sft7Cprjo36vXSilA3r6w0aQ2/xX0kGE6ofh7YHNUIkKzGlrjufU2I+GSMkD+nfObtgNIYxEsL9tSs6oY03lU/+JLfc3t7ub00sjy+3K8aLTjzWsy/JnOi/dMc50uQJiZI85anpbh+PgKrc1k+KEJi75j/ObmmrYYa7qYi5IwmhRJzWw5w==;njXqZmj/avCyKnGl55HIiA=="
 ---

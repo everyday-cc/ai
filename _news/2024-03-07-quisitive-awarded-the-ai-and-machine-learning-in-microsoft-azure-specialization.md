@@ -1,19 +1,17 @@
 ---
 category: news
 title: "Quisitive Awarded the AI and Machine Learning in Microsoft Azure Specialization"
-excerpt: "Quisitive Technology Solutions Inc. (“Quisitive” or the “Company”) (TSXV: QUIS, OTCQX: QUISF), a premier Microsoft solutions provider, announced it has earned the prestigious AI and Machine Learning in Microsoft Azure Specialization."
-publishedDateTime: 2024-03-07T14:30:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization-1033142131"
-webUrl: "https://markets.businessinsider.com/news/stocks/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization-1033142131"
+excerpt: "The AI and Machine Learning specialization recognizes ... use of the Company’s services for improper or illegal purposes; global economic and financial market conditions; uninsurable risks; changes in project parameters as plans continue to be evaluated ..."
+publishedDateTime: 2024-03-07T00:00:00Z
+originalUrl: "https://financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization"
+webUrl: "https://financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization"
+ampWebUrl: "https://financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization/wcm/ba3e0bf0-f7ce-4c4a-9213-b5d8012c4cd3/amp/"
+cdnAmpWebUrl: "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization/wcm/ba3e0bf0-f7ce-4c4a-9213-b5d8012c4cd3/amp/"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Financial Post
+  domain: financialpost.com
 
 topics:
   - AI in Finance
@@ -21,6 +19,12 @@ topics:
   - Machine Learning
   - Microsoft AI
 
-secured: "0sFtn3P4Eck3srg6r8QOeG/WqPNE2RR+/clf0xko1cYLsABamWmT2/6QWtDT8L0+ijg+LrLWzjpEJftTxzw4mCccXGZwvI69supPrQFvjz6GcXq/vZG6Tir312mCNPC4Q28SIVNn9iLjb+PXAdRCvCKmtM5UtKq9vLLFAYEIxS30KIXm1m4fz+Ri5RMcObq/8JNdcrY4BbaDIqmbo4oYX2K8MrjTEq1Hjvim9BChCQHzRMA4oRk9I0J2+zv4N8/VCbaRFQo3ku+evKB5vIxrubJDa+J5k9Y50P4AKElMypNPt6ZQgzaCOtp78N5LuTa3NyaoTCJKA+rzOA9Zy0zT3muAy/ywYWdBmDTzbFNRC0E=;scGBliXgQ0gBekHaAoyndg=="
+images:
+  - url: "https://dcs-static.gprod.postmedia.digital/15.6.0/websites/images/canada/fallback.jpg"
+    width: 640
+    height: 480
+    isCached: true
+
+secured: "arDun1tYrKacaWQmCbWrPPKoNIR3fkMm2JHXgfhMMPyGi0MJW0GpKVrJuO76H2/3N14w0mjqe53sJkTHK/fsL0I0I2MceJayFqb6FW0zCigF/PX/iI14YOFQ823spfio77ujNOCuSl2Sze3q6xoIJKUUxqUmOW2clSmqbh4Wu3kPlNLW8+gNyZwJEq9qmGR18exCKxcgcoFgfpkjlQoEkRE4gU1Q2wrZLHud3VcvI2YLD2eabi8ptI/KKYwMXOGlfgHR7BTZt5KWWdOnCTuRZXkp4iTQIO8bXj2Gi5whUwXlEqHGO9MSqvMOyb2kgzHk9GJAHvSLLHw2lFCCrhUdqYT0KWpepNfrSjiyqbp3Bqo=;kvKK6yw1emOgDmw9KhqkPg=="
 ---
 

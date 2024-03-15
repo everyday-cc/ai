@@ -2,6 +2,92 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2024-01-12-industrial-tech-giant-abb-buys-ai-powered-robot-navigation-startup-sevensense.md",
+      "title": "Industrial tech giant ABB buys AI-powered robot navigation startup Sevensense",
+      "excerpt": "said today it has acquired a startup called Sevensense Robotics AG that specializes in improving the mobility and awareness of industrial robots. Sevensense is said to combine artificial intelligence smarts with 3D vision capabilities to enable robots to ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2024/01/11/industrial-tech-giant-abb-buys-ai-powered-robot-navigation-startup-sevensense/",
+      "originalUrl": "https://siliconangle.com/2024/01/11/industrial-tech-giant-abb-buys-ai-powered-robot-navigation-startup-sevensense/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/01/DSC0615-Editar_rtv2.jpg",
+          "width": 1280,
+          "height": 819,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-12T01:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-12-the-eight-coolest-inventions-from-the-2024-consumer-electronics-show.md",
+      "title": "The Eight Coolest Inventions From the 2024 Consumer Electronics Show",
+      "excerpt": "This year was as sci-fi cool as always, with translucent televisions, wall-crawling robots, artificial-intelligence-powered vehicles and more. We’ve chosen eight of the neatest and most function ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.smithsonianmag.com/innovation/the-eight-coolest-inventions-from-the-2024-consumer-electronics-show-180983577/",
+      "originalUrl": "https://www.smithsonianmag.com/innovation/the-eight-coolest-inventions-from-the-2024-consumer-electronics-show-180983577/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th-thumbnailer.cdn-si-edu.com/1prE0AO3B5LBx5PBnvQcP7bHee8=/fit-in/1600x0/filters:focal(512x344:513x345)/https%3A%2F%2Ftf-cmsv2-smithsonianmag-media.s3.amazonaws.com%2Ffiler_public%2Fa0%2F1b%2Fa01b726e-d45a-4fdc-8211-b0b0aa0e6082%2Fgettyimages-1913770389.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-12T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Smithsonian Magazine",
+        "domain": "smithsonianmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-12-robot-vendor-abb-adds-ai-based-navigation-technology-with-latest-acquisition.md",
       "title": "Robot vendor ABB adds AI-based navigation technology with latest acquisition",
       "excerpt": "The Swiss industrial robotics vendor ABB Ltd. is continuing to grow its footprint as a provider of mobile robotic solutions, announcing today that it has acquired Sevensense, a Swiss start-up that provides AI-based navigation technology.",
@@ -1183,101 +1269,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-30-should-auld-acquaintance-be-robot.md",
-      "title": "Should auld acquaintance be robot",
-      "excerpt": "August marked a year since Amazon announced plans to acquire iRobot in a $1.7 billion deal that some analysts suggested could give the retail giant a big head start in consumer robotics ... Much like the rise of generative AI, if you weren’t following ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/12/29/should-auld-acquaintance-be-robot/",
-      "originalUrl": "https://techcrunch.com/2023/12/29/should-auld-acquaintance-be-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-879166398.jpeg?resize=1200,801",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/12/29/should-auld-acquaintance-be-robot/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/29/should-auld-acquaintance-be-robot/amp/",
-      "publishedDateTime": "2023-12-29T17:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-29-2023-the-year-in-robotics.md",
-      "title": "2023 - the year in Robotics",
-      "excerpt": "Conquering physical movement is one of AI's biggest challenges/opportunities. Talk about generative AI all you want, but plant managers everywhere might prefer to talk robots. Finding the right mix between effective robotics and ever-scarce human labor is a shop-floor obsession.",
-      "sourceUrl": null,
-      "webUrl": "https://diginomica.com/2023-year-robotics",
-      "originalUrl": "https://diginomica.com/2023-year-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://diginomica.com/sites/default/files/images/2023-12/Screenshot%202023-12-27%20at%2010.27.44.png",
-          "width": 1840,
-          "height": 1054,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://diginomica.com/2023-year-robotics?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/2023-year-robotics?amp",
-      "publishedDateTime": "2023-12-29T12:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
