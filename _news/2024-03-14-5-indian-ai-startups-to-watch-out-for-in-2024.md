@@ -67,6 +67,20 @@ related:
         width: 640
         height: 427
         isCached: true
+  - title: "Ready for the Biotech Bounce Back in 2024?"
+    excerpt: "Already, several themes have emerged as value drivers in 2024, including artificial intelligence (AI), weight loss, and cell and gene therapy manufacturing. Companies that are still standing in these sectors would be well advised to make strong moves ..."
+    publishedDateTime: 2024-03-14T00:01:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/ready-for-the-biotech-bounce-back-in-8784855/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 24
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.14355_234.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "sMJ7xMCwEbWRt2FU0Rw7BdpcYxi4+RwMwrSho7KHq6SAld42W4ef+mpctbFuuyMtL7z0l5BpQDzOeOhHGuUOaHB2TgwkenenVsC/+AMXA3bj3XFAC/ZoNBn2RlmngDI1DyzGuGFas3qnFjp6W2+N+yeSeOt9NKVg6S1f0pcysLpbWOgsTemhLeCS1xedj8QMyLGQHEk/Y5PPoKqK2mddJoDhJM7ZrjNCSCqfxG4lzzKm5lWHoD2xNIB4sc97oH2Lew8xqelhcDsJNKaVmdhR7J73bIozEFM/q9Rn5nyiDHiCoJ6sl0j39thh4JPWHh79VwohjAA4g5ZYeFfT9STz+Lq8vGtsLAGonYtsd9Pzxp0=;PuWTvjMrx2IPaupC66xG5w=="
 ---

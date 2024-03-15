@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/stevemcdowell/2024/03/12/vast-datas-nvi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemcdowell/2024/03/12/vast-datas-nvidia-dpu-based-ai-cloud-architecture/amp/"
 type: article
 quality: 89
-heat: 409
+heat: 419
 published: true
 
 provider:
@@ -367,6 +367,20 @@ related:
       - url: "https://menafn.com/updates/pr/2024-03/13/M_0e391image_story.jpg"
         width: 825
         height: 1237
+        isCached: true
+  - title: "SoundHound AI: The undervalued stock in Nvidia’s AI crown"
+    excerpt: "Nvidia has established itself as the undisputed leader in artificial intelligence stocks with a portfolio that turns promising ventures into gold. Among these glittering investments is SoundHound AI (NASDAQ:SOUN),"
+    publishedDateTime: 2024-03-13T21:08:00Z
+    webUrl: "https://invezz.com/news/2024/03/13/soundhound-ai-the-undervalued-stock-in-nvidias-ai-crown/"
+    type: article
+    provider:
+      name: Invezz
+      domain: invezz.com
+    quality: 39
+    images:
+      - url: "https://invezz.com/wp-content/uploads/2024/02/possessed-photography-rdxp1tf3cma-unsplash-1-1024x749.jpg"
+        width: 1024
+        height: 749
         isCached: true
   - title: "Vast Data unveils new AI infrastructure with Nvidia and Supermicro partnerships"
     excerpt: "Artificial intelligence data platform startup VAST Data Inc. today announced new AI cloud architecture in partnership with Nvidia Corp., using the company’s BlueField-3 data pro"

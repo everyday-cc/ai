@@ -378,6 +378,20 @@ related:
         width: 825
         height: 1237
         isCached: true
+  - title: "SoundHound AI: The undervalued stock in Nvidia’s AI crown"
+    excerpt: "Nvidia has established itself as the undisputed leader in artificial intelligence stocks with a portfolio that turns promising ventures into gold. Among these glittering investments is SoundHound AI (NASDAQ:SOUN),"
+    publishedDateTime: 2024-03-13T21:08:00Z
+    webUrl: "https://invezz.com/news/2024/03/13/soundhound-ai-the-undervalued-stock-in-nvidias-ai-crown/"
+    type: article
+    provider:
+      name: Invezz
+      domain: invezz.com
+    quality: 39
+    images:
+      - url: "https://invezz.com/wp-content/uploads/2024/02/possessed-photography-rdxp1tf3cma-unsplash-1-1024x749.jpg"
+        width: 1024
+        height: 749
+        isCached: true
   - title: "ZutaCore cools Nvidia AI GPUs with energy, carbon savings"
     excerpt: "“By adding support for the Nvidia GPU, ZutaCore is now paving the way toward a more sustainable AI future where upcoming AI servers can be deployed in an energy-efficient, cost-effective and reliable way.”"
     publishedDateTime: 2024-03-13T00:00:00Z

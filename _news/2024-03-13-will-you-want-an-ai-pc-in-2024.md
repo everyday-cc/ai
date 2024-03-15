@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2024/03/13/will-you-want
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2024/03/13/will-you-want-an-ai-pc-in-2024/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -67,6 +67,20 @@ related:
       - url: "https://img.digitimes.com/newsshow/20240314pd201_files/1_b.jpg"
         width: 640
         height: 427
+        isCached: true
+  - title: "Ready for the Biotech Bounce Back in 2024?"
+    excerpt: "Already, several themes have emerged as value drivers in 2024, including artificial intelligence (AI), weight loss, and cell and gene therapy manufacturing. Companies that are still standing in these sectors would be well advised to make strong moves ..."
+    publishedDateTime: 2024-03-14T00:01:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/ready-for-the-biotech-bounce-back-in-8784855/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 24
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.14355_234.jpg"
+        width: 1200
+        height: 900
         isCached: true
 
 secured: "V4DmbwXlVTXr5v/a1/OgZAQh8i4j+NHgCn8+NEYdW0HCc4bL7h89j9pA1d46qz5n6o0ws1znqA8VvalQhCKcOFB0PzVbmRJGLkCPdSWDJaMHfIjFMqzBugiYRDXFa6sde90MVEasSrAozbYGWyZGyqT0SPaWS8I70JQtA0ggVPIUKV+XaiBCf+PWXE1/zXH2j3RTYXszIpG7wjLTa2qTpCYyLx3KZFKwGZqx5CX1Xa1sxS20XBRv6moQPgskkN8akNVFow3Q2zhRNzH2N96YO2MUsSdbD7KRhYo3gDyGb61ROLbW2bTPj9LxTjx1cSoi/5RS72wDAEW5uuhkxPVe8vGDpyCTVGqZMUT8d/GLnY0=;VhJZ19yh80OLTweD6a/i8A=="

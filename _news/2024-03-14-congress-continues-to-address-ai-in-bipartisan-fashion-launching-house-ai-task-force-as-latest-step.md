@@ -6,7 +6,7 @@ publishedDateTime: 2024-03-14T00:01:00Z
 originalUrl: "https://www.jdsupra.com/legalnews/congress-continues-to-address-ai-in-2712103/"
 webUrl: "https://www.jdsupra.com/legalnews/congress-continues-to-address-ai-in-2712103/"
 type: article
-quality: 24
+quality: 26
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Meta AI
 
 images:
   - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.13266_5639.jpg"

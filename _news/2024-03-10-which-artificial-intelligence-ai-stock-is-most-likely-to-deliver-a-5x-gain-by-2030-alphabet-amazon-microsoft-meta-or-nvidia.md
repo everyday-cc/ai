@@ -1,35 +1,31 @@
 ---
 category: news
 title: "Which Artificial Intelligence (AI) Stock Is Most Likely to Deliver a 5X Gain by 2030: Alphabet, Amazon, Microsoft, Meta, or Nvidia?"
-excerpt: "They share a common tailwind that's likely to blow hard for years to come -- artificial intelligence ... a massive growth driver with its Waymo self-driving car business. Cathie Wood's Ark ..."
-publishedDateTime: 2024-03-10T07:49:00Z
-originalUrl: "https://www.nasdaq.com/articles/which-artificial-intelligence-ai-stock-is-most-likely-to-deliver-a-5x-gain-by-2030:"
-webUrl: "https://www.nasdaq.com/articles/which-artificial-intelligence-ai-stock-is-most-likely-to-deliver-a-5x-gain-by-2030:"
+excerpt: "They share a common tailwind that's likely to blow hard for years to come -- artificial intelligence (AI ... have a massive growth driver with its Waymo self-driving car business."
+publishedDateTime: 2024-03-10T03:50:00Z
+originalUrl: "https://www.fool.com/investing/2024/03/10/which-artificial-intelligence-ai-stock-is-most-lik/"
+webUrl: "https://www.fool.com/investing/2024/03/10/which-artificial-intelligence-ai-stock-is-most-lik/"
 type: article
-quality: 51
-heat: 61
-published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
   - Microsoft AI
 
-related:
-  - title: "Better Artificial Intelligence (AI) Stock: Nvidia vs. Microsoft"
-    excerpt: "Nvidia and Microsoft are both promising plays on the AI market, but Nvidia's simpler business model, higher growth rates, and more reasonable valuations make it the better buy. Nvidia's investors should keep an eye on the competitive and regulatory headwinds, but it could be years before any of those challenges limit its growth."
-    publishedDateTime: 2024-03-10T13:59:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT-Q/pressreleases/24684851/better-artificial-intelligence-ai-stock-nvidia-vs-microsoft/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 49
+images:
+  - url: "https://g.foolcdn.com/editorial/images/768409/happy-indian-businessman-work-from-home.jpg"
+    width: 6047
+    height: 4017
+    isCached: true
 
-secured: "fSCk3NY8gathHtiVZnms6NVZzflyONnFkvh4LdppjE3+9JljGe62Kl8LjMKDbQ7j0LRV3AiDE9huVn8RtGLDkYL2iOiOg8x5NhHxSNDd+xbrEB82YeGqNxEJEhj1YkO+SzOv6qA27hJ2oJCm0R+r68lzsQn9DZH82NsYcenxlBZ8frnJgUBKn/X8EqWNGcstDdvW34yMGkdbiRwnhe4r+2qvaYcpADYDSOn7PgyBBjpqfKhG9WAdsx5GpyliqIvDd8oQ1Itc45IEZGi2GSpdmnKiFrUxng/WNxuJtV5CPzTiB4oYWz9GNeTFinZ3WsLJBEjrmQcNm/dsWfAKb1qpO6lXPPMpJ3QqNeOsGYgMemU=;a68elNvSEAF2zDTrhoZFZA=="
+secured: "TmXs3nJwyKn9TLMZxNNzsvPr5rW18yLE9MaSwIuXTP2xRDDfGMDhW++SFn2SqPGfeKliur5DlE7ZwGA2Jq00go7EvwZC/kjhRsbEnXXUMTamCQXM7fmV75xozByRrdiLSo9GpsG7V5Co5KCGmYntCiiBq64tkJcIfP6pxDNNVGdZBDKM6Wp7Ow4qgGUwYznRB99BrQXbDfMIUXW0VXRAxA4CI33luWN86CwRtep/m+0lKEOszQSCn6C7Wk8Z8+NFDhX632sAHod5KviR72IcKBDf1IXNQfqEhyxu9Ejg0N2QcG49zQiTNYhlXdcY1VjjpHxva04ca3LjcSBizYF+sxhF0ORzbyVkkDgbTnbKff4=;1WaWFgWWDbB2XBl7OCkKkg=="
 ---
 

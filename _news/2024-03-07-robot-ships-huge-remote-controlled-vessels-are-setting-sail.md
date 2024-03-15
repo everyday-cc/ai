@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Robot ships: Huge remote controlled vessels are setting sail"
-excerpt: "\"We've added a lot of additional equipment and designed her especially to be what we call 'robotic',\" says Colin ... It's being fully controlled by a crew 475 miles away in an office in Aberdeen."
+excerpt: "Marian Meza Chavira is learning to pilot underwater robots from a remote control centre Entering the ... Many questions spring to mind about remotely operated and autonomous shipping, just as ..."
 publishedDateTime: 2024-03-07T00:00:00Z
-originalUrl: "https://www.aol.com/news/robot-ships-huge-remote-controlled-000752631.html"
-webUrl: "https://www.aol.com/news/robot-ships-huge-remote-controlled-000752631.html"
+originalUrl: "https://www.bbc.co.uk/news/science-environment-68486462"
+webUrl: "https://www.bbc.co.uk/news/science-environment-68486462"
+ampWebUrl: "https://www.bbc.co.uk/news/science-environment-68486462"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/science-environment-68486462"
 type: article
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: BBC
+  domain: bbc.co.uk
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://media.zenfs.com/en/aol_bbc_articles_618/ffb140cc594fbd1ec204943423b80d9b"
-    width: 976
-    height: 549
+  - url: "https://ichef.bbci.co.uk/news/1024/branded_news/C8AE/production/_132847315_oishipdrone2.jpg"
+    width: 1024
+    height: 576
     isCached: true
 
-secured: "a//MzOo1wI85m3T2RjshOsowlngyTrtU15qdIdyHvAN1zitO8lX07+ROMayIbT9EbFyUuZp74qEzvEjYDMIT8w3qhg8QD3fXT5QQPMz+NH6aZZh/V5EI83385st2fqjAhequzl5TdRZvrY/2GmwMaJNkwPg2F/PWdYKte/qJ/6eYjz6XnUzc1l2kkzbsewP8X6FMqor2t6oYxbJqDFxdi5e0Ua7r4NkN6/TVJLvdI1NoifjEy8y7gL2ru4akHv4XL99Pa56O0J3m8iR0j+OOZqhOHd+ruGzFnTPJ6DIqmcK+X+i+bJzD/TSA42FUx4G9BMKlC8bM1IjGXoYVRah4QAxyyAq2vsmbQZNtUD3+R5c=;PHEwRVcacP7luU/n884m0w=="
+secured: "MRtXogkim/L55+Nddqb5iaC/qqULHcnoSyUpmwr3ykfH3Pdi+w10zhDcZA8F7NK4+39BNlNiM8hIbLIzEhslOrZgTSXa+Tmff2ih6IhhuZFc3JqoR//54H4QmOHWhqdyS4fh99/mBynDcJYtLO8D7xdumuKwyWH9YnbwAwsRkqP6BROYlswvVNxoQJF9U9JxLkjkyKKwOL0MfSRhu++sAHc7q5ms1AWRlDSBSVCpXyAD5n1RvxT9NNOfXp5X7eypSWDvZeG6uvgkmHKMWqiuuEuY0jkOghavstKzyuZfsBufm300iFUMQQ4yjCiEkR+3Phzc0uT7+J0Il7NILLHiKT3uqqDQWqXkTB3eA+npiwU=;T+q5a6qashu9USEnw19xEQ=="
 ---
 

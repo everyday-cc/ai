@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-13-guest-column-generative-ai-can-be-tipping-point-for-shift-to-delivery-of-healthcare-at-home.md",
+      "title": "Guest column: Generative AI can be tipping point for shift to delivery of healthcare at home",
+      "excerpt": "The future is one where care comes to you, rather than the other way around. Driving to a big, concrete “hospital” to get your healthcare is going to become as old-fashioned as driving to a big concrete “mall” to buy your books,",
+      "sourceUrl": null,
+      "webUrl": "https://wraltechwire.com/2024/03/13/guest-column-generative-ai-can-be-tipping-point-for-shift-to-delivery-of-healthcare-at-home/",
+      "originalUrl": "https://wraltechwire.com/2024/03/13/guest-column-generative-ai-can-be-tipping-point-for-shift-to-delivery-of-healthcare-at-home/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wraltechwire.com/wp-content/uploads/2024/03/Picture10-e1710341352127.jpg",
+          "width": 703,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://wraltechwire.com/2024/03/13/guest-column-generative-ai-can-be-tipping-point-for-shift-to-delivery-of-healthcare-at-home/?amp=1",
+      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2024/03/13/guest-column-generative-ai-can-be-tipping-point-for-shift-to-delivery-of-healthcare-at-home/?amp=1",
+      "publishedDateTime": "2024-03-13T14:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-13-how-generative-ai-will-change-the-jobs-of-doctors-and-healthcare-professionals.md",
       "title": "How Generative AI Will Change The Jobs Of Doctors And Healthcare Professionals",
       "excerpt": "Generative AI is set to transform healthcare by aiding in diagnostics, automating administrative tasks, and accelerating drug discovery.",
@@ -105,7 +148,7 @@
       "originalUrl": "https://azure.microsoft.com/en-us/blog/azure-ai-health-bot-helps-create-copilot-experiences-with-healthcare-safeguards/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 217,
+      "heat": 227,
       "tags": null,
       "images": [
         {
@@ -1278,40 +1321,6 @@
       "provider": {
         "name": "The Independent",
         "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-27-artificial-intelligence-has-huge-potential-in-infection-control-as-long-as-the-right-questions-are-asked-and-safeguards-are-in-place.md",
-      "title": "Artificial intelligence has huge potential in infection control, as long as the right questions are asked and safeguards are in place",
-      "excerpt": "“Artificial intelligence is a rapidly developing area ... When should we switch from intravenous to oral antibiotic therapy for individual patients?” For the face masks example, Prof Drew ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/1035670",
-      "originalUrl": "https://www.eurekalert.org/news-releases/1035670",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-27T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null

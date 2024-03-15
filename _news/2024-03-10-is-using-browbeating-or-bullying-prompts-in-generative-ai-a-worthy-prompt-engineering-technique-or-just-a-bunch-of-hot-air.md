@@ -47,20 +47,6 @@ related:
         width: 1600
         height: 881
         isCached: true
-  - title: "Cognition launches Devin, a generative AI-powered coding engineer"
-    excerpt: "A new generative artificial intelligence startup called Cognition AI Inc. is looking to disrupt coding with the launch of a new tool that can autonomously create code for entire engineering jobs, including its own AI models."
-    publishedDateTime: 2024-03-13T02:49:00Z
-    webUrl: "https://siliconangle.com/2024/03/12/cognition-launches-devin-generative-ai-powered-coding-engineer/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/03/robo-advisor-chatbot-robotic-concept-robot-finger-point-laptop-button-generative-ai.jpg"
-        width: 2000
-        height: 1121
-        isCached: true
 
 secured: "1dQOwuOtuxzykNh51WJO/uohSp+Gat73922mTE890SGVdfC5fhlj1RuEBg8xQX2jqPxxv+nrxUwqozUYrOiK1YnE6MlLAzNEHZXxSwdojs4x8vd0+DADQyXwLbADkliYNNg16dw339oNJtFmAK5AAGELEvmMBN3Fk/DApUoSDrnGNpEGZTse+CPX70feWuCjd7Ajyh/jqZV76lJRF5N8FWJ4M5g9Wui0m0GXJzddqd2mp7YTju/exCjPUnXoHDpWO0vXmpKiMqBoWxpfHbOjmk8BDU1hzFBNnPst6lwdiLuN3gY9YvIzeonyVoRhxF73c/3rxa6EkbGWl1wahoTZDy5mN6KMh7Z7JLN0ZFBfRiAp8dNh7QaKZY/WghRl/o5FV3hwO8oJcFM7Vxm1KaY3OI1oKegi45TAY1KV732pBPvViGAROJsmThMydL4MQ2Fl6Fu360+Siv/I0OK/SXO7vqzp1ayGbknp5mEZg5buxxMYkJsWI40DI7VOfVft7RooeK8MALtrjULNf57QgKB+Eg==;yv3tOlqUkyUxTOjI3agwgA=="
 ---

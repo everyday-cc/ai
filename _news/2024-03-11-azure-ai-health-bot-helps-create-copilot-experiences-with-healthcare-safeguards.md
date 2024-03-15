@@ -7,7 +7,7 @@ originalUrl: "https://azure.microsoft.com/en-us/blog/azure-ai-health-bot-helps-c
 webUrl: "https://azure.microsoft.com/en-us/blog/azure-ai-health-bot-helps-create-copilot-experiences-with-healthcare-safeguards/"
 type: article
 quality: 117
-heat: 217
+heat: 227
 published: true
 
 provider:
@@ -112,6 +112,15 @@ related:
     provider:
       name: Front Line Genomics
       domain: frontlinegenomics.com
+    quality: 36
+  - title: "Voice AI is reshaping the landscape of healthcare: Rustom Lawyer"
+    excerpt: "Rustom Lawyer, co-founder & CEO of Augnito, a leading voice AI solutions provider, has unveiled profound insights into the potential of voice artificial intelligence (AI) in healthcare. Emphasizing its transformative role,"
+    publishedDateTime: 2024-03-15T02:30:00Z
+    webUrl: "https://www.pharmabiz.com/NewsDetails.aspx?aid=166973&sid=1"
+    type: article
+    provider:
+      name: Pharmabiz
+      domain: pharmabiz.com
     quality: 36
   - title: "Google Cloud rolls out new AI tools for healthcare and life sciences"
     excerpt: "Google LLC’s cloud division today announced several new generative artificial intelligence solutions aimed at healthcare and life sciences aimed at enhancing data interoperability, search and improve patient outcomes."

@@ -41,22 +41,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Study shows potential for using AI tools to detect health care-associated infections"
-    excerpt: "A new proof-of-concept study published in the American Journal of Infection Control reports that artificial intelligence (AI) technologies can accurately identify cases of health care-associated infections (HAI) even in complex clinical scenarios."
-    publishedDateTime: 2024-03-14T04:00:00Z
-    webUrl: "https://medicalxpress.com/news/2024-03-potential-ai-tools-health-infections.html"
-    ampWebUrl: "https://medicalxpress.com/news/2024-03-potential-ai-tools-health-infections.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2024-03-potential-ai-tools-health-infections.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 52
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/4-hospital.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "AI can help us better understand global threats to wildlife"
     excerpt: "Utilising AI algorithms, the team at Sussex tapped into online platforms such as Facebook, Twitter ... and Singapore—previously unnoticed by conventional academic research. Singapore, in particular, emerged with the highest number of new records."
     publishedDateTime: 2024-03-14T13:26:00Z

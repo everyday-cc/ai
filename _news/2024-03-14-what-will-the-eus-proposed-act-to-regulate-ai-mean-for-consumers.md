@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2024/mar/14/what-will-eu-prop
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/mar/14/what-will-eu-proposed-regulation-ai-mean-consumers"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -30,6 +30,48 @@ images:
     isCached: true
 
 related:
+  - title: "Leadership Strategy Navigating The EU AI Act"
+    excerpt: "This significant legislation necessitates a reevaluation of AI strategies and practices for business leaders around the world."
+    publishedDateTime: 2024-03-14T08:31:00Z
+    webUrl: "https://www.forbes.com/sites/paolacecchi-dimeglio/2024/03/14/leadership-strategy-navigating-the-eu-ai-act/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65f2b3db6e27d1bb4cca7cbd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
+  - title: "AI in the Business Strategy"
+    excerpt: "These were just some of the comments from Drew Thompson, the morning keynote speaker at the New Jersey Business & Industry Association’s"
+    publishedDateTime: 2024-03-14T18:29:00Z
+    webUrl: "https://njbmagazine.com/njb-news-now/ai-in-the-business-strategy/"
+    type: article
+    provider:
+      name: New Jersey Business
+      domain: njbmagazine.com
+    quality: 39
+    images:
+      - url: "https://njbmagazine.com/wp-content/uploads/2024/03/IMG_20240314_0913167862.jpg"
+        width: 775
+        height: 500
+        isCached: true
+  - title: "The EU AI Act Passes Another Hurdle Towards Becoming Law"
+    excerpt: "What Will Happen Once the EU AI Act Becomes Law? The AI Act will start to apply in phases. The first AI Act provisions to kick in will be the ones which prohibit certain applications of AI (e.g., AI systems that exploit individuals’ vulnerabilities ..."
+    publishedDateTime: 2024-03-14T00:01:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/the-eu-ai-act-passes-another-hurdle-2201330/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 37
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.7499_58.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Key Considerations Regarding the Recently Passed EU Artificial Intelligence Act"
     excerpt: "On Wednesday, March 13, the European Parliament approved the regulation harmonizing rules on artificial intelligence (AI) (the AI Act). Stakeholders must comply with the AI Act due to its global reach, when it takes effect this year. Global scope — The ..."
     publishedDateTime: 2024-03-14T00:01:00Z
@@ -44,6 +86,15 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Tech News Now: The EU AI Act, The US TikTok ban, and more"
+    excerpt: "The European Parliament will vote today on its landmark Artificial Intelligence Act. The U.S. House will vote today on a bill that would force ByteDance to divest TikTok or face a ban. Good morning and welcome to Tech News Now, TheStreet's daily tech rundown."
+    publishedDateTime: 2024-03-13T16:02:00Z
+    webUrl: "https://www.thestreet.com/technology/tech-news-now-the-eu-ai-act-the-us-tiktok-ban-and-more"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 19
 
 secured: "ubDCOdP7r7PmhAIWA8Jfe2stMFLPaenC8QmbAIitfWOtbopcyEeWz+u3/QP3Wd4jqpmz7WEM/DDLxLTg6xVopPMPDRPQQYv5QdHsXei5o/3vB98WY3JLTqdP4kGoP9RBs6caZxZXLns6wCP6ULpbLSaVEfNJt3BzDViZOMsxrIj+trq6A3VIA/piKHGofbpwEyNRoQj/aB36pzlwBYXx4lpcrmHPD1QL5DL+aoJpVsqUv672K91/j4PRPAW532brr0RswFzQd+Yw3asaa41wCGVhzQInmDWY14z5aTG4gWiLVK94Q6xY5NRBrZivk3Dy6dCr4PEvxRCTjOYdANjufWAxrIyae4uIq5XaUswPYtBkKHN89xtrtFixjcKm6kKhS884pyg49VZS3cBH816ZoRqZ30zccWEukDDYORjt4KlfWagN/HvApS9psJwEyU8zicMteq7qGEEx77rLmZBdzz+IPVoMMuMFMJtEtq4iQzVp97dRSusMSRpj/LEDiiwyzgPSiH63X1ltrMwkpndwEA==;R11RFYKVWod43+0T0eowyQ=="
 ---

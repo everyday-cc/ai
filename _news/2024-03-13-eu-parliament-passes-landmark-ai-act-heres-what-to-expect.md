@@ -35,20 +35,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "The EU AI Act Passes Another Hurdle Towards Becoming Law"
-    excerpt: "What Will Happen Once the EU AI Act Becomes Law? The AI Act will start to apply in phases. The first AI Act provisions to kick in will be the ones which prohibit certain applications of AI (e.g., AI systems that exploit individuals’ vulnerabilities ..."
-    publishedDateTime: 2024-03-14T00:01:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/the-eu-ai-act-passes-another-hurdle-2201330/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 37
-    images:
-      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.7499_58.jpg"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "3RC4iC7FEYcRH5d9/QZTO5M8LcqWcm7wlBoJoswX9P4ismyo5j1+4Dhv8rH5ik82LqowAAac90G4Ls/FGaOjbY1On8DiJJHuk+epX7ZYLLY4ZbwsRt06/fkA+5ceTe/K90Ug5Bw3wHmsHoANi+x5hEeiQuZQO086QcNpKYWqEIO9r24qpi+ijWd+ng5+DFZ1mpl//krEGSihSpJJS9HuUg6yY8bCfKbIkOvKThmWBLngmMnWhq9SU4iE8eEbQ+vrHHT9FyoFskSTmpOqxa84VKxwzkbnGn2r5f3cQhERaQT5vUYJenmGI7MrIoFzR0nYPfaBqoOTCbp1wZkooiexR8+O56Nj8PltDvgVtI7wpvFmQM7C0WCq/p1LJ2W8iWupZsudfM2BAlJCo298fuTMwpbaJ59nUHYCei8OTEQb1ZEnWtx/jDmoP/GbPbPOQFcpRNW+ptKtDfJSILnAQoYf65r0JfBJ3QDq87e2RVHQIeDunMHybd1JbQY1JDSBjCj6FtgDeNJTq1fDdMdtk3SVEg==;+N+gUuDK1bo6ENnIYrJ8Fg=="
 ---

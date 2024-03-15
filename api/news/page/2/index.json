@@ -2,6 +2,256 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-03-14-anthropic-releases-claude-3-haiku-an-ai-model-built-for-speed-and-affordability.md",
+      "title": "Anthropic releases Claude 3 Haiku, an AI model built for speed and affordability",
+      "excerpt": "Anthropic launches Claude 3 Haiku, the fastest and most affordable AI model in its class, featuring advanced vision capabilities and enterprise-grade security for high-volume, latency-sensitive applications.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/anthropic-releases-claude-3-haiku-an-ai-model-built-for-speed-and-affordability/",
+      "originalUrl": "https://venturebeat.com/ai/anthropic-releases-claude-3-haiku-an-ai-model-built-for-speed-and-affordability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/03/Claude_3_Haiku-transformed-1.webp?w=1200&strip=all",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-14T05:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-14-high-school-students-in-colorado-explore-limits-of-artificial-intelligence-design-their-own-ai-models.md",
+      "title": "High school students in Colorado explore limits of artificial intelligence, design their own AI models",
+      "excerpt": "Students and teachers in Colorado are experimenting with artificial intelligence ... Buchanan said he is working on installing an AI camera on a self-driving car. \"A big part of the AI self-driving car curriculum is camera-based detection, like detecting ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/tech/high-school-students-colorado-explore-limits-artificial-intelligence-design-their-own-ai-models",
+      "originalUrl": "https://www.foxnews.com/tech/high-school-students-colorado-explore-limits-artificial-intelligence-design-their-own-ai-models",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/65d1779d-5101-4d6a-80e0-7bc881277c21/8bbcd2a7-d12a-4c9c-bb9b-b2518928a24e/1280x720/match/1200/675/image.jpg?pubId=694940094001?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/tech/high-school-students-colorado-explore-limits-artificial-intelligence-design-their-own-ai-models.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/high-school-students-colorado-explore-limits-artificial-intelligence-design-their-own-ai-models.amp",
+      "publishedDateTime": "2024-03-14T02:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-14-gemma-is-now-available-in-amazon-sagemaker-jumpstart.md",
+      "title": "Gemma is now available in Amazon SageMaker JumpStart ",
+      "excerpt": "Today, we’re excited to announce that the&nbsp;Gemma model is now available for customers using&nbsp;Amazon SageMaker JumpStart.&nbsp;Gemma is a family of language models based on Google’s Gemini models, trained on up to 6 trillion tokens of text. The Gemma family consists of two sizes: a 7 billion parameter",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/gemma-is-now-available-in-amazon-sagemaker-jumpstart/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/gemma-is-now-available-in-amazon-sagemaker-jumpstart/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/03/14/gemma-sagemaker-jumpstart-1121x630.jpg",
+          "width": 1121,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-14T00:33:34Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-14-beyond-hype-drone-delivery-takes-flight-in-2024.md",
+      "title": "Beyond Hype: Drone Delivery Takes Flight In 2024",
+      "excerpt": "Drone delivery is no longer a sci-fi pipe dream. The implications for both businesses and consumers are nothing short of transformative.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/timothypapandreou/2024/03/13/beyond-hype-drone-delivery-takes-flight-in-2024/",
+      "originalUrl": "https://www.forbes.com/sites/timothypapandreou/2024/03/13/beyond-hype-drone-delivery-takes-flight-in-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65f2316656111d2945118de4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/timothypapandreou/2024/03/13/beyond-hype-drone-delivery-takes-flight-in-2024/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timothypapandreou/2024/03/13/beyond-hype-drone-delivery-takes-flight-in-2024/amp/",
+      "publishedDateTime": "2024-03-13T23:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-14-lg-makes-strategic-investment-in-bear-robotics.md",
+      "title": "LG Makes Strategic Investment in Bear Robotics",
+      "excerpt": "LG Electronics invests $60 million in Bear Robotics, betting on the growth of autonomous service robots and its roadmap for Software-defined Robotics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/lg-makes-strategic-investment-in-bear-robotics/",
+      "originalUrl": "https://www.therobotreport.com/lg-makes-strategic-investment-in-bear-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2024/03/bear-robotics-lg-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-13T23:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-14-mountain-view-robot-security-company-partners-with-canadian-company.md",
       "title": "Mountain View robot security company partners with Canadian company",
       "excerpt": "\"The Autonomous Security Drones can be programmed to patrol specific areas, follow predetermined routes, or be dispatched to investigate alarms,\" Knightscope said in a statement.",
@@ -502,7 +752,7 @@
       "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2024/03/13/will-you-want-an-ai-pc-in-2024/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -951,21 +1201,21 @@
       ]
     },
     {
-      "path": "_news/2024-03-13-ai-in-the-culinary-world-revolutionizing-restaurant-ops-customer-experience.md",
-      "title": "AI In The Culinary World: Revolutionizing Restaurant Ops & Customer Experience",
-      "excerpt": "The integration of AI in the restaurant industry is reshaping dining experiences and operational efficiencies, spanning kitchen processes to customer interactions.",
+      "path": "_news/2024-03-13-guest-column-generative-ai-can-be-tipping-point-for-shift-to-delivery-of-healthcare-at-home.md",
+      "title": "Guest column: Generative AI can be tipping point for shift to delivery of healthcare at home",
+      "excerpt": "The future is one where care comes to you, rather than the other way around. Driving to a big, concrete “hospital” to get your healthcare is going to become as old-fashioned as driving to a big concrete “mall” to buy your books,",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/neilsahota/2024/03/13/ai-in-the-culinary-world-revolutionizing-restaurant-ops--customer-experience/",
-      "originalUrl": "https://www.forbes.com/sites/neilsahota/2024/03/13/ai-in-the-culinary-world-revolutionizing-restaurant-ops--customer-experience/",
+      "webUrl": "https://wraltechwire.com/2024/03/13/guest-column-generative-ai-can-be-tipping-point-for-shift-to-delivery-of-healthcare-at-home/",
+      "originalUrl": "https://wraltechwire.com/2024/03/13/guest-column-generative-ai-can-be-tipping-point-for-shift-to-delivery-of-healthcare-at-home/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 73,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65ee9bd5d8bc600924275362/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1200,
-          "height": 900,
+          "url": "https://wraltechwire.com/wp-content/uploads/2024/03/Picture10-e1710341352127.jpg",
+          "width": 703,
+          "height": 396,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -973,23 +1223,14 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-13T14:00:00Z",
+      "ampWebUrl": "https://wraltechwire.com/2024/03/13/guest-column-generative-ai-can-be-tipping-point-for-shift-to-delivery-of-healthcare-at-home/?amp=1",
+      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2024/03/13/guest-column-generative-ai-can-be-tipping-point-for-shift-to-delivery-of-healthcare-at-home/?amp=1",
+      "publishedDateTime": "2024-03-13T14:49:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -998,265 +1239,7 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-ai-startup-cerebras-unveils-the-wse-3-the-largest-chip-yet-for-generative-ai.md",
-      "title": "AI startup Cerebras unveils the WSE-3, the largest chip yet for generative AI",
-      "excerpt": "Also: AI pioneer Cerebras is having 'a monster year' in hybrid AI ... The Cerebras machine is easier to program than a GPU, Feldman argued. In order to train the 175-billion parameter GPT-3, a GPU would require 20,507 lines of combined Python, C/C++ ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/",
-      "originalUrl": "https://www.zdnet.com/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/fly/bundles/zdnetcore/images/logos/zdnet-logo-yellow.png",
-          "width": 480,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/",
-      "publishedDateTime": "2024-03-13T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-sima-generalist-ai-agent-for-3d-virtual-environments.md",
-      "title": "SIMA generalist AI agent for 3D virtual environments",
-      "excerpt": "Introducing SIMA, a Scalable Instructable Multiworld Agent",
-      "sourceUrl": null,
-      "webUrl": "https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/",
-      "originalUrl": "https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/2GNumOaJCB48RQIFbwJmmZro-AFdBebufxvY_ZkSdUs9RQ-0nSTgBMXuhUdIE5zpPknqevL4ZyP44PLOpJlg0U0ArlOCcJHfoOagzSnZZoXLnq7hdQ=w1200-h630-n-nu",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-13T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-eu-finally-adopts-ai-act-marking-a-new-era-for-artificial-intelligence.md",
-      "title": "EU finally adopts AI Act, marking a ‘new era’ for artificial intelligence",
-      "excerpt": "The EU has officially adopted the AI Act, bringing the world's first comprehensive rules on artificial intelligence close to implementation",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/eu-adopts-ai-act-artificial-intelligence-rules",
-      "originalUrl": "https://thenextweb.com/news/eu-adopts-ai-act-artificial-intelligence-rules",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F03%2FUntitled-design-1-1.jpg&signature=0e85e2638e9489757e42144e7f058518",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-13T13:12:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-the-emerging-llm-stack-in-investment-funds.md",
-      "title": "The Emerging LLM Stack In Investment Funds",
-      "excerpt": "Adoption still faces barriers and risks, but a large language model (LLM) stack is emerging to accommodate new use cases and address concerns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/the-emerging-llm-stack-in-investment-funds/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/the-emerging-llm-stack-in-investment-funds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/64b6992ab0207ea57f6cab16/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/13/the-emerging-llm-stack-in-investment-funds/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/13/the-emerging-llm-stack-in-investment-funds/amp/",
-      "publishedDateTime": "2024-03-13T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-eu-approves-landmark-ai-law-leapfrogging-us-to-regulate-critical-but-worrying-new-technology.md",
-      "title": "EU approves landmark AI law, leapfrogging US to regulate critical but worrying new technology",
-      "excerpt": "European Union lawmakers gave final approval Wednesday to a landmark law governing artificial intelligence, leapfrogging the United States once again on the regulation of a critical and potentially disruptive technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2024/03/13/tech/ai-european-union/index.html",
-      "originalUrl": "https://www.cnn.com/2024/03/13/tech/ai-european-union/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 236,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-180405277.jpg?c=16x9&q=w_800,c_fill",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2024/03/13/tech/ai-european-union/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2024/03/13/tech/ai-european-union/index.html",
-      "publishedDateTime": "2024-03-13T12:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     }

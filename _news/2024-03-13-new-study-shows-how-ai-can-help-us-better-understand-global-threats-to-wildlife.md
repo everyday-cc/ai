@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2024-03-ai-global-threats-wildlife.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2024-03-ai-global-threats-wildlife.amp"
 type: article
 quality: 55
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Study shows potential for using AI tools to detect health care-associated infections"
-    excerpt: "A new proof-of-concept study published in the American Journal of Infection Control reports that artificial intelligence (AI) technologies can accurately identify cases of health care-associated infections (HAI) even in complex clinical scenarios."
-    publishedDateTime: 2024-03-14T04:00:00Z
-    webUrl: "https://medicalxpress.com/news/2024-03-potential-ai-tools-health-infections.html"
-    ampWebUrl: "https://medicalxpress.com/news/2024-03-potential-ai-tools-health-infections.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2024-03-potential-ai-tools-health-infections.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 52
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/4-hospital.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "How Artificial Intelligence can help—and hurt—students"
     excerpt: "There are a lot of myths and predictions regarding artificial intelligence (AI) and the future. Generative AI, connected through programs like ChatGPT, is a popular technology that can be used to create new content,"
     publishedDateTime: 2024-03-13T22:57:00Z

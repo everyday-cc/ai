@@ -27,45 +27,71 @@ images:
     isCached: true
 
 related:
-  - title: "New study shows how AI can help us better understand global threats to wildlife"
-    excerpt: "A new study published in Conservation Biology by the University of Sussex shows how researchers are using AI technology and social media to help identify global threats to wildlife."
-    publishedDateTime: 2024-03-13T00:00:00Z
-    webUrl: "https://phys.org/news/2024-03-ai-global-threats-wildlife.html"
-    ampWebUrl: "https://phys.org/news/2024-03-ai-global-threats-wildlife.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2024-03-ai-global-threats-wildlife.amp"
+  - title: "Latest News Shows How AI Business Tools Are Transforming Marketing and Sales."
+    excerpt: "AI business tools are transforming the marketing and sales landscape. Oracle’s generative AI tools, Adaptive ML’s custom-made gen AI, IBM’s productivity boost with Adobe AI tools, and Forbes Advisor’s selection of AI tools highlight the breadth of opportunities AI offers."
+    publishedDateTime: 2024-03-15T03:44:00Z
+    webUrl: "https://techbullion.com/latest-news-shows-how-ai-business-tools-are-transforming-marketing-and-sales/"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 55
+      name: Impacts
+      domain: techbullion.com
+    quality: 68
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/1-bat.jpg"
-        width: 1920
-        height: 1280
+      - url: "https://techbullion.com/wp-content/uploads/2024/03/Transforming-Marketing-and-Sales-1000x504.png"
+        width: 1000
+        height: 504
         isCached: true
-  - title: "How Artificial Intelligence can help—and hurt—students"
-    excerpt: "There are a lot of myths and predictions regarding artificial intelligence (AI) and the future. Generative AI, connected through programs like ChatGPT, is a popular technology that can be used to create new content,"
-    publishedDateTime: 2024-03-13T22:57:00Z
-    webUrl: "https://lehifreepress.com/2024/03/13/how-artificial-intelligence-can-help-and-hurt-students/"
+  - title: "This Is How AI-Driven Leadership Roles Are Transforming Senior Jobs"
+    excerpt: "AI is reshaping industries and redefining the roles of senior leaders, now requiring a unique blend of traditional expertise and technological acumen."
+    publishedDateTime: 2024-03-12T15:47:00Z
+    webUrl: "https://www.forbes.com/sites/lucianapaulise/2024/03/12/this-is-how-ai-driven-leadership-roles-are-transforming-senior-jobs/"
     type: article
     provider:
-      name: lehifreepress
-      domain: lehifreepress.com
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65f0746cae0b83c80d85a257/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
+        isCached: true
+  - title: "How Labor Unions Are Navigating AI"
+    excerpt: "Labor unions have an important role to play in ensuring that AI is a win-win for workers and employers and that good jobs exist in the innovation economy."
+    publishedDateTime: 2024-03-13T22:38:00Z
+    webUrl: "https://www.newamerica.org/education-policy/edcentral/how-labor-unions-are-navigating-ai/"
+    type: article
+    provider:
+      name: New America
+      domain: newamerica.org
     quality: 39
     images:
-      - url: "https://lehifreepress.com/wp-content/uploads/2024/03/IMG_5947-1000x600.jpeg"
-        width: 1000
-        height: 600
+      - url: "https://d1y8sb8igg2f8e.cloudfront.net/images/AI_Labor_Unions_Writers_Guild_of_.2e16d0ba.fill-1200x630.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "AI can help us better understand global threats to wildlife"
-    excerpt: "Utilising AI algorithms, the team at Sussex tapped into online platforms such as Facebook, Twitter ... and Singapore—previously unnoticed by conventional academic research. Singapore, in particular, emerged with the highest number of new records."
-    publishedDateTime: 2024-03-14T13:26:00Z
-    webUrl: "https://www.moneycontrol.com/news/science/ai-can-help-us-better-understand-global-threats-to-wildlife-12461661.html"
+  - title: "Latest News On AI Deployment Shows Companies Implementing Generative AI with Speed and Safety"
+    excerpt: "AI deployment has become increasingly significant in today’s industry landscape. Companies are leveraging the power of artificial intelligence to revolutionize various sectors and drive innovation. One particular area of focus is generative AI,"
+    publishedDateTime: 2024-03-15T03:44:00Z
+    webUrl: "https://techbullion.com/latest-news-on-ai-deployment-shows-companies-implementing-generative-ai-with-speed-and-safety/"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 19
+      name: Impacts
+      domain: techbullion.com
+    quality: 26
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2024/03/Latest-News-On-AI-Deployment-1000x504.png"
+        width: 1000
+        height: 504
+        isCached: true
+  - title: "CQG Unveils New First-of-its-Kind AI / Machine Learning Trading Toolkit for Predicting Futures Market Moves"
+    excerpt: "Success in Live Trading Environment Confirms Internal Test Results DENVER and BOCA RATON, Fla., March 11, 2024 /PRNewswire/ -- CQG, a leading global provider of high-performance technology"
+    publishedDateTime: 2024-03-11T11:20:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-03/61640370-cqg-unveils-new-first-of-its-kind-ai-machine-learning-trading-toolkit-for-predicting-futures-market-moves-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 18
 
 secured: "r+WIIpUhDNJhmM/2OjUvJpQAqkggBtlR6dR+rR3IchcVi6n+QGUH78I3CUoJpYbhrMXKmFBEme1bnXr9xlHlP9lzCESMDKe3+Gu1s8yIyRrFQyjMgXnYDZGChOvnX6pUjp+O+8A5JiFM3tjYmTkSGsgM4vlYGpmb8pfh0GjLVeMwyMYdqC0Th0BF9VL0Yfr0H3ZgowSrWNGiPJ8keSkIc50h+JLRjXiZx8PYHMl3aLfBeCNiJcR8a9LE30UjhYNRIGgoq9POjKN9dfMv6b8GPi2bEFAqNyAiuT/vQr6ktwKX0lWqnevVg2eM7wbl/7pxFwC7BIrXNYmPU6KxjD2R5gVzKLm9l9t01eCzTmZ6I+FgsEBCNVBJX98WcXGAte/CfLcTm2CM2iFG9kjWQi7dtoOFDKEKO9NYglaeY5eCeH7tkGRKsocI72gs83HMEyx6o1P7XTOMAwvIUqGY5lbvw92VNiKiAsWeyFT29VfExEnSPZpf2ZqOoLPDosTBy1eNUn/Yd0U1rNofycWPLnP4fA==;kTBVD8ihYw0OVWS34qH1dg=="
 ---

@@ -116,6 +116,15 @@ related:
       name: Front Line Genomics
       domain: frontlinegenomics.com
     quality: 36
+  - title: "Voice AI is reshaping the landscape of healthcare: Rustom Lawyer"
+    excerpt: "Rustom Lawyer, co-founder & CEO of Augnito, a leading voice AI solutions provider, has unveiled profound insights into the potential of voice artificial intelligence (AI) in healthcare. Emphasizing its transformative role,"
+    publishedDateTime: 2024-03-15T02:30:00Z
+    webUrl: "https://www.pharmabiz.com/NewsDetails.aspx?aid=166973&sid=1"
+    type: article
+    provider:
+      name: Pharmabiz
+      domain: pharmabiz.com
+    quality: 36
   - title: "AI, Telehealth and Communications - IDTechEx Explores Digital Healthcare"
     excerpt: "IDTechEx provides trusted independent research on emerging technologies and their markets. Since 1999, we have been helping our clients to understand new technologies, their supply chains, market requirements, opportunities and forecasts. For more information, contact research@IDTechEx.com or visit www.IDTechEx.com ."
     publishedDateTime: 2024-03-12T08:30:00Z

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-03-07-this-startup-figures-the-best-way-to-control-drones-is-talking-to-them.md",
+      "title": "This Startup Figures the Best Way to Control Drones Is Talking to Them",
+      "excerpt": "Connecticut-based Primordial Labs has developed a voice-based interface for small UAVs. A soldier simply speaks into a radio and tells the drone what to do.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/erictegler/2024/03/06/this-startup-figures-the-best-way-to-control-drones-is-talking-to-them/",
+      "originalUrl": "https://www.forbes.com/sites/erictegler/2024/03/06/this-startup-figures-the-best-way-to-control-drones-is-talking-to-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e762c19846017fcb7bb89d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1215,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/erictegler/2024/03/06/this-startup-figures-the-best-way-to-control-drones-is-talking-to-them/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/erictegler/2024/03/06/this-startup-figures-the-best-way-to-control-drones-is-talking-to-them/amp/",
+      "publishedDateTime": "2024-03-06T21:36:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-07-learn-about-generative-ais-impact-on-robotics-at-the-robotics-summit-expo.md",
       "title": "Learn about generative AI’s impact on robotics at the Robotics Summit & Expo",
       "excerpt": "Researchers are already using generative AI to make robots faster learners, and a summit panel will discuss how it can be applied at scale.",
@@ -1274,40 +1326,6 @@
       "provider": {
         "name": "devdiscourse",
         "domain": "devdiscourse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-27-here-come-the-killer-robots.md",
-      "title": "Here Come the Killer Robots",
-      "excerpt": "While we’ve had versions of autonomous weapons systems for decades, the latest advances in AI have made today’s killer robots more sophisticated. Popular autonomous weapons systems include drones that can fly themselves, autonomous drone swarms, and AI targeting systems that automatically choose their targets.",
-      "sourceUrl": null,
-      "webUrl": "https://cacm.acm.org/news/here-come-the-killer-robots/",
-      "originalUrl": "https://cacm.acm.org/news/here-come-the-killer-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-27T15:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "acm.org",
-        "domain": "acm.org",
         "images": null,
         "publishers": null,
         "authors": null

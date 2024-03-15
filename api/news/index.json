@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2024-03-15-apple-scoops-up-artificial-intelligence-startup-darwin-ai.md",
-      "title": "Apple scoops up artificial intelligence startup Darwin AI",
-      "excerpt": "Apple has acquired Canadian artificial intelligence startup DarwinAI, “adding technology to its arsenal ahead of a big push into generative AI in 2024,” reports Bloomberg. The tech giant purchased the business earlier this year,",
+      "path": "_news/2024-03-15-latest-news-shows-how-ai-business-tools-are-transforming-marketing-and-sales.md",
+      "title": "Latest News Shows How AI Business Tools Are Transforming Marketing and Sales.",
+      "excerpt": "AI business tools are transforming the marketing and sales landscape. Oracle’s generative AI tools, Adaptive ML’s custom-made gen AI, IBM’s productivity boost with Adobe AI tools, and Forbes Advisor’s selection of AI tools highlight the breadth of opportunities AI offers.",
       "sourceUrl": null,
-      "webUrl": "https://www.mactech.com/2024/03/14/apple-scoops-up-artificial-intelligence-startup-darwin-ai/",
-      "originalUrl": "https://www.mactech.com/2024/03/14/apple-scoops-up-artificial-intelligence-startup-darwin-ai/",
+      "webUrl": "https://techbullion.com/latest-news-shows-how-ai-business-tools-are-transforming-marketing-and-sales/",
+      "originalUrl": "https://techbullion.com/latest-news-shows-how-ai-business-tools-are-transforming-marketing-and-sales/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 118,
       "tags": null,
       "images": [
         {
-          "url": "https://www.mactech.com/wp-content/uploads/2024/03/Shopping-Cart-1024x999.jpg",
-          "width": 1024,
-          "height": 999,
+          "url": "https://techbullion.com/wp-content/uploads/2024/03/Transforming-Marketing-and-Sales-1000x504.png",
+          "width": 1000,
+          "height": 504,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.mactech.com/2024/03/14/apple-scoops-up-artificial-intelligence-startup-darwin-ai/amp/",
-      "cdnAmpWebUrl": "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2024/03/14/apple-scoops-up-artificial-intelligence-startup-darwin-ai/amp/",
-      "publishedDateTime": "2024-03-15T00:19:00Z",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-15T03:44:00Z",
       "updatedDateTime": null,
       "provider": {
-        "name": "MacTech",
-        "domain": "mactech.com",
+        "name": "Impacts",
+        "domain": "techbullion.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,7 +40,164 @@
         "news"
       ],
       "topics": [
+        "AI",
+        "AI in Marketing",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2024-03-15-apple-buys-canadian-start-up-darwinai-after-falling-behind-microsoft-google-in-generative-ai.md",
+      "title": "Apple buys Canadian start-up DarwinAI after falling behind Microsoft, Google in generative AI",
+      "excerpt": "One of DarwinAI’s core technologies is making artificial intelligence systems smaller and faster, which could help Apple run AI on devices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3255458/apple-buys-canadian-start-darwinai-after-falling-behind-microsoft-google-generative-ai",
+      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3255458/apple-buys-canadian-start-darwinai-after-falling-behind-microsoft-google-generative-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/03/15/af39247b-8fc3-45fe-b9f9-1c4c764a402a_aaaec09d.jpg?itok=gjruiJkX&v=1710470604",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-15T02:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-15-adaptive-ais-stealthy-20-million-tavus-dev-platform-raises-18m.md",
+      "title": "Adaptive AI’s Stealthy $20 Million, Tavus Dev Platform Raises $18M",
+      "excerpt": "Adaptive cofounders Baptiste Pannier, CTO, Julien Launay, CEO, and Daniel Hesslow, founding research ... [+] scientist. Adaptive AI emerges from stealth with $20M. The startup was founded by a team that worked together at open-source AI company Hugging Face.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charliefink/2024/03/14/adaptive-ais-stealthy-20-million-tavus-dev-platform-raises-18m/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2024/03/14/adaptive-ais-stealthy-20-million-tavus-dev-platform-raises-18m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65f3a89f99cb44836a59585c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2024/03/14/adaptive-ais-stealthy-20-million-tavus-dev-platform-raises-18m/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2024/03/14/adaptive-ais-stealthy-20-million-tavus-dev-platform-raises-18m/amp/",
+      "publishedDateTime": "2024-03-15T02:06:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-15-a-clip-thats-seemingly-of-the-ceo-behind-devin-the-first-ai-software-engineer-at-a-math-event-is-wowing-viewers.md",
+      "title": "A clip that's seemingly of the CEO behind Devin, the 'first AI software engineer,' at a math event is wowing viewers",
+      "excerpt": "Cognition's Scott Wu unveiled 'AI software engineer' Devin this week. Now, a 2010 clip that seems to show him winning a math quiz is wowing viewers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/clip-ceo-cognition-ai-engineer-devin-math-competition-going-viral-2024-3",
+      "originalUrl": "https://www.businessinsider.com/clip-ceo-cognition-ai-engineer-devin-math-competition-going-viral-2024-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65f32cef1851e792f0efb8b4?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/clip-ceo-cognition-ai-engineer-devin-math-competition-going-viral-2024-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/clip-ceo-cognition-ai-engineer-devin-math-competition-going-viral-2024-3?amp",
+      "publishedDateTime": "2024-03-14T22:22:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Math for AI"
       ]
     },
     {
@@ -145,6 +302,59 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-15-zscaler-buys-avalor-to-bring-more-ai-into-its-security-tools.md",
+      "title": "Zscaler buys Avalor to bring more AI into its security tools",
+      "excerpt": "Zscaler, a cloud security company with headquarters in San Jose, California, has acquired cybersecurity startup Avalor 26 months after its ... security policy generation and more. “AI is only as good as the underlying data, and many solutions lack ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/03/14/zscaler-buys-avalor-to-bring-more-ai-into-its-security-tools/",
+      "originalUrl": "https://techcrunch.com/2024/03/14/zscaler-buys-avalor-to-bring-more-ai-into-its-security-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2023/12/GettyImages-1724735466.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/03/14/zscaler-buys-avalor-to-bring-more-ai-into-its-security-tools/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/14/zscaler-buys-avalor-to-bring-more-ai-into-its-security-tools/amp/",
+      "publishedDateTime": "2024-03-14T21:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
       ]
     },
     {
@@ -303,7 +513,7 @@
       "originalUrl": "https://appleinsider.com/articles/24/03/14/apple-acquires-another-ai-startup-focused-on-deep-neural-network-generation",
       "featuredContent": null,
       "highlight": null,
-      "heat": 142,
+      "heat": 122,
       "tags": null,
       "images": [
         {
@@ -874,6 +1084,57 @@
       ]
     },
     {
+      "path": "_news/2024-03-14-leadership-strategy-navigating-the-eu-ai-act.md",
+      "title": "Leadership Strategy Navigating The EU AI Act",
+      "excerpt": "This significant legislation necessitates a reevaluation of AI strategies and practices for business leaders around the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/paolacecchi-dimeglio/2024/03/14/leadership-strategy-navigating-the-eu-ai-act/",
+      "originalUrl": "https://www.forbes.com/sites/paolacecchi-dimeglio/2024/03/14/leadership-strategy-navigating-the-eu-ai-act/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65f2b3db6e27d1bb4cca7cbd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-14T08:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-14-how-work-devices-may-evolve-to-keep-up-in-the-ai-era.md",
       "title": "How work devices may evolve to keep up in the AI era",
       "excerpt": "Th neural processing unit may be a game changer, but we need the right balance in product design to deliver what consumers seek.",
@@ -974,256 +1235,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-14-anthropic-releases-claude-3-haiku-an-ai-model-built-for-speed-and-affordability.md",
-      "title": "Anthropic releases Claude 3 Haiku, an AI model built for speed and affordability",
-      "excerpt": "Anthropic launches Claude 3 Haiku, the fastest and most affordable AI model in its class, featuring advanced vision capabilities and enterprise-grade security for high-volume, latency-sensitive applications.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/anthropic-releases-claude-3-haiku-an-ai-model-built-for-speed-and-affordability/",
-      "originalUrl": "https://venturebeat.com/ai/anthropic-releases-claude-3-haiku-an-ai-model-built-for-speed-and-affordability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/03/Claude_3_Haiku-transformed-1.webp?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-14T05:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-14-high-school-students-in-colorado-explore-limits-of-artificial-intelligence-design-their-own-ai-models.md",
-      "title": "High school students in Colorado explore limits of artificial intelligence, design their own AI models",
-      "excerpt": "Students and teachers in Colorado are experimenting with artificial intelligence ... Buchanan said he is working on installing an AI camera on a self-driving car. \"A big part of the AI self-driving car curriculum is camera-based detection, like detecting ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/tech/high-school-students-colorado-explore-limits-artificial-intelligence-design-their-own-ai-models",
-      "originalUrl": "https://www.foxnews.com/tech/high-school-students-colorado-explore-limits-artificial-intelligence-design-their-own-ai-models",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/65d1779d-5101-4d6a-80e0-7bc881277c21/8bbcd2a7-d12a-4c9c-bb9b-b2518928a24e/1280x720/match/1200/675/image.jpg?pubId=694940094001?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/tech/high-school-students-colorado-explore-limits-artificial-intelligence-design-their-own-ai-models.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/tech/high-school-students-colorado-explore-limits-artificial-intelligence-design-their-own-ai-models.amp",
-      "publishedDateTime": "2024-03-14T02:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-14-gemma-is-now-available-in-amazon-sagemaker-jumpstart.md",
-      "title": "Gemma is now available in Amazon SageMaker JumpStart ",
-      "excerpt": "Today, we’re excited to announce that the&nbsp;Gemma model is now available for customers using&nbsp;Amazon SageMaker JumpStart.&nbsp;Gemma is a family of language models based on Google’s Gemini models, trained on up to 6 trillion tokens of text. The Gemma family consists of two sizes: a 7 billion parameter",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/gemma-is-now-available-in-amazon-sagemaker-jumpstart/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/gemma-is-now-available-in-amazon-sagemaker-jumpstart/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/03/14/gemma-sagemaker-jumpstart-1121x630.jpg",
-          "width": 1121,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-14T00:33:34Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-14-beyond-hype-drone-delivery-takes-flight-in-2024.md",
-      "title": "Beyond Hype: Drone Delivery Takes Flight In 2024",
-      "excerpt": "Drone delivery is no longer a sci-fi pipe dream. The implications for both businesses and consumers are nothing short of transformative.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/timothypapandreou/2024/03/13/beyond-hype-drone-delivery-takes-flight-in-2024/",
-      "originalUrl": "https://www.forbes.com/sites/timothypapandreou/2024/03/13/beyond-hype-drone-delivery-takes-flight-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65f2316656111d2945118de4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/timothypapandreou/2024/03/13/beyond-hype-drone-delivery-takes-flight-in-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timothypapandreou/2024/03/13/beyond-hype-drone-delivery-takes-flight-in-2024/amp/",
-      "publishedDateTime": "2024-03-13T23:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-14-lg-makes-strategic-investment-in-bear-robotics.md",
-      "title": "LG Makes Strategic Investment in Bear Robotics",
-      "excerpt": "LG Electronics invests $60 million in Bear Robotics, betting on the growth of autonomous service robots and its roadmap for Software-defined Robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/lg-makes-strategic-investment-in-bear-robotics/",
-      "originalUrl": "https://www.therobotreport.com/lg-makes-strategic-investment-in-bear-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2024/03/bear-robotics-lg-featured.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-13T23:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

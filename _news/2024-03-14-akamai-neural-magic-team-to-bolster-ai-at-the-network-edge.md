@@ -57,22 +57,6 @@ related:
         width: 1920
         height: 1081
         isCached: true
-  - title: "Apple buys Canadian AI startup DarwinAI"
-    excerpt: "The startup also has worked with companies like Lockheed Martin Corp. and Intel Corp., according to Communitech. The under-the-radar acquisition comes ahead of a big AI push for Apple this year. The company is adding features to its iOS 18 software that ..."
-    publishedDateTime: 2024-03-14T00:01:00Z
-    webUrl: "https://financialpost.com/technology/apple-buys-canadian-ai-startup-darwinai"
-    ampWebUrl: "https://financialpost.com/technology/apple-buys-canadian-ai-startup-darwinai/wcm/e42ab6bf-8972-4aa0-831f-4152c5009a09/amp/"
-    cdnAmpWebUrl: "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/technology/apple-buys-canadian-ai-startup-darwinai/wcm/e42ab6bf-8972-4aa0-831f-4152c5009a09/amp/"
-    type: article
-    provider:
-      name: Financial Post
-      domain: financialpost.com
-    quality: 57
-    images:
-      - url: "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/03/no0314apple.jpg"
-        width: 1000
-        height: 750
-        isCached: true
   - title: "Akamai and Neural Magic team up to accelerate AI workloads on edge CPU servers"
     excerpt: "Content delivery network and cloud computing company Akamai Technologies Inc. today announced it’s partnering with the artificial intelligence acceleration software firm NeuralMagic Inc. to bolster the AI processing capabilities of its cloud infrastructure platform."
     publishedDateTime: 2024-03-12T10:30:00Z
@@ -86,20 +70,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/03/cloud-computing-electronic-chip-board-cloud-computer-is-system-transfer-data-information-upload-download-application-technology-transformation-concept.jpg"
         width: 2000
         height: 1259
-        isCached: true
-  - title: "Apple acquires DarwinAI startup ahead of iOS 18’s AI push"
-    excerpt: "Apple has acquired DarwinAI, an artificial intelligence startup focused on making AI systems smaller and faster, according to a"
-    publishedDateTime: 2024-03-14T17:26:00Z
-    webUrl: "https://9to5mac.com/2024/03/14/apple-acquires-darwinai-startup-ahead-of-ios-18s-ai-push/"
-    type: article
-    provider:
-      name: 9to5Mac
-      domain: 9to5mac.com
-    quality: 37
-    images:
-      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/apple-park@0.5x.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Akamai and Neural Magic Partner to Accelerate Deep Learning AI"
     excerpt: "Akamai Technologies (NASDAQ: AKAM), the cloud company that powers and protects life online, and Neural Magic, a developer of software that accelerates artificial intelligence (AI) workloads, today announced a strategic partnership intended to supercharge deep learning capabilities on Akamai's distributed computing infrastructure."

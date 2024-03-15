@@ -65,6 +65,22 @@ related:
       name: The Verge
       domain: theverge.com
     quality: 77
+  - title: "Apple acquires AI startup to compete with Google, Microsoft"
+    excerpt: "Apple acquires DarwinAI for device AI. Apple is looking to utilise DarwinAI’s systems to help it in its efforts to run AI on devices instead of in the"
+    publishedDateTime: 2024-03-15T01:55:00Z
+    webUrl: "https://timesofindia.indiatimes.com/technology/tech-news/apple-acquires-ai-startup-to-compete-with-google-microsoft/articleshow/108503861.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/technology/tech-news/apple-acquires-ai-startup-to-compete-with-google-microsoft/amp_articleshow/108503861.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/technology/tech-news/apple-acquires-ai-startup-to-compete-with-google-microsoft/amp_articleshow/108503861.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-108503852,width-1280,height-720,resizemode-4/108503852.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Microsoft singles out Google's competitive edge in generative AI"
     excerpt: "Alphabet unit Google enjoys a competitive edge in generative artificial intelligence due to its trove of data and AI-optimised chips, Microsoft has told EU antitrust regulators, underscoring the rivalry between the two tech giants."
     publishedDateTime: 2024-03-14T22:34:00Z

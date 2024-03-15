@@ -64,6 +64,20 @@ related:
       name: Entrepreneur
       domain: entrepreneur.com
     quality: 49
+  - title: "Ready for the Biotech Bounce Back in 2024?"
+    excerpt: "Already, several themes have emerged as value drivers in 2024, including artificial intelligence (AI), weight loss, and cell and gene therapy manufacturing. Companies that are still standing in these sectors would be well advised to make strong moves ..."
+    publishedDateTime: 2024-03-14T00:01:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/ready-for-the-biotech-bounce-back-in-8784855/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 24
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.14355_234.jpg"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "/PAjzprrC+cYtC0gP71fgHmcH4XnmJItkGDyEgm6ZdtrulBtrt4Hvq/zg2yzzB4SVBuXlZJxSojIZMfqPu5C8cV/ni24NzgV7tk5A6Vdt5gbL3QNhg4X6wYFx6HTxVDh8GqrZlLCvPzGVAEEMn8eOGrrD5JK3Hqw2djcqNXHek5N9QOlP4VlZINhZzN46Zm4ROerOkxfmKc8rNeG41ct7h9IgITZUg3HdQTxaQDPmmCYXltl4v6Hb/IDiB9w/i9o1jZomUiDMeWgPvTgiRTrXlM2/TlYJfr8SIt4YLuEgHPHyduGfJ6sN4/4vTqe/MgzObTWz3u2HOZ7y7L26/S8mcRmLRTkyo23TDL2lpCCKywbtuSqBjHL5nwf23/tMHd8n5P9TzJXlwChJZmHumcsmdeNA5mOd09Qzm4s4H71EZNaokhLQSQw3QcEltMZIJ03g1coa5d/a/hSkX85ldMAmJs65+GQ34zwhrhSPJNb4X9bkSnEXTmTsLoTMxp+d6soTIDuGwhUx1KbOFS8+LjIsg==;16d80FJqghLXiXsuhjychw=="
 ---

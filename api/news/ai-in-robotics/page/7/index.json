@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2024-01-17-at-ces-tech-show-start-ups-unveil-ai-powered-humanoids-robots.md",
+      "title": "At CES tech show, start-ups unveil AI-powered humanoids, robots",
+      "excerpt": "Thanks to generative AI, robots depend less on pre-written scripts Las Vegas ... \"Why live with ugly machines,\" says Jerome Monceaux, head of Paris-based start-up Enchanted Tools, who was on hand to present the pair at the CES tech show in Las Vegas ...",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/technology/consumer-electronics/at-ces-tech-show-start-ups-unveil-ai-powered-humanoids-robots-1.1705492824654",
+      "originalUrl": "https://gulfnews.com/technology/consumer-electronics/at-ces-tech-show-start-ups-unveil-ai-powered-humanoids-robots-1.1705492824654",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2024/01/17/252643-01-02--Read-Only-_18d174d4911_medium.jpg",
+          "width": 540,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/technology/consumer-electronics/at-ces-tech-show-start-ups-unveil-ai-powered-humanoids-robots-1.1705492824654",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/technology/consumer-electronics/at-ces-tech-show-start-ups-unveil-ai-powered-humanoids-robots-1.1705492824654",
+      "publishedDateTime": "2024-01-17T15:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-17-tesla-continuing-the-short-bet-as-bull-thesis-depends-too-much-on-ai-and-robotics.md",
       "title": "Tesla: Continuing The Short Bet, As Bull Thesis Depends Too Much On AI And Robotics",
       "excerpt": "We will see more hype around AI/robotics, but there is no timeline for when Tesla will deliver products. Read why I decided to continue short bet on TSLA stock.",
@@ -1293,40 +1336,6 @@
       "provider": {
         "name": "Smithsonian Magazine",
         "domain": "smithsonianmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-12-robot-vendor-abb-adds-ai-based-navigation-technology-with-latest-acquisition.md",
-      "title": "Robot vendor ABB adds AI-based navigation technology with latest acquisition",
-      "excerpt": "The Swiss industrial robotics vendor ABB Ltd. is continuing to grow its footprint as a provider of mobile robotic solutions, announcing today that it has acquired Sevensense, a Swiss start-up that provides AI-based navigation technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dcvelocity.com/articles/59594-robot-vendor-abb-adds-ai-based-navigation-technology-with-latest-acquisition",
-      "originalUrl": "https://www.dcvelocity.com/articles/59594-robot-vendor-abb-adds-ai-based-navigation-technology-with-latest-acquisition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-11T21:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DC Velocity",
-        "domain": "dcvelocity.com",
         "images": null,
         "publishers": null,
         "authors": null

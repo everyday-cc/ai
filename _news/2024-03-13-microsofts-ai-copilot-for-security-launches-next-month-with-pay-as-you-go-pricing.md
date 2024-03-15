@@ -55,6 +55,22 @@ related:
         width: 1260
         height: 708
         isCached: true
+  - title: "Apple acquires AI startup to compete with Google, Microsoft"
+    excerpt: "Apple acquires DarwinAI for device AI. Apple is looking to utilise DarwinAI’s systems to help it in its efforts to run AI on devices instead of in the"
+    publishedDateTime: 2024-03-15T01:55:00Z
+    webUrl: "https://timesofindia.indiatimes.com/technology/tech-news/apple-acquires-ai-startup-to-compete-with-google-microsoft/articleshow/108503861.cms"
+    ampWebUrl: "https://timesofindia.indiatimes.com/technology/tech-news/apple-acquires-ai-startup-to-compete-with-google-microsoft/amp_articleshow/108503861.cms"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/technology/tech-news/apple-acquires-ai-startup-to-compete-with-google-microsoft/amp_articleshow/108503861.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-108503852,width-1280,height-720,resizemode-4/108503852.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Microsoft Faces Pressure to Deliver on AI Integration for Windows"
     excerpt: "Microsoft's AI roadmap, the industry watches with bated breath, hoping for a breakthrough to propel AI-enabled computing into the mainstream."
     publishedDateTime: 2024-03-13T10:35:00Z

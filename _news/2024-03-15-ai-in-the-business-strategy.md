@@ -25,42 +25,72 @@ images:
     isCached: true
 
 related:
-  - title: "AI in business: Balancing innovation, ethics and a regulatory framework"
-    excerpt: "Tech companies need to recognize the importance of combining human-centered values with technology ethics."
-    publishedDateTime: 2024-03-13T01:35:00Z
-    webUrl: "https://www.thejakartapost.com/business/2024/03/13/ai-in-business-balancing-innovation-ethics-and-a-regulatory-framework.html"
+  - title: "Leadership Strategy Navigating The EU AI Act"
+    excerpt: "This significant legislation necessitates a reevaluation of AI strategies and practices for business leaders around the world."
+    publishedDateTime: 2024-03-14T08:31:00Z
+    webUrl: "https://www.forbes.com/sites/paolacecchi-dimeglio/2024/03/14/leadership-strategy-navigating-the-eu-ai-act/"
     type: article
     provider:
-      name: The Jakarta Post
-      domain: thejakartapost.com
-    quality: 54
+      name: Forbes
+      domain: forbes.com
+    quality: 67
     images:
-      - url: "https://img.jakpost.net/c/2024/03/12/2024_03_12_148207_1710229692._large.jpg"
-        width: 1360
-        height: 907
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65f2b3db6e27d1bb4cca7cbd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
         isCached: true
-  - title: "The Do’s And Don’ts Of Using Artificial Intelligence In Business School"
-    excerpt: "Can AI tools help you in business school? Is AI resume help a good idea in your job search? We spoke to the dean of Villanova School of Business to find out"
-    publishedDateTime: 2024-03-14T10:06:00Z
-    webUrl: "https://www.businessbecause.com/news/mba-jobs/9260/dos-donts-using-artificial-intelligence-business-school"
+  - title: "What will the EU’s proposed act to regulate AI mean for consumers?"
+    excerpt: "How does the bill define AI, how will it protect consumers from abuse, and what do the big tech companies think about it?"
+    publishedDateTime: 2024-03-14T05:06:00Z
+    webUrl: "https://www.theguardian.com/technology/2024/mar/14/what-will-eu-proposed-regulation-ai-mean-consumers"
+    ampWebUrl: "https://amp.theguardian.com/technology/2024/mar/14/what-will-eu-proposed-regulation-ai-mean-consumers"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/mar/14/what-will-eu-proposed-regulation-ai-mean-consumers"
     type: article
     provider:
-      name: Business Because
-      domain: businessbecause.com
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/8fe841cd767bea2719c60a084174d64724d47c1f/0_377_5764_3458/master/5764.jpg?width=620&quality=85&auto=format&fit=max&s=faf17d32f3d8ebb7329cf320ab395851"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "The EU AI Act Passes Another Hurdle Towards Becoming Law"
+    excerpt: "What Will Happen Once the EU AI Act Becomes Law? The AI Act will start to apply in phases. The first AI Act provisions to kick in will be the ones which prohibit certain applications of AI (e.g., AI systems that exploit individuals’ vulnerabilities ..."
+    publishedDateTime: 2024-03-14T00:01:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/the-eu-ai-act-passes-another-hurdle-2201330/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
     quality: 37
     images:
-      - url: "https://www.businessbecause.com/uploads/default/news/images/845a9791142b82a8b5536bae844a83976fc67680.png"
-        width: 750
-        height: 468
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.7499_58.jpg"
+        width: 1200
+        height: 900
         isCached: true
-  - title: "Three Lessons for (Business) Leaders in the Age of AI"
-    excerpt: "Artificial intelligence can potentially transform our lives in ways we can barely even imagine. But for all the potential upside, there are important considerations business leaders should keep in mind."
-    publishedDateTime: 2024-03-11T06:37:00Z
-    webUrl: "https://businesstech.co.za/news/industry-news/758027/three-lessons-for-business-leaders-in-the-age-of-ai/"
+  - title: "Key Considerations Regarding the Recently Passed EU Artificial Intelligence Act"
+    excerpt: "On Wednesday, March 13, the European Parliament approved the regulation harmonizing rules on artificial intelligence (AI) (the AI Act). Stakeholders must comply with the AI Act due to its global reach, when it takes effect this year. Global scope — The ..."
+    publishedDateTime: 2024-03-14T00:01:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/key-considerations-regarding-the-6103282/"
     type: article
     provider:
-      name: businesstech.co.za
-      domain: businesstech.co.za
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 33
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15731_377.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Tech News Now: The EU AI Act, The US TikTok ban, and more"
+    excerpt: "The European Parliament will vote today on its landmark Artificial Intelligence Act. The U.S. House will vote today on a bill that would force ByteDance to divest TikTok or face a ban. Good morning and welcome to Tech News Now, TheStreet's daily tech rundown."
+    publishedDateTime: 2024-03-13T16:02:00Z
+    webUrl: "https://www.thestreet.com/technology/tech-news-now-the-eu-ai-act-the-us-tiktok-ban-and-more"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
     quality: 19
 
 secured: "/XwoHSZS+BVqAaZ2v8Rr/ki47rrfa9snrQW1GCl00cmdlPJM5LKR1UoCUVHugg+TZPWjrORRFTnS2p9HbqNhTYFTOowmI2LYRl2YAES9Qrj3mrIbcdPQ7/WQqzAW7L1Z+TA4oYrwXrwbsMalcHslI4NuD31dZNd8j+YT5ySxJwcheWpzGOSxUUbYtPLAPcaG0NGA86wuGsVoBAO/9uXFmYryQeSyNe0t6Q+aEZ/DL8ugoxb1YpYCDxcgIfzmGC/KaLQX2Hfy5YJfSOis8HEXEQRpYOXgwXJQzLKE3Ds2xTTlJ4NGUMXLu4lFGfWLADvLz9ew3SF/LDVoesVtUOMolTQJBpuGLJ3ZxuCIoTYlRUEuV0+xN6vLS/vzfk7K7ZZ5HCA0/JoYD0hW8sILrA6lq8y5EfRzRF9rmxowVuvNvSwoelaRVl5FdSqKTcYMzZb7fVdCDdGbUIbeh0ojNYtUOz2TC4A1FwzeICCWm2b4/L0VR1LQIYgVilnXZCNZSe3UlzGLIPT1MWk//W7KwKaDqg==;WARn3RBjoMn4DR/rk2JDEA=="

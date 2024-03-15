@@ -24,30 +24,72 @@ images:
     isCached: true
 
 related:
-  - title: "EU approves Artificial Intelligence Act: What is it, banned applications, exemptions and more"
-    excerpt: "The European Union Parliament has approved the AI Act, which aims to protect fundamental rights from high-risk AI. The act prohibits various AI uses a"
-    publishedDateTime: 2024-03-13T14:53:00Z
-    webUrl: "https://timesofindia.indiatimes.com/technology/tech-news/eu-approves-artificial-intelligence-act-what-is-it-banned-applications-exemptions-and-more/articleshow/108470522.cms"
-    ampWebUrl: "https://timesofindia.indiatimes.com/technology/tech-news/eu-approves-artificial-intelligence-act-what-is-it-banned-applications-exemptions-and-more/amp_articleshow/108470522.cms"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/technology/tech-news/eu-approves-artificial-intelligence-act-what-is-it-banned-applications-exemptions-and-more/amp_articleshow/108470522.cms"
+  - title: "Leadership Strategy Navigating The EU AI Act"
+    excerpt: "This significant legislation necessitates a reevaluation of AI strategies and practices for business leaders around the world."
+    publishedDateTime: 2024-03-14T08:31:00Z
+    webUrl: "https://www.forbes.com/sites/paolacecchi-dimeglio/2024/03/14/leadership-strategy-navigating-the-eu-ai-act/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 48
+      name: Forbes
+      domain: forbes.com
+    quality: 67
     images:
-      - url: "https://static.toiimg.com/thumb/msid-108470479,width-1280,height-720,resizemode-4/108470479.jpg"
-        width: 1280
-        height: 720
+      - url: "https://imageio.forbes.com/specials-images/imageserve/65f2b3db6e27d1bb4cca7cbd/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
+        width: 1350
+        height: 900
         isCached: true
-  - title: "EU Parliament passes landmark AI Act — here’s what to expect"
-    excerpt: "The EU Parliament greenlights the world's first major AI law, the EU AI Act, which categorizes AI risks, bans harmful practices and promotes transparency. It aims to ensure AI development safeguards human rights and fosters trustworthy AI for the EU."
-    publishedDateTime: 2024-03-13T11:57:00Z
-    webUrl: "https://cointelegraph.com/news/eu-parliament-passes-landmark-ai-act"
+  - title: "What will the EU’s proposed act to regulate AI mean for consumers?"
+    excerpt: "How does the bill define AI, how will it protect consumers from abuse, and what do the big tech companies think about it?"
+    publishedDateTime: 2024-03-14T05:06:00Z
+    webUrl: "https://www.theguardian.com/technology/2024/mar/14/what-will-eu-proposed-regulation-ai-mean-consumers"
+    ampWebUrl: "https://amp.theguardian.com/technology/2024/mar/14/what-will-eu-proposed-regulation-ai-mean-consumers"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2024/mar/14/what-will-eu-proposed-regulation-ai-mean-consumers"
     type: article
     provider:
-      name: CoinTelegraph
-      domain: cointelegraph.com
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/8fe841cd767bea2719c60a084174d64724d47c1f/0_377_5764_3458/master/5764.jpg?width=620&quality=85&auto=format&fit=max&s=faf17d32f3d8ebb7329cf320ab395851"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "AI in the Business Strategy"
+    excerpt: "These were just some of the comments from Drew Thompson, the morning keynote speaker at the New Jersey Business & Industry Association’s"
+    publishedDateTime: 2024-03-14T18:29:00Z
+    webUrl: "https://njbmagazine.com/njb-news-now/ai-in-the-business-strategy/"
+    type: article
+    provider:
+      name: New Jersey Business
+      domain: njbmagazine.com
+    quality: 39
+    images:
+      - url: "https://njbmagazine.com/wp-content/uploads/2024/03/IMG_20240314_0913167862.jpg"
+        width: 775
+        height: 500
+        isCached: true
+  - title: "Key Considerations Regarding the Recently Passed EU Artificial Intelligence Act"
+    excerpt: "On Wednesday, March 13, the European Parliament approved the regulation harmonizing rules on artificial intelligence (AI) (the AI Act). Stakeholders must comply with the AI Act due to its global reach, when it takes effect this year. Global scope — The ..."
+    publishedDateTime: 2024-03-14T00:01:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/key-considerations-regarding-the-6103282/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 33
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15731_377.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Tech News Now: The EU AI Act, The US TikTok ban, and more"
+    excerpt: "The European Parliament will vote today on its landmark Artificial Intelligence Act. The U.S. House will vote today on a bill that would force ByteDance to divest TikTok or face a ban. Good morning and welcome to Tech News Now, TheStreet's daily tech rundown."
+    publishedDateTime: 2024-03-13T16:02:00Z
+    webUrl: "https://www.thestreet.com/technology/tech-news-now-the-eu-ai-act-the-us-tiktok-ban-and-more"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
     quality: 19
 
 secured: "QzDMFlr6IXWnLhWbWdleGTxXKZ5e7AC0pPr/pk9ejkyq/07aQFLNYuoFkvf0ZV2UxYVltqvpuweeF4OqLP+NtNUzHkM7I1wt9dHcVP93TLRNc/Q04Gi9tu2DRd1z54ZSxDvQzVpldveXGS7C0cTr/o2oIwVyosIXoIxGotp2GPqfb8mBPRN67JFGt/3PP2vQ6xQ6/TG0veyACWK68KDKFNpF6vxw9qx84EKTAVDUJD8V/+EmyyQYDignLh7CdYFTmabn1yxnNFCCjgYZfpnADAVirhoq6XdhsjdLKJ7qyx2yP9TgCv2hEuqOOoesI6ObyrLh8queZBz8hWe0YLzMhrswDPaH48wG8CyBbAguAtc=;gsXJuss7IdTGc9yQ4pEd4A=="

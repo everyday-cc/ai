@@ -7,7 +7,7 @@ originalUrl: "https://www.thejakartapost.com/business/2024/03/13/ai-in-business-
 webUrl: "https://www.thejakartapost.com/business/2024/03/13/ai-in-business-balancing-innovation-ethics-and-a-regulatory-framework.html"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI in the Business Strategy"
-    excerpt: "These were just some of the comments from Drew Thompson, the morning keynote speaker at the New Jersey Business & Industry Association’s"
-    publishedDateTime: 2024-03-14T18:29:00Z
-    webUrl: "https://njbmagazine.com/njb-news-now/ai-in-the-business-strategy/"
-    type: article
-    provider:
-      name: New Jersey Business
-      domain: njbmagazine.com
-    quality: 39
-    images:
-      - url: "https://njbmagazine.com/wp-content/uploads/2024/03/IMG_20240314_0913167862.jpg"
-        width: 775
-        height: 500
-        isCached: true
   - title: "The Do’s And Don’ts Of Using Artificial Intelligence In Business School"
     excerpt: "Can AI tools help you in business school? Is AI resume help a good idea in your job search? We spoke to the dean of Villanova School of Business to find out"
     publishedDateTime: 2024-03-14T10:06:00Z

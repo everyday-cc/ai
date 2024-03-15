@@ -9,8 +9,8 @@ ampWebUrl: "https://www.mactech.com/2024/03/14/apple-scoops-up-artificial-intell
 cdnAmpWebUrl: "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2024/03/14/apple-scoops-up-artificial-intelligence-startup-darwin-ai/amp/"
 type: article
 quality: 72
-heat: 112
-published: true
+heat: -1
+published: false
 
 provider:
   name: MacTech
@@ -26,6 +26,45 @@ images:
     isCached: true
 
 related:
+  - title: "Apple buys Canadian start-up DarwinAI after falling behind Microsoft, Google in generative AI"
+    excerpt: "One of DarwinAI’s core technologies is making artificial intelligence systems smaller and faster, which could help Apple run AI on devices."
+    publishedDateTime: 2024-03-15T02:45:00Z
+    webUrl: "https://www.scmp.com/tech/big-tech/article/3255458/apple-buys-canadian-start-darwinai-after-falling-behind-microsoft-google-generative-ai"
+    type: article
+    provider:
+      name: scmp.com
+      domain: scmp.com
+    quality: 73
+    images:
+      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/03/15/af39247b-8fc3-45fe-b9f9-1c4c764a402a_aaaec09d.jpg?itok=gjruiJkX&v=1710470604"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Apple buys Canadian AI startup DarwinAI"
+    excerpt: "The startup also has worked with companies like Lockheed Martin Corp. and Intel Corp., according to Communitech. The under-the-radar acquisition comes ahead of a big AI push for Apple this year. The company is adding features to its iOS 18 software that ..."
+    publishedDateTime: 2024-03-14T00:01:00Z
+    webUrl: "https://financialpost.com/technology/apple-buys-canadian-ai-startup-darwinai"
+    ampWebUrl: "https://financialpost.com/technology/apple-buys-canadian-ai-startup-darwinai/wcm/e42ab6bf-8972-4aa0-831f-4152c5009a09/amp/"
+    cdnAmpWebUrl: "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/technology/apple-buys-canadian-ai-startup-darwinai/wcm/e42ab6bf-8972-4aa0-831f-4152c5009a09/amp/"
+    type: article
+    provider:
+      name: Financial Post
+      domain: financialpost.com
+    quality: 57
+    images:
+      - url: "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/03/no0314apple.jpg"
+        width: 1000
+        height: 750
+        isCached: true
+  - title: "Better Artificial Intelligence (AI) Stock: Nvidia vs. Microsoft"
+    excerpt: "Nvidia and Microsoft are both promising plays on the AI market, but Nvidia's simpler business model, higher growth rates, and more reasonable valuations make it the better buy. Nvidia's investors should keep an eye on the competitive and regulatory headwinds, but it could be years before any of those challenges limit its growth."
+    publishedDateTime: 2024-03-10T13:59:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/stocks/MSFT-Q/pressreleases/24684851/better-artificial-intelligence-ai-stock-nvidia-vs-microsoft/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 49
   - title: "Apple Buys Canadian AI Startup as It Races to Add Features"
     excerpt: "Apple Inc. has acquired Canadian artificial intelligence startup DarwinAI, adding technology to its arsenal ahead of a big push into generative AI in 2024."
     publishedDateTime: 2024-03-14T17:08:00Z
@@ -44,6 +83,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 44
+  - title: "Apple acquires DarwinAI startup ahead of iOS 18’s AI push"
+    excerpt: "Apple has acquired DarwinAI, an artificial intelligence startup focused on making AI systems smaller and faster, according to a"
+    publishedDateTime: 2024-03-14T17:26:00Z
+    webUrl: "https://9to5mac.com/2024/03/14/apple-acquires-darwinai-startup-ahead-of-ios-18s-ai-push/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 37
+    images:
+      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/06/apple-park@0.5x.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Apple acquires Canadian AI startup - Bloomberg"
     excerpt: "According to a report by Bloomberg on Thursday, Canadian artificial intelligence startup DarwinAI has been acquired by Apple (NASDAQ: AAPL ). The tech giant is said to have purchased the company as part of its race to add technology to its arsenal ahead of a significant push into generative AI in 2024."
     publishedDateTime: 2024-03-14T18:08:00Z
@@ -63,6 +116,6 @@ related:
       domain: tweaktown.com
     quality: 16
 
-secured: "lCPyHxpFq5c4cbNzPRSI1tulkRx9aWLerqv+l+/jgZYDSgqzci5bLBuNo+4anuWltpjY0/QEA3unD2huUyY9VLksom47PLlmyis6voFXUfv2eUCOx/HTervIJcjh0XkY/1lVY4fk1TRA0txWzcud53BaCm4hCSOzrO+RQmlu6w7mKRdtGmB9F5dsUwbpTIs6xRJv78UwuPTxklk/x6TXi2QMjBhxenfb6GMCUb04vimxWfyarpb1CdWq89mFoKsrcZyEyTbeT52/yooKmOCmLJixWrfw+0dbde560R8d4OMjmhpMYdCIvbCpnDjXGD1OgnRlsmh1Btg6cArpCVZKsQHXj+yyFA5v/vr9+d+sxNk=;10ZVHlbrSbOCTzT0OFKFlA=="
+secured: "rJBmrXN1RlO++FVIzdKyQzl3VL7l+cr0HHzqV5lPiZYAn03Z0gL+pCmn1Jm/Ct6m3c61vzBikbG+Ql//1vyNvYL5ANRc4ZIiNF5meBlOvKH32uJdgQcOM1lw5JZPHX2WYjXMx1AjaBlatqeu40yJHauIlCXaIzYcHHRnMAfTaGbUl5SllZ+xwf/Shu5/iGXcgxHz+7CM+kJP4cjNdc+hn3hI9x5lAdJXFi7/A/tCg0U0jld2QV5TMe3l9LkzH5QrqE/x99jcnhACguk1FevMBAb3JIDmEQIce1+DjG2bCsTqf+l0f3HmNI58kJih2n/fr2BTSU92uNqCBPT9dPYCw2Xu8Gvu+RFCGu9qBAongHjToi5TUIvrduFSW8hLG0XeYPucFLlRn3/EUtXK8VSGS8na6CmMB6yaxr9PPSoHqxXlqwWvcP+4Am3ZDSj1R3v3Efeb2gzzAW8HEoQoLvpmYIGNjifDlvIatH+0UHbPpVEmlesR/Y1Y/GzKNcqt+JlqAreNEBgbaTDQFwtKYq7naA==;FM6+Szj8fYzIoXRgPAZhxw=="
 ---
 
