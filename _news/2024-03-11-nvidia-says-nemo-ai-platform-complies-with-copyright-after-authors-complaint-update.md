@@ -56,15 +56,6 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 46
-  - title: "Jensen Huang: Even if competitors' AI products were free, Nvidia's hardware would still be better value"
-    excerpt: "A hot potato: Nvidia has become the dominant force in the AI hardware industry, and CEO Jensen Huang knows it. The leather jacket-loving boss is so confident in the ability of his products, he says that even if the competitors' chips were free, they would ..."
-    publishedDateTime: 2024-03-11T05:19:00Z
-    webUrl: "https://www.techspot.com/news/102208-jensen-huang-even-if-competitors-ai-products-free.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 33
 
 secured: "nA92bM7wj/Ie/x+nIOkhWoiZHzsrT3QHOco6u7dylkWiBuWZbQ00x3ZHwr2xrA3s5Sk7WqVtTIMVWJ5CRoPbAjbruQ+ItMNi/6X3SGUFVMZPLy0xY5DbymriKCZq9PMuKQPoRuJwcfYzzFNCZ75C9XPq13QtCyWSQE+l7RjllzZYa6vLvW4yDEtXtvSDXwes3/Hx/8Yx8v/hDsL4Ei4h4UJUbX8XEkkCR/iCrXwHpYsVXXg3iIBjDgdICy0vxuvJKqbSqdoT/4RknOJFGUsLc0f5/KvALljM9bbs9yzoGofSY6lR9g5xxx0t/fEKmMAho8ex7Y7ALw26dVkrRHKnbX+Iq/NXyTxjW+AgN+GkISo=;AhTJjPaN1iRNZJMmfvbAPg=="
 ---

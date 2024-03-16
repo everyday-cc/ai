@@ -85,15 +85,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "AI talent war heats up in Europe"
-    excerpt: "An influx of artificial intelligence (AI) startups is heating up the battle for technical talent in Europe, leaving companies like Google DeepMind to choose between paying big or losing out on the region's best minds."
-    publishedDateTime: 2024-03-11T05:03:00Z
-    webUrl: "https://www.reuters.com/technology/ai-talent-war-heats-up-europe-2024-03-11/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 49
   - title: "European Parliament Advances Law for Strict AI Regulation"
     excerpt: "The public’s demand for regulation in artificial intelligence (AI) is increasingly evident, spurred by growing concerns over"
     publishedDateTime: 2024-03-15T16:13:00Z

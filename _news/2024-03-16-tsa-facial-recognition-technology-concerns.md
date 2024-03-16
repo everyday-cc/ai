@@ -65,6 +65,17 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "TSA expands facial recognition technology to Texas"
+    excerpt: "TSA is expanding its facial recognition technology to nearly 30 airports all across the country, including here in Texas but there are some security concerns. FOX 26 anchor Caroline Collins explains more."
+    publishedDateTime: 2024-03-16T00:00:00Z
+    webUrl: "https://www.fox26houston.com/video/1426543"
+    ampWebUrl: "https://www.fox26houston.com/video/1426543.amp"
+    cdnAmpWebUrl: "https://www-fox26houston-com.cdn.ampproject.org/c/s/www.fox26houston.com/video/1426543.amp"
+    type: article
+    provider:
+      name: KRIV
+      domain: fox26houston.com
+    quality: 39
   - title: "Elma man arrested in child porn case using facial recognition technology"
     excerpt: "In a groundbreaking use of technology, Matthew A. Steele, 53, from Elma, New York, has been arrested and charged with the production and distribution of child pornography, announced U.S. Attorney Trini E. Ross. The charges could result in a prison sentence ranging from a mandatory minimum of 15 years to a maximum of 30 years."
     publishedDateTime: 2024-03-14T09:29:00Z

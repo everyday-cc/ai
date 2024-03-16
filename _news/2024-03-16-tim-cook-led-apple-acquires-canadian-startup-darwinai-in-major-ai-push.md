@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Apple scoops up artificial intelligence startup Darwin AI"
-excerpt: "Apple has acquired Canadian artificial intelligence startup DarwinAI, “adding technology to its arsenal ahead of a big push into generative AI in 2024,” reports Bloomberg. The tech giant purchased the business earlier this year,"
-publishedDateTime: 2024-03-15T00:19:00Z
-originalUrl: "https://www.mactech.com/2024/03/14/apple-scoops-up-artificial-intelligence-startup-darwin-ai/"
-webUrl: "https://www.mactech.com/2024/03/14/apple-scoops-up-artificial-intelligence-startup-darwin-ai/"
-ampWebUrl: "https://www.mactech.com/2024/03/14/apple-scoops-up-artificial-intelligence-startup-darwin-ai/amp/"
-cdnAmpWebUrl: "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2024/03/14/apple-scoops-up-artificial-intelligence-startup-darwin-ai/amp/"
+title: "Tim Cook-led Apple acquires Canadian startup DarwinAI in major AI push"
+excerpt: "Apple has acquired Canadian artificial intelligence startup DarwinAI, Bloomberg has learnt. Earlier this year, the Tim Cook-led iPhone maker had made the acquisition. According to the report, dozens of DarwinAI employees had joined Apple's AI division,"
+publishedDateTime: 2024-03-16T05:23:00Z
+originalUrl: "https://www.hindustantimes.com/technology/tim-cook-led-apple-acquires-canadian-startup-darwinai-in-major-ai-push-101710558988257.html"
+webUrl: "https://www.hindustantimes.com/technology/tim-cook-led-apple-acquires-canadian-startup-darwinai-in-major-ai-push-101710558988257.html"
+ampWebUrl: "https://www.hindustantimes.com/technology/tim-cook-led-apple-acquires-canadian-startup-darwinai-in-major-ai-push-101710558988257-amp.html"
+cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/tim-cook-led-apple-acquires-canadian-startup-darwinai-in-major-ai-push-101710558988257-amp.html"
 type: article
-quality: 72
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: MacTech
-  domain: mactech.com
+  name: Hindustan Times
+  domain: hindustantimes.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.mactech.com/wp-content/uploads/2024/03/Shopping-Cart-1024x999.jpg"
-    width: 1024
-    height: 999
+  - url: "https://www.hindustantimes.com/ht-img/img/2024/03/16/1600x900/Apple_CEO_Tim_Cook_1710566262033_1710566262232.jpg"
+    width: 1600
+    height: 900
     isCached: true
 
 related:
@@ -58,21 +58,21 @@ related:
         width: 1280
         height: 714
         isCached: true
-  - title: "Tim Cook-led Apple acquires Canadian startup DarwinAI in major AI push"
-    excerpt: "Apple has acquired Canadian artificial intelligence startup DarwinAI, Bloomberg has learnt. Earlier this year, the Tim Cook-led iPhone maker had made the acquisition. According to the report, dozens of DarwinAI employees had joined Apple's AI division,"
-    publishedDateTime: 2024-03-16T05:23:00Z
-    webUrl: "https://www.hindustantimes.com/technology/tim-cook-led-apple-acquires-canadian-startup-darwinai-in-major-ai-push-101710558988257.html"
-    ampWebUrl: "https://www.hindustantimes.com/technology/tim-cook-led-apple-acquires-canadian-startup-darwinai-in-major-ai-push-101710558988257-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/tim-cook-led-apple-acquires-canadian-startup-darwinai-in-major-ai-push-101710558988257-amp.html"
+  - title: "Apple scoops up artificial intelligence startup Darwin AI"
+    excerpt: "Apple has acquired Canadian artificial intelligence startup DarwinAI, “adding technology to its arsenal ahead of a big push into generative AI in 2024,” reports Bloomberg. The tech giant purchased the business earlier this year,"
+    publishedDateTime: 2024-03-15T00:19:00Z
+    webUrl: "https://www.mactech.com/2024/03/14/apple-scoops-up-artificial-intelligence-startup-darwin-ai/"
+    ampWebUrl: "https://www.mactech.com/2024/03/14/apple-scoops-up-artificial-intelligence-startup-darwin-ai/amp/"
+    cdnAmpWebUrl: "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2024/03/14/apple-scoops-up-artificial-intelligence-startup-darwin-ai/amp/"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 57
+      name: MacTech
+      domain: mactech.com
+    quality: 72
     images:
-      - url: "https://www.hindustantimes.com/ht-img/img/2024/03/16/1600x900/Apple_CEO_Tim_Cook_1710566262033_1710566262232.jpg"
-        width: 1600
-        height: 900
+      - url: "https://www.mactech.com/wp-content/uploads/2024/03/Shopping-Cart-1024x999.jpg"
+        width: 1024
+        height: 999
         isCached: true
   - title: "Apple Acquires Canadian Startup DarwinAI: Reports"
     excerpt: "Tech giant Apple Inc.(AAPL) has reportedly acquired DarwinAI, an AI startup based in Canada. The acquisition, reported by"
@@ -125,6 +125,6 @@ related:
       domain: techworm.net
     quality: 17
 
-secured: "rJBmrXN1RlO++FVIzdKyQzl3VL7l+cr0HHzqV5lPiZYAn03Z0gL+pCmn1Jm/Ct6m3c61vzBikbG+Ql//1vyNvYL5ANRc4ZIiNF5meBlOvKH32uJdgQcOM1lw5JZPHX2WYjXMx1AjaBlatqeu40yJHauIlCXaIzYcHHRnMAfTaGbUl5SllZ+xwf/Shu5/iGXcgxHz+7CM+kJP4cjNdc+hn3hI9x5lAdJXFi7/A/tCg0U0jld2QV5TMe3l9LkzH5QrqE/x99jcnhACguk1FevMBAb3JIDmEQIce1+DjG2bCsTqf+l0f3HmNI58kJih2n/fr2BTSU92uNqCBPT9dPYCw2Xu8Gvu+RFCGu9qBAongHjToi5TUIvrduFSW8hLG0XeYPucFLlRn3/EUtXK8VSGS8na6CmMB6yaxr9PPSoHqxXlqwWvcP+4Am3ZDSj1R3v3Efeb2gzzAW8HEoQoLvpmYIGNjifDlvIatH+0UHbPpVEmlesR/Y1Y/GzKNcqt+JlqAreNEBgbaTDQFwtKYq7naA==;FM6+Szj8fYzIoXRgPAZhxw=="
+secured: "rd0cFxWDHc26bQFalGlnud3xi2bEyQGxe6vUjiUo7paAj+b+NHgWAdx3JBPc4H7SLfdy6e707ZbW8OW1j39pxINwWwi7HJfZoRoRx6ViQMjIYpnW/I7Qj+lTsoS4XoSnXobe2nbTtJCta3ZsMcnRfd4+KXQvzh+d8OklpkePOm5mOpb83TLxRYds+i/ykaDz0rXxR+vGPPzFl7tBA0yyfJY9RO56JQ5DETWOFqi9YqqheP+3D41XAgbyyNSkRbBe8ZiSUq6gp8IWIdz5jrXSTS28/5MFe02RPJ/Go+fVrksc26sXAoQUzd6z155yW73Ge0mgl69jg4fkNLUv8xk+tSd6oZUNFeM4Pahn0EdHRmw=;DBBjKkgHhZKBj9YLhBBBgg=="
 ---
 

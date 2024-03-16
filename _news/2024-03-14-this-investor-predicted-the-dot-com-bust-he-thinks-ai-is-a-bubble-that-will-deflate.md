@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2024/03/14/investing/premarket-stocks-tradin
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2024/03/14/investing/premarket-stocks-trading-ai-bubble-grantham/index.html"
 type: article
 quality: 79
-heat: 79
+heat: 81
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/nvidia-says-nemo-ai-platform-c
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/nvidia-says-nemo-ai-platform-complies-with-copyright-law-after-authors-complaint-4b8d4a92"
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -56,15 +56,6 @@ related:
       name: Wall Street Journal
       domain: wsj.com
     quality: 46
-  - title: "Jensen Huang: Even if competitors' AI products were free, Nvidia's hardware would still be better value"
-    excerpt: "A hot potato: Nvidia has become the dominant force in the AI hardware industry, and CEO Jensen Huang knows it. The leather jacket-loving boss is so confident in the ability of his products, he says that even if the competitors' chips were free, they would ..."
-    publishedDateTime: 2024-03-11T05:19:00Z
-    webUrl: "https://www.techspot.com/news/102208-jensen-huang-even-if-competitors-ai-products-free.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 33
 
 secured: "vcJrDz2ArN+nKin/6F+tR4LpI1Pj/HIJ6C/s46eAzyoG6oipbyn62aT+93t6Kzn2XgGiEV+pH+iEQBwLyzyJ5ObDtBVIqApxPn8hpIBK+aMOSIN7r5gmScYQEHpd+1SLMR7IScBHyP2mSCPs6YD1xDEs7ZJ3IJOqtjC+XOmFPssgYPXJjq3F3GI1dLg5Eogpci/Vz4pprgKzIOBrmgXdoGPjo29EMQTxZH1zRLeWU2ZM5+0jaLm+PYXuQB4HQ8uQFPmKCbWP/e9WIOiyahFnkUWv93xxS7rUlEWpNZR9IERm5R4az80WtTqzfqARQy9HF4fiZW/+PJKFjh2CEbOa0NcwkGjdIb3Dl2dESf2nbPM=;ukuL57+Yw8ppOYZIpeb7rg=="
 ---

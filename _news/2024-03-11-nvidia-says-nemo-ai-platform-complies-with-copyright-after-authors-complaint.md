@@ -55,15 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Jensen Huang: Even if competitors' AI products were free, Nvidia's hardware would still be better value"
-    excerpt: "A hot potato: Nvidia has become the dominant force in the AI hardware industry, and CEO Jensen Huang knows it. The leather jacket-loving boss is so confident in the ability of his products, he says that even if the competitors' chips were free, they would ..."
-    publishedDateTime: 2024-03-11T05:19:00Z
-    webUrl: "https://www.techspot.com/news/102208-jensen-huang-even-if-competitors-ai-products-free.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 33
 
 secured: "PtnNaIdzrCb2i2ORPhGbyN8e2vWQ0ySs4e5CQTlNIRyxMwoop0B6MbUcw0FQ8HpyIeG1mIJ2pL4NC3SFozqNhit++Ckkm8NNgvC08pI29plX2yT/J5+aeweS6Xl825cB6KLhUL1VKgz68W/ZjjAzrOd075/oFJd9Mu6PEz96dQtCZ733CKbXJKQErqQJVQqI0yGYyHGRxvcFXjn1TPr8EREWfpQje8kmuzTVW0TcLu9q/lez54UuoQ4xcABELkyqJQdc2to5DVg+kwTJcc2HYIe2jr47/DhhziHOWC1aBAQ4r2MNrqxSNVTYTrodf7GQhn40cA8GX8Wl1rY+TiZnT6YkglynNr0T3ZJl32zS1DJrN5qmy3Y0MGA6u2EsHa4Szwe3pq/eVyialjNl38KTIVdLVVfbpOY0XsAvpy+xefrSQ/a7LC+Py7eDT1p8YUermRXVM2+G0fAZL+Mh7J36y241PoZvEP4xyhHhK9kQ2WlAhm5iNi/PkWW5bfDZLDJMZHCpAGQQ2vJr96mMNZFxXA==;Qjjk95yZdbD10qpaT+dFGA=="
 ---

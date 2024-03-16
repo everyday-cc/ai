@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/anthropic-releases-claude-3-haiku-an-ai
 webUrl: "https://venturebeat.com/ai/anthropic-releases-claude-3-haiku-an-ai-model-built-for-speed-and-affordability/"
 type: article
 quality: 62
-heat: 72
+heat: 74
 published: true
 
 provider:

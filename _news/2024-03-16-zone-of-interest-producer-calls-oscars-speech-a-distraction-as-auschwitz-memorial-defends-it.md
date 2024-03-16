@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "‘Zone of Interest’ producer calls Jonathan Glazer’s Oscars speech a ‘distraction’"
+    excerpt: "(JTA) — A Jewish executive producer of the Oscar-winning Holocaust drama “The Zone of Interest” said he disagreed with director Jonathan Glazer’s speech at the Academy Awards ceremony criticizing Israel, while the Auschwitz Memorial issued a statement in its defense."
+    publishedDateTime: 2024-03-16T05:23:00Z
+    webUrl: "https://forward.com/fast-forward/593411/zone-of-interest-producer-calls-jonathan-glazers-oscars-speech-a-distraction/"
+    ampWebUrl: "https://forward.com/fast-forward/593411/zone-of-interest-producer-calls-jonathan-glazers-oscars-speech-a-distraction/?amp=1"
+    cdnAmpWebUrl: "https://forward-com.cdn.ampproject.org/c/s/forward.com/fast-forward/593411/zone-of-interest-producer-calls-jonathan-glazers-oscars-speech-a-distraction/?amp=1"
+    type: article
+    provider:
+      name: The Forward
+      domain: forward.com
+    quality: 39
+    images:
+      - url: "https://forward.com/wp-content/uploads/2024/03/3-12-24-glazer-1.jpg?_t=1710566585"
+        width: 2160
+        height: 1245
+        isCached: true
   - title: "‘Zone of Interest’ producer criticizes Glazer’s Oscars speech: Lacked ‘proper context’"
     excerpt: "Blaming Hamas for civilian deaths, Danny Cohen says he 'fundamentally disagrees' with director's remarks against Israel and that they're a 'distraction' from the award-winning film"
     publishedDateTime: 2024-03-16T01:17:00Z

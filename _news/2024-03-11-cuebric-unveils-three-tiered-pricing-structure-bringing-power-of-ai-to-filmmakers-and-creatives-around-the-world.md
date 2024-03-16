@@ -25,19 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "HP unveils industry’s largest portfolio of AI PCs"
-    excerpt: "HP Inc. (NYSE: HPQ) today announced the industry’s largest portfolio of AI PCs leveraging the power of AI to enhance productivity, creativity, and user experiences in hybrid work settings. In an ever-changing hybrid work landscape,"
-    publishedDateTime: 2024-03-11T05:51:00Z
-    webUrl: "https://manilastandard.net/tech/gadgets/314424892/hp-unveils-industrys-largest-portfolio-of-ai-pcs.html"
+  - title: "CQG unveils machine learning toolkit for predicting futures market moves"
+    excerpt: "CQG, a leading global provider of high-performance technology solutions for market makers, traders, brokers, commercial hedgers and exchanges, today announced completion of internal testing and proof-of-concept using live data on what the firm believes to be a first-of-its kind artificial intelligence (AI) predictive model for traders."
+    publishedDateTime: 2024-03-11T11:38:00Z
+    webUrl: "https://www.finextra.com/pressarticle/99960/cqg-unveils-machine-learning-toolkit-for-predicting-futures-market-moves"
     type: article
     provider:
-      name: manilastandard
-      domain: manilastandard.net
-    quality: 39
+      name: Finextra
+      domain: finextra.com
+    quality: 38
     images:
-      - url: "https://cdn.manilastandard.net/wp-content/uploads/2024/03/Screen-Shot-2024-03-11-at-1.49.34-PM.png"
-        width: 655
-        height: 464
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
+  - title: "Digital Trading Platform CQG Completes Testing of Artificial Intelligence Predictive Model for Traders"
+    excerpt: "CQG completes internal testing and proof-of-concept using live data on what the firm believes to be a first-of-its kind AI predictive model for traders."
+    publishedDateTime: 2024-03-13T03:40:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/03/222542-digital-trading-platform-cqg-completes-testing-of-artificial-intelligence-predictive-model-for-traders/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 21
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Cyber-Dollar-AI-Artificial-Intelligence.jpg"
+        width: 1200
+        height: 1568
         isCached: true
 
 secured: "W27erGyxX6HhZgv9y6vHeuLB4rr7hU5+YaIaZjxIz1HbNWIc0hv26uyraYjawyDuPul2PgC2Ibp5x+ZHgnM3NIeJCu78pkChFwY9fn0Twmga7dDzG2l05Ysdk+9Bx7I7FkvKzLs70W0NE0+oV+R5cjFGG9BYSOE3vBD3+VnqpOL+RnwkugXBQgEu/1HTENKT2NEhpGPRlI/TlrI+bQpcZiKvIZrUfcG2lz0lHd9NIwubQYraUhbyQHni/MOBuC3fIC2cLeBzle/vZpmtCnn30aFp6ii28yRM1sKt+BclByUsK1cM4oE7PrTQRW8yQX5i8RRpSVPD2mpp3w9IW11/hhhDtnfK5NNVtFqyg/WQelw=;llnTICXZntFjDTawWoPWxA=="

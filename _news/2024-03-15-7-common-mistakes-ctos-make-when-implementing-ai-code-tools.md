@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/15/7-common-m
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/15/7-common-mistakes-ctos-make-when-implementing-ai-code-tools/amp/"
 type: article
 quality: 87
-heat: 108
+heat: 107
 published: true
 
 provider:
@@ -56,6 +56,6 @@ related:
       domain: techcrunch.com
     quality: 49
 
-secured: "8cNS5vIm2/4jQD6zbfwVJVRZlE30Sq45md1MXQX3cELfXLlfx9BnQbaqvKxZqef5FYz+StZkmxyv48ukKR0w/8ZDiZhpP02vCNmCHFtvEKqxugfHlNzhoGi4Qpnv9UH1xeHNBSuhSZ802KUoTOP+jgIVlHNaTAeLvs/Mf0DjLUn4tKcDBpBeCZcMju8dNopLWqemW1PTjn2Mwyx7ooQkcLInjEoSMucbejYyFlluuSq9Y1ZWIfDNlxpzbR7vBQOUj8CNSgZ0fctaLNGoZBCFlD/2tKG4gVwvBDD4CxnixiY7HzQ1TAG+ma/83r1RiQAWx0mz+gqMuVnJxCSBDJ44vaUuT3b4qxP38Mp9quy8JHM=;Qp9juNXtlygMZvjvOxH59A=="
+secured: "nHsgawPVmwnok0waTy1TRwEYWONCCjJsnssVzMJkivp+Zaw2vecFwA/a0UoVUDETekBDAGtRrSuKNDGIpFbb9oSt7hGRmLGIlbttGi3JmBQe/Zo7WOOH6lWQUusnfjLKbuVcQSGBsdYMxx/Mi6L086S1y6aO/iDlhntMoLMko+5aHwOvtFUZ+BNxys+b2yCm/paEJYcCRujgT1NILiwp4d6O+IVgPMAxnuAoTN08ei+c4axpul0bKGNc5/1rbZo+Y4jan3gfqmZ312rTOhi8Qp53aHlZoaNjMw9eDkSv6yu3C5HDHRPi4Jlhhpfke9APjXWx9xOXaX4WfOIT9SXhLLbeptgiPyokqEklm+pCn48=;H0vJxFQCtiQEbYV+b40VeA=="
 ---
 

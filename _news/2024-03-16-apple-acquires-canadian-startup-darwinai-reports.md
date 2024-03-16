@@ -70,19 +70,21 @@ related:
         width: 1024
         height: 999
         isCached: true
-  - title: "Samsung eyes opportunity in AI chip manufacturing market amid TSMC dominance"
-    excerpt: "As companies strive to establish themselves in the AI era, the South Korean industry is monitoring whether Samsung Electronics can capitalize on the AI chip orders."
-    publishedDateTime: 2024-03-11T04:27:00Z
-    webUrl: "https://www.digitimes.com/news/a20240311PD201/samsung-ai-chip-manufacturing-tsmc.html"
+  - title: "Tim Cook-led Apple acquires Canadian startup DarwinAI in major AI push"
+    excerpt: "Apple has acquired Canadian artificial intelligence startup DarwinAI, Bloomberg has learnt. Earlier this year, the Tim Cook-led iPhone maker had made the acquisition. According to the report, dozens of DarwinAI employees had joined Apple's AI division,"
+    publishedDateTime: 2024-03-16T05:23:00Z
+    webUrl: "https://www.hindustantimes.com/technology/tim-cook-led-apple-acquires-canadian-startup-darwinai-in-major-ai-push-101710558988257.html"
+    ampWebUrl: "https://www.hindustantimes.com/technology/tim-cook-led-apple-acquires-canadian-startup-darwinai-in-major-ai-push-101710558988257-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/tim-cook-led-apple-acquires-canadian-startup-darwinai-in-major-ai-push-101710558988257-amp.html"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 51
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 57
     images:
-      - url: "https://img.digitimes.com/newsshow/20240311pd201_files/1_2b.jpg"
-        width: 1280
-        height: 853
+      - url: "https://www.hindustantimes.com/ht-img/img/2024/03/16/1600x900/Apple_CEO_Tim_Cook_1710566262033_1710566262232.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Apple acquires DarwinAI startup ahead of iOS 18’s AI push"
     excerpt: "Apple has acquired DarwinAI, an artificial intelligence startup focused on making AI systems smaller and faster, according to a"

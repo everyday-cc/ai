@@ -3,13 +3,13 @@ category: news
 title: "AI translation: how to train ‘the horses of enlightenment’"
 excerpt: "Translation algorithms have greatly improved in recent years, but can they work on literature? Human practitioners of the art are not convinced"
 publishedDateTime: 2024-03-15T14:59:00Z
-originalUrl: "https://www.theguardian.com/books/2024/mar/15/ai-translation-literature?ref=upstract.com"
-webUrl: "https://www.theguardian.com/books/2024/mar/15/ai-translation-literature?ref=upstract.com"
+originalUrl: "https://www.theguardian.com/books/2024/mar/15/ai-translation-literature"
+webUrl: "https://www.theguardian.com/books/2024/mar/15/ai-translation-literature"
 ampWebUrl: "https://amp.theguardian.com/books/2024/mar/15/ai-translation-literature"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/books/2024/mar/15/ai-translation-literature"
 type: article
-quality: 59
-heat: 69
+quality: 57
+heat: 67
 published: false
 
 provider:
@@ -21,7 +21,6 @@ provider:
       height: 50
 
 topics:
-  - Natural Language Processing
   - AI
 
 images:
@@ -41,6 +40,6 @@ related:
       domain: mcknightsseniorliving.com
     quality: 3
 
-secured: "t3aW6Ll5WCsYaLFYbFjk4RBX/ZiUMUo/LW5E+1c7+fQvq8/gM10pjz/Ls/BHqXYwcnMK9AXeY8lHrmJp9MXwivMzPLadyPHKTrac/QoMgbSdxkvZ5EAK4Iwqwrbkge2oERk7RCUHti3A1zKpPS/72Q5vWEl1ecx1Y2jOWe2cUmKEI5UPrHmoKvJWCI4y8aL0pBt6YtQdnr9TtnavKxQhFNWZcxn9hap+Tyq4RxWGWx52eshxvZiMsb86gMswHatiK6II3/cgW3/Icp3vxXTJhXuXvfNB7p32yr+gq7YZGsCZCI82s6jwAvmdsQP1cKQFYfhTnYtWXQ3+AR2RR0H9K1puUDMrCurghqtse6AuRVw=;jRPmGT/RhsoFqdURRo4sVw=="
+secured: "w4+TCYHuMTo6LOlIAEFsPQB01tM7z+bXrZaiezgCAnIjfXmT3EuCtgQUuCadcAF4jOpAN7RrA4DOiPy+rS2lAw2OJbgCsppfoEGiI/aYchM4MnxbldbnILb8YqOrJqtHlFGe6rovOrtsHNCvyDXZ6hbJ9DXA59jP8d3YqjWbIqLBUn0aNJAcmDz1693qDC1G9ItN/ex1eVT94MLNSbGjuXYcXmVOUP1SMILUrq9hbJukxrwUtZeuWzsPiVkYO4AFe3PIU+OhiXUG0l9XrNQUyQCg0BRHpmwcACok4ReFyq9JPpAUQHOweXqEbjtG3kgj6mu2tcKYIhqBeB45Yd7tQWoHZT/ZIxVVG5ziCEAwxOE=;ZWnZBeJHcFHs1l7TVTCeFw=="
 ---
 

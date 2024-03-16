@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-03-15-disney-showcasing-latest-robots-at-robotics-summit-expo.md",
+      "title": "Disney showcasing latest robots at Robotics Summit & Expo",
+      "excerpt": "Members of Disney's Imagineering team will give insights about how they use robotics to bring Disney characters to life.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/disney-showcasing-latest-robots-at-robotics-summit-expo/",
+      "originalUrl": "https://www.therobotreport.com/disney-showcasing-latest-robots-at-robotics-summit-expo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2024/03/disney-keynote-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-14T20:46:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-15-apple-acquires-ai-startup-to-help-create-its-own-version-of-gemini-nano.md",
       "title": "Apple acquires AI startup to help create its own version of Gemini Nano",
       "excerpt": "Apple acquires AI startup DarwinAI in a move that's potentially aiming strengthen its on-device AI capabilities",
@@ -113,7 +156,7 @@
       "originalUrl": "https://www.zdnet.com/home-and-office/everything-you-need-for-spring-cleaning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -165,7 +208,7 @@
       "originalUrl": "https://www.forbes.com/sites/johnwerner/2024/03/14/the-philosophy-of-new-ai-tech-with-stephen-wolfram/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -538,7 +581,7 @@
       "originalUrl": "https://www.cnn.com/2024/03/14/investing/premarket-stocks-trading-ai-bubble-grantham/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -890,7 +933,7 @@
       "originalUrl": "https://venturebeat.com/ai/anthropic-releases-claude-3-haiku-an-ai-model-built-for-speed-and-affordability/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1172,58 +1215,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-14-amd-is-optimistic-on-ai-pcs-bringing-greater-efficiency-to-enterprise.md",
-      "title": "AMD Is Optimistic on AI PCs Bringing Greater Efficiency to Enterprise",
-      "excerpt": "AMD CEO Lisa Su and VP of Product Management Jason Banta expressed optimism about the hot on-device AI market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/amd-ai-pcs-sxsw-2024/",
-      "originalUrl": "https://www.techrepublic.com/article/amd-ai-pcs-sxsw-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.techrepublic.com/uploads/2024/03/AdobeStock_627078046_Editorial_Use_Only.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-13T20:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.fool.com/investing/2024/03/13/3-top-artificial-intelli
 webUrl: "https://www.fool.com/investing/2024/03/13/3-top-artificial-intelligence-stocks-to-buy-in-mar/"
 type: article
 quality: 67
-heat: 117
+heat: 119
 published: true
 
 provider:

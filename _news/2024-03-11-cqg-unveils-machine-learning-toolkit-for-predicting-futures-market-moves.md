@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 1568
         isCached: true
+  - title: "CUEBRIC UNVEILS THREE-TIERED PRICING STRUCTURE, BRINGING POWER OF AI TO FILMMAKERS AND CREATIVES AROUND THE WORLD"
+    excerpt: "Cuebric—a leading industry-grade AI creative tool that allows users to create, segment, and dimensionalize scenes for filming and go from Concept To Camera™ in minutes—today announced its new three-tiered pricing structure."
+    publishedDateTime: 2024-03-11T14:11:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/11/9976051.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
+    images:
+      - url: "https://images.tmcnet.com/tmc/world.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "n34pk7SzYv4JdlcBEHG/zn2vU3DB/QXgzuXbT5QAsNOORlV486AM8e6sRByC2Iia7TwSb1MKN8Hbk4U0PWQ8QAvGp8ZS0utfHH2OKNpawl+dmf+1dWhh3V/aRzwyKbw6EYc6aJ9qx2VSWFI0fgDyedUYvCZXahhqe3AfdnVlWifC8zZj9j1N+tdAt5XVgO5VO0z8jBAgaLvM6/TqNMSOI3cFk6r1eX+Y1bdr18kwLf+dd04TbhLoY0WWEVaIVuvGxJyBUwz/9nyf6nvSyutiUx6ABYioRcmWh7MpKKTXsyH5d6qzdfJewS4pMSOz3vF2ZY1fz83lDV0veR/wc/QFB7j/LStLNPk6r+GLmKVbt7w=;jZu4ZjRapoxh4K1MDJzxAQ=="
 ---

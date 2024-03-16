@@ -9,8 +9,8 @@ ampWebUrl: "https://www.computerworld.com/article/3714344/meta-sues-former-execu
 cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3714344/meta-sues-former-executive-over-alleged-ai-theft.amp.html"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Computerworld
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "A World Divided Over Artificial Intelligence"
-    excerpt: "In November 2023, a number of countries issued a joint communique promising strong international cooperation in reckoning with the challenges of artificial intelligence. Startlingly for states often at odds on regulatory matters,"
-    publishedDateTime: 2024-03-11T04:21:00Z
-    webUrl: "https://www.foreignaffairs.com/united-states/world-divided-over-artificial-intelligence"
-    type: article
-    provider:
-      name: Foreign Affairs
-      domain: foreignaffairs.com
-    quality: 37
-    images:
-      - url: "https://cdn-live.foreignaffairs.com/sites/default/files/styles/social_share/public/images/2024/03/07/RTSWGMSK.JPG?itok=wW0VNQi8"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Meta Sues Former VP After Defection to AI Startup"
     excerpt: "Meta has launched legal action against a former vice president after he allegedly stole employee and business contracts before resigning to work at an AI startup, according to reports."
     publishedDateTime: 2024-03-14T09:29:00Z

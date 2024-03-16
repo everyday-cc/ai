@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/federicoguerrini/2024/03/15/uk-and-germ
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/federicoguerrini/2024/03/15/uk-and-germany-double-down-on-joint-ai-clean-energy-rd-efforts/amp/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

@@ -1,28 +1,24 @@
 ---
 category: news
-title: "Civil Rights commission digs into government use of facial recognition"
-excerpt: "The tech poses “serious threats to our fundamental rights,” the chair of the commission said during a Friday briefing."
-publishedDateTime: 2024-03-12T20:14:00Z
-originalUrl: "https://www.govexec.com/management/2024/03/civil-rights-commission-digs-government-use-facial-recognition/394880/"
-webUrl: "https://www.govexec.com/management/2024/03/civil-rights-commission-digs-government-use-facial-recognition/394880/"
+title: "TSA expands facial recognition technology to Texas"
+excerpt: "TSA is expanding its facial recognition technology to nearly 30 airports all across the country, including here in Texas but there are some security concerns. FOX 26 anchor Caroline Collins explains more."
+publishedDateTime: 2024-03-16T00:00:00Z
+originalUrl: "https://www.fox26houston.com/video/1426543"
+webUrl: "https://www.fox26houston.com/video/1426543"
+ampWebUrl: "https://www.fox26houston.com/video/1426543.amp"
+cdnAmpWebUrl: "https://www-fox26houston-com.cdn.ampproject.org/c/s/www.fox26houston.com/video/1426543.amp"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Government Executive
-  domain: govexec.com
+  name: KRIV
+  domain: fox26houston.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://cdn.govexec.com/media/img/cd/2024/03/12/031124_getty_ng_mondaire_jones/open-graph.jpg"
-    width: 400
-    height: 400
-    isCached: true
 
 related:
   - title: "Report highlights civil liberties concerns with facial recognition technology"
@@ -55,17 +51,20 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "TSA expands facial recognition technology to Texas"
-    excerpt: "TSA is expanding its facial recognition technology to nearly 30 airports all across the country, including here in Texas but there are some security concerns. FOX 26 anchor Caroline Collins explains more."
-    publishedDateTime: 2024-03-16T00:00:00Z
-    webUrl: "https://www.fox26houston.com/video/1426543"
-    ampWebUrl: "https://www.fox26houston.com/video/1426543.amp"
-    cdnAmpWebUrl: "https://www-fox26houston-com.cdn.ampproject.org/c/s/www.fox26houston.com/video/1426543.amp"
+  - title: "Civil Rights commission digs into government use of facial recognition"
+    excerpt: "The tech poses “serious threats to our fundamental rights,” the chair of the commission said during a Friday briefing."
+    publishedDateTime: 2024-03-12T20:14:00Z
+    webUrl: "https://www.govexec.com/management/2024/03/civil-rights-commission-digs-government-use-facial-recognition/394880/"
     type: article
     provider:
-      name: KRIV
-      domain: fox26houston.com
+      name: Government Executive
+      domain: govexec.com
     quality: 39
+    images:
+      - url: "https://cdn.govexec.com/media/img/cd/2024/03/12/031124_getty_ng_mondaire_jones/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "TSA facial recognition technology concerns"
     excerpt: "TSA facial recognition technology concerns The TAA has expanded its facial recognition technology to nearly 30 airports across the country, but there are security concerns over new the system storing data without consent."
     publishedDateTime: 2024-03-15T23:25:00Z
@@ -87,6 +86,6 @@ related:
       domain: fingerlakes1.com
     quality: 18
 
-secured: "Ru+g36uWsFNMyIIRZWpc9eous0G2mBpCo95dsSRbN46+s77ua8O8cWQXMYbuJJVfxvpJu1QYsTvy7jOCmdzQxcJzejHSju6EqGfNod8Gd9KOv9BsWC/ZxlQHZFqPNhOvsjqQO7Sqd/+YubVKO2O36bmjOaC2rbsKdaOxlEpEZzphgO93ZCp6ejrvUqqDhjoq+qByOGSiZcMz0z45vLy26uBKUVJP9vzI+cmkgczYJ+R6GgahrusgOADc7fxR0qJG6LSOYJbgSE3I6fx1F4kuMvFwP7TmMFx0X+PVAGlL98VhmFEUO4Ef0dLCRNGFcshUJiJcQdUxBHbH0Ee43rM6DtW5xE0PRjBZSZzrp3bkIOxMXt5y6N/VanHwCt7iVCbmqHPH0NnpNVWkL2YI9mfs6SACixykz5xe1ihU9GFBiewGy4TSqXQzZSHZIeeLNklFSVE0mq5T4T48hN4zkd1sBpOpexjXqnG4NM+gkGINAr7t5L9XtyAICyaLquxE9lp176GTWeZd83U/gctFX7xMLw==;D4tzZ0BhVFSFI2VnRbQ4MA=="
+secured: "7boHF9ymw9/0m/iNfKCD/bsNh3bPS6ffZ9YZndzk9QLG5VgHEYDawJfl+4A6i0Q1kktH7DkfiZiI3MUd/+8/2ySBLjR0dHd8+bNxJhqIUiKuQmIkb36nWmYN1BF83yhIAI2O3ZG4qLu8mnjYNuAS26YYITBBaJzn0TeL9QbyCLl6Iisd4eTKlhDjGJhYKK7enMa3iPTeWvdHN9TtBsLXxasHCGEX0JTPLpitf1s+jEQCuSuNdbLGw1Uy3G621TC14QBSCO9qL11KsdkBgEA6QUTmOiJDNHFlGt24uZOsp6CStaQT10j2ekG+T4IuQhPWBiLj6FYQ/sZnIXv1P2tpwCfKKJw0O8x0203kO00/MsVdh2wWecOdaE+/VujvNALklr6Wg/acLnjpMWPQFq83DMPhkaYPjb9OkmLOTEpCaOTlrmQG0VQqy9FE+gZ4v4UtMkWLmz+pyg5Y/nYwk+qxemAxLgu/UAmN6AobOBINjeQbJENNXcj7HLU/OA4UAatk6FoGPLR/B7DENHO+2uGsdA==;w43vxr8zRjtLt07X2RQVfg=="
 ---
 

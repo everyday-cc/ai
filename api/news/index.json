@@ -356,7 +356,7 @@
       "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2024/03/15/all-eyes-turn-to-nvidia-in-the-ai-era/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 563,
+      "heat": 565,
       "tags": null,
       "images": [
         {
@@ -515,7 +515,7 @@
       "originalUrl": "https://www.forbes.com/sites/federicoguerrini/2024/03/15/uk-and-germany-double-down-on-joint-ai-clean-energy-rd-efforts/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -611,7 +611,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/15/7-common-mistakes-ctos-make-when-implementing-ai-code-tools/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -947,6 +947,57 @@
       ]
     },
     {
+      "path": "_news/2024-03-15-how-ai-is-reshaping-social-media-platforms-and-5-tips-for-success.md",
+      "title": "How AI Is Reshaping Social Media Platforms And 5 Tips For Success",
+      "excerpt": "In the dynamic landscape of modern society, the utilization of social media platforms is surging at an unprecedented rate. Learn how Is Reshaping Social Media Platforms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/kalinabryant/2024/03/14/how-ai-is-reshaping-social-media-platforms-and-5-tips-for-success/",
+      "originalUrl": "https://www.forbes.com/sites/kalinabryant/2024/03/14/how-ai-is-reshaping-social-media-platforms-and-5-tips-for-success/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65f394a2f46dc716e78a510f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1385,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-15T00:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-15-apple-acquires-ai-startup-specializing-in-overlooking-manufacturing-components.md",
       "title": "Apple acquires AI startup specializing in overlooking manufacturing components",
       "excerpt": "Apple has added another AI startup to its acquisition list with Canada-based DarwinAI, which specializes in vision-based tech to observe components during manufacturing to improve efficiency, Bloomberg reported. While Apple or DarwinAI haven’t announced ...",
@@ -1206,49 +1257,6 @@
         "AI in Robotics",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2024-03-15-disney-showcasing-latest-robots-at-robotics-summit-expo.md",
-      "title": "Disney showcasing latest robots at Robotics Summit & Expo",
-      "excerpt": "Members of Disney's Imagineering team will give insights about how they use robotics to bring Disney characters to life.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/disney-showcasing-latest-robots-at-robotics-summit-expo/",
-      "originalUrl": "https://www.therobotreport.com/disney-showcasing-latest-robots-at-robotics-summit-expo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2024/03/disney-keynote-featured.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-14T20:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

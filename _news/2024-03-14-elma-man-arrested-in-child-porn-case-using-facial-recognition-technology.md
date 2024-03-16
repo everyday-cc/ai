@@ -63,6 +63,17 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "TSA expands facial recognition technology to Texas"
+    excerpt: "TSA is expanding its facial recognition technology to nearly 30 airports all across the country, including here in Texas but there are some security concerns. FOX 26 anchor Caroline Collins explains more."
+    publishedDateTime: 2024-03-16T00:00:00Z
+    webUrl: "https://www.fox26houston.com/video/1426543"
+    ampWebUrl: "https://www.fox26houston.com/video/1426543.amp"
+    cdnAmpWebUrl: "https://www-fox26houston-com.cdn.ampproject.org/c/s/www.fox26houston.com/video/1426543.amp"
+    type: article
+    provider:
+      name: KRIV
+      domain: fox26houston.com
+    quality: 39
   - title: "TSA facial recognition technology concerns"
     excerpt: "TSA facial recognition technology concerns The TAA has expanded its facial recognition technology to nearly 30 airports across the country, but there are security concerns over new the system storing data without consent."
     publishedDateTime: 2024-03-15T23:25:00Z

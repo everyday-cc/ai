@@ -9,7 +9,7 @@ ampWebUrl: "https://www.timesofisrael.com/zone-of-interest-producer-criticizes-g
 cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/zone-of-interest-producer-criticizes-glazers-oscars-speech-lacked-proper-context/amp/"
 type: article
 quality: 36
-heat: 36
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "‘Zone of Interest’ producer calls Jonathan Glazer’s Oscars speech a ‘distraction’"
+    excerpt: "(JTA) — A Jewish executive producer of the Oscar-winning Holocaust drama “The Zone of Interest” said he disagreed with director Jonathan Glazer’s speech at the Academy Awards ceremony criticizing Israel, while the Auschwitz Memorial issued a statement in its defense."
+    publishedDateTime: 2024-03-16T05:23:00Z
+    webUrl: "https://forward.com/fast-forward/593411/zone-of-interest-producer-calls-jonathan-glazers-oscars-speech-a-distraction/"
+    ampWebUrl: "https://forward.com/fast-forward/593411/zone-of-interest-producer-calls-jonathan-glazers-oscars-speech-a-distraction/?amp=1"
+    cdnAmpWebUrl: "https://forward-com.cdn.ampproject.org/c/s/forward.com/fast-forward/593411/zone-of-interest-producer-calls-jonathan-glazers-oscars-speech-a-distraction/?amp=1"
+    type: article
+    provider:
+      name: The Forward
+      domain: forward.com
+    quality: 39
+    images:
+      - url: "https://forward.com/wp-content/uploads/2024/03/3-12-24-glazer-1.jpg?_t=1710566585"
+        width: 2160
+        height: 1245
+        isCached: true
   - title: "‘Zone of Interest’ producer calls Jonathan Glazer’s Oscars speech a ‘distraction,’ as Auschwitz memorial defends it"
     excerpt: "The comments added to the controversy around the Holocaust movie’s director, whose speech criticized Israel for “hijacking” its memory."
     publishedDateTime: 2024-03-15T19:06:00Z

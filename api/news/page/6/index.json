@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2024-03-12-empowering-the-genai-revolution-gaurav-arora-aws.md",
+      "title": "Empowering the GenAI revolution: Gaurav Arora, AWS",
+      "excerpt": "Gaurav Arora spoke to Dataquest about how AWS is guiding Indian startups towards a future defined by innovation, collaboration, and transformative growth within the GenAI revolution",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/dqdeeptech/empowering-the-genai-revolution-gaurav-arora-aws-4327505",
+      "originalUrl": "https://www.dqindia.com/dqdeeptech/empowering-the-genai-revolution-gaurav-arora-aws-4327505",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.thepublive.com/fit-in/1200x675/dq/media/media_files/uuwNTexWvK99uOYOygO4.jpg",
+          "width": 1200,
+          "height": 565,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/dqdeeptech/empowering-the-genai-revolution-gaurav-arora-aws-4327505",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/dqdeeptech/empowering-the-genai-revolution-gaurav-arora-aws-4327505",
+      "publishedDateTime": "2024-03-12T09:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-12-how-ai-has-already-changed-coding-forever.md",
       "title": "How AI has already changed coding forever",
       "excerpt": "AI coding tools such as Amazon CodeWhisperer and GitHub Copilot boost the productivity of pro and novice developers alike. They’re only the beginning.",
@@ -356,48 +399,6 @@
       ]
     },
     {
-      "path": "_news/2024-03-12-meta-sues-former-executive-over-alleged-ai-theft.md",
-      "title": "Meta sues former executive over alleged AI theft",
-      "excerpt": "Meta has alleged that a former vice president stole “highly confidential” data about the company’s top performers and supply chain partners.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3714344/meta-sues-former-executive-over-alleged-ai-theft.html",
-      "originalUrl": "https://www.computerworld.com/article/3714344/meta-sues-former-executive-over-alleged-ai-theft.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/03/screen-shot-2019-03-19-at-4.31.06-pm-100791434-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3714344/meta-sues-former-executive-over-alleged-ai-theft.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3714344/meta-sues-former-executive-over-alleged-ai-theft.amp.html",
-      "publishedDateTime": "2024-03-12T04:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-03-12-clarity-alignment-and-empowermentleadership-skills-in-the-age-of-ai.md",
       "title": "Clarity, Alignment, and Empowerment:Leadership Skills in the Age of AI",
       "excerpt": "Provide clarity, alignment, and empowerment in your team meetings. getty \"Do you have the engagement survey results?\" I asked my new employee, who had just joined the team a few w",
@@ -501,7 +502,7 @@
       "originalUrl": "https://www.wsbtv.com/news/report-highlights-civil-liberties-concerns-with-facial-recognition-technology/OETF3NAPQRCY5H4FGMYXI3DWMM/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 108,
       "tags": null,
       "images": [
         {
