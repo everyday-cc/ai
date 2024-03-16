@@ -9,7 +9,7 @@ ampWebUrl: "https://theprint.in/ani-press-releases/hexaware-unveils-tensai-gpt-a
 cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/hexaware-unveils-tensai-gpt-a-secure-ai-web-app-using-microsoft-azure-open-ai-service-to-advance-internal-innovation/1997879/?amp"
 type: article
 quality: 66
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -52,6 +52,22 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 36
+  - title: "Enterprise hits and misses - are privacy regulations and distrust slowing innovation, and is gen AI set to disrupt IT services?"
+    excerpt: "This week - data privacy comes into focus as the data breaches roll on (this time, it's United Healthcare). Will gen AI disrupt IT services? Or is the coding impact overrated? As always, your weekly whiffs."
+    publishedDateTime: 2024-03-11T08:42:00Z
+    webUrl: "https://diginomica.com/enterprise-hits-and-misses-are-privacy-regulations-and-distrust-slowing-innovation-and-gen-ai-set"
+    ampWebUrl: "https://diginomica.com/enterprise-hits-and-misses-are-privacy-regulations-and-distrust-slowing-innovation-and-gen-ai-set?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/enterprise-hits-and-misses-are-privacy-regulations-and-distrust-slowing-innovation-and-gen-ai-set?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 33
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2013-06/forkinroad.jpg"
+        width: 424
+        height: 283
+        isCached: true
   - title: "Hexaware introduces an AI web application called tensai GPT"
     excerpt: "Using Microsoft Azure Open AI Service, the application will enable Hexaware employees to harness enterprise knowledge"
     publishedDateTime: 2024-03-12T12:22:00Z

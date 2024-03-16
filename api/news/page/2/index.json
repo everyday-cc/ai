@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-03-15-apple-acquires-ai-startup-to-help-create-its-own-version-of-gemini-nano.md",
+      "title": "Apple acquires AI startup to help create its own version of Gemini Nano",
+      "excerpt": "Apple acquires AI startup DarwinAI in a move that's potentially aiming strengthen its on-device AI capabilities",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/apple-acquires-darwin-ai-3425591/",
+      "originalUrl": "https://www.androidauthority.com/apple-acquires-darwin-ai-3425591/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2024/02/Google-Gemini-Image-Query-scaled.jpg",
+          "width": 1920,
+          "height": 1081,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-14T20:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-15-ai-powered-ad-ignites-creator-controversy-on-instagram.md",
       "title": "‘AI-powered’ ad ignites creator controversy on Instagram",
       "excerpt": "A new ad from Under Armour featuring boxer Anthony Joshua has come under fire from creatives on Instagram after its director claimed it as the “first Ai-powered sports commercial” — but critics in the industry say it blatantly reused others’ work ...",
@@ -1173,57 +1224,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-14-ai-could-lead-to-human-extinction-says-report-commissioned-by-us-state-department.md",
-      "title": "AI could lead to human extinction, says report commissioned by US State Department",
-      "excerpt": "We asked AI experts to weigh in on Gladstone's report that detailed \"catastrophic risks\" associated with AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-report-risks-human-extinction-state-department-expert-reaction-2024-3",
-      "originalUrl": "https://www.businessinsider.com/ai-report-risks-human-extinction-state-department-expert-reaction-2024-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65f064c56080194819fefb8e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-report-risks-human-extinction-state-department-expert-reaction-2024-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-report-risks-human-extinction-state-department-expert-reaction-2024-3?amp",
-      "publishedDateTime": "2024-03-13T20:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

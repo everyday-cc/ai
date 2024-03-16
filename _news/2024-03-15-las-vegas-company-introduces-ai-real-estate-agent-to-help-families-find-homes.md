@@ -6,7 +6,7 @@ publishedDateTime: 2024-03-15T02:29:00Z
 originalUrl: "https://www.ktnv.com/news/las-vegas-company-introduces-ai-real-estate-agent-to-help-families-find-homes"
 webUrl: "https://www.ktnv.com/news/las-vegas-company-introduces-ai-real-estate-agent-to-help-families-find-homes"
 type: article
-quality: 16
+quality: 36
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - Meta AI
   - AI
+
+images:
+  - url: "https://ewscripps.brightspotcdn.com/dims4/default/b0dd723/2147483647/strip/true/crop/2510x1318+0+41/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F9f%2F03%2F2e3ce4714fc38e39c0d04b96ec2c%2Fscreenshot-2024-03-14-at-8-09-58-pm.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "As AI Continues To Dominate Headlines, Copper's Critical Role Comes Into Focus"
@@ -29,6 +35,6 @@ related:
       domain: businessinsider.com
     quality: 45
 
-secured: "nrJVTvNc/NwGZp/+iyLZEceai0yktC+uAml1GkjHauigoIOqfXCvnULtPaX7yd58tmI3f84vRJkF6NGjZdp0QtcBf3KoXq3AUjp8mJqib1eU5sHnGNl++eF/IatfFUtIEF/Rg1ibkty4cSvtz0l+GojnGumieHxKGhfCyfGT7wY1X05DQuhh3qSfnIOk15+SkaU/wupbHSiAU33aGroIaoGF62rbukgVx0zb9ZvL5q9u028gyobKbUDBjL+VyU36QZzHNiEfvRK2S9Ah5nLdFiuZlJqGsBZ+5iOlE7rzs6tyF77LuHapSC4BDXXzfFEePhnYDut/Ur82OHzgjTI1x28OpvdXXTI8bo/W+RsRLUY=;8u9IEaoaWMkLbRyF1JITBQ=="
+secured: "UWI+uizofn7qWRjM88qo/w29VdQmCTPrxWSGdRCbUl5hNcNPNGJFvHkXg95yULBpZ7t0xYV9oXYjF1dBsVC0rSqtVbeszdSXQ4IsP77kGkPJurwzDUCxbARsqkDAlC1pVAtfsJ4x8ZC+rC/5TehuLwscC/vXprSCO/GPgJ1uTq0fSmA5Le2iY+vDJxrhwl0gk35lB0+g9OzEwlHRemQcgc5LnkcqmAn09f2rlpHdk6hEvsXsYO0IlH8SYojdSqDltDI6++6sHUIRBzlLdzjYPfuhbFLpA8fLghMhRFEeXemOuIaMQTyOiFw/fXqKdXH5k2iBpdMy/WpoZpzMvu3jE6JHMF0YcKjJETLOlS/Zmpg=;hRj8Vc9Q4j10bvOqezHlKA=="
 ---
 

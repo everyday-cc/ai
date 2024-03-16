@@ -31,7 +31,12 @@ related:
     provider:
       name: KTNV Las Vegas
       domain: ktnv.com
-    quality: 16
+    quality: 36
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/b0dd723/2147483647/strip/true/crop/2510x1318+0+41/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F9f%2F03%2F2e3ce4714fc38e39c0d04b96ec2c%2Fscreenshot-2024-03-14-at-8-09-58-pm.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "XfgwTD+T/CdJ9LWFPhaJd9n5yjlR41MJClvx0q522e/KZe+CdIyjM/+BWblFQ7wYO4JhyORflQiZLKa6Mpg/Gj0PFFsnTAqEe2djEE7GI7QQIDX9DBr9kqEjbrn04qBkchFl1QAjnKwHHYOwjUENcpD3mAIVH4ArA3EN1dPkm73UnLcCBBxtPUWhZjTX7MeoUhNweitzcVTzdBgccdkMLN4N8POyOpz5tJq16r6urDTWp16JFHtEswACw7Ba1FKhnRZiApaLwFh2ZWjeR8/etJuBzIq92/LVqdVllkH7KsfcRuYWeRISzcSg31QtqIMtONNY1h/o6fMXk3A7aA75XMB390RI9YtY/v5vZO4/++Rqu2BJjpm1wfYcw/lAGZyxVTExr6BEFRBAqwAgKBsbD4OQf8cbzaXCmcB6ppyPyz8cm3Sq2QF8tBvJe4vMEieQyRCGavf+hFLMufIoFuF5rptlweYXut+mvQMSOKElBPuTiVxn5RRy4akHA+2LmvGVVn7eJPQGNoSYj0wpG9R2KA==;AxIao7YDbKeiY9TIodTEdQ=="
 ---

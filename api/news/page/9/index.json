@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2024-03-08-how-ai-is-helping-advance-womens-health-around-the-world.md",
+      "title": "How AI is helping advance women’s health around the world",
+      "excerpt": "For International Women’s day, we’re highlighting AI solutions that can improve early diagnosis, quality and access to care for women’s health worldwide.",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/health/how-ai-is-helping-advance-womens-health-around-the-world/",
+      "originalUrl": "https://blog.google/technology/health/how-ai-is-helping-advance-womens-health-around-the-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-08T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-08-sd-times-open-source-project-of-the-week-openhouse.md",
       "title": "SD Times Open-Source Project of the Week: OpenHouse",
       "excerpt": "The company has 3,500 OpenHouse tables in production currently.  It was designed to offer self-service management of tables in open data lakehouses. According to LinkedIn, it was running into challenges internally because it didn’t have a good managed experience for running data lakehouses,",
@@ -1098,58 +1141,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-03-08-openai-partners-with-startup-to-create-advanced-ai-models-for-humanoid-robots.md",
-      "title": "OpenAI partners with startup to create advanced AI models for humanoid robots",
-      "excerpt": "OpenAI is partnering with AI robotics startup Figure to develop humanoid robots. The plan is to use Microsoft Azure for AI infrastructure and OpenAI's investment and guidance to deploy autonomous ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/openai-partners-with-startup-to-create-advanced-ai-models-for-humanoid-robots/",
-      "originalUrl": "https://www.zdnet.com/article/openai-partners-with-startup-to-create-advanced-ai-models-for-humanoid-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/321e01c2aea357b44034da2a46d767f9d2c1a357/2024/03/07/667d8fa9-8ca5-441e-bc71-f15d27cfd75a/gettyimages-1163715561.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/openai-partners-with-startup-to-create-advanced-ai-models-for-humanoid-robots/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openai-partners-with-startup-to-create-advanced-ai-models-for-humanoid-robots/",
-      "publishedDateTime": "2024-03-07T16:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

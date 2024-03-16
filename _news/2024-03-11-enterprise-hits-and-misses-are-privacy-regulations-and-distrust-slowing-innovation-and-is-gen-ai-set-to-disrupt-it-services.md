@@ -28,78 +28,65 @@ images:
     isCached: true
 
 related:
-  - title: "How to choose an AI-as-a-service provider"
-    excerpt: "AIaaS can help you jumpstart your AI projects, but there are some details you need to know. Here’s what to look for and five leading options to consider."
-    publishedDateTime: 2024-03-11T03:10:00Z
-    webUrl: "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.html"
-    ampWebUrl: "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html"
+  - title: "Hexaware unveils tensai GPT, a secure AI web app using Microsoft Azure Open AI Service to advance internal innovation"
+    excerpt: "Hexaware, a global IT services and digital solutions leader, announced the launch of tensai GPT, an AI web app, in collaboration with Microsoft. Using Microsoft Azure Open AI Service, this AI web app will enable Hexaware employees to harness enterprise knowledge,"
+    publishedDateTime: 2024-03-12T10:33:00Z
+    webUrl: "https://theprint.in/ani-press-releases/hexaware-unveils-tensai-gpt-a-secure-ai-web-app-using-microsoft-azure-open-ai-service-to-advance-internal-innovation/1997879/"
+    ampWebUrl: "https://theprint.in/ani-press-releases/hexaware-unveils-tensai-gpt-a-secure-ai-web-app-using-microsoft-azure-open-ai-service-to-advance-internal-innovation/1997879/?amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/hexaware-unveils-tensai-gpt-a-secure-ai-web-app-using-microsoft-azure-open-ai-service-to-advance-internal-innovation/1997879/?amp"
+    type: article
+    provider:
+      name: ThePrint
+      domain: theprint.in
+    quality: 66
+    images:
+      - url: "https://static.theprint.in/wp-content/uploads/2024/03/ANI-20240312101824.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "US pushes to weaken international human rights treaty on use of AI software"
+    excerpt: "The Council of Europe, of which the US is an observer, is drafting a treaty that will call on its member states to ensure that AI systems respect international obligations to protect human rights."
+    publishedDateTime: 2024-03-12T17:44:00Z
+    webUrl: "https://www.computerworld.com/article/3714289/us-pushes-to-weaken-international-human-rights-treaty-on-use-of-ai-software.html"
+    ampWebUrl: "https://www.computerworld.com/article/3714289/us-pushes-to-weaken-international-human-rights-treaty-on-use-of-ai-software.amp.html"
+    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3714289/us-pushes-to-weaken-international-human-rights-treaty-on-use-of-ai-software.amp.html"
     type: article
     provider:
       name: Computerworld
       domain: computerworld.com
-    quality: 71
+    quality: 55
     images:
-      - url: "https://images.idgesg.net/images/article/2024/02/dinging-service-bell-in-robot-hand-by-andrey-popov-via-shutterstock-100961475-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2023/03/13/16/sw-blog-image-getty-1170x600-2-100938438-large.jpg?auto=webp&quality=85,70"
+        width: 1199
+        height: 615
         isCached: true
-  - title: "How To Ensure Designers Using AI Retain A Sense Of Pride In Their Work"
-    excerpt: "Designers may view AI as a threat to their creative mastery, causing them to feel less pride in their work and a diminished sense of ownership over the design process."
-    publishedDateTime: 2024-03-14T17:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2024/03/14/how-to-ensure-designers-using-ai-retain-a-sense-of-pride-in-their-work/"
+  - title: "MAXHUB to Build Advanced AI Solutions with Microsoft Azure Cloud to Drive Global Business Growth"
+    excerpt: "GUANGZHOU, China, March 14, 2024 /PRNewswire/ -- MAXHUB, a leading provider of collaborative communication and interactive display solutions, proudly announces it will integrate Microsoft Azure technology. MAXHUB will harness the power of Azure to significantly amplify its international business growth and further AI technology advancements."
+    publishedDateTime: 2024-03-14T09:25:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-maxhub-build-advanced-ai-solutions-with-microsoft-azure-/2024/03/14/9978125.htm"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65f32365fbb329e6af4b6a53/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 845
-        isCached: true
-  - title: "Local tech company brings AI to TCC's career services program"
-    excerpt: "He said a lot of WriteSea's research shows that many job seekers don't know what they excel at, so this AI will act as a coach and guide them to well-matched opportunities."
-    publishedDateTime: 2024-03-11T18:07:00Z
-    webUrl: "https://www.kjrh.com/news/local-news/local-tech-company-brings-ai-to-tccs-career-services-program"
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 36
+  - title: "Hexaware introduces an AI web application called tensai GPT"
+    excerpt: "Using Microsoft Azure Open AI Service, the application will enable Hexaware employees to harness enterprise knowledge"
+    publishedDateTime: 2024-03-12T12:22:00Z
+    webUrl: "https://www.financialexpress.com/business/digital-transformation-hexaware-introduces-an-ai-web-application-called-tensai-gpt-3422914/"
     type: article
     provider:
-      name: kjrh.com
-      domain: kjrh.com
-    quality: 39
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/997e81f/2147483647/strip/true/crop/1674x879+0+33/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fa6%2F69%2Fc2beb16442cdaaa38fc32738afd2%2Fscreenshot-2024-03-11-at-6-00-17-pm.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Alchemy Pay Introduces Card as a Service for AI Analysis"
-    excerpt: "Alchemy Pay, the fiat-crypto payment service provider, introduces its Card-as-a-Service (CaaS) for AI Analysis, an AI, blockchain, FinTech firm."
-    publishedDateTime: 2024-03-14T22:53:00Z
-    webUrl: "https://www.crowdfundinsider.com/2024/03/222644-alchemy-pay-introduces-card-as-a-service-for-ai-analysis/"
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 19
+  - title: "Hexaware Technologies Ltd.: Hexaware unveils tensai GPT, a secure AI web app using Microsoft Azure Open AI Service to advance internal innovation"
+    excerpt: "Hexaware, a global IT services and digital solutions leader, announced the launch of tensai GPT, an AI web app, in collaboration with Microsoft. Using"
+    publishedDateTime: 2024-03-12T09:44:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-03/61651147-hexaware-technologies-ltd-hexaware-unveils-tensai-gpt-a-secure-ai-web-app-using-microsoft-azure-open-ai-service-to-advance-internal-innovation-008.htm"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 39
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/04/50-Dollars-Grant-Money-Cash-Spend-Pay.jpeg"
-        width: 1198
-        height: 1280
-        isCached: true
-  - title: "How to run AI privately without an Internet connection"
-    excerpt: "It hosts a variety of AI models, including the Llama 2 LLM developed by Meta (formerly Facebook). Hugging Face offers a user ... sift through case files and legal precedents to aid in their research, all within the secure perimeter of their own computing ..."
-    publishedDateTime: 2024-03-15T00:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/setup-and-run-ai-models-locally-and-securely/"
-    type: article
-    provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/03/How-to-run-AI-on-your-computer-at-home.jpg"
-        width: 1280
-        height: 717
-        isCached: true
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 12
 
 secured: "53XB2kdsDEVc0OHnMEbDi8nLA/hy+g1oqWP/eASk87Ob7SQGSFrgwsIsoGx62PaiiFrGjmpsoBR9lPGeu0t3v2+ljOMd8gTTmv4W4OKRXm8iL5LvUgdzT3nM2loKBc5nzrNlIz2nNpiQsuT3QJ+fDRZ28z3ETO9fX+llvXKYQ7J5O4VG9+fIXE/mHis1hv6s7Bj2lxXWuft4CV1OE2HLBU6R1D/LibwoKysyt21u26zFMNEyzGE3ZI35MTa3c1gIR3IMAaKvAeje1Z3VrAKrl4DXgiFXT2qOTMinc5lKlRY2rnNuypDKXyjVftfIDxsVY292ckDbvcTc+n6E9KYhB/EzDkfZsLPYvN07r/5z/c2rID7fjSMHPhf1xF9a1k59/gsNvNN4Ubv1b4owmg0QqLK39VHJc09Wn0iSrB7sF6dr3rAgcIqo9ssy9e064z0b2JG6JO4SA4As8vVHHW05Mo/fhqAQcPPvLACeaP52Rm99M8quOT14Y3XlrS2NSBMnQEZ06uNjbtvDElMSvTjK/w==;Khv7JZc2CmtHu7QPzi60sw=="
 ---

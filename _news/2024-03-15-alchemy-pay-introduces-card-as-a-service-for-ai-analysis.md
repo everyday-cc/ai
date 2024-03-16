@@ -25,80 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "How to choose an AI-as-a-service provider"
-    excerpt: "AIaaS can help you jumpstart your AI projects, but there are some details you need to know. Here’s what to look for and five leading options to consider."
-    publishedDateTime: 2024-03-11T03:10:00Z
-    webUrl: "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.html"
-    ampWebUrl: "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.amp.html"
+  - title: "Atex introduces new AI module"
+    excerpt: "Atex, in partnership with Babelscape, has introduced a new AI text analytics and smart tagging module for publishers in its AI-powered publishing platform."
+    publishedDateTime: 2024-03-13T07:42:00Z
+    webUrl: "https://www.inpublishing.co.uk/articles/atex-introduces-new-ai-module-22926"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 71
-    images:
-      - url: "https://images.idgesg.net/images/article/2024/02/dinging-service-bell-in-robot-hand-by-andrey-popov-via-shutterstock-100961475-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "How To Ensure Designers Using AI Retain A Sense Of Pride In Their Work"
-    excerpt: "Designers may view AI as a threat to their creative mastery, causing them to feel less pride in their work and a diminished sense of ownership over the design process."
-    publishedDateTime: 2024-03-14T17:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbesagencycouncil/2024/03/14/how-to-ensure-designers-using-ai-retain-a-sense-of-pride-in-their-work/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65f32365fbb329e6af4b6a53/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1600
-        height: 845
-        isCached: true
-  - title: "Local tech company brings AI to TCC's career services program"
-    excerpt: "He said a lot of WriteSea's research shows that many job seekers don't know what they excel at, so this AI will act as a coach and guide them to well-matched opportunities."
-    publishedDateTime: 2024-03-11T18:07:00Z
-    webUrl: "https://www.kjrh.com/news/local-news/local-tech-company-brings-ai-to-tccs-career-services-program"
-    type: article
-    provider:
-      name: kjrh.com
-      domain: kjrh.com
+      name: inpublishing
+      domain: inpublishing.co.uk
     quality: 39
     images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/997e81f/2147483647/strip/true/crop/1674x879+0+33/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fa6%2F69%2Fc2beb16442cdaaa38fc32738afd2%2Fscreenshot-2024-03-11-at-6-00-17-pm.png"
-        width: 1200
-        height: 630
+      - url: "https://www.inpublishing.co.uk/images/articles/main/atex-pr-design-26414.png"
+        width: 716
+        height: 402
         isCached: true
-  - title: "How to run AI privately without an Internet connection"
-    excerpt: "It hosts a variety of AI models, including the Llama 2 LLM developed by Meta (formerly Facebook). Hugging Face offers a user ... sift through case files and legal precedents to aid in their research, all within the secure perimeter of their own computing ..."
-    publishedDateTime: 2024-03-15T00:00:00Z
-    webUrl: "https://www.geeky-gadgets.com/setup-and-run-ai-models-locally-and-securely/"
+  - title: "Admirals introduces AI-based analytical research terminal"
+    excerpt: "Retail FX and CFD broker Admirals today announced the official addition of its latest analytical solution for MT4 and MT5 traders. This enhancement, powered by AI technology and developed in collaboration with Acuity,"
+    publishedDateTime: 2024-03-12T16:52:00Z
+    webUrl: "https://www.forexfactory.com/news/1272454-admirals-introduces-ai-based-analytical-research-terminal"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
-    quality: 39
-    images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/03/How-to-run-AI-on-your-computer-at-home.jpg"
-        width: 1280
-        height: 717
-        isCached: true
-  - title: "Enterprise hits and misses - are privacy regulations and distrust slowing innovation, and is gen AI set to disrupt IT services?"
-    excerpt: "This week - data privacy comes into focus as the data breaches roll on (this time, it's United Healthcare). Will gen AI disrupt IT services? Or is the coding impact overrated? As always, your weekly whiffs."
-    publishedDateTime: 2024-03-11T08:42:00Z
-    webUrl: "https://diginomica.com/enterprise-hits-and-misses-are-privacy-regulations-and-distrust-slowing-innovation-and-gen-ai-set"
-    ampWebUrl: "https://diginomica.com/enterprise-hits-and-misses-are-privacy-regulations-and-distrust-slowing-innovation-and-gen-ai-set?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/enterprise-hits-and-misses-are-privacy-regulations-and-distrust-slowing-innovation-and-gen-ai-set?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 33
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2013-06/forkinroad.jpg"
-        width: 424
-        height: 283
-        isCached: true
+      name: Forex Factory
+      domain: forexfactory.com
+    quality: 19
 
 secured: "KeSO6boIB9smYxoJYdYxrBKrXkTkXVz5PEeaEsRRgJ5gJd96qzS2oLaIt4JVhwYKrQMKfsPjIjHM0Op0xncG6JaiuaxfQMToW0eNKjAyaDMO4xEBacH6iDGKE7x/idKd2T3mXB16rCLxLSGedqRP+utpf9oi4JFRf7tqNkNXhSPg6vkjLARJsYlfgr7e0dJRsupGWsdoEOSoH1yzZoJk5K9e3/WwDkAiNs+3X9JjkRKtgNsjJjZj4NwhXFNAtVD8td9XwT/rMWWySP4jUtJSy1Id6WDqilU7JTQ+FrkRIBIsqsSI67y9x6LWXUtMeSzXX+SUnzJCx7Ctllpvr4tRqwSXBlw2YFpk99qU5LFZm3A=;8v2aIL6bx1TrbuAtyOSQpg=="
 ---

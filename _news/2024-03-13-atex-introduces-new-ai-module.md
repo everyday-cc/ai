@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Alchemy Pay Introduces Card as a Service for AI Analysis"
+    excerpt: "Alchemy Pay, the fiat-crypto payment service provider, introduces its Card-as-a-Service (CaaS) for AI Analysis, an AI, blockchain, FinTech firm."
+    publishedDateTime: 2024-03-14T22:53:00Z
+    webUrl: "https://www.crowdfundinsider.com/2024/03/222644-alchemy-pay-introduces-card-as-a-service-for-ai-analysis/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 39
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/04/50-Dollars-Grant-Money-Cash-Spend-Pay.jpeg"
+        width: 1198
+        height: 1280
+        isCached: true
   - title: "Admirals introduces AI-based analytical research terminal"
     excerpt: "Retail FX and CFD broker Admirals today announced the official addition of its latest analytical solution for MT4 and MT5 traders. This enhancement, powered by AI technology and developed in collaboration with Acuity,"
     publishedDateTime: 2024-03-12T16:52:00Z
