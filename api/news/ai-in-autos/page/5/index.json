@@ -2,6 +2,85 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-02-06-a-tale-of-two-companies-can-boeing-cruise-rebuild-customer-confidence.md",
+      "title": "A tale of two companies: Can Boeing, Cruise rebuild customer confidence?",
+      "excerpt": "It may also make it harder for other tech companies to push innovations – from artificial intelligence to gene therapies to ... On Oct. 2, 2023, a driverless taxi owned by Cruise was moving through an intersection in San Francisco when another driver ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.csmonitor.com/text_edition/Business/2024/0206/A-tale-of-two-companies-Can-Boeing-Cruise-rebuild-customer-confidence",
+      "originalUrl": "https://www.csmonitor.com/text_edition/Business/2024/0206/A-tale-of-two-companies-Can-Boeing-Cruise-rebuild-customer-confidence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Christian Science Monitor",
+        "domain": "csmonitor.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-06-artificial-intelligence-in-the-news-how-ai-retools-rationalizes-and-reshapes-journalism-and-the-public-arena.md",
+      "title": "Artificial Intelligence in the News: How AI Retools, Rationalizes, and Reshapes Journalism and the Public Arena",
+      "excerpt": "Image: DALL·E 2023 12-20-14.57.08. Prompt: generate a random fine line swirl picture high resolution the lines have the blue of Oxford university on white background Chapter 1 is broken down into three parts, exploring (i) news organizations’ motives ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cjr.org/tow_center_reports/artificial-intelligence-in-the-news.php",
+      "originalUrl": "https://www.cjr.org/tow_center_reports/artificial-intelligence-in-the-news.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cjr.org/wp-content/uploads/2024/02/DALL·E-2023-12-20-14.57.08-generate-a-random-fine-line-swirl-picture-high-resolution-the-lines-have-the-blue-of-Oxford-university-on-white-background.jpg",
+          "width": 1024,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-06T00:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cjr.org",
+        "domain": "cjr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2024-02-06-could-artificial-intelligence-help-or-hurt-scientific-research-articles.md",
       "title": "Could artificial intelligence help or hurt scientific research articles?",
       "excerpt": "The Use of Artificial Intelligence in Writing Scientific Review Articles. Current Osteoporosis Reports , 2024; DOI: 10.1007/s11914-023-00852-0 Cite This Page :",
@@ -1200,101 +1279,6 @@
         "AI in Autos",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-if-artificial-intelligence-is-going-to-get-involved-in-elections-colorado-lawmakers-want-voters-to-know.md",
-      "title": "If artificial intelligence is going to get involved in elections, Colorado lawmakers want voters to know",
-      "excerpt": "Colorado could be the next state to set guardrails on how artificial intelligence is used in political campaigns and election communications, as the world adapts to new technologies that can ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cpr.org/2024/01/25/regulating-artificial-intelligence-within-colorado-elections/",
-      "originalUrl": "https://www.cpr.org/2024/01/25/regulating-artificial-intelligence-within-colorado-elections/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp-cpr.s3.amazonaws.com/uploads/2023/11/231107-HARVEY-PARK-REC-CENTER-ELECTIONS-VOTING-POLLING-KEVINJBEATY-04.jpg?resize=1200,600",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-25T15:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Colorado Public Radio",
-        "domain": "cpr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-25-its-called-artificial-intelligence-for-a-reason-data-vs-decisions.md",
-      "title": "It’s Called ‘Artificial’ Intelligence For A Reason: Data Vs. Decisions",
-      "excerpt": "As with any new technology, AI and the data deluge that preceded it are only as good as the human intelligence that uses it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2024/01/25/its-called-artificial-intelligence-for-a-reason-data-vs-decisions/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2024/01/25/its-called-artificial-intelligence-for-a-reason-data-vs-decisions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/643ed5d19d23639a200990c5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2024/01/25/its-called-artificial-intelligence-for-a-reason-data-vs-decisions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2024/01/25/its-called-artificial-intelligence-for-a-reason-data-vs-decisions/amp/",
-      "publishedDateTime": "2024-01-25T11:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

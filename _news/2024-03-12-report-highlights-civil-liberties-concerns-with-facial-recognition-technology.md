@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsbtv.com/news/report-highlights-civil-liberties-concern
 cdnAmpWebUrl: "https://www-wsbtv-com.cdn.ampproject.org/c/s/www.wsbtv.com/news/report-highlights-civil-liberties-concerns-with-facial-recognition-technology/OETF3NAPQRCY5H4FGMYXI3DWMM/?outputType=amp"
 type: article
 quality: 58
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -56,6 +56,17 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "TSA facial recognition technology concerns"
+    excerpt: "TSA facial recognition technology concerns The TAA has expanded its facial recognition technology to nearly 30 airports across the country, but there are security concerns over new the system storing data without consent."
+    publishedDateTime: 2024-03-15T23:25:00Z
+    webUrl: "https://www.fox5atlanta.com/video/1426533"
+    ampWebUrl: "https://www.fox5atlanta.com/video/1426533.amp"
+    cdnAmpWebUrl: "https://www-fox5atlanta-com.cdn.ampproject.org/c/s/www.fox5atlanta.com/video/1426533.amp"
+    type: article
+    provider:
+      name: FOX 5 Atlanta
+      domain: fox5atlanta.com
+    quality: 39
   - title: "Elma man arrested in child porn case using facial recognition technology"
     excerpt: "In a groundbreaking use of technology, Matthew A. Steele, 53, from Elma, New York, has been arrested and charged with the production and distribution of child pornography, announced U.S. Attorney Trini E. Ross. The charges could result in a prison sentence ranging from a mandatory minimum of 15 years to a maximum of 30 years."
     publishedDateTime: 2024-03-14T09:29:00Z

@@ -29,11 +29,27 @@ related:
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 91
+    quality: 93
     images:
       - url: "https://imageio.forbes.com/specials-images/imageserve/65f482c7031171729485067b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
         width: 1600
         height: 662
+        isCached: true
+  - title: "India drops plan to require approval for AI model launches"
+    excerpt: "India is walking back on a recent AI advisory after receiving criticism from many local and global entrepreneurs and investors. The Ministry of Electronics and IT shared an updated AI advisory with industry stakeholders on Friday that no longer asked them ..."
+    publishedDateTime: 2024-03-15T19:30:00Z
+    webUrl: "https://techcrunch.com/2024/03/15/india-drops-plan-to-require-approval-for-ai-model-launches/"
+    ampWebUrl: "https://techcrunch.com/2024/03/15/india-drops-plan-to-require-approval-for-ai-model-launches/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/15/india-drops-plan-to-require-approval-for-ai-model-launches/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 91
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-691021212.jpg?resize=1200,800"
+        width: 1200
+        height: 800
         isCached: true
   - title: "VAST Data’s NVIDIA DPU-BASED AI Cloud Architecture"
     excerpt: "Here's how it works: using the Nvidia BlueField-3 DPU, VAST creates a parallel system architecture where storage and database processing services are embedded directly into AI servers. This setup provides a dedicated, stateless container for each GPU ..."
@@ -270,6 +286,22 @@ related:
         width: 1500
         height: 843
         isCached: true
+  - title: "NVIDIA GTC 2024: What to Expect from This Year’s Artificial Intelligence Conference"
+    excerpt: "At this global conference for tech developers, business leaders and researchers, the company promises to deliver big updates on computer graphics, data science and the future of AI."
+    publishedDateTime: 2024-03-15T23:14:00Z
+    webUrl: "https://biztechmagazine.com/article/2024/03/nvidia-gtc-2024-what-expect-years-artificial-intelligence-conference"
+    ampWebUrl: "https://biztechmagazine.com/article/2024/03/nvidia-gtc-2024-what-expect-years-artificial-intelligence-conference?amp"
+    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2024/03/nvidia-gtc-2024-what-expect-years-artificial-intelligence-conference?amp"
+    type: article
+    provider:
+      name: BizTech
+      domain: biztechmagazine.com
+    quality: 51
+    images:
+      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202403/nvidia%20preview.png.jpg?itok=hXM3HIKc"
+        width: 1440
+        height: 500
+        isCached: true
   - title: "AMD Rally Looks More Fragile Than Nvidia’s as Traders Bid Up AI"
     excerpt: "Advanced Micro Devices Inc. has kept pace with Nvidia Corp.’s furious ascent of late, but the factors underpinning its rally look less certain."
     publishedDateTime: 2024-03-13T11:53:00Z
@@ -483,6 +515,15 @@ related:
       name: SDxCentral
       domain: sdxcentral.com
     quality: 34
+  - title: "Samsung-backed South Korean AI Chip Startups Eye Nvidia-led Global Market"
+    excerpt: "South Korean startups like Rebellions and Sapeon, supported by Samsung and government initiatives, are advancing AI chip technology to compete globally, reshaping the semiconductor landscape."
+    publishedDateTime: 2024-03-15T11:25:00Z
+    webUrl: "https://www.techtimes.com/articles/302618/20240315/samsung-backed-south-korean-ai-chip-startups-eye-nvidia-led-market.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 33
   - title: "The Top Artificial Intelligence (AI) Stock to Buy in 2024, According to Certain Wall Street Analysts -- Surprise! It's Not Nvidia"
     excerpt: "There's little question that Nvidia has been the early winner in the race to adopt artificial intelligence (AI ... And the company has already hit the ground running. AWS Bedrock offers a suite of all the most common AI models, while also helping customers ..."
     publishedDateTime: 2024-03-14T15:30:00Z

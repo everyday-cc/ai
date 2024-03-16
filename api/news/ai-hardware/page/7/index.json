@@ -2,6 +2,104 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2024-01-22-chatgpt-ceo-altman-wants-to-raise-billions-of-dollars-to-build-ai-chip-factories-sources-say.md",
+      "title": "ChatGPT CEO Altman wants to raise billions of dollars to build AI chip factories, sources say",
+      "excerpt": "Sam Altman is concerned that as AI becomes more pervasive, there will not be enough chips for widespread deployment, sources say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/tech-trends/article/3249291/chatgpt-ceo-altman-wants-raise-billions-dollars-build-ai-chip-factories-sources-say",
+      "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3249291/chatgpt-ceo-altman-wants-raise-billions-dollars-build-ai-chip-factories-sources-say",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-22T12:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-22-azure-ai-studio-a-nearly-complete-toolbox-for-ai-development.md",
+      "title": "Azure AI Studio: A nearly complete toolbox for AI development",
+      "excerpt": "Azure AI Studio has competition from the usual suspects ... Hyperparameter tuning is as much a thing for LLM prompts as it is for training machine learning models. The usual important hyperparameters for LLM prompts are temperature, context window ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3712283/azure-ai-studio-a-nearly-complete-toolbox-for-ai-development.html",
+      "originalUrl": "https://www.infoworld.com/article/3712283/azure-ai-studio-a-nearly-complete-toolbox-for-ai-development.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/05/shutterstock_175644863-100940898-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 797,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3712283/azure-ai-studio-a-nearly-complete-toolbox-for-ai-development.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3712283/azure-ai-studio-a-nearly-complete-toolbox-for-ai-development.amp.html",
+      "publishedDateTime": "2024-01-22T10:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2024-01-22-nvidia-ceo-jensen-huang-visits-china-for-celebration-with-employees-amid-ai-chip-restrictions.md",
       "title": "Nvidia CEO Jensen Huang visits China for celebration with employees amid AI-chip restrictions",
       "excerpt": "TechSpot means tech analysis and advice you can trust. Read our ethics statement. Why it matters: Amid increasing China-US tensions and more AI-chip sanctions being placed on the Asian nation, Nvidia CEO Jensen Huang has just visited the country for the ...",
@@ -1363,111 +1461,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2023-12-25-cathie-woods-3-best-artificial-intelligence-ai-stocks-this-year-are-they-good-picks-for-2024.md",
-      "title": "Cathie Wood's 3 Best Artificial Intelligence (AI) Stocks This Year: Are They Good Picks for 2024?",
-      "excerpt": "Palantir Technologies ( PLTR -1.02%) ranks as Wood's No. 3 best AI stock of 2023. Shares of the software maker appear to be headed to end the year up close to 170%. As was the case with Meta, this performance is the best that Palantir has delivered in its history.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2023/12/25/cathie-wood-best-artificial-intelligence-ai-stocks/",
-      "originalUrl": "https://www.fool.com/investing/2023/12/25/cathie-wood-best-artificial-intelligence-ai-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/759006/woman-in-it-data-center.jpg",
-          "width": 2122,
-          "height": 1412,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-25T10:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-12-25-the-wonder-filled-year-of-generative-ai.md",
-      "title": "The wonder-filled year of generative AI",
-      "excerpt": "A real challenge for the AI world is finding a way to unlock all of the grand opportunities without running up a yuge electricity bill. There is some hope that new chips, better algorithms, and more judicious use of layering in the networks will save a few supertankers filled with oil. Will that be enough?",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3711860/the-wonder-filled-year-of-generative-ai.html",
-      "originalUrl": "https://www.infoworld.com/article/3711860/the-wonder-filled-year-of-generative-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2023/12/shutterstock_1209641578-100951456-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3711860/the-wonder-filled-year-of-generative-ai.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3711860/the-wonder-filled-year-of-generative-ai.amp.html",
-      "publishedDateTime": "2023-12-25T10:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

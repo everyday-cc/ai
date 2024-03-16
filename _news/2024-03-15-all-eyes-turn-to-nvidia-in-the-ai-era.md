@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/tiriasresearch/2024/03/15/all-eyes-turn-to
 ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2024/03/15/all-eyes-turn-to-nvidia-in-the-ai-era/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2024/03/15/all-eyes-turn-to-nvidia-in-the-ai-era/amp/"
 type: article
-quality: 91
-heat: 531
+quality: 93
+heat: 563
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - AI Hardware
   - AI
   - AI in Robotics
+  - Meta AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/65f482c7031171729485067b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
@@ -32,6 +33,22 @@ images:
     isCached: true
 
 related:
+  - title: "India drops plan to require approval for AI model launches"
+    excerpt: "India is walking back on a recent AI advisory after receiving criticism from many local and global entrepreneurs and investors. The Ministry of Electronics and IT shared an updated AI advisory with industry stakeholders on Friday that no longer asked them ..."
+    publishedDateTime: 2024-03-15T19:30:00Z
+    webUrl: "https://techcrunch.com/2024/03/15/india-drops-plan-to-require-approval-for-ai-model-launches/"
+    ampWebUrl: "https://techcrunch.com/2024/03/15/india-drops-plan-to-require-approval-for-ai-model-launches/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/15/india-drops-plan-to-require-approval-for-ai-model-launches/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 91
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/07/GettyImages-691021212.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "VAST Data’s NVIDIA DPU-BASED AI Cloud Architecture"
     excerpt: "Here's how it works: using the Nvidia BlueField-3 DPU, VAST creates a parallel system architecture where storage and database processing services are embedded directly into AI servers. This setup provides a dedicated, stateless container for each GPU ..."
     publishedDateTime: 2024-03-12T19:24:00Z
@@ -267,6 +284,22 @@ related:
         width: 1500
         height: 843
         isCached: true
+  - title: "NVIDIA GTC 2024: What to Expect from This Year’s Artificial Intelligence Conference"
+    excerpt: "At this global conference for tech developers, business leaders and researchers, the company promises to deliver big updates on computer graphics, data science and the future of AI."
+    publishedDateTime: 2024-03-15T23:14:00Z
+    webUrl: "https://biztechmagazine.com/article/2024/03/nvidia-gtc-2024-what-expect-years-artificial-intelligence-conference"
+    ampWebUrl: "https://biztechmagazine.com/article/2024/03/nvidia-gtc-2024-what-expect-years-artificial-intelligence-conference?amp"
+    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2024/03/nvidia-gtc-2024-what-expect-years-artificial-intelligence-conference?amp"
+    type: article
+    provider:
+      name: BizTech
+      domain: biztechmagazine.com
+    quality: 51
+    images:
+      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202403/nvidia%20preview.png.jpg?itok=hXM3HIKc"
+        width: 1440
+        height: 500
+        isCached: true
   - title: "AMD Rally Looks More Fragile Than Nvidia’s as Traders Bid Up AI"
     excerpt: "Advanced Micro Devices Inc. has kept pace with Nvidia Corp.’s furious ascent of late, but the factors underpinning its rally look less certain."
     publishedDateTime: 2024-03-13T11:53:00Z
@@ -480,6 +513,15 @@ related:
       name: SDxCentral
       domain: sdxcentral.com
     quality: 34
+  - title: "Samsung-backed South Korean AI Chip Startups Eye Nvidia-led Global Market"
+    excerpt: "South Korean startups like Rebellions and Sapeon, supported by Samsung and government initiatives, are advancing AI chip technology to compete globally, reshaping the semiconductor landscape."
+    publishedDateTime: 2024-03-15T11:25:00Z
+    webUrl: "https://www.techtimes.com/articles/302618/20240315/samsung-backed-south-korean-ai-chip-startups-eye-nvidia-led-market.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 33
   - title: "Meta's insatiable appetite for Nvidia AI chips could add up to $7 billion worth of H100 GPUs by the end of the year"
     excerpt: "For what it's worth, Omnia predicts that the overall market for these AI GPUs will be double the size in 2027 that it was in 2023. So, Meta buying a huge amount of H100s in 2023 and yet even more of them this year fits the available data well enough."
     publishedDateTime: 2024-03-15T13:21:00Z
@@ -590,6 +632,6 @@ related:
       domain: benzinga.com
     quality: 2
 
-secured: "dQovP3CVURFq3qRjy2rW73hUjmW5xqqqDiZPcS/KlPpbWCq/VRXylzNEtl7xknquRniLPlhk6IByly2EP3B6mcG2o9Ht59t028nJIupYWDFwabX8lj6C06vc3cPs3OWisqId3OZGzeX8c299yKA9sJ97zlz5364drjrgCykllX4FVTW8nT2OY9KZfed21UlQnUJJuR4yzScKlFjMrhnHlnQjH9FmZHkzxOhPr2PUxn76OKW5JKbtb/1DC1MxbACxGyvDq39IlqXp6pGMj6yhOHH5qZjyf9YIKu4IG75VO+C0piUDIf0M4d9WYBl74qAtg6rn5C2Fn0B+zB5bXSGuHAyDn1cUV4qaMxTS5XYkgrc=;a1msyx00h5YQVLVYDwZYnA=="
+secured: "UGjElhTN5Ccs3RstkgncuuGpUgiMcbOxMJsDdwPZkkhrllEugaXnwHWKi96HdGDATB4HJn2XWkGPAa6B3cJi5zr6xw4hGji40AyNxBJgOU3e6iuPX8ZcGy51OZ00n8L5yuVmSPtkco8sC44wNhh9hzZ90Pt6aJeiRIuj+UgV509CZOJwtYa/y2U7xBwh6OxyNcoj3x6hFxF3YraAb+F37VBKQfA9rIaEshQ0Ku7YyiQetJ1KAuChbqVXzZPKD4oyiI75+nh8cMh7tmhlDVFxkzsyqevOJI2arYOzp/RA993/j8Ra0PxJfLclkrprgspGzLXhsIEhvIwLpINT8uc98tor6zjomE+KMKGuuOB/nADSPs2p70opHKhyAb1aRVOms/p1XT81gJiNTHZ4qQZBGoMhrQCcxSpYHDZvxQK1qVDxkmlcKu1D2rdlVEU6197Uupd1H8YBPTK4MLKxkZEODC8c7+7m47zl3DDan0qkYm0OHbBPcaIzWc66g6LdPDZWtzGVq55btbXDjCVF5x4F4Q==;ZOvuXSlEZAFP4j4rad5ApA=="
 ---
 

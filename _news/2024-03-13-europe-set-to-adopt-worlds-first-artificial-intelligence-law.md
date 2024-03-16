@@ -93,6 +93,20 @@ related:
         width: 1000
         height: 571
         isCached: true
+  - title: "The European Parliament Adopts the AI Act"
+    excerpt: "The AI Act does not apply to AI specifically developed and put into service for the sole purpose of scientific research and development. The AI Act does not apply to any research, testing and development activity regarding AI before being placed on the ..."
+    publishedDateTime: 2024-03-15T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/the-european-parliament-adopts-the-ai-8143595/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 39
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15516_5958.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "What the fierce AI talent war in Europe means for IT professionals as well as IT companies like Google and others"
     excerpt: "A surge of artificial intelligence (AI) startups is intensifying competition for skilled workers in Europe, forcing established players like Google De."
     publishedDateTime: 2024-03-11T10:48:00Z

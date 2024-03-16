@@ -6,7 +6,7 @@ publishedDateTime: 2024-03-14T12:59:00Z
 originalUrl: "https://siliconangle.com/2024/03/14/databricks-latest-investor-red-hot-generative-ai-startup-mistral-ai/"
 webUrl: "https://siliconangle.com/2024/03/14/databricks-latest-investor-red-hot-generative-ai-startup-mistral-ai/"
 type: article
-quality: 14
+quality: 34
 heat: -1
 published: false
 
@@ -16,6 +16,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/03/Databricks.jpg"
+    width: 901
+    height: 507
+    isCached: true
 
 related:
   - title: "Nvidia Is an Investor in Artificial Intelligence (AI) Start-Up Databricks. Should Palantir Investors Worry?"
@@ -56,6 +62,6 @@ related:
       domain: nasdaq.com
     quality: 59
 
-secured: "cHUq6pt5+Ehc9bm6oHJV9QHdWw9lSn8EocMd4tNt28oNrg0pAGzIIcY8DUGr5ysmqxqNMIKPzSdbQBSDqOI26exASmePMksaa9Fd/uc+pANXibrbOS4tE+2VezUeot7edfw/06LrCH0Y6D/gRyrXxKMZ3zCP29tzNd/OJXuiYYNE9V/IULZB95fuHXclMKcK1gmdVZwVBBvTXy0bbh87iGJDp+g1I7cnvjzCKXDppkSWrdQlzQGhtCXF2aaIufbTn2kcAT3MjEf4Ts53nPvMve0BON+5JeCjbeTxyxgpRJmvC5MN9gu1wSoTQGagJ7HC/sj+hcvi87lq2B0ryuqkDMEpa3qJOvr2zGysVHFrcL0=;gFpxLTyTp2rXIWHfgu8wIw=="
+secured: "q364Wpa6e8HjpNtZvcVZdncnFvVXpntFWjaqm4qfc+YDipeJgaFDKPxcj0nB6I/IOquEz5vRdjKmG2/1wRlSSPnxfbwCGS4lv/upzpTkcC1typmKuNkKVpTDOyk7YzvnNXSHYweuz7qh71QhuKBmpzk48zO65glRW5aoAITNqazugEK+paZzGn9YGG1A+6O4FmteHzBqJfzRgzvWNyvIWmT93rP7ufUusv5Q69VxeQ6Vz+ig6PkBFll70R3VZtXbcnWFtLJREfiWDkCAVhwFcp+t6Ldg5ybfnButaKpT8meHqquWCmr4awFTp30h1YKyVlxmh/9+mUzYVJHUvu9AfORcTQqUnuWrlSUKobOVJZ8=;Q1X7L9TAvcZm6LESlYX7mA=="
 ---
 

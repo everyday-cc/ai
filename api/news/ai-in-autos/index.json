@@ -54,7 +54,7 @@
       "originalUrl": "https://www.foxnews.com/tech/high-school-students-colorado-explore-limits-artificial-intelligence-design-their-own-ai-models",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -78,58 +78,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-14-beyond-hype-drone-delivery-takes-flight-in-2024.md",
-      "title": "Beyond Hype: Drone Delivery Takes Flight In 2024",
-      "excerpt": "Drone delivery is no longer a sci-fi pipe dream. The implications for both businesses and consumers are nothing short of transformative.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/timothypapandreou/2024/03/13/beyond-hype-drone-delivery-takes-flight-in-2024/",
-      "originalUrl": "https://www.forbes.com/sites/timothypapandreou/2024/03/13/beyond-hype-drone-delivery-takes-flight-in-2024/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65f2316656111d2945118de4/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/timothypapandreou/2024/03/13/beyond-hype-drone-delivery-takes-flight-in-2024/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timothypapandreou/2024/03/13/beyond-hype-drone-delivery-takes-flight-in-2024/amp/",
-      "publishedDateTime": "2024-03-13T23:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -285,6 +233,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-a-look-at-waymos-driverless-cars.md",
+      "title": "A look at Waymo’s driverless cars",
+      "excerpt": "Waymo’s self-driving cars do not require human drivers, instead relying on the public’s trust in technology. Waymo has accumulated over 7 million miles of driving data on public roads and has discovered that their driverless cars are three times less likely to be involved in any type of crash or accident reported to the police,",
+      "sourceUrl": null,
+      "webUrl": "https://lavozdeanza.com/uncategorized/2024/03/12/a-look-at-waymos-driverless-cars/",
+      "originalUrl": "https://lavozdeanza.com/uncategorized/2024/03/12/a-look-at-waymos-driverless-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lavozdeanza.com/wp-content/uploads/2024/03/Screenshot-2024-03-10-at-5.09.11 PM.png",
+          "width": 2001,
+          "height": 1086,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-12T16:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "De Anza College La Voz Weekly",
+        "domain": "lavozdeanza.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -563,6 +554,49 @@
       "provider": {
         "name": "The Indian Express",
         "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-06-europe-leads-the-way-autonomous-vehicles-industry-surges-with-87-cagr-growth.md",
+      "title": "Europe Leads the Way: Autonomous Vehicles Industry Surges with 8.7% CAGR Growth",
+      "excerpt": "In 2023, the autonomous vehicles industry is anticipated to be valued at US$ 30,539.0 million. Over the forecast period from 2023 to 2033, revenue from the sales of autonomous vehicles is predicted to increase significantly,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fmiblog.com/2024/03/06/europe-leads-the-way-autonomous-vehicles-industry-surges-with-8-7-cagr-growth/",
+      "originalUrl": "https://www.fmiblog.com/2024/03/06/europe-leads-the-way-autonomous-vehicles-industry-surges-with-8-7-cagr-growth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fmiblog.com/wp-content/uploads/2024/03/Locomotive-Traction-Transformer-Market-1-420x300.jpg",
+          "width": 420,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T10:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Future Market Insights",
+        "domain": "fmiblog.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1300,49 +1334,6 @@
       "provider": {
         "name": "China Digital Times",
         "domain": "chinadigitaltimes.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-02-the-hype-is-gone-from-the-electric-vehicle-industry-evs-are-becoming-boring-appliances.md",
-      "title": "The hype is gone from the electric-vehicle industry. EVs are becoming boring appliances",
-      "excerpt": "This week, Apple AAPL-Q rolled its plans to create a self-driving iPhone on wheels into the ditch ... in spite of endless predictions they would be the norm by now (Waymo and Baidu run small fleets of them in a few American and Chinese cities), Tesla ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/business/commentary/article-the-hype-is-gone-from-the-electric-vehicle-industry-evs-are-becoming/",
-      "originalUrl": "https://www.theglobeandmail.com/business/commentary/article-the-hype-is-gone-from-the-electric-vehicle-industry-evs-are-becoming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theglobeandmail.com/resizer/v2/J2XSXX54HFAYLFIFIDL3W5TF2I.jpg?auth=d1515dbf415f9a8059e3dd35b1c61613fd7c328a4e80c0489beea31b51c3bf62&width=1200&height=800&quality=80",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-02T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
         "images": null,
         "publishers": null,
         "authors": null

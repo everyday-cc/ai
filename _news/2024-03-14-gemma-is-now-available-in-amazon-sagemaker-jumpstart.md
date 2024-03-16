@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/gemma-is-now-availab
 webUrl: "https://aws.amazon.com/blogs/machine-learning/gemma-is-now-available-in-amazon-sagemaker-jumpstart/"
 type: article
 quality: 104
-heat: 127
+heat: 124
 published: true
 
 provider:

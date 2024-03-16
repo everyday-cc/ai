@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2024/03/15/7-common-m
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/15/7-common-mistakes-ctos-make-when-implementing-ai-code-tools/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 108
 published: true
 
 provider:

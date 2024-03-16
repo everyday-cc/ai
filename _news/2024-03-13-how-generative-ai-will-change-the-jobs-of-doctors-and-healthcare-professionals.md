@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2024/03/13/how-generative-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2024/03/13/how-generative-ai-will-change-the-jobs-of-doctors-and-healthcare-professionals/amp/"
 type: article
 quality: 100
-heat: 280
+heat: 290
 published: true
 
 provider:
@@ -193,6 +193,20 @@ related:
       - url: "https://www.beckershospitalreview.com/templates/beckers/assets/images/bhr-new-logo.png"
         width: 800
         height: 600
+        isCached: true
+  - title: "Working on guidelines for how doctors, researchers use AI to improve healthcare"
+    excerpt: "From patient care to drug development, artificial intelligence has huge opportunity to upend healthcare. From patient care to drug development, artificial intelligence has huge opportunity to upend healthcare."
+    publishedDateTime: 2024-03-15T22:31:00Z
+    webUrl: "https://www.wral.com/video/working-on-guidelines-for-how-doctors-researchers-use-ai-to-improve-healthcare/21331862/"
+    type: article
+    provider:
+      name: WRAL
+      domain: wral.com
+    quality: 50
+    images:
+      - url: "https://wwwcache.wral.com/asset/lifestyles/healthteam/2024/03/15/21331863/3247445-aihealth-DMID1-62a4b0bcl-640x480.jpg"
+        width: 640
+        height: 480
         isCached: true
   - title: "Generative AI Is A Game Changer For Talent Transformation"
     excerpt: "One of generative AI's most significant implications is giving talent management professionals the ability to communicate information to executives and their board of directors. It helps leadership look around corners, rather than just in the rearview mirror, when shaping strategy or making decisions."

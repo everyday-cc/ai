@@ -1,18 +1,18 @@
 ---
 category: news
 title: "CQG Unveils New First-of-its-Kind AI / Machine Learning Trading Toolkit for Predicting Futures Market Moves"
-excerpt: "Success in Live Trading Environment Confirms Internal Test Results DENVER and BOCA RATON, Fla., March 11, 2024 /PRNewswire/ -- CQG, a leading global provider of high-performance technology"
-publishedDateTime: 2024-03-11T11:20:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2024-03/61640370-cqg-unveils-new-first-of-its-kind-ai-machine-learning-trading-toolkit-for-predicting-futures-market-moves-008.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2024-03/61640370-cqg-unveils-new-first-of-its-kind-ai-machine-learning-trading-toolkit-for-predicting-futures-market-moves-008.htm"
+excerpt: "CQG, a leading global provider of high-performance technology solutions for market makers, traders, brokers, commercial hedgers and"
+publishedDateTime: 2024-03-11T11:00:00Z
+originalUrl: "https://www.prnewswire.co.uk/news-releases/cqg-unveils-new-first-of-its-kind-ai--machine-learning-trading-toolkit-for-predicting-futures-market-moves-302084694.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/cqg-unveils-new-first-of-its-kind-ai--machine-learning-trading-toolkit-for-predicting-futures-market-moves-302084694.html"
 type: article
 quality: 18
 heat: -1
 published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: PR Newswire
+  domain: prnewswire.co.uk
 
 topics:
   - AI in Finance
@@ -78,21 +78,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Latest News On AI Deployment Shows Companies Implementing Generative AI with Speed and Safety"
-    excerpt: "AI deployment has become increasingly significant in today’s industry landscape. Companies are leveraging the power of artificial intelligence to revolutionize various sectors and drive innovation. One particular area of focus is generative AI,"
-    publishedDateTime: 2024-03-15T03:44:00Z
-    webUrl: "https://techbullion.com/latest-news-on-ai-deployment-shows-companies-implementing-generative-ai-with-speed-and-safety/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 26
-    images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/03/Latest-News-On-AI-Deployment-1000x504.png"
-        width: 1000
-        height: 504
-        isCached: true
 
-secured: "8alHNvIWsYQ/QIxvA2s4S6c2PrFINIL1X5RHAZr9p092X+fmrohm7/JW/S33FuK5md3SHRtVxheN5dAj5FFRnWpyi7zdOC50Xp9Dd1a1F3bKXSfRXs8UhbBqkzQX1qq/9CBtWZ437+y5QMxM0qte/GL1nbv0RkrGpHHzpyb8RXke+l5OZl1mQ04+bVMEKnlFu3elD6tKRAcnyEPVdezNh9m/xlsGdy5NI207Y2FdXpU4e/2kongC5IPzHZaOVxS1Z8nVj8FPjo3ar9zvQqk7Avu+TI4Kaus+WkPWg+GTuVMwkEPsZbaSqftcoiKumI+XkieVDX8Xw9JWngOUczCjjCnZQOMnkwsWPK3GrX45M7s=;y29213zDAqAwxtbg6YRgUg=="
+secured: "fQoXJSUP+HkptB2QggVX+HN3BCg68YH22o6y29n2wC/TOw3Dbyky//NC586CifBgBq/ekCG/i18iN+y6a9/F26qNkyvJSA4xyotxYYDHgVltI16sL1J4SnYPtsg66GvwLcCsjc3wPuvxMi5CzqeQFReiNhv9V9pnoz/gc+kAtGarJZh7neoupIDxxEuQjBP/skennj/X+YoWxJBPSizV/AOdrJLsZ2+tME67qrSl4l8yUiANDl20mzG2ZLmz4Wux4c8QcQHycw99OPie6kqLZkXtfrcKqr82sMmHVPUgJ7IqAB6Uys9t6K9QuRvVxvaVP+gkOK4n1QllxszbDIcW0nB/31Uy+3B2441JRi0X3OMSMh2u1DnJBZ/TMYKcJLYghy7atePlUzlci6pxFNP73eEBB37u5q/dYzd0IrBrnImrm2nGAvechMLToCvWl2DZ9jZvISRa2nYms401Ay6Kc39PthnI4fLH6ppQPCA9H55QDP7ip6gYGDQUtJT5OE4db7EHuWrweD0My9/RopQhxg==;W5y6LF9lYSqXiC3sUWagrw=="
 ---
 

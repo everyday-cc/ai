@@ -1,10 +1,10 @@
 ---
 category: news
 title: "AI now affecting the “investability” of businesses - Insider panel speakers"
-excerpt: "The \"investability\" of businesses could soon be partly determined by Artificial Intelligence, with AI even ranking how backable they are, according to experts at an Insider event."
-publishedDateTime: 2024-03-15T07:33:00Z
-originalUrl: "https://www.insidermedia.com/news/midlands/ai-now-affecting-the-investability-of-businesses-insider-panel-speakers"
-webUrl: "https://www.insidermedia.com/news/midlands/ai-now-affecting-the-investability-of-businesses-insider-panel-speakers"
+excerpt: "\"One of the unexpected aspects of AI is that it could be used to assess the 'investability' of start-ups and smaller innovative businesses,\" said No-Code and FinTech pioneer Jof Walters, one of the speakers at the breakfast, being held at Birmingham's ICC."
+publishedDateTime: 2024-03-15T00:00:00Z
+originalUrl: "https://www.insidermedia.com/news/hidden/ai-now-affecting-the-investability-of-businesses-insider-panel-speakers"
+webUrl: "https://www.insidermedia.com/news/hidden/ai-now-affecting-the-investability-of-businesses-insider-panel-speakers"
 type: article
 quality: 37
 heat: 37
@@ -24,6 +24,6 @@ images:
     height: 450
     isCached: true
 
-secured: "8k2S5azADRdEPzAWNNTvK/wULo/Vwx1PHzcZ4fdHIRzOigVChNjEPkBFKZOaftZFvYPxkxeP05t8gEj11Y7YVezhrU+ZNZIeTitUN36fTlkDrE+PEJTzjZKBCRD1FupUt2ZCyz4rW59I0VyZM2YgtUSR7cbj/whnt7yo4ZGJKjgiwRxWQhal2aiR5sL+OCYS30QlU0m2G/DO+EZK+coq1OE3kB5TF/+wNiyfBg4Tu/lvO+mc3q2arLeuHk/Y7jbrVEqNrecsKCHWdADBlDJ+5Y4STQdIHorvxHmfQrmlok1b/m0t0ccBOpe8JDHpJS+9c34aYD7uZIe/tOPGGaJc4hXxKrb8Sy6TLgSqL1/RBcc=;9IAAsJZHMeY0JGryQxP3bA=="
+secured: "GrC1iwi5lY72RaTKTAYGpSm1YBeqaIuNbWceswkFippsqKbQ8RfWdDX9XtjgD5Dv5T/E00Sjzm6Kdk1uV9mbHkfSrZEMEpKwRxzgSEGRjNVexW0W18CKmBWFxjefHdsimDBlQfF2szsGuo3N7Ym+q4rwhAHFZFpDG0ZAtYcYa0FrQX7FLZXjfsYIqqgWrbFaOcH3sXwd0W9a1yYX0IUSDZL507gffWSIJl6ftXZpkePsxmB3QzlZnU1wcVMqoGq1qsXS++mksI+FFTYiScNjPzvdcmtv1xDrj/ev1OPq/Tk5tGHgzP4diqPsh00PdSceepU83yjshGbpEnPccy1YUa6GoSFGzBbtwDm6EPCKZhc=;/jS58GBUqzfaVFvEuFJZuA=="
 ---
 

@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 665
         isCached: true
-  - title: "Paytm integrates AI into operations, aims to streamline processes"
-    excerpt: "In addition to its focus on AI, Paytm is currently conducting its annual appraisal cycle, which is standard practice in the industry."
-    publishedDateTime: 2024-03-15T05:03:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/paytm-integrates-ai-into-operations-aims-to-streamline-processes/108512437"
-    type: article
-    provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 39
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-108512437,imgsize-16712,width-1200,height=765,overlay-etcio/artificial-intelligence/paytm-integrates-ai-into-operations-aims-to-streamline-processes.jpg"
-        width: 1200
-        height: 765
-        isCached: true
 
 secured: "kpk1CArOCieZZyj6s+5eFPUDwsQGSEcPHiuC1ptI8QmujsDZOlqPd3IPgzz6YLUHJJwkxDJv2EOxoZRfGd73wAjz6zhb8ZA9mq+6e4WF0AE+a7gzW3Im64sbokVRR6rR33KDFiL1a3RAZ86qoQpjGfxnUAcB79oE3gN+B2IepEjEAwpzxx4CPSmZSudOMlK5gVvjPJjiQhMUnD8pp8tK/wnUF9Du30qtHD+PW84UcbZn/l8hA7qpKCpjOdMO80Ql+u2Y2UAsHM0NggECWYyS+fibBkYT6IBE7uWv+xSfXqX6I06y228HnCa28QCIKXETCR2Te9Th5ADPOjEqcR+OdKFe4SuuRD6N7y/QHFyU8iA=;au358EjaRo4qKaye7qhRCw=="
 ---

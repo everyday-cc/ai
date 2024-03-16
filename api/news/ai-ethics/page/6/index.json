@@ -2,6 +2,102 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2023-12-15-what-businesses-should-know-about-data-privacy-and-ai-younger-consumers-lead-the-way.md",
+      "title": "What Businesses Should Know About Data Privacy And AI — Younger Consumers Lead The Way",
+      "excerpt": "Artificial Intelligence (AI) is not new, but the launch of Generative AI (Gen AI) tools like ChatGPT in 2022 brought AI to millions of new users.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/garydrenik/2023/12/15/what-businesses-should-know-about-data-privacy-and-ai---younger-consumers-lead-the-way/",
+      "originalUrl": "https://www.forbes.com/sites/garydrenik/2023/12/15/what-businesses-should-know-about-data-privacy-and-ai---younger-consumers-lead-the-way/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6579e9e572d21fb9f7c932ad/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 640,
+          "height": 361,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2023/12/15/what-businesses-should-know-about-data-privacy-and-ai---younger-consumers-lead-the-way/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/12/15/what-businesses-should-know-about-data-privacy-and-ai---younger-consumers-lead-the-way/amp/",
+      "publishedDateTime": "2023-12-15T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-15-ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use.md",
+      "title": "AI in healthcare: Duke Health signs pledge for ethical, responsible use",
+      "excerpt": "Duke Health is among a leading group of health systems and payers from across the U.S. to sign a pledge advancing ethical and responsible use of Artificial Intelligence technology in health care.",
+      "sourceUrl": null,
+      "webUrl": "https://wraltechwire.com/2023/12/15/ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use/",
+      "originalUrl": "https://wraltechwire.com/2023/12/15/ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wraltechwire.com/wp-content/uploads/2023/12/robot-AI-doctor-e1702640075182.jpg",
+          "width": 1262,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://wraltechwire.com/2023/12/15/ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use/?amp=1",
+      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/12/15/ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use/?amp=1",
+      "publishedDateTime": "2023-12-15T11:37:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2023-12-15-recent-cases-raise-questions-about-the-ethics-of-using-ai-in-the-legal-system.md",
       "title": "Recent cases raise questions about the ethics of using AI in the legal system",
       "excerpt": "NPR's Steve Inskeep asks the director of the Private Law Clinic at Yale University, Andrew Miller, about the ethics of using artificial intelligence in the legal system.",
@@ -1291,92 +1387,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-26-western-monopoly-in-ai-dangerous-and-unacceptable-says-russias-vladimir-putin.md",
-      "title": "Western monopoly in AI 'dangerous, and unacceptable', says Russia's Vladimir Putin",
-      "excerpt": "During his more than two decades in power, Putin has overseen a multi-pronged crackdown on the opposition and civil society groups, and promoted “traditional values” to counter purported Western influence — policies that have become even more oppressive after he sent troops into Ukraine in February 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://tech.hindustantimes.com/tech/news/western-monopoly-in-ai-dangerous-and-unacceptable-says-russias-vladimir-putin-71700918917365.html",
-      "originalUrl": "https://tech.hindustantimes.com/tech/news/western-monopoly-in-ai-dangerous-and-unacceptable-says-russias-vladimir-putin-71700918917365.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/tech/img/2023/11/26/1600x900/artificial_intelligence_1698542010139_1700960383653.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/western-monopoly-in-ai-dangerous-and-unacceptable-says-russias-vladimir-putin-71700918917365.html",
-      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/western-monopoly-in-ai-dangerous-and-unacceptable-says-russias-vladimir-putin-71700918917365.html",
-      "publishedDateTime": "2023-11-26T12:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times Tech",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-11-26-lg-unesco-partner-to-promote-ai-ethics.md",
-      "title": "LG, UNESCO partner to promote AI ethics",
-      "excerpt": "LG AI Research, LG Group's artificial intelligence think tank, said Sunday it has signed a letter of intent with UNESCO in Seoul to jointly foster knowledge and awareness of the ethics of AI. LG highlighted the agreement as the first of its kind,",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreaherald.com/view.php?ud=20231126000092",
-      "originalUrl": "https://www.koreaherald.com/view.php?ud=20231126000092",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2023%2F11%2F26%2F20231126000089_0.jpg",
-          "width": 630,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.koreaherald.com/amp/view.php?ud=20231126000092",
-      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20231126000092",
-      "publishedDateTime": "2023-11-26T05:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Herald",
-        "domain": "koreaherald.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

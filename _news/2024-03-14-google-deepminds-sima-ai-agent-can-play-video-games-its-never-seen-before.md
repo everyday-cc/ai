@@ -55,6 +55,22 @@ related:
         width: 1600
         height: 899
         isCached: true
+  - title: "Google DeepMind Presents SIMA, Generalist AI Agent for 3D Virtual Environments"
+    excerpt: "Google DeepMind has introduced SIMA, an AI agent designed to navigate various 3D virtual environments based on natural-language instructions. The aim is to develop a versatile AI capable of assisting users with tasks across different gaming platforms."
+    publishedDateTime: 2024-03-15T13:50:00Z
+    webUrl: "https://www.techtimes.com/articles/302610/20240315/google-deepmind-presents-sima-generalist-ai-agent-3d-virtual-environments.htm"
+    ampWebUrl: "https://www.techtimes.com/amp/articles/302610/20240315/google-deepmind-presents-sima-generalist-ai-agent-3d-virtual-environments.htm"
+    cdnAmpWebUrl: "https://www-techtimes-com.cdn.ampproject.org/c/s/www.techtimes.com/amp/articles/302610/20240315/google-deepmind-presents-sima-generalist-ai-agent-3d-virtual-environments.htm"
+    type: article
+    provider:
+      name: techtimes
+      domain: techtimes.com
+    quality: 72
+    images:
+      - url: "https://1734811051.rsc.cdn77.org/data/images/full/444738/video-game.png"
+        width: 1500
+        height: 1021
+        isCached: true
   - title: "Google DeepMind Unveils SIMA, a General, Instructable Game-Playing AI Agent"
     excerpt: "SIMA has been trained across multiple games, including collaborations with eight game studios, and tested on nine different video games, such as No Man’s Sky by Hello Games and Teardown by Tuxedo Labs"
     publishedDateTime: 2024-03-14T05:01:00Z

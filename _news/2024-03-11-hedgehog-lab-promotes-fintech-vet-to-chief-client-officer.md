@@ -34,15 +34,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Top Fintech Picks: 3 Stocks Changing How Money Changes Hands"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The traditional, staid world of finance continues to progress thanks to the"
-    publishedDateTime: 2024-03-10T19:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/top-fintech-picks-3-stocks-changing-how-money-changes-hands-1033148629"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
   - title: "Unlocking Fintech Opportunities: Leveraging Digital Public Goods for Inclusive Finance"
     excerpt: "DPG-enabled IIPS presents a unique business opportunity for fintechs because they offer the potential to loop in more customers into the digital economy, especially the financially underserved. Most importantly, this can be achieved even in remote areas  where access to traditional banking is limited. Advantages of Digital Public Goods:"
     publishedDateTime: 2024-03-12T20:18:00Z

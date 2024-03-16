@@ -282,7 +282,7 @@
       "originalUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -320,51 +320,6 @@
         "Machine Learning",
         "IBM AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization.md",
-      "title": "Quisitive Awarded the AI and Machine Learning in Microsoft Azure Specialization",
-      "excerpt": "Quisitive Technology Solutions Inc. (“Quisitive” or the “Company”) (TSXV: QUIS, OTCQX: QUISF), a premier Microsoft solutions provider, announced it has earned the prestigious AI and Machine Learning in Microsoft Azure Specialization.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization-1033142131",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization-1033142131",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-07T14:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "Microsoft AI"
       ]
     },
     {
@@ -1379,6 +1334,58 @@
         "AI in Finance",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-empowerly-secures-15m-for-its-college-counseling-services.md",
+      "title": "Empowerly secures $15M for its college counseling services",
+      "excerpt": "Empowerly, an edtech startup that specializes in college counseling and career guidance services, raised $15 million in a recent funding round led by Edtech startup Empowerly raised $15 million in a recent funding round led by Conductive Ventures.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/02/21/empowerly-secures-15m-for-its-college-counseling-services/",
+      "originalUrl": "https://techcrunch.com/2024/02/21/empowerly-secures-15m-for-its-college-counseling-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2017/12/graduate.jpg?resize=1200,900",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/02/21/empowerly-secures-15m-for-its-college-counseling-services/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/21/empowerly-secures-15m-for-its-college-counseling-services/amp/",
+      "publishedDateTime": "2024-02-21T17:31:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     }
   ],

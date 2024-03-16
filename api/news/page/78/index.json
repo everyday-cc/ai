@@ -2,6 +2,324 @@
   "page": 78,
   "value": [
     {
+      "path": "_news/2024-01-19-mark-zuckerberg-wants-to-build-artificial-general-intelligence-agi.md",
+      "title": "Mark Zuckerberg wants to build Artificial General Intelligence (AGI)",
+      "excerpt": "Mark Zuckerberg is planning more AI as the focus of global tech majors ... known for creating Facebook, the first widely used social media platform. It’s still in operation today and continues ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/2024/01/mark-zuckerberg-wants-to-build-artificial-general-intelligence-agi.html",
+      "originalUrl": "https://www.androidheadlines.com/2024/01/mark-zuckerberg-wants-to-build-artificial-general-intelligence-agi.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-19T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-19-news-tagged-with-deep-learning.md",
+      "title": "News tagged with deep learning",
+      "excerpt": "The Japanese Ophthalmological Society and the National Institute of Informatics have developed and public-released an AI model to estimate an individual's sex from fundus images, using data ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/tags/deep+learning/",
+      "originalUrl": "https://medicalxpress.com/tags/deep+learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-19T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-19-the-generative-ai-future-will-not-be-free.md",
+      "title": "The generative AI future will not be free",
+      "excerpt": "I asked Oren Etzioni, an AI expert and a veteran of the online Search business. He shared a few thoughts: The broad services (Search, Facebook, WhatsApp) are still free/ad-supported (if the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/generative-ai-future-will-not-be-free-2024-1",
+      "originalUrl": "https://www.businessinsider.com/generative-ai-future-will-not-be-free-2024-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-19T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-19-zucks-gpu-flex-will-cost-meta-as-much-as-18-billion-by-the-end-of-2024.md",
+      "title": "Zuck's GPU flex will cost Meta as much as $18 billion by the end of 2024",
+      "excerpt": "A single Nvidia H100 GPU is estimated to cost about $30,000 although ... Zuckerberg noted in Thursday's video that Meta's AI and metaverse projects are coming closer together given his expectation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/mark-zuckerberg-ai-flex-meta-nvidia-gpus-2024-1",
+      "originalUrl": "https://www.businessinsider.com/mark-zuckerberg-ai-flex-meta-nvidia-gpus-2024-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65098988bf943d00195b6348?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/mark-zuckerberg-ai-flex-meta-nvidia-gpus-2024-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mark-zuckerberg-ai-flex-meta-nvidia-gpus-2024-1?amp",
+      "publishedDateTime": "2024-01-19T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-19-deepmind-ai-rivals-the-worlds-smartest-high-schoolers-at-geometry.md",
+      "title": "DeepMind AI rivals the world’s smartest high schoolers at geometry",
+      "excerpt": "A system developed by Google’s DeepMind has set a new record for AI performance on geometry problems. DeepMind’s AlphaGeometry managed to solve 25 of the 30 geometry problems drawn from the International Mathematical Olympiad between 2000 and 2022.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/ai/2024/01/deepmind-ai-rivals-the-worlds-smartest-high-schoolers-at-geometry/",
+      "originalUrl": "https://arstechnica.com/ai/2024/01/deepmind-ai-rivals-the-worlds-smartest-high-schoolers-at-geometry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/GettyImages-1760047727-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-18T23:55:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-19-zuckerberg-says-meta-is-working-on-open-source-general-intelligence-for-ai.md",
+      "title": "Zuckerberg says Meta is working on open source “general intelligence” for AI",
+      "excerpt": "Zuckberg's Instagram announcement makes the potential invention of truly general AI seem like a casual business development—it's nothing to be particularly worried about. In fact, it's apparently so harmless and beneficial that they might even open-source it and share it with everyone (\"responsibly,\" of course).",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2024/01/zuckerberg-says-meta-is-working-on-open-source-general-intelligence-for-ai/",
+      "originalUrl": "https://arstechnica.com/information-technology/2024/01/zuckerberg-says-meta-is-working-on-open-source-general-intelligence-for-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 224,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/01/zuckerberg_front_1-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-18T23:19:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-19-microsofts-copilot-revolutionizes-ai-investing.md",
+      "title": "Microsoft's Copilot Revolutionizes AI Investing",
+      "excerpt": "To be clear, the new AI experience, Microsoft Copilot Pro is not Microsoft Copilot 365. This is confusing, I understand. Unfortunately, large technology companies are not great with nomenclature. Don’t get things twisted, though. This business is going to be huge.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jonmarkman/2024/01/18/microsofts-copilot-revolutionizes-ai-investing/",
+      "originalUrl": "https://www.forbes.com/sites/jonmarkman/2024/01/18/microsofts-copilot-revolutionizes-ai-investing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65a9a67c5ad5afef57dc877e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1338,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-18T22:32:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-19-is-truth-a-casualty-of-artificial-intelligence.md",
       "title": "Is Truth a Casualty of Artificial Intelligence?",
       "excerpt": "The truth, the whole truth, and nothing but the truth. In the tumultuous discourse around artificial intelligence, the conversation often circles around this quest for the truth or the \"right answer.\" However, a recent discussion with Sam Altman ...",
@@ -842,344 +1160,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-when-ai-meets-infrastructure-top-considerations-for-it-leaders.md",
-      "title": "When AI Meets Infrastructure: Top Considerations For IT Leaders",
-      "excerpt": "IT leaders to take a step back and evaluate all of the implications before jumping headfirst into an AI investment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/18/when-ai-meets-infrastructure-top-considerations-for-it-leaders/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/18/when-ai-meets-infrastructure-top-considerations-for-it-leaders/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65a82955de744c06334cfd41/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/18/when-ai-meets-infrastructure-top-considerations-for-it-leaders/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/18/when-ai-meets-infrastructure-top-considerations-for-it-leaders/amp/",
-      "publishedDateTime": "2024-01-18T13:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-academic-intelligence-the-evolution-of-education-through-ai.md",
-      "title": "Academic Intelligence: The Evolution of Education Through AI",
-      "excerpt": "The pandemic had devastating impacts on education all over the world, especially in poorer countries that already struggled with education systems. The pandemic also helped kickstart adoption of AI—which is now poised to bolster our education systems,",
-      "sourceUrl": null,
-      "webUrl": "https://www.diplomaticourier.com/posts/evolution-education-through-ai",
-      "originalUrl": "https://www.diplomaticourier.com/posts/evolution-education-through-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-global.website-files.com/5fa4da31b6c3a45d2cfd2d5d/65a8fbb1d47231c17416bf65_Evolution%20of%20Education%20Through%20AI.jpg",
-          "width": 2311,
-          "height": 1300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-18T12:54:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Diplomatic Courier",
-        "domain": "diplomaticourier.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-deepminds-cofounder-mustafa-suleyman-warns-that-ai-is-a-fundamentally-labor-replacing-tool.md",
-      "title": "DeepMind's cofounder Mustafa Suleyman warns that AI is a 'fundamentally labor-replacing' tool",
-      "excerpt": "Mustafa Suleyman said AI will make us smarter and more productive, but in the long term, it could replace us.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/deepmind-mustafa-suleyman-warns-ai-is-a-labor-replacing-tool-2024-1",
-      "originalUrl": "https://www.businessinsider.com/deepmind-mustafa-suleyman-warns-ai-is-a-labor-replacing-tool-2024-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/65a90e936979d737182439db?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/deepmind-mustafa-suleyman-warns-ai-is-a-labor-replacing-tool-2024-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/deepmind-mustafa-suleyman-warns-ai-is-a-labor-replacing-tool-2024-1?amp",
-      "publishedDateTime": "2024-01-18T12:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-the-role-of-ai-in-healthcare.md",
-      "title": "The Role Of AI In Healthcare",
-      "excerpt": "Like every other industry, artificial intelligence (AI) is rapidly transforming the landscape of healthcare and medicine. This emerging technology and its capabilities can revolutionize medicine by redefining the doctor-patient relationship and could save the healthcare industry $360 billion a year, according to McKinsey and Harvard.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/18/the-role-of-ai-in-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/18/the-role-of-ai-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 244,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/651ae5f9c817fd613f5f0e9c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/01/18/the-role-of-ai-in-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/01/18/the-role-of-ai-in-healthcare/amp/",
-      "publishedDateTime": "2024-01-18T12:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-a-new-accelerator-for-ai-first-startups-in-north-america.md",
-      "title": "A new accelerator for AI-first startups in North America",
-      "excerpt": "Learn more about Google for Startups Accelerator: AI First program for North American startups.",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/outreach-initiatives/entrepreneurs/accelerator-ai-north-america/",
-      "originalUrl": "https://blog.google/outreach-initiatives/entrepreneurs/accelerator-ai-north-america/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Startup_Accelerator_highlights_-_high_.width-1300.jpg",
-          "width": 1300,
-          "height": 866,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/outreach-initiatives/entrepreneurs/accelerator-ai-north-america/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/entrepreneurs/accelerator-ai-north-america/amp/",
-      "publishedDateTime": "2024-01-18T12:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-elon-musk-says-he-wants-more-control-over-tesla-if-company-develops-ai-robotics.md",
-      "title": "Elon Musk says he wants more control over Tesla if company develops AI, robotics",
-      "excerpt": "“I am uncomfortable growing Tesla to be a leader in AI & robotics without having ~25% voting control,” Musk said in a post Monday. “Enough to be influential, but not so much that I can’t ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statesman.com/story/business/technology/2024/01/18/elon-musk-pushes-for-more-voting-power-in-austin-based-tesla/72241531007/",
-      "originalUrl": "https://www.statesman.com/story/business/technology/2024/01/18/elon-musk-pushes-for-more-voting-power-in-austin-based-tesla/72241531007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-18T11:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Austin American-Statesman",
-        "domain": "statesman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2024-01-18-5-ways-ai-can-make-your-human-to-human-relationships-more-effective.md",
-      "title": "5 Ways AI Can Make Your Human-To-Human Relationships More Effective",
-      "excerpt": "Just because artificial intelligence (AI) has entered the mainstream doesn't mean it can't help improve your human-to-human relationships.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/katevitasek/2024/01/18/5-ways-ai-can-make-your-human-to-human-relationships-more-effective/",
-      "originalUrl": "https://www.forbes.com/sites/katevitasek/2024/01/18/5-ways-ai-can-make-your-human-to-human-relationships-more-effective/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65a8241dd608f64c6d1916ef/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1349,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/katevitasek/2024/01/18/5-ways-ai-can-make-your-human-to-human-relationships-more-effective/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/katevitasek/2024/01/18/5-ways-ai-can-make-your-human-to-human-relationships-more-effective/amp/",
-      "publishedDateTime": "2024-01-18T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

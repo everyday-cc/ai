@@ -42,6 +42,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "How Artificial Intelligence Could Start To Boost Crypto Crime: Chainalysis"
+    excerpt: "Artificial intelligence could breed a dangerous new category of crypto-based crime in the coming years, according to Chainalysis."
+    publishedDateTime: 2024-03-15T21:28:00Z
+    webUrl: "https://cryptonews.com/news/how-artificial-intelligence-ai-could-start-to-boost-crypto-crime-chainalysis.htm"
+    type: article
+    provider:
+      name: cryptonews
+      domain: cryptonews.com
+    quality: 50
+    images:
+      - url: "https://cimg.co/wp-content/uploads/2024/03/06162224/1709742143-1709742091951_processed.jpg"
+        width: 1200
+        height: 686
+        isCached: true
   - title: "Top AI crypto: These newly emerging AI tokens packed with AI technology are primed for 2024 growth"
     excerpt: "OpenAI's release of Sora has sparked interest in emerging AI tokens like Scotty the AI, eTukTuk, and Nosana. Alongside heavyweight giants Fetch.ai and SingularityNET, these projects offer AI-powered solutions and growth potential for 2024."
     publishedDateTime: 2024-03-12T08:03:00Z

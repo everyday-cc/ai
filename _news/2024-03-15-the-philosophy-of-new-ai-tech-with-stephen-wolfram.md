@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnwerner/2024/03/14/the-philosophy-of
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2024/03/14/the-philosophy-of-new-ai-tech-with-stephen-wolfram/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

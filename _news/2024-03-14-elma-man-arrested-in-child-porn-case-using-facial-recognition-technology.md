@@ -63,6 +63,17 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "TSA facial recognition technology concerns"
+    excerpt: "TSA facial recognition technology concerns The TAA has expanded its facial recognition technology to nearly 30 airports across the country, but there are security concerns over new the system storing data without consent."
+    publishedDateTime: 2024-03-15T23:25:00Z
+    webUrl: "https://www.fox5atlanta.com/video/1426533"
+    ampWebUrl: "https://www.fox5atlanta.com/video/1426533.amp"
+    cdnAmpWebUrl: "https://www-fox5atlanta-com.cdn.ampproject.org/c/s/www.fox5atlanta.com/video/1426533.amp"
+    type: article
+    provider:
+      name: FOX 5 Atlanta
+      domain: fox5atlanta.com
+    quality: 39
 
 secured: "JnZU7w70ppaa8TUVW059MYVPZWJh6I8uB1VQgS8V9ssFiCSHQ1GO4bOIS6AV+18wY8J9U7/LsIKNCySWjMH4JuDYEyOvjAR+5XOzZ5gyoYeXICi6Gua1Frqo16kSN7SS97ZzSSK+7+aFfO5n61XJ8wyjgx1oN/Fh9YM8ER/KrC3g6y/2xAU2L3FUcrB6M455tbTRPX7EuS2fmgtZqmiJyccdiiq3bA02qk8SiUK5voEQHke2uhJPJwVqhmCPlZ4zvbAERTqgv311HpJkbLO32iZAF9LGmhptsv+uef+ErOagnjYZ1TY7pfHDjVr3t70RGxJ7qNwIA2DNXXfjdydLM0rVprqGDBGny9txpWlKOO9DIFjBeF5CLs5t9lxgenK6f9CRc457CphLpTxbiXKsihyGwNP2/+aMjHjYsFLfoWDNkuCCUiUHm3cE/y4OXYzEjBrt1vI02ncOF1xiG4G2vBPPqGM3OSeszGfAzKbnI0bmUSgF63TOjb6wbXr/bytPCiSL2nHi5bZJVNETlWtT9Q==;n6ow6r2DDgYy+aqtPBd7vw=="
 ---

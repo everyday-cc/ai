@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-15-transform-one-on-one-customer-interactions-build-speech-capable-order-processing-agents-with-aws-and-generative-ai.md",
+      "title": "Transform one-on-one customer interactions: Build speech-capable order processing agents with AWS and generative AI",
+      "excerpt": "In today’s landscape of one-on-one customer interactions for placing orders, the prevailing practice continues to rely on human attendants, even in settings like drive-thru coffee shops and fast-food establishments. This traditional approach poses several challenges: it heavily depends on manual processes,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/transform-one-on-one-customer-interactions-build-speech-capable-order-processing-agents-with-aws-and-generative-ai/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/transform-one-on-one-customer-interactions-build-speech-capable-order-processing-agents-with-aws-and-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/03/15/transform-one-on-one-conversations.jpg",
+          "width": 863,
+          "height": 485,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-15T21:53:20Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-15-enable-data-sharing-through-federated-learning-a-policy-approach-for-chief-digital-officers.md",
       "title": "Enable data sharing through federated learning: A policy approach for chief digital officers",
       "excerpt": "This is a guest blog post written by Nitin Kumar, a Lead Data Scientist at T and T Consulting Services, Inc. In this post, we discuss the value and potential impact of federated learning in the healthcare field. This approach can help heart stroke patients, doctors, and researchers with faster diagnosis,",
@@ -168,7 +220,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/gemma-is-now-available-in-amazon-sagemaker-jumpstart/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -523,7 +575,7 @@
       "originalUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -1355,58 +1407,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2024-03-01T22:29:55Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-expedite-your-genesys-cloud-amazon-lex-bot-design-with-the-amazon-lex-automated-chatbot-designer.md",
-      "title": "Expedite your Genesys Cloud Amazon Lex bot design with the Amazon Lex automated chatbot designer",
-      "excerpt": "The rise of artificial intelligence (AI) has created opportunities to improve the customer experience in the contact center space. Machine learning (ML) technologies continually improve and power the contact center customer experience by providing solutions for capabilities like self-service bots, live",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/expedite-your-genesys-cloud-amazon-lex-bot-design-with-the-amazon-lex-automated-chatbot-designer/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/expedite-your-genesys-cloud-amazon-lex-bot-design-with-the-amazon-lex-automated-chatbot-designer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/03/01/expedite-genesys-1117x630.jpg",
-          "width": 1117,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-01T16:51:31Z",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",

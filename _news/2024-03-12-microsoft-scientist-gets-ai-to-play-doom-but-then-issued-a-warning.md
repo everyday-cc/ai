@@ -65,6 +65,15 @@ related:
         width: 1000
         height: 515
         isCached: true
+  - title: "Howso partners with Microsoft to deliver explainable AI to the Azure Marketplace"
+    excerpt: "The partnership, announced last week, will bring transparent and scalable AI solutions to Microsoft's wide customer base. The collaboration is part of Microsoft's Pegasus Program, an invite-only group that focuses on technology solutions for startups."
+    publishedDateTime: 2024-03-15T18:26:00Z
+    webUrl: "https://wraltechwire.com/2024/03/15/howso-partners-with-microsoft-to-deliver-explainable-ai-to-the-azure-marketplace/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 44
   - title: "HIMSS24: Microsoft launches AI group with 16 health systems"
     excerpt: "Microsoft said the group would create a process where providers can register for the usage of AI in clinical settings and offer tools to enable measurement of outcomes associated with the technology."
     publishedDateTime: 2024-03-11T14:28:00Z

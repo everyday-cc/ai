@@ -50,6 +50,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 34
+  - title: "Ghost in the machine: AI and patent protection"
+    excerpt: "Among other reasons, CIPO found that there was no human designated to exercise the rights of the “machine”. 12 However, CIPO suggested that the owner may attempt to comply by submitting a statement identifying himself as the legal representative of the ..."
+    publishedDateTime: 2024-03-15T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/ghost-in-the-machine-ai-and-patent-7413574/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 19
 
 secured: "MeDb5e+x+RMC/UnWZJiZTlbki8bHAz3giUcrfFEhbCBwYWhNSchsFQJXlBDbr7qnxJiAkGJwUdorjymFAgHMakTYjE+9XFjnQdBTkSXNh/SHctftk2+Hz6bpCO2TtGR1LzGNoJaDLvuaQgNJQOp2haHltdjw4LrrFrGNrbdq/5MlJpN55oMmSpXrp5SWrQN592VpAdWKxI4svQs8adnZqcObo5kbmhPq3gEXkH/CshXI3sOBCNkadfXPiHEXaT3wOwXUQ9cbFPy5VxCy+zovW1Gg1t2QY5mRS/s+sR4LNNxJlQo3Xs1olr+IEGu1/eekERQU9A9T/2PAbQwYZylBTzqq+ft0SLYgn/A5d+qWj2Rtp/+ICXmfv6s/B3MmtEHVJhhX3dZ0Qbi85Ffhfe8dANw5gDYzlIkqA7wpdqMur5BjjDHFcecwfYd48dY9OW3+742I12Du9ijpGCJza6/9DQnhJEZmRiVoe9QmKBytdqUNCvibXskKy3fIgsces5/oli5jaB3P7JWuttRSekeSZQ==;IbXKSupxoT841p1/Sn9xag=="
 ---

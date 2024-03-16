@@ -7,7 +7,7 @@ originalUrl: "https://fortune.com/education/articles/how-to-learn-data-analytics
 webUrl: "https://fortune.com/education/articles/how-to-learn-data-analytics/"
 type: article
 quality: 54
-heat: 118
+heat: 119
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://images.law.com/contrib/content/uploads/sites/403/2024/03/Wesley-Hsu-5-767x633.jpg"
         width: 767
         height: 633
-        isCached: true
-  - title: "AI in Analytics: 3 Key Tips to Keep Your Workflow up to Date"
-    excerpt: "Data analysts are just as swept up with the AI in analytics hype as any other professional, but their emotions reflect more than just being in awe of the technology. The world of AI has reshaped the rules of data analysis, enabling natural language queries ..."
-    publishedDateTime: 2024-03-11T00:01:00Z
-    webUrl: "https://www.cmswire.com/digital-marketing/ai-in-analytics-3-key-tips-to-keep-your-workflow-up-to-date/"
-    type: article
-    provider:
-      name: CMS Wire
-      domain: cmswire.com
-    quality: 39
-    images:
-      - url: "https://www.cmswire.com/-/media/223325db78ab485487c3711e22cc6ea9.ashx"
-        width: 640
-        height: 480
         isCached: true
   - title: "Precisely Drives Confidence in AI-ready Data at the 2024 Gartner® Data & Analytics Summit"
     excerpt: "Precisely, the global leader in data integrity, today announced it will present on stage at the 2024 Gartner ® Data & Analytics Summit in Orlando, Florida, sharing its expertise"
@@ -94,6 +80,15 @@ related:
       name: American Banker
       domain: americanbanker.com
     quality: 19
+  - title: "SQream to Showcase its Groundbreaking SQL on GPU Analytics Acceleration Platform at NVIDIA GTC"
+    excerpt: "Increasing the efficiency of AI and ML processes, leading data analytics accelerator company to demonstrate the only enterprise-scale SQL on GPU solution, which transforms data-intensive and complex workloads NEW YORK, March 15, 2024 /PRNewswire/ -- SQream ..."
+    publishedDateTime: 2024-03-15T21:11:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/sqream-to-showcase-its-groundbreaking-sql-on-gpu-analytics-acceleration-platform-at-nvidia-gtc-302090672.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 7
   - title: "InfluxData Collaborating with AWS to Bring InfluxDB and Time Series Analytics to Developers Around the World"
     excerpt: "InfluxDB open source now offered as a managed service for time series data powered by AWS, accessible within the AWS Management ConsoleSAN"
     publishedDateTime: 2024-03-15T01:57:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1107964779/Enhanced-MBZUAI-Executive-Program-ke
 webUrl: "https://menafn.com/1107964779/Enhanced-MBZUAI-Executive-Program-keeps-pace-with-fast-changing-artificial-intelligence-market-demands"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Enhanced MBZUAI Executive Program keeps pace with fast-changing artificial intelligence market demands"
-    excerpt: "Abu Dhabi, United Arab Emirates: Mohamed bin Zayed University of Artificial Intelligence (MBZUAI ... including areas such as healthcare, education, and sustainability. More than 150 C-suite executives, directors, and secretaries-general have graduated ..."
-    publishedDateTime: 2024-03-11T00:01:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/enhanced-mbzuai-executive-program-keeps-pace-with-fast-changing-artificial-intelligence-market-demands-cw27zpix"
-    ampWebUrl: "https://www.zawya.com/en/press-release/companies-news/enhanced-mbzuai-executive-program-keeps-pace-with-fast-changing-artificial-intelligence-market-demands-cw27zpix?amp=1"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/companies-news/enhanced-mbzuai-executive-program-keeps-pace-with-fast-changing-artificial-intelligence-market-demands-cw27zpix?amp=1"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 38
   - title: "UAE: Enhanced MBZUAI Executive Programme keeps pace with fast-changing AI market demands"
     excerpt: "Mohamed bin Zayed University of Artificial Intelligence MBZUAI has announced the enhanced MBZUAI Executive Programme MEP as it welcomes its fifth cohort of"
     publishedDateTime: 2024-03-11T09:44:00Z

@@ -86,6 +86,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Apple Acquires Canadian Startup DarwinAI: Reports"
+    excerpt: "Tech giant Apple Inc.(AAPL) has reportedly acquired DarwinAI, an AI startup based in Canada. The acquisition, reported by"
+    publishedDateTime: 2024-03-15T19:18:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/apple-acquires-canadian-startup-darwinai-reports-1033169492"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "Apple acquires Canadian AI startup - Bloomberg"
     excerpt: "According to a report by Bloomberg on Thursday, Canadian artificial intelligence startup DarwinAI has been acquired by Apple (NASDAQ: AAPL ). The tech giant is said to have purchased the company as part of its race to add technology to its arsenal ahead of a significant push into generative AI in 2024."
     publishedDateTime: 2024-03-14T18:08:00Z
@@ -103,6 +112,15 @@ related:
     provider:
       name: Indiatimes
       domain: indiatimes.com
+    quality: 17
+  - title: "Apple Acquires Another AI Start-Up Company, ‘DarwinAI’"
+    excerpt: "Tech giant Apple has quietly acquired Canadian artificial intelligence (AI) start-up ‘DarwinAI’, Bloomberg News reported on Thursday, citing people"
+    publishedDateTime: 2024-03-15T17:50:00Z
+    webUrl: "https://www.techworm.net/2024/03/apple-acquires-ai-start-up-darwinai.html"
+    type: article
+    provider:
+      name: techworm.net
+      domain: techworm.net
     quality: 17
 
 secured: "Qi0czkupHj5GZiQBVhoSWOBYQhvNgNPZBlokzLNCcE8XfvYSnXkoZrmn00MuoqfEuYYOVB/iDArLn1Gg8EJsDdrzyLC19/PziD4RHBE9Id1ujH6xR9Hlv8jGktq5jDx16BsZypNV6G0kH/w6KU0Pho4LUfXSI072qE28vpEsJAzuMD4hPjTadUl7sMMOJqvmk8iBx7YjAk/q4aOb+VfqjU8tUJ8xH8ol9KOzIZsJPTKx2hnTIXivBgmWLGGRbdY1OQznXLJAIgJ/+ysyUBfS+JYKD6QepvfFv7rm9YQ2kOv2cP0Jp36vZFHM0gLQDnWmW/C8laaHjerDnvg2quoS11z1PSHvMOW53wdsy0/nQ1UHe7K+J9N790V3Fvt14krAzY+ljKoNFFkod1iN+UM09RqTKJXuvLA7U59lI6JxnoQ3tJ+VsOcZ5/xWquLdKDP40To1QVE76hY5WpcYYgZhD44FqQKa22YgVs7zIKAi1Bnddf3MzY1paqYjK1JlvsRtaXPjVg9BDqhFY6taAVK+4g==;w+wFf0ARBwD3P7DwydzYtg=="

@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Apple's latest acquisition hints at AI-powered iPhone plans"
+    excerpt: "Startup DarwinAI's work in making AI systems smaller and more efficient sounds like just what Tim Cook and company need."
+    publishedDateTime: 2024-03-15T13:44:00Z
+    webUrl: "https://www.zdnet.com/article/apples-latest-acquisition-hints-at-ai-powered-iphone-plans/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/apples-latest-acquisition-hints-at-ai-powered-iphone-plans/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/apples-latest-acquisition-hints-at-ai-powered-iphone-plans/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/ec34031acf678ef59071c42c3dce573185e93821/2023/06/22/7d887bfa-b486-47e4-9e0b-f508cdb95944/gettyimages-1237878984-1.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Apple’s New AI Move Just Changed The Game For All iPhone Users"
     excerpt: "Apple has just ramped up its AI plans for iPhones after buying Canadian start up DarwinAI. Here's what you need to know."
     publishedDateTime: 2024-03-15T17:14:00Z
@@ -68,6 +84,24 @@ related:
         width: 708
         height: 399
         isCached: true
+  - title: "Android Phones With Snapdragon 8 Gen 4 Chip Aim To Surpass iPhone 16 In AI"
+    excerpt: "Upcoming Android phones with Snapdragon 8 Gen 4 chip could support faster RAM and beat iPhone 16 in the AI department. Wikimedia Commons Upcoming Android phones, with the Snapdragon 8 Gen 4 chip under the hood, might crush iPhone 16 Pro in AI thanks to a ..."
+    publishedDateTime: 2024-03-15T19:54:00Z
+    webUrl: "https://www.ibtimes.co.uk/android-phones-snapdragon-8-gen-4-chip-aim-surpass-iphone-16-ai-1723926"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 32
+  - title: "GetResponse launches AI email writing assistant: latest addition to its AI-powered solution suite"
+    excerpt: "GetResponse, a leading global all-in-one email marketing platform, has announced the newest addition to its AI-powered toolset – an AI email writing assistant. It's the ideal solution for people struggling with a lack of time,"
+    publishedDateTime: 2024-03-12T16:29:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/12/9977092.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 6
 
 secured: "LPQmfPh/5KC7kM43ULvJuIjXows1/q/T3gMZLg+P0HJYF8hf2ERrVtzwIrBSqjRWJ5batgwqxo3oluvkZMLHokDA/nrjiFVP+IINQ1J1IOiaNR+EkA8EbP+GLGfwbfvXfxalLDPtaCe1cAUyCJ4YybI8/XJ0CjsBa/HXp2RyG//20wIcW89WZaffWijjv33uSuG6G8avjcv1XufpYdyD2S9HQ1JGy2brrZ4jq738S/YR5b/F3t73sqQ7LUps72aK1TbwYBfdcYN0V5mNwGpwkMC5AtVHEwGr1ptOSUpzrbZ/VyRgfKI1hs7AkINqYG7dvO2nfwIYTBt5zLhyK32ph0ah41jvfjjtu/890S+8bL0=;GoUNpMoL1ZTjSTzgL8wbLw=="
 ---

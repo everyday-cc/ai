@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-03-01-expedite-your-genesys-cloud-amazon-lex-bot-design-with-the-amazon-lex-automated-chatbot-designer.md",
+      "title": "Expedite your Genesys Cloud Amazon Lex bot design with the Amazon Lex automated chatbot designer",
+      "excerpt": "The rise of artificial intelligence (AI) has created opportunities to improve the customer experience in the contact center space. Machine learning (ML) technologies continually improve and power the contact center customer experience by providing solutions for capabilities like self-service bots, live",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/expedite-your-genesys-cloud-amazon-lex-bot-design-with-the-amazon-lex-automated-chatbot-designer/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/expedite-your-genesys-cloud-amazon-lex-bot-design-with-the-amazon-lex-automated-chatbot-designer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/03/01/expedite-genesys-1117x630.jpg",
+          "width": 1117,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-01T16:51:31Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-01-2-artificial-intelligence-ai-stocks-that-could-go-parabolic.md",
       "title": "2 Artificial Intelligence (AI) Stocks That Could Go Parabolic",
       "excerpt": "According to data from Grand View Research, the AI market hit close to $200 billion ... a former director of market development and spokeswoman for Facebook and sister to Meta Platforms CEO ...",
@@ -1319,58 +1371,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-13-how-bigbasket-improved-ai-enabled-checkout-at-their-physical-stores-using-amazon-sagemaker.md",
-      "title": "How BigBasket improved AI-enabled checkout at their physical stores using Amazon SageMaker",
-      "excerpt": "This post is co-written with Santosh Waddi and Nanda Kishore Thatikonda from BigBasket. BigBasket is India’s largest online food and grocery store. They operate in multiple ecommerce channels such as quick commerce, slotted delivery, and daily subscriptions. You can also buy from their physical stores",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-bigbasket-improved-ai-enabled-checkout-at-their-physical-stores-using-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-bigbasket-improved-ai-enabled-checkout-at-their-physical-stores-using-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/02/self-checkout-1243x630.png",
-          "width": 1243,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-13T17:44:51Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "AWS AI"
       ]

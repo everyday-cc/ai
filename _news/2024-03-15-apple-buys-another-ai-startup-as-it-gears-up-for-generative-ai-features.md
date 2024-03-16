@@ -20,8 +20,8 @@ topics:
 related:
   - title: "AI startup Cerebras unveils the WSE-3, the largest chip yet for generative AI"
     excerpt: "The chip, the size of a single semiconductor wafer, has doubled performance to handle large language models in the tens of trillions of parameters."
-    publishedDateTime: 2024-03-13T06:00:00Z
-    webUrl: "https://www.zdnet.com/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/"
+    publishedDateTime: 2024-03-13T13:00:00Z
+    webUrl: "https://www.zdnet.com/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/?ref=upstract.com"
     ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/"
     cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/"
     type: article

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/03/12/techcrunch-minute-reddits-ipo-succ
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/techcrunch-minute-reddits-ipo-success-may-hinge-on-ai-boom/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 119
 published: true
 
 provider:
@@ -47,6 +47,26 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "FTC launches inquiry into Reddit’s AI deals days before IPO"
+    excerpt: "The Federal Trade Commission has launched an inquiry into Reddit’s licensing of user data to artificial-intelligence companies — just days before"
+    publishedDateTime: 2024-03-15T20:53:00Z
+    webUrl: "https://www.marketwatch.com/story/ftc-launches-inquiry-into-reddits-ai-deals-days-before-ipo-d9a71476"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/ftc-launches-inquiry-into-reddits-ai-deals-days-before-ipo-d9a71476"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ftc-launches-inquiry-into-reddits-ai-deals-days-before-ipo-d9a71476"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+  - title: "Reddit Receives FTC Inquiry on AI-Related Deals Ahead of IPO"
+    excerpt: "In February, Reuters reported social media platform Reddit struck a deal with Alphabet's Google to make its content available for training the search engine giant's AI models."
+    publishedDateTime: 2024-03-15T20:36:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2024-03-15/reddit-receives-ftc-inquiry-on-ai-related-deals-ahead-of-ipo"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 49
 
 secured: "aA0XZ4ujOYVa+1V2Qsp48pFQF/WhFkO+2uNobhUG0ITOpawrRObUaVm7hSTDY/Xe67daPTBHFHk+yMBeC3saMSLA8kllzHFVwrdFTShguFwxWyaXIil+wP7qcTqmAuAIFBTFVQ1FBhTvMHtZr4RdCJGMkOZyF9EHxa4c2kTgaYKobenth7Q+pCkzjiayKXepXzKK4C3e4UL7f8s84J5PaybzOehVuPDWwcfqTyurC62njn4K75lK75tofJOZm+i9dI1pbSvb5RF7FvJjDEerK6oVf2RbcY9YM2Lb+3FpRiHeMDS71ZBj79NYY1yeTnlIwM3njpLomqEiJBp5sDRkghEvhnK4cDhIsxaqLyhEUj0=;62sf0BKWoOvPrbaDVNJIpQ=="
 ---

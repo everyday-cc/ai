@@ -80,6 +80,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Apple Acquires Canadian Startup DarwinAI: Reports"
+    excerpt: "Tech giant Apple Inc.(AAPL) has reportedly acquired DarwinAI, an AI startup based in Canada. The acquisition, reported by"
+    publishedDateTime: 2024-03-15T19:18:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/apple-acquires-canadian-startup-darwinai-reports-1033169492"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "Apple acquires DarwinAI startup ahead of iOS 18’s AI push"
     excerpt: "Apple has acquired DarwinAI, an artificial intelligence startup focused on making AI systems smaller and faster, according to a"
     publishedDateTime: 2024-03-14T17:26:00Z
@@ -102,6 +111,15 @@ related:
     provider:
       name: Indiatimes
       domain: indiatimes.com
+    quality: 17
+  - title: "Apple Acquires Another AI Start-Up Company, ‘DarwinAI’"
+    excerpt: "Tech giant Apple has quietly acquired Canadian artificial intelligence (AI) start-up ‘DarwinAI’, Bloomberg News reported on Thursday, citing people"
+    publishedDateTime: 2024-03-15T17:50:00Z
+    webUrl: "https://www.techworm.net/2024/03/apple-acquires-ai-start-up-darwinai.html"
+    type: article
+    provider:
+      name: techworm.net
+      domain: techworm.net
     quality: 17
 
 secured: "L09/gG8rcdtzUMNWDqUkS3zoUcXZtsFQ8UF7p7HVJgRus4sHPWa32kE6VnMJzdM836aWuqxSYeZM5njemPBb31VeFl3jredbqXDXdiKr+14+aEvHGlprsEWanhCO5PV03SyO3N25eJiPm+glG+2rQr82cMD72dqbHN16D/FeNHV+lUlynDFX3nqIrP1wTO31HLq6yNGM/h86cN8LshKolTpo6GztwRS7tJaDA2392HMrrVYMF2wSmy43QFkM/TmvZW9Qkz/EidXgxCqbYEPYetZG0jo0Mka7DHtPzOJImeMRwTmA5tqRNrDFKZyWf4H4WyfElxrasqUEmvi/gfbywhFB3LEkLegeWGlt6399VBCD34NMN9r8UrDizN+kgLcQTkNNBK/67YMynKmfvnFSUwvDV7npcR4QBO9OrR/W6pK+10n6KOxp1zUQNirSP0fEky9ID4g40ZGn3Ew2hrqKOpqxeqssxHBkK2PoHQUnjESqEQ4Cje4EeOSZB2dzu5axZsSagskEQ1NXW470Su/Cug==;mGvQZSWgyYAHGZZeVmzvWg=="

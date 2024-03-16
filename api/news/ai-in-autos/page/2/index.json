@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-03-02-the-hype-is-gone-from-the-electric-vehicle-industry-evs-are-becoming-boring-appliances.md",
+      "title": "The hype is gone from the electric-vehicle industry. EVs are becoming boring appliances",
+      "excerpt": "This week, Apple AAPL-Q rolled its plans to create a self-driving iPhone on wheels into the ditch ... in spite of endless predictions they would be the norm by now (Waymo and Baidu run small fleets of them in a few American and Chinese cities), Tesla ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/business/commentary/article-the-hype-is-gone-from-the-electric-vehicle-industry-evs-are-becoming/",
+      "originalUrl": "https://www.theglobeandmail.com/business/commentary/article-the-hype-is-gone-from-the-electric-vehicle-industry-evs-are-becoming/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theglobeandmail.com/resizer/v2/J2XSXX54HFAYLFIFIDL3W5TF2I.jpg?auth=d1515dbf415f9a8059e3dd35b1c61613fd7c328a4e80c0489beea31b51c3bf62&width=1200&height=800&quality=80",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-02T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-02-california-authorizes-expansion-of-waymos-driverless-car-services-to-la-sf-peninsula.md",
       "title": "California authorizes expansion of Waymo’s driverless car services to LA, SF peninsula",
       "excerpt": "SAN FRANCISCO (AP) — California regulators on Friday authorized Waymo to expand services of its fleet of robotaxis into Los Angeles and to cities on the peninsula south of San Francisco.",
@@ -137,6 +180,41 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-01-chinese-made-cars-may-pose-national-security-risk-us-launches-probe.md",
+      "title": "Chinese-made cars may pose national security risk, US launches probe",
+      "excerpt": "A new White House investigation will determine if Chinese vehicle imports and connected car technologies pose a threat to national security and need to be restricted.",
+      "sourceUrl": null,
+      "webUrl": "https://cybernews.com/security/us-china-connected-cars-national-data-security-risk/",
+      "originalUrl": "https://cybernews.com/security/us-china-connected-cars-national-data-security-risk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T21:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cybernews",
+        "domain": "cybernews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Security"
       ]
     },
     {
@@ -1241,101 +1319,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2024-02-23-bengaluru-to-debut-driverless-trains-all-you-need-to-know.md",
-      "title": "Bengaluru to debut driverless trains: All you need to know",
-      "excerpt": "Driverless trains are being introduced as part of the ... In case of any issues, it will generate alerts using Artificial Intelligence (AI) software. This system is equipped with a camera-based setup where track images are sent to the server.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/india/bengaluru-to-debut-driverless-trains-all-you-need-to-know-12337341.html",
-      "originalUrl": "https://www.moneycontrol.com/news/india/bengaluru-to-debut-driverless-trains-all-you-need-to-know-12337341.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2024/02/Chinese-made-driverless-train-prototype-at-Bengaluru-580x435.jpg",
-          "width": 580,
-          "height": 435,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/india/bengaluru-to-debut-driverless-trains-all-you-need-to-know-12337341.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/india/bengaluru-to-debut-driverless-trains-all-you-need-to-know-12337341.html/amp",
-      "publishedDateTime": "2024-02-23T08:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-22-backed-by-chinese-carmaker-great-wall-haomo-raises-14m-for-autonomous-driving-tech.md",
-      "title": "Backed by Chinese carmaker Great Wall, Haomo raises $14M for autonomous driving tech",
-      "excerpt": "After a few years of funding frenzy, autonomous driving companies in China are experiencing a slowdown in investment. Some companies are still hauling in",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/02/21/greatwall-haomo-autonomous-driving/",
-      "originalUrl": "https://techcrunch.com/2024/02/21/greatwall-haomo-autonomous-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/02/haomo.png?w=1080",
-          "width": 1080,
-          "height": 717,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/02/21/greatwall-haomo-autonomous-driving/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/02/21/greatwall-haomo-autonomous-driving/amp/",
-      "publishedDateTime": "2024-02-22T07:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

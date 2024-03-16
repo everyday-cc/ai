@@ -198,6 +198,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Working on guidelines for how doctors, researchers use AI to improve healthcare"
+    excerpt: "From patient care to drug development, artificial intelligence has huge opportunity to upend healthcare. From patient care to drug development, artificial intelligence has huge opportunity to upend healthcare."
+    publishedDateTime: 2024-03-15T22:31:00Z
+    webUrl: "https://www.wral.com/video/working-on-guidelines-for-how-doctors-researchers-use-ai-to-improve-healthcare/21331862/"
+    type: article
+    provider:
+      name: WRAL
+      domain: wral.com
+    quality: 50
+    images:
+      - url: "https://wwwcache.wral.com/asset/lifestyles/healthteam/2024/03/15/21331863/3247445-aihealth-DMID1-62a4b0bcl-640x480.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "Generative AI Is A Game Changer For Talent Transformation"
     excerpt: "One of generative AI's most significant implications is giving talent management professionals the ability to communicate information to executives and their board of directors. It helps leadership look around corners, rather than just in the rearview mirror, when shaping strategy or making decisions."
     publishedDateTime: 2024-03-11T12:00:00Z
@@ -263,6 +277,6 @@ related:
       domain: psychologytoday.com
     quality: 19
 
-secured: "PGcpZaDEClUSsUoYQYO6eMBSxMBrcbo7XTP3im8V9G6Njz7V+eTeT3SqPZaNtrQg3sDEpdIoULFlBgoNTza75v67vxXHvPR9rOzfRpqn9XcmqlGwR2nQOGhSgNtdm7wl0DOZBDHTW8SUhI8nMuWr/tXVYPTAqmy/+OXmJEcEiSVrBC5yYQ61JUiC8rdEtpv+bOEV2Erw4P5yt7L5KP/qU+iewxD65oxyIeRQeOoruxJZKLTwYfdPYlBIzyMYjSBq1gLDpdYdsUykuCV7HRhSzqbkNUvXbeNXSiEBA90+Unmb+RFiQ57B5lYWyO9y8yoHoZ6E0g93KOS4APS5367Qt1CBsOKG4V9Tt0gnA+RXOcA=;4GXPQYFBb3AsFlRxSyAEvg=="
+secured: "iPSTx55TgVCaco7bDrMCYkxDpmagBCsDGzK/GIuYTd3nCMxtOI49QqNXQp4nkAUQ52uHg/Clk6k/7iu36B2eydNpCQEw/IV5JDT/WSHfGfBmNDAfA1zA/W9pqe0tObj211bvbRlBqgwugjVsopWkiz5IGQCMWURD3K6LJXe3RxQekSVliBbzhbkMdFzijxpiKs5/Pyv2xR/B6GyIsWtbJh7hFDO2Nxf+dJRfddQA5FSIf0V3pNXvT0ZOugcO757Ysdcljmm+OkGVsZwnjvcY6CdHLD72p0XXg6CEFSWLHtUnMJh4SUiyGLMoy42RuWMmkJEifRoUUtFU7Jr4ksYQW8NTDwXdauc6Zx+hwnchHQc=;qsNdvnVLr7mK+Nfvm+Q2GA=="
 ---
 

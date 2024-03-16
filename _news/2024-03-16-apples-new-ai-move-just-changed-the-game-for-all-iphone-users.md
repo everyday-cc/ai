@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/kateoflahertyuk/2024/03/15/apples-new-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kateoflahertyuk/2024/03/15/apples-new-ai-move-just-changed-the-game-for-all-iphone-users/amp/"
 type: article
 quality: 87
-heat: 117
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Apple's latest acquisition hints at AI-powered iPhone plans"
+    excerpt: "Startup DarwinAI's work in making AI systems smaller and more efficient sounds like just what Tim Cook and company need."
+    publishedDateTime: 2024-03-15T13:44:00Z
+    webUrl: "https://www.zdnet.com/article/apples-latest-acquisition-hints-at-ai-powered-iphone-plans/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/apples-latest-acquisition-hints-at-ai-powered-iphone-plans/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/apples-latest-acquisition-hints-at-ai-powered-iphone-plans/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/ec34031acf678ef59071c42c3dce573185e93821/2023/06/22/7d887bfa-b486-47e4-9e0b-f508cdb95944/gettyimages-1237878984-1.jpg?auto=webp&fit=crop&height=675&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Android phones could surpass iPhone 16 in AI with this key upgrade"
     excerpt: "Korean site Ajunews (via Wccftech) reports that the 8 Gen 4 could be the first smartphone chip to use LPDDR6 RAM, an upcoming memory standard. This will supposedly benefit from a higher data bandwidth compared to current LPDDR5, LPDDR5X and LPDDR5T standards, a key factor holding back on-device AI processing right now."
     publishedDateTime: 2024-03-14T13:42:00Z
@@ -72,7 +88,25 @@ related:
         width: 708
         height: 399
         isCached: true
+  - title: "Android Phones With Snapdragon 8 Gen 4 Chip Aim To Surpass iPhone 16 In AI"
+    excerpt: "Upcoming Android phones with Snapdragon 8 Gen 4 chip could support faster RAM and beat iPhone 16 in the AI department. Wikimedia Commons Upcoming Android phones, with the Snapdragon 8 Gen 4 chip under the hood, might crush iPhone 16 Pro in AI thanks to a ..."
+    publishedDateTime: 2024-03-15T19:54:00Z
+    webUrl: "https://www.ibtimes.co.uk/android-phones-snapdragon-8-gen-4-chip-aim-surpass-iphone-16-ai-1723926"
+    type: article
+    provider:
+      name: IBTimes UK
+      domain: ibtimes.co.uk
+    quality: 32
+  - title: "GetResponse launches AI email writing assistant: latest addition to its AI-powered solution suite"
+    excerpt: "GetResponse, a leading global all-in-one email marketing platform, has announced the newest addition to its AI-powered toolset – an AI email writing assistant. It's the ideal solution for people struggling with a lack of time,"
+    publishedDateTime: 2024-03-12T16:29:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2024/03/12/9977092.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 6
 
-secured: "mV9Fo2r7n69gcntm7ioxafWzKT/rYvQwUwwDJrdbDl150Z+skzPV7qZK4l2CVdGed1q3W6+JKjvSiPIOuT8kLZqojYtMsfk8sdrJJfn5ZpoV+6ezs9s1HM61LS/TJog+IaiSBcZ2rfEq48QY2aabua92P+mc1zSJNE0FoMp0NtnpEo0QIyrTyiXWdGTunDt6RhUXi8t4D1asaZZks4YLf/1Q6W8EaaV7o5Wk6rMmO3lbgcoOuc8qrIAuiTwW9zUa2+VHdi04igdHN1YphIlQ2zPiwf9c+zq8Gp19jhgjUOHBmjzEUecIOv/1wFl3xA/6XOaD4Ol4z0/Plek1U6iLjOhB9jIsdFWV9fC/R7fsI4I=;b8qDG4Dt6OzqdOi1qJT85Q=="
+secured: "jT4u7v3huv3pC/VZ/s2zf2sPs6UONez7o5PEIoaDSzUC3zikuPwaQ0cHAxj3wwOQyzSm+MGnjSZ6tKJ6Y+wd3YQu50+vpSu8+kYI+ryHcIZV/C7Hbz0SJVbTp99OHeD/JqkUL5gLebVx9BhCnNVPRW+Emg9VlBtn+Jzyxde9BmakHS7iWdBP96gZp9XX6x2Gz0LUrLJwSX076MoQI/FS/6hVm15748IX6zbcxRSllEEHRiFsj3Zw/tx/lDKjPWvLgsbcz4HFdyyz2R9E6R0ZVi6reDbvhkcH5TGWJ1DUkMQNA7jr2JKkRLHNWU0wR3+nVVKlPKeQywV3F/rabEdsubBeYC3r4DUTr6fGWXEINu89aFSgAtRJe9x4vVKyJVD3fmHxoPoi/VIzdTAPQm1IQLcmV8NdHwxZ839AfVMRKmpCuMgNAxKNZqpXHEt54oXjuf04zQMuz2vZ8c7tPcKxlG7sohRadDBSG5yiGd+AyjHIlvCzgtBgTisCZu5vQBe9jJ7MeaHwW1b9l3H3LbT4/A==;f5s1FfWMM4rJvyk14nT9Ug=="
 ---
 

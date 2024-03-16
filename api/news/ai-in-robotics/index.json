@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2024/03/15/all-eyes-turn-to-nvidia-in-the-ai-era/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 531,
+      "heat": 563,
       "tags": null,
       "images": [
         {
@@ -51,7 +51,60 @@
       "topics": [
         "AI Hardware",
         "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-15-mercedes-begins-piloting-apptronik-humanoid-robots.md",
+      "title": "Mercedes begins piloting Apptronik humanoid robots",
+      "excerpt": "Now Apptronik is getting in on the action, courtesy of a partnership with Mercedes-Benz. According to the Austin-based robotics startup, “as part of the agreement Apptronik and Mercedes-Benz will collaborate on identifying applications for highly ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/03/15/mercedes-begins-piloting-apptronik-humanoid-robots/",
+      "originalUrl": "https://techcrunch.com/2024/03/15/mercedes-begins-piloting-apptronik-humanoid-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/03/24C0101_003.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/03/15/mercedes-begins-piloting-apptronik-humanoid-robots/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/15/mercedes-begins-piloting-apptronik-humanoid-robots/amp/",
+      "publishedDateTime": "2024-03-15T09:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -63,7 +116,7 @@
       "originalUrl": "https://techcrunch.com/2024/03/14/apple-acquires-ai-startup-specializing-in-overlooking-manufacturing-components/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -773,49 +826,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot.md",
-      "title": "Elon Musk says his AI startup xAI will open-source its Grok chatbot",
-      "excerpt": "Musk sued ChatGPT-maker OpenAI and its CEO Sam Altman, saying they had abandoned the startup's original mission to develop artificial intelligence for the benefit of humanity and not for profit.",
-      "sourceUrl": null,
-      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot/108430382",
-      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot/108430382",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-108430382,imgsize-527560,width-1200,height=765,overlay-etbrandequity/digital/elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot.jpg",
-          "width": 1200,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/digital/elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot/108430382",
-      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot/108430382",
-      "publishedDateTime": "2024-03-12T09:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "brandequity.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {

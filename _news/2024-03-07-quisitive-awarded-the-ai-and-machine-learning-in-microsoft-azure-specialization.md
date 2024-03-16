@@ -16,11 +16,10 @@ provider:
       height: 50
 
 topics:
-  - AI in Finance
+  - Microsoft AI
   - AI
   - Machine Learning
-  - Microsoft AI
 
-secured: "tmKU1GZdlXTtGvL0TgPw6/fOOfA2wZsekMWa0Xy9Z9BhFc8YHs6PJep1z0tfB4q5IYCfiUHYZad5L4CCi6f0KyQ0/e0y5VqqDNPzJjc5+/HVOUwpidDgAuJ16GeMug/U6oEIrqnGBCRgdNULehPgVv3VNDC+yXNpgiragoBT/z8PjuX3YxAFzmxJcP9sbDzmj46RQgiEM+FJCEC+XlghMRimMWjCfUuN7fX6kDUT1Rdf13PtAvA2sPaypwjmpimI3zx4dos1gE/4u6wZ8ZVpbK9stjD6DKFAkwbhIIkVK5VwPdnGCEGY9FRivVsqLH8GaejMkNFp3E7Xc3xw55Fj/zg4uO5F+V77ODBUepsvFAc=;jwEnS8uyx4MlyYwJ/1qK/A=="
+secured: "LrIbi/5jM2A99KVtDiOzmdHox8lf5kU4y8yJZW4gVSXia6FGon/3zMEWkkqhQ1dT3HABl/B0LVgX+ruzF/dSgbf3Z7cD97pgwgXpXhx63ItMoRf8XYrEj8Ac2JLzq5UPMnJAE7wg5JfYuzEovnHccucO6wdyCc1hPQ9BAccYqi4w/ac54/TfTtR0zTx/JJ7s4X+BTMjDFOcuud1H2D35WQoIbppyxwtnkImwsqh7mz4gTi7/w5LSC+ksLwisR9u+VIE//z0EzqokfJiCC2B1DsEpjTNkqDmJskwr3o64tnyf84tKZbVuY6jcKHbFhOo/8mw38nPHGXmcrEYvSi485AADqF5eoh1xlhDokXgZe+c=;PuBvO+e7eU1hWMkG8/lgLA=="
 ---
 

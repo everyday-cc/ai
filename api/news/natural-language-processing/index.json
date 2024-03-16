@@ -222,7 +222,7 @@
       "originalUrl": "https://www.wsbtv.com/news/report-highlights-civil-liberties-concerns-with-facial-recognition-technology/OETF3NAPQRCY5H4FGMYXI3DWMM/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -469,7 +469,7 @@
       "originalUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -713,6 +713,49 @@
       "provider": {
         "name": "Psychology Today",
         "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-china-ai-champion-iflytek-looks-abroad-despite-us-crackdown.md",
+      "title": "China AI champion iFlytek looks abroad despite U.S. crackdown",
+      "excerpt": "BARCELONA, Spain -- China's top provider of speech recognition tech is stepping up efforts to expand its overseas operations in Europe and elsewhere despite a U.S. crackdown on the company.",
+      "sourceUrl": null,
+      "webUrl": "https://asia.nikkei.com/Business/China-tech/China-AI-champion-iFlytek-looks-abroad-despite-U.S.-crackdown",
+      "originalUrl": "https://asia.nikkei.com/Business/China-tech/China-AI-champion-iFlytek-looks-abroad-despite-U.S.-crackdown",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fcms-image-bucket-production-ap-northeast-1-a7d2.s3.ap-northeast-1.amazonaws.com%2Fimages%2F3%2F8%2F8%2F8%2F47378883-1-eng-GB%2FIMG_3663.jpg?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-07T14:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nikkei Asia",
+        "domain": "nikkei.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1367,58 +1410,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-27-you-can-now-try-galaxy-ai-on-any-android-phone-to-see-just-how-good-it-is.md",
-      "title": "You can now try Galaxy AI on any Android phone to see just how good it is",
-      "excerpt": "Samsung has updated its Try Galaxy experience to support Android phones, so users can now try One UI 6.1 on their phones. Read on!",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/samsung-try-galaxy-app-experience-3420081/",
-      "originalUrl": "https://www.androidauthority.com/samsung-try-galaxy-app-experience-3420081/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.androidauthority.com/wp-content/uploads/2024/01/Samsung-Galaxy-S24-Just-Circle-It-lying-on-chair.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-27T12:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

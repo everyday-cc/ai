@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Quantexa rolls out initiatives to help enterprises and government agencies get data ready for AI"
+    excerpt: "Quantexa is also partnering with Microsoft, announcing that Quantexa’s Decision Intelligence Platform is now on Microsoft Azure Marketplace. Quantexa’s ambitious plan to lead the emerging decision intelligence category is anchored in helping ..."
+    publishedDateTime: 2024-03-15T00:00:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=163084"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 26
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/OtherImages/151196-2023-Cover-Images-ORG.png"
+        width: 772
+        height: 594
+        isCached: true
   - title: "Latest Quantexa Decision Intelligence Platform Roadmap Puts Focus on Helping Enterprises and Government Agencies to Get Data Ready For AI"
     excerpt: "Latest Quantexa Decision Intelligence Platform Roadmap Puts Focus on Helping Enterprises and Government Agencies to Get Data Ready For AI GlobeNewswire March 12, 2024"
     publishedDateTime: 2024-03-13T00:00:00Z

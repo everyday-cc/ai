@@ -24,73 +24,57 @@ images:
     isCached: true
 
 related:
-  - title: "Latest News Shows How AI Business Tools Are Transforming Marketing and Sales."
-    excerpt: "AI business tools are transforming the marketing and sales landscape. Oracle’s generative AI tools, Adaptive ML’s custom-made gen AI, IBM’s productivity boost with Adobe AI tools, and Forbes Advisor’s selection of AI tools highlight the breadth of opportunities AI offers."
-    publishedDateTime: 2024-03-15T03:44:00Z
-    webUrl: "https://techbullion.com/latest-news-shows-how-ai-business-tools-are-transforming-marketing-and-sales/"
+  - title: "Transform one-on-one customer interactions: Build speech-capable order processing agents with AWS and generative AI"
+    excerpt: "In today’s landscape of one-on-one customer interactions for placing orders, the prevailing practice continues to rely on human attendants, even in settings like drive-thru coffee shops and fast-food establishments. This traditional approach poses several challenges: it heavily depends on manual processes,"
+    publishedDateTime: 2024-03-15T21:53:20Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/transform-one-on-one-customer-interactions-build-speech-capable-order-processing-agents-with-aws-and-generative-ai/"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 68
+      name: AWS
+      domain: aws.amazon.com
+    quality: 82
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2024/03/Transforming-Marketing-and-Sales-1000x504.png"
-        width: 1000
-        height: 504
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/03/15/transform-one-on-one-conversations.jpg"
+        width: 863
+        height: 485
         isCached: true
-  - title: "This Is How AI-Driven Leadership Roles Are Transforming Senior Jobs"
-    excerpt: "AI is reshaping industries and redefining the roles of senior leaders, now requiring a unique blend of traditional expertise and technological acumen."
-    publishedDateTime: 2024-03-12T15:47:00Z
-    webUrl: "https://www.forbes.com/sites/lucianapaulise/2024/03/12/this-is-how-ai-driven-leadership-roles-are-transforming-senior-jobs/"
+  - title: "The Ringer union wins key AI protections in new contract — with one big catch"
+    excerpt: "The Ringer’s union ratified its new contract with Spotify today, a week after agreeing on a deal and two weeks after the previous contract expired. In addition to increased pay and severance, the union fought hard for protections regarding Spotify’s use of generative AI."
+    publishedDateTime: 2024-03-14T21:46:00Z
+    webUrl: "https://www.theverge.com/2024/3/14/24101241/ringer-spotify-contract-ai-elon-musk-x-don-lemon"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 66
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/pmRwbnxGrmqhMNxQ0L04Fh3GBS4=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23954046/VRG_Illo_STK427_K_Radtke_Getty_Mics.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Generative AI In Action: Transforming Workforce Learning And Development"
+    excerpt: "To develop an L&D curriculum that is beneficial to employees, I believe organizations should leverage GenAI to create impactful, scalable training opportunities."
+    publishedDateTime: 2024-03-12T12:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/03/12/generative-ai-in-action-transforming-workforce-learning-and-development/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/65f0746cae0b83c80d85a257/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds"
-        width: 1350
-        height: 900
-        isCached: true
-  - title: "Study shows potential for using AI tools to detect health care-associated infections"
-    excerpt: "A new proof-of-concept study published in the American Journal of Infection Control reports that artificial intelligence (AI) technologies can accurately identify cases of health care-associated infections (HAI) even in complex clinical scenarios."
-    publishedDateTime: 2024-03-14T04:00:00Z
-    webUrl: "https://medicalxpress.com/news/2024-03-potential-ai-tools-health-infections.html"
-    ampWebUrl: "https://medicalxpress.com/news/2024-03-potential-ai-tools-health-infections.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2024-03-potential-ai-tools-health-infections.amp"
+    quality: 48
+  - title: "Paytm integrates AI into operations, aims to streamline processes"
+    excerpt: "In addition to its focus on AI, Paytm is currently conducting its annual appraisal cycle, which is standard practice in the industry."
+    publishedDateTime: 2024-03-15T05:03:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/paytm-integrates-ai-into-operations-aims-to-streamline-processes/108512437"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 52
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/4-hospital.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "How Labor Unions Are Navigating AI"
-    excerpt: "Labor unions have an important role to play in ensuring that AI is a win-win for workers and employers and that good jobs exist in the innovation economy."
-    publishedDateTime: 2024-03-13T22:38:00Z
-    webUrl: "https://www.newamerica.org/education-policy/edcentral/how-labor-unions-are-navigating-ai/"
-    type: article
-    provider:
-      name: New America
-      domain: newamerica.org
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
     quality: 39
     images:
-      - url: "https://d1y8sb8igg2f8e.cloudfront.net/images/AI_Labor_Unions_Writers_Guild_of_.2e16d0ba.fill-1200x630.png"
+      - url: "https://etimg.etb2bimg.com/thumb/msid-108512437,imgsize-16712,width-1200,height=765,overlay-etcio/artificial-intelligence/paytm-integrates-ai-into-operations-aims-to-streamline-processes.jpg"
         width: 1200
-        height: 630
+        height: 765
         isCached: true
-  - title: "CQG Unveils New First-of-its-Kind AI / Machine Learning Trading Toolkit for Predicting Futures Market Moves"
-    excerpt: "Success in Live Trading Environment Confirms Internal Test Results DENVER and BOCA RATON, Fla., March 11, 2024 /PRNewswire/ -- CQG, a leading global provider of high-performance technology"
-    publishedDateTime: 2024-03-11T11:20:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2024-03/61640370-cqg-unveils-new-first-of-its-kind-ai-machine-learning-trading-toolkit-for-predicting-futures-market-moves-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 18
 
 secured: "y425Z661xrymJ7dFDpEYXJbx+7M0ExPKrZaSr5fJWr7XVrwoyjgWcLoUuTd1FBXSQNhR2kvrKhzcYkXvONwY8HoxLO/AC+MTznPHRSX8/ucXRteFDO6d+Q+AU+fqeYUnt1PPRkG73qBwsaXfMJBBmCqmqHbWKZmfg7CtxcBj83p7l7DjG4eFXCgFl8gG5EVURQNpPL5NFaOrqk+in8YtUKgXUSDOunt5G7TW9tMgC7a7aUGLr5lhNTReCAnrhQVNUz3lyRmaUhkSdp//0CcLFXG/sWDRtNgF0lbtSWP7KvyUhgAx8wZDZJHczrTn4t1xFoy+7lp5KfCy3plJFMjK7/YxIRW8dr7N8xqYeQXL71A=;XF1qzvNUmFVSWsrJJ0tePg=="
 ---

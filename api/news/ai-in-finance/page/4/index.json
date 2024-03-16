@@ -2,58 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2024-01-16-gamification-in-banking-and-fintech-5-learnings-from-igaming.md",
-      "title": "Gamification In Banking And Fintech: 5 Learnings From iGaming",
-      "excerpt": "Fintech could incorporate similar features to make financial management more dynamic. For instance, introducing badges for reaching savings goals or interactive scenarios for financial planning could add an engaging layer to the user experience. Using AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/meaghanjohnson/2024/01/16/gamification-in-banking-and-fintech-five-learnings-from-igaming/",
-      "originalUrl": "https://www.forbes.com/sites/meaghanjohnson/2024/01/16/gamification-in-banking-and-fintech-five-learnings-from-igaming/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65a6a66ddb0dfad06873325d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1353,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/meaghanjohnson/2024/01/16/gamification-in-banking-and-fintech-five-learnings-from-igaming/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/meaghanjohnson/2024/01/16/gamification-in-banking-and-fintech-five-learnings-from-igaming/amp/",
-      "publishedDateTime": "2024-01-16T14:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-01-16-thomvest-ventures-closes-250m-fund-to-invest-across-fintech-cybersecurity-ai.md",
       "title": "Thomvest Ventures closes $250M fund to invest across fintech, cybersecurity, AI",
       "excerpt": "Thomvest Ventures deploys capital in the areas of financial and real estate technology, cybersecurity, cloud and AI/data infrastructure.",
@@ -1381,6 +1329,59 @@
         "Computer Vision",
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2023-12-15-how-machine-learning-is-boosting-businesses.md",
+      "title": "How Machine Learning is Boosting Businesses",
+      "excerpt": "\"Think of (ML) as a financial advisor ... the user and they have been building this system since 2008. Machine learning has directly impacted customer experiences or personalized services/products for Legalpay, a litigation financier.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/en-in/technology/how-machine-learning-is-boosting-businesses/467034",
+      "originalUrl": "https://www.entrepreneur.com/en-in/technology/how-machine-learning-is-boosting-businesses/467034",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1702641228-Hithere.png?format=pjeg&auto=webp",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-15T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

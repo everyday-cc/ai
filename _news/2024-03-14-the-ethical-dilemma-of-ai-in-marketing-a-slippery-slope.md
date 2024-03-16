@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/elijahclark/2024/03/14/the-ethical-di
 webUrl: "https://www.forbes.com/sites/elijahclark/2024/03/14/the-ethical-dilemma-of-ai-in-marketing-a-slippery-slope/"
 type: article
 quality: 81
-heat: 81
+heat: 82
 published: true
 
 provider:

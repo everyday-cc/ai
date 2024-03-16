@@ -60,7 +60,12 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 14
+    quality: 34
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2024/03/Databricks.jpg"
+        width: 901
+        height: 507
+        isCached: true
 
 secured: "ZG8Cf+gB3CKKdactJCgfufZ5/RLrDx9HWwB3UQSeHG3in7yxxyR3VSVWDa64QdI23M47elGeg4YfoC1Ql1AYhBG+KaF1HMJ2N7Z4AGUzJRaepTVkL1C7mN77X6vWJndE3LAEqehdTDp8lWiK8CjABcxo9iVfvyg4K5RBPfmqCv7Xp1OoMK7hXjlctCHVd7Z3auHH9HlzyLCijB5Y5eU0vnjn8lDhed36E9IfexXb0fEd+GfgkWsMSZPFZI+ZUgs/wdL8RCJxkWMPhBUWwl0z78aNOGJ6hqWuwO/0GBSk0byP7rL9gRzuaIMS+0LnpDCvzeHfqJyeyw8bdOCssaZl857ayzL9v2t/72wGLWlOjc4=;4cQlfmP4Z1Q06LRf+WlisQ=="
 ---

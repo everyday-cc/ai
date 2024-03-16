@@ -7,7 +7,7 @@ originalUrl: "https://www.asiaone.com/business/latest-quantexa-decision-intellig
 webUrl: "https://www.asiaone.com/business/latest-quantexa-decision-intelligence-platform-roadmap-puts-focus-helping-enterprises-and"
 type: article
 quality: 6
-heat: 6
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Quantexa rolls out initiatives to help enterprises and government agencies get data ready for AI"
+    excerpt: "Quantexa is also partnering with Microsoft, announcing that Quantexa’s Decision Intelligence Platform is now on Microsoft Azure Marketplace. Quantexa’s ambitious plan to lead the emerging decision intelligence category is anchored in helping ..."
+    publishedDateTime: 2024-03-15T00:00:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=163084"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 26
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/OtherImages/151196-2023-Cover-Images-ORG.png"
+        width: 772
+        height: 594
+        isCached: true
   - title: "Latest Quantexa Decision Intelligence Platform Roadmap Puts Focus on Helping Enterprises and Government Agencies to Get Data Ready For AI"
     excerpt: "Quantexa supporting rising wave of organizations using data, analytics, and AI to break down silos. Partnership with Microsoft makes Quantexa’s Decision Intelligence Platform im"
     publishedDateTime: 2024-03-12T16:38:00Z

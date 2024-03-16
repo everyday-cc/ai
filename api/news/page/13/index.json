@@ -2,6 +2,280 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2024-03-06-type-1-diabetes-from-the-dream-of-automated-insulin-delivery-to-a-fully-artificial-pancreas.md",
+      "title": "Type 1 diabetes: from the dream of automated insulin delivery to a fully artificial pancreas",
+      "excerpt": "Automated insulin delivery systems have transformed the care of people living with type 1 diabetes and continue to move closer to the ultimate goal of a fully autonomous artificial pancreas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/d41591-024-00013-5",
+      "originalUrl": "https://www.nature.com/articles/d41591-024-00013-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nature.com/lw1024/magazine-assets/d41591-024-00013-5/d41591-024-00013-5_26818890.png",
+          "width": 938,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-06-google-says-its-purging-all-the-ai-trash-littering-its-search-results.md",
+      "title": "Google Says It’s Purging All the AI Trash Littering Its Search Results",
+      "excerpt": "The company announced changes to its algorithm to deamplify websites that \"feel like they were created for search engines instead of people.\"",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/google-search-updates-downrank-seo-ai-generated-content-1851309904",
+      "originalUrl": "https://gizmodo.com/google-search-updates-downrank-seo-ai-generated-content-1851309904",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/7ba4c3402e621cc142f48e1f1005971c.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-05T22:35:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-06-voting-round-2-dayton-inno-madness-bracket.md",
+      "title": "Voting Round 2: Dayton Inno Madness Bracket",
+      "excerpt": "It's that time of year again. Our Dayton Inno Madness competition is here. And we've got 17 local startups remaining in the contest for the coveted title of 2024 Inno Madness champion. Voters each round will vote based on the question: Who would you invest in?",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/dayton/inno/stories/awards/2024/03/05/inno-madness-dayton-startups.html",
+      "originalUrl": "https://www.bizjournals.com/dayton/inno/stories/awards/2024/03/05/inno-madness-dayton-startups.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-05T22:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-06-google-now-wants-to-limit-the-ai-powered-search-spam-it-helped-create.md",
+      "title": "Google now wants to limit the AI-powered search spam it helped create",
+      "excerpt": "Google's post describes a \"March 2024 core update\" to the ranking algorithms that it says will show fewer results that \"are unhelpful, have a poor user experience or feel like they were created for search engines instead of people.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2024/03/google-wants-to-close-pandoras-box-fight-ai-powered-search-spam/",
+      "originalUrl": "https://arstechnica.com/gadgets/2024/03/google-wants-to-close-pandoras-box-fight-ai-powered-search-spam/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/ai_typewriter_getty-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-05T21:40:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-06-defense-technology-showcase-and-artificial-intelligence-roundtable-at-unc-charlotte.md",
+      "title": "Defense Technology Showcase and Artificial Intelligence Roundtable at UNC Charlotte",
+      "excerpt": "This website stores cookies on your computer. These cookies are used to improve your website experience and provide more personalized services to you, both on this website and through other media. To find out more about the cookies we use, see our Privacy Policy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ncbiotech.org/events/defense-technology-showcase-and-artificial-intelligence-roundtable-unc-charlotte",
+      "originalUrl": "https://www.ncbiotech.org/events/defense-technology-showcase-and-artificial-intelligence-roundtable-unc-charlotte",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ncbiotech.org/sites/default/files/styles/extra_large/public/2021-12/funding-mm.jpg?itok=zGd59nQ3",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-05T21:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ncbiotech.org",
+        "domain": "ncbiotech.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-06-googles-genie-game-maker-is-what-happens-when-ai-watches-30k-hrs-of-video-games.md",
+      "title": "Google’s Genie game maker is what happens when AI watches 30K hrs of video games",
+      "excerpt": "To establish that model, Genie started with 200,000 hours of public Internet gaming videos, which were filtered down to 30,000 hours of standardized video from \"hundreds of 2D games.\" The individual frames from those videos were then tokenized into a 200-million-parameter model that a machine learning algorithm could easily work with.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2024/03/googles-genie-model-creates-interactive-2d-worlds-from-a-single-image/",
+      "originalUrl": "https://arstechnica.com/gadgets/2024/03/googles-genie-model-creates-interactive-2d-worlds-from-a-single-image/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/Google_Deepmind.width-800-760x380.png",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-05T18:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-06-airship-ais-stock-rockets-upon-doj-contract-as-shares-of-other-ai-plays-slip.md",
       "title": "Airship AI’s stock rockets upon DOJ contract, as shares of other AI plays slip",
       "excerpt": "The technology sector is moving lower Tuesday — but one small name stands out in a big way in a sea of mostly red.",
@@ -933,284 +1207,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-baidu-a-cheap-ai-play-ignored-by-the-market.md",
-      "title": "Baidu: A Cheap AI Play Ignored By The Market",
-      "excerpt": "Baidu's shares are trading near 1-year lows despite better-than-expected earnings for Q4. The company's AI chatbot, Ernie, is seeing momentum and is being integrated into Baidu's digital marketing ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4675900-baidu-a-cheap-ai-play-ignored-by-the-market",
-      "originalUrl": "https://seekingalpha.com/article/4675900-baidu-a-cheap-ai-play-ignored-by-the-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T11:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-microsofts-new-orca-math-ai-outperforms-models-10x-larger.md",
-      "title": "Microsoft’s new Orca-Math AI outperforms models 10x larger",
-      "excerpt": "Yesterday afternoon, Arindam Mitra, a senior researcher at Microsoft Research and leader of its Orca AI efforts, posted on X a thread announcing Orca-Math, a new variant of French startup Mistral’s Mistral 7B model (itself a variant of Meta’s Llama 2 ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/microsofts-new-orca-math-ai-outperforms-models-10x-larger/",
-      "originalUrl": "https://venturebeat.com/ai/microsofts-new-orca-math-ai-outperforms-models-10x-larger/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 273,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2024/03/cfr0z3n_vector_art_synthwave_line_art_minimalistic_an_orca_whal_952f96c0-8e81-4cc3-9e35-57074c123e61.png?fit=750%2C420&#038;strip=all",
-          "width": 749,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T10:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "Microsoft AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-avoiding-the-swinging-pendulum-in-the-great-ai-debate.md",
-      "title": "Avoiding The Swinging Pendulum In The Great AI Debate",
-      "excerpt": "The process for ‘jailbreaking’ Large Language Models (LLMs) – meaning the use of processes intended to make LLMs behind AI perform beyond their intended scope and take skewed actions - is simply to have one LLM issue a prompt and a different LLM tasked with responding to the other.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/",
-      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e5c212a2088d623a4eb62f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 640,
-          "height": 397,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2024/03/05/avoiding-the-swinging-pendulum-in-the-great-ai-debate/amp/",
-      "publishedDateTime": "2024-03-05T08:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-1-top-ai-stock-to-buy-before-2025-hint-its-not-nvidia.md",
-      "title": "1 Top AI Stock to Buy Before 2025 (Hint: It's Not Nvidia)",
-      "excerpt": "Nvidia has greatly benefited from the rise of artificial intelligence as its GPUs are widely used to train and run large AI models. Competition from rival chip companies and tech giants designing their own custom AI chips will likely erode Nvidia's dominance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2024/03/05/1-top-ai-stock-to-buy-before-2025-hint-its-not-nvi/",
-      "originalUrl": "https://www.fool.com/investing/2024/03/05/1-top-ai-stock-to-buy-before-2025-hint-its-not-nvi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/767980/gettyimages-1464561797.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T07:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-study-most-cmos-fail-to-understand-ai-beyond-chatgpt.md",
-      "title": "Study: Most CMOs Fail to Understand AI Beyond ChatGPT",
-      "excerpt": "The report, “Marketing's AI Era: Strategies & Measurement Driven by AI-Powered ... Camp Jefferson, Cossette Media, Impact Research, Jungle Media, K72, Level Eleven, Magic Circle Workshop, Make My Day, Middle Child, Mindshaker, Munvo, Septième ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/study-most-cmos-fail-to-understand-ai-beyond-chatgpt-1033132503",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/study-most-cmos-fail-to-understand-ai-beyond-chatgpt-1033132503",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ml.globenewswire.com/Resource/Download/739441ea-6a05-41ba-856e-dd24b705c450/AIOS_Hero_Laptop.jpg",
-          "width": 4500,
-          "height": 3000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T07:30:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-05-brazen-drug-ads-wreak-havoc-thanks-to-metas-facebook-ad-algorithms.md",
-      "title": "Brazen Drug Ads Wreak Havoc Thanks to Meta’s Facebook Ad Algorithms",
-      "excerpt": "Deloitte Canada’s report, “Clearing the Smoke: Insights to Canada’s Illicit Cannabis Market,” was supposed to provide data on illegal cannabis sales, but McGrath’s research ... and AI for the first round of filtration.” Facebook responded ...",
-      "sourceUrl": null,
-      "webUrl": "https://hightimes.com/news/brazen-drug-ads-wreak-havoc-thanks-to-metas-facebook-ad-algorithms/",
-      "originalUrl": "https://hightimes.com/news/brazen-drug-ads-wreak-havoc-thanks-to-metas-facebook-ad-algorithms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T07:02:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "High Times",
-        "domain": "hightimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
         "AI"
       ]
     }

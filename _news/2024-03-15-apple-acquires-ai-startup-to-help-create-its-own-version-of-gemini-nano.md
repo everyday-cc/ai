@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/apple-acquires-darwin-ai-3425591/
 webUrl: "https://www.androidauthority.com/apple-acquires-darwin-ai-3425591/"
 type: article
 quality: 67
-heat: 87
+heat: 89
 published: true
 
 provider:

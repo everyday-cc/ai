@@ -48,6 +48,15 @@ related:
       name: AppleInsider
       domain: appleinsider.com
     quality: 4
+  - title: "Think the Apple Vision Pro is expensive? Wait until you see Caviar's new 18-karat gold version of the spatial computer"
+    excerpt: "\"The device's headband made from the legendary Connolly leather - a supplier to the British Royal Court and Rolls-Royce,\" the product listing details. \"Soft and durable, it is considered one of the finest in the world, ensuring the utmost comfort for the owner.\""
+    publishedDateTime: 2024-03-15T19:10:00Z
+    webUrl: "https://www.imore.com/vision-pro/think-the-apple-vision-pro-is-expensive-wait-until-you-see-caviars-new-18-karat-gold-version-of-the-spatial-computer"
+    type: article
+    provider:
+      name: iMore
+      domain: imore.com
+    quality: 0
 
 secured: "bCEtjPbJCbC1XY70dW7OsFF7HL7TNq6t0hYPd6KUlxgcOjp5S+tuLPqHNAmLZccY8hbd3QpgFc7E4OcJ4I9i3mNWYWtQIs/5x2yhfB8u67VueuiURG5RlMyO2bXbP3jdbqFCWZH/L+gxCDoW+B0SrkXYC4PJuZ3fVRc2Vm9CMyYv7TRaAeY6ojAmKVJiZtbvSirglcQHIc6CnWTYYSMh62vr1rQLg6fA9A9Ipl8ajxoDKUWZAXgOKv3yWnomsn67scEwMWpgJVw59y49OJqRiG95aVzLbpHXoKGVZ5LAocD/6WbBd4S91Bk5PaK82U+/mF77YC5S7d3N5EgxHDcChjHNYkGeizdBtCVnJc0cdbE=;2/1tVMsysIIhRi9RenUtcA=="
 ---

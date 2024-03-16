@@ -133,20 +133,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Brother Industries in artificial intelligence: theme innovation strategy"
-    excerpt: "Be better informed GlobalData, the leading provider of industry intelligence, provided the underlying data, research, and analysis used to produce this article. GlobalData Patent Analytics tracks bibliographic data, legal events data, point in time patent ..."
-    publishedDateTime: 2024-03-11T00:01:00Z
-    webUrl: "https://www.just-drinks.com/data-insights/brother-industries-in-artificial-intelligence-theme-innovation-strategy/"
-    type: article
-    provider:
-      name: Drinks
-      domain: just-drinks.com
-    quality: 38
-    images:
-      - url: "https://www.just-drinks.com/wp-content/uploads/sites/29/2021/04/report-desktop.png"
-        width: 388
-        height: 544
-        isCached: true
   - title: "IDS joins the Innovation Park Artificial Intelligence (IPAI)"
     excerpt: "The Innovation Park Artificial Intelligence (IPAI) is probably the most ambitious project for applied artificial intelligence in Europe. Its home will be a large, circular campus in Heilbronn,"
     publishedDateTime: 2024-03-12T11:04:00Z
@@ -190,6 +176,24 @@ related:
       name: ssir.org
       domain: ssir.org
     quality: 19
+  - title: "Exploring the Use of AI in the Contract Cleaning Industry"
+    excerpt: "AI fits into that really closely. Over the last several years, I’ve spent a lot of time keeping up with the advancements in machine learning and AI. A lot of our discussions have been, ‘How do we incorporate AI into Pioneer and into our processes?"
+    publishedDateTime: 2024-03-15T17:49:00Z
+    webUrl: "https://www.cleanlink.com/cp/article/Exploring-the-Use-of-AI-in-the-Contract-Cleaning-Industry--30742"
+    type: article
+    provider:
+      name: Product Watch
+      domain: cleanlink.com
+    quality: 19
+  - title: "EU Leading the Way With Passing of the Artificial Intelligence Act"
+    excerpt: "yesterday the European Union approved the world’s first major set of legislation to regulate the use of AI (EU AI Act), setting the global standard for AI regulations with uncertainties around the US federal bill and the UK’s Artificial Intelligence ..."
+    publishedDateTime: 2024-03-15T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/eu-leading-the-way-with-passing-of-the-5728474/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 17
   - title: "Trio of Must-Have Artificial Intelligence Tools for Trading in the Stock Market"
     excerpt: "This innovative engine transcends the capabilities of traditional search tools by meticulously scanning the stock, ETF, cryptocurrency,  and FOREX markets for technical trading patterns. These patterns are not only identified but are also supported by real data and statistically calculated trade ideas."
     publishedDateTime: 2024-03-14T19:34:00Z
@@ -199,15 +203,6 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 13
-  - title: "Navigating the Intersection of Intellectual Property and Artificial Intelligence"
-    excerpt: "In today's digital landscape, the convergence of intellectual property (IP) and artificial intelligence (AI) presents both unparalleled opportunities and unique challenges for businesses across industries. As AI continues to revolutionize how companies ..."
-    publishedDateTime: 2024-03-11T00:01:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/navigating-the-intersection-of-5064154/"
-    type: article
-    provider:
-      name: JD Supra
-      domain: jdsupra.com
-    quality: 12
 
 secured: "uoTaqqSqUDKgjlbtZXqFKikmJl5Q1KXHMjAuZ8Z1N4bEfkbik2mVw388rvW4YD0pkPo2nc3BX+nG6zwE3zgY0WUUydCA/nUk0Z23Xzufywr/LkT2LTBVP8gpD5FamzIg5MzBV+jHvlQOF5QpshEGGjziPdbdIS8iS6b/i4qYOvd/jsNXpaTZLVX9FoIGb3KbESlkcfpxW/8C6/sXr9f5kEoShAw3ULwoGXR82g6ebeZ5a5R7Gc0Rl7rWCsmdT9QwITAN2xBArM3XjQzolA6+J0LKUv6PiOaViybdn8UFsSax47GPBLoB71MrKtH3eVxjz/ZYxU+ACBN3h52SlQksyZqphFZQVUZHoXO91RcIz2vV+rw87c4OH9pO1iAzS9FMtL9Gmsgb/TMoetWEc10ElelOnwHYuFj2k4aWRq0DsVz+Z8FkQLX9uEqD80CBAJGDxXy9ycJ9xVEcN1AfhAxZ+9kXI8I4kOy190PUgNRn8j6PkkCcvQF+KtwtVJ/qKndaMBzZpuYYvft4twnScoM+dw==;z/sUkzm59Q9xmcBszx7nrA=="
 ---

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Google’s Gemini AI now refuses to answer election questions"
-excerpt: "Google had planned to do this back when the Gemini chatbot was still called \"Bard.\" In December, the company said, \"Beginning early next year, in preparation for the 2024 elections and out of an abundance of caution on such an important topic, we’ll ..."
+excerpt: "Like many of us, Google Gemini is tired of politics. Reuters reports that Google has restricted the chatbot from answering questions about the upcoming US election, and instead, it will direct users to Google Search."
 publishedDateTime: 2024-03-13T17:40:00Z
-originalUrl: "https://arstechnica.com/gadgets/2024/03/no-politics-google-disables-election-related-questions-for-gemini/?n=@"
-webUrl: "https://arstechnica.com/gadgets/2024/03/no-politics-google-disables-election-related-questions-for-gemini/?n=@"
+originalUrl: "https://arstechnica.com/gadgets/2024/03/no-politics-google-disables-election-related-questions-for-gemini/"
+webUrl: "https://arstechnica.com/gadgets/2024/03/no-politics-google-disables-election-related-questions-for-gemini/"
 type: article
 quality: 69
 heat: -1
@@ -322,6 +322,6 @@ related:
       domain: cybernews.com
     quality: 19
 
-secured: "sh2cwpVJ6esucn0MOL7EsHOplFPn7BVLmlE610ZNjnVrmFihlUSrGps6O8k7peheLnvs2mCE/m/1fs16dwvQsS6Z7UvM8IvvvDJyHo6LtMPGxOgFlAZaKcENIDzusaCELQVN0Y01Fohh8MaSCcSFoEFheL1aRgwkE1HvwuOxXIE0dkuQI5AwTd4MhyHKrrehDrmQI2oUvaGgx47fW/k8EmtD2AQfbpJczCweZhMy2qZ7nawLR+gVQzknJhdLRlaDAxYM+cgcml4CokoxVHFSIw0by9Ds20TT9nGHoDKzrHD8Bd65WsolXGqB6tvQYpS5LTSobT93smEUR4b7Gz1Dk40vRjH5sQpEoDaWMZ0CcuBk+FfcafLDQDV1YLw/7sbW4vZNdJ2OB6YLYPPOOv2FHECgWQRUaXBUlHtX8XDMaI6kyluE9/ANrEkz066oqCdXe1Z8z4GTUnQxhj6blAVnwvw24pySqs/zCcCEbnxs6wh+YQ0a6SyWuF1PH9p7N5omGG8SAJI8JuQGh0QQlPbsyQ==;8ewAR225fZmYphWyko6Cug=="
+secured: "WDlhILORZ0yIHK2Wg+Oom/hpEEY3s5hypkhS4g9/g9idjqMo8uZ7KXBbGRBmI30/lhE/R5SIl8ErzmwDMnqhU0MYBOeBHYqct98RYU38ukc9m9oS98imGjahulczBPa8RfCG8hBwYG4cw3uOpT/aI4JkUFdqsUytdcRWT3pFcCbejEKE0s3g36M3meUWAOvZC2i/RY9MDgtZvsRTqK2iI+ocrp1B/WxKEAazhyrdaHNZy0Tuqb/e3/VPHSeVVmiur0FbG2asukeV8fcAquQQpI1XfTkt5wTIJ1nQF7s2ALdw/SSCL8mteX0ER96hoVzi6fdz8KmH55htUAHevQWaRI18f/ZutlAJV4vFbntz8fE=;XRHq0eS0/ME274DhVDxyLw=="
 ---
 

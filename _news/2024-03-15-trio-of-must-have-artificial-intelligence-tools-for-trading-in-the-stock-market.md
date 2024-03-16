@@ -134,20 +134,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Brother Industries in artificial intelligence: theme innovation strategy"
-    excerpt: "Be better informed GlobalData, the leading provider of industry intelligence, provided the underlying data, research, and analysis used to produce this article. GlobalData Patent Analytics tracks bibliographic data, legal events data, point in time patent ..."
-    publishedDateTime: 2024-03-11T00:01:00Z
-    webUrl: "https://www.just-drinks.com/data-insights/brother-industries-in-artificial-intelligence-theme-innovation-strategy/"
-    type: article
-    provider:
-      name: Drinks
-      domain: just-drinks.com
-    quality: 38
-    images:
-      - url: "https://www.just-drinks.com/wp-content/uploads/sites/29/2021/04/report-desktop.png"
-        width: 388
-        height: 544
-        isCached: true
   - title: "IDS joins the Innovation Park Artificial Intelligence (IPAI)"
     excerpt: "The Innovation Park Artificial Intelligence (IPAI) is probably the most ambitious project for applied artificial intelligence in Europe. Its home will be a large, circular campus in Heilbronn,"
     publishedDateTime: 2024-03-12T11:04:00Z
@@ -191,15 +177,24 @@ related:
       name: ssir.org
       domain: ssir.org
     quality: 19
-  - title: "Navigating the Intersection of Intellectual Property and Artificial Intelligence"
-    excerpt: "In today's digital landscape, the convergence of intellectual property (IP) and artificial intelligence (AI) presents both unparalleled opportunities and unique challenges for businesses across industries. As AI continues to revolutionize how companies ..."
-    publishedDateTime: 2024-03-11T00:01:00Z
-    webUrl: "https://www.jdsupra.com/legalnews/navigating-the-intersection-of-5064154/"
+  - title: "Exploring the Use of AI in the Contract Cleaning Industry"
+    excerpt: "AI fits into that really closely. Over the last several years, I’ve spent a lot of time keeping up with the advancements in machine learning and AI. A lot of our discussions have been, ‘How do we incorporate AI into Pioneer and into our processes?"
+    publishedDateTime: 2024-03-15T17:49:00Z
+    webUrl: "https://www.cleanlink.com/cp/article/Exploring-the-Use-of-AI-in-the-Contract-Cleaning-Industry--30742"
+    type: article
+    provider:
+      name: Product Watch
+      domain: cleanlink.com
+    quality: 19
+  - title: "EU Leading the Way With Passing of the Artificial Intelligence Act"
+    excerpt: "yesterday the European Union approved the world’s first major set of legislation to regulate the use of AI (EU AI Act), setting the global standard for AI regulations with uncertainties around the US federal bill and the UK’s Artificial Intelligence ..."
+    publishedDateTime: 2024-03-15T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/eu-leading-the-way-with-passing-of-the-5728474/"
     type: article
     provider:
       name: JD Supra
       domain: jdsupra.com
-    quality: 12
+    quality: 17
 
 secured: "4WvHFBIFPZUGGMPHhscIv+S2/mjZe6Y3ul7CBccKw5cpofAIg4oZp/TZvjpXUMCHuNUKepRLUJ/BZwdoCK0Lr9Yu392L/CleggXmeAEUUQmWSkf1e+V/15xtQJtjoD94/35auomyEa7UxTRze2BLqsTxLMqpQpSv7D+KKSeQmma7qCFXTvct1cHo7rnnu8lTqaMVmfD6QwZ/qodijGGHu4JoNEIfEe7C3t/YGJ7MGfE86uBCenczWlzxpV4Tyq76EQ9ets5AYngAicr/QgXyX2tiDV3KN0YVszro+29RgboZDDGm41qKv1xUfDrLAsno6uYXZbnQGNeuR/M6N54LIolcqw/G7P8yN3tDH4EogBLjOKGLppkQDev7JsnDxZBheTA+YSrcnDlV7B31sNXetftwS3u0iqouBUIg7ee3a1NLj4Cm4KUoz15CYUtpVjIv0nQwgQ9/pgq7jqekDAkqjN/U7VEJL1TXb4VjceCEdnGNdmykkvOmmHNDmEMO+oH69ySCorQuA1I2wgiRbzVlxg==;78CpRN63tXBfbrMGRvqSOQ=="
 ---

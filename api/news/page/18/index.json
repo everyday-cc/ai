@@ -2,6 +2,309 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2024-03-01-the-energy-sector-and-ai-unplugging-the-interconnection-queue-backlog.md",
+      "title": "The Energy Sector And AI: Unplugging The Interconnection Queue Backlog",
+      "excerpt": "The ripple effect of the interconnection queue goes beyond regulatory delays; it directly impacts organizations' access to affordable and sustainable power.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/the-energy-sector-and-ai-unplugging-the-interconnection-queue-backlog/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/the-energy-sector-and-ai-unplugging-the-interconnection-queue-backlog/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e0a3288e978fb53b0207bf/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1099,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/01/the-energy-sector-and-ai-unplugging-the-interconnection-queue-backlog/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/01/the-energy-sector-and-ai-unplugging-the-interconnection-queue-backlog/amp/",
+      "publishedDateTime": "2024-03-01T11:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-01-salesforces-top-ai-ethics-leader-says-shes-optimistic-on-the-path-to-us-regulation.md",
+      "title": "Salesforce's top AI ethics leader says she's 'optimistic' on the path to U.S. regulation",
+      "excerpt": "Paula Goldman, Salesforce's chief ethical and humane use officer, told CNBC that she sees momentum toward concrete federal AI laws in the United States. \"I remain optimistic, because I think if ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2024/03/01/salesforce-top-ai-ethics-leader-optimistic-on-path-to-us-regulation.html",
+      "originalUrl": "https://www.cnbc.com/2024/03/01/salesforce-top-ai-ethics-leader-optimistic-on-path-to-us-regulation.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107380428-1709222739626-gettyimages-2036330307-PCARTIE_0023.jpeg?v=1709277650",
+          "width": 5000,
+          "height": 3333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2024/03/01/salesforce-top-ai-ethics-leader-optimistic-on-path-to-us-regulation.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2024/03/01/salesforce-top-ai-ethics-leader-optimistic-on-path-to-us-regulation.html",
+      "publishedDateTime": "2024-03-01T10:13:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-01-russian-kamikaze-drone-now-seems-to-identify-its-own-targets.md",
+      "title": "Russian Kamikaze Drone Now Seems To Identify Its Own Targets",
+      "excerpt": "New video seems to show a version of the Lancet used by Russian Special Forces with automated object recognition identifying tanks, self-propelled guns and other targets",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidhambling/2024/03/01/russian-kamikaze-drone-now-seems-to-identify-its-own-targets/",
+      "originalUrl": "https://www.forbes.com/sites/davidhambling/2024/03/01/russian-kamikaze-drone-now-seems-to-identify-its-own-targets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65e199afe7cc0647aba49a17/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 829,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidhambling/2024/03/01/russian-kamikaze-drone-now-seems-to-identify-its-own-targets/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2024/03/01/russian-kamikaze-drone-now-seems-to-identify-its-own-targets/amp/",
+      "publishedDateTime": "2024-03-01T09:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-01-apple-may-soon-be-feeling-the-heat-from-investors-over-its-slow-rollout-of-buzzy-ai-products.md",
+      "title": "Apple may soon be feeling the heat from investors over its slow rollout of buzzy AI products",
+      "excerpt": "Tim Cook attempted to reassure shareholders that the company is committed to AI innovation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/apple-investors-ai-race-tim-cook-2024-2",
+      "originalUrl": "https://www.businessinsider.com/apple-investors-ai-race-tim-cook-2024-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65e07870ce7f1785b2e4d75d?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/apple-investors-ai-race-tim-cook-2024-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-investors-ai-race-tim-cook-2024-2?amp",
+      "publishedDateTime": "2024-03-01T08:59:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-01-microsoft-openai-and-nvidia-back-26bn-robot-start-up.md",
+      "title": "Microsoft, OpenAI and Nvidia back $2.6bn robot start-up",
+      "excerpt": "Microsoft, OpenAI and Nvidia are among the investors backing a Silicon Valley start-up that aims to introduce artificial intelligence-powered humanoid robots to the workforce and transform the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.irishtimes.com/business/2024/03/01/microsoft-openai-and-nvidia-back-26bn-robot-start-up/",
+      "originalUrl": "https://www.irishtimes.com/business/2024/03/01/microsoft-openai-and-nvidia-back-26bn-robot-start-up/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.irishtimes.com/resizer/GtYLdGB84MO0wgbTs037B2mBCaY=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/MOCSF4CP7DKKROJPZKPMLJTK5Y.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-01T08:42:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Irish Times",
+        "domain": "irishtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-01-googles-new-math-app-solves-nearly-any-problem-with-ai-heres-how-to-use-it.md",
+      "title": "Google's new math app solves nearly any problem with AI: Here's how to use it",
+      "excerpt": "The app itself isn't new, having debuted back in 2014 and picking up over 100 million downloads since. But it is now officially a Google app. It works on a wide range of math, from basic elementary school problems like division and multiplication to advanced math like trigonometry and calculus.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/googles-new-math-app-solves-nearly-any-problem-with-ai-heres-how-to-use-it/",
+      "originalUrl": "https://www.zdnet.com/article/googles-new-math-app-solves-nearly-any-problem-with-ai-heres-how-to-use-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/94cd95bd3f47fdbcb491765a0aae5b578f7836ca/2024/03/01/fe417885-de71-4396-972b-9f46d7034bc6/google-photomath.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-new-math-app-solves-nearly-any-problem-with-ai-heres-how-to-use-it/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-new-math-app-solves-nearly-any-problem-with-ai-heres-how-to-use-it/",
+      "publishedDateTime": "2024-03-01T07:21:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-01-2-artificial-intelligence-ai-stocks-that-could-go-parabolic.md",
       "title": "2 Artificial Intelligence (AI) Stocks That Could Go Parabolic",
       "excerpt": "According to data from Grand View Research, the AI market hit close to $200 billion ... a former director of market development and spokeswoman for Facebook and sister to Meta Platforms CEO ...",
@@ -686,6 +989,41 @@
       ]
     },
     {
+      "path": "_news/2024-03-01-chinese-made-cars-may-pose-national-security-risk-us-launches-probe.md",
+      "title": "Chinese-made cars may pose national security risk, US launches probe",
+      "excerpt": "A new White House investigation will determine if Chinese vehicle imports and connected car technologies pose a threat to national security and need to be restricted.",
+      "sourceUrl": null,
+      "webUrl": "https://cybernews.com/security/us-china-connected-cars-national-data-security-risk/",
+      "originalUrl": "https://cybernews.com/security/us-china-connected-cars-national-data-security-risk/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T21:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cybernews",
+        "domain": "cybernews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2024-03-01-richmond-international-airport-begins-using-facial-recognition-technology.md",
       "title": "Richmond International Airport begins using facial recognition technology",
       "excerpt": "Security checkpoints at the Richmond International Airport have begun using facial recognition technology to confirm the validity of travelers’ identification that confirms their flight",
@@ -881,314 +1219,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-think-inside-the-box-container-use-cases-examples-and-applications.md",
-      "title": "Think inside the box: Container use cases, examples and applications",
-      "excerpt": "A look at some of the most common use cases and examples of container technology.\nThe post Think inside the box: Container use cases, examples and applications appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/containers-use-cases/",
-      "originalUrl": "https://www.ibm.com/blog/containers-use-cases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T20:28:09Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-news-updates-from-february-29-us-pce-inflation-falls-to-24-putin-warns-of-wider-conflict-over-ukraine.md",
-      "title": "News updates from February 29: US PCE inflation falls to 2.4%, Putin warns of wider conflict over Ukraine",
-      "excerpt": "Boeing is paying $51mn to settle an administrative charge from the US Department of State over unauthorised exports, including to China. The US Environmental Protection Agency will exclude existing gas-fired plants in its final standards on climate pollution for the power sector, the agency announced on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/b8efc98f-b5db-44c0-8820-7976a75abc6f",
-      "originalUrl": "https://www.ft.com/content/b8efc98f-b5db-44c0-8820-7976a75abc6f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T19:20:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-figure-ais-675-million-breakthrough-in-humanoid-robotics.md",
-      "title": "Figure AI’s $675 Million Breakthrough in Humanoid Robotics",
-      "excerpt": "In the ever-evolving landscape of technology, humanoid robotics stands as a frontier teeming with potential and promise. The concept, once confined to the realms of science fiction, is rapidly materializing into a tangible reality,",
-      "sourceUrl": null,
-      "webUrl": "https://www.unite.ai/figure-ais-675-million-breakthrough-in-humanoid-robotics/",
-      "originalUrl": "https://www.unite.ai/figure-ais-675-million-breakthrough-in-humanoid-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.unite.ai/wp-content/uploads/2024/02/alex_mc9997_a_robotic_flying_insect_in_nature_4f742cc4-0f5e-456d-9b1f-479e6bf0a829-400x240.png",
-          "width": 400,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T19:17:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "unite",
-        "domain": "unite.ai",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-apple-ceo-tim-cook-set-to-unveil-plans-to-expand-generative-ai-use.md",
-      "title": "Apple CEO Tim Cook set to unveil plans to expand generative AI use",
-      "excerpt": "Apple CEO Tim Cook set to announce plans to reveal more about generative artificial intelligence later this year, highlighting its potential for enhancing productivity. Despite slower deployment compared to rivals,",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/ai/apple-ceo-tim-cook-set-to-unveil-plans-to-expand-generative-ai-use-11709190395879.html",
-      "originalUrl": "https://www.livemint.com/ai/apple-ceo-tim-cook-set-to-unveil-plans-to-expand-generative-ai-use-11709190395879.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.livemint.com/lm-img/img/2024/02/29/1600x900/APPLE-LAWSUIT-COMPENSATION-0_1707356185453_1709190574096.JPG",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/ai/apple-ceo-tim-cook-set-to-unveil-plans-to-expand-generative-ai-use/amp-11709190395879.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/apple-ceo-tim-cook-set-to-unveil-plans-to-expand-generative-ai-use/amp-11709190395879.html",
-      "publishedDateTime": "2024-02-29T18:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-view-artificial-intelligence-isnt-just-a-buzzword.md",
-      "title": "View: Artificial Intelligence isn't just a buzzword",
-      "excerpt": "While the global race in AI among countries and corporations focuses on developing the largest AI models, India is developing and deploying AI solutions to meet developmental challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://m.economictimes.com/opinion/et-commentary/view-artificial-intelligence-isnt-just-a-buzzword/articleshow/108116560.cms",
-      "originalUrl": "https://m.economictimes.com/opinion/et-commentary/view-artificial-intelligence-isnt-just-a-buzzword/articleshow/108116560.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.etimg.com/thumb/msid-108116616,width-1200,height-630,imgsize-207606,overlay-economictimes/photo.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/opinion/et-commentary/view-artificial-intelligence-isnt-just-a-buzzword/articleshow/108116560.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/opinion/et-commentary/view-artificial-intelligence-isnt-just-a-buzzword/articleshow/108116560.cms",
-      "publishedDateTime": "2024-02-29T18:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "economictimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-these-new-neural-networks-operate-at-breakneck-speed.md",
-      "title": "These New Neural Networks Operate At Breakneck Speed",
-      "excerpt": "Applying differential equations to each node, these new networks can do the same kinds of advanced things that a traditional network did with 1000 or 2000 neurons. But here's the big news – they can do these tasks with something like 19 neurons, plus a perception model. If that seems oddly specific, read on…",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnwerner/2024/02/29/these-new-neural-networks-operate-at-breakneck-speed/",
-      "originalUrl": "https://www.forbes.com/sites/johnwerner/2024/02/29/these-new-neural-networks-operate-at-breakneck-speed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e61a6eb1cef1bfece0630b/0x0.jpg?format=jpg&crop=3840,2160,x0,y0,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2024/02/29/these-new-neural-networks-operate-at-breakneck-speed/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2024/02/29/these-new-neural-networks-operate-at-breakneck-speed/amp/",
-      "publishedDateTime": "2024-02-29T17:55:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-01-what-not-to-do-with-ai-in-your-job-search.md",
-      "title": "What Not To Do With AI In Your Job Search",
-      "excerpt": "AI can be a powerful tool when used in job search, but beware its biases. Here are 4 things NOT do when you’re working with AI in your job search.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/shodewan/2024/02/29/what-not-to-do-with-ai-in-your-job-search/",
-      "originalUrl": "https://www.forbes.com/sites/shodewan/2024/02/29/what-not-to-do-with-ai-in-your-job-search/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65e0875169ee322213dd881a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1348,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/shodewan/2024/02/29/what-not-to-do-with-ai-in-your-job-search/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/shodewan/2024/02/29/what-not-to-do-with-ai-in-your-job-search/amp/",
-      "publishedDateTime": "2024-02-29T17:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

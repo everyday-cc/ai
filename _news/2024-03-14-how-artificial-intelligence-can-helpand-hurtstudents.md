@@ -41,6 +41,20 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Wildlife threats can be identified using AI technology"
+    excerpt: "These platforms enhance our comprehension of wildlife threats on a global scale, thereby steering conservation efforts in new directions."
+    publishedDateTime: 2024-03-15T22:49:00Z
+    webUrl: "https://www.earth.com/news/global-wildlife-threats-can-be-identified-using-ai-technology/"
+    type: article
+    provider:
+      name: earth
+      domain: earth.com
+    quality: 39
+    images:
+      - url: "https://cff2.earth.com/uploads/2024/03/15164906/Wildlife-threats.jpg"
+        width: 2000
+        height: 1332
+        isCached: true
   - title: "AI can help us better understand global threats to wildlife"
     excerpt: "Utilising AI algorithms, the team at Sussex tapped into online platforms such as Facebook, Twitter ... and Singapore—previously unnoticed by conventional academic research. Singapore, in particular, emerged with the highest number of new records."
     publishedDateTime: 2024-03-14T13:26:00Z

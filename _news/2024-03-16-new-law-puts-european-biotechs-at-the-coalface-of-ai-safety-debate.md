@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "European markets set to start the week on a negative note"
-    excerpt: "European markets are heading for a negative open to start the new trading week ... CNBC Pro: A '$28 trillion opportunity': Ark Invest reveals its top AI plays right now As the buzz around artificial intelligence continues to build, investors are looking ..."
-    publishedDateTime: 2024-03-11T00:01:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/european-markets-set-to-start-the-week-on-a-negative-note-2/5213432/"
-    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/european-markets-set-to-start-the-week-on-a-negative-note-2/5213432/?amp=1"
-    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/european-markets-set-to-start-the-week-on-a-negative-note-2/5213432/?amp=1"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 42
-    images:
-      - url: "https://media.nbcnewyork.com/2024/01/106975223-1636910358349-gettyimages-1236479444-FRANCE_ECONOMY.jpeg?quality=85&strip=all&resize=1200%2C675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "AI theme bucks gloomy trend for European-domiciled thematic ETFs"
     excerpt: "“Artificial intelligence was a key investment theme in 2023 and remains in focus in the first quarter of 2024,” said Todd Rosenbluth, head of research at VettaFi. Pawel Janus, head of analytics at ETFbook, said that “thematic investments are not long ..."
     publishedDateTime: 2024-03-15T00:00:00Z

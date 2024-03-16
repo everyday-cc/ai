@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2024-03-16-ai-chatbots-and-augmented-reality-lead-the-top-tech-trends-of-the-week.md",
+      "title": "AI, chatbots, and augmented reality lead the top tech trends of the week",
+      "excerpt": "Of course, one of the biggest challenges with all of today's generative AI chatbots is that they consume an incredible amount of energy. Startup EnCharge AI has a potential breakthrough that could run AI models on lower powered chips using in-memory ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/innovation-index-march-15-2024/",
+      "originalUrl": "https://www.zdnet.com/article/innovation-index-march-15-2024/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 198,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/fly/bundles/zdnetcore/images/logos/zdnet-logo-yellow.png",
+          "width": 480,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/innovation-index-march-15-2024/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/innovation-index-march-15-2024/",
+      "publishedDateTime": "2024-03-15T23:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2024-03-15-all-eyes-turn-to-nvidia-in-the-ai-era.md",
       "title": "All Eyes Turn To Nvidia In The AI Era",
       "excerpt": "All of this is a result of being able to take existing core competencies like their GPU expertise and successfully applying it to an adjacent, yet still emerging use case like artificial intelligence (AI). Much of Nvidia’s success can be attributed to ...",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2024/03/15/all-eyes-turn-to-nvidia-in-the-ai-era/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 531,
+      "heat": 563,
       "tags": null,
       "images": [
         {
@@ -51,7 +103,8 @@
       "topics": [
         "AI Hardware",
         "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "Meta AI"
       ]
     },
     {
@@ -358,6 +411,58 @@
       ]
     },
     {
+      "path": "_news/2024-03-13-ai-startup-cerebras-unveils-the-wse-3-the-largest-chip-yet-for-generative-ai.md",
+      "title": "AI startup Cerebras unveils the WSE-3, the largest chip yet for generative AI",
+      "excerpt": "The chip, the size of a single semiconductor wafer, has doubled performance to handle large language models in the tens of trillions of parameters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/?ref=upstract.com",
+      "originalUrl": "https://www.zdnet.com/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/?ref=upstract.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/ae31154ea474b18f8cee28ac96cedae0c8b190c1/2024/03/13/0036db94-4241-4f06-a8eb-1eef2c4c37be/cerebras-2024-wse-3-3.png?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/",
+      "publishedDateTime": "2024-03-13T13:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-13-ai-boost-for-macs-m4-chip-on-horizon-for-new-macbook-pro.md",
       "title": "AI Boost For Macs? M4 Chip On Horizon For New MacBook Pro",
       "excerpt": "Bloomberg's Mark Gurman, as cited by 9to5Mac, revealed that Apple has commenced work on the successor to the M3-powered 2023 MacBook Pro. Responding to a user inquiry in the Q&A section of his Power On newsletter, Gurman hinted at the possibility of an M4 MacBook Pro in the pipeline.",
@@ -475,58 +580,6 @@
         "name": "Indiatimes",
         "domain": "indiatimes.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-13-ai-startup-cerebras-unveils-the-wse-3-the-largest-chip-yet-for-generative-ai.md",
-      "title": "AI startup Cerebras unveils the WSE-3, the largest chip yet for generative AI",
-      "excerpt": "The chip, the size of a single semiconductor wafer, has doubled performance to handle large language models in the tens of trillions of parameters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/",
-      "originalUrl": "https://www.zdnet.com/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/ae31154ea474b18f8cee28ac96cedae0c8b190c1/2024/03/13/0036db94-4241-4f06-a8eb-1eef2c4c37be/cerebras-2024-wse-3-3.png?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/",
-      "publishedDateTime": "2024-03-13T06:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -680,6 +733,49 @@
       ]
     },
     {
+      "path": "_news/2024-03-12-the-ai-revolution-needs-chips-software-and-gas-pipelines.md",
+      "title": "The AI Revolution Needs Chips, Software — and Gas Pipelines",
+      "excerpt": "The fervor for all things AI has finally spread to a sector whose own heady start-up phase came about 160 years ago: Pipelines. EQT Corp., a natural gas producer, announced this week the surprise $5.5 billion acquisition of Equitrans Midstream Corp.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2024-03-12/the-ai-revolution-needs-chips-software-and-gas-pipelines",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2024-03-12/the-ai-revolution-needs-chips-software-and-gas-pipelines",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-12T11:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-12-five-ai-crypto-coins-emerging-in-2024.md",
       "title": "Five AI crypto coins emerging in 2024",
       "excerpt": "The artificial intelligence industry began booming at the start of 2024, with OpenAI's Sora product generating a new wave of hype within the sector.",
@@ -688,7 +784,7 @@
       "originalUrl": "https://timesofindia.indiatimes.com/business/india-business/best-ai-cryptos/articleshow/108424368.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1335,92 +1431,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-tenstorrent-founder-and-engineers-say-taalas-ai-chip-outperforms-a-small-gpu-data-center.md",
-      "title": "Tenstorrent Founder and Engineers Say Taalas AI Chip Outperforms a Small GPU Data Center",
-      "excerpt": "AI chip startup Taalas Inc., has announced it has exited stealth mode and raised $50 million over two rounds of funding led by Pierre Lamond and Quiet Capital. Taalas was founded by Tenstorrent founder Ljubisa Bajic,",
-      "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/2024/03/tenstorrent-founder-and-engineers-say-their-taalas-ai-chip-outperforms-a-small-gpu-data-center/",
-      "originalUrl": "https://insidehpc.com/2024/03/tenstorrent-founder-and-engineers-say-their-taalas-ai-chip-outperforms-a-small-gpu-data-center/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidehpc.com/wp-content/uploads/2024/03/Taalas-logo-2-1-0324.png",
-          "width": 646,
-          "height": 334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-06T21:07:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-07-us-officials-face-tough-choices-for-subsidising-ai-chip-manufacturing.md",
-      "title": "US officials face tough choices for subsidising AI chip manufacturing",
-      "excerpt": "Betting on AI chips is also challenging in the rapidly evolving industry. Handing out subsidies today to the likes of Intel, TSMC, or Samsung Electronics, which is also vying for federal dollars and is the only other firm in the world that can make advanced chips,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbctv18.com/technology/us-officials-face-tough-choices-for-subsidising-ai-chip-manufacturing-19217271.htm",
-      "originalUrl": "https://www.cnbctv18.com/technology/us-officials-face-tough-choices-for-subsidising-ai-chip-manufacturing-19217271.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cnbctv18.com/wp-content/uploads/2023/02/artificial-intelligence.jpeg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbctv18.com/technology/us-officials-face-tough-choices-for-subsidising-ai-chip-manufacturing-19217271.htm/amp",
-      "cdnAmpWebUrl": "https://www-cnbctv18-com.cdn.ampproject.org/c/s/www.cnbctv18.com/technology/us-officials-face-tough-choices-for-subsidising-ai-chip-manufacturing-19217271.htm/amp",
-      "publishedDateTime": "2024-03-06T17:57:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cnbctv18",
-        "domain": "cnbctv18.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

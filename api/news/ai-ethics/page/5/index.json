@@ -2,6 +2,83 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-01-14-ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity.md",
+      "title": "AI Will Transform the Global Economy. Let’s Make Sure It Benefits Humanity.",
+      "excerpt": "the IMF has developed an AI Preparedness Index that measures readiness in areas such as digital infrastructure, human-capital and labor-market policies, innovation and economic integration, and regulation and ethics. The human-capital and labor-market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.imf.org/en/Blogs/Articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity",
+      "originalUrl": "https://www.imf.org/en/Blogs/Articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-14T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Monetary Fund",
+        "domain": "imf.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-11-educators-raise-concerns-over-the-ethics-of-ai-in-the-classroom.md",
+      "title": "Educators raise concerns over the ethics of AI in the classroom",
+      "excerpt": "In terms of the firms of artificial intelligence, then AI-powered educational games are the most common AI-based tool in education,",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/tech-science/educators-raise-concerns-over-the-ethics-of-ai-in-the-classroom/article",
+      "originalUrl": "https://www.digitaljournal.com/tech-science/educators-raise-concerns-over-the-ethics-of-ai-in-the-classroom/article",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2023/03/858a2aeed551f87b6dce829de26ddd2aa6a18da3.jpg",
+          "width": 768,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T15:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-09-striking-the-right-balance-navigating-ethics-and-trust-in-ai-and-commercial-data-for-homeland-security.md",
       "title": "Striking the Right Balance: Navigating Ethics and Trust in AI and Commercial Data for Homeland Security",
       "excerpt": "In the realm of homeland security, the marriage of artificial intelligence (AI) and commercial data holds immense potential but comes with ethical considerations and trust implications that demand careful consideration. While these technologies promise ...",
@@ -1335,102 +1412,6 @@
         "AI",
         "AI in Autos",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-what-businesses-should-know-about-data-privacy-and-ai-younger-consumers-lead-the-way.md",
-      "title": "What Businesses Should Know About Data Privacy And AI — Younger Consumers Lead The Way",
-      "excerpt": "Artificial Intelligence (AI) is not new, but the launch of Generative AI (Gen AI) tools like ChatGPT in 2022 brought AI to millions of new users.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/garydrenik/2023/12/15/what-businesses-should-know-about-data-privacy-and-ai---younger-consumers-lead-the-way/",
-      "originalUrl": "https://www.forbes.com/sites/garydrenik/2023/12/15/what-businesses-should-know-about-data-privacy-and-ai---younger-consumers-lead-the-way/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6579e9e572d21fb9f7c932ad/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 640,
-          "height": 361,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2023/12/15/what-businesses-should-know-about-data-privacy-and-ai---younger-consumers-lead-the-way/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2023/12/15/what-businesses-should-know-about-data-privacy-and-ai---younger-consumers-lead-the-way/amp/",
-      "publishedDateTime": "2023-12-15T14:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-15-ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use.md",
-      "title": "AI in healthcare: Duke Health signs pledge for ethical, responsible use",
-      "excerpt": "Duke Health is among a leading group of health systems and payers from across the U.S. to sign a pledge advancing ethical and responsible use of Artificial Intelligence technology in health care.",
-      "sourceUrl": null,
-      "webUrl": "https://wraltechwire.com/2023/12/15/ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use/",
-      "originalUrl": "https://wraltechwire.com/2023/12/15/ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wraltechwire.com/wp-content/uploads/2023/12/robot-AI-doctor-e1702640075182.jpg",
-          "width": 1262,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://wraltechwire.com/2023/12/15/ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use/?amp=1",
-      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2023/12/15/ai-in-healthcare-duke-health-signs-pledge-for-ethical-responsible-use/?amp=1",
-      "publishedDateTime": "2023-12-15T11:37:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL TechWire",
-        "domain": "wraltechwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

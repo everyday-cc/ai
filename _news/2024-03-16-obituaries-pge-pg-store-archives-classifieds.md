@@ -1,0 +1,59 @@
+---
+category: news
+title: "Obituaries PGe PG Store Archives Classifieds"
+excerpt: "Penn State University Professor Matt Jordan recently started incorporating artificial intelligence into his Media Democracy class. Mr. Jordan,"
+publishedDateTime: 2024-03-15T19:04:00Z
+originalUrl: "https://www.post-gazette.com/news/education/2024/03/15/pennsylvania-colleges-artificial-intelligence/stories/202402140111"
+webUrl: "https://www.post-gazette.com/news/education/2024/03/15/pennsylvania-colleges-artificial-intelligence/stories/202402140111"
+type: article
+quality: 24
+heat: -1
+published: false
+
+provider:
+  name: Pittsburgh Post-Gazette
+  domain: post-gazette.com
+
+topics:
+  - AI Ethics
+  - AI
+
+images:
+  - url: "https://9b16f79ca967fd0708d1-2713572fef44aa49ec323e813b06d2d9.ssl.cf2.rackcdn.com/1140x_a10-7_cTC/20240223JCaicolleges-52-6-1710344633.jpg"
+    width: 1140
+    height: 797
+    isCached: true
+
+related:
+  - title: "Obituaries PGe PG Store Archives Classifieds"
+    excerpt: "Pete Buttigieg has boring ideas for AI. But like many politicians, he’s thinking practically. Earlier this year, on a visit to Pittsburgh that"
+    publishedDateTime: 2024-03-11T09:32:00Z
+    webUrl: "https://www.post-gazette.com/business/tech-news/2024/03/11/whats-next-in-ai-tech-pete-buttigieg-cmu-chatgtp/stories/202403100031"
+    type: article
+    provider:
+      name: Pittsburgh Post-Gazette
+      domain: post-gazette.com
+    quality: 26
+    images:
+      - url: "https://9b16f79ca967fd0708d1-2713572fef44aa49ec323e813b06d2d9.ssl.cf2.rackcdn.com/1140x_a10-7_cTC/20240126buttigiegbb18513-1710112232.jpg"
+        width: 1140
+        height: 798
+        isCached: true
+  - title: "Obituaries PGe PG Store Archives Classifieds"
+    excerpt: "As Nvidia tops charts with a record $2 trillion evaluation for making the computer chips that power AI, a Pittsburgh startup is hoping to carve out"
+    publishedDateTime: 2024-03-13T19:32:00Z
+    webUrl: "https://www.post-gazette.com/business/tech-news/2024/03/13/efficient-computer-chip-energy-ai-cmu-east-liberty/stories/202403110086"
+    type: article
+    provider:
+      name: Pittsburgh Post-Gazette
+      domain: post-gazette.com
+    quality: 24
+    images:
+      - url: "https://9b16f79ca967fd0708d1-2713572fef44aa49ec323e813b06d2d9.ssl.cf2.rackcdn.com/1140x_a10-7_cTC/chipstartup0311-02-1710356380.jpg"
+        width: 1140
+        height: 798
+        isCached: true
+
+secured: "RrQivzNFzd+RphLNX1ZuDqzr74pUq/G0NA7aLru2tv3bwk5wa/qL8n3zGrxSZG7VDQrGyQJaJnRI+WheMhy7rCPj9vO8iXXJd661GTHSGIFCMZW0wf7KBDddmoC2ypyOH8vL8tAngM22ZQ2Tgo3y00Ii2KMMWnko/FBn36cBAsSRjvzYioItkwYeu5WGdfhxJgO6XdvUKCF60taPHheiqUqjlfWTghrvAT09wEWDOUid9NUX/Yx4/FP6ajmM9J6daHLUgpw2PKeNHJI58XGfQDOV/c9A59z8Iv/ZNeCOaIPJNT+iTxmdQeI6D1moMtf9d+Vr1Czocl3JPrb0kDzTHIovxNLAPjF/cezOLck2ryE=;wgAw9beR9pej5/3EUctMAA=="
+---
+

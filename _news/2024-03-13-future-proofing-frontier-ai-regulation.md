@@ -35,24 +35,20 @@ related:
         width: 640
         height: 427
         isCached: true
-  - title: "Generative AI In Action: Transforming Workforce Learning And Development"
-    excerpt: "To develop an L&D curriculum that is beneficial to employees, I believe organizations should leverage GenAI to create impactful, scalable training opportunities."
-    publishedDateTime: 2024-03-12T12:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbeshumanresourcescouncil/2024/03/12/generative-ai-in-action-transforming-workforce-learning-and-development/"
+  - title: "The state of AI infrastructure at scale: Exposing GPU utilization challenges"
+    excerpt: "This assessment has revealed that the biggest challenge is in scaling AI is compute limitations (an issue of both availability and cost). The next top challenge was infrastructure issues. Central concerns are with: How executives are building their AI infrastructure."
+    publishedDateTime: 2024-03-15T21:59:00Z
+    webUrl: "https://www.digitaljournal.com/business/the-state-of-ai-infrastructure-at-scale-exposing-gpu-utilization-challenges/article"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 48
-  - title: "GetResponse launches AI email writing assistant: latest addition to its AI-powered solution suite"
-    excerpt: "GetResponse, a leading global all-in-one email marketing platform, has announced the newest addition to its AI-powered toolset – an AI email writing assistant. It's the ideal solution for people struggling with a lack of time,"
-    publishedDateTime: 2024-03-12T16:29:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2024/03/12/9977092.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 6
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 51
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2023/05/155a3d83afee2eb65bc02e368943b90e935aa0fe.jpg"
+        width: 768
+        height: 512
+        isCached: true
 
 secured: "LVLR5GI5JmLQwhtslwxGiv6JmIaDRxG0wcK1pOZTknWdhqqaU1FV8bVKfUEMnmzgV1MOWrZ/9N2Umm6tbm2A9dd1cWGNBWin6Jfvic/K9c61aL0um1bJHScKR06k6i3wYcMFKBTATZgPCW6KICCx/nsgkg8pZpiLBIPjeAYffwFGA3aiVTR9x3xZ0n1FTnncw0jxYTgCVOu0hxMqL2MW+QS3TnD+3KUINHRdlTtOalQmb9WWkdz+DxFWCLH7XnhcSntlrYuI5xJwgi6AudoXG76CpohnbnbRkzVhTs2eq0cH6Z2o+vo2zIt0/DI+prV83AdukhRz1ffo3p2Z7PrMaQ4Yjy/Mr62+sXdP0Sch6RSh850aRsLPuI60xnbrj1kNa2ouS4zh5WntxtJDj/sZH02N7hCgtNXIRVd+T7g7UuugB9ZVA00nLczd0NVhk4EEr3qE3UeW8UuH0obdbu9EHoWpZtEX8x/2bNH45vYB0JuOk96cp3AZRhz3pDybNAxtKQjcEsRGHBoPfuOUlvdU2A==;jyNmgyRvbstb7EGuck5kkQ=="
 ---

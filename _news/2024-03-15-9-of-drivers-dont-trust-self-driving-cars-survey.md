@@ -39,6 +39,15 @@ related:
         width: 2001
         height: 1086
         isCached: true
+  - title: "Study Shows Two-Thirds Of U.S. Drivers Are Scared Of Self-Driving Cars"
+    excerpt: "An interesting survey out of the U.S. has revealed that two-thirds of drivers are afraid of self-driving vehicles, a figure that has jumped significantly from the 54% that expressed similar feelings in 2021."
+    publishedDateTime: 2024-03-15T19:32:00Z
+    webUrl: "https://www.carscoops.com/2024/03/study-reveals-two-thirds-of-u-s-drivers-are-scared-of-self-driving-cars/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 4
 
 secured: "9y8MWXcV+YpAva4068DwsgZNKyUF8qXKqvhsQ7CuoaAiAmPmUps0G/9agPgTxSVz+4TzPVn+oIU8gZJM3lt5vlxsLLI3tIUZWGtI1MoOVZHKnz0uCvAqb/t2AYSZECqDNMaxp3/17NXVzzIbngw7RTLboz+gQYB2imC8RY55BoV8dMFSE+2p0rOnnHgJeIOUvaIBt1HNLf5etnQoTeyIux1qJmJXTOEVYV2HuEao5YXBVwHqAu1gz8RTm2hffUMbB0oDxRdU96tmyBFnxI7gS3912hvzzQKQcqHzYusQEVw5+JsZvlCK0nz3INKx0Qr6hhBu6YI9/M1wZIwPxLC9iIByLCfmysMTLT9NYNDmy101G8uVKpFbGvnHKP7Ad5KZ4VtkmDwcaUWqnY5t00jIlGeke+ebHdBuVjYbQvxpaTKxmcNUL/2vAVhQPPcnh7JtDsVnPYPNe0hjahZmHPkXWTa0DinrEUU5XC+6b9RcHbpfGyoFWsHbou0ZdRtwplDkM9JbExf77YZ/ljZ941KgkQ==;6j6+JoF4ruo1EmpSoOalDw=="
 ---

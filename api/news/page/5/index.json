@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-03-13-locus-robotics-success-is-a-tale-of-focusing-on-what-works.md",
+      "title": "Locus Robotics’ success is a tale of focusing on what works",
+      "excerpt": "The new software offering uses AI to process the massive troves of data collected ... Former executives from the robotics startup launched their own Locus competitor, 6 River Systems. That company has struggled in recent years, however, following its ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/03/12/locus-robotics-success-is-a-tale-of-focusing-on-what-works/",
+      "originalUrl": "https://techcrunch.com/2024/03/12/locus-robotics-success-is-a-tale-of-focusing-on-what-works/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/03/IMG_0748.jpg?resize=1200,900",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/03/12/locus-robotics-success-is-a-tale-of-focusing-on-what-works/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/locus-robotics-success-is-a-tale-of-focusing-on-what-works/amp/",
+      "publishedDateTime": "2024-03-12T17:48:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-13-taiwan-chip-powerhouses-see-february-sales-soar-on-ai-demand.md",
       "title": "Taiwan chip powerhouses see February sales soar on AI demand",
       "excerpt": "TAIPEI -- Taiwan's tech industry was a study in contrasts in February, as major chipmakers such as TSMC thrived on strong demand for artificial intelligence-related products while companies involved more in consumer electronics dealt with falling sales ...",
@@ -151,6 +203,49 @@
       ]
     },
     {
+      "path": "_news/2024-03-12-a-look-at-waymos-driverless-cars.md",
+      "title": "A look at Waymo’s driverless cars",
+      "excerpt": "Waymo’s self-driving cars do not require human drivers, instead relying on the public’s trust in technology. Waymo has accumulated over 7 million miles of driving data on public roads and has discovered that their driverless cars are three times less likely to be involved in any type of crash or accident reported to the police,",
+      "sourceUrl": null,
+      "webUrl": "https://lavozdeanza.com/uncategorized/2024/03/12/a-look-at-waymos-driverless-cars/",
+      "originalUrl": "https://lavozdeanza.com/uncategorized/2024/03/12/a-look-at-waymos-driverless-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lavozdeanza.com/wp-content/uploads/2024/03/Screenshot-2024-03-10-at-5.09.11 PM.png",
+          "width": 2001,
+          "height": 1086,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-12T16:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "De Anza College La Voz Weekly",
+        "domain": "lavozdeanza.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-12-4-updates-from-the-2024-google-for-games-developer-summit.md",
       "title": "4 updates from the 2024 Google for Games Developer Summit",
       "excerpt": "These new tools help developers build immersive and engaging games that players love.",
@@ -263,7 +358,7 @@
       "originalUrl": "https://techcrunch.com/2024/03/12/techcrunch-minute-reddits-ipo-success-may-hinge-on-ai-boom/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -461,7 +556,7 @@
       "originalUrl": "https://www.ksn.com/news/airports-using-biometric-facial-recognition-in-kansas/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -807,6 +902,49 @@
       ]
     },
     {
+      "path": "_news/2024-03-12-the-ai-revolution-needs-chips-software-and-gas-pipelines.md",
+      "title": "The AI Revolution Needs Chips, Software — and Gas Pipelines",
+      "excerpt": "The fervor for all things AI has finally spread to a sector whose own heady start-up phase came about 160 years ago: Pipelines. EQT Corp., a natural gas producer, announced this week the surprise $5.5 billion acquisition of Equitrans Midstream Corp.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/opinion/articles/2024-03-12/the-ai-revolution-needs-chips-software-and-gas-pipelines",
+      "originalUrl": "https://www.bloomberg.com/opinion/articles/2024-03-12/the-ai-revolution-needs-chips-software-and-gas-pipelines",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-12T11:29:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-12-prompt-engineering-technique-known-as-the-step-around-is-gaining-steam-as-generative-ai-becomes-less-forthright.md",
       "title": "Prompt Engineering Technique Known As The Step-Around Is Gaining Steam As Generative AI Becomes Less Forthright",
       "excerpt": "A prompt engineering technique known as the step-around is gaining attention due to generative AI increasingly being less forthright. Here's what you need to know.",
@@ -1091,143 +1229,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot.md",
-      "title": "Elon Musk says his AI startup xAI will open-source its Grok chatbot",
-      "excerpt": "Musk sued ChatGPT-maker OpenAI and its CEO Sam Altman, saying they had abandoned the startup's original mission to develop artificial intelligence for the benefit of humanity and not for profit.",
-      "sourceUrl": null,
-      "webUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot/108430382",
-      "originalUrl": "https://brandequity.economictimes.indiatimes.com/news/digital/elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot/108430382",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-108430382,imgsize-527560,width-1200,height=765,overlay-etbrandequity/digital/elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot.jpg",
-          "width": 1200,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://brandequity.economictimes.indiatimes.com/amp/news/digital/elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot/108430382",
-      "cdnAmpWebUrl": "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot/108430382",
-      "publishedDateTime": "2024-03-12T09:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "brandequity.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-empowering-the-genai-revolution-gaurav-arora-aws.md",
-      "title": "Empowering the GenAI revolution: Gaurav Arora, AWS",
-      "excerpt": "Gaurav Arora spoke to Dataquest about how AWS is guiding Indian startups towards a future defined by innovation, collaboration, and transformative growth within the GenAI revolution",
-      "sourceUrl": null,
-      "webUrl": "https://www.dqindia.com/dqdeeptech/empowering-the-genai-revolution-gaurav-arora-aws-4327505",
-      "originalUrl": "https://www.dqindia.com/dqdeeptech/empowering-the-genai-revolution-gaurav-arora-aws-4327505",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.thepublive.com/fit-in/1200x675/dq/media/media_files/uuwNTexWvK99uOYOygO4.jpg",
-          "width": 1200,
-          "height": 565,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.dqindia.com/dqdeeptech/empowering-the-genai-revolution-gaurav-arora-aws-4327505",
-      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/dqdeeptech/empowering-the-genai-revolution-gaurav-arora-aws-4327505",
-      "publishedDateTime": "2024-03-12T09:09:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dataquest",
-        "domain": "dqindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-how-ai-has-already-changed-coding-forever.md",
-      "title": "How AI has already changed coding forever",
-      "excerpt": "AI coding tools such as Amazon CodeWhisperer and GitHub Copilot boost the productivity of pro and novice developers alike. They’re only the beginning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3714361/how-ai-has-already-changed-coding-forever.html",
-      "originalUrl": "https://www.infoworld.com/article/3714361/how-ai-has-already-changed-coding-forever.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.techhive.com/images/article/2014/03/166160844-100249187-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3714361/how-ai-has-already-changed-coding-forever.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3714361/how-ai-has-already-changed-coding-forever.amp.html",
-      "publishedDateTime": "2024-03-12T09:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

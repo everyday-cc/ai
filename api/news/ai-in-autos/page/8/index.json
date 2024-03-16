@@ -2,6 +2,92 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2024-01-08-artist-lawrence-lek-imagines-a-future-where-self-driving-cars-have-gone-awol.md",
+      "title": "Artist Lawrence Lek imagines a future where self-driving cars have gone AWOL",
+      "excerpt": "Transforming the space into an experiential futuristic universe, Lek leads us on a journey through a world populated by smart systems and intelligent nonhumans. In NOX, we participate in an uneasy future,",
+      "sourceUrl": null,
+      "webUrl": "https://hero-magazine.com/article/246319/lawrence-lek",
+      "originalUrl": "https://hero-magazine.com/article/246319/lawrence-lek",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.hero-magazine.com/wp-content/uploads/2023/12/22144351/Lawrence-Lek_HERO-Winter-Annual-2023_INSTA_Page_6_Image_0001.jpg",
+          "width": 1350,
+          "height": 774,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-08T12:48:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "hero-magazine.com",
+        "domain": "hero-magazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-08-we-need-smarter-driverless-vehicle-regulations-more-urgently-than-we-need-smarter-ai.md",
+      "title": "We Need Smarter Driverless Vehicle Regulations More Urgently Than We Need Smarter AI",
+      "excerpt": "Recent Tesla Autopilot and Cruise robo-taxi news has raised public concern. Strong federal and state safety regulations are needed to ensure the safety of driverless vehicles’ AI-based software",
+      "sourceUrl": null,
+      "webUrl": "https://www.scientificamerican.com/article/we-need-smarter-driverless-vehicle-regulations-more-urgently-than-we-need-smarter-ai/",
+      "originalUrl": "https://www.scientificamerican.com/article/we-need-smarter-driverless-vehicle-regulations-more-urgently-than-we-need-smarter-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.scientificamerican.com/sciam/cache/file/F2537A88-8EAB-4C9B-95814FB1DBAB792E_source.jpg?w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-08T12:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Scientific American",
+        "domain": "scientificamerican.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-08-driverless-navigation-to-charge-spots-thanks-to-bosch-and-vw-subsidiary-cariad.md",
       "title": "Driverless navigation to charge spots – thanks to Bosch and VW subsidiary Cariad",
       "excerpt": "Bosch and Volkswagen subsidiary Cariad are testing driverless parking and charging based on automated valet parking. Automated parking service now includes automated charging of electric vehicles. Aim is to create additional benefit for automotive ...",
@@ -1262,101 +1348,6 @@
       "provider": {
         "name": "timesnownews",
         "domain": "timesnownews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-19-teslas-ai-revolution-morgan-stanley-predicts-explosive-growth.md",
-      "title": "Tesla's AI Revolution: Morgan Stanley Predicts Explosive Growth",
-      "excerpt": "Executives at Tesla TSLA +4.9% Inc. (TSLA) revealed last week new upgrades to Optimus, the firm’s bipedal robot. Morgan Stanley MS +0.6% researchers believe a Cambrian Explosion is near, leading to explosive growth for Tesla.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jonmarkman/2023/12/18/teslas-ai-revolution-morgan-stanley-predicts-explosive-growth/",
-      "originalUrl": "https://www.forbes.com/sites/jonmarkman/2023/12/18/teslas-ai-revolution-morgan-stanley-predicts-explosive-growth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6580e6a412357727a23cd47a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1350,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jonmarkman/2023/12/18/teslas-ai-revolution-morgan-stanley-predicts-explosive-growth/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonmarkman/2023/12/18/teslas-ai-revolution-morgan-stanley-predicts-explosive-growth/amp/",
-      "publishedDateTime": "2023-12-19T00:50:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2023-12-19-self-driving-cars-face-reality-check.md",
-      "title": "Self-Driving Cars Face Reality Check",
-      "excerpt": "The development of self-driving cars is facing significant setbacks and disillusionment due to technical challenges, accidents, and a lack of practical understanding.",
-      "sourceUrl": null,
-      "webUrl": "https://oilprice.com/Energy/Energy-General/Self-Driving-Cars-Face-Reality-Check.html",
-      "originalUrl": "https://oilprice.com/Energy/Energy-General/Self-Driving-Cars-Face-Reality-Check.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2023-12-18_xs2dwzt3dh.jpg",
-          "width": 718,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-18T21:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crude Oil Prices",
-        "domain": "oilprice.com",
         "images": null,
         "publishers": null,
         "authors": null

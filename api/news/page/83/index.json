@@ -2,6 +2,337 @@
   "page": 83,
   "value": [
     {
+      "path": "_news/2024-01-15-hey-siri-inside-apples-speech-ai-and-the-technology-behind-it.md",
+      "title": "'Hey, Siri:' Inside Apple's speech AI and the technology behind it",
+      "excerpt": "Siri, Apple's voice assistant, combines advanced AI, machine learning, and voice recognition to interpret and respond to user queries and commands.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/siri-apple",
+      "originalUrl": "https://www.businessinsider.com/siri-apple",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65a01aa643bb77284b9c4c0c?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/siri-apple?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/siri-apple?amp",
+      "publishedDateTime": "2024-01-15T13:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-15-local-education-technology-company-praxis-ai-gets-spot-in-aws-accelerator.md",
+      "title": "Local education technology company Praxis AI gets spot in AWS accelerator",
+      "excerpt": "The company, called Praxis AI, helps students and researchers find topics and trusted sources using generative AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/sacramento/inno/stories/news/2024/01/15/praxis-ai-aws-accelerator.html",
+      "originalUrl": "https://www.bizjournals.com/sacramento/inno/stories/news/2024/01/15/praxis-ai-aws-accelerator.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.bizj.us/view/img/12670992/20240112152707*1200xx3024-1701-0-662.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-15T12:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2024-01-15-what-growing-ai-datasets-mean-for-data-engineering-and-management.md",
+      "title": "What growing AI datasets mean for data engineering and management",
+      "excerpt": "Ever-larger datasets for AI training pose big challenges for data engineers, and risks for the models themselves. It’s time to shift our focus to curating and managing smaller datasets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3712223/what-growing-ai-datasets-mean-for-data-engineering-and-management.html",
+      "originalUrl": "https://www.infoworld.com/article/3712223/what-growing-ai-datasets-mean-for-data-engineering-and-management.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2023/07/shutterstock_2284126663-100943536-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3712223/what-growing-ai-datasets-mean-for-data-engineering-and-management.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3712223/what-growing-ai-datasets-mean-for-data-engineering-and-management.amp.html",
+      "publishedDateTime": "2024-01-15T10:03:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-15-after-ais-summer-whats-next-for-artificial-intelligence.md",
+      "title": "After AI’s summer: What’s next for artificial intelligence?",
+      "excerpt": "The most optimistic promises of AI will likely not be realized in 2024. Hopefully, any disappointments will not result in another AI winter.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/after-ais-summer-whats-next-for-artificial-intelligence/",
+      "originalUrl": "https://venturebeat.com/ai/after-ais-summer-whats-next-for-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2024/01/artificial_intelligence_bot_surrounded_by_flower-transformed.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-15T03:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2024-01-15-chatgpt-may-be-coming-for-our-jobs-here-are-the-10-roles-that-ai-is-most-likely-to-replace.md",
+      "title": "ChatGPT may be coming for our jobs. Here are the 10 roles that AI is most likely to replace.",
+      "excerpt": "Business Insider talked to experts and conducted research to compile a list of jobs that are at highest-risk for replacement by AI. Tech jobs (Coders, computer programmers, software engineers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/chatgpt-jobs-at-risk-replacement-artificial-intelligence-ai-labor-trends-2023-02",
+      "originalUrl": "https://www.businessinsider.com/chatgpt-jobs-at-risk-replacement-artificial-intelligence-ai-labor-trends-2023-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63daec1e0a08ae0018a66c69?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/chatgpt-jobs-at-risk-replacement-artificial-intelligence-ai-labor-trends-2023-02?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatgpt-jobs-at-risk-replacement-artificial-intelligence-ai-labor-trends-2023-02?amp",
+      "publishedDateTime": "2024-01-15T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-15-healthcare-in-the-age-of-ai-how-will-artificial-intelligence-impact-future-decision-making.md",
+      "title": "Healthcare in the age of AI: How will artificial intelligence impact future decision-making?",
+      "excerpt": "Artificial intelligence (AI ... step towards generating human-like text from simple prompts. In the healthcare sector, AI’s advancement has begun to impact prescribing, particularly in ...",
+      "sourceUrl": null,
+      "webUrl": "https://pharmaphorum.com/digital/healthcare-age-ai-how-will-artificial-intelligence-impact-future-decision-making",
+      "originalUrl": "https://pharmaphorum.com/digital/healthcare-age-ai-how-will-artificial-intelligence-impact-future-decision-making",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pharmaphorum.com/sites/default/files/2024-01/How-will-artificial-intelligence-impact-future-decision-making-1200x675.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-15T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pharmaphorum",
+        "domain": "pharmaphorum.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-15-novel-neuromorphic-artificial-neural-network-circuit-architecture.md",
+      "title": "Novel Neuromorphic Artificial Neural Network Circuit Architecture",
+      "excerpt": "However, current artificial neural network circuit architectures do not fully embrace small-world neural network models. Here, we present the neuromorphic Mosaic: a non-von Neumann systolic architecture employing distributed memristors for in-memory ...",
+      "sourceUrl": null,
+      "webUrl": "https://semiengineering.com/novel-neuromorphic-artificial-neural-network-circuit-architecture/",
+      "originalUrl": "https://semiengineering.com/novel-neuromorphic-artificial-neural-network-circuit-architecture/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-15T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Semiconductor Engineering",
+        "domain": "semiengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-15-fintech-broadridge-financial-solutions-introduces-opsgpt-a-capability-for-transforming-operations-across-post-trade-lifecycle.md",
       "title": "Fintech Broadridge Financial Solutions Introduces OpsGPT, a Capability for Transforming Operations Across Post-Trade Lifecycle",
       "excerpt": "Global Fintech Broadridge Financial Solutions, Inc. (NYSE:BR) announced the launch of OpsGPT, a new capability for operations users, analysts.",
@@ -765,307 +1096,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-13-unpacking-yolov8-ultralytics-viral-computer-vision-masterpiece.md",
-      "title": "Unpacking Yolov8: Ultralytics’ Viral Computer Vision Masterpiece",
-      "excerpt": "Exploring YOLOv8, the fastest and most accurate computer vision model by Ultralytics for detecting objects in real-time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.unite.ai/ultralytics-yolov8-explained/",
-      "originalUrl": "https://www.unite.ai/ultralytics-yolov8-explained/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.unite.ai/wp-content/uploads/2024/01/FEATURED-IMAGE-YOLOv8.jpg",
-          "width": 879,
-          "height": 586,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-13T10:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "unite",
-        "domain": "unite.ai",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-13-how-ai-development-fostered-a-digital-sweatshop-and-why-it-matters-for-the-technologys-future.md",
-      "title": "How AI development fostered a digital ‘sweatshop’, and why it matters for the technology’s future",
-      "excerpt": "The development of artificial intelligence has created opportunities for educated workers in the Philippines and other developing countries. But they are poorly paid and lack training.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/magazines/post-magazine/long-reads/article/3247902/how-ai-development-fostered-digital-sweatshop-and-why-it-matters-technologys-future",
-      "originalUrl": "https://www.scmp.com/magazines/post-magazine/long-reads/article/3247902/how-ai-development-fostered-digital-sweatshop-and-why-it-matters-technologys-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2024/01/10/09d417bd-299d-43b5-af62-a33cf7c65165_93653a69.jpg?itok=FaD5dQWz&v=1704863823",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/magazines/post-magazine/long-reads/article/3247902/how-ai-development-fostered-digital-sweatshop-and-why-it-matters-technologys-future",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/magazines/post-magazine/long-reads/article/3247902/how-ai-development-fostered-digital-sweatshop-and-why-it-matters-technologys-future",
-      "publishedDateTime": "2024-01-13T07:52:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-13-making-ai-work-for-you.md",
-      "title": "Making AI work for you",
-      "excerpt": "According to travel advisor Bob Burke, the best way for advisors to meet the growing challenge from artificial intelligence is to learn to use it and other technology to their advantage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.travelweekly.com/Articles/AI-booking-travel-travel-agents",
-      "originalUrl": "https://www.travelweekly.com/Articles/AI-booking-travel-travel-agents",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ik.imgkit.net/3vlqs5axxjf/TW/uploadedImages/Art/2024/0101/T0101BOBBURKE_C_350x200.jpg?tr=w-1200%2Cfo-auto",
-          "width": 1200,
-          "height": 686,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-13T05:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Travel Weekly",
-        "domain": "travelweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-13-concerns-over-teens-instagram-and-facebook-feeds-ai-powered-misinformation-and-global-warming.md",
-      "title": "Concerns over teens' Instagram and Facebook feeds, AI-powered misinformation and global warming",
-      "excerpt": "On the version of Hot off the Wire posted Jan. 13 at 6 a.m. CT: SAN FRANCISCO (AP) — Meta says it will start hiding inappropriate content from teenagers’ accounts on Instagram and Facebook ... with cutting-edge artificial intelligence is the top ...",
-      "sourceUrl": null,
-      "webUrl": "https://richmond.com/audio_a79c48f0-1e00-59d0-b28d-2149990fe84a.html",
-      "originalUrl": "https://richmond.com/audio_a79c48f0-1e00-59d0-b28d-2149990fe84a.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/a/79/a79c48f0-1e00-59d0-b28d-2149990fe84a/65a2841745582.preview.jpg?crop=1440%2C756%2C0%2C342&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-13T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Richmond",
-        "domain": "richmond.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-13-nvidia-isaac-ai-robot-platform-announces-many-partners.md",
-      "title": "Nvidia Isaac AI Robot Platform Announces Many Partners",
-      "excerpt": "It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge technologies, he is currently a Co-Founder of a startup and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextbigfuture.com/2024/01/nvidia-isaac-ai-robot-platform-announces-many-partners.html",
-      "originalUrl": "https://www.nextbigfuture.com/2024/01/nvidia-isaac-ai-robot-platform-announces-many-partners.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nextbigfuture.s3.amazonaws.com/uploads/2024/01/Screen-Shot-2024-01-13-at-1.05.38-PM.jpg",
-          "width": 1802,
-          "height": 1114,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-13T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NextBigFuture",
-        "domain": "nextbigfuture.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-13-cruise-casts-shadow-on-self-driving-tech-at-ces-2024.md",
-      "title": "Cruise casts shadow on self-driving tech at CES 2024",
-      "excerpt": "LAS VEGAS — Self-driving vehicles and advances in automated-driving technology have been a CES staple since Audi drove an A7 autonomously from San Francisco to Las Vegas nine years ago.",
-      "sourceUrl": null,
-      "webUrl": "https://www.autonews.com/ces/self-driving-tech-quiet-ces-2024",
-      "originalUrl": "https://www.autonews.com/ces/self-driving-tech-quiet-ces-2024",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-12T23:32:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-13-smart-construction-future-hd-hyundai-collaborates-with-aws-to-pioneer-unmanned-autonomous-sites.md",
-      "title": "Smart Construction Future: HD Hyundai Collaborates with AWS to Pioneer Unmanned Autonomous Sites",
-      "excerpt": "LAS VEGAS, Jan. 12, 2024 /PRNewswire/ -- HD Hyundai, a global leader in heavy industries, is teaming up with Amazon Web Services (AWS) to lead the innovation of future unmanned and autonomous construction sites. This collaboration was announced at Consumer Electronics Show (CES) 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2024/01/12/9945803.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2024/01/12/9945803.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/2317101/image_123650291.jpg",
-          "width": 400,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-12T22:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

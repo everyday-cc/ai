@@ -146,9 +146,9 @@ related:
         height: 900
         isCached: true
   - title: "Google’s Gemini AI now refuses to answer election questions"
-    excerpt: "Google had planned to do this back when the Gemini chatbot was still called \"Bard.\" In December, the company said, \"Beginning early next year, in preparation for the 2024 elections and out of an abundance of caution on such an important topic, we’ll ..."
+    excerpt: "Like many of us, Google Gemini is tired of politics. Reuters reports that Google has restricted the chatbot from answering questions about the upcoming US election, and instead, it will direct users to Google Search."
     publishedDateTime: 2024-03-13T17:40:00Z
-    webUrl: "https://arstechnica.com/gadgets/2024/03/no-politics-google-disables-election-related-questions-for-gemini/?n=@"
+    webUrl: "https://arstechnica.com/gadgets/2024/03/no-politics-google-disables-election-related-questions-for-gemini/"
     type: article
     provider:
       name: Ars Technica

@@ -49,6 +49,15 @@ related:
         width: 611
         height: 552
         isCached: true
+  - title: "Ghost in the machine: AI and patent protection"
+    excerpt: "Among other reasons, CIPO found that there was no human designated to exercise the rights of the “machine”. 12 However, CIPO suggested that the owner may attempt to comply by submitting a statement identifying himself as the legal representative of the ..."
+    publishedDateTime: 2024-03-15T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/ghost-in-the-machine-ai-and-patent-7413574/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 19
 
 secured: "26ZiRD6xsXmfiLjYncucQi4XbXzHVE7tyyqhPHhOCJ1UcoIkRXS0NvHfpgzmk5OVAVfjzejjad681D2qu/+47aL3FOJw13BkJY75LHi0BnlwbpdGBWuNy7PVaQF2l+k9Cq9KFwKGVcENS5oIHOBqEmUMBG3EH3/jmjpAg57QAZ5Z+IjGrU8QWnPSrsNABLk8/mVEPonha9SldIymuK155d8Lmj4H2bhD2VCEyOVv9NoJGvZOyeG9coIY/FIwrmeFSrQrrdp8+zt8Ua5OrxyLI6FsxrVG2z8ZH8Wf6eKM5ZzW09c8VqEB3C8Ke492JMhpsAeaChGr/k+IUfnXVljBvfQ0T52uT9oRORBZAjWT2H3sH3hqVouFkjZPkYd6mLsoMIoSsR3YgZc+buhvJTHRa6tQnBFqWSmPtT6RrsfIU06INWnYmVKLT39xRkes4GLUW1APzMCEZRoHsG0gP6PZgx4ldKfvs5ZKw8ChqZmzxKGrkN0/WddOyqNaSh2JQOd3qxFrZGXVqAeG9QWrdCgBSw==;+N5KhNpApKihbJcClSIzdQ=="
 ---

@@ -2,6 +2,257 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2024-03-06-6-ways-generative-ai-helps-improve-accessibility-for-all-with-azure.md",
+      "title": "6 ways generative AI helps improve accessibility for all with Azure ",
+      "excerpt": "The application of Azure AI in enhancing accessibility is both broad and impactful, with Microsoft Copilot leading the charge. Here are six notable examples where Azure AI is making a difference.\nThe post 6 ways generative AI helps improve accessibility for all with Azure  appeared first on Microsoft",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/blog/6-ways-generative-ai-helps-improve-accessibility-for-all-with-azure/",
+      "originalUrl": "https://azure.microsoft.com/en-us/blog/6-ways-generative-ai-helps-improve-accessibility-for-all-with-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2024/03/MSFT_Azure_MAR05_322044_Blog_Blogheader_240305_V02-social.png",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-learn-about-generative-ais-impact-on-robotics-at-the-robotics-summit-expo.md",
+      "title": "Learn about generative AI’s impact on robotics at the Robotics Summit & Expo",
+      "excerpt": "Researchers are already using generative AI to make robots faster learners, and a summit panel will discuss how it can be applied at scale.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/learn-about-generative-ai-impact-on-robotics-at-the-robotics-summit-expo/",
+      "originalUrl": "https://www.therobotreport.com/learn-about-generative-ai-impact-on-robotics-at-the-robotics-summit-expo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2024/03/generative-AI-panel-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T16:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-06-efficiently-fine-tune-the-esm-2-protein-language-model-with-amazon-sagemaker.md",
+      "title": "Efficiently fine-tune the ESM-2 protein language model with Amazon SageMaker",
+      "excerpt": "In this post, we demonstrate how to efficiently fine-tune a state-of-the-art protein language model (pLM) to predict protein subcellular localization using Amazon SageMaker. Proteins are the molecular machines of the body, responsible for everything from moving your muscles to responding to infections.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/efficiently-fine-tune-the-esm-2-protein-language-model-with-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/efficiently-fine-tune-the-esm-2-protein-language-model-with-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/02/28/ML-15387-fine-tune-esm.png",
+          "width": 750,
+          "height": 425,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T16:28:33Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-digital-bank-monzo-raises-340m-amid-uk-push-to-remain-fintech-leader.md",
+      "title": "Digital bank Monzo raises £340M amid UK push to remain fintech leader",
+      "excerpt": "Amid a tough funding environment, UK digital bank Monzo has raised £340mn to accelerate product development and market expansion.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/digital-bank-monzo-raises-340m-uk-fintech-leadership",
+      "originalUrl": "https://thenextweb.com/news/digital-bank-monzo-raises-340m-uk-fintech-leadership",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2024%2F03%2FUntitled-design-39.jpg&signature=3ecc10adb6813a3ffbf59e293045c26c",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T16:26:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-06-ai-transforming-entrepreneurship-by-unleashing-innovation-and-redefining-marketing-strategies.md",
+      "title": "AI: Transforming Entrepreneurship By Unleashing Innovation And Redefining Marketing Strategies",
+      "excerpt": "AI paves the way for a revolution in entrepreneurship, offering up new possibilities for creative content like never before.United States -",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-transforming-entrepreneurship-by-unleashing-innovation-and-redefining-marketing-strategies-1033138486",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-transforming-entrepreneurship-by-unleashing-innovation-and-redefining-marketing-strategies-1033138486",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/mmstudio-images/gallery/WeraP7i62sgexGIFNwzD88Tp1ko2/1709624070292-0.jpg",
+          "width": 512,
+          "height": 341,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T15:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2024-03-06-ai-predicts-immunotherapy-risks-for-cancer-patients.md",
       "title": "AI Predicts Immunotherapy Risks for Cancer Patients",
       "excerpt": "Globally by 2050, the number of cancer cases globally is projected to increase by 77% to more than 35 million compared to 20 million in 2022 according to 2024 estimates by the Wor",
@@ -469,6 +720,49 @@
       ]
     },
     {
+      "path": "_news/2024-03-06-europe-leads-the-way-autonomous-vehicles-industry-surges-with-87-cagr-growth.md",
+      "title": "Europe Leads the Way: Autonomous Vehicles Industry Surges with 8.7% CAGR Growth",
+      "excerpt": "In 2023, the autonomous vehicles industry is anticipated to be valued at US$ 30,539.0 million. Over the forecast period from 2023 to 2033, revenue from the sales of autonomous vehicles is predicted to increase significantly,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fmiblog.com/2024/03/06/europe-leads-the-way-autonomous-vehicles-industry-surges-with-8-7-cagr-growth/",
+      "originalUrl": "https://www.fmiblog.com/2024/03/06/europe-leads-the-way-autonomous-vehicles-industry-surges-with-8-7-cagr-growth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.fmiblog.com/wp-content/uploads/2024/03/Locomotive-Traction-Transformer-Market-1-420x300.jpg",
+          "width": 420,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-06T10:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Future Market Insights",
+        "domain": "fmiblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-06-anthropic-aws-google-set-to-outpace-microsoft-openai-duo.md",
       "title": "Anthropic & AWS-Google Set to Outpace Microsoft-OpenAI Duo",
       "excerpt": "While Amazon seems to have strategically integrated powerful AI models into its Bedrock umbrella, catering to enterprise customers, Microsoft and Google are upping their small language models game with Phi-2 and Gemma, fueling both startups and developers and giving Meta’s Llama 2 a fight.",
@@ -883,280 +1177,6 @@
       ],
       "topics": [
         "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-06-type-1-diabetes-from-the-dream-of-automated-insulin-delivery-to-a-fully-artificial-pancreas.md",
-      "title": "Type 1 diabetes: from the dream of automated insulin delivery to a fully artificial pancreas",
-      "excerpt": "Automated insulin delivery systems have transformed the care of people living with type 1 diabetes and continue to move closer to the ultimate goal of a fully autonomous artificial pancreas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41591-024-00013-5",
-      "originalUrl": "https://www.nature.com/articles/d41591-024-00013-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nature.com/lw1024/magazine-assets/d41591-024-00013-5/d41591-024-00013-5_26818890.png",
-          "width": 938,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-06T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-06-google-says-its-purging-all-the-ai-trash-littering-its-search-results.md",
-      "title": "Google Says It’s Purging All the AI Trash Littering Its Search Results",
-      "excerpt": "The company announced changes to its algorithm to deamplify websites that \"feel like they were created for search engines instead of people.\"",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/google-search-updates-downrank-seo-ai-generated-content-1851309904",
-      "originalUrl": "https://gizmodo.com/google-search-updates-downrank-seo-ai-generated-content-1851309904",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/7ba4c3402e621cc142f48e1f1005971c.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T22:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-06-voting-round-2-dayton-inno-madness-bracket.md",
-      "title": "Voting Round 2: Dayton Inno Madness Bracket",
-      "excerpt": "It's that time of year again. Our Dayton Inno Madness competition is here. And we've got 17 local startups remaining in the contest for the coveted title of 2024 Inno Madness champion. Voters each round will vote based on the question: Who would you invest in?",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/dayton/inno/stories/awards/2024/03/05/inno-madness-dayton-startups.html",
-      "originalUrl": "https://www.bizjournals.com/dayton/inno/stories/awards/2024/03/05/inno-madness-dayton-startups.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T22:33:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-06-google-now-wants-to-limit-the-ai-powered-search-spam-it-helped-create.md",
-      "title": "Google now wants to limit the AI-powered search spam it helped create",
-      "excerpt": "Google's post describes a \"March 2024 core update\" to the ranking algorithms that it says will show fewer results that \"are unhelpful, have a poor user experience or feel like they were created for search engines instead of people.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2024/03/google-wants-to-close-pandoras-box-fight-ai-powered-search-spam/",
-      "originalUrl": "https://arstechnica.com/gadgets/2024/03/google-wants-to-close-pandoras-box-fight-ai-powered-search-spam/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/ai_typewriter_getty-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T21:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-06-defense-technology-showcase-and-artificial-intelligence-roundtable-at-unc-charlotte.md",
-      "title": "Defense Technology Showcase and Artificial Intelligence Roundtable at UNC Charlotte",
-      "excerpt": "This website stores cookies on your computer. These cookies are used to improve your website experience and provide more personalized services to you, both on this website and through other media. To find out more about the cookies we use, see our Privacy Policy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ncbiotech.org/events/defense-technology-showcase-and-artificial-intelligence-roundtable-unc-charlotte",
-      "originalUrl": "https://www.ncbiotech.org/events/defense-technology-showcase-and-artificial-intelligence-roundtable-unc-charlotte",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ncbiotech.org/sites/default/files/styles/extra_large/public/2021-12/funding-mm.jpg?itok=zGd59nQ3",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T21:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ncbiotech.org",
-        "domain": "ncbiotech.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-06-googles-genie-game-maker-is-what-happens-when-ai-watches-30k-hrs-of-video-games.md",
-      "title": "Google’s Genie game maker is what happens when AI watches 30K hrs of video games",
-      "excerpt": "To establish that model, Genie started with 200,000 hours of public Internet gaming videos, which were filtered down to 30,000 hours of standardized video from \"hundreds of 2D games.\" The individual frames from those videos were then tokenized into a 200-million-parameter model that a machine learning algorithm could easily work with.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2024/03/googles-genie-model-creates-interactive-2d-worlds-from-a-single-image/",
-      "originalUrl": "https://arstechnica.com/gadgets/2024/03/googles-genie-model-creates-interactive-2d-worlds-from-a-single-image/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/Google_Deepmind.width-800-760x380.png",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-05T18:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

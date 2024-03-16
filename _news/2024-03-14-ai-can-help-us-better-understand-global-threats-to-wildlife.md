@@ -49,6 +49,20 @@ related:
         width: 1000
         height: 600
         isCached: true
+  - title: "Wildlife threats can be identified using AI technology"
+    excerpt: "These platforms enhance our comprehension of wildlife threats on a global scale, thereby steering conservation efforts in new directions."
+    publishedDateTime: 2024-03-15T22:49:00Z
+    webUrl: "https://www.earth.com/news/global-wildlife-threats-can-be-identified-using-ai-technology/"
+    type: article
+    provider:
+      name: earth
+      domain: earth.com
+    quality: 39
+    images:
+      - url: "https://cff2.earth.com/uploads/2024/03/15164906/Wildlife-threats.jpg"
+        width: 2000
+        height: 1332
+        isCached: true
 
 secured: "kionJlAxAKVYh1gM96jgPbCnXu1UQjhShuBdEmcnTGzZTiDe7DUjZwV149kh/yj8l9XeEgyRpTzOuHBQgkwBLYVbnNXrcxNmIwGylRXtmkVs5/a7iafOqQMkrBztMeEt9IH6JmRS9RRa4Fe2DyK7NenAH5S8zHWKIC3W+1ULhyTQf/7OkGvyDeug647hHYjWyTLzbyfCLMTxjPrui8UZ0JXV8XpVJ0wq49/dNgRtnzOIwFEHTLdx1+B8P6pPZ1/Iwuz72+woYAfs9QQQa+3WTSQ/v1S8otLQ29FPOk3DxjrlsXRv4SihiVjWvombv0IVkPTBxUq0/ptdTcjBuaErYUdf+BzJjtQWt5CRCNRG4H9oJqA7EcDdMDkxh8shPT8opI81VIHT+LpWmcXF4wGaJ03rerx+Y9YcPwY+MihTlVOUYfDn7+aU6e/FT8J6VJJYRCafy6WhTAybgCb3CGSeHgRqi/E1tU1q8qB3sijwhZJjSpj/7j7sZBbcVjNb8zkYWrVdBWAdOAARWvWzfcu8qQ==;mS1/oCJd+9RbcKAI8HmWeg=="
 ---

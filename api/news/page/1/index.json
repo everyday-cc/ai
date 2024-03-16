@@ -2,20 +2,124 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2024-03-16-apples-new-ai-move-just-changed-the-game-for-all-iphone-users.md",
-      "title": "Apple’s New AI Move Just Changed The Game For All iPhone Users",
-      "excerpt": "Apple has just ramped up its AI plans for iPhones after buying Canadian start up DarwinAI. Here's what you need to know.",
+      "path": "_news/2024-03-16-ai-chatbots-and-augmented-reality-lead-the-top-tech-trends-of-the-week.md",
+      "title": "AI, chatbots, and augmented reality lead the top tech trends of the week",
+      "excerpt": "Of course, one of the biggest challenges with all of today's generative AI chatbots is that they consume an incredible amount of energy. Startup EnCharge AI has a potential breakthrough that could run AI models on lower powered chips using in-memory ...",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/kateoflahertyuk/2024/03/15/apples-new-ai-move-just-changed-the-game-for-all-iphone-users/",
-      "originalUrl": "https://www.forbes.com/sites/kateoflahertyuk/2024/03/15/apples-new-ai-move-just-changed-the-game-for-all-iphone-users/",
+      "webUrl": "https://www.zdnet.com/article/innovation-index-march-15-2024/",
+      "originalUrl": "https://www.zdnet.com/article/innovation-index-march-15-2024/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 198,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65574f970e051b082da2db18/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1340,
+          "url": "https://www.zdnet.com/a/fly/bundles/zdnetcore/images/logos/zdnet-logo-yellow.png",
+          "width": 480,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/innovation-index-march-15-2024/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/innovation-index-march-15-2024/",
+      "publishedDateTime": "2024-03-15T23:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2024-03-15-transform-one-on-one-customer-interactions-build-speech-capable-order-processing-agents-with-aws-and-generative-ai.md",
+      "title": "Transform one-on-one customer interactions: Build speech-capable order processing agents with AWS and generative AI",
+      "excerpt": "In today’s landscape of one-on-one customer interactions for placing orders, the prevailing practice continues to rely on human attendants, even in settings like drive-thru coffee shops and fast-food establishments. This traditional approach poses several challenges: it heavily depends on manual processes,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/transform-one-on-one-customer-interactions-build-speech-capable-order-processing-agents-with-aws-and-generative-ai/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/transform-one-on-one-customer-interactions-build-speech-capable-order-processing-agents-with-aws-and-generative-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2024/03/15/transform-one-on-one-conversations.jpg",
+          "width": 863,
+          "height": 485,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-15T21:53:20Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-16-behind-the-scenes-and-beyond-hype-what-we-learned-about-ai-at-sxsw.md",
+      "title": "Behind The Scenes And Beyond Hype: What We Learned About AI At SXSW",
+      "excerpt": "SXSW had over 1500 sessions on AI, lots of startup competitions, and groups focused on more women in Web3 and AI. It's all about innovation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/digital-assets/2024/03/15/behind-the-scenes-and-beyond-hype-what-we-learned-about-ai-at-sxsw/",
+      "originalUrl": "https://www.forbes.com/sites/digital-assets/2024/03/15/behind-the-scenes-and-beyond-hype-what-we-learned-about-ai-at-sxsw/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65f49d46c292062e8a940bb3/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
           "height": 900,
           "title": null,
           "attribution": null,
@@ -24,9 +128,9 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/kateoflahertyuk/2024/03/15/apples-new-ai-move-just-changed-the-game-for-all-iphone-users/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/kateoflahertyuk/2024/03/15/apples-new-ai-move-just-changed-the-game-for-all-iphone-users/amp/",
-      "publishedDateTime": "2024-03-15T17:14:00Z",
+      "ampWebUrl": "https://www.forbes.com/sites/digital-assets/2024/03/15/behind-the-scenes-and-beyond-hype-what-we-learned-about-ai-at-sxsw/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/digital-assets/2024/03/15/behind-the-scenes-and-beyond-hype-what-we-learned-about-ai-at-sxsw/amp/",
+      "publishedDateTime": "2024-03-15T20:01:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -49,7 +153,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -208,7 +313,7 @@
       "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2024/03/15/all-eyes-turn-to-nvidia-in-the-ai-era/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 531,
+      "heat": 563,
       "tags": null,
       "images": [
         {
@@ -249,7 +354,59 @@
       "topics": [
         "AI Hardware",
         "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-15-apples-latest-acquisition-hints-at-ai-powered-iphone-plans.md",
+      "title": "Apple's latest acquisition hints at AI-powered iPhone plans",
+      "excerpt": "Startup DarwinAI's work in making AI systems smaller and more efficient sounds like just what Tim Cook and company need.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/apples-latest-acquisition-hints-at-ai-powered-iphone-plans/",
+      "originalUrl": "https://www.zdnet.com/article/apples-latest-acquisition-hints-at-ai-powered-iphone-plans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/ec34031acf678ef59071c42c3dce573185e93821/2023/06/22/7d887bfa-b486-47e4-9e0b-f508cdb95944/gettyimages-1237878984-1.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/apples-latest-acquisition-hints-at-ai-powered-iphone-plans/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/apples-latest-acquisition-hints-at-ai-powered-iphone-plans/",
+      "publishedDateTime": "2024-03-15T13:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -315,7 +472,7 @@
       "originalUrl": "https://www.forbes.com/sites/federicoguerrini/2024/03/15/uk-and-germany-double-down-on-joint-ai-clean-energy-rd-efforts/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -411,7 +568,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/15/7-common-mistakes-ctos-make-when-implementing-ai-code-tools/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -497,6 +654,58 @@
       ]
     },
     {
+      "path": "_news/2024-03-15-mercedes-begins-piloting-apptronik-humanoid-robots.md",
+      "title": "Mercedes begins piloting Apptronik humanoid robots",
+      "excerpt": "Now Apptronik is getting in on the action, courtesy of a partnership with Mercedes-Benz. According to the Austin-based robotics startup, “as part of the agreement Apptronik and Mercedes-Benz will collaborate on identifying applications for highly ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2024/03/15/mercedes-begins-piloting-apptronik-humanoid-robots/",
+      "originalUrl": "https://techcrunch.com/2024/03/15/mercedes-begins-piloting-apptronik-humanoid-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2024/03/24C0101_003.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2024/03/15/mercedes-begins-piloting-apptronik-humanoid-robots/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/15/mercedes-begins-piloting-apptronik-humanoid-robots/amp/",
+      "publishedDateTime": "2024-03-15T09:30:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-15-nvidia-is-an-investor-in-artificial-intelligence-ai-start-up-databricks-should-palantir-investors-worry.md",
       "title": "Nvidia Is an Investor in Artificial Intelligence (AI) Start-Up Databricks. Should Palantir Investors Worry?",
       "excerpt": "Nvidia has been investing significant capital into AI-powered enterprise software platforms. Databricks offers a host of artificial intelligence (AI) applications through its Mosaic AI software. Palantir competes with Databricks in the world of big data.",
@@ -556,7 +765,7 @@
       "originalUrl": "https://techbullion.com/latest-news-shows-how-ai-business-tools-are-transforming-marketing-and-sales/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -703,7 +912,7 @@
       "originalUrl": "https://techcrunch.com/2024/03/14/apple-acquires-ai-startup-specializing-in-overlooking-manufacturing-components/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 147,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -808,7 +1017,7 @@
       "originalUrl": "https://fortune.com/education/articles/how-to-learn-data-analytics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1008,7 +1217,7 @@
       "originalUrl": "https://www.androidauthority.com/apple-acquires-darwin-ai-3425591/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1048,215 +1257,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-15-ai-powered-ad-ignites-creator-controversy-on-instagram.md",
-      "title": "‘AI-powered’ ad ignites creator controversy on Instagram",
-      "excerpt": "A new ad from Under Armour featuring boxer Anthony Joshua has come under fire from creatives on Instagram after its director claimed it as the “first Ai-powered sports commercial” — but critics in the industry say it blatantly reused others’ work ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/03/14/ai-powered-ad-ignites-creator-controversy-on-instagram/",
-      "originalUrl": "https://techcrunch.com/2024/03/14/ai-powered-ad-ignites-creator-controversy-on-instagram/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/03/aj-ai-ua.jpg?w=1080",
-          "width": 1080,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/03/14/ai-powered-ad-ignites-creator-controversy-on-instagram/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/14/ai-powered-ad-ignites-creator-controversy-on-instagram/amp/",
-      "publishedDateTime": "2024-03-14T19:39:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-15-everything-you-need-to-clean-for-spring-robot-vacuums-air-purifiers-and-more.md",
-      "title": "Everything you need to clean for spring: Robot vacuums, air purifiers, and more",
-      "excerpt": "Accelerate your tech game Paid Content How the New Space Race Will Drive Innovation How the metaverse will change the future of work and society Managing the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/home-and-office/everything-you-need-for-spring-cleaning/",
-      "originalUrl": "https://www.zdnet.com/home-and-office/everything-you-need-for-spring-cleaning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/b1b6655f99c60d26119a2450c269446b64185424/2023/11/09/9c6f0d14-e0ae-42db-bd5c-78bc801f94ae/4.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-14T19:29:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-15-the-philosophy-of-new-ai-tech-with-stephen-wolfram.md",
-      "title": "The Philosophy Of New AI Tech: With Stephen Wolfram",
-      "excerpt": "Talking about displacement and opportunity with AI, Wolfram discussed a forward-thinking way of looking at AI that might help us to void certain pitfalls in addressing the potential of these tools, such as just following what he called pre-planned agendas, and putting important aspects of research, so to speak, on autopilot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnwerner/2024/03/14/the-philosophy-of-new-ai-tech-with-stephen-wolfram/",
-      "originalUrl": "https://www.forbes.com/sites/johnwerner/2024/03/14/the-philosophy-of-new-ai-tech-with-stephen-wolfram/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65f34af822d579d7f78b9781/0x0.png?format=png&crop=930,523,x0,y59,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnwerner/2024/03/14/the-philosophy-of-new-ai-tech-with-stephen-wolfram/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnwerner/2024/03/14/the-philosophy-of-new-ai-tech-with-stephen-wolfram/amp/",
-      "publishedDateTime": "2024-03-14T19:04:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-15-after-aws-and-google-microsoft-says-its-removing-azure-egress-data-transfer-fees-but-with-caveats.md",
-      "title": "After AWS and Google, Microsoft says it’s removing Azure ‘egress’ data transfer fees — but with caveats",
-      "excerpt": "Microsoft will allow businesses to transfer data out of Azure with no \"egress fees\" attached, following similar moves by AWS and Google.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/03/14/after-aws-and-google-microsoft-says-its-removing-azure-egress-data-transfer-fees-but-with-caveats/",
-      "originalUrl": "https://techcrunch.com/2024/03/14/after-aws-and-google-microsoft-says-its-removing-azure-egress-data-transfer-fees-but-with-caveats/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1242261825.jpg?resize=1200,805",
-          "width": 1200,
-          "height": 805,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/03/14/after-aws-and-google-microsoft-says-its-removing-azure-egress-data-transfer-fees-but-with-caveats/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/14/after-aws-and-google-microsoft-says-its-removing-azure-egress-data-transfer-fees-but-with-caveats/amp/",
-      "publishedDateTime": "2024-03-14T17:58:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

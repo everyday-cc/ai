@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2024/03/14/apple-acquires-ai-startup-speciali
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/14/apple-acquires-ai-startup-specializing-in-overlooking-manufacturing-components/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 167
 published: true
 
 provider:
@@ -78,6 +78,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Apple Acquires Canadian Startup DarwinAI: Reports"
+    excerpt: "Tech giant Apple Inc.(AAPL) has reportedly acquired DarwinAI, an AI startup based in Canada. The acquisition, reported by"
+    publishedDateTime: 2024-03-15T19:18:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/apple-acquires-canadian-startup-darwinai-reports-1033169492"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
   - title: "Apple acquires DarwinAI startup ahead of iOS 18’s AI push"
     excerpt: "Apple has acquired DarwinAI, an artificial intelligence startup focused on making AI systems smaller and faster, according to a"
     publishedDateTime: 2024-03-14T17:26:00Z
@@ -109,6 +118,15 @@ related:
     provider:
       name: Indiatimes
       domain: indiatimes.com
+    quality: 17
+  - title: "Apple Acquires Another AI Start-Up Company, ‘DarwinAI’"
+    excerpt: "Tech giant Apple has quietly acquired Canadian artificial intelligence (AI) start-up ‘DarwinAI’, Bloomberg News reported on Thursday, citing people"
+    publishedDateTime: 2024-03-15T17:50:00Z
+    webUrl: "https://www.techworm.net/2024/03/apple-acquires-ai-start-up-darwinai.html"
+    type: article
+    provider:
+      name: techworm.net
+      domain: techworm.net
     quality: 17
 
 secured: "hNSoxmT0qVBBu1J2I76bu8WwQGhPCexkv/DQ/5y5lGQMNvXOv6eIAMgzv35LEsAEP7InFqI1bCTLcvkEVJw6JpV7R0f775eHbHJlLbszIMrUnBsU7x0dSCoWvw1Vu8gEwpQxk0jOaJjhY7Jrz4ETRI4mPRVfTlebOLW0tGl8B1OlVNw14zjBlg+ehJogJ/HmyKLT8qJ6NtrDnGIWBRGAs610VTM9FSfIDeed7s3Vscs/DM4Kj14t/UK1pntOc0/QDlKG/+5g4CoLJUJbRsBzlT4rcUvdC7ZFaz52jmlFfNn/YpT5dXbVnF2m/pQo+9pQ7Lk4+xMUqx5NNNzKQ9xf+9U69wBWk6y6JDo7OB3pVWs=;sUjyTD87WLP5THPdWw7S1Q=="

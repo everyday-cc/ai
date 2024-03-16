@@ -54,7 +54,7 @@
       "originalUrl": "https://fortune.com/education/articles/how-to-learn-data-analytics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 118,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -106,7 +106,7 @@
       "originalUrl": "https://breakingdefense.com/2024/03/the-difference-between-artificial-intelligence-and-machine-learning-and-why-it-matters/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -334,7 +334,7 @@
       "originalUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -586,10 +586,9 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
+        "Microsoft AI",
         "AI",
-        "Machine Learning",
-        "Microsoft AI"
+        "Machine Learning"
       ]
     },
     {

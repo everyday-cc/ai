@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ksn.com/news/airports-using-biometric-facial-recognition
 cdnAmpWebUrl: "https://www-ksn-com.cdn.ampproject.org/c/s/www.ksn.com/news/airports-using-biometric-facial-recognition-in-kansas/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 84
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Airports using biometric facial recognition in Arizona"
-    excerpt: "(Stacker) - The next time you’re in a security line at the airport, you may find that instead of a Transportation Security Administration officer checking your ID, a camera and screen will use biometric facial recognition to confirm your face and photo ..."
-    publishedDateTime: 2024-03-10T23:39:00Z
-    webUrl: "https://www.azfamily.com/2024/03/10/airports-using-biometric-facial-recognition-arizona/"
-    type: article
-    provider:
-      name: AZFamily
-      domain: azfamily.com
-    quality: 54
-    images:
-      - url: "https://gray-kpho-prod.cdn.arcpublishing.com/resizer/v2/TREEWK3BYBA3DHAVCRGHRPWFNA.png?auth=25a9a03572e1d59ccc0f210a9f495daa08ca5f6c8a0b7a1c996c40c85bd5ec00&width=1200&height=600&smart=true"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Airports using biometric facial recognition in Texas"
     excerpt: "Spokeo looked at which airports are using facial recognition software in Texas for security screenings, according to Customs and Border Protection."
     publishedDateTime: 2024-03-12T09:26:00Z
@@ -55,15 +41,6 @@ related:
         width: 700
         height: 394
         isCached: true
-  - title: "Airports using biometric facial recognition in California"
-    excerpt: "Airports using the technology in California include: Southern California Logistics (Victorville) Airport (Airport code: VCV; located in Victorville) San Francisco International Airport (Airport code: SFO; located in San Francisco) San Bernardino International Airport (Airport code: SBD; located in San Bernardino)"
-    publishedDateTime: 2024-03-10T19:14:00Z
-    webUrl: "https://www.pressdemocrat.com/article/news/airports-using-biometric-facial-recognition-in-california/"
-    type: article
-    provider:
-      name: Santa Rosa Press Democrat
-      domain: pressdemocrat.com
-    quality: 36
 
 secured: "9BfAU6G+9c1VB+3Y6Sq38DtBe1RBfuUgHBV5ZJe9K2oNjdmvSUGgE7BJ2rtSg6Obc6q3uwPihzAKyrcymmZR1G/He/cRn1Gw6kFSPAyh+zvL4NN3ODUMVt9UCwqA9km7UC6I4STcY5zAf9RAYjv8z1WRBp0KELq1iEMN0nT6kqloCkdGuJ/AwWs7HKaBQuXPavkfOTBvYKdPpfNOP96+hOeOqn5k4SjzvqeXk6lwsPArGj+/0QFv6P3jnaRVSXSvOdmGRVVCzJI7KyozpIApe2dNKMBwc4WpBdS4GS0tqNKUqhTYv0dp12TCyTZf7JNsudrc8cyOWc36OefROuOP6lRy51RNIhijRiS2QhpF1C4=;BftJqEUqnaJfl2Sz66OG3w=="
 ---

@@ -86,6 +86,20 @@ related:
         width: 1198
         height: 1280
         isCached: true
+  - title: "How to run AI privately without an Internet connection"
+    excerpt: "It hosts a variety of AI models, including the Llama 2 LLM developed by Meta (formerly Facebook). Hugging Face offers a user ... sift through case files and legal precedents to aid in their research, all within the secure perimeter of their own computing ..."
+    publishedDateTime: 2024-03-15T00:00:00Z
+    webUrl: "https://www.geeky-gadgets.com/setup-and-run-ai-models-locally-and-securely/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 39
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2024/03/How-to-run-AI-on-your-computer-at-home.jpg"
+        width: 1280
+        height: 717
+        isCached: true
 
 secured: "53XB2kdsDEVc0OHnMEbDi8nLA/hy+g1oqWP/eASk87Ob7SQGSFrgwsIsoGx62PaiiFrGjmpsoBR9lPGeu0t3v2+ljOMd8gTTmv4W4OKRXm8iL5LvUgdzT3nM2loKBc5nzrNlIz2nNpiQsuT3QJ+fDRZ28z3ETO9fX+llvXKYQ7J5O4VG9+fIXE/mHis1hv6s7Bj2lxXWuft4CV1OE2HLBU6R1D/LibwoKysyt21u26zFMNEyzGE3ZI35MTa3c1gIR3IMAaKvAeje1Z3VrAKrl4DXgiFXT2qOTMinc5lKlRY2rnNuypDKXyjVftfIDxsVY292ckDbvcTc+n6E9KYhB/EzDkfZsLPYvN07r/5z/c2rID7fjSMHPhf1xF9a1k59/gsNvNN4Ubv1b4owmg0QqLK39VHJc09Wn0iSrB7sF6dr3rAgcIqo9ssy9e064z0b2JG6JO4SA4As8vVHHW05Mo/fhqAQcPPvLACeaP52Rm99M8quOT14Y3XlrS2NSBMnQEZ06uNjbtvDElMSvTjK/w==;Khv7JZc2CmtHu7QPzi60sw=="
 ---

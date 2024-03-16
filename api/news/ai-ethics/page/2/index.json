@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2024-02-29-pc-gpu-shipments-increased-20-last-quarter-ai-tipped-to-drive-future-growth.md",
+      "title": "PC GPU shipments increased 20% last quarter, AI tipped to drive future growth",
+      "excerpt": "On a quarterly basis, total PC GPU shipments increased 5.9 percent over Q3, but not all the GPU manufacturers benefited from the growth. While Intel's shipments",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/102072-pc-gpu-shipments-increased-20-last-quarter-ai.html",
+      "originalUrl": "https://www.techspot.com/news/102072-pc-gpu-shipments-increased-20-last-quarter-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techspot.com/images2/news/bigimage/2024/02/2024-02-29-image.jpg",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-29T12:38:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-googles-ai-struggles-gemini-isnt-too-woke-its-too-rushed.md",
+      "title": "Google’s AI Struggles: Gemini isn’t too woke. It’s too rushed",
+      "excerpt": "It shut the feature down, and then made the problem worse by firing two of its leading AI ethics researchers. These were the people whose job was to make sure that Google’s technology was fair in how it depicted women and minorities. Not overly diverse ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/opinion/googles-ai-struggles-gemini-isnt-too-woke-its-too-rushed-12375571.html",
+      "originalUrl": "https://www.moneycontrol.com/news/opinion/googles-ai-struggles-gemini-isnt-too-woke-its-too-rushed-12375571.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2024/02/gemini-ai-bbo.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/opinion/googles-ai-struggles-gemini-isnt-too-woke-its-too-rushed-12375571.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/googles-ai-struggles-gemini-isnt-too-woke-its-too-rushed-12375571.html/amp",
+      "publishedDateTime": "2024-02-29T06:17:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-29-tsmc-founder-foresees-the-need-for-up-to-10-new-fabs-for-ai-chip-manufacturing.md",
       "title": "TSMC founder foresees the need for up to 10 new fabs for AI chip manufacturing",
       "excerpt": "Read our ethics statement. A hot potato ... Chang recently stated that the current demand for AI hardware accelerators is so high that his company will soon have to multiply its production capacity at staggering rates. Chang spoke during the inauguration ...",
@@ -1395,102 +1491,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2024-02-18-generative-urban-ai-is-here-are-cities-ready.md",
-      "title": "Generative Urban AI Is Here. Are Cities Ready?",
-      "excerpt": "Generative urban AI, an emerging and transformative technology poised to radically change urban planning, design, and city management.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/timothypapandreou/2024/02/18/generative-urban-ai-is-here-are-cities-ready/",
-      "originalUrl": "https://www.forbes.com/sites/timothypapandreou/2024/02/18/generative-urban-ai-is-here-are-cities-ready/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65d1a088fbe378e63d3de1a5/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1353,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/timothypapandreou/2024/02/18/generative-urban-ai-is-here-are-cities-ready/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timothypapandreou/2024/02/18/generative-urban-ai-is-here-are-cities-ready/amp/",
-      "publishedDateTime": "2024-02-18T07:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2024-02-17-ais-pivotal-role-in-shaping-the-future-of-finance-in-2024-and-beyond.md",
-      "title": "AI’s pivotal role in shaping the future of finance in 2024 and beyond",
-      "excerpt": "The level of AI adoption, its transformative potential, and the challenges surrounding its integration have become the focal points",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/business/digital-transformation-ais-pivotal-role-in-shaping-the-future-of-finance-in-2024-and-beyond-3396669/",
-      "originalUrl": "https://www.financialexpress.com/business/digital-transformation-ais-pivotal-role-in-shaping-the-future-of-finance-in-2024-and-beyond-3396669/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2024/02/Untitled-design-2024-02-16T181908.967.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/business/digital-transformation-ais-pivotal-role-in-shaping-the-future-of-finance-in-2024-and-beyond-3396669/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/business/digital-transformation-ais-pivotal-role-in-shaping-the-future-of-finance-in-2024-and-beyond-3396669/lite/",
-      "publishedDateTime": "2024-02-17T10:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

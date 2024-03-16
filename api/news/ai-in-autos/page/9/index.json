@@ -2,6 +2,101 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2023-12-19-teslas-ai-revolution-morgan-stanley-predicts-explosive-growth.md",
+      "title": "Tesla's AI Revolution: Morgan Stanley Predicts Explosive Growth",
+      "excerpt": "Executives at Tesla TSLA +4.9% Inc. (TSLA) revealed last week new upgrades to Optimus, the firm’s bipedal robot. Morgan Stanley MS +0.6% researchers believe a Cambrian Explosion is near, leading to explosive growth for Tesla.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jonmarkman/2023/12/18/teslas-ai-revolution-morgan-stanley-predicts-explosive-growth/",
+      "originalUrl": "https://www.forbes.com/sites/jonmarkman/2023/12/18/teslas-ai-revolution-morgan-stanley-predicts-explosive-growth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6580e6a412357727a23cd47a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jonmarkman/2023/12/18/teslas-ai-revolution-morgan-stanley-predicts-explosive-growth/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jonmarkman/2023/12/18/teslas-ai-revolution-morgan-stanley-predicts-explosive-growth/amp/",
+      "publishedDateTime": "2023-12-19T00:50:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-12-19-self-driving-cars-face-reality-check.md",
+      "title": "Self-Driving Cars Face Reality Check",
+      "excerpt": "The development of self-driving cars is facing significant setbacks and disillusionment due to technical challenges, accidents, and a lack of practical understanding.",
+      "sourceUrl": null,
+      "webUrl": "https://oilprice.com/Energy/Energy-General/Self-Driving-Cars-Face-Reality-Check.html",
+      "originalUrl": "https://oilprice.com/Energy/Energy-General/Self-Driving-Cars-Face-Reality-Check.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2023-12-18_xs2dwzt3dh.jpg",
+          "width": 718,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-18T21:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crude Oil Prices",
+        "domain": "oilprice.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-19-ai-in-your-shoes-this-company-aims-to-accessorize-everything-you-own-with-artificial-intelligence.md",
       "title": "AI in your shoes? This company aims to accessorize everything you own with artificial intelligence",
       "excerpt": "Tiny systems powered with artificial intelligence could transform everyday products like dishwashers and construction helmets into smarter, safer devices, two scientists told Fox News.",
@@ -1294,83 +1389,6 @@
       "provider": {
         "name": "Reading Eagle",
         "domain": "readingeagle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-07-which-hands-free-driving-system-is-best-this-test-aimed-to-find-out.md",
-      "title": "Which hands-free driving system is best? This test aimed to find out",
-      "excerpt": "Tesla Autopilot with Full Self-Driving Beta Tesla Motors’ AutoPilot has come in for criticism that its name implies more than what it delivers. But the latest Full Self-Driving Beta feature gets ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.detroitnews.com/story/business/autos/2023/12/06/which-hands-free-driving-system-is-best-this-test-aimed-to-find-out/71813681007/",
-      "originalUrl": "https://www.detroitnews.com/story/business/autos/2023/12/06/which-hands-free-driving-system-is-best-this-test-aimed-to-find-out/71813681007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-07T01:56:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Detroit News",
-        "domain": "detroitnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-07-guideline-unveiled-to-make-public-use-of-autonomous-driving-vehicles-safer.md",
-      "title": "Guideline unveiled to make public use of autonomous driving vehicles safer",
-      "excerpt": "The guideline, issued on Tuesday by the Ministry of Transport, applies to autonomous vehicles for both passenger and freight transportation services such as taxis, buses and trucks. It covers vehicles with various degrees of automation and mandates that they carry at least one driver or security inspector.",
-      "sourceUrl": null,
-      "webUrl": "https://global.chinadaily.com.cn/a/202312/07/WS657100fba31090682a5f1d16.html",
-      "originalUrl": "https://global.chinadaily.com.cn/a/202312/07/WS657100fba31090682a5f1d16.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img2.chinadaily.com.cn/images/202312/07/65710298a3109068cb01236d.jpeg",
-          "width": 1078,
-          "height": 718,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-06T23:28:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
         "images": null,
         "publishers": null,
         "authors": null

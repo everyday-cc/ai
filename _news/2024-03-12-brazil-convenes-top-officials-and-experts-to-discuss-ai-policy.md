@@ -21,6 +21,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Pentagon names new top official for digital and AI"
+    excerpt: "Like her predecessor, Radha Plumb brings commercial sector experience to the role with her background including stints at Google and Facebook ... head of the department’s Chief Digital and Artificial Intelligence Office, or CDAO — will be stepping ..."
+    publishedDateTime: 2024-03-15T14:59:00Z
+    webUrl: "https://washingtontechnology.com/companies/2024/03/pentagon-names-new-top-official-digital-and-ai/394982/"
+    type: article
+    provider:
+      name: Washington Technology
+      domain: washingtontechnology.com
+    quality: 19
+
 secured: "AUaH6qXoBbBSCYwg0Sqq4YNkAUo9FkUF2bnpVAqkghY0GaBSuOnnGbVISvQZdqDGzTzd2UizxALQJshxvrCMh6FOIG4iIYWqPG1u5L2KnFyagWkND8wTnS6O1t8Z+7XNRckEXXKXpU/MGH3A2Q0D+pDByPrav7Kx5E9ju/dxnrr07WQ8GJoFf0JIX8iG8My9K1nHpXqL02uadWHdPkPzV6Z8ZfFh9+h5pkEo9mBJAe3zpZVcZICKQfQdxy+5NbwFORDNvjB4dOyPx5kGKrZl0NGINWMlTvHHeM/Ncdrauz2o1GhoOQo/pmniQR+2nX2Og21Ib+0lvDREHr1yINV0orEO7c/UJx2w1wGedITLlw/i7YegPfdwHz+iQCsYxrcE+o/qolS7BZ/L30q4rW8AsjdWvuiam2TQB02HSnha9VwAu1LEXLhl2wyMiZ2GMrDT5OWKVwPjMLEeDOAup2pzWAgbx6l4izArU3dmqwCq2bedvq0jnOQthhyxX1tZyZvL6YlHAAlZoZNaTR4XDUQdRw==;tE6Ahsp2yADAFjxcMGaMhg=="
 ---
 

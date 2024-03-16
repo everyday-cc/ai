@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2024/03/13/ai-may-be-able
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2024/03/13/ai-may-be-able-to-reduce-the-scourge-of-meetings/amp/"
 type: article
 quality: 87
-heat: 89
+heat: 87
 published: true
 
 provider:

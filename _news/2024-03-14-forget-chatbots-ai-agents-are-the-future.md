@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI, chatbots, and augmented reality lead the top tech trends of the week"
+    excerpt: "Of course, one of the biggest challenges with all of today's generative AI chatbots is that they consume an incredible amount of energy. Startup EnCharge AI has a potential breakthrough that could run AI models on lower powered chips using in-memory ..."
+    publishedDateTime: 2024-03-15T23:09:00Z
+    webUrl: "https://www.zdnet.com/article/innovation-index-march-15-2024/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/innovation-index-march-15-2024/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/innovation-index-march-15-2024/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 88
+    images:
+      - url: "https://www.zdnet.com/a/fly/bundles/zdnetcore/images/logos/zdnet-logo-yellow.png"
+        width: 480
+        height: 480
+        isCached: true
   - title: "AI showdown: I put 3 chatbots to the test"
     excerpt: "Kim Komando puts three AI chatbots head-to-head to decide which is the best assistant for modern problems. Compare Google Gemini, ChatGPT, and Perplexity."
     publishedDateTime: 2024-03-12T19:30:00Z
@@ -58,21 +74,37 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "AI showdown: I put 3 chatbots to the test"
-    excerpt: "research the trail, tell someone where we were going, avoid the hottest part of the day and (of course) bring water and first aid. Bonus: It reminded me not to litter in nature. Final score: ChatGPT 2, Gemini 1, Perplexity 0 Listen, if AI can help us ..."
-    publishedDateTime: 2024-03-11T00:01:00Z
-    webUrl: "https://www.komando.com/kims-column/ai-chatbot-showdown-2/901917/"
-    ampWebUrl: "https://www.komando.com/kims-column/ai-chatbot-showdown-2/901917/?amp"
-    cdnAmpWebUrl: "https://www-komando-com.cdn.ampproject.org/c/s/www.komando.com/kims-column/ai-chatbot-showdown-2/901917/?amp"
+  - title: "Elon Musk says his AI startup xAI will open-source its Grok chatbot"
+    excerpt: "Musk sued ChatGPT-maker OpenAI and its CEO Sam Altman, saying they had abandoned the startup's original mission to develop artificial intelligence for the benefit of humanity and not for profit."
+    publishedDateTime: 2024-03-12T09:51:00Z
+    webUrl: "https://brandequity.economictimes.indiatimes.com/news/digital/elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot/108430382"
+    ampWebUrl: "https://brandequity.economictimes.indiatimes.com/amp/news/digital/elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot/108430382"
+    cdnAmpWebUrl: "https://brandequity-economictimes-indiatimes-com.cdn.ampproject.org/c/s/brandequity.economictimes.indiatimes.com/amp/news/digital/elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot/108430382"
     type: article
     provider:
-      name: Kim Komando
-      domain: komando.com
+      name: brandequity.economictimes.indiatimes
+      domain: indiatimes.com
     quality: 59
     images:
-      - url: "https://www.komando.com/wp-content/uploads/2024/03/kk-article-20240308-comparison-ai-chatbots-1200x675-1.jpg"
+      - url: "https://etimg.etb2bimg.com/thumb/msid-108430382,imgsize-527560,width-1200,height=765,overlay-etbrandequity/digital/elon-musk-says-his-ai-startup-xai-will-open-source-its-grok-chatbot.jpg"
         width: 1200
-        height: 675
+        height: 765
+        isCached: true
+  - title: "Eating Disorders, Chatbot Therapy, and the Uncanny Valley"
+    excerpt: "Chatbots are computer programs that use artificial intelligence to \"interact\" with humans. Source: Alexandra Koch/Pixabay The human-like conversational abilities of chatbots position them to be useful and affordable agents in mental health therapy ..."
+    publishedDateTime: 2024-03-12T20:06:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/the-neuroscience-of-eating-disorders/202402/eating-disorders-chatbot-therapy-and-the-uncanny"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-neuroscience-of-eating-disorders/202402/eating-disorders-chatbot-therapy-and-the-uncanny?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-neuroscience-of-eating-disorders/202402/eating-disorders-chatbot-therapy-and-the-uncanny?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 59
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-03/possessed-photography-YKW0JjP7rlU-unsplash.jpg?itok=S5bDpSKX"
+        width: 1528
+        height: 800
         isCached: true
   - title: "Musk says AI start up will open-source chatbot Grok"
     excerpt: "Proactive Investors - Elon Musk’s xAI, his artificial intelligence firm, is set to open-source ‘Grok’, a chatbot aimed at rivalling OpenAI’s ChatGPT. Grok was released by xAI last year, boasting ‘real-time’ information and holding views which argued against the ‘politically correct’ approach."
@@ -106,6 +138,17 @@ related:
         width: 1200
         height: 748
         isCached: true
+  - title: "Eating Disorders, Chatbot Therapy, and the Uncanny Valley"
+    excerpt: "Chatbots are computer programs that use artificial intelligence to \"interact\" with humans. Source: Alexandra Koch/Pixabay The human-like conversational abilities of chatbots position them to be useful and affordable agents in mental health therapy ..."
+    publishedDateTime: 2024-03-12T00:00:00Z
+    webUrl: "https://www.psychologytoday.com/intl/blog/the-neuroscience-of-eating-disorders/202402/eating-disorders-chatbot-therapy-and-the-uncanny"
+    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-neuroscience-of-eating-disorders/202402/eating-disorders-chatbot-therapy-and-the-uncanny?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-neuroscience-of-eating-disorders/202402/eating-disorders-chatbot-therapy-and-the-uncanny?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 39
   - title: "HNW clients demand better tech but do not want AI chatbots"
     excerpt: "High net worth clients want better technology from their advisers and wealth managers but are not so interested in AI chatbots, a report has found."
     publishedDateTime: 2024-03-12T11:28:00Z
@@ -119,6 +162,20 @@ related:
       - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Ffta-ez-prod%2Fez%2Fimages%2F6%2F1%2F0%2F7%2F7627016-5-eng-GB%2Fpexels-tim-samuel-6697306.jpg%3Fv1?source=ftadviser"
         width: 5896
         height: 3931
+        isCached: true
+  - title: "Chatbot AI makes racist judgements on the basis of dialect"
+    excerpt: "an AI researcher focusing on ethics at Hugging Face, a New York City-based company that aims to expand access to AI. Efforts to tackle racism after the model has been trained, rather than before, “make it harder to identify models that are going to ..."
+    publishedDateTime: 2024-03-13T00:00:00Z
+    webUrl: "https://www.nature.com/articles/d41586-024-00779-1"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 39
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-024-00779-1/d41586-024-00779-1_26846306.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "How AI Chatbots Can Help You Finally Learn a New Language"
     excerpt: "Language learning has undergone a revolution over the last few decades. Gone are the days of learn-in-your-car cassettes or phonetic phrasebooks. Apps like iTalki or Verbling that pair users with inexpensive contract tutors have made it possible to learn an entire language from your phone or computer for very little money."

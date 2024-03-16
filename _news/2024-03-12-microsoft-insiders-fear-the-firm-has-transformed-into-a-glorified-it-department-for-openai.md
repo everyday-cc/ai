@@ -55,6 +55,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Forget OpenAI, Here's the New AI Start-Up Set to Boost Microsoft Stock"
+    excerpt: "New artificial intelligence features helped attract customers to its Azure cloud service, as they built out their own AI services. And Microsoft reported that 6 percentage points of Azure's growth rate in the latest quarter was attributable to AI - double ..."
+    publishedDateTime: 2024-03-15T21:46:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/indices/IUXX/pressreleases/24827130/forget-openai-heres-the-new-ai-start-up-set-to-boost-microsoft-stock/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 54
+    images:
+      - url: "https://barchart-news-media-prod.aws.barchart.com/EXCLSV/6a04dd8e1fb4ca7db90833b7c1257f9c/ehccjebuc5ktw29j.png"
+        width: 1875
+        height: 792
+        isCached: true
   - title: "Microsoft's complicated partnership with OpenAI concerns insiders claiming it's become \"a glorified IT department for the hot startup\""
     excerpt: "Will Microsoft and OpenAI's multi-billion dollar partnership be beneficial in the long term? Insiders certainly don't think so, \"but it's a good business strategy.\""
     publishedDateTime: 2024-03-13T20:05:00Z

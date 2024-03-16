@@ -2,6 +2,100 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2024-03-12-empowering-the-genai-revolution-gaurav-arora-aws.md",
+      "title": "Empowering the GenAI revolution: Gaurav Arora, AWS",
+      "excerpt": "Gaurav Arora spoke to Dataquest about how AWS is guiding Indian startups towards a future defined by innovation, collaboration, and transformative growth within the GenAI revolution",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/dqdeeptech/empowering-the-genai-revolution-gaurav-arora-aws-4327505",
+      "originalUrl": "https://www.dqindia.com/dqdeeptech/empowering-the-genai-revolution-gaurav-arora-aws-4327505",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.thepublive.com/fit-in/1200x675/dq/media/media_files/uuwNTexWvK99uOYOygO4.jpg",
+          "width": 1200,
+          "height": 565,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/dqdeeptech/empowering-the-genai-revolution-gaurav-arora-aws-4327505",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/dqdeeptech/empowering-the-genai-revolution-gaurav-arora-aws-4327505",
+      "publishedDateTime": "2024-03-12T09:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-how-ai-has-already-changed-coding-forever.md",
+      "title": "How AI has already changed coding forever",
+      "excerpt": "AI coding tools such as Amazon CodeWhisperer and GitHub Copilot boost the productivity of pro and novice developers alike. They’re only the beginning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3714361/how-ai-has-already-changed-coding-forever.html",
+      "originalUrl": "https://www.infoworld.com/article/3714361/how-ai-has-already-changed-coding-forever.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2014/03/166160844-100249187-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3714361/how-ai-has-already-changed-coding-forever.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3714361/how-ai-has-already-changed-coding-forever.amp.html",
+      "publishedDateTime": "2024-03-12T09:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-12-make-the-most-of-gpus-for-machine-learning-applications.md",
       "title": "Make the most of GPUs for machine learning applications",
       "excerpt": "There are also examples of AI that are appropriate for CPUs, such as telemetry and network routing, object recognition in CCTV cameras, fault detection in manufacturing, and object detection in CT and MRI scans. While the above CPU use cases continue to ...",
@@ -167,7 +261,7 @@
       "originalUrl": "https://timesofindia.indiatimes.com/business/india-business/best-ai-cryptos/articleshow/108424368.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -450,7 +544,7 @@
       "originalUrl": "https://www.wsbtv.com/news/report-highlights-civil-liberties-concerns-with-facial-recognition-technology/OETF3NAPQRCY5H4FGMYXI3DWMM/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -651,7 +745,7 @@
       "originalUrl": "https://www.businessinsider.com/microsoft-insiders-worry-company-has-become-just-it-for-openai-2024-3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -954,7 +1048,7 @@
       "originalUrl": "https://venturebeat.com/games/ug-labs-raises-7m-to-infuse-conversational-ai-into-games-for-kids/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1141,111 +1235,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-state-dept-backed-report-provides-action-plan-to-avoid-catastrophic-ai-risks.md",
-      "title": "State Dept-backed report provides action plan to avoid catastrophic AI risks",
-      "excerpt": "While providing technical details on the risks of AI, the action plan also introduces policy proposals that can help the U.S. and its allies mitigate these risks.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/action-plan-long-in-the-making-provides-policy-guidelines-to-avoid-catastrophic-ai-risks/",
-      "originalUrl": "https://venturebeat.com/ai/action-plan-long-in-the-making-provides-policy-guidelines-to-avoid-catastrophic-ai-risks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/04/VB_security-breach-padlock_3_1200x800.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-11T18:53:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Meta AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-12-us-carefully-monitors-chip-exports-to-china-deepens-investments-in-philippines.md",
-      "title": "US carefully monitors chip exports to China, deepens investments in Philippines",
-      "excerpt": "U.S. Commerce Secretary Gina Raimondo led a U.S. Presidential Trade and Investment Mission to boost US contributions to the Philippines and strengthen bilateral economic ties.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/us-carefully-monitors-chip-exports-china-deepens-investments-philippines",
-      "originalUrl": "https://www.foxnews.com/us/us-carefully-monitors-chip-exports-china-deepens-investments-philippines",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/68e54425-0043-4978-b3a2-841c8da7ca53/9137d106-7efe-4bb1-955a-299a8bc1c987/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/us-carefully-monitors-chip-exports-china-deepens-investments-philippines.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/us-carefully-monitors-chip-exports-china-deepens-investments-philippines.amp",
-      "publishedDateTime": "2024-03-11T17:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

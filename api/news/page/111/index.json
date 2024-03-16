@@ -2,6 +2,336 @@
   "page": 111,
   "value": [
     {
+      "path": "_news/2023-12-13-ezviz-now-offers-consumers-a-full-smart-home-solution-with-the-introduction-of-its-affordable-yet-feature-packed-re4-and-re4-plus-smart-robot.md",
+      "title": "Ezviz Now Offers Consumers a Full Smart Home Solution With the Introduction of Its Affordable Yet Feature Packed RE4 and RE4 Plus Smart Robot Vacuums",
+      "excerpt": "EZVIZ, a global leader in smart home technology, known previously for its indoor and outdoor security cameras, is now set to offer consumers a fully comprehensive smart home solution.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=14531",
+      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=14531",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_14531_1702445923552312.png",
+          "width": 778,
+          "height": 835,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-13T05:39:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Azorobotics",
+        "domain": "azorobotics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-13-artificial-intelligence-summit-pm-modi-calls-for-global-framework-on-ethical-use-warns-against-misuse.md",
+      "title": "Artificial Intelligence Summit: PM Modi Calls For Global Framework On Ethical Use, Warns Against Misuse",
+      "excerpt": "Speaking at the Global Partnership on Artificial Intelligence Summit, PM Narendra Modi said India is firmly committed to responsible and ethical use of AI. He also also emphasised on the need for a global framework for ethical use of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.outlookindia.com/national/artificial-intelligence-summit-pm-modi-calls-for-global-framework-on-ethical-use-warns-against-misuse-news-336130",
+      "originalUrl": "https://www.outlookindia.com/national/artificial-intelligence-summit-pm-modi-calls-for-global-framework-on-ethical-use-warns-against-misuse-news-336130",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_1/IMAGE_1646301380.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.outlookindia.com/national/artificial-intelligence-summit-pm-modi-calls-for-global-framework-on-ethical-use-warns-against-misuse-news-336130/amp",
+      "cdnAmpWebUrl": "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/national/artificial-intelligence-summit-pm-modi-calls-for-global-framework-on-ethical-use-warns-against-misuse-news-336130/amp",
+      "publishedDateTime": "2023-12-13T05:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Outlookindia",
+        "domain": "outlookindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2023-12-13-patient-prism-unveils-revolutionary-ai-driven-healthcare-platform-with-new-website-launch.md",
+      "title": "Patient Prism Unveils Revolutionary AI-Driven Healthcare Platform with New Website Launch",
+      "excerpt": "A cutting-edge conversational intelligence tool that interprets patient communication with unprecedented depth, offering actionable insights for healthcare providers. Tailored KPIs: Our platform provides specific,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/patient-prism-unveils-revolutionary-ai-driven-healthcare-platform-with-new-website-launch-1032895318",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/patient-prism-unveils-revolutionary-ai-driven-healthcare-platform-with-new-website-launch-1032895318",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/mmstudio-images/gallery/featured/pr-patient-prism-unveil-1702401307.png",
+          "width": 600,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-13T04:49:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2023-12-13-gpai-should-help-frame-sustainable-ai-rules-pm.md",
+      "title": "GPAI should help frame sustainable AI rules: PM",
+      "excerpt": "The prime minister emphasized that a large part of the course of AI development will come through “human and democratic values”",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/ai/artificial-intelligence/gpai-should-help-frame-sustainable-ai-rules-pm-11702401229429.html",
+      "originalUrl": "https://www.livemint.com/ai/artificial-intelligence/gpai-should-help-frame-sustainable-ai-rules-pm-11702401229429.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.livemint.com/lm-img/img/2023/12/12/1600x900/PTI12-12-2023-000248B-0_1702401366273_1702401381608.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/ai/artificial-intelligence/gpai-should-help-frame-sustainable-ai-rules-pm/amp-11702401229429.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/ai/artificial-intelligence/gpai-should-help-frame-sustainable-ai-rules-pm/amp-11702401229429.html",
+      "publishedDateTime": "2023-12-13T04:48:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-13-hays-county-approves-ai-facial-recognition-technology-for-sheriffs-office.md",
+      "title": "Hays County approves AI facial recognition technology for sheriff’s office",
+      "excerpt": "HAYS COUNTY, Texas (KXAN) — A facial recognition software could come to the Hays County Sheriff’s Office in the future. County commissioners recently approved for the sheriff’s office to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kxan.com/news/local/hays/hays-county-approves-ai-facial-recognition-technology-for-sheriffs-office/",
+      "originalUrl": "https://www.kxan.com/news/local/hays/hays-county-approves-ai-facial-recognition-technology-for-sheriffs-office/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.kxan.com/wp-content/uploads/sites/40/2016/05/haysheriffs_37206290_ver1.0-1.jpg?w=1280",
+          "width": 1280,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.kxan.com/news/local/hays/hays-county-approves-ai-facial-recognition-technology-for-sheriffs-office/amp/",
+      "cdnAmpWebUrl": "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/news/local/hays/hays-county-approves-ai-facial-recognition-technology-for-sheriffs-office/amp/",
+      "publishedDateTime": "2023-12-13T03:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KXAN",
+        "domain": "kxan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-13-tesla-unveils-optimus-gen-2-its-next-generation-humanoid-robot.md",
+      "title": "Tesla unveils Optimus Gen 2: its next generation humanoid robot",
+      "excerpt": "Tesla has unveiled “Optimus Gen 2”, a new generation of its humanoid robot that should be able to take over repetitive tasks from humans. Optimus, also known as Tesla Bot, has not been taken seriously by many outside of the more hardcore Tesla fans,",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2023/12/12/tesla-unveils-optimus-gen-2-next-generation-humanoid-robot/?extended-comments=1",
+      "originalUrl": "https://electrek.co/2023/12/12/tesla-unveils-optimus-gen-2-next-generation-humanoid-robot/?extended-comments=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2023/12/Screenshot-2023-12-12-at-9.45.06-PM.jpg?quality=82&strip=all&w=639",
+          "width": 639,
+          "height": 1023,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-13T03:07:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2023-12-13-ai-generated-news-anchors-show-off-superhuman-abilities.md",
+      "title": "AI-generated news anchors show off superhuman abilities",
+      "excerpt": "There's a new global news network launching in 2024 which completely ditches humans for AI-generated newsreaders – and they're showing off some superhuman capabilities that make it very clear: the days of the human news presenter are numbered.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/home-entertainment/ai-generated-news-anchors/",
+      "originalUrl": "https://newatlas.com/home-entertainment/ai-generated-news-anchors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/e4d9007/2147483647/strip/true/crop/1060x707+0+17/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F1f%2F54%2F3377995f4ac19af24de6a4f90e95%2Fscreenshot-2023-12-13-at-1.33.59%20pm.png",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://newatlas.com/home-entertainment/ai-generated-news-anchors/?amp=true",
+      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/home-entertainment/ai-generated-news-anchors/?amp=true",
+      "publishedDateTime": "2023-12-13T02:47:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2023-12-13-artificial-intelligence-quantum-computing-and-space-are-3-tech-areas-to-watch-in-2024.md",
       "title": "Artificial Intelligence, Quantum Computing, and Space are 3 Tech areas to Watch in 2024",
       "excerpt": "There is much to explore! In this article, I focus on three evolving technology areas that are already impacting our future but are only at the early stages of true potential: artificial intelligence, quantum computing, and space systems. In addition to my ...",
@@ -817,338 +1147,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-13-cerebras-23s-most-succesful-ai-startup-sees-a-bright-future.md",
-      "title": "Cerebras, 23’s Most Succesful AI Startup, Sees A Bright Future",
-      "excerpt": "With revenue and customer commitments approaching $1B, Cerebras’ Wafer Scale Engine has generated more business than all the startup market players combined.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2023/12/12/cerebras-23s-most-succesful-ai-startup-sees-a-bright-future/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2023/12/12/cerebras-23s-most-succesful-ai-startup-sees-a-bright-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65788a85460167c3715713e4/0x0.jpg?format=jpg&crop=520,292,x0,y0,safe&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 898,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2023/12/12/cerebras-23s-most-succesful-ai-startup-sees-a-bright-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2023/12/12/cerebras-23s-most-succesful-ai-startup-sees-a-bright-future/amp/",
-      "publishedDateTime": "2023-12-12T16:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-snapchat-subscribers-can-now-create-and-send-ai-generated-images.md",
-      "title": "Snapchat+ subscribers can now create and send AI-generated images",
-      "excerpt": "Snapchat is releasing a few new AI powered features for Snapchat+ subscribers, the company announced on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/12/12/snapchat-subscribers-can-now-create-and-send-ai-generated-images/",
-      "originalUrl": "https://techcrunch.com/2023/12/12/snapchat-subscribers-can-now-create-and-send-ai-generated-images/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2023/12/snapchat-ai-image-generator.jpeg?resize=1200,718",
-          "width": 1200,
-          "height": 718,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/12/12/snapchat-subscribers-can-now-create-and-send-ai-generated-images/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/12/snapchat-subscribers-can-now-create-and-send-ai-generated-images/amp/",
-      "publishedDateTime": "2023-12-12T15:47:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-strategies-for-building-ai-tools-people-will-actually-use-at-work.md",
-      "title": "Strategies for building AI tools people will actually use at work",
-      "excerpt": "The application of generative AI in the workplace is a long game, and we’re in the very early stages. Most businesses looking for ways to leverage AI are",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/12/12/strategies-for-building-ai-tools-people-will-actually-use-at-work/",
-      "originalUrl": "https://techcrunch.com/2023/12/12/strategies-for-building-ai-tools-people-will-actually-use-at-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/10/tools.jpg?w=960",
-          "width": 960,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-12T15:35:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-laredo-wants-to-use-gen-ai-to-automate-dev-work.md",
-      "title": "Laredo wants to use gen AI to automate dev work",
-      "excerpt": "Laredo Labs has launched out of stealth with a platform that taps gen AI to automate certain software dev work.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2023/12/12/laredo-wants-to-use-gen-ai-to-automate-dev-work/",
-      "originalUrl": "https://techcrunch.com/2023/12/12/laredo-wants-to-use-gen-ai-to-automate-dev-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1399038212.jpg?resize=1200,700",
-          "width": 1200,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2023/12/12/laredo-wants-to-use-gen-ai-to-automate-dev-work/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2023/12/12/laredo-wants-to-use-gen-ai-to-automate-dev-work/amp/",
-      "publishedDateTime": "2023-12-12T15:27:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-dell-technologies-updates-storage-products-for-ai.md",
-      "title": "Dell Technologies updates storage products for AI",
-      "excerpt": "Dell's strategy is to bring AI to wherever data resides, rather than the other way around. It notes that nearly 87% of companies are embracing multicloud strategies. Dell says it is giving customers the freedom to process data wherever it makes the most sense for them--on-premises, at the edge, or in public clouds.",
-      "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/1257328/dell-technologies-updates-storage-products-for-ai.html",
-      "originalUrl": "https://www.networkworld.com/article/1257328/dell-technologies-updates-storage-products-for-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.networkworld.com/wp-content/uploads/2023/12/server_rack_backend_development_engineering_network_servers_data_center_data_centre_by_seventyfour_shutterstock_1921647347_royalty-free_digital-only_2400x1600-100890802-orig-3.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/1257328/dell-technologies-updates-storage-products-for-ai.html/amp/",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/1257328/dell-technologies-updates-storage-products-for-ai.html/amp/",
-      "publishedDateTime": "2023-12-12T15:16:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-atlanta-local-gov-leaders-tapped-for-ai-ethics-initiative.md",
-      "title": "Atlanta Local Gov Leaders Tapped for AI Ethics Initiative",
-      "excerpt": "Atlanta nonprofit, activist and educational leaders will be part of a new ethics council on artificial intelligence co-chaired by Sam Altman, CEO of OpenAI, the company behind ChatGPT.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/artificial-intelligence/atlanta-local-gov-leaders-tapped-for-ai-ethics-initiative",
-      "originalUrl": "https://www.govtech.com/artificial-intelligence/atlanta-local-gov-leaders-tapped-for-ai-ethics-initiative",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/7145fd7/2147483647/strip/true/crop/940x457+0+91/resize/1440x700!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.us-west-2.amazonaws.com%2F3a%2F22%2F6a1ba91c0cab40a7c7c963fa06a1%2Fshutterstock-584819980.jpg",
-          "width": 1440,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-12T15:05:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2023-12-12-5-ways-ai-changed-the-internet-in-2023.md",
-      "title": "5 ways AI changed the internet in 2023",
-      "excerpt": "OpenAI DALL-E 3, Google Bard and SGE image generator, Microsoft Copilot (formerly Bing Chat Image Creator), and Meta's Imagine are all examples of models that use generative AI to create images from text prompts. Even media platforms Shutterstock, Adobe, and Getty Images have gotten in the game with their own AI image generator tools.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/ways-ai-changed-the-internet-2023",
-      "originalUrl": "https://mashable.com/article/ways-ai-changed-the-internet-2023",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/03vL2Cl6Sc7AAwgoGb6nyEF/hero-image.fill.size_1200x675.v1702332338.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-12T15:01:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

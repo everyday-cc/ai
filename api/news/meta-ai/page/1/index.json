@@ -55,6 +55,60 @@
       ]
     },
     {
+      "path": "_news/2024-03-15-all-eyes-turn-to-nvidia-in-the-ai-era.md",
+      "title": "All Eyes Turn To Nvidia In The AI Era",
+      "excerpt": "All of this is a result of being able to take existing core competencies like their GPU expertise and successfully applying it to an adjacent, yet still emerging use case like artificial intelligence (AI). Much of Nvidia’s success can be attributed to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2024/03/15/all-eyes-turn-to-nvidia-in-the-ai-era/",
+      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2024/03/15/all-eyes-turn-to-nvidia-in-the-ai-era/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 563,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65f482c7031171729485067b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 662,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2024/03/15/all-eyes-turn-to-nvidia-in-the-ai-era/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2024/03/15/all-eyes-turn-to-nvidia-in-the-ai-era/amp/",
+      "publishedDateTime": "2024-03-15T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics",
+        "Meta AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-15-uk-and-germany-double-down-on-joint-ai-clean-energy-rd-efforts.md",
       "title": "UK And Germany Double Down On Joint AI, Clean Energy R&D Efforts",
       "excerpt": "The United Kingdom and Germany have turbocharged their collaboration in science, research and innovation with a new series of initiatives.",
@@ -63,7 +117,7 @@
       "originalUrl": "https://www.forbes.com/sites/federicoguerrini/2024/03/15/uk-and-germany-double-down-on-joint-ai-clean-energy-rd-efforts/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -115,7 +169,7 @@
       "originalUrl": "https://www.forbes.com/sites/johnwerner/2024/03/14/the-philosophy-of-new-ai-tech-with-stephen-wolfram/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -167,7 +221,7 @@
       "originalUrl": "https://diginomica.com/tackling-deforestation-and-forest-degradation-ai-and-remote-sensing",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -210,7 +264,7 @@
       "originalUrl": "https://phys.org/news/2024-03-ai-global-threats-wildlife.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -359,7 +413,7 @@
       "originalUrl": "https://venturebeat.com/games/ug-labs-raises-7m-to-infuse-conversational-ai-into-games-for-kids/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -453,6 +507,58 @@
         "Google AI",
         "AI",
         "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-elon-musk-gave-himself-no-choice-but-to-open-source-his-chatbot-grok.md",
+      "title": "Elon Musk Gave Himself No Choice but to Open Source His Chatbot Grok",
+      "excerpt": "Elon Musk sued OpenAI for keeping its technology secret. Today he promised to give away his own “truth-seeking” chatbot Grok for free.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/elon-musk-no-choice-open-chatbot-grok/",
+      "originalUrl": "https://www.wired.com/story/elon-musk-no-choice-open-chatbot-grok/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/65ef41a343088cbf6e525d33/191:100/w_1280,c_limit/Musk-Makes-Grok-Open-Source-Business-1695944855.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-11T18:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
       ]
     },
     {
@@ -1361,84 +1467,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-pup-launches-research-program-establishing-ethics-in-ai-use.md",
-      "title": "PUP launches research program establishing ethics in AI-use",
-      "excerpt": "Polytechnic University of the Philippines launched a research program which aims to develop ethical guidelines for artificial intelligence | PHOTO: Official facebook page of Polytechnic University ...",
-      "sourceUrl": null,
-      "webUrl": "https://technology.inquirer.net/132555/pup-on-launching-a-research-program-establishing-ethics-in-ai-use",
-      "originalUrl": "https://technology.inquirer.net/132555/pup-on-launching-a-research-program-establishing-ethics-in-ai-use",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T12:46:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Philippine Daily Inquirer",
-        "domain": "inquirer.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2024-02-29-meta-plans-launch-of-new-ai-language-model-llama-3-in-july-the-information-reports.md",
-      "title": "Meta plans launch of new AI language model Llama 3 in July, The Information reports",
-      "excerpt": "Meta Platforms is planning to release the newest version of its artificial-intelligence large language model Llama 3 in July which would give better responses to contentious questions posed by ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.channelnewsasia.com/business/meta-plans-launch-new-ai-language-model-llama-3-july-information-reports-4157251",
-      "originalUrl": "https://www.channelnewsasia.com/business/meta-plans-launch-new-ai-language-model-llama-3-july-information-reports-4157251",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://onecms-res.cloudinary.com/image/upload/s--WZfCcg4T--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2024-02-28t163112z_1_lynxnpek1r0mu_rtroptp_3_ukraine-crisis-russia-meta-platforms.jpg?itok=u2mbbX_y",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T12:31:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Channel NewsAsia Singapore",
-        "domain": "channelnewsasia.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

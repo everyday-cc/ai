@@ -39,6 +39,20 @@ related:
         width: 1140
         height: 798
         isCached: true
+  - title: "Obituaries PGe PG Store Archives Classifieds"
+    excerpt: "Penn State University Professor Matt Jordan recently started incorporating artificial intelligence into his Media Democracy class. Mr. Jordan,"
+    publishedDateTime: 2024-03-15T19:04:00Z
+    webUrl: "https://www.post-gazette.com/news/education/2024/03/15/pennsylvania-colleges-artificial-intelligence/stories/202402140111"
+    type: article
+    provider:
+      name: Pittsburgh Post-Gazette
+      domain: post-gazette.com
+    quality: 24
+    images:
+      - url: "https://9b16f79ca967fd0708d1-2713572fef44aa49ec323e813b06d2d9.ssl.cf2.rackcdn.com/1140x_a10-7_cTC/20240223JCaicolleges-52-6-1710344633.jpg"
+        width: 1140
+        height: 797
+        isCached: true
 
 secured: "Hr1HB9CFU0fnDwmEdr9MKwr8MXRpdj+6Ucvq0io10HJoJbZLeHtEAkJhumOu9UO9owxhxMwDPESgLyp0/pp0ZC07QSfXdj6llz2ITj/vVMnJkJ8yeHRgIp4r8KvcH162yMGCXT6l+CuK2nX/+BZHvNf86AvyCd1QokhefjwDtrf/luEhaQ3AVk61ITBxpWS87A/dDzpbFqcrOgMb/RRGt/vt9P7VwonMH6/oKSvUiuVS1zkY2PJL0sRNphxG3M5zOYDUYAa275LAB0rPqpiV40vOzkZ46yast380fvZExGBiRTFMYVixmzWRnTGSgtmzKx9Z7m65pMtWLzKjVmAXv6GckRXbq4VEPewWINji6J0=;j8D+yTCsdZy+WRea00faEw=="
 ---

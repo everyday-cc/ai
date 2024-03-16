@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/satya-nadella-google-default-winner-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/satya-nadella-google-default-winner-ai-race-microsoft-2024-3?amp"
 type: article
 quality: 84
-heat: 107
+heat: 104
 published: true
 
 provider:

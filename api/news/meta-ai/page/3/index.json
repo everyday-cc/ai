@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2024-02-22-googles-latest-ai-models-are-open-to-anyoneand-can-run-on-a-laptop.md",
+      "title": "Google’s Latest AI Models Are ‘Open’ to Anyone—and Can Run on a Laptop",
+      "excerpt": "Google's Gemma models were built and trained with the same technology used in Gemini, but the models are smaller and will be released under an open license.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2024/02/21/googles-latest-ai-models-are-open-to-anyone-and-can-run-on-a-laptop/",
+      "originalUrl": "https://singularityhub.com/2024/02/21/googles-latest-ai-models-are-open-to-anyone-and-can-run-on-a-laptop/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2024/02/gemma-header.width-1600.format-webp.jpeg",
+          "width": 1408,
+          "height": 792,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2024/02/21/googles-latest-ai-models-are-open-to-anyone-and-can-run-on-a-laptop/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2024/02/21/googles-latest-ai-models-are-open-to-anyone-and-can-run-on-a-laptop/?amp=1",
+      "publishedDateTime": "2024-02-21T23:25:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-22-cybercriminals-are-using-metas-llama-2-ai-according-to-crowdstrike.md",
+      "title": "Cybercriminals are using Meta's Llama 2 AI, according to CrowdStrike",
+      "excerpt": "Cybercrime outfits have taken fledgling steps to use generative AI to stage attacks, including Meta's Llama 2 large language model, according to cybersecurity firm CrowdStrike in its annual Global Threat Report, published Wednesday. The group Scattered ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/cybercriminals-are-using-metas-llama-2-ai-according-to-crowdstrike/",
+      "originalUrl": "https://www.zdnet.com/article/cybercriminals-are-using-metas-llama-2-ai-according-to-crowdstrike/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/fly/bundles/zdnetcore/images/logos/zdnet-logo-yellow.png",
+          "width": 480,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/cybercriminals-are-using-metas-llama-2-ai-according-to-crowdstrike/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/cybercriminals-are-using-metas-llama-2-ai-according-to-crowdstrike/",
+      "publishedDateTime": "2024-02-21T22:18:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-02-22-google-goes-open-ai-with-gemma-a-free-open-weights-chatbot-family.md",
       "title": "Google goes “open AI” with Gemma, a free, open-weights chatbot family",
       "excerpt": "Developed by Google DeepMind and other Google AI teams, Gemma pulls from techniques learned during the development of Gemini, which is the family name for Google's most capable (public-facing) commercial LLMs, including the ones that power its Gemini AI assistant. Google says the name comes from the Latin gemma, which means \"precious stone.\"",
@@ -1401,92 +1496,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-does-facebook-instagram-have-measures-against-ai-misuse-what-to-know-in-tennessee.md",
-      "title": "Does Facebook, Instagram have measures against AI misuse? What to Know in Tennessee",
-      "excerpt": "Last Tuesday, the social technology company announced it would begin labeling AI-generated images on Facebook, Instagram and Threads. Currently, if an image is generated using Meta's AI image generator, a watermark appears on the image signaling it has ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cincinnati.com/story/money/tech/2024/02/12/does-facebook-have-measures-against-ai-misuse-what-to-know-in-tn/72508136007/",
-      "originalUrl": "https://www.cincinnati.com/story/money/tech/2024/02/12/does-facebook-have-measures-against-ai-misuse-what-to-know-in-tn/72508136007/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-12T13:06:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Cincinnati Enquirer",
-        "domain": "cincinnati.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-02-12-the-role-of-humans-and-ai-in-social-medias-battle-against-misinformation.md",
-      "title": "The Role Of Humans And AI In Social Media's Battle Against Misinformation",
-      "excerpt": "With artificial intelligence increasingly helping to proliferate false claims, wide access to accurate information is more difficult.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/the-role-of-humans-and-ai-in-social-medias-battle-against-misinformation/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/the-role-of-humans-and-ai-in-social-medias-battle-against-misinformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/655225b46f7ef811892e44e8/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1351,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/12/the-role-of-humans-and-ai-in-social-medias-battle-against-misinformation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/12/the-role-of-humans-and-ai-in-social-medias-battle-against-misinformation/amp/",
-      "publishedDateTime": "2024-02-12T11:45:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

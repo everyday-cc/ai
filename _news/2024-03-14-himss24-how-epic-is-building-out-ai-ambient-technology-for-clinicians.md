@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence's impact on healthcare on display at HIMSS24"
+    excerpt: "Improving the Patient Financial Experience Throughout the Patient Journey While many healthcare providers believe that improving the patient financial experience is a critical step for their organization, few have done so successfully. Read this brief to ..."
+    publishedDateTime: 2024-03-15T19:55:00Z
+    webUrl: "https://www.healthcarefinancenews.com/video/artificial-intelligences-impact-healthcare-display-himss24"
+    type: article
+    provider:
+      name: Healthcare Finance News
+      domain: healthcarefinancenews.com
+    quality: 34
   - title: "HIMSS24: How AI Will Help Healthcare Take ‘Another Quantum Leap Forward’"
     excerpt: "This year’s conference theme is “Creating Tomorrow’s Health.” A keynote session sets the stage on how artificial intelligence will play a key role."
     publishedDateTime: 2024-03-12T19:04:00Z
@@ -34,6 +43,15 @@ related:
       name: HealthTech
       domain: healthtechmagazine.net
     quality: 33
+  - title: "As HIMSS24 Ends, Talk Shifts to AI Accountability"
+    excerpt: "AI adoption is fast outpacing governance, and with memories (or nightmares) of EMR adoption and the Change Healthcare outage on everyone’s mind, the pressure is on to set up guardrails With HIMSS24 in the rear-view mirror, one of the biggest takeaways ..."
+    publishedDateTime: 2024-03-15T17:32:00Z
+    webUrl: "https://www.healthleadersmedia.com/technology/himss24-ends-talk-shifts-ai-accountability"
+    type: article
+    provider:
+      name: HealthLeaders Media
+      domain: healthleadersmedia.com
+    quality: 19
 
 secured: "Gp68BkWbP9fggk+sKGgjhzZ+8Pih9YZJBfsDuMlIrbdHhqOPhvv64899gtYsmC1oEmxbY9vziIJdnj8pcDjJad27C65qmEWaetWk/hiN5pz9iOPZiLDiTdhztgs5Q4X9WBrc9WXipapTO8mVCAYHauEMS8dJLB0svI+RePjKvwnc5/NfADWARztql7rpR98wIdQXidRiXVMAVFY5tHkOTPdBEG/URikEhcLisfMJGi3gU2d5hl1lp5I/D+c55JbrCXwuUBIbHqTujoVGHttQ7/0764PeBmFJzq0lZGrCx/QFmzngETABda3R8mU2FBtU4D0fv65TxGk3wk7ehQHB0ODHaCBcRdXy3Zb91Kz8ro0eVpyVBRuR1cE4eaZZNIK3rAROsoBFfsJ9s6eX29ljAasIBxucmg5JxyXnD6nNVKycR+NJiUetrv+vgmrJKOm4yTkrgBQU0gWP52HJKwZmo8e65UT6SykoXyyqilkHFbzppRTFYviZRzEj7DxzfpKHPS0kTqGO60WLSC5e/7557w==;z8A1HmXBbFWKIaoeulp0QQ=="
 ---

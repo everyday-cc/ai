@@ -201,6 +201,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Working on guidelines for how doctors, researchers use AI to improve healthcare"
+    excerpt: "From patient care to drug development, artificial intelligence has huge opportunity to upend healthcare. From patient care to drug development, artificial intelligence has huge opportunity to upend healthcare."
+    publishedDateTime: 2024-03-15T22:31:00Z
+    webUrl: "https://www.wral.com/video/working-on-guidelines-for-how-doctors-researchers-use-ai-to-improve-healthcare/21331862/"
+    type: article
+    provider:
+      name: WRAL
+      domain: wral.com
+    quality: 50
+    images:
+      - url: "https://wwwcache.wral.com/asset/lifestyles/healthteam/2024/03/15/21331863/3247445-aihealth-DMID1-62a4b0bcl-640x480.jpg"
+        width: 640
+        height: 480
+        isCached: true
   - title: "The impact of AI on law practice and legal professions"
     excerpt: "In the evolving landscape of the legal profession, artificial intelligence (AI) emerges as a transformative force, reshaping how legal practices operate"
     publishedDateTime: 2024-03-13T10:54:00Z

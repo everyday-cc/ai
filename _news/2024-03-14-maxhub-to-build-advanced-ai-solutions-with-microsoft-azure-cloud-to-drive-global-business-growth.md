@@ -1,28 +1,22 @@
 ---
 category: news
 title: "MAXHUB to Build Advanced AI Solutions with Microsoft Azure Cloud to Drive Global Business Growth"
-excerpt: "MAXHUB, a leading provider of collaborative communication and interactive display solutions, proudly announces it will integrate Microsoft Azure technology. MAXHUB will harness the power of Azure to significantly amplify its international business growth and further AI technology advancements."
-publishedDateTime: 2024-03-14T08:00:00Z
-originalUrl: "https://www.asiaone.com/business/maxhub-build-advanced-ai-solutions-microsoft-azure-cloud-drive-global-business-growth"
-webUrl: "https://www.asiaone.com/business/maxhub-build-advanced-ai-solutions-microsoft-azure-cloud-drive-global-business-growth"
+excerpt: "GUANGZHOU, China, March 14, 2024 /PRNewswire/ -- MAXHUB, a leading provider of collaborative communication and interactive display solutions, proudly announces it will integrate Microsoft Azure technology. MAXHUB will harness the power of Azure to significantly amplify its international business growth and further AI technology advancements."
+publishedDateTime: 2024-03-14T09:25:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-maxhub-build-advanced-ai-solutions-with-microsoft-azure-/2024/03/14/9978125.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-maxhub-build-advanced-ai-solutions-with-microsoft-azure-/2024/03/14/9978125.htm"
 type: article
-quality: 56
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Mar2024/Microsoft_CVTE__MAXHUB_s_parent_company__sign_agreement.jpg?h=f3613312&itok=ZtY8UFYK"
-    width: 600
-    height: 316
-    isCached: true
 
 related:
   - title: "Hexaware unveils tensai GPT, a secure AI web app using Microsoft Azure Open AI Service to advance internal innovation"
@@ -76,6 +70,6 @@ related:
       domain: finanznachrichten.de
     quality: 12
 
-secured: "qeuBNAZIB/wm4g4pU4C+4LZZzw1vwvSXs328AR4/9I6EvE5zA+dTA6COg1V9CaXfhAqa3fA6gn2e1MiD/4KJTJrHzOHkf3ngPc11qviCA/9cwcMcj8DxQm++//ierN7FmN8kbymDTDdU68cmxGL0/xY8LNjPXwc6tf897ppPD3Eb0vwDKCG/5TeOREKgrbDX7OXaP7u+WQBIM5mSwJj+7BtI+CvFWaWLgYObsp5V1LIvk7HOyeyPIrXo3QEfKOS19LFmVaqF++ZqIhDnG/EimgF6LIY8oCgsiR2gPo4Ax8Dw+nLIqU8oVIlZv9RzW/xEK17dVjGFoOwLp431Hc1EwbgL/QLaaMpCi1pTe5zBMSuaRzj+pdx2yJ101Qgo7wvvELAjp1NPg61KQOPJQ3ENIEneZMov+Vaq+fttLal8nmjsMs80h8ar2MkhYaUbVACn9RNqHk2jhUctZKplFWYhEOvLeD/4v2H7Nsy2+5gVeMGYnZ+crAUqQ9YGhmXAOjDxpRRoN0AM62V0FSu9dbMqnw==;bRkJVahizmG7PPjPAdkEwQ=="
+secured: "PFHUISidG3eNZ0YZjS8Eubl3j2oYW3KZj4xb7ojUn7EDe5GOWTPhWZ998GIKqrGvPH7JTz9VGxn18nb5MsiHSf8o/5nqj55sRvCIvzN6YiYZhyaUSKZXy0eZ2DOtc4Qic0tYEEQwI/mDduI1omzeCwWOfVhFlmguVJ7fA3wgNJ+JSq4DSczawOlTyCn4YK+2wg4mvODz8FsD+R9aoideSiTcFvdwN61VmpF4sybEO6CMA3KvXzA3ULwDPqA+ZIwgTvRtslQKbT3X+rfV+Z+q0UcdGTcAmAfprkPBS9sT4uHM7An5O8sULbcvIM2BaH9KQEUJRijb+L+pmEhBA8ZvD5N9QZlHDzEW/HhRPsOPKAtQYOrNiPiq3DJKRUPZbW8+LjJs7Q1Dln6zq7K6e3j2LqJ9KCYUOIgwKwHdj2x584a9NU7yoK+Rl30lql9BgPQ3h8uBZyTnypHVC9FQDcsj8EsrVGa7xU9OHPzJbUmx2Gk3ubn+WxKPsdOFD8eYAa6z9ODvBcegUC4iLw8CTxCDdg==;N7Ma9TUJ/El8V7ssqnlBeg=="
 ---
 

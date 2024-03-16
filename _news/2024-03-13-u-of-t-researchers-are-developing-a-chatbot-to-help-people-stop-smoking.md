@@ -25,42 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "Eating Disorders, Chatbot Therapy, and the Uncanny Valley"
-    excerpt: "Chatbots are computer programs that use artificial intelligence to \"interact\" with humans. Source: Alexandra Koch/Pixabay The human-like conversational abilities of chatbots position them to be useful and affordable agents in mental health therapy ..."
-    publishedDateTime: 2024-03-12T20:06:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/the-neuroscience-of-eating-disorders/202402/eating-disorders-chatbot-therapy-and-the-uncanny"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-neuroscience-of-eating-disorders/202402/eating-disorders-chatbot-therapy-and-the-uncanny?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-neuroscience-of-eating-disorders/202402/eating-disorders-chatbot-therapy-and-the-uncanny?amp"
+  - title: "Elon Musk Gave Himself No Choice but to Open Source His Chatbot Grok"
+    excerpt: "Elon Musk sued OpenAI for keeping its technology secret. Today he promised to give away his own “truth-seeking” chatbot Grok for free."
+    publishedDateTime: 2024-03-11T18:16:00Z
+    webUrl: "https://www.wired.com/story/elon-musk-no-choice-open-chatbot-grok/"
     type: article
     provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 59
+      name: Wired
+      domain: wired.com
+    quality: 54
     images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2024-03/possessed-photography-YKW0JjP7rlU-unsplash.jpg?itok=S5bDpSKX"
-        width: 1528
-        height: 800
+      - url: "https://media.wired.com/photos/65ef41a343088cbf6e525d33/191:100/w_1280,c_limit/Musk-Makes-Grok-Open-Source-Business-1695944855.jpg"
+        width: 1280
+        height: 670
         isCached: true
-  - title: "Microsoft says new AI security chatbot pricing model lets customers ‘buy what they need'"
-    excerpt: "Microsoft charges for use of its Azure OpenAI Service based on the number of tokens a ... Other security software companies dabbling in generative AI include CrowdStrike, which has a chatbot called Charlotte that costs $20 a year per device."
-    publishedDateTime: 2024-03-13T00:00:00Z
-    webUrl: "https://www.nbclosangeles.com/news/national-international/microsoft-says-new-ai-security-chatbot-pricing-model-lets-customers-buy-what-they-need/3362433/"
+  - title: "Elon Musk's Open-Source 'Grok' Takes on ChatGPT"
+    excerpt: "Elon Musk announced that his AI startup xAI will release its ChatGPT competitor 'Grok' as open-source. This move comes shortly after Musk sued OpenAI for veering away from its nonprofit goals."
+    publishedDateTime: 2024-03-11T18:17:00Z
+    webUrl: "https://www.inc.com/reuters/elon-musks-open-source-grok-takes-on-chatgpt.html"
     type: article
     provider:
-      name: NBC Los Angeles
-      domain: nbclosangeles.com
-    quality: 42
-  - title: "Eating Disorders, Chatbot Therapy, and the Uncanny Valley"
-    excerpt: "Chatbots are computer programs that use artificial intelligence to \"interact\" with humans. Source: Alexandra Koch/Pixabay The human-like conversational abilities of chatbots position them to be useful and affordable agents in mental health therapy ..."
-    publishedDateTime: 2024-03-12T00:00:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/the-neuroscience-of-eating-disorders/202402/eating-disorders-chatbot-therapy-and-the-uncanny"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-neuroscience-of-eating-disorders/202402/eating-disorders-chatbot-therapy-and-the-uncanny?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-neuroscience-of-eating-disorders/202402/eating-disorders-chatbot-therapy-and-the-uncanny?amp"
+      name: Inc
+      domain: inc.com
+    quality: 19
+  - title: "Elon Musk makes Grok AI open source amid ongoing OpenAI lawsuit"
+    excerpt: "In a move likely fueled by his lawsuit against OpenAI, Elon Musk is open-sourcing his own AI chatbot, Grok, which rivals ChatGPT. Grok boasts real-time information access and tackles tough topics, unlike many AI systems."
+    publishedDateTime: 2024-03-11T11:09:00Z
+    webUrl: "https://cointelegraph.com/news/elon-musk-open-source-grok-ai"
     type: article
     provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 39
+      name: CoinTelegraph
+      domain: cointelegraph.com
+    quality: 17
 
 secured: "dV2zvso8DmwqIspfOVl7yaImXX7w+bMfn0gIXsjoD5L5ow6EbhqX4Si/I6mRX0HaSNbqi5KzNvWiGjAv7NHbRvEcBc3wsDC394xAzCRT5FituM1X7PSZHMWvT+oRHHCwds091MpRQ/RS7G5Q0JBYTPP8LTBQ0ZLN6nz6Ywv0wdpj0GET51hJIeuQEyTC+uBGAIydjfjyKcQ73pSjpLdLNMsOY+vSrpfwKXUz2qvN2eniSWwr5cwnMkldUye9B5wXKijJc9C+k6TWMQgMBupSLIkhhM8/1ikcchbIA5dyQUtFMzQlZSyRSovdGZoOs6UxVtOpby616PuAubX8F7WkkFGCS6qFxdbRoVNIveVjZWQ=;zTXX2efuV3JguVhVbCT7/Q=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.ktvu.com/news/california-waymo-bill-aims-to-give-citie
 webUrl: "https://www.ktvu.com/news/california-waymo-bill-aims-to-give-cities-more-authority-over-self-driving-car-companies"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "California county is testing AI’s ability to prevent homelessness"
-    excerpt: "Machine learning predicts who will end up on the street, it’s an experiment, but so far nearly 90% in this county have kept their housing."
-    publishedDateTime: 2024-03-10T22:55:00Z
-    webUrl: "https://smdp.com/2024/03/09/california-county-is-testing-ai-to-prevent-homelessness/"
-    type: article
-    provider:
-      name: Santa Monica Daily Press
-      domain: smdp.com
-    quality: 39
-    images:
-      - url: "https://calmatters.network/wp-content/uploads/2024/03/AI-Homelessness-Help-JAH_CM_09-1.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "XzLQ/eKBgDFeVnfvMYBLN5IWrFeaU5/yKXFYaeD9PQJR7L2hSluRLYcc5hHJOezTfCYZ00HoNmLntsRl2aWYa9Qz57USh0Mel5JkV04MK5LTRAS6Jos1fOfXyXY3/NguRf98YYGzZzadxSpNiKi0x4ISNh76nE9fMfvuBXDT9WOEuqDZkZ3FEaw7HoVGCV3WNd8VXEWCATDe5k8HVhF0VWBedSV6VIUlZ5rMEQs0ax3DrihNjIhZB8evblEZjHsGy0WK5hLTtGY3v4gfKgBb7xPhSRgjgxST2XDhemJJl+AU+brlzcxJgHMoccTWCN16Q0cI7nkhysd4cd+iNXk9reDNQhmSV/bT1CHlDZkbwf/0Y81ZqXu1SVux3N3yDhyKeNtd4+ywXA6fhUsNnkn1mP/Br76Aqn+nP0zICeugc55PAE7MarRUSGyClK65oufhgtJiMjNOV7IpDySUIR9cIysxMAr+kKPQF6bgNXtvcHqRfgoLYA2+YcfsZbwuX6puXrQLtznbuXzoIIrXGHKMtQ==;aSlU68xOJON7byXKxA+TJw=="
 ---

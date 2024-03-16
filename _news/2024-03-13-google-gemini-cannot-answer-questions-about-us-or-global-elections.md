@@ -146,9 +146,9 @@ related:
         height: 900
         isCached: true
   - title: "Google’s Gemini AI now refuses to answer election questions"
-    excerpt: "Google had planned to do this back when the Gemini chatbot was still called \"Bard.\" In December, the company said, \"Beginning early next year, in preparation for the 2024 elections and out of an abundance of caution on such an important topic, we’ll ..."
+    excerpt: "Like many of us, Google Gemini is tired of politics. Reuters reports that Google has restricted the chatbot from answering questions about the upcoming US election, and instead, it will direct users to Google Search."
     publishedDateTime: 2024-03-13T17:40:00Z
-    webUrl: "https://arstechnica.com/gadgets/2024/03/no-politics-google-disables-election-related-questions-for-gemini/?n=@"
+    webUrl: "https://arstechnica.com/gadgets/2024/03/no-politics-google-disables-election-related-questions-for-gemini/"
     type: article
     provider:
       name: Ars Technica
@@ -318,6 +318,6 @@ related:
       domain: cybernews.com
     quality: 19
 
-secured: "RgPl7m2glGXwTubTgYIxkQoN3bqvNZoGHngnbqbiW7ddGAOS6tC71P93sAA3CGom8mKaYWTuiYdJFsEjifQx0q2lyis17YSrBNfilM5zOaPCbJD+AnP/GnhTeWnmRo1oRRNFjWjOP8llacq0YMpvYH+GdlTXV+5qNdwDu2+/L2mW+NGdqsVmyd5fkJwIroyxGAiciGoN1rEtHcph+x6XE4+E0PTb8p/cyio5XEa9O/2iWp8XYnhjGmtOES2KfvjO+k+amAF+5+TrWoJIPSThtIERVGfOD6qvagvZc2ZbUZ7GhBhFdjf8GnlhU/sf3I0DBIVZ5I4aaJJ4GH1G/azQsaZ7Lbp+2bltHul7ZO+mzb8=;bjEcOuc6W6EEVABiKxSZcw=="
+secured: "gPmxOy8jGoRTZuaI/xWhKTp14pfI6QYXzlbPvEgEPf4ZPbXQ5yBTQKfPmmPy913fqlxFCJBRwYdzLaIKOoxkytOFlzkOkgKpieqSo0Fr+xglwOXdgwlfZcB07wbccuWyAxIs2VMNYK1xKZ2Sus5Mz/lhDjouEnJf6KopNWcumqvW4AmsutdW+4/I8j1EKWJ7QzNcn4Kibj7/srXhe1TfoRWrl1kNRjplrs5NG57N2a88Q3RGzCkzba0lbQv4FiWJKdAzrHRZNJv94K6wXcGO4pp6T7alWHsHhB4S1O0kXAN/PLDBhIuHJW4FxYWHaCWWg5UioXTvY3M1c/kB2InzBdDEU8l0QRWdTIW89ccSrhHT7zcNW3lWMID3H1C4e0vV9gJerRJeBC9V2n0JhKvyrtQObzwyFiIbkFZ/AjNMvy7U9uwG3c1omKv3dtanBiD1oMmpEOj7AUAxI7XczvW+qGjVv2SMoDGte0k5v0RGupNjvvbI/ThoE5Nv4eZIBR9WAnEv+TfneW7s12iqt5TIag==;1Lla0Lix4rfLTugwSQXe5w=="
 ---
 

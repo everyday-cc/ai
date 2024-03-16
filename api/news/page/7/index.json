@@ -2,6 +2,163 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2024-03-12-state-dept-backed-report-provides-action-plan-to-avoid-catastrophic-ai-risks.md",
+      "title": "State Dept-backed report provides action plan to avoid catastrophic AI risks",
+      "excerpt": "While providing technical details on the risks of AI, the action plan also introduces policy proposals that can help the U.S. and its allies mitigate these risks.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/action-plan-long-in-the-making-provides-policy-guidelines-to-avoid-catastrophic-ai-risks/",
+      "originalUrl": "https://venturebeat.com/ai/action-plan-long-in-the-making-provides-policy-guidelines-to-avoid-catastrophic-ai-risks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2023/04/VB_security-breach-padlock_3_1200x800.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-11T18:53:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Meta AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-elon-musk-gave-himself-no-choice-but-to-open-source-his-chatbot-grok.md",
+      "title": "Elon Musk Gave Himself No Choice but to Open Source His Chatbot Grok",
+      "excerpt": "Elon Musk sued OpenAI for keeping its technology secret. Today he promised to give away his own “truth-seeking” chatbot Grok for free.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/elon-musk-no-choice-open-chatbot-grok/",
+      "originalUrl": "https://www.wired.com/story/elon-musk-no-choice-open-chatbot-grok/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/65ef41a343088cbf6e525d33/191:100/w_1280,c_limit/Musk-Makes-Grok-Open-Source-Business-1695944855.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-11T18:16:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-us-carefully-monitors-chip-exports-to-china-deepens-investments-in-philippines.md",
+      "title": "US carefully monitors chip exports to China, deepens investments in Philippines",
+      "excerpt": "U.S. Commerce Secretary Gina Raimondo led a U.S. Presidential Trade and Investment Mission to boost US contributions to the Philippines and strengthen bilateral economic ties.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/us-carefully-monitors-chip-exports-china-deepens-investments-philippines",
+      "originalUrl": "https://www.foxnews.com/us/us-carefully-monitors-chip-exports-china-deepens-investments-philippines",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/68e54425-0043-4978-b3a2-841c8da7ca53/9137d106-7efe-4bb1-955a-299a8bc1c987/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/us-carefully-monitors-chip-exports-china-deepens-investments-philippines.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/us-carefully-monitors-chip-exports-china-deepens-investments-philippines.amp",
+      "publishedDateTime": "2024-03-11T17:23:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-03-11-how-vistaprint-delivers-personalized-product-recommendations-with-amazon-personalize.md",
       "title": "How VistaPrint delivers personalized product recommendations with Amazon Personalize",
       "excerpt": "VistaPrint, a Cimpress business, is the design and marketing partner to millions of small businesses around the world. For more than two decades, VistaPrint has empowered small businesses to quickly and effectively create the marketing products – from promotional materials and signage to print advertising",
@@ -434,6 +591,58 @@
       ]
     },
     {
+      "path": "_news/2024-03-11-2024-is-the-year-of-ai-but-data-will-steal-the-show.md",
+      "title": "2024 Is The Year Of AI, But Data Will Steal The Show",
+      "excerpt": "Disparate datasets in fragmented systems will give way to platform-aggregated datasets architected for AI analytics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/11/2024-is-the-year-of-ai-but-data-will-steal-the-show/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/11/2024-is-the-year-of-ai-but-data-will-steal-the-show/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62601f40cff8e83e2777648b/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 625,
+          "height": 416,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/03/11/2024-is-the-year-of-ai-but-data-will-steal-the-show/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/03/11/2024-is-the-year-of-ai-but-data-will-steal-the-show/amp/",
+      "publishedDateTime": "2024-03-11T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2024-03-11-healthcare-pros-show-interest-in-apples-vision-pro-survey.md",
       "title": "Healthcare pros show interest in Apple's Vision Pro — survey",
       "excerpt": "Up to 75% of US healthcare professionals are open to exploring the use of Vision Pro devices at work, survey claims.",
@@ -670,7 +879,7 @@
       "originalUrl": "https://www.computerworld.com/article/3713041/aiaas-artificial-intelligence-as-a-service-buyers-guide.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -1010,180 +1219,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-10-which-artificial-intelligence-ai-stock-is-most-likely-to-deliver-a-5x-gain-by-2030-alphabet-amazon-microsoft-meta-or-nvidia.md",
-      "title": "Which Artificial Intelligence (AI) Stock Is Most Likely to Deliver a 5X Gain by 2030: Alphabet, Amazon, Microsoft, Meta, or Nvidia?",
-      "excerpt": "They share a common tailwind that's likely to blow hard for years to come -- artificial intelligence ... a massive growth driver with its Waymo self-driving car business. Cathie Wood's Ark ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/which-artificial-intelligence-ai-stock-is-most-likely-to-deliver-a-5x-gain-by-2030:",
-      "originalUrl": "https://www.nasdaq.com/articles/which-artificial-intelligence-ai-stock-is-most-likely-to-deliver-a-5x-gain-by-2030:",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-10T07:49:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-10-5-blue-chip-digital-age-collectible-bargains-the-world-missed.md",
-      "title": "5 blue-chip \"digital age\" collectible bargains the world missed",
-      "excerpt": "Everyone acknowledges the massive impact of the digital revolution upon every aspect of society, but auction prices for landmark digital memorabilia suggest we haven't got it all in perspective just yet.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/collectibles/5-blue-chip-digital-age-collectible-bargains-the-world-missed/",
-      "originalUrl": "https://newatlas.com/collectibles/5-blue-chip-digital-age-collectible-bargains-the-world-missed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/40efcc3/2147483647/strip/true/crop/2700x1418+0+191/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F6c%2F55%2F03e86bae4e8497ce6d4a928cdc7a%2Finterim-front.jpg&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-10T02:23:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2024-03-10-katie-britt-used-decades-old-example-of-rapes-in-mexico-to-attack-biden-border-policy.md",
-      "title": "Katie Britt used decades-old example of rapes in Mexico to attack Biden border policy",
-      "excerpt": "First-term Sen. Katie Britt of Alabama in the GOP response criticized current immigration policies, describing how she had met a woman at the U.S.-Mexico border who told of being raped thousands of times in a sex trafficking operation run by cartels, starting at age 12.",
-      "sourceUrl": null,
-      "webUrl": "https://tulsaworld.com/news/nation-world/government-politics/politics-elections-border-immigration-trafficking/article_61d4caa6-7555-53ce-becf-44ca4df48a48.html",
-      "originalUrl": "https://tulsaworld.com/news/nation-world/government-politics/politics-elections-border-immigration-trafficking/article_61d4caa6-7555-53ce-becf-44ca4df48a48.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/6/1d/61d4caa6-7555-53ce-becf-44ca4df48a48/65ed10c361ae4.preview.jpg?crop=1433%2C752%2C48%2C103&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-10T01:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tulsa World",
-        "domain": "tulsaworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-03-10-which-florida-airports-use-facial-recognition-technology.md",
-      "title": "Which Florida airports use facial recognition technology?",
-      "excerpt": "The next time you’re in a security line at the airport, you may find that instead of a Transportation Security Administration officer checking your ID, a camera and screen will use biometric ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfla.com/news/florida/which-florida-airports-use-facial-recognition-technology/",
-      "originalUrl": "https://www.wfla.com/news/florida/which-florida-airports-use-facial-recognition-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wfla.com/wp-content/uploads/sites/71/2024/03/GettyImages-1139860049.jpg?w=1280",
-          "width": 1280,
-          "height": 815,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.wfla.com/news/florida/which-florida-airports-use-facial-recognition-technology/amp/",
-      "cdnAmpWebUrl": "https://www-wfla-com.cdn.ampproject.org/c/s/www.wfla.com/news/florida/which-florida-airports-use-facial-recognition-technology/amp/",
-      "publishedDateTime": "2024-03-09T18:34:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFLA News Channel 8",
-        "domain": "wfla.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

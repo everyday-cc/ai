@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/at-venturebeats-ai-impact-tour-microsof
 webUrl: "https://venturebeat.com/ai/at-venturebeats-ai-impact-tour-microsoft-explores-the-risks-and-rewards-of-gen-ai/"
 type: article
 quality: 80
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
         width: 1000
         height: 515
         isCached: true
+  - title: "Howso partners with Microsoft to deliver explainable AI to the Azure Marketplace"
+    excerpt: "The partnership, announced last week, will bring transparent and scalable AI solutions to Microsoft's wide customer base. The collaboration is part of Microsoft's Pegasus Program, an invite-only group that focuses on technology solutions for startups."
+    publishedDateTime: 2024-03-15T18:26:00Z
+    webUrl: "https://wraltechwire.com/2024/03/15/howso-partners-with-microsoft-to-deliver-explainable-ai-to-the-azure-marketplace/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 44
   - title: "Microsoft scientist gets AI to play DOOM but then issued a warning"
     excerpt: "A Microsoft researcher managed to get OpenAI's GPT-4V large language model to 'successfully' play 1993's DOOM, but then issued a warning."
     publishedDateTime: 2024-03-12T12:45:00Z

@@ -94,6 +94,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 49
+  - title: "The European Parliament Adopts the AI Act"
+    excerpt: "The AI Act does not apply to AI specifically developed and put into service for the sole purpose of scientific research and development. The AI Act does not apply to any research, testing and development activity regarding AI before being placed on the ..."
+    publishedDateTime: 2024-03-15T00:00:00Z
+    webUrl: "https://www.jdsupra.com/legalnews/the-european-parliament-adopts-the-ai-8143595/"
+    type: article
+    provider:
+      name: JD Supra
+      domain: jdsupra.com
+    quality: 39
+    images:
+      - url: "https://jdsupra-static.s3.amazonaws.com/profile-images/og.15516_5958.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "What the fierce AI talent war in Europe means for IT professionals as well as IT companies like Google and others"
     excerpt: "A surge of artificial intelligence (AI) startups is intensifying competition for skilled workers in Europe, forcing established players like Google De."
     publishedDateTime: 2024-03-11T10:48:00Z
@@ -156,6 +170,6 @@ related:
       domain: medianama.com
     quality: 1
 
-secured: "mq+gXos32ekJUMAlbNB+U/JiM0L/1Exppt9Saw/cqCim97sY8bkVQe3Y2QAtC0mXBoQYbRAver59nXXvy6omF1yhexB5v+5VuX8A4CptKZMvvPFb2MbolefJO77olbyvQ2ZZz7/X3MoN7RUfvExJgPAjDHoxjv/UI2hpmr4pSOGWKZjQvGSebCpMaQxT7So90Y+4tV3v048OSj4QjKSv6dOjlKdbv26x9Pk1uL2WUydmhaF6KTknUsP2buqHadmVzryv0A9WO95XV8yOARgj2szAtslW07C3jApG/Ot602IKcuXbSp+vc2biApt8zsyJCJo3Xc4mPM4J6E8Vcc1iWwwbfhhk1zJvIWwqo/sTOBo=;R1kthEGOLjA7uQrwnB+wsw=="
+secured: "eyxMUq2//XLIygieKH2s5SVdUUKUOVCVlG4p+yKf5+vnprPRATgLRYsHJ6/oPxdNisQN/HWclznRAPajT7QY4Zm93l7XxwWyxAozgt4fltaAdqRqA40SDPrkCFgk2SIbCQbu+nG/epQbwqRt7dpgPWS0N7uHiIuALVxZDaAq4pxpZ1asHwZnXYqKFYOHmvwUzLXsK2SkRtfrwitjrwa/CRfJ9FFp5H5KcNmACMTQbAasyWNUn1zCagndl4CuxRedoeqQg1rZsTXRfGf8yHX6pkkzRoV99hiNxUW71htxEjL+FOnwzNAKoGnySLLt/rz9kcFowRI4aY7tTAHa65ZUJeIUPN75/xENkL4SYm/pNLI//B5lN2JGp0rNFR1EEhPY80daUzU0pe4Ak70GDd3kIcFHg9SfTj0UEnIiFWjO0bx3IAkYbIDq472Qa93VLxVbeK5426avMcVe0r+u++VFO/o6EcHf73Cqfou9v6S9jeXkorVEyQmvVV7IMu6E8ThKApNhESXndEDC9+AN8erofw==;ogrJPPodDESO/Jzf9/8imA=="
 ---
 

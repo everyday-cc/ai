@@ -43,6 +43,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "How Artificial Intelligence Could Start To Boost Crypto Crime: Chainalysis"
+    excerpt: "Artificial intelligence could breed a dangerous new category of crypto-based crime in the coming years, according to Chainalysis."
+    publishedDateTime: 2024-03-15T21:28:00Z
+    webUrl: "https://cryptonews.com/news/how-artificial-intelligence-ai-could-start-to-boost-crypto-crime-chainalysis.htm"
+    type: article
+    provider:
+      name: cryptonews
+      domain: cryptonews.com
+    quality: 50
+    images:
+      - url: "https://cimg.co/wp-content/uploads/2024/03/06162224/1709742143-1709742091951_processed.jpg"
+        width: 1200
+        height: 686
+        isCached: true
   - title: "Story Protocol Works With Crypto-AI Firm Ritual To Train and Track Models On-Chain"
     excerpt: "Story Protocol, a blockchain-based IP-tracking platform, has partnered with the AI startup Ritual to let builders create AI models and track their outputs on-chain. Story Protocol raised more than $54 million last year from the likes of Andreessen Horowitz ..."
     publishedDateTime: 2024-03-14T11:30:00Z

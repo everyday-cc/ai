@@ -28,15 +28,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Top Fintech Picks: 3 Stocks Changing How Money Changes Hands"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips The traditional, staid world of finance continues to progress thanks to the"
-    publishedDateTime: 2024-03-10T19:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/top-fintech-picks-3-stocks-changing-how-money-changes-hands-1033148629"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 34
   - title: "hedgehog lab promotes fintech vet to chief client officer"
     excerpt: "North East-based global tech consultancy hedgehog lab has appointed Clare Weightman as its new chief client officer."
     publishedDateTime: 2024-03-11T14:24:00Z

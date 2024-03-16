@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2024-01-22-voice-search-seo-practices-optimizing-for-the-future-of-search.md",
+      "title": "Voice Search SEO Practices: Optimizing For The Future Of Search",
+      "excerpt": "I believe that adapting strategies to optimize content for voice search should be one of the highest priorities for small-business owners.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/22/voice-search-seo-practices-optimizing-for-the-future-of-search/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/22/voice-search-seo-practices-optimizing-for-the-future-of-search/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65aac9452af0e05000b41374/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1350,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/01/22/voice-search-seo-practices-optimizing-for-the-future-of-search/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2024/01/22/voice-search-seo-practices-optimizing-for-the-future-of-search/amp/",
+      "publishedDateTime": "2024-01-22T12:44:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2024-01-22-opinion-harvard-president-failed-to-defend-free-speech.md",
       "title": "Opinion: Harvard president failed to defend free speech",
       "excerpt": "If this nation believes in free speech, as provided in the First Amendment, then the Harvard student coalition’s statement should be accorded respect — at the very least under the classic formulation “I disapprove of what you say, but I will defend to the death your right to say it.”",
@@ -1270,40 +1322,6 @@
       "provider": {
         "name": "Slator",
         "domain": "slator.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2024-01-09-voice-recognition-project-recruiting-adults-with-cerebral-palsy.md",
-      "title": "Voice recognition project recruiting adults with cerebral palsy",
-      "excerpt": "The Speech Accessibility Project is now recruiting U.S. and Puerto Rican adults with cerebral palsy. The Speech Accessibility Project is now recruiting U.S. and Puerto Rican adults with cerebral palsy. Those interested can sign up online.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/1030773",
-      "originalUrl": "https://www.eurekalert.org/news-releases/1030773",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-09T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null
