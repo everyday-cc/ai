@@ -2,58 +2,6 @@
   "page": 37,
   "value": [
     {
-      "path": "_news/2024-02-19-deepmind-uses-ai-to-tackle-neglected-deadly-diseases.md",
-      "title": "DeepMind uses AI to tackle neglected deadly diseases",
-      "excerpt": "Artificial intelligence is to be used to tackle the most deadly parasitic diseases in the developing world, tech company DeepMind has announced. The London-based Alphabet-owned lab will work with the Drugs for Neglected Diseases initiative (DNDI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-57582183?_hsenc=p2ANqtz-9FT--3HYQWbvIWWbDYSUCm5ft_BLYbyhJdYSYFk1qljTYVg12dR2_abiOrzPltz6D2fXER",
-      "originalUrl": "https://www.bbc.com/news/technology-57582183?_hsenc=p2ANqtz-9FT--3HYQWbvIWWbDYSUCm5ft_BLYbyhJdYSYFk1qljTYVg12dR2_abiOrzPltz6D2fXER",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/D36C/production/_119042145_hi066638536.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/technology-57582183.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-57582183.amp",
-      "publishedDateTime": "2024-02-18T22:15:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-19-moxie-how-this-ai-robot-is-designed-to-teach-kids-emotional-intelligence.md",
       "title": "Moxie: How This AI Robot Is Designed To Teach Kids Emotional Intelligence",
       "excerpt": "Developed by Embodied, Moxie is an AI-powered robot that can accompany, interact with and teach five-to-10 year old kids problem-solving and emotional intelligence.",
@@ -1199,6 +1147,58 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-17-samsung-galaxy-s24-ultra-vs-google-pixel-8-pro-a-tough-battle.md",
+      "title": "Samsung Galaxy S24 Ultra vs. Google Pixel 8 Pro: a tough battle",
+      "excerpt": "Beyond photographic features, the Pixel 8 Pro also includes built-in proofreading tools in Gboard, object and pet recognition for the selfie camera, and the ability for Google Assistant to summarize a web page for you. Suffice it to say that Google will ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/mobile/samsung-galaxy-s24-ultra-vs-google-pixel-8-pro/",
+      "originalUrl": "https://www.digitaltrends.com/mobile/samsung-galaxy-s24-ultra-vs-google-pixel-8-pro/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2024/02/pixel-8-pro-and-galaxy-s24-ultra.jpg?resize=1200%2C630&p=1",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/mobile/samsung-galaxy-s24-ultra-vs-google-pixel-8-pro/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/samsung-galaxy-s24-ultra-vs-google-pixel-8-pro/?amp",
+      "publishedDateTime": "2024-02-17T06:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

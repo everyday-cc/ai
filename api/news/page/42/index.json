@@ -2,57 +2,6 @@
   "page": 42,
   "value": [
     {
-      "path": "_news/2024-02-15-how-can-ai-help-more-people-access-radiology-in-kenya-and-egypt.md",
-      "title": "How Can AI Help More People Access Radiology In Kenya And Egypt?",
-      "excerpt": "A team of entrepreneurs are connecting radiologists with patients in Egypt and Kenya and using artificial intelligence to help in delivering a fast, accurate diagnosis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/andrewwight/2024/02/14/how-can-ai-help-more-people-access-radiology-in-kenya-and-egypt/",
-      "originalUrl": "https://www.forbes.com/sites/andrewwight/2024/02/14/how-can-ai-help-more-people-access-radiology-in-kenya-and-egypt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65c401ac47c88edacaaf760d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/andrewwight/2024/02/14/how-can-ai-help-more-people-access-radiology-in-kenya-and-egypt/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/andrewwight/2024/02/14/how-can-ai-help-more-people-access-radiology-in-kenya-and-egypt/amp/",
-      "publishedDateTime": "2024-02-14T17:44:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-14-enhance-amazon-connect-and-lex-with-generative-ai-capabilities.md",
       "title": "Enhance Amazon Connect and Lex with generative AI capabilities",
       "excerpt": "Effective self-service options are becoming increasingly critical for contact centers, but implementing them well presents unique challenges. Amazon Lex provides your Amazon Connect contact center with chatbot functionalities such as automatic speech recognition (ASR) and natural language understanding",
@@ -1158,6 +1107,58 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-14-a-new-era-of-drug-discovery-with-biology-driven-ai.md",
+      "title": "A New Era Of Drug Discovery With Biology-Driven AI",
+      "excerpt": "The AI and computing revolution is ushering in a new era of drug development that is poised to be better, faster and cheaper.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/14/a-new-era-of-drug-discovery-with-biology-driven-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/14/a-new-era-of-drug-discovery-with-biology-driven-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/65cb78ca62e34c5e08f238c0/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2024/02/14/a-new-era-of-drug-discovery-with-biology-driven-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2024/02/14/a-new-era-of-drug-discovery-with-biology-driven-ai/amp/",
+      "publishedDateTime": "2024-02-14T11:45:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
         "AI"
       ]
     }

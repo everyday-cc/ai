@@ -2,58 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2024-03-13-locus-robotics-success-is-a-tale-of-focusing-on-what-works.md",
-      "title": "Locus Robotics’ success is a tale of focusing on what works",
-      "excerpt": "The new software offering uses AI to process the massive troves of data collected ... Former executives from the robotics startup launched their own Locus competitor, 6 River Systems. That company has struggled in recent years, however, following its ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2024/03/12/locus-robotics-success-is-a-tale-of-focusing-on-what-works/",
-      "originalUrl": "https://techcrunch.com/2024/03/12/locus-robotics-success-is-a-tale-of-focusing-on-what-works/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2024/03/IMG_0748.jpg?resize=1200,900",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2024/03/12/locus-robotics-success-is-a-tale-of-focusing-on-what-works/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2024/03/12/locus-robotics-success-is-a-tale-of-focusing-on-what-works/amp/",
-      "publishedDateTime": "2024-03-12T17:48:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-03-13-taiwan-chip-powerhouses-see-february-sales-soar-on-ai-demand.md",
       "title": "Taiwan chip powerhouses see February sales soar on AI demand",
       "excerpt": "TAIPEI -- Taiwan's tech industry was a study in contrasts in February, as major chipmakers such as TSMC thrived on strong demand for artificial intelligence-related products while companies involved more in consumer electronics dealt with falling sales ...",
@@ -550,13 +498,13 @@
     {
       "path": "_news/2024-03-12-airports-using-biometric-facial-recognition-in-kansas.md",
       "title": "Airports using biometric facial recognition in Kansas",
-      "excerpt": "The next time you’re in a security line at the airport, you may find that instead of a Transportation Security Administration officer checking your ID, a camera and screen will use biometric",
+      "excerpt": "Spokeo used information from Customs and Border Protection to see how many airports in each state use facial recognition software for security screenings and examine the pros and cons of such a ...",
       "sourceUrl": null,
-      "webUrl": "https://www.ksn.com/news/airports-using-biometric-facial-recognition-in-kansas/",
-      "originalUrl": "https://www.ksn.com/news/airports-using-biometric-facial-recognition-in-kansas/",
+      "webUrl": "https://www.ksn.com/news/local/airports-using-biometric-facial-recognition-in-kansas/",
+      "originalUrl": "https://www.ksn.com/news/local/airports-using-biometric-facial-recognition-in-kansas/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -570,9 +518,9 @@
       ],
       "content": "",
       "type": "article",
-      "ampWebUrl": "https://www.ksn.com/news/airports-using-biometric-facial-recognition-in-kansas/amp/",
-      "cdnAmpWebUrl": "https://www-ksn-com.cdn.ampproject.org/c/s/www.ksn.com/news/airports-using-biometric-facial-recognition-in-kansas/amp/",
-      "publishedDateTime": "2024-03-12T15:14:00Z",
+      "ampWebUrl": "https://www.ksn.com/news/state-regional/airports-using-biometric-facial-recognition-in-kansas/amp/",
+      "cdnAmpWebUrl": "https://www-ksn-com.cdn.ampproject.org/c/s/www.ksn.com/news/state-regional/airports-using-biometric-facial-recognition-in-kansas/amp/",
+      "publishedDateTime": "2024-03-12T15:10:00Z",
       "updatedDateTime": null,
       "provider": {
         "name": "ksn.com",
@@ -1229,6 +1177,49 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2024-03-12-empowering-the-genai-revolution-gaurav-arora-aws.md",
+      "title": "Empowering the GenAI revolution: Gaurav Arora, AWS",
+      "excerpt": "Gaurav Arora spoke to Dataquest about how AWS is guiding Indian startups towards a future defined by innovation, collaboration, and transformative growth within the GenAI revolution",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/dqdeeptech/empowering-the-genai-revolution-gaurav-arora-aws-4327505",
+      "originalUrl": "https://www.dqindia.com/dqdeeptech/empowering-the-genai-revolution-gaurav-arora-aws-4327505",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.thepublive.com/fit-in/1200x675/dq/media/media_files/uuwNTexWvK99uOYOygO4.jpg",
+          "width": 1200,
+          "height": 565,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/dqdeeptech/empowering-the-genai-revolution-gaurav-arora-aws-4327505",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/dqdeeptech/empowering-the-genai-revolution-gaurav-arora-aws-4327505",
+      "publishedDateTime": "2024-03-12T09:09:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     }
   ],

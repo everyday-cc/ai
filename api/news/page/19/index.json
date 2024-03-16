@@ -2,48 +2,6 @@
   "page": 19,
   "value": [
     {
-      "path": "_news/2024-02-29-think-inside-the-box-container-use-cases-examples-and-applications.md",
-      "title": "Think inside the box: Container use cases, examples and applications",
-      "excerpt": "A look at some of the most common use cases and examples of container technology.\nThe post Think inside the box: Container use cases, examples and applications appeared first on IBM Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blog/containers-use-cases/",
-      "originalUrl": "https://www.ibm.com/blog/containers-use-cases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-29T20:28:09Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
       "path": "_news/2024-03-01-news-updates-from-february-29-us-pce-inflation-falls-to-24-putin-warns-of-wider-conflict-over-ukraine.md",
       "title": "News updates from February 29: US PCE inflation falls to 2.4%, Putin warns of wider conflict over Ukraine",
       "excerpt": "Boeing is paying $51mn to settle an administrative charge from the US Department of State over unauthorised exports, including to China. The US Environmental Protection Agency will exclude existing gas-fired plants in its final standards on climate pollution for the power sector, the agency announced on Thursday.",
@@ -1178,6 +1136,58 @@
       ],
       "topics": [
         "Meta AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-29-use-chatgpt-for-mock-interviews-if-you-want-to-land-a-job-says-ex-disney-recruiter.md",
+      "title": "Use ChatGPT for mock interviews if you want to land a job, says ex-Disney recruiter",
+      "excerpt": "HR executive Simon Taylor told CNBC that job seekers should use ChatGPT's voice feature to practice answering interview questions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/mock-interviews-chatgpt-land-jobs-ex-disney-recruiter-2024-2",
+      "originalUrl": "https://www.businessinsider.com/mock-interviews-chatgpt-land-jobs-ex-disney-recruiter-2024-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/65e05f0790413ab8e1d7c0ef?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/mock-interviews-chatgpt-land-jobs-ex-disney-recruiter-2024-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mock-interviews-chatgpt-land-jobs-ex-disney-recruiter-2024-2?amp",
+      "publishedDateTime": "2024-02-29T12:05:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }

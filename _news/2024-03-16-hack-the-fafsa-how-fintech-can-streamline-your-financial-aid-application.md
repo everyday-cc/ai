@@ -2,9 +2,9 @@
 category: news
 title: "Hack the FAFSA: How Fintech Can Streamline Your Financial Aid Application?"
 excerpt: "Fintech firms have developed some of the most groundbreaking business models, such as peer-to-peer lending. With access to sophisticated technologies such as big data, AI, blockchain, and advanced data security mechanisms, fintech firms are making a ..."
-publishedDateTime: 2024-03-15T23:58:00Z
-originalUrl: "https://www.theglobeandmail.com/investing/markets/commodities/HOG23/pressreleases/24829351/hack-the-fafsa-how-fintech-can-streamline-your-financial-aid-application/"
-webUrl: "https://www.theglobeandmail.com/investing/markets/commodities/HOG23/pressreleases/24829351/hack-the-fafsa-how-fintech-can-streamline-your-financial-aid-application/"
+publishedDateTime: 2024-03-15T23:50:00Z
+originalUrl: "https://www.theglobeandmail.com/investing/markets/commodities/NGZ17/pressreleases/24829351/hack-the-fafsa-how-fintech-can-streamline-your-financial-aid-application/"
+webUrl: "https://www.theglobeandmail.com/investing/markets/commodities/NGZ17/pressreleases/24829351/hack-the-fafsa-how-fintech-can-streamline-your-financial-aid-application/"
 type: article
 quality: 17
 heat: -1
@@ -34,6 +34,6 @@ related:
         height: 1024
         isCached: true
 
-secured: "euy7wfjkKR/TwmjOeZMVQJhHRJUHa5OGEChGamh7eEtma291fUObBEd3m0s6OnSL9NUazJeon3Cqz7Z+eclZQsgYNKR1lJBJMZk29OwuuzUPr3/bXJ0L2/MekjT1tplABnQkdYg5xkogKe9w5JZxgNgTn3iNZKP6/zJzAKWKZutMXXgxQSnakGbhuxC+ASG3a56tk0+Bgk4Sj0/CZw9Lb9H357BEUSMPD+Pt4oDz0CU2Ri3G8HOGmxgkPi/Zxa3yTPExtNMxXayQXWrxjr85I3xQVKWLpbFQ6fO7j/olmsTjKVll7qtn9+28CXfqFk42jnEBddG9Y6h5r143RQLtN9hJGlgJn0zpOEdfV14bcBM=;u3Hzjuqv93k8uvQz0A1ZvQ=="
+secured: "FiAU6+JoovTPRTRXLtz3CnzTXPL+1dU4ajAAv0qELiL7ExZe95FWQPwaU4bA6sgzs8xZW1mP1mlEVSebNP3FCoJVryJzkU354bJd3PDMjSegpCVj9Yggre1a0coqVvB9tOBwhe40XMlHZlt11i7W5ZslDBJ9F2s8R45WsRqsgIfzXkA0nEB3bpMaikd7pUx9tzDCPApPyQWOWToTIssNqdXypd6YILmWD2Bar2JaxxHFh7b4AnDQmLf70H9p/hvIZwo7CP0wn0ZR/7rXjYs+B+wUjEZdvk6D9j9NaWJICEaTSfp72GAwy95atmSVSL0k0f5W9fmKH/0Zs6/GzCTCzYgI7jVC74ARTrMNmd/0bN8=;5IvjSBH4KBF9WggZ8nkRiQ=="
 ---
 

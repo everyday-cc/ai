@@ -2,49 +2,6 @@
   "page": 123,
   "value": [
     {
-      "path": "_news/2023-12-05-neural-network-is-more-powerful-than-any-other-methods-of-propaganda-shevtsov.md",
-      "title": "Neural network is more powerful than any other methods of propaganda - Shevtsov",
-      "excerpt": "Neural network is more powerful than any other methods of propaganda. Political scientist Yuri Shevtsov told about it in the project \"In theme\" on YouTube-channel BELTA.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tvr.by/eng/news/obshchestvo/neyroset_moshchnee_nezheli_lyubye_drugie_metody_propagandy_shevtsov/",
-      "originalUrl": "https://www.tvr.by/eng/news/obshchestvo/neyroset_moshchnee_nezheli_lyubye_drugie_metody_propagandy_shevtsov/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tvr.by/upload/iblock/1ee/41a97ld61s9cvutzx0fapgxr28fq41sp.jpg",
-          "width": 870,
-          "height": 486,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-04T19:40:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tvr.by",
-        "domain": "www.tvr.by",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-12-05-mapping-mars-deep-learning-could-help-identify-jezero-crater-landing-site.md",
       "title": "Mapping Mars: Deep learning could help identify Jezero Crater landing site",
       "excerpt": "Preparations for a safe landing on Earth, such as finding the most even terrain and equipping the appropriate landing gear, are also crucial for Mars missions.",
@@ -1076,6 +1033,50 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2023-12-04-xiao-i-showcases-hua-zang-universal-large-language-model-and-its-cutting-edge-applications-at-abu-dhabi-finance-week.md",
+      "title": "Xiao-I Showcases Hua Zang Universal Large Language Model and Its Cutting-Edge Applications at Abu Dhabi Finance Week",
+      "excerpt": "Mr. Hui Yuan, Chairman of the Board and CEO of Xiao-I Corporation (NASDAQ: AIXI) (\"Xiao-I\" or the \"Company\"), a leading cognitive artificial intelligence (\"AI\") enterprise in China, recently took the stage at the Abu Dhabi Finance Week (\"ADFW\") alongside distinguished speakers to share a practical application of Hua Zang Universal Large Language Model (\"LLM\").",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/xiao-i-showcases-hua-zang-universal-large-language-model-and-its-cutting-edge-applications-at-abu-dhabi-finance-week-1032868782",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/xiao-i-showcases-hua-zang-universal-large-language-model-and-its-cutting-edge-applications-at-abu-dhabi-finance-week-1032868782",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-04T02:52:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Finance"
       ]
     }
   ],

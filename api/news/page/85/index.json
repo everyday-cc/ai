@@ -2,49 +2,6 @@
   "page": 85,
   "value": [
     {
-      "path": "_news/2024-01-12-what-are-the-best-paying-tech-jobs-to-have-in-2024.md",
-      "title": "What are the best paying tech jobs to have in 2024?",
-      "excerpt": "A complete list of the highest paying roles to go for in your field: software development, cybersecurity, data science, cloud, SDLC, leadership, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pluralsight.com/resources/blog/it-ops/best-paying-tech-jobs-2024",
-      "originalUrl": "https://www.pluralsight.com/resources/blog/it-ops/best-paying-tech-jobs-2024",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-12T10:18:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-01-12-startups-to-watch-rain-ai-want-to-make-ai-chips-more-like-the-human-brain.md",
       "title": "Startups to Watch: Rain AI want to make AI chips more like the human brain",
       "excerpt": "This startup is building AI chips that are designed like the human brain and can be installed directly in autonomous drones and smart devices.",
@@ -1031,6 +988,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-11-united-imaging-intelligence-highlights-dedications-to-advancing-intelligent-healthcare-at-rsna-conference-2023.md",
+      "title": "United Imaging Intelligence Highlights Dedications to Advancing Intelligent Healthcare at RSNA Conference 2023",
+      "excerpt": "The Radiological Society of North America (RSNA) has concluded its annual meeting in Chicago, IL, serving as a platform for revolutionary advancements in the field of radiology. United Imaging Intelligence (UII),",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/united-imaging-intelligence-highlights-dedications-advancing-intelligent-healthcare-rsna",
+      "originalUrl": "https://www.asiaone.com/business/united-imaging-intelligence-highlights-dedications-advancing-intelligent-healthcare-rsna",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jan2024/image_5006315_6860386_0.jpg?h=252f27fa&itok=WXDb_m7W",
+          "width": 600,
+          "height": 316,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-11T14:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     }

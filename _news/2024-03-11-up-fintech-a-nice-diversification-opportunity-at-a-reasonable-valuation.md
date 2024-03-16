@@ -27,8 +27,8 @@ images:
 related:
   - title: "Hack the FAFSA: How Fintech Can Streamline Your Financial Aid Application?"
     excerpt: "Fintech firms have developed some of the most groundbreaking business models, such as peer-to-peer lending. With access to sophisticated technologies such as big data, AI, blockchain, and advanced data security mechanisms, fintech firms are making a ..."
-    publishedDateTime: 2024-03-15T23:58:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/commodities/HOG23/pressreleases/24829351/hack-the-fafsa-how-fintech-can-streamline-your-financial-aid-application/"
+    publishedDateTime: 2024-03-15T23:50:00Z
+    webUrl: "https://www.theglobeandmail.com/investing/markets/commodities/NGZ17/pressreleases/24829351/hack-the-fafsa-how-fintech-can-streamline-your-financial-aid-application/"
     type: article
     provider:
       name: The Globe and Mail

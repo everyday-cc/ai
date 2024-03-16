@@ -67,6 +67,20 @@ related:
         width: 1280
         height: 670
         isCached: true
+  - title: "ASCII art elicits harmful responses from 5 major AI chatbots"
+    excerpt: "ArtPrompt is what’s known as a jailbreak, a class of AI attack that elicits harmful behaviors from aligned LLMs, such as saying something illegal or unethical. Prompt injection attacks trick an LLM into doing things that aren't necessarily harmful or unethical but override the LLM's original instructions nonetheless."
+    publishedDateTime: 2024-03-16T00:17:00Z
+    webUrl: "https://arstechnica.com/security/2024/03/researchers-use-ascii-art-to-elicit-harmful-responses-from-5-major-ai-chatbots/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 67
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2024/03/ascii-art-hacker-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "More Than Chatbots: AI Trends Driving Conversational Experiences For Customers"
     excerpt: "It's evident that businesses continuously need to adapt to changing communication trends driven by advancements in technology."
     publishedDateTime: 2024-03-15T11:30:00Z

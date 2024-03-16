@@ -46,49 +46,6 @@
       ]
     },
     {
-      "path": "_news/2024-03-13-visa-joins-dubai-fintech-summit-as-founding-partner-co-host.md",
-      "title": "Visa joins Dubai FinTech Summit as Founding Partner & Co-Host",
-      "excerpt": "The collaboration reinforces Dubai FinTech Summit and Visa’s shared commitment to nurture and strengthen the global financial ecosystem through innovation, meaningful discussions and connections. Dubai: Visa, a global leader in digital payments ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/events-and-conferences/visa-joins-dubai-fintech-summit-as-founding-partner-and-co-host-ud3mw8yk",
-      "originalUrl": "https://www.zawya.com/en/press-release/events-and-conferences/visa-joins-dubai-fintech-summit-as-founding-partner-and-co-host-ud3mw8yk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/view/acePublic/alias/contentid/M2MzOTY1NjAtNWE4Yi00/0/mousigningpicture3-jpg.jpeg?f=3%3A2",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/en/press-release/events-and-conferences/visa-joins-dubai-fintech-summit-as-founding-partner-and-co-host-ud3mw8yk?amp=1",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/en/press-release/events-and-conferences/visa-joins-dubai-fintech-summit-as-founding-partner-and-co-host-ud3mw8yk?amp=1",
-      "publishedDateTime": "2024-03-13T05:51:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-03-13-teachers-venture-growth-mints-new-unicorn-in-indian-fintech-perfios.md",
       "title": "Teachers’ Venture Growth mints new unicorn in Indian fintech Perfios",
       "excerpt": "Teachers’ Venture Growth, the late-stage venture and growth investment arm of Ontario Teachers’ Pension Plan, is investing $80 million in Perfios, an Indian fintech that provides real-time credit underwriting solutions to banks and other financial ...",
@@ -363,6 +320,51 @@
       "topics": [
         "AI in Finance",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-07-quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization.md",
+      "title": "Quisitive Awarded the AI and Machine Learning in Microsoft Azure Specialization",
+      "excerpt": "The AI and Machine Learning specialization recognizes ... use of the Company’s services for improper or illegal purposes; global economic and financial market conditions; uninsurable risks; changes in project parameters as plans continue to be evaluated ...",
+      "sourceUrl": null,
+      "webUrl": "https://financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization",
+      "originalUrl": "https://financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dcs-static.gprod.postmedia.digital/15.6.0/websites/images/canada/fallback.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization/wcm/ba3e0bf0-f7ce-4c4a-9213-b5d8012c4cd3/amp/",
+      "cdnAmpWebUrl": "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/globe-newswire/quisitive-awarded-the-ai-and-machine-learning-in-microsoft-azure-specialization/wcm/ba3e0bf0-f7ce-4c4a-9213-b5d8012c4cd3/amp/",
+      "publishedDateTime": "2024-03-07T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Post",
+        "domain": "financialpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
       ]
     },
     {

@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Airports using biometric facial recognition in Kansas"
-excerpt: "The next time you’re in a security line at the airport, you may find that instead of a Transportation Security Administration officer checking your ID, a camera and screen will use biometric"
-publishedDateTime: 2024-03-12T15:14:00Z
-originalUrl: "https://www.ksn.com/news/airports-using-biometric-facial-recognition-in-kansas/"
-webUrl: "https://www.ksn.com/news/airports-using-biometric-facial-recognition-in-kansas/"
-ampWebUrl: "https://www.ksn.com/news/airports-using-biometric-facial-recognition-in-kansas/amp/"
-cdnAmpWebUrl: "https://www-ksn-com.cdn.ampproject.org/c/s/www.ksn.com/news/airports-using-biometric-facial-recognition-in-kansas/amp/"
+excerpt: "Spokeo used information from Customs and Border Protection to see how many airports in each state use facial recognition software for security screenings and examine the pros and cons of such a ..."
+publishedDateTime: 2024-03-12T15:10:00Z
+originalUrl: "https://www.ksn.com/news/local/airports-using-biometric-facial-recognition-in-kansas/"
+webUrl: "https://www.ksn.com/news/local/airports-using-biometric-facial-recognition-in-kansas/"
+ampWebUrl: "https://www.ksn.com/news/state-regional/airports-using-biometric-facial-recognition-in-kansas/amp/"
+cdnAmpWebUrl: "https://www-ksn-com.cdn.ampproject.org/c/s/www.ksn.com/news/state-regional/airports-using-biometric-facial-recognition-in-kansas/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -41,7 +41,21 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "ICO orders Serco to stop using facial recognition technology to monitor staff"
+    excerpt: "The Information Commissioner’s Office (ICO) has recently ordered Serco Leisure to stop using facial recognition technology (FRT) and fingerprint"
+    publishedDateTime: 2024-03-12T10:56:00Z
+    webUrl: "https://www.ibblaw.co.uk/insights/ico-serco-frt-staff"
+    type: article
+    provider:
+      name: IBB Solicitors
+      domain: ibblaw.co.uk
+    quality: 36
+    images:
+      - url: "https://www.ibblaw.co.uk/wp-content/uploads/2024/03/FRT.png"
+        width: 931
+        height: 512
+        isCached: true
 
-secured: "9BfAU6G+9c1VB+3Y6Sq38DtBe1RBfuUgHBV5ZJe9K2oNjdmvSUGgE7BJ2rtSg6Obc6q3uwPihzAKyrcymmZR1G/He/cRn1Gw6kFSPAyh+zvL4NN3ODUMVt9UCwqA9km7UC6I4STcY5zAf9RAYjv8z1WRBp0KELq1iEMN0nT6kqloCkdGuJ/AwWs7HKaBQuXPavkfOTBvYKdPpfNOP96+hOeOqn5k4SjzvqeXk6lwsPArGj+/0QFv6P3jnaRVSXSvOdmGRVVCzJI7KyozpIApe2dNKMBwc4WpBdS4GS0tqNKUqhTYv0dp12TCyTZf7JNsudrc8cyOWc36OefROuOP6lRy51RNIhijRiS2QhpF1C4=;BftJqEUqnaJfl2Sz66OG3w=="
+secured: "t5bAt5VWqeKOFElacFxqMLN1jtm0H5PO+vSNOU4dGNAhHu8zrXW45E63bXzE9lleiJMjY74lDOyN0ojYjaUoI5moCJ92MXniLv0nAtnFOF9jK8pjmrpvQEzyJlopszTxKuh0mDbdphWBz7j8EBzAxurGFiH8dBCTsyRsYVVB9u5MewhPvzvgpH/QjeVCuNrC1Q9tK0lsrTLI9mXxpfXt9SW5auX9jOARrOBqnrTHzNeOda+QCLmS70eS4rYKEsBoJEGaiyGc0G9Afmo68lxq0sARRyKlHjEdOp3DgxDRfEyOC22nLgZeauDr0T+FS+Mvl1tg6S2g7kEWvg4dm7b4pe+GNeHm0P2qgUmL7q0ZaCs=;5ykd61K8OYsCCVdpMUdlfw=="
 ---
 

@@ -2,9 +2,9 @@
 category: news
 title: "AI startup Cerebras unveils the WSE-3, the largest chip yet for generative AI"
 excerpt: "The chip, the size of a single semiconductor wafer, has doubled performance to handle large language models in the tens of trillions of parameters."
-publishedDateTime: 2024-03-13T13:00:00Z
-originalUrl: "https://www.zdnet.com/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/?ref=upstract.com"
-webUrl: "https://www.zdnet.com/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/?ref=upstract.com"
+publishedDateTime: 2024-03-13T06:00:00Z
+originalUrl: "https://www.zdnet.com/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/"
+webUrl: "https://www.zdnet.com/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/"
 ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-cerebras-unveils-the-largest-chip-yet-for-generative-ai/"
 type: article
@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - AI Hardware
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.zdnet.com/a/img/resize/ae31154ea474b18f8cee28ac96cedae0c8b190c1/2024/03/13/0036db94-4241-4f06-a8eb-1eef2c4c37be/cerebras-2024-wse-3-3.png?auto=webp&fit=crop&height=675&width=1200"
@@ -126,6 +126,6 @@ related:
       domain: beebom.com
     quality: 17
 
-secured: "isZmd7LG7+xnw+7zjUUuG8FwwTqp9jUimkBcKRtwSo7CrJmoOVERaFhQNMeZjdB7P8uB8ODPmtN9nckatg788K/cEeDNwWsk52oEsGAQ1r8eRe8omevxWq3/H3hIrkUkhB8UwIpEiGS9Ys8HfYIRPc4pSTz6TYZNuZ0uD0gWQIR3QKng+7wxKr772ADte1qi3yl3i0/rtLp7sxzHL3hsbiB3IFGtygY+4lR1o1Fw/NzSt/IRxWS0aN8szLEOo8eIPHIwkfQia4vD9riZbCHVLrqanZh9dy4q7M6Te3cwyKzwwE0MAZUV9GhA7RT1xrHPjGPdav+XsyKnKsk4woNARVWoz1XEIoULbTJG5w74BKk=;FWDBkmUZ5qPLl2mSwgZUPg=="
+secured: "jZPtZe/4oyqfyDip2jHTqg8Kb0TVb1lOKtBN/4LIwZlI8x21E6loYJS+e9kV4OGnXhSjYCmQLocNb8/BDqMvFaFlUad/C0Aav+/Qv41IjK1kj+K8O2rmNni0Y7DoHJsigsq/L4eImU12O1f/qK5LadylApJtmUsSdVYmLy9mGeM+0KoGL/y5BM+mW2q9zR9wa/o2gU8Qehd8azcIcLDrgx6Inpeo5Z9dUMWajaXR+mTglKplFu9fp1Za8ocz4hQDt+zF4FtuDx2qf9tVSMb8JUKKGxg6IM95PDlVLbK2sHrRRIq9brpR//iKMLDkpfKHLkMrexUdVs9IO6dgsvLO65QSR2YWbFZPXjYRPa8TNT0=;aUJgn4driv170cltiDMEsA=="
 ---
 

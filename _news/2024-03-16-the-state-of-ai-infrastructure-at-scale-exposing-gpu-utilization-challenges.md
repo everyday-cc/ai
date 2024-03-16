@@ -6,7 +6,7 @@ publishedDateTime: 2024-03-15T21:59:00Z
 originalUrl: "https://www.digitaljournal.com/business/the-state-of-ai-infrastructure-at-scale-exposing-gpu-utilization-challenges/article"
 webUrl: "https://www.digitaljournal.com/business/the-state-of-ai-infrastructure-at-scale-exposing-gpu-utilization-challenges/article"
 type: article
-quality: 51
+quality: 53
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.digitaljournal.com/wp-content/uploads/2023/05/155a3d83afee2eb65bc02e368943b90e935aa0fe.jpg"
@@ -51,6 +52,6 @@ related:
       domain: cnas.org
     quality: 19
 
-secured: "IsKXITDJU1OmD7c1qlhkvbd2vTbGVrKFMpTDjYVZdDEDRmALfxELsEtDwPgaUH1Fd+e+loCbcL4+MdlNnJ7us7Jw67UrOV5z3kYcjiPJyN+UKOeBRmB54BblgCsNSd6c2g32dNlTcPCO2POtD4lYoLrjnmpXXOu/RQn/Nzbetyw+wJEclqsbVxoEaA5q5lo/vtRX9EpZ6peN5fKJH5d3KCT2JYsAd8oFk219/PLcPakF0cTpY0OOerF8B1L8CpubpP+9X/A+TbTsUpeyZoIGtkD5joFldQGIgHnQe4irU9y+KI3MPcpnvAceLeyXUA5VEwB+fMpIYKtsf6MxnRxTSRPjMLSCTP4J4NhF05VnzIQ=;vN5qKoNnCE1lmILRpl4jUQ=="
+secured: "mNtCyYasnYVtgomdVW1g4eWQBSsNkFy3fEFsXHgxBYWt8TY8mgPeLTq76pMNHc7eaXyfBhc5d1fgZZwwfJ/HiaPKCrRDMg24h/u3X4u47VDCtfFkSW+0Jy6cgPp9y4XZsk4xzd7nXS0NMORzYBrhkzPL/gD3/rcGVn99KpGG5a8JN3U6/cIwuC4mJAyhAbA7wYH0sNBiYl1Gkzxjbo9FXVe5l5U+U2V/HikYOt4xyaeonUTRNWB9vHnJmtWaK1zq4jcP4nIqFpB89EofwUHLrsIP9iZBep2XlLxA0fZR11Rri9cp0GLwoubdaMG3B5xy7ExkVVJuwUq3blxnO1NaBpSboz6MIArofHROO2aQ3mYKehKGz6rMqztZmjwAP/KeZQ3pHFOOG/tghRucfSo8zFnaNl91R6Ri3F9O+SdZEXyg13YkqD9qHF7YJYwN3Mf0J/aX7aK0OdYUUDl783lEOAby7BUNE9omJwQai4RTg7fzZhGgY52gyKyP38rignXas4brjYYwl3cX7DAR7z24tg==;NyX3m30RO+05ZyGL2Qh7TQ=="
 ---
 

@@ -2,49 +2,6 @@
   "page": 77,
   "value": [
     {
-      "path": "_news/2024-01-19-meta-to-develop-artificial-general-intelligence.md",
-      "title": "Meta To Develop Artificial General Intelligence",
-      "excerpt": "The Facebook founder said that Meta had built ... He further said that two of the company's AI research teams - FAIR and GenAI are working together to accelerate this project.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/meta-to-develop-artificial-general-intelligence-1032981000",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/meta-to-develop-artificial-general-intelligence-1032981000",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-01-19T15:21:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-01-19-figure-01-humanoid-robot-learns-to-make-coffee-by-watching-videos.md",
       "title": "Figure-01: Humanoid Robot Learns to Make Coffee By Watching Videos",
       "excerpt": "The Figure-01 robot, equipped with artificial intelligence (AI), showcased its ability to watch and learn from human actions during a demonstration at Figure's San Francisco headquarters. Responding to a human request for coffee, the robot, having ...",
@@ -1170,6 +1127,40 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-01-19-mark-zuckerberg-wants-to-build-artificial-general-intelligence-agi.md",
+      "title": "Mark Zuckerberg wants to build Artificial General Intelligence (AGI)",
+      "excerpt": "Mark Zuckerberg is planning more AI as the focus of global tech majors ... known for creating Facebook, the first widely used social media platform. It’s still in operation today and continues ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidheadlines.com/2024/01/mark-zuckerberg-wants-to-build-artificial-general-intelligence-agi.html",
+      "originalUrl": "https://www.androidheadlines.com/2024/01/mark-zuckerberg-wants-to-build-artificial-general-intelligence-agi.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-01-19T00:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android",
+        "domain": "androidheadlines.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
         "AI"
       ]
     }

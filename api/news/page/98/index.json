@@ -2,57 +2,6 @@
   "page": 98,
   "value": [
     {
-      "path": "_news/2023-12-22-how-ai-could-shake-up-alternative-financing.md",
-      "title": "How AI Could Shake Up Alternative Financing",
-      "excerpt": "The financial services sector has historically resisted large-scale change until new offerings were sufficiently vetted, easily deployable and standardized. Innovations such as credit cards, electronic payment systems, blockchains and peer-to-peer lending took several years to be embraced in the banking and finance industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/12/22/how-ai-could-shake-up-alternative-financing/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/12/22/how-ai-could-shake-up-alternative-financing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/65846eb6688e37659b2f7349/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2023/12/22/how-ai-could-shake-up-alternative-financing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2023/12/22/how-ai-could-shake-up-alternative-financing/amp/",
-      "publishedDateTime": "2023-12-22T11:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2023-12-22-expect-a-deepfakes-boom-as-hackers-master-use-of-ai-machine-learning.md",
       "title": "Expect A Deepfakes Boom As Hackers Master Use Of AI, Machine Learning",
       "excerpt": "With the growth of Large Language Models (LLMs) like OpenAI's ChatGPT, Artificial Intelligence (AI) exploded in the public a",
@@ -1188,6 +1137,49 @@
         "AI",
         "Microsoft AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2023-12-22-some-news-orgs-burnish-their-brands-by-giving-ai-the-cold-shoulder.md",
+      "title": "Some news orgs burnish their brands by giving AI the cold shoulder",
+      "excerpt": "You know things are getting weird when people’s grandparents are playing with technology that over half the population thinks is bad news and many think is the beginning of the end of humanity. Not Facebook. ChatGPT.",
+      "sourceUrl": null,
+      "webUrl": "https://www.niemanlab.org/2023/12/some-news-orgs-burnish-their-brands-by-giving-ai-the-cold-shoulder/",
+      "originalUrl": "https://www.niemanlab.org/2023/12/some-news-orgs-burnish-their-brands-by-giving-ai-the-cold-shoulder/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.niemanlab.org/images/ben-brock-johnson-2023.jpeg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-21T16:01:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nieman Journalism Lab",
+        "domain": "niemanlab.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Meta AI",
+        "AI"
       ]
     }
   ],

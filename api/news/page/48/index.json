@@ -2,40 +2,6 @@
   "page": 48,
   "value": [
     {
-      "path": "_news/2024-02-11-general-intelligence-embodied-in-a-humanoid-robot.md",
-      "title": "General Intelligence Embodied in a Humanoid Robot",
-      "excerpt": "His blog Nextbigfuture.com is ranked #1 Science News Blog. It covers many disruptive technology and trends including Space, Robotics, Artificial Intelligence, Medicine, Anti-aging Biotechnology, and Nanotechnology. Known for identifying cutting edge ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextbigfuture.com/2024/02/general-intelligence-embodied-in-a-humanoid-robot.html",
-      "originalUrl": "https://www.nextbigfuture.com/2024/02/general-intelligence-embodied-in-a-humanoid-robot.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-02-11T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NextBigFuture",
-        "domain": "nextbigfuture.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-02-11-imran-khans-victory-speech-from-jail-shows-ais-peril-and-promise.md",
       "title": "Imran Khan’s ‘Victory Speech’ From Jail Shows A.I.’s Peril and Promise",
       "excerpt": "But from behind bars, he has been rallying his supporters in recent months with speeches that use artificial intelligence to replicate his voice, part of a tech-savvy strategy his party deployed ...",
@@ -1118,6 +1084,50 @@
       "topics": [
         "AI Ethics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-02-09-60-of-all-pcs-sales-in-2027-will-be-equipped-with-an-ai-chip-forecasts-idc.md",
+      "title": "60% of all PCs sales in 2027 will be equipped with an AI chip forecasts IDC",
+      "excerpt": "Imagine a world where your computer not only understands your commands but also anticipates your needs, learns from your habits, and protects your privacy",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/artificial-intelligent-ai-pc-sales-forecast/",
+      "originalUrl": "https://www.geeky-gadgets.com/artificial-intelligent-ai-pc-sales-forecast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2024/02/AI-PCs.jpg",
+          "width": 1280,
+          "height": 764,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-02-09T13:51:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
       ]
     }
   ],

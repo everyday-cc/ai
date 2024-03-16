@@ -26,11 +26,11 @@ images:
 
 related:
   - title: "Airports using biometric facial recognition in Kansas"
-    excerpt: "The next time you’re in a security line at the airport, you may find that instead of a Transportation Security Administration officer checking your ID, a camera and screen will use biometric"
-    publishedDateTime: 2024-03-12T15:14:00Z
-    webUrl: "https://www.ksn.com/news/airports-using-biometric-facial-recognition-in-kansas/"
-    ampWebUrl: "https://www.ksn.com/news/airports-using-biometric-facial-recognition-in-kansas/amp/"
-    cdnAmpWebUrl: "https://www-ksn-com.cdn.ampproject.org/c/s/www.ksn.com/news/airports-using-biometric-facial-recognition-in-kansas/amp/"
+    excerpt: "Spokeo used information from Customs and Border Protection to see how many airports in each state use facial recognition software for security screenings and examine the pros and cons of such a ..."
+    publishedDateTime: 2024-03-12T15:10:00Z
+    webUrl: "https://www.ksn.com/news/local/airports-using-biometric-facial-recognition-in-kansas/"
+    ampWebUrl: "https://www.ksn.com/news/state-regional/airports-using-biometric-facial-recognition-in-kansas/amp/"
+    cdnAmpWebUrl: "https://www-ksn-com.cdn.ampproject.org/c/s/www.ksn.com/news/state-regional/airports-using-biometric-facial-recognition-in-kansas/amp/"
     type: article
     provider:
       name: ksn.com
@@ -40,6 +40,20 @@ related:
       - url: "https://www.ksn.com/wp-content/uploads/sites/13/2023/05/facial.jpg?w=1280"
         width: 1280
         height: 720
+        isCached: true
+  - title: "ICO orders Serco to stop using facial recognition technology to monitor staff"
+    excerpt: "The Information Commissioner’s Office (ICO) has recently ordered Serco Leisure to stop using facial recognition technology (FRT) and fingerprint"
+    publishedDateTime: 2024-03-12T10:56:00Z
+    webUrl: "https://www.ibblaw.co.uk/insights/ico-serco-frt-staff"
+    type: article
+    provider:
+      name: IBB Solicitors
+      domain: ibblaw.co.uk
+    quality: 36
+    images:
+      - url: "https://www.ibblaw.co.uk/wp-content/uploads/2024/03/FRT.png"
+        width: 931
+        height: 512
         isCached: true
 
 secured: "4l8x3OPgjZYmcQp4259oqDdfgAJYn/VaqSZllzVJO5yYqeHYzdavAlJ85Mdwr6MEq90r7Zli1zN0gIQ9pUcNvGDQ8Z3h7kPWjrUrQWTSZYIs51aVwoXvYbn+pJY3wUMGS8tvx+kCG22lBaHh8NwfMSdPyym6Er42wVhxP3O03p5aJSfkx9Ir8Irh42zAJ1PMdPE3e5sY4DQiQlL3U/iRND8DUoSJZ06yOvNC0acvgzRV4pLUrYjbQqBQ2EEHqtNrlVpCXTCYElYCzOrF6pKkqQvgNFPNADrVKfOAVQr11rWuHBpokO4gGCOkceS6Mv7ffYvj+8TpoEr75iZf+ZfrEDzqS0s6rc00Wygb1ywu0UYZs61hTkV3wFcJhClgupj7rZ73AwOBXwoLs9v1xoCEp6BtZ0nJ1DDSJIGC5GGf380GQiL9EitC7u198xSwpl77Im3sH3Mbxwx1FXpmU3+EIw7WY0nrSnuQhl/e/UvmVRbTb0CWPrRiyihK6wUsaz3uafZjQInTt7QaNYDWGJHWoA==;+Uhdpn2/pWqA2sHRB4QBaA=="

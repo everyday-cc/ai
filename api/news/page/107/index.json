@@ -2,59 +2,6 @@
   "page": 107,
   "value": [
     {
-      "path": "_news/2023-12-15-solix-launches-new-enterprise-data-platform-for-the-gen-ai-era.md",
-      "title": "Solix launches new enterprise data platform for the gen AI era",
-      "excerpt": "As its name implies, the CDP acts as a centralized repository that organizes an enterprise's various data assets.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/data-infrastructure/solix-launches-new-enterprise-data-platform-for-the-gen-ai-era/",
-      "originalUrl": "https://venturebeat.com/data-infrastructure/solix-launches-new-enterprise-data-platform-for-the-gen-ai-era/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2023/12/cfr0z3n_vector_art_line_art_flat_illustration_style_multiple_cl_41a255b1-2221-4893-933f-b62cea6e909e.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 672,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2023-12-15T08:26:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Meta AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2023-12-15-kettering-university-plunges-into-artificial-intelligence-with-ai-degrees.md",
       "title": "Kettering University plunges into artificial intelligence with AI degrees",
       "excerpt": "From social obscurity in the 80s to a hot topic in 2023, artificial intelligence is on the rise. At Kettering University, they are taking the plunge into the new-age technology with their Master of Engineering in Artificial Intelligence program.",
@@ -1224,6 +1171,58 @@
       "topics": [
         "IBM AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2023-12-14-microsoft-is-a-leader-in-the-2023-idc-marketscape-for-ai-governance-platforms.md",
+      "title": "Microsoft is a leader in the 2023 IDC MarketScape for AI Governance Platforms",
+      "excerpt": "We are excited to announce that Microsoft Azure is recognized as a leader in the inaugural IDC MarketScape for AI Governance Platforms. IDC looked at AI governance platforms that ensure AI and machine learning lifecycle governance, collaborative risk management, and regulatory excellence for AI.\nThe",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/en-us/blog/microsoft-is-a-leader-in-the-2023-idc-marketscape-for-ai-governance-platforms/",
+      "originalUrl": "https://azure.microsoft.com/en-us/blog/microsoft-is-a-leader-in-the-2023-idc-marketscape-for-ai-governance-platforms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2023/12/MS_AI_Education-social.jpg",
+          "width": 943,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2023-12-14T17:00:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     }
   ],

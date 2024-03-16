@@ -2,49 +2,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_news/2024-03-06-type-1-diabetes-from-the-dream-of-automated-insulin-delivery-to-a-fully-artificial-pancreas.md",
-      "title": "Type 1 diabetes: from the dream of automated insulin delivery to a fully artificial pancreas",
-      "excerpt": "Automated insulin delivery systems have transformed the care of people living with type 1 diabetes and continue to move closer to the ultimate goal of a fully autonomous artificial pancreas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41591-024-00013-5",
-      "originalUrl": "https://www.nature.com/articles/d41591-024-00013-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nature.com/lw1024/magazine-assets/d41591-024-00013-5/d41591-024-00013-5_26818890.png",
-          "width": 938,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2024-03-06T00:00:00Z",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2024-03-06-google-says-its-purging-all-the-ai-trash-littering-its-search-results.md",
       "title": "Google Says It’s Purging All the AI Trash Littering Its Search Results",
       "excerpt": "The company announced changes to its algorithm to deamplify websites that \"feel like they were created for search engines instead of people.\"",
@@ -1207,6 +1164,40 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2024-03-05-baidu-a-cheap-ai-play-ignored-by-the-market.md",
+      "title": "Baidu: A Cheap AI Play Ignored By The Market",
+      "excerpt": "Baidu's shares are trading near 1-year lows despite better-than-expected earnings for Q4. The company's AI chatbot, Ernie, is seeing momentum and is being integrated into Baidu's digital marketing ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4675900-baidu-a-cheap-ai-play-ignored-by-the-market",
+      "originalUrl": "https://seekingalpha.com/article/4675900-baidu-a-cheap-ai-play-ignored-by-the-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2024-03-05T11:33:00Z",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }
